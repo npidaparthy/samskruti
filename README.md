@@ -1,2 +1,1 @@
-# samskruti
-samskruti(TBD)
+# npidaparthy.github.io
