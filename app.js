@@ -3,7 +3,8 @@ let works = {};
 let currentWork = null;
 let currentSection = null;
 let fuse = null;
-let bookmarks = JSON.parse(localStorage.getElementById('stotraBookmarks') || '[]');
+let bookmarks = JSON.parse(localStorage.getItem('stotraBookmarks') || '[]');
+
 
 // DOM elements
 const treeMenu = document.getElementById('treeMenu');
