@@ -152,19 +152,19 @@ function renderShlokas(shlokas) {
     const shlokaEl = document.createElement('div');
     shlokaEl.className = `shloka ${index % 2 === 0 ? 'even' : 'odd'}`;
     
-    const textEl = document.createElement('div');
-    textEl.className = 'shloka-text';
-    textEl.textContent = shloka.text;
+    // Split shloka text into lines (split on natural breaks or approx middle)
+    const lines = shloka.text.split('\n').filter(line => line.trim());
+    const formattedText = lines.map(line => `<div class="shloka-line">${line.trim()}</div>`).join('') + 
+                         `<div class="shloka-number">॥${shloka.id}॥</div>`;
     
-    const actionsEl = document.createElement('div');
-    actionsEl.className = 'shloka-actions';
-    // bookmark button removed
-    // actionsEl.innerHTML = `...`;
+    shlokaEl.innerHTML = `
+      <div class="shloka-text">${formattedText}</div>
+    `;
     
-    shlokaEl.append(textEl, actionsEl);
     shlokasContainer.appendChild(shlokaEl);
   });
 }
+
 
 // 5. Search
 function initSearch() {
