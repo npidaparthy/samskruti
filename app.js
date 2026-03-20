@@ -232,26 +232,24 @@ function renderSearchResults(results) {
 
 // 7. Event listeners
 function initEventListeners() {
-  // Mobile menu
-  menuBtn.onclick = () => sidebarLeft.classList.toggle('open');
-  rightMenuBtn.onclick = () => sidebarRight.classList.toggle('open');
-  
-  // Settings
-  settingsBtn.onclick = () => settingsPanel.style.display = 
-    settingsPanel.style.display === 'block' ? 'none' : 'block';
-  
-  // Font size
-  document.getElementById('fontSize').oninput = updateFontSize;
-  
-  // Transliteration
-  translitSelect.onchange = applyTransliteration;
-  
-  // Close settings on outside click
-  document.onclick = (e) => {
-    if (!settingsPanel.contains(e.target) && !settingsBtn.contains(e.target)) {
-      settingsPanel.style.display = 'none';
-    }
-  };
+// Mobile menu - FIXED to close properly
+menuBtn.onclick = () => {
+  sidebarLeft.classList.toggle('open');
+  menuBtn.classList.toggle('active');  // Visual feedback
+};
+
+rightMenuBtn.onclick = () => {
+  sidebarRight.classList.toggle('open');
+  rightMenuBtn.classList.toggle('active');
+};
+
+// Close menu when clicking tree items or outside
+document.addEventListener('click', (e) => {
+  if (!sidebarLeft.contains(e.target) && !menuBtn.contains(e.target)) {
+    sidebarLeft.classList.remove('open');
+    menuBtn.classList.remove('active');
+  }
+});
 }
 
 function updateFontSize() {
