@@ -184,7 +184,6 @@ function renderShlokas(shlokas) {
     shlokaEl.innerHTML = `
       <div class="shloka-text">
         ${linesHTML}
-        <div class="shloka-number">॥${shloka.verseNum}॥</div>
       </div>
     `;
     
