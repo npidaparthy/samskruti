@@ -178,7 +178,12 @@ function renderShlokas(shlokas) {
     const shlokaEl = document.createElement('div');
     shlokaEl.className = `shloka ${index % 2 === 0 ? 'even' : 'odd'}`;
     
-    const linesHTML = shloka.lines.map(line => 
+    // Apply selected transliteration to EACH shloka
+    const transliteratedLines = shloka.lines.map(line => 
+      Sanscript.t(line, 'devanagari', selectedScript)
+    );
+    
+    const linesHTML = transliteratedLines.map(line => 
       `<div class="shloka-line">${line}</div>`
     ).join('');
     
