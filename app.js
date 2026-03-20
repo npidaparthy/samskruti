@@ -68,16 +68,41 @@ async function loadManifestAndContent() {
   }
 }
 
+// function parseShlokas(text) {
+//   return text.split('\n\n') // split on blank lines
+//     .map(block => block.trim())
+//     .filter(block => block && !block.startsWith('#'))
+//     .map((block, index) => ({
+//       id: index + 1,
+//       text: block.split('\n').filter(line => !line.startsWith('<')).join('\n'),
+//       tags: extractTags(block),
+//     }));
+// }
 function parseShlokas(text) {
-  return text.split('\n\n') // split on blank lines
+  // Split into individual shlokas first (double newlines)
+  const shlokasRaw = text.split('\n\n')
     .map(block => block.trim())
-    .filter(block => block && !block.startsWith('#'))
-    .map((block, index) => ({
-      id: index + 1,
-      text: block.split('\n').filter(line => !line.startsWith('<')).join('\n'),
-      tags: extractTags(block),
-    }));
+    .filter(block => block && !block.startsWith('#'));
+  
+  return shlokasRaw.map((block, shlokaIndex) => {
+    // Within each shloka, split into poetic lines (single newlines)
+    const lines = block.split('\n')
+      .map(line => line.trim())
+      .filter(line => line);
+    
+    // Extract verse number from last line (ends with ॥1.2॥ pattern)
+    const verseNumMatch = lines[lines.length - 1]?.match(/॥(\d+(?:\.\d+)?)॥$/);
+    const verseNum = verseNumMatch ? verseNumMatch[1] : (shlokaIndex + 1);
+    
+    return {
+      id: shlokaIndex + 1,
+      verseNum: verseNum,
+      lines: lines.slice(0, -1),  // All lines except verse number
+      tags: extractTags(block)
+    };
+  });
 }
+
 
 function extractTags(block) {
   const tagMatches = block.match(/<([^>]+)>/g);
@@ -152,13 +177,15 @@ function renderShlokas(shlokas) {
     const shlokaEl = document.createElement('div');
     shlokaEl.className = `shloka ${index % 2 === 0 ? 'even' : 'odd'}`;
     
-    // Split shloka text into lines (split on natural breaks or approx middle)
-    const lines = shloka.text.split('\n').filter(line => line.trim());
-    const formattedText = lines.map(line => `<div class="shloka-line">${line.trim()}</div>`).join('') + 
-                         `<div class="shloka-number">॥${shloka.id}॥</div>`;
+    const linesHTML = shloka.lines.map(line => 
+      `<div class="shloka-line">${line}</div>`
+    ).join('');
     
     shlokaEl.innerHTML = `
-      <div class="shloka-text">${formattedText}</div>
+      <div class="shloka-text">
+        ${linesHTML}
+        <div class="shloka-number">॥${shloka.verseNum}॥</div>
+      </div>
     `;
     
     shlokasContainer.appendChild(shlokaEl);
