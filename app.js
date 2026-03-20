@@ -1,4 +1,5 @@
 // Global state
+let selectedScript = localStorage.getItem('selectedScript') || 'telugu';
 let works = {};
 let currentWork = null;
 let currentSection = null;
