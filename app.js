@@ -3,8 +3,6 @@ let works = {};
 let currentWork = null;
 let currentSection = null;
 let fuse = null;
-let bookmarks = JSON.parse(localStorage.getItem('stotraBookmarks') || '[]');
-
 
 // DOM elements
 const treeMenu = document.getElementById('treeMenu');
@@ -17,13 +15,13 @@ const settingsPanel = document.getElementById('settingsPanel');
 const menuBtn = document.getElementById('menuBtn');
 const sidebarLeft = document.getElementById('sidebarLeft');
 const rightMenuBtn = document.getElementById('rightMenuBtn');
-const bookmarksList = document.getElementById('bookmarksList');
+// removed: const bookmarksList = document.getElementById('bookmarksList');
 
 // Init
 document.addEventListener('DOMContentLoaded', async () => {
   await loadManifestAndContent();
   initEventListeners();
-  renderBookmarks();
+  // removed: renderBookmarks();
   updateFontSize();
 });
 
@@ -77,9 +75,7 @@ function parseShlokas(text) {
     .map((block, index) => ({
       id: index + 1,
       text: block.split('\n').filter(line => !line.startsWith('<')).join('\n'),
-      // Parse inline tags if present
       tags: extractTags(block),
-      // Add more parsing for audio, grammar etc. later
     }));
 }
 
@@ -94,7 +90,6 @@ function titleFromSectionId(id) {
     'uttara-peethika': 'ఉత్తర పీఠిక',
     'stotram': 'స్తోత్రం',
     'adhyaya-01': 'అధ్యాయం 01'
-    // Add more mappings as needed
   };
   return titles[id] || id.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
 }
@@ -133,7 +128,6 @@ function selectWork(workId) {
   currentWork = works[workId];
   document.querySelectorAll('.tree-item').forEach(el => el.classList.remove('active'));
   event.target.classList.add('active');
-  // Auto‑select first section
   if (currentWork.sections) {
     const firstSectionId = Object.keys(currentWork.sections)[0];
     selectSection(workId, firstSectionId);
@@ -164,11 +158,8 @@ function renderShlokas(shlokas) {
     
     const actionsEl = document.createElement('div');
     actionsEl.className = 'shloka-actions';
-    actionsEl.innerHTML = `
-      <button onclick="addBookmark('${currentWork.id}', '${currentSection.id}', ${shloka.id})">
-        ⭐ Bookmark
-      </button>
-    `;
+    // bookmark button removed
+    // actionsEl.innerHTML = `...`;
     
     shlokaEl.append(textEl, actionsEl);
     shlokasContainer.appendChild(shlokaEl);
@@ -177,7 +168,6 @@ function renderShlokas(shlokas) {
 
 // 5. Search
 function initSearch() {
-  // Flatten all shlokas for search index
   const allShlokas = [];
   Object.values(works).forEach(work => {
     Object.values(work.sections).forEach(section => {
@@ -211,39 +201,7 @@ function initSearch() {
 }
 
 function renderSearchResults(results) {
-  // Similar to renderShlokas but with work/section context
-  // For v1, just show matching shlokas
   shlokasContainer.innerHTML = `<p>Found ${results.length} matches...</p>`;
-  // TODO: full implementation
-}
-
-// 6. Bookmarks
-function addBookmark(workId, sectionId, shlokaId) {
-  const bookmark = {
-    id: `${workId}:${sectionId}:${shlokaId}`,
-    workId, sectionId, shlokaId,
-    label: `${workId} ${sectionId} #${shlokaId}`,
-    createdAt: Date.now()
-  };
-  
-  if (!bookmarks.find(b => b.id === bookmark.id)) {
-    bookmarks.unshift(bookmark);
-    localStorage.setItem('stotraBookmarks', JSON.stringify(bookmarks));
-    renderBookmarks();
-  }
-}
-
-function renderBookmarks() {
-  bookmarksList.innerHTML = bookmarks.slice(0, 20).map(b => `
-    <div class="bookmark-item" onclick="goToBookmark('${b.id}')">
-      ${b.label}
-    </div>
-  `).join('');
-}
-
-function goToBookmark(bookmarkId) {
-  const [workId, sectionId] = bookmarkId.split(':');
-  selectSection(workId, sectionId);
 }
 
 // 7. Event listeners
@@ -259,7 +217,7 @@ function initEventListeners() {
   // Font size
   document.getElementById('fontSize').oninput = updateFontSize;
   
-  // Transliteration (basic)
+  // Transliteration
   translitSelect.onchange = applyTransliteration;
   
   // Close settings on outside click
@@ -277,7 +235,6 @@ function updateFontSize() {
 
 function applyTransliteration() {
   const script = translitSelect.value;
-  // Re‑render current shlokas with transliteration
   if (currentSection) {
     const transliterated = currentSection.shlokas.map(s => ({
       ...s,
@@ -286,7 +243,3 @@ function applyTransliteration() {
     renderShlokas(transliterated);
   }
 }
-
-// Expose functions globally for onclick handlers
-window.addBookmark = addBookmark;
-window.goToBookmark = goToBookmark;
