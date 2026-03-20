@@ -123,4 +123,13 @@ body { font-family: 'Noto Sans Devanagari', 'Noto Sans Telugu', system-ui, sans-
   background: #007bff;
   color: white;
 }
+#shlokasContainer .shloka.even {
+  background: #f8f9fa !important;
+  border-left: 4px solid #28a745 !important;
+}
+
+#shlokasContainer .shloka.odd {
+  background: #ffffff !important;
+  border-left: 4px solid #007bff !important;
+}
 
