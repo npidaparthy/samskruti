@@ -1,0 +1,89 @@
+{
+  "stotrams": [
+    {
+      "slug": "vishnu-sahasranamam",
+      "title_te": "విష్ణు సహస్రనామం",
+      "title_sa": "विष्णु सहस्रनामम्",
+      "title_en": "Vishnu Sahasranamam",
+      "description_en": "The thousand names of Lord Vishnu from the Mahabharata (Anushasana Parva). One of the most sacred stotrams in Vaishnavism.",
+      "description_te": "మహాభారతంలోని అనుశాసన పర్వం నుండి విష్ణువు యొక్క వేయి నామాలు.",
+      "theme": "theme-vishnu",
+      "tags": ["vishnu", "sahasranamam", "vaishnavism", "mahabharata"],
+      "synonyms": ["విష్ణు సహస్రం", "thousand names of vishnu", "VSN"],
+      "youtube_url": "",
+      "sections": [
+        { "id": "purva-peetika",  "title_te": "పూర్వ పీఠిక",  "title_en": "Preface",       "file": "vishnu-sahasranamam_purva-peetika.txt" },
+        { "id": "stotram",        "title_te": "స్తోత్రం",      "title_en": "Stotram",       "file": "vishnu-sahasranamam_stotram.txt" },
+        { "id": "uttara-peetika", "title_te": "ఉత్తర పీఠిక", "title_en": "Conclusion",    "file": "vishnu-sahasranamam_uttara-peetika.txt" }
+      ],
+      "image_folder": "vishnu-sahasranamam",
+      "featured": true
+    },
+    {
+      "slug": "lalita-sahasranamam",
+      "title_te": "లలితా సహస్రనామం",
+      "title_sa": "ललिता सहस्रनामम्",
+      "title_en": "Lalita Sahasranamam",
+      "description_en": "The thousand names of Goddess Lalita Tripurasundari from the Brahmanda Purana.",
+      "description_te": "బ్రహ్మాండ పురాణంలోని లలితా త్రిపురసుందరి యొక్క వేయి నామాలు.",
+      "theme": "theme-lalita",
+      "tags": ["lalita", "sahasranamam", "shakti", "devi", "brahmanda-purana"],
+      "synonyms": ["లలితా సహస్రం", "thousand names of lalita", "LSN"],
+      "youtube_url": "",
+      "sections": [
+        { "id": "purva-peetika",  "title_te": "పూర్వ పీఠిక",  "title_en": "Preface",    "file": "lalita-sahasranamam_purva-peetika.txt" },
+        { "id": "stotram",        "title_te": "స్తోత్రం",      "title_en": "Stotram",    "file": "lalita-sahasranamam_stotram.txt" },
+        { "id": "uttara-peetika", "title_te": "ఉత్తర పీఠిక", "title_en": "Conclusion", "file": "lalita-sahasranamam_uttara-peetika.txt" }
+      ],
+      "image_folder": "lalita-sahasranamam",
+      "featured": true
+    },
+    {
+      "slug": "soundaryalahari",
+      "title_te": "సౌందర్యలహరి",
+      "title_sa": "सौन्दर्यलहरी",
+      "title_en": "Soundaryalahari",
+      "description_en": "A celebrated poem by Adi Shankaracharya describing the beauty and grace of Goddess Parvati.",
+      "description_te": "ఆది శంకరాచార్యులచే రచించబడిన దేవి పార్వతి సౌందర్యాన్ని వర్ణించే కావ్యం.",
+      "theme": "theme-lalita",
+      "tags": ["parvati", "shakti", "shankaracharya", "kavya"],
+      "synonyms": ["soundarya lahari", "సౌందర్య లహరి"],
+      "youtube_url": "",
+      "sections": [
+        { "id": "main", "title_te": "స్తోత్రం", "title_en": "Stotram", "file": "soundaryalahari_main.txt" }
+      ],
+      "image_folder": "soundaryalahari",
+      "featured": true
+    },
+    {
+      "slug": "surya-siddhanta",
+      "title_te": "సూర్యసిద్ధాంతం",
+      "title_sa": "सूर्यसिद्धान्त",
+      "title_en": "Surya Siddhanta",
+      "description_en": "An ancient Sanskrit treatise on astronomy, comprising 14 chapters with approximately 550 shlokas.",
+      "description_te": "14 అధ్యాయాలు మరియు సుమారు 550 శ్లోకాలతో కూడిన పురాతన సంస్కృత జ్యోతిష్య గ్రంథం.",
+      "theme": "theme-surya",
+      "tags": ["astronomy", "jyotisha", "science", "siddhanta"],
+      "synonyms": ["surya siddhantam", "సూర్య సిద్ధాంతం"],
+      "youtube_url": "",
+      "chapters": [
+        { "id": "chapter-01", "title_te": "అధ్యాయం ౧", "title_en": "Chapter 1 — Mean Motion of Planets",   "file": "chapter-01/surya-siddhanta_chapter-01.txt", "shlokas": 70 },
+        { "id": "chapter-02", "title_te": "అధ్యాయం ౨", "title_en": "Chapter 2 — True Motion of Planets",   "file": "chapter-02/surya-siddhanta_chapter-02.txt", "shlokas": 57 },
+        { "id": "chapter-03", "title_te": "అధ్యాయం ౩", "title_en": "Chapter 3 — Direction, Place & Time",  "file": "chapter-03/surya-siddhanta_chapter-03.txt", "shlokas": 66 },
+        { "id": "chapter-04", "title_te": "అధ్యాయం ౪", "title_en": "Chapter 4 — Lunar Eclipse",            "file": "chapter-04/surya-siddhanta_chapter-04.txt", "shlokas": 25 },
+        { "id": "chapter-05", "title_te": "అధ్యాయం ౫", "title_en": "Chapter 5 — Solar Eclipse",            "file": "chapter-05/surya-siddhanta_chapter-05.txt", "shlokas": 18 },
+        { "id": "chapter-06", "title_te": "అధ్యాయం ౬", "title_en": "Chapter 6 — Projection of Eclipses",  "file": "chapter-06/surya-siddhanta_chapter-06.txt", "shlokas": 24 },
+        { "id": "chapter-07", "title_te": "అధ్యాయం ౭", "title_en": "Chapter 7 — Planetary Conjunctions",  "file": "chapter-07/surya-siddhanta_chapter-07.txt", "shlokas": 20 },
+        { "id": "chapter-08", "title_te": "అధ్యాయం ౮", "title_en": "Chapter 8 — Stars",                   "file": "chapter-08/surya-siddhanta_chapter-08.txt", "shlokas": 23 },
+        { "id": "chapter-09", "title_te": "అధ్యాయం ౯", "title_en": "Chapter 9 — Risings & Settings",      "file": "chapter-09/surya-siddhanta_chapter-09.txt", "shlokas": 19 },
+        { "id": "chapter-10", "title_te": "అధ్యాయం ౧౦","title_en": "Chapter 10 — Moon's Crescent",        "file": "chapter-10/surya-siddhanta_chapter-10.txt", "shlokas": 14 },
+        { "id": "chapter-11", "title_te": "అధ్యాయం ౧౧","title_en": "Chapter 11 — Gnomonic Shadow",        "file": "chapter-11/surya-siddhanta_chapter-11.txt", "shlokas": 20 },
+        { "id": "chapter-12", "title_te": "అధ్యాయం ౧౨","title_en": "Chapter 12 — Cosmography",            "file": "chapter-12/surya-siddhanta_chapter-12.txt", "shlokas": 86 },
+        { "id": "chapter-13", "title_te": "అధ్యాయం ౧౩","title_en": "Chapter 13 — Armillary Sphere",       "file": "chapter-13/surya-siddhanta_chapter-13.txt", "shlokas": 58 },
+        { "id": "chapter-14", "title_te": "అధ్యాయం ౧౪","title_en": "Chapter 14 — Astronomical Instruments","file": "chapter-14/surya-siddhanta_chapter-14.txt", "shlokas": 21 }
+      ],
+      "image_folder": "surya-siddhanta",
+      "featured": true
+    }
+  ]
+}
