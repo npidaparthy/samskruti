@@ -238,6 +238,26 @@
       ],
       "image_folder": "surya-siddhanta",
       "featured": true
+    },
+    {
+      "slug": "naga-graha-stotram",
+      "title_te": "నవగ్రహస్తోత్రమ్",
+      "title_sa": "नवग्रहस्तोत्रम्",
+      "title_en": "naga-graha-stotram",
+      "description_en": "naga-graha-stotram",
+      "description_te": "నవగ్రహస్తోత్రమ్",
+      "theme": "theme-vishnu",
+      "tags": [
+        "nava graha",
+        "sun",
+        "moon",
+        "mangala"
+      ],
+      "synonyms": [],
+      "youtube_url": "",
+      "sections": [],
+      "image_folder": "naga-graha-stotram",
+      "featured": true
     }
   ]
 }
