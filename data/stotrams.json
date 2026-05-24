@@ -255,7 +255,14 @@
       ],
       "synonyms": [],
       "youtube_url": "",
-      "sections": [],
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "నవగ్రహస్తోత్రమ్",
+          "title_en": "nava-graha_stotram",
+          "file": "nava-graha_stotram.txt"
+        }
+      ],
       "image_folder": "naga-graha-stotram",
       "featured": true
     }
