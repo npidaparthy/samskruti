@@ -1,0 +1,50 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate transliterations (Telugu → Devanagari + IAST)
+        run: |
+          echo "Running transliterator on all data/**/*.txt files..."
+          node scripts/transliterate.js
+          echo "Transliteration complete."
+
+      - name: Generate SVG images (if not already present)
+        run: |
+          echo "Generating stotram images..."
+          node scripts/generate-images.js
+          echo "Images generated."
+
+      - name: Show generated files
+        run: |
+          echo "=== Generated transliteration files ==="
+          find data -name "*_sa.txt" -o -name "*_iast.txt" | sort
+          echo "=== Generated images ==="
+          find assets/images -name "*.svg" | sort
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          force_orphan: true
+          exclude_assets: '.github,node_modules,scripts,package.json,package-lock.json'
