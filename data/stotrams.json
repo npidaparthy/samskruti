@@ -265,6 +265,31 @@
       ],
       "image_folder": "nava-graha-stotram",
       "featured": true
+    },
+    {
+      "slug": "krishna-ashtakam",
+      "title_te": "కృష్ణాష్టకమ్",
+      "title_sa": "कृष्णाष्टकम्",
+      "title_en": "krishna-ashtakam",
+      "description_en": "krishna-ashtakam",
+      "description_te": "కృష్ణాష్టకమ్",
+      "theme": "theme-vishnu",
+      "tags": [
+        "krishna",
+        "ashtakam"
+      ],
+      "synonyms": [],
+      "youtube_url": "",
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "కృష్ణాష్టకమ్",
+          "title_en": "nkrishna-ashtakam",
+          "file": "krishna-ashtakam_stotram.txt"
+        }
+      ],
+      "image_folder": "krishna-ashtakam",
+      "featured": true
     }
   ]
 }
