@@ -143,7 +143,7 @@ window.StotramAudio = {
         this.player.pauseVideo();
         this._onShlokaEnd();
       }
-    }, 50);
+    }, 250);
   },
 
   _stopPoll() {
