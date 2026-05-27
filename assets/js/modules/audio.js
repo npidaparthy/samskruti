@@ -133,48 +133,21 @@ window.StotramAudio = {
     }
   },
 
-  // _startPoll() {
-  //   this._stopPoll();
-  //   this.pollInterval = setInterval(() => {
-  //     if (!this.player || !this.isPlaying) return;
-  //     const t = this.player.getCurrentTime?.();
-  //     const shloka = this.shlokas[this.currentIndex];
-  //     if (shloka?.audioEnd !== undefined && t >= shloka.audioEnd) {
-  //       this.player.pauseVideo();
-  //       this._onShlokaEnd();
-  //     }
-  //   }, 250);
-  // },
-
-  // _stopPoll() {
-  //   if (this.pollInterval) { clearInterval(this.pollInterval); this.pollInterval = null; }
-  // },
   _startPoll() {
     this._stopPoll();
-
-    const shloka = this.shlokas[this.currentIndex];
-    if (!this.player || !this.isPlaying || !shloka || shloka.audioEnd === undefined) return;
-
-    // Calculate exactly how many milliseconds the audio should play
-    // Example: (15.03 - 0) * 1000 = 15030 milliseconds
-    const durationInSeconds = shloka.audioEnd - shloka.audioStart;
-
-    // Adjust duration based on playback speed
-    const adjustedDurationMs = (durationInSeconds / this.speed) * 1000;
-
-    // Use the browser's highly accurate timer to stop the video
-    this.pollInterval = setTimeout(() => {
-      this.player.pauseVideo();
-      this._onShlokaEnd();
-    }, adjustedDurationMs);
+    this.pollInterval = setInterval(() => {
+      if (!this.player || !this.isPlaying) return;
+      const t = this.player.getCurrentTime?.();
+      const shloka = this.shlokas[this.currentIndex];
+      if (shloka?.audioEnd !== undefined && t >= shloka.audioEnd) {
+        this.player.pauseVideo();
+        this._onShlokaEnd();
+      }
+    }, 250);
   },
 
   _stopPoll() {
-    // Change clearInterval to clearTimeout since we are now using setTimeout
-    if (this.pollInterval) {
-      clearTimeout(this.pollInterval);
-      this.pollInterval = null;
-    }
+    if (this.pollInterval) { clearInterval(this.pollInterval); this.pollInterval = null; }
   },
 
   _onShlokaEnd() {
