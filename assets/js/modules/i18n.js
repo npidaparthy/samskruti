@@ -104,6 +104,11 @@ window.I18N = {
     stats_top_pages:    'Top Pages',
     stats_today:        'Today',
     stats_total:        'Total',
+
+    // ── Errors ───────────────────────────────────────────────
+    err_file_load:      'Could not load',
+    err_file_missing:   'Make sure this file exists in your GitHub repository.',
+    err_no_stotrams:    'No stotrams found. Check data/stotrams.json.',
   },
 
   te: {
@@ -188,6 +193,11 @@ window.I18N = {
     stats_top_pages:    'అగ్ర పేజీలు',
     stats_today:        'నేడు',
     stats_total:        'మొత్తం',
+
+    // ── Errors ───────────────────────────────────────────────
+    err_file_load:      'ఫైల్ లోడ్ కాలేదు',
+    err_file_missing:   'ఈ ఫైల్ మీ GitHub రిపోజిటరీలో ఉందో లేదో తనిఖీ చేయండి.',
+    err_no_stotrams:    'స్తోత్రాలు కనుగొనబడలేదు. data/stotrams.json తనిఖీ చేయండి.',
   }
 };
 

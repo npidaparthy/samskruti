@@ -72,10 +72,16 @@ window.StotramApp = {
           const mr = await fetch(`data/${entry.slug}/${entry.slug}_meta.json`);
           if (mr.ok) {
             const meta = await mr.json();
-            // meta overrides entry — _meta.json is authoritative
+            // _meta.json wins — it is the single source of truth for all
+            // rich content (sections, chapters, descriptions, images).
+            // stotrams.json only needs: slug, title_en, featured, tags.
             return { ...entry, ...meta };
+          } else {
+            console.warn(`[loadIndex] _meta.json not found for "${entry.slug}" (HTTP ${mr.status}) — using stotrams.json entry`);
           }
-        } catch { /* _meta.json missing — use stotrams.json entry as-is */ }
+        } catch (e) {
+          console.warn(`[loadIndex] Could not fetch _meta.json for "${entry.slug}":`, e.message);
+        }
         return entry;
       }));
 
@@ -173,7 +179,7 @@ window.StotramApp = {
     const featured = this.stotramsIndex.filter(s => s.featured);
     grid.innerHTML = featured.length
       ? featured.map(s => this.buildCard(s)).join('')
-      : `<p style="color:var(--c-text-muted);grid-column:1/-1">No stotrams found. Check data/stotrams.json.</p>`;
+      : `<p style="color:var(--c-text-muted);grid-column:1/-1">${window.i18n?.t('err_no_stotrams')}</p>`;
   },
 
   // ── Stotrams list ─────────────────────────────────────────────────────────
@@ -316,9 +322,9 @@ window.StotramApp = {
       console.error('renderSection error:', e);
       container.innerHTML = `
         <div style="padding:2rem;color:var(--c-text-muted);text-align:center">
-          <p>⚠️ Could not load <code>${srcFile}</code></p>
+          <p>⚠️ ${window.i18n?.t('err_file_load')} <code>${srcFile}</code></p>
           <p style="font-size:.85rem;margin-top:.5rem">
-            Make sure this file exists in your GitHub repository.
+            ${window.i18n?.t('err_file_missing')}
           </p>
         </div>`;
     }
