@@ -1,0 +1,29 @@
+{
+    "slug": "nava-graha-stotram",
+    "title_te": "నవగ్రహ స్తోత్రమ్",
+    "title_sa": "नवग्रह स्तोत्रम्",
+    "title_en": "nava-graha-stotram",
+    "description_en": "A devotional hymn to the nine celestial bodies (Navagrahas) in Vedic astrology, invoking their blessings to mitigate negative influences and bring prosperity.",
+    "description_te": "వేద జ్యోతిషశాస్త్రంలోని తొమ్మిది గ్రహాలకు (నవగ్రహాలకు) అంకితం చేయబడిన భక్తి గీతం. ఇది ప్రతికూల ప్రభావాలను తగ్గించి, శ్రేయస్సును తీసుకురావడానికి వారి ఆశీర్వాదాలను ఆహ్వానిస్తుంది.",
+    "description_sa": "नवग्रह स्तोत्रं वैदिक ज्योतिषशास्त्र में नौ खगोलीय पिंडों को समर्पित एक भक्तिमय भजन है, जो उनके आशीर्वाद से नकारात्मक प्रभावों को कम करने और समृद्धि लाने के लिए invocates करता है।",
+    "theme": "theme-deities",
+    "tags": [
+        "navagraha",
+        "stotram",
+        "astrology",
+        "jyotisha"
+    ],
+    "synonyms": [],
+    "youtube_url": "",
+    "sections": [
+        {
+            "id": "main",
+            "title_te": "నవగ్రహ స్తోత్రమ్",
+            "title_sa": "नवग्रह स्तोत्रम्",
+            "title_en": "nava-graha-stotram",
+            "file": "nava-graha-stotram.txt"
+        }
+    ],
+    "image_folder": "nava-graha-stotram",
+    "featured": true
+}
