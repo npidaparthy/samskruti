@@ -45,7 +45,8 @@ window.StotramApp = {
     /* Re-render reader when lipi changes */
     document.addEventListener('lipichange', () => {
       if (this.currentSlug && this.currentSection !== null) {
-        this.renderSection(this.currentSlug, this.currentSection);
+        this._updateSectionTabs();           // update tab labels for new script
+        this.renderSection(this.currentSlug, this.currentSection);  // reload shloka text
       }
     });
 
@@ -59,7 +60,25 @@ window.StotramApp = {
       const resp = await fetch('data/stotrams.json');
       if (!resp.ok) throw new Error(`stotrams.json → HTTP ${resp.status}`);
       const json = await resp.json();
-      this.stotramsIndex = json.stotrams || [];
+      const base = json.stotrams || [];
+
+      // Merge each stotram's _meta.json on top of the stotrams.json entry.
+      // This means stotrams.json only needs the minimal index fields
+      // (slug, title, featured, theme, tags) — the _meta.json is the
+      // single source of truth for rich content (descriptions, sections, images).
+      // _meta.json fields WIN over stotrams.json fields when both exist.
+      this.stotramsIndex = await Promise.all(base.map(async entry => {
+        try {
+          const mr = await fetch(`data/${entry.slug}/${entry.slug}_meta.json`);
+          if (mr.ok) {
+            const meta = await mr.json();
+            // meta overrides entry — _meta.json is authoritative
+            return { ...entry, ...meta };
+          }
+        } catch { /* _meta.json missing — use stotrams.json entry as-is */ }
+        return entry;
+      }));
+
     } catch (e) {
       console.error('loadIndex failed:', e);
       this.stotramsIndex = [];
@@ -227,10 +246,18 @@ window.StotramApp = {
     const sections = meta.sections || meta.chapters || [];
     const tabsEl   = document.getElementById('sectionTabs');
     if (tabsEl) {
+      // Build tabs using lipi+lang-aware label from the start
+      const _lipi = window.StotramSettings?.get('lipi') || 'te';
+      const _lang = window.i18n?.lang || 'en';
+      const _tabLabel = sec => {
+        if (_lipi === 'sa')   return sec.title_sa || sec.title_te || sec.title_en;
+        if (_lipi === 'iast') return sec.title_en || sec.title_te;
+        return _lang === 'te' ? (sec.title_te || sec.title_en) : (sec.title_en || sec.title_te);
+      };
       tabsEl.innerHTML = sections.length > 1
         ? sections.map((sec, i) =>
             `<button class="section-tab${i === 0 ? ' active' : ''}" data-si="${i}">
-              ${sec.title_te || sec.title_en}
+              ${this._esc(_tabLabel(sec))}
             </button>`).join('')
         : '';
       tabsEl.addEventListener('click', e => {
@@ -342,18 +369,28 @@ window.StotramApp = {
     if (subtitleEl) subtitleEl.textContent = subtitle || '';
   },
 
-  // Re-render section tabs text when language toggles
+  // Re-render section tabs when UI language OR lipi changes.
+  // Priority: lipi wins for script choice; UI lang picks te vs en for non-sa lipis.
+  //   lipi=sa   → show title_sa (Devanagari label)
+  //   lipi=iast → show title_en (closest Latin equivalent)
+  //   lipi=te   → show title_te when UI lang=te, else title_en
   _updateSectionTabs() {
     const meta = this.currentMeta;
     if (!meta) return;
     const sections = meta.sections || meta.chapters || [];
-    const lang     = window.i18n?.lang;
+    const lipi     = window.StotramSettings?.get('lipi') || 'te';
+    const lang     = window.i18n?.lang || 'en';
+
     document.querySelectorAll('#sectionTabs .section-tab').forEach((btn, i) => {
       const sec = sections[i];
       if (!sec) return;
-      btn.textContent = lang === 'te'
-        ? (sec.title_te || sec.title_en)
-        : (sec.title_en || sec.title_te);
+      let label;
+      if (lipi === 'sa')   label = sec.title_sa || sec.title_te || sec.title_en;
+      else if (lipi === 'iast') label = sec.title_en || sec.title_te;
+      else                 label = lang === 'te'
+                                    ? (sec.title_te || sec.title_en)
+                                    : (sec.title_en || sec.title_te);
+      btn.textContent = label || '';
     });
   },
 
