@@ -9,7 +9,7 @@
   <!-- PWA -->
   <link rel="manifest" href="manifest.json" />
   <meta name="theme-color" content="#1A237E" />
-  <link rel="apple-touch-icon" href="assets/icons/icon-192.svg" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png" />
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -30,32 +30,32 @@
     <a href="#" class="brand" data-nav="home">
       <span class="brand-sa">ॐ</span>
       <span class="brand-name">
-        <span class="brand-te" data-i18n="brand_te">స్తోత్రం</span>
-        <span class="brand-en" data-i18n="brand_en">Stotram</span>
+        <span class="brand-te">స్తోత్రం</span>
+        <span class="brand-en">Stotram</span>
       </span>
     </a>
 
     <!-- Primary Nav Tabs -->
     <nav class="main-nav" role="navigation" aria-label="Main navigation">
       <button class="nav-tab active" data-nav="home">
-        <span data-i18n="nav_home_te">హోమ్</span>
-        <span data-i18n="nav_home_en" class="en-label">Home</span>
+        <span class="nav-te">హోమ్</span>
+        <span class="nav-en en-label">Home</span>
       </button>
       <button class="nav-tab" data-nav="stotrams">
-        <span data-i18n="nav_stotrams_te">స్తోత్రాలు</span>
-        <span data-i18n="nav_stotrams_en" class="en-label">Stotrams</span>
+        <span class="nav-te">స్తోత్రాలు</span>
+        <span class="nav-en en-label">Stotrams</span>
       </button>
       <button class="nav-tab" data-nav="about">
-        <span data-i18n="nav_about_te">గురించి</span>
-        <span data-i18n="nav_about_en" class="en-label">About</span>
+        <span class="nav-te">గురించి</span>
+        <span class="nav-en en-label">About</span>
       </button>
       <button class="nav-tab" data-nav="contact">
-        <span data-i18n="nav_contact_te">సంప్రదించండి</span>
-        <span data-i18n="nav_contact_en" class="en-label">Contact</span>
+        <span class="nav-te">సంప్రదించండి</span>
+        <span class="nav-en en-label">Contact</span>
       </button>
       <button class="nav-tab" data-nav="credits">
-        <span data-i18n="nav_credits_te">కృతజ్ఞతలు</span>
-        <span data-i18n="nav_credits_en" class="en-label">Credits</span>
+        <span class="nav-te">కృతజ్ఞతలు</span>
+        <span class="nav-en en-label">Credits</span>
       </button>
     </nav>
 
@@ -75,12 +75,12 @@
       </button>
 
       <!-- Settings -->
-      <button class="icon-btn" id="settingsBtn" title="Settings / అమరికలు" aria-label="Open settings">
+      <button class="icon-btn" id="settingsBtn" data-i18n-title="tip_settings" aria-label="Open settings">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
       </button>
 
       <!-- Bookmark -->
-      <button class="icon-btn" id="bookmarksBtn" title="Bookmarks / గుర్తులు" aria-label="Bookmarks">
+      <button class="icon-btn" id="bookmarksBtn" data-i18n-title="tip_bookmarks" aria-label="Bookmarks">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
       </button>
 
@@ -93,11 +93,11 @@
 
   <!-- Mobile Nav Drawer -->
   <nav class="mobile-nav hidden" id="mobileNav">
-    <button class="nav-tab" data-nav="home"><span data-i18n="nav_home_te">హోమ్</span> / <span data-i18n="nav_home_en">Home</span></button>
-    <button class="nav-tab" data-nav="stotrams"><span data-i18n="nav_stotrams_te">స్తోత్రాలు</span> / <span data-i18n="nav_stotrams_en">Stotrams</span></button>
-    <button class="nav-tab" data-nav="about"><span data-i18n="nav_about_te">గురించి</span> / <span data-i18n="nav_about_en">About</span></button>
-    <button class="nav-tab" data-nav="contact"><span data-i18n="nav_contact_te">సంప్రదించండి</span> / <span data-i18n="nav_contact_en">Contact</span></button>
-    <button class="nav-tab" data-nav="credits"><span data-i18n="nav_credits_te">కృతజ్ఞతలు</span> / <span data-i18n="nav_credits_en">Credits</span></button>
+    <button class="nav-tab" data-nav="home"><span class="nav-te">హోమ్</span> / <span class="nav-en">Home</span></button>
+    <button class="nav-tab" data-nav="stotrams"><span class="nav-te">స్తోత్రాలు</span> / <span class="nav-en">Stotrams</span></button>
+    <button class="nav-tab" data-nav="about"><span class="nav-te">గురించి</span> / <span class="nav-en">About</span></button>
+    <button class="nav-tab" data-nav="contact"><span class="nav-te">సంప్రదించండి</span> / <span class="nav-en">Contact</span></button>
+    <button class="nav-tab" data-nav="credits"><span class="nav-te">కృతజ్ఞతలు</span> / <span class="nav-en">Credits</span></button>
   </nav>
 </header>
 
@@ -173,7 +173,7 @@
       type="search"
       id="globalSearch"
       class="search-input"
-      placeholder="శ్లోకాలు వెతకండి / Search shlokas…"
+      data-i18n-placeholder="search_placeholder" placeholder="Search shlokas…"
       autocomplete="off"
       aria-label="Search shlokas"
     />
