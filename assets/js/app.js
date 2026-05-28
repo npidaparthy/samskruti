@@ -313,7 +313,7 @@ window.StotramApp = {
       container.innerHTML = this.renderBlocks(parsed.blocks, slug);
 
       /* Feed shlokas into search index */
-      window.StotramSearch?.addShlokas(slug, section.title_te || section.title_en, parsed.blocks);
+      window.StotramSearch?.addShlokas?.(slug, section.title_te || section.title_en, parsed.blocks);
 
       /* Feed shlokas into audio */
       window.StotramAudio?.setShlokas(parsed.blocks.filter(b => b.type === 'shloka'));
