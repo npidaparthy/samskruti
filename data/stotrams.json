@@ -4,7 +4,7 @@
       "slug": "vishnu-sahasranamam",
       "title_te": "విష్ణుసహస్రనామమ్",
       "title_sa": "विष्णुसहस्रनामम्",
-      "title_en": "Vishnu Sahasranamam",
+      "title_en": "viṣṇusahasranāmam",
       "description_en": "The thousand names of Lord Vishnu from the Mahabharata (Anushasana Parva). One of the most sacred stotrams in Vaishnavism.",
       "description_te": "మహాభారతంలోని అనుశాసన పర్వం నుండి విష్ణువు యొక్క వేయి నామాలు.",
       "theme": "theme-vishnu",
@@ -23,20 +23,23 @@
       "sections": [
         {
           "id": "purva-peetika",
-          "title_te": "పూర్వపీఠిక",
-          "title_en": "Preface",
+          "title_te": "పూర్వపీఠికా",
+          "title_sa": "पूर्वपीठिका",
+          "title_en": "pūrvapīṭhikā",
           "file": "vishnu-sahasranamam_purva-peetika.txt"
         },
         {
           "id": "stotram",
           "title_te": "స్తోత్రమ్",
-          "title_en": "Stotram",
+          "title_sa": "स्तोत्रम्",
+          "title_en": "stotram",
           "file": "vishnu-sahasranamam_stotram.txt"
         },
         {
           "id": "uttara-peetika",
           "title_te": "ఉత్తరపీఠికా",
-          "title_en": "Conclusion",
+          "title_sa": "उत्तरपीठिका",
+          "title_en": "uttarapīṭhikā",
           "file": "vishnu-sahasranamam_uttara-peetika.txt"
         }
       ],
@@ -47,7 +50,7 @@
       "slug": "lalita-sahasranamam",
       "title_te": "లలితాసహస్రనామమ్",
       "title_sa": "ललितासहस्रनामम्",
-      "title_en": "Lalita Sahasranamam",
+      "title_en": "lalitāsahasranāmam",
       "description_en": "The thousand names of Goddess Lalita Tripurasundari from the Brahmanda Purana.",
       "description_te": "బ్రహ్మాండ పురాణంలోని లలితా త్రిపురసుందరి యొక్క వేయి నామాలు.",
       "theme": "theme-lalita",
@@ -68,19 +71,21 @@
         {
           "id": "purva-peetika",
           "title_te": "పూర్వపీఠికా",
-          "title_en": "Preface",
+          "title_sa": "पूर्वपीठिका",
+          "title_en": "pūrvapīṭhikā",
           "file": "lalita-sahasranamam_purva-peetika.txt"
         },
         {
           "id": "stotram",
           "title_te": "స్తోత్రమ్",
-          "title_en": "Stotram",
+          "title_en": "stotram",
           "file": "lalita-sahasranamam_stotram.txt"
         },
         {
           "id": "uttara-peetika",
           "title_te": "ఉత్తరపీఠికా",
-          "title_en": "Conclusion",
+          "title_sa": "उत्तरपीठिका",
+          "title_en": "uttarapīṭhikā",
           "file": "lalita-sahasranamam_uttara-peetika.txt"
         }
       ],
@@ -91,10 +96,9 @@
       "slug": "soundaryalahari",
       "title_te": "సౌందర్యలహరీ",
       "title_sa": "सौन्दर्यलहरी",
-      "title_en": "Soundaryalaharii",
+      "title_en": "saundaryalaharī",
       "description_en": "A celebrated poem by Adi Shankaracharya describing the beauty and grace of Goddess Parvati.",
       "description_te": "ఆది శంకరాచార్యులచే రచించబడిన దేవి పార్వతి సౌందర్యాన్ని వర్ణించే కావ్యం.",
-      "description_sa": "आदीशंकराचार्यस्य प्रसिद्धं काव्यं पार्वतीदेव्याः सौन्दर्यं कृपां च वर्णयति।",
       "theme": "theme-lalita",
       "tags": [
         "parvati",
@@ -103,7 +107,7 @@
         "kavya"
       ],
       "synonyms": [
-        "soundaryalaharii",
+        "saundaryalaharī",
         "సౌందర్యలహరీ"
       ],
       "youtube_url": "",
@@ -111,7 +115,7 @@
         {
           "id": "main",
           "title_te": "స్తోత్రమ్",
-          "title_en": "Stotram",
+          "title_en": "stotram",
           "title_sa": "स्तोत्रम्",
           "file": "soundaryalahari_main.txt"
         }
@@ -123,9 +127,8 @@
       "slug": "surya-siddhanta",
       "title_te": "సూర్యసిద్ధాన్తమ్",
       "title_sa": "सूर्यसिद्धान्तम्",
-      "title_en": "SuryaSiddhantam",
+      "title_en": "sūryasiddhāntam",
       "description_en": "An ancient Sanskrit treatise on astronomy, comprising 14 chapters with approximately 550 shlokas.",
-      "description_te": "14 అధ్యాయాలు మరియు సుమారు 550 శ్లోకాలతో కూడిన పురాతన సంస్కృత జ్యోతిష్య గ్రంథం.",
       "description_te": "14 అధ్యాయాలు మరియు సుమారు 550 శ్లోకాలతో కూడిన పురాతన సంస్కృత జ్యోతిష్య గ్రంథం.",
       "theme": "theme-surya",
       "tags": [
@@ -135,8 +138,8 @@
         "siddhanta"
       ],
       "synonyms": [
-        "suryasiddhantam",
-        "సూర్యసిద్ధాంతం"
+        "sūryasiddhāntam",
+        "సూర్యసిద్ధాన్తమ్"
       ],
       "youtube_url": "",
       "chapters": [
@@ -246,8 +249,8 @@
       "slug": "nava-graha-stotram",
       "title_te": "నవగ్రహస్తోత్రమ్",
       "title_sa": "नवग्रहस्तोत्रम्",
-      "title_en": "nava-graha-stotram",
-      "description_en": "nava-graha-stotram",
+      "title_en": "navagrahastotram",
+      "description_en": "navagrahastotram",
       "description_te": "నవగ్రహస్తోత్రమ్",
       "description_sa": "नवग्रहस्तोत्रम्",
       "theme": "theme-vishnu",
@@ -263,7 +266,7 @@
         {
           "id": "main",
           "title_te": "నవగ్రహస్తోత్రమ్",
-          "title_en": "nava-graha_stotram",
+          "title_en": "navagrahastotram",
           "title_sa": "नवग्रहस्तोत्रम्",
           "file": "nava-graha_stotram.txt"
         }
@@ -275,8 +278,8 @@
       "slug": "krishna-ashtakam",
       "title_te": "కృష్ణాష్టకమ్",
       "title_sa": "कृष्णाष्टकम्",
-      "title_en": "krishna-ashtakam",
-      "description_en": "krishna-ashtakam",
+      "title_en": "krishnāṣṭakam",
+      "description_en": "krishnāṣṭakam",
       "description_te": "కృష్ణాష్టకమ్",
       "description_sa": "कृष्णाष्टकम्",
       "theme": "theme-vishnu",
@@ -291,7 +294,7 @@
           "id": "main",
           "title_te": "కృష్ణాష్టకమ్",
           "title_sa": "कृष्णाष्टकम्",
-          "title_en": "nkrishna-ashtakam",
+          "title_en": "krishnāṣṭakam",
           "file": "krishna-ashtakam_stotram.txt"
         }
       ],
