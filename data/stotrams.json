@@ -366,4 +366,31 @@
           "file": "sarasvati-dvadasha_stotram.txt"
         }
       ]
+    },
+    {
+      "slug": "nataraja-stotram",
+      "title_te": "నటరాజస్తోత్రమ్",
+      "title_sa": "नटराजस्तोत्रम्",
+      "title_en": "natarājasthotram",
+      "description_en": "",
+      "description_te": "",
+      "description_sa": "",
+      "theme": "theme-vishnu",
+      "tags": [
+        "nataraja",
+        "shiva"
+      ],
+      "synonyms": [],
+      "youtube_url": "",
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "నటరాజస్తోత్రమ్",
+          "title_sa": "नटराजस्तोत्रम्",
+          "title_en": "natarājasthotram",
+          "file": "nataraja-stotram_stotram.txt"
+        }
+      ]
     }
+  ]
+}
