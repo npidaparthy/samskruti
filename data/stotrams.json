@@ -301,6 +301,33 @@
       ],
       "image_folder": "krishna-ashtakam",
       "featured": true
+    },
+    {
+      "slug": "sarasvati-dvadasha",
+      "title_te": "సరస్వతీద్వాదశనామస్తోత్రమ్",
+      "title_sa": "सरस्वतीद्वादशनाम्स्तोत्रम्",
+      "title_en": "śrīsarasvatīdvādaśanāmastotram",
+      "description_en": "śrīsarasvatīdvādaśanāmastotram",
+      "description_te": "సరస్వతీద్వాదశనామస్తోత్రమ్",
+      "description_sa": "सरस्वतीद्वादशनाम्स्तोत्रम्",
+      "theme": "theme-vishnu",
+      "tags": [
+        "saraswati",
+        "dvadasha"
+      ],
+      "synonyms": [],
+      "youtube_url": "https://www.youtube.com/shorts/i3esVRzrWf8",
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "సరస్వతీద్వాదశనామస్తోత్రమ్",
+          "title_sa": "सरस्वतीद्वादशनाम्स्तोत्रम्",
+          "title_en": "śrīsarasvatīdvādaśanāmastotram",
+          "file": "sarasvati-dvadasha_stotram.txt"
+        }
+      ],
+      "image_folder": "sarasvati-dvadasha",
+      "featured": true
     }
   ]
 }
