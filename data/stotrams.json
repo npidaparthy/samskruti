@@ -395,6 +395,36 @@
           "file": "nataraja_stotram.txt"
         }
       ]
+    },
+    {
+      "slug": "nava-ratnamala",
+      "title_te": "నవరత్నమాలాస్తోత్రమ్",
+      "title_sa": "नवरत्नमालास्तोत्रम्",
+      "title_en": "navaratnamalastotram",
+      "description_en": "navaratnamalastotram",
+      "description_te": "నవరత్నమాలాస్తోత్రమ్",
+      "description_sa": "नवरत्नमालास्तोत्रम्",
+      "theme": "theme-vishnu",
+      "tags": [
+        "anjaneya",
+        "hanuman",
+        "ramayana"
+      ],
+      "synonyms": [
+        "నవరత్నమాల",
+        "navaratnamala"
+      ],
+      "featured": true,
+      "youtube_url": "https://www.youtube.com/watch?v=MTvrEycJfoE",
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "నవరత్నమాలాస్తోత్రమ్",
+          "title_sa": "नवरत्नमालास्तोत्रम्",
+          "title_en": "navaratnamalastotram",
+          "file": "nava-ratnamala_stotram.txt"
+        }
+      ]
     }
   ]
 }
