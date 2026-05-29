@@ -354,6 +354,7 @@
         "saraswati",
         "dvadasha"
       ],
+      "featured": true,
       "synonyms": [],
       "youtube_url": "https://www.youtube.com/shorts/i3esVRzrWf8",
       "sections": [
@@ -371,9 +372,9 @@
       "title_te": "నటరాజస్తోత్రమ్",
       "title_sa": "नटराजस्तोत्रम्",
       "title_en": "natarājasthotram",
-      "description_en": "",
-      "description_te": "",
-      "description_sa": "",
+      "description_en": "natarājasthotram",
+      "description_te": "నటరాజస్తోత్రమ్",
+      "description_sa": "नटराजस्तोत्रम्",
       "theme": "theme-vishnu",
       "tags": [
         "nataraja",
@@ -383,6 +384,7 @@
         "నటరాజ స్తోత్రం",
         "nataraja ashtakam"
       ],
+      "featured": true,
       "youtube_url": "https://www.youtube.com/watch?v=YqVflThOo0Q",
       "sections": [
         {
