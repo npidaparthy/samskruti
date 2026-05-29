@@ -20,6 +20,12 @@
         "VSN"
       ],
       "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/vishnu-sahasranamam-01.svg",
+        "assets/images/vishnu-sahasranamam-02.svg",
+        "assets/images/vishnu-sahasranamam-03.svg"
+      ],
       "sections": [
         {
           "id": "purva-peetika",
@@ -32,7 +38,7 @@
           "id": "stotram",
           "title_te": "స్తోత్రమ్",
           "title_sa": "स्तोत्रम्",
-          "title_en": "stotram",
+          "title_en": "Stotram",
           "file": "vishnu-sahasranamam_stotram.txt"
         },
         {
@@ -42,9 +48,7 @@
           "title_en": "uttarapīṭhikā",
           "file": "vishnu-sahasranamam_uttara-peetika.txt"
         }
-      ],
-      "image_folder": "vishnu-sahasranamam",
-      "featured": true
+      ]
     },
     {
       "slug": "lalita-sahasranamam",
@@ -67,6 +71,12 @@
         "LSN"
       ],
       "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/lalita-sahasranamam-01.svg",
+        "assets/images/lalita-sahasranamam-02.svg",
+        "assets/images/lalita-sahasranamam-03.svg"
+      ],
       "sections": [
         {
           "id": "purva-peetika",
@@ -78,8 +88,8 @@
         {
           "id": "stotram",
           "title_te": "స్తోత్రమ్",
-          "title_en": "stotram",
           "title_sa": "स्तोत्रम्",
+          "title_en": "stotram",
           "file": "lalita-sahasranamam_stotram.txt"
         },
         {
@@ -89,9 +99,7 @@
           "title_en": "uttarapīṭhikā",
           "file": "lalita-sahasranamam_uttara-peetika.txt"
         }
-      ],
-      "image_folder": "lalita-sahasranamam",
-      "featured": true
+      ]
     },
     {
       "slug": "soundaryalahari",
@@ -112,17 +120,20 @@
         "సౌందర్యలహరీ"
       ],
       "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/soundaryalahari-01.svg",
+        "assets/images/soundaryalahari-02.svg"
+      ],
       "sections": [
         {
           "id": "main",
           "title_te": "స్తోత్రమ్",
-          "title_en": "stotram",
           "title_sa": "स्तोत्रम्",
+          "title_en": "stotram",
           "file": "soundaryalahari_main.txt"
         }
-      ],
-      "image_folder": "soundaryalahari",
-      "featured": true
+      ]
     },
     {
       "slug": "surya-siddhanta",
@@ -143,10 +154,16 @@
         "సూర్యసిద్ధాన్తమ్"
       ],
       "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/surya-siddhanta-01.svg",
+        "assets/images/surya-siddhanta-02.svg"
+      ],
       "chapters": [
         {
           "id": "chapter-01",
           "title_te": "అధ్యాయం ౧",
+          "title_sa": "अध्यायः १",
           "title_en": "Chapter 1 — Mean Motion of Planets",
           "file": "chapter-1/surya-siddhanta_chapter-1.txt",
           "shlokas": 70
@@ -154,6 +171,7 @@
         {
           "id": "chapter-02",
           "title_te": "అధ్యాయం ౨",
+          "title_sa": "अध्यायः २",
           "title_en": "Chapter 2 — True Motion of Planets",
           "file": "chapter-2/surya-siddhanta_chapter-2.txt",
           "shlokas": 57
@@ -161,6 +179,7 @@
         {
           "id": "chapter-03",
           "title_te": "అధ్యాయం ౩",
+          "title_sa": "अध्यायः ३",
           "title_en": "Chapter 3 — Direction, Place & Time",
           "file": "chapter-3/surya-siddhanta_chapter-3.txt",
           "shlokas": 66
@@ -168,6 +187,7 @@
         {
           "id": "chapter-04",
           "title_te": "అధ్యాయం ౪",
+          "title_sa": "अध्यायः ४",
           "title_en": "Chapter 4 — Lunar Eclipse",
           "file": "chapter-4/surya-siddhanta_chapter-4.txt",
           "shlokas": 25
@@ -175,6 +195,7 @@
         {
           "id": "chapter-05",
           "title_te": "అధ్యాయం ౫",
+          "title_sa": "अध्यायः ५",
           "title_en": "Chapter 5 — Solar Eclipse",
           "file": "chapter-5/surya-siddhanta_chapter-5.txt",
           "shlokas": 18
@@ -182,6 +203,7 @@
         {
           "id": "chapter-06",
           "title_te": "అధ్యాయం ౬",
+          "title_sa": "अध्यायः ६",
           "title_en": "Chapter 6 — Projection of Eclipses",
           "file": "chapter-6/surya-siddhanta_chapter-6.txt",
           "shlokas": 24
@@ -189,6 +211,7 @@
         {
           "id": "chapter-07",
           "title_te": "అధ్యాయం ౭",
+          "title_sa": "अध्यायः ७",
           "title_en": "Chapter 7 — Planetary Conjunctions",
           "file": "chapter-7/surya-siddhanta_chapter-7.txt",
           "shlokas": 20
@@ -196,6 +219,7 @@
         {
           "id": "chapter-08",
           "title_te": "అధ్యాయం ౮",
+          "title_sa": "अध्यायः ८",
           "title_en": "Chapter 8 — Stars",
           "file": "chapter-8/surya-siddhanta_chapter-8.txt",
           "shlokas": 23
@@ -203,6 +227,7 @@
         {
           "id": "chapter-09",
           "title_te": "అధ్యాయం ౯",
+          "title_sa": "अध्यायः ९",
           "title_en": "Chapter 9 — Risings & Settings",
           "file": "chapter-9/surya-siddhanta_chapter-9.txt",
           "shlokas": 19
@@ -210,6 +235,7 @@
         {
           "id": "chapter-10",
           "title_te": "అధ్యాయం ౧౦",
+          "title_sa": "अध्यायः १०",
           "title_en": "Chapter 10 — Moon's Crescent",
           "file": "chapter-10/surya-siddhanta_chapter-10.txt",
           "shlokas": 14
@@ -217,6 +243,7 @@
         {
           "id": "chapter-11",
           "title_te": "అధ్యాయం ౧౧",
+          "title_sa": "अध्यायः ११",
           "title_en": "Chapter 11 — Gnomonic Shadow",
           "file": "chapter-11/surya-siddhanta_chapter-11.txt",
           "shlokas": 20
@@ -224,6 +251,7 @@
         {
           "id": "chapter-12",
           "title_te": "అధ్యాయం ౧౨",
+          "title_sa": "अध्यायः १२",
           "title_en": "Chapter 12 — Cosmography",
           "file": "chapter-12/surya-siddhanta_chapter-12.txt",
           "shlokas": 86
@@ -231,6 +259,7 @@
         {
           "id": "chapter-13",
           "title_te": "అధ్యాయం ౧౩",
+          "title_sa": "अध्यायः १३",
           "title_en": "Chapter 13 — Armillary Sphere",
           "file": "chapter-13/surya-siddhanta_chapter-13.txt",
           "shlokas": 58
@@ -238,31 +267,37 @@
         {
           "id": "chapter-14",
           "title_te": "అధ్యాయం ౧౪",
+          "title_sa": "अध्यायः १४",
           "title_en": "Chapter 14 — Astronomical Instruments",
           "file": "chapter-14/surya-siddhanta_chapter-14.txt",
           "shlokas": 21
         }
-      ],
-      "image_folder": "surya-siddhanta",
-      "featured": true
+      ]
     },
     {
       "slug": "nava-graha-stotram",
       "title_te": "నవగ్రహస్తోత్రమ్",
       "title_sa": "नवग्रहस्तोत्रम्",
-      "title_en": "navagrahastotram",
-      "description_en": "navagrahastotram",
-      "description_te": "నవగ్రహస్తోత్రమ్",
-      "description_sa": "नवग्रहस्तोत्रम्",
-      "theme": "theme-vishnu",
+      "title_en": "Nava Graha Stotram",
+      "description_en": "Devotional hymn to the nine planetary deities (Navagrahas) of Hindu astrology.",
+      "description_te": "హిందూ జ్యోతిష్యంలోని నవగ్రహ దేవతలకు అంకితం చేయబడిన భక్తి స్తోత్రం.",
+      "theme": "theme-surya",
       "tags": [
-        "nava graha",
+        "navagraha",
         "sun",
         "moon",
-        "mangala"
+        "mangala",
+        "jyotisha"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "నవగ్రహ స్తోత్రం",
+        "nine planets stotram"
+      ],
       "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/nava-graha-stotram-01.svg"
+      ],
       "sections": [
         {
           "id": "main",
@@ -271,25 +306,30 @@
           "title_sa": "नवग्रहस्तोत्रम्",
           "file": "nava-graha_stotram.txt"
         }
-      ],
-      "image_folder": "nava-graha-stotram",
-      "featured": true
+      ]
     },
     {
       "slug": "krishna-ashtakam",
       "title_te": "కృష్ణాష్టకమ్",
       "title_sa": "कृष्णाष्टकम्",
       "title_en": "krishnāṣṭakam",
-      "description_en": "krishnāṣṭakam",
-      "description_te": "కృష్ణాష్టకమ్",
-      "description_sa": "कृष्णाष्टकम्",
+      "description_en": "Eight devotional verses in praise of Lord Krishna, describing his divine beauty and grace.",
+      "description_te": "శ్రీకృష్ణుని దివ్య సౌందర్యాన్ని మరియు కరుణను వర్ణించే ఎనిమిది భక్తి శ్లోకాలు.",
       "theme": "theme-vishnu",
       "tags": [
-        "kṛṣṇa",
-        "aśtakam"
+        "krishna",
+        "ashtakam",
+        "vaishnavism"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "కృష్ణాష్టకం",
+        "krishna ashtaka"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=Z5rE7aV5eP0",
+      "featured": true,
+      "images": [
+        "assets/images/krishna-ashtakam-01.svg"
+      ],
       "sections": [
         {
           "id": "main",
@@ -325,9 +365,5 @@
           "title_en": "śrīsarasvatīdvādaśanāmastotram",
           "file": "sarasvati-dvadasha_stotram.txt"
         }
-      ],
-      "image_folder": "sarasvati-dvadasha",
-      "featured": true
+      ]
     }
-  ]
-}
