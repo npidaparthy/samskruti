@@ -1,0 +1,32 @@
+{
+    "slug": "kalabhairava-ashtakam",
+    "title_te": "కాలభైరవాష్టకమ్",
+    "title_sa": "कालभैरवाष्टकम्",
+    "title_en": "kalabhairavaāṣṭakam",
+    "description_en": "kalabhairavaāṣṭakam",
+    "description_te": "కాలభైరవాష్టకమ్",
+    "theme": "theme-shiva",
+    "tags": [
+        "shiva",
+        "āṣṭakam",
+        "shaivism"
+    ],
+    "synonyms": [
+        "కాలభైరవాష్టకమ్",
+        "kalabhairava ashtakam"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=-dAagMQszHo",
+    "featured": true,
+    "images": [
+        "assets/images/kalabhairava-ashtakam-01.svg"
+    ],
+    "sections": [
+        {
+            "id": "main",
+            "title_te": "కాలభైరవాష్టకమ్",
+            "title_sa": "कालभैरवाष्टकम्",
+            "title_en": "kālabhairavāṣṭakam",
+            "file": "kalabhairava-ashtakam_stotram.txt"
+        }
+    ]
+}
