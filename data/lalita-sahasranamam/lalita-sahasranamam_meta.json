@@ -35,23 +35,23 @@
     "sections": [
         {
             "id": "purva-peetika",
-            "title_te": "పూర్వ పీఠిక",
-            "title_sa": "पूर्व पीठिका",
-            "title_en": "Preface",
+            "title_te": "పూర్వపీఠికా",
+            "title_sa": "पूर्वपीठिका",
+            "title_en": "pūrvapīṭhikā",
             "file": "lalita-sahasranamam_purva-peetika.txt"
         },
         {
             "id": "stotram",
-            "title_te": "స్తోత్రం",
+            "title_te": "స్తోత్రమ్",
             "title_sa": "स्तोत्रम्",
-            "title_en": "Stotram",
+            "title_en": "stotram",
             "file": "lalita-sahasranamam_stotram.txt"
         },
         {
             "id": "uttara-peetika",
-            "title_te": "ఉత్తర పీఠిక",
-            "title_sa": "उत्तर पीठिका",
-            "title_en": "Conclusion",
+            "title_te": "ఉత్తరపీఠికా",
+            "title_sa": "उत्तरपीठिका",
+            "title_en": "uttarapīṭhikā",
             "file": "lalita-sahasranamam_uttara-peetika.txt"
         }
     ]
