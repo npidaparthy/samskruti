@@ -425,6 +425,15 @@
           "file": "nava-ratnamala_stotram.txt"
         }
       ]
+    },
+    {
+      "slug": "kalabhairava-ashtakam",
+      "description_en": "A celebrated poem by Adi Shankaracharya describing shiva.",
+      "description_te": "",
+      "featured": true,
+      "images": [
+        "assets/images/kalabhairava-ashtakam-01.svg"
+      ]
     }
   ]
 }
