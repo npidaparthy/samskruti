@@ -99,7 +99,7 @@ window.StotramApp = {
   // ── Hash-based routing (shareable URLs) ──────────────────────────────────
 
   handleHash() {
-    const hash = window.location.hash; // e.g. #stotrams, #vishnu-sahasranamam
+    const hash = window.location.hash; // e.g. #stotrams, #reader/vishnu-sahasranamam
     if (!hash || hash === '#' || hash === '#home') {
       this._showPage('home');
       this.renderHome();
@@ -111,14 +111,10 @@ window.StotramApp = {
     if (hash === '#credits')  { this._showPage('credits');  return; }
     if (hash === '#stats')    { this._showPage('stats'); window.StotramStats?.render(); return; }
 
-    // Bare slug: e.g. #vishnu-sahasranamam, #krishna-ashtakam
-    // All named pages (#home #stotrams etc) are already handled above,
-    // so anything remaining is treated as a stotram slug.
-    const slugMatch = hash.match(/^#([a-z0-9][a-z0-9-]*)$/);
-    if (slugMatch) {
-      const slug = slugMatch[1];
+    const readerMatch = hash.match(/^#reader\/(.+)$/);
+    if (readerMatch) {
       this._showPage('reader');
-      this.openStotram(slug);
+      this.openStotram(readerMatch[1]);
       return;
     }
     /* Default */
@@ -150,7 +146,7 @@ window.StotramApp = {
 
   navigate(page, slug) {
     if (page === 'reader' && slug) {
-      this.setHash(`#${slug}`);
+      this.setHash(`#reader/${slug}`);
       this._showPage('reader');
       this.openStotram(slug);
     } else {
