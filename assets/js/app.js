@@ -99,7 +99,7 @@ window.StotramApp = {
   // ── Hash-based routing (shareable URLs) ──────────────────────────────────
 
   handleHash() {
-    const hash = window.location.hash; // e.g. #stotrams, #reader/vishnu-sahasranamam
+    const hash = window.location.hash; // e.g. #stotrams, #vishnu-sahasranamam
     if (!hash || hash === '#' || hash === '#home') {
       this._showPage('home');
       this.renderHome();
@@ -111,10 +111,14 @@ window.StotramApp = {
     if (hash === '#credits')  { this._showPage('credits');  return; }
     if (hash === '#stats')    { this._showPage('stats'); window.StotramStats?.render(); return; }
 
-    const readerMatch = hash.match(/^#reader\/(.+)$/);
-    if (readerMatch) {
+    // Bare slug: e.g. #vishnu-sahasranamam, #krishna-ashtakam
+    // All named pages (#home #stotrams etc) are already handled above,
+    // so anything remaining is treated as a stotram slug.
+    const slugMatch = hash.match(/^#([a-z0-9][a-z0-9-]*)$/);
+    if (slugMatch) {
+      const slug = slugMatch[1];
       this._showPage('reader');
-      this.openStotram(readerMatch[1]);
+      this.openStotram(slug);
       return;
     }
     /* Default */
@@ -146,7 +150,7 @@ window.StotramApp = {
 
   navigate(page, slug) {
     if (page === 'reader' && slug) {
-      this.setHash(`#reader/${slug}`);
+      this.setHash(`#${slug}`);
       this._showPage('reader');
       this.openStotram(slug);
     } else {
@@ -313,7 +317,7 @@ window.StotramApp = {
       container.innerHTML = this.renderBlocks(parsed.blocks, slug);
 
       /* Feed shlokas into search index */
-      window.StotramSearch?.addShlokas?.(slug, section.title_te || section.title_en, parsed.blocks);
+      window.StotramSearch?.addShlokas(slug, section.title_te || section.title_en, parsed.blocks);
 
       /* Feed shlokas into audio */
       window.StotramAudio?.setShlokas(parsed.blocks.filter(b => b.type === 'shloka'));
