@@ -628,6 +628,11 @@ input[type="color"] {
 }
 .card-image img { width: 100%; height: 100%; object-fit: cover; }
 .card-image-om {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
   font-size: 3.5rem;
   font-family: var(--font-sa);
   color: rgba(255,255,255,0.85);

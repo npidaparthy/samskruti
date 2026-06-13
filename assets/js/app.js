@@ -72,10 +72,11 @@ window.StotramApp = {
           const mr = await fetch(`data/${entry.slug}/${entry.slug}_meta.json`);
           if (mr.ok) {
             const meta = await mr.json();
-            // _meta.json wins — it is the single source of truth for all
-            // rich content (sections, chapters, descriptions, images).
-            // stotrams.json only needs: slug, title_en, featured, tags.
-            return { ...entry, ...meta };
+            // Merge strategy: _meta.json wins for rich content (sections,
+            // descriptions, images, theme) but stotrams.json is the
+            // canonical source for titles — never let meta override them.
+            const { title_te, title_sa, title_en, ...metaRest } = meta;
+            return { ...entry, ...metaRest };
           } else {
             console.warn(`[loadIndex] _meta.json not found for "${entry.slug}" (HTTP ${mr.status}) — using stotrams.json entry`);
           }
@@ -216,14 +217,26 @@ window.StotramApp = {
   },
 
   buildCard(s) {
-    const tags = (s.tags || []).slice(0, 3).map(t => `<span class="tag-pill">${t}</span>`).join('');
+    const tags  = (s.tags || []).slice(0, 3).map(t => `<span class="tag-pill">${t}</span>`).join('');
     const title = window.i18n?.lang === 'te' ? (s.title_te || s.title_en) : s.title_en;
     const desc  = window.i18n?.lang === 'te' ? (s.description_te || s.description_en) : s.description_en;
+
+    // Image lookup priority:
+    //   1. s.image (single string in _meta.json)
+    //   2. s.images[0] (array in _meta.json)
+    //   3. convention: assets/images/<slug>-01.svg
+    // onerror hides the <img> and shows the ॐ fallback.
+    const imgSrc = s.image || (Array.isArray(s.images) && s.images[0]) || `assets/images/${s.slug}-01.svg`;
+
     return `
       <div class="stotram-card" data-nav="reader" data-slug="${s.slug}"
-           tabindex="0" role="button" aria-label="Open ${s.title_en}"
+           tabindex="0" role="button" aria-label="Open ${title}"
            onkeydown="if(event.key==='Enter')this.click()">
-        <div class="card-image"><span class="card-image-om">ॐ</span></div>
+        <div class="card-image">
+          <img src="${imgSrc}" alt="${title}" loading="lazy"
+               onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+          <span class="card-image-om" style="display:none">ॐ</span>
+        </div>
         <div class="card-body">
           <div class="card-title-te">${s.title_te || s.title_sa}</div>
           <div class="card-title-en">${s.title_en}</div>

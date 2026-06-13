@@ -2,8 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"  stop-color="#3B0030"/>
-      <stop offset="100%" stop-color="#6A0050"/>
+      <stop offset="0%"  stop-color="#1E0A00"/>
+      <stop offset="100%" stop-color="#7B3000"/>
     </linearGradient>
     <radialGradient id="glow" cx="50%" cy="44%" r="44%">
       <stop offset="0%"  stop-color="#FFD700" stop-opacity="0.20"/>
@@ -27,8 +27,8 @@
 <circle cx="400" cy="220" r="80" fill="none" stroke="#FFD700" stroke-width="1.5" stroke-opacity="0.1"/>
 <text x="400" y="280" text-anchor="middle" dominant-baseline="middle" font-size="160" fill="#FFD700" fill-opacity="0.85" font-family="serif">ॐ</text>
 <line x1="240" y1="390" x2="560" y2="390" stroke="#FFD700" stroke-width="0.8" stroke-opacity="0.30"/>
-<text x="400" y="398" text-anchor="middle" font-size="28" fill="#FFD700" fill-opacity="0.95" font-family="'Noto Sans Telugu',serif">లలితాసహస్రనామమ్</text>
-<text x="400" y="434" text-anchor="middle" font-size="20" fill="#FFD700" fill-opacity="0.72" font-family="'Noto Sans Devanagari',serif">ललितासहस्रनामम्</text>
-<text x="400" y="460" text-anchor="middle" font-size="13" fill="#FF80AB" fill-opacity="0.55" font-family="sans-serif" letter-spacing="2">LALITĀSAHASRANĀMAM</text>
+<text x="400" y="398" text-anchor="middle" font-size="28" fill="#FFD700" fill-opacity="0.95" font-family="'Noto Sans Telugu',serif">నవగ్రహస్తోత్రమ్</text>
+<text x="400" y="434" text-anchor="middle" font-size="20" fill="#FFD700" fill-opacity="0.72" font-family="'Noto Sans Devanagari',serif">नवग्रहस्तोत्रम्</text>
+<text x="400" y="460" text-anchor="middle" font-size="13" fill="#FFAB40" fill-opacity="0.55" font-family="sans-serif" letter-spacing="2">NAVA GRAHA STOTRAM</text>
 
 </svg>
