@@ -458,13 +458,11 @@ window.StotramApp = {
     const prev = sections[idx - 1];
     const next = sections[idx + 1];
     const lang = window.i18n?.lang || 'en';
-    const lipi = window.StotramSettings?.get('lipi') || 'te';
 
-    const secLabel = sec => {
-      if (lipi === 'sa')   return sec.title_sa || sec.title_te || sec.title_en;
-      if (lipi === 'iast') return sec.title_en || sec.title_te;
-      return lang === 'te' ? (sec.title_te || sec.title_en) : (sec.title_en || sec.title_te);
-    };
+    // Section names in nav buttons are UI chrome → follow lang only, not lipi
+    const secLabel = sec => lang === 'te'
+      ? (sec.title_te || sec.title_en)
+      : (sec.title_en || sec.title_te);
 
     const backLabel   = lang === 'te' ? 'స్తోత్రాలు' : 'Stotrams';
     const topLabel    = lang === 'te' ? '↑ పైకి' : '↑ Top';

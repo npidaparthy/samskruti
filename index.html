@@ -128,11 +128,11 @@
 
   <!-- Mobile Nav Drawer -->
   <nav class="mobile-nav hidden" id="mobileNav">
-    <button class="nav-tab" data-nav="home"><span class="nav-te">హోమ్</span> / <span class="nav-en">Home</span></button>
-    <button class="nav-tab" data-nav="stotrams"><span class="nav-te">స్తోత్రాలు</span> / <span class="nav-en">Stotrams</span></button>
-    <button class="nav-tab" data-nav="about"><span class="nav-te">గురించి</span> / <span class="nav-en">About</span></button>
-    <button class="nav-tab" data-nav="contact"><span class="nav-te">సంప్రదించండి</span> / <span class="nav-en">Contact</span></button>
-    <button class="nav-tab" data-nav="credits"><span class="nav-te">కృతజ్ఞతలు</span> / <span class="nav-en">Credits</span></button>
+    <button class="nav-tab" data-nav="home"><span class="nav-te">హోమ్</span><span class="nav-en">Home</span></button>
+    <button class="nav-tab" data-nav="stotrams"><span class="nav-te">స్తోత్రాలు</span><span class="nav-en">Stotrams</span></button>
+    <button class="nav-tab" data-nav="about"><span class="nav-te">గురించి</span><span class="nav-en">About</span></button>
+    <button class="nav-tab" data-nav="contact"><span class="nav-te">సంప్రదించండి</span><span class="nav-en">Contact</span></button>
+    <button class="nav-tab" data-nav="credits"><span class="nav-te">కృతజ్ఞతలు</span><span class="nav-en">Credits</span></button>
   </nav>
 </header>
 
@@ -339,17 +339,24 @@
   <!-- ── ABOUT ── -->
   <section class="page hidden" id="page-about">
     <div class="prose-page">
-      <h2 data-i18n-bilingual="about_title">గురించి / About</h2>
+      <h2>
+        <span class="i18n-te">గురించి</span>
+        <span class="i18n-en">About</span>
+      </h2>
       <p>
-        ఈ వెబ్‌సైట్ సంస్కృత స్తోత్రాలను తెలుగు, దేవనాగరి మరియు రోమన్ IAST లిపులలో అందుబాటులో ఉంచడానికి నిర్మించబడింది.<br/><br/>
-        This website is built to make Sanskrit stotrams accessible in Telugu, Devanagari and Roman IAST scripts — with audio, grammar commentary, and transliteration support.
+        <span class="i18n-te">ఈ వెబ్‌సైట్ సంస్కృత స్తోత్రాలను తెలుగు, దేవనాగరి మరియు రోమన్ IAST లిపులలో అందుబాటులో ఉంచడానికి నిర్మించబడింది.</span>
+        <span class="i18n-en">This website is built to make Sanskrit stotrams accessible in Telugu, Devanagari and Roman IAST scripts — with audio, grammar commentary, and transliteration support.</span>
       </p>
-      <h3>సాంకేతిక వివరాలు / Technology</h3>
+      <h3>
+        <span class="i18n-te">సాంకేతిక వివరాలు</span>
+        <span class="i18n-en">Technology</span>
+      </h3>
       <ul>
-        <li>Sanscript.js — Transliteration</li>
-        <li>Fuse.js — Search</li>
-        <li>YouTube IFrame API — Audio</li>
-        <li>GitHub Pages — Hosting</li>
+        <li>Sanscript.js — <span class="i18n-te">లిప్యంతరీకరణ</span><span class="i18n-en">Transliteration</span></li>
+        <li>Fuse.js — <span class="i18n-te">శోధన</span><span class="i18n-en">Search</span></li>
+        <li>YouTube IFrame API — <span class="i18n-te">ఆడియో</span><span class="i18n-en">Audio</span></li>
+        <li>Google Fonts — <span class="i18n-te">తెలుగు &amp; సంస్కృత ఫాంట్లు</span><span class="i18n-en">Telugu &amp; Sanskrit fonts</span></li>
+        <li>GitHub Pages — <span class="i18n-te">హోస్టింగ్</span><span class="i18n-en">Hosting</span></li>
         <li>GitHub Actions — CI/CD</li>
       </ul>
     </div>
@@ -358,31 +365,47 @@
   <!-- ── CONTACT ── -->
   <section class="page hidden" id="page-contact">
     <div class="prose-page">
-      <h2 data-i18n-bilingual="contact_title">సంప్రదించండి / Contact Us</h2>
-      <p data-i18n-bilingual="contact_intro">మీ అభిప్రాయాలు, సూచనలు పంపండి / Send your feedback and suggestions</p>
+      <h2>
+        <span class="i18n-te">సంప్రదించండి</span>
+        <span class="i18n-en">Contact Us</span>
+      </h2>
+      <p>
+        <span class="i18n-te">మీ అభిప్రాయాలు, సూచనలు పంపండి</span>
+        <span class="i18n-en">Send your feedback and suggestions</span>
+      </p>
       <form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
         <div class="form-group">
-          <label for="cf-name" data-i18n-bilingual="cf_name">పేరు / Name</label>
+          <label for="cf-name">
+            <span class="i18n-te">పేరు</span><span class="i18n-en">Name</span>
+          </label>
           <input type="text" id="cf-name" name="name" required />
         </div>
         <div class="form-group">
-          <label for="cf-email" data-i18n-bilingual="cf_email">ఇమెయిల్ / Email</label>
+          <label for="cf-email">
+            <span class="i18n-te">ఇమెయిల్</span><span class="i18n-en">Email</span>
+          </label>
           <input type="email" id="cf-email" name="email" required />
         </div>
         <div class="form-group">
-          <label for="cf-subject" data-i18n-bilingual="cf_subject">విషయం / Subject</label>
+          <label for="cf-subject">
+            <span class="i18n-te">విషయం</span><span class="i18n-en">Subject</span>
+          </label>
           <select id="cf-subject" name="subject">
-            <option value="feedback">అభిప్రాయం / Feedback</option>
-            <option value="correction">దోషం / Error Correction</option>
-            <option value="suggestion">సూచన / Suggestion</option>
-            <option value="other">ఇతర / Other</option>
+            <option value="feedback"><span class="i18n-te">అభిప్రాయం</span><span class="i18n-en">Feedback</span></option>
+            <option value="correction"><span class="i18n-te">దోషం</span><span class="i18n-en">Error Correction</span></option>
+            <option value="suggestion"><span class="i18n-te">సూచన</span><span class="i18n-en">Suggestion</span></option>
+            <option value="other"><span class="i18n-te">ఇతర</span><span class="i18n-en">Other</span></option>
           </select>
         </div>
         <div class="form-group">
-          <label for="cf-message" data-i18n-bilingual="cf_message">సందేశం / Message</label>
+          <label for="cf-message">
+            <span class="i18n-te">సందేశం</span><span class="i18n-en">Message</span>
+          </label>
           <textarea id="cf-message" name="message" rows="5" required></textarea>
         </div>
-        <button type="submit" class="cta-btn" data-i18n-bilingual="cf_send">పంపండి / Send</button>
+        <button type="submit" class="cta-btn">
+          <span class="i18n-te">పంపండి</span><span class="i18n-en">Send</span>
+        </button>
       </form>
     </div>
   </section>
@@ -390,16 +413,19 @@
   <!-- ── CREDITS ── -->
   <section class="page hidden" id="page-credits">
     <div class="prose-page">
-      <h2 data-i18n-bilingual="credits_title">కృతజ్ఞతలు / Credits</h2>
+      <h2>
+        <span class="i18n-te">కృతజ్ఞతలు</span>
+        <span class="i18n-en">Credits</span>
+      </h2>
       <div class="credits-grid">
         <div class="credit-card">
           <h3>Sanscript.js</h3>
-          <p>Indic script transliteration library by sanskrit-coders</p>
+          <p><span class="i18n-te">ఇండిక్ లిపి లిప్యంతరీకరణ లైబ్రరీ</span><span class="i18n-en">Indic script transliteration library by sanskrit-coders</span></p>
           <a href="https://github.com/sanskrit-coders/sanscript.js" target="_blank" rel="noopener">GitHub ↗</a>
         </div>
         <div class="credit-card">
           <h3>Fuse.js</h3>
-          <p>Lightweight fuzzy-search library</p>
+          <p><span class="i18n-te">తేలికపాటి శోధన లైబ్రరీ</span><span class="i18n-en">Lightweight fuzzy-search library</span></p>
           <a href="https://fusejs.io" target="_blank" rel="noopener">fusejs.io ↗</a>
         </div>
         <div class="credit-card">
@@ -408,9 +434,19 @@
           <a href="https://fonts.google.com" target="_blank" rel="noopener">fonts.google.com ↗</a>
         </div>
         <div class="credit-card">
+          <h3>YouTube IFrame API</h3>
+          <p><span class="i18n-te">స్తోత్ర పఠన ఆడియో ప్లేయర్</span><span class="i18n-en">Recitation audio playback</span></p>
+          <a href="https://developers.google.com/youtube/iframe_api_reference" target="_blank" rel="noopener">developers.google.com ↗</a>
+        </div>
+        <div class="credit-card">
           <h3>GitHub Pages</h3>
-          <p>Free static site hosting with CI/CD</p>
+          <p><span class="i18n-te">ఉచిత స్టాటిక్ సైట్ హోస్టింగ్</span><span class="i18n-en">Free static site hosting with CI/CD</span></p>
           <a href="https://pages.github.com" target="_blank" rel="noopener">pages.github.com ↗</a>
+        </div>
+        <div class="credit-card">
+          <h3>peaceiris/actions-gh-pages</h3>
+          <p><span class="i18n-te">GitHub Pages డిప్లాయ్మెంట్ యాక్షన్</span><span class="i18n-en">GitHub Action for gh-pages deployment</span></p>
+          <a href="https://github.com/peaceiris/actions-gh-pages" target="_blank" rel="noopener">GitHub ↗</a>
         </div>
       </div>
     </div>
@@ -423,7 +459,8 @@
 ═══════════════════════════════════════════════════════ -->
 <footer class="site-footer">
   <p>
-    <span data-i18n-bilingual="footer_msg">సంస్కృత స్తోత్రాలు — భక్తితో నిర్మించబడింది / Sanskrit Stotrams — Built with devotion</span>
+    <span class="i18n-te">సంస్కృత స్తోత్రాలు — భక్తితో నిర్మించబడింది</span>
+    <span class="i18n-en">Sanskrit Stotrams — Built with devotion</span>
   </p>
   <p class="footer-install hidden" id="installPrompt">
     <button class="install-btn" id="installBtn" data-i18n-bilingual="install_app">యాప్ ఇన్‌స్టాల్ చేయండి / Install App</button>
