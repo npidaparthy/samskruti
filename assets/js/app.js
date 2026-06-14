@@ -51,8 +51,19 @@ window.StotramApp = {
     });
 
     this._initHelpBanner();
+    this._initFabTop();
 
     console.log('Stotram App initialised ✓');
+  },
+
+  // ── Floating scroll-to-top FAB ───────────────────────────────────────────
+  _initFabTop() {
+    const fab = document.getElementById('fabTop');
+    if (!fab) return;
+    window.addEventListener('scroll', () => {
+      fab.classList.toggle('hidden', window.scrollY < 300);
+    }, { passive: true });
+    fab.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
   },
 
   // ── First-time help banner ────────────────────────────────────────────────
@@ -308,6 +319,24 @@ window.StotramApp = {
       });
     }
 
+    /* Bottom nav — delegate clicks on dynamically rendered buttons */
+    document.getElementById('shlokasContainer')?.addEventListener('click', e => {
+      const prev = e.target.closest('.bottom-nav-prev');
+      const next = e.target.closest('.bottom-nav-next');
+      const back = e.target.closest('.bottom-nav-back');
+      const top  = e.target.closest('.bottom-nav-top');
+      if (prev || next) {
+        const si = parseInt((prev || next).dataset.si);
+        document.querySelectorAll('.section-tab').forEach(b =>
+          b.classList.toggle('active', parseInt(b.dataset.si) === si));
+        this.renderSection(slug, si);
+        document.getElementById('page-reader')?.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+      if (back) this.navigate('stotrams');
+      if (top)  window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
     window.StotramAudio?.setup(meta);
     await this.renderSection(slug, 0);
   },
@@ -336,7 +365,8 @@ window.StotramApp = {
       // and on every CI deploy). Telugu (.txt) is the source file itself.
       const parsed = await window.StotramParser.fetchAndParse(lipiFile);
 
-      container.innerHTML = this.renderBlocks(parsed.blocks, slug);
+      container.innerHTML = this.renderBlocks(parsed.blocks, slug)
+                          + this._renderBottomNav(slug, idx, sections);
 
       /* Feed shlokas into search index */
       window.StotramSearch?.addShlokas?.(slug, section.title_te || section.title_en, parsed.blocks);
@@ -421,6 +451,37 @@ window.StotramApp = {
       else                      label = sec.title_te || sec.title_sa || sec.title_en;  // lipi=te → always Telugu
       btn.textContent = label || '';
     });
+  },
+
+  // ── Bottom navigation (end of section) ───────────────────────────────────
+  _renderBottomNav(slug, idx, sections) {
+    const prev = sections[idx - 1];
+    const next = sections[idx + 1];
+    const lang = window.i18n?.lang || 'en';
+    const lipi = window.StotramSettings?.get('lipi') || 'te';
+
+    const secLabel = sec => {
+      if (lipi === 'sa')   return sec.title_sa || sec.title_te || sec.title_en;
+      if (lipi === 'iast') return sec.title_en || sec.title_te;
+      return lang === 'te' ? (sec.title_te || sec.title_en) : (sec.title_en || sec.title_te);
+    };
+
+    const backLabel   = lang === 'te' ? 'స్తోత్రాలు' : 'Stotrams';
+    const topLabel    = lang === 'te' ? '↑ పైకి' : '↑ Top';
+
+    const prevBtn = prev
+      ? `<button class="bottom-nav-btn bottom-nav-prev" data-si="${idx - 1}">← ${this._esc(secLabel(prev))}</button>`
+      : `<button class="bottom-nav-btn bottom-nav-back" id="bottomNavBack">← ${backLabel}</button>`;
+
+    const nextBtn = next
+      ? `<button class="bottom-nav-btn bottom-nav-next" data-si="${idx + 1}">${this._esc(secLabel(next))} →</button>`
+      : `<button class="bottom-nav-btn bottom-nav-top" id="bottomNavTop">${topLabel}</button>`;
+
+    return `
+      <div class="bottom-nav">
+        ${prevBtn}
+        ${nextBtn}
+      </div>`;
   },
 
   _esc(t) {
