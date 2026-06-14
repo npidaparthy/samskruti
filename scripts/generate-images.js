@@ -161,12 +161,21 @@ for (const cfg of IMAGES) {
   }
 }
 
-// PWA icons
+// PWA icons — only write if not already present (don't overwrite manually chosen favicons)
 const vishnu = IMAGES[0];
-fs.writeFileSync(path.join(iconDir, 'icon-192.svg'),
-  makeIcon(vishnu.symbol, vishnu.bg1, vishnu.bg2, vishnu.accent));
-fs.writeFileSync(path.join(iconDir, 'icon-512.svg'),
-  makeIcon(vishnu.symbol, vishnu.bg1, vishnu.bg2, vishnu.accent).replace('192','512').replace(/width="192"/g,'width="512"').replace(/height="192"/g,'height="512"').replace(/rx="32"/,'rx="64"').replace('96','256').replace('125','330').replace('88','230'));
-console.log('  WROTE  assets/icons/icon-192.svg');
-console.log('  WROTE  assets/icons/icon-512.svg');
+const icon192Path = path.join(iconDir, 'icon-192.svg');
+const icon512Path = path.join(iconDir, 'icon-512.svg');
+if (!fs.existsSync(icon192Path)) {
+  fs.writeFileSync(icon192Path, makeIcon(vishnu.symbol, vishnu.bg1, vishnu.bg2, vishnu.accent));
+  console.log('  WROTE  assets/icons/icon-192.svg');
+} else {
+  console.log('  SKIP   assets/icons/icon-192.svg (exists)');
+}
+if (!fs.existsSync(icon512Path)) {
+  fs.writeFileSync(icon512Path,
+    makeIcon(vishnu.symbol, vishnu.bg1, vishnu.bg2, vishnu.accent).replace('192','512').replace(/width="192"/g,'width="512"').replace(/height="192"/g,'height="512"').replace(/rx="32"/,'rx="64"').replace('96','256').replace('125','330').replace('88','230'));
+  console.log('  WROTE  assets/icons/icon-512.svg');
+} else {
+  console.log('  SKIP   assets/icons/icon-512.svg (exists)');
+}
 console.log('\nDone.');

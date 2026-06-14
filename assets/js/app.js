@@ -325,10 +325,11 @@ window.StotramApp = {
 
     const basePath = `data/${slug}/`;
     const srcFile  = basePath + section.file;
+    let lipiFile   = srcFile;
 
     try {
-      const lipi     = window.StotramSettings?.get('lipi') || 'te';
-      const lipiFile = lipi !== 'te' ? srcFile.replace(/\.txt$/, `_${lipi}.txt`) : srcFile;
+      const lipi = window.StotramSettings?.get('lipi') || 'te';
+      lipiFile   = lipi !== 'te' ? srcFile.replace(/\.txt$/, `_${lipi}.txt`) : srcFile;
 
       // Pre-generated files used for all lipis — no client-side transliteration.
       // _sa.txt / _iast.txt are produced by scripts/transliterate.js (run locally
@@ -347,7 +348,7 @@ window.StotramApp = {
       console.error('renderSection error:', e);
       container.innerHTML = `
         <div style="padding:2rem;color:var(--c-text-muted);text-align:center">
-          <p>⚠️ ${window.i18n?.t('err_file_load')} <code>${srcFile}</code></p>
+          <p>⚠️ ${window.i18n?.t('err_file_load')} <code>${lipiFile}</code></p>
           <p style="font-size:.85rem;margin-top:.5rem">
             ${window.i18n?.t('err_file_missing')}
           </p>
