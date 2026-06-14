@@ -181,7 +181,9 @@ window.StotramParser = {
     const tr = t => { try { return Sanscript.t(t, fromScript, toScript); } catch (e) { return t; } };
     return {
       ...parsed,
-      blocks: parsed.blocks.map(b => b.type !== 'shloka' ? b : { ...b, text: tr(b.text) })
+      blocks: parsed.blocks.map(b =>
+        (b.type === 'shloka' || b.type === 'heading') ? { ...b, text: tr(b.text) } : b
+      )
     };
   },
 
