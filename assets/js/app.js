@@ -330,18 +330,10 @@ window.StotramApp = {
       const lipi     = window.StotramSettings?.get('lipi') || 'te';
       const lipiFile = lipi !== 'te' ? srcFile.replace(/\.txt$/, `_${lipi}.txt`) : srcFile;
 
-      let parsed;
-      try {
-        parsed = await window.StotramParser.fetchAndParse(lipiFile);
-      } catch {
-        parsed = await window.StotramParser.fetchAndParse(srcFile);
-        const sample  = parsed.blocks.find(b => b.type === 'shloka')?.text || '';
-        const fromSch = window.StotramParser.detectScript(sample);
-        const toSch   = window.StotramParser.schemeFor(lipi);
-        if (fromSch !== toSch && fromSch !== 'unknown') {
-          parsed = window.StotramParser.transliterate(parsed, fromSch, toSch);
-        }
-      }
+      // Pre-generated files used for all lipis — no client-side transliteration.
+      // _sa.txt / _iast.txt are produced by scripts/transliterate.js (run locally
+      // and on every CI deploy). Telugu (.txt) is the source file itself.
+      const parsed = await window.StotramParser.fetchAndParse(lipiFile);
 
       container.innerHTML = this.renderBlocks(parsed.blocks, slug);
 

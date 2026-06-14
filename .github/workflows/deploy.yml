@@ -21,6 +21,12 @@ jobs:
         with:
           node-version: '24'
 
+      - name: Stamp service worker cache version
+        run: |
+          COMMIT=$(git rev-parse --short HEAD)
+          sed -i "s/const CACHE = 'stotram-v[^']*'/const CACHE = 'stotram-${COMMIT}'/" service-worker.js
+          echo "Service worker cache → stotram-${COMMIT}"
+
       - name: Generate transliterations (Telugu → Devanagari + IAST)
         run: |
           echo "Running transliterator on all data/**/*.txt files..."

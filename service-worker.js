@@ -1,4 +1,4 @@
-const CACHE = 'stotram-v1';
+const CACHE = 'stotram-v1'; // bumped automatically by CI using git commit hash
 const ASSETS = [
     '/', '/index.html', '/manifest.json',
     '/assets/css/main.css',

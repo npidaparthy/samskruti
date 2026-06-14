@@ -147,7 +147,7 @@ function convertLine(text, target) {
           }
         } else {
           // Non-consonant: vowel, matra, misc, digit
-          out += map.get(key) ?? key;
+          out += (map.get(key) !== undefined ? map.get(key) : key);
           i += key.length;
         }
 
