@@ -50,7 +50,27 @@ window.StotramApp = {
       }
     });
 
+    this._initHelpBanner();
+
     console.log('Stotram App initialised ✓');
+  },
+
+  // ── First-time help banner ────────────────────────────────────────────────
+  _initHelpBanner() {
+    const SEEN_KEY = 'samskruti_help_seen';
+    const banner   = document.getElementById('helpBanner');
+    const closeBtn = document.getElementById('helpBannerClose');
+    if (!banner || !closeBtn) return;
+
+    // Show only on first visit — localStorage persists across sessions
+    if (!localStorage.getItem(SEEN_KEY)) {
+      banner.classList.remove('hidden');
+    }
+
+    closeBtn.addEventListener('click', () => {
+      banner.classList.add('hidden');
+      localStorage.setItem(SEEN_KEY, '1');
+    });
   },
 
   // ── Index ─────────────────────────────────────────────────────────────────
@@ -265,13 +285,13 @@ window.StotramApp = {
     const sections = meta.sections || meta.chapters || [];
     const tabsEl   = document.getElementById('sectionTabs');
     if (tabsEl) {
-      // Build tabs using lipi+lang-aware label from the start
+      // Tab labels follow lipi (script) — same script as the shloka text.
+      // Lang does NOT affect tab labels; lipi alone decides the script.
       const _lipi = window.StotramSettings?.get('lipi') || 'te';
-      const _lang = window.i18n?.lang || 'en';
       const _tabLabel = sec => {
         if (_lipi === 'sa')   return sec.title_sa || sec.title_te || sec.title_en;
         if (_lipi === 'iast') return sec.title_en || sec.title_te;
-        return _lang === 'te' ? (sec.title_te || sec.title_en) : (sec.title_en || sec.title_te);
+        return sec.title_te || sec.title_sa || sec.title_en;   // lipi=te → always Telugu
       };
       tabsEl.innerHTML = sections.length > 1
         ? sections.map((sec, i) =>
@@ -388,27 +408,24 @@ window.StotramApp = {
     if (subtitleEl) subtitleEl.textContent = subtitle || '';
   },
 
-  // Re-render section tabs when UI language OR lipi changes.
-  // Priority: lipi wins for script choice; UI lang picks te vs en for non-sa lipis.
-  //   lipi=sa   → show title_sa (Devanagari label)
-  //   lipi=iast → show title_en (closest Latin equivalent)
-  //   lipi=te   → show title_te when UI lang=te, else title_en
+  // Re-render section tabs when UI language or lipi changes.
+  // Tab labels follow lipi (same script as shloka text).
+  // When lipi=te, UI lang (te/en) decides between title_te and title_en.
   _updateSectionTabs() {
     const meta = this.currentMeta;
     if (!meta) return;
     const sections = meta.sections || meta.chapters || [];
-    const lipi     = window.StotramSettings?.get('lipi') || 'te';
-    const lang     = window.i18n?.lang || 'en';
+    // Tab labels follow lipi (same script as shloka text).
+    const lipi = window.StotramSettings?.get('lipi') || 'te';
+    const lang = window.i18n?.lang || 'en';
 
     document.querySelectorAll('#sectionTabs .section-tab').forEach((btn, i) => {
       const sec = sections[i];
       if (!sec) return;
       let label;
-      if (lipi === 'sa')   label = sec.title_sa || sec.title_te || sec.title_en;
+      if (lipi === 'sa')        label = sec.title_sa || sec.title_te || sec.title_en;
       else if (lipi === 'iast') label = sec.title_en || sec.title_te;
-      else                 label = lang === 'te'
-                                    ? (sec.title_te || sec.title_en)
-                                    : (sec.title_en || sec.title_te);
+      else                      label = sec.title_te || sec.title_sa || sec.title_en;  // lipi=te → always Telugu
       btn.textContent = label || '';
     });
   },

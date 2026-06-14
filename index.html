@@ -61,18 +61,25 @@
 
     <!-- Header Controls -->
     <div class="header-controls">
-      <!-- Lipi Toggle -->
-      <div class="lipi-toggle" role="group" aria-label="Script selector">
-        <button class="lipi-btn" data-lipi="sa" title="Devanagari">देव</button>
-        <button class="lipi-btn active" data-lipi="te" title="Telugu">తె</button>
-        <button class="lipi-btn" data-lipi="iast" title="IAST">IAST</button>
+
+      <!-- Lipi (Script) Toggle -->
+      <div class="ctrl-group">
+        <span class="ctrl-label">Script</span>
+        <div class="lipi-toggle" role="group" aria-label="Script selector">
+          <button class="lipi-btn" data-lipi="sa">देव</button>
+          <button class="lipi-btn active" data-lipi="te">తె</button>
+          <button class="lipi-btn" data-lipi="iast">IAST</button>
+        </div>
       </div>
 
       <!-- UI Lang Toggle -->
-      <button class="uilang-btn" id="uilangToggle" title="Switch language / భాష మార్చు">
-        <span class="lang-label-en">EN</span>
-        <span class="lang-label-te">తె</span>
-      </button>
+      <div class="ctrl-group">
+        <span class="ctrl-label">Lang</span>
+        <button class="uilang-btn" id="uilangToggle">
+          <span class="lang-label-en">EN</span>
+          <span class="lang-label-te">తె</span>
+        </button>
+      </div>
 
       <!-- Settings -->
       <button class="icon-btn" id="settingsBtn" data-i18n-title="tip_settings" aria-label="Open settings">
@@ -88,6 +95,19 @@
       <button class="icon-btn hamburger" id="menuToggle" aria-label="Toggle menu">
         <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
       </button>
+    </div>
+  </div>
+
+  <!-- First-time help banner (hidden by default; shown via JS if not seen before) -->
+  <div class="help-banner hidden" id="helpBanner" role="status" aria-live="polite">
+    <div class="help-banner-content">
+      <span class="help-banner-icon">💡</span>
+      <span class="help-banner-text">
+        <strong>Script</strong> (देव · తె · IAST) changes how shloka text is written.
+        &nbsp;·&nbsp;
+        <strong>Lang</strong> (EN · తె) switches menus and labels.
+      </span>
+      <button class="help-banner-close" id="helpBannerClose" aria-label="Dismiss">✕</button>
     </div>
   </div>
 
@@ -399,7 +419,7 @@
      SCRIPTS
 ═══════════════════════════════════════════════════════ -->
 <!-- Sanscript.js from CDN -->
-<script src="https://cdn.jsdelivr.net/npm/sanscript@1.1.5/sanscript.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@indic-transliteration/sanscript/sanscript.min.js"></script>
 <!-- Fuse.js -->
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
 <!-- YouTube IFrame API (async) -->

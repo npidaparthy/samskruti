@@ -256,6 +256,60 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 /* Lipi Toggle */
+/* ── ctrl-group: label + control stacked ─────────────────────────────────── */
+.ctrl-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.18rem;
+}
+.ctrl-label {
+  font-size: 0.6rem;
+  font-family: var(--font-en);
+  color: rgba(255,255,255,0.42);
+  letter-spacing: 0.04em;
+  line-height: 1;
+  user-select: none;
+}
+
+/* ── First-time help banner ───────────────────────────────────────────────── */
+.help-banner {
+  background: linear-gradient(90deg, rgba(26,35,126,0.96), rgba(57,73,171,0.96));
+  border-bottom: 1px solid rgba(255,255,255,0.10);
+  padding: 0.55rem 1rem;
+  animation: slideDown 0.3s ease;
+}
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.help-banner-content {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  max-width: 860px;
+  margin: 0 auto;
+}
+.help-banner-icon { font-size: 1rem; flex-shrink: 0; }
+.help-banner-text {
+  font-size: 0.78rem;
+  color: rgba(255,255,255,0.88);
+  font-family: var(--font-en);
+  line-height: 1.5;
+  flex: 1;
+}
+.help-banner-text strong { color: #fff; }
+.help-banner-close {
+  color: rgba(255,255,255,0.55);
+  font-size: 0.85rem;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  flex-shrink: 0;
+  transition: color 0.15s;
+}
+.help-banner-close:hover { color: #fff; }
+
+/* ── Lipi Toggle ─────────────────────────────────────────────────────────── */
 .lipi-toggle {
   display: flex;
   background: rgba(0,0,0,0.25);
@@ -278,20 +332,34 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* UI Lang Toggle */
 .uilang-btn {
-  background: rgba(255,255,255,0.12);
+  background: rgba(0,0,0,0.25);
   color: rgba(255,255,255,0.85);
   border-radius: 20px;
-  padding: 0.28rem 0.65rem;
+  padding: 0;
   font-size: 0.78rem;
   display: flex;
-  gap: 0.3rem;
   align-items: center;
+  overflow: hidden;
   transition: background var(--transition);
 }
-.uilang-btn:hover { background: rgba(255,255,255,0.22); }
-.lang-label-en, .lang-label-te { transition: font-weight var(--transition); }
-[data-uilang="en"] .lang-label-en { font-weight: 700; color: var(--c-accent); }
-[data-uilang="te"] .lang-label-te { font-weight: 700; color: var(--c-accent); }
+.lang-label-en,
+.lang-label-te {
+  padding: 0.28rem 0.6rem;
+  transition: background var(--transition), color var(--transition), font-weight var(--transition);
+  color: rgba(255,255,255,0.6);
+}
+[data-uilang="en"] .lang-label-en {
+  background: var(--c-accent);
+  color: var(--c-primary);
+  font-weight: 700;
+}
+[data-uilang="te"] .lang-label-te {
+  background: var(--c-accent);
+  color: var(--c-primary);
+  font-weight: 700;
+}
+.uilang-btn:hover .lang-label-en,
+.uilang-btn:hover .lang-label-te { color: #fff; }
 
 .icon-btn {
   color: rgba(255,255,255,0.80);
