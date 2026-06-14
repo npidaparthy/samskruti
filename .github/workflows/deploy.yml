@@ -39,6 +39,12 @@ jobs:
           node scripts/generate-images.js
           echo "Images generated."
 
+      - name: Generate favicon index
+        run: |
+          files=$(ls assets/icons/options/*.svg | xargs -I{} basename {} .svg | jq -R . | jq -s .)
+          echo "$files" > assets/icons/options/index.json
+          echo "Favicon index → $(echo $files | jq length) icons"
+
       - name: Show generated files
         run: |
           echo "=== Generated transliteration files ==="

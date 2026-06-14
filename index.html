@@ -9,7 +9,19 @@
   <!-- PWA -->
   <link rel="manifest" href="manifest.json" />
   <meta name="theme-color" content="#1A237E" />
-  <link rel="apple-touch-icon" href="assets/icons/icon-192.png" />
+  <!-- Favicons — randomly selected from available options on each load -->
+  <link rel="icon" id="faviconLink" href="assets/icons/options/om-plain_indigo-gold.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.svg" />
+  <script>
+    // Auto-discover favicons from CI-generated index — new random icon on every load
+    fetch('assets/icons/options/index.json')
+      .then(r => r.json())
+      .then(function(icons) {
+        var pick = icons[Math.floor(Math.random() * icons.length)];
+        document.getElementById('faviconLink').href = 'assets/icons/options/' + pick + '.svg';
+      })
+      .catch(function() {});
+  </script>
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
