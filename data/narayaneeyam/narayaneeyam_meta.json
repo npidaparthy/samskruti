@@ -1,0 +1,39 @@
+{
+    "slug": "narayaneeyam",
+    "theme": "theme-bhakti",
+    "tags": [
+        "narayana bhattathiri",
+        "narayaneeyam",
+        "devotion",
+        "stuti"
+    ],
+    "synonyms": [],
+    "youtube_url": "",
+    "featured": true,
+    "images": [
+        "assets/images/narayaneeyam-01.svg"
+    ],
+    "sections": [
+        {
+            "id": "14",
+            "title_te": "కపిలావతారమ్",
+            "title_sa": "कपिलावतारम्",
+            "title_en": "kapilavataram",
+            "file": "narayaneeyam_14.txt"
+        },
+        {
+            "id": "15",
+            "title_te": "కపిలోపదేశమ్",
+            "title_sa": "कपिलेोपदेशम्",
+            "title_en": "kapilopadesam",
+            "file": "narayaneeyam_15.txt"
+        },
+        {
+            "id": "17",
+            "title_te": "ధ్రువచరితమ్",
+            "title_sa": "ध्रुवचरितम्",
+            "title_en": "dhruvacaritam",
+            "file": "narayaneeyam_17.txt"
+        }
+    ]
+}

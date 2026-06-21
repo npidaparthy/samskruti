@@ -478,6 +478,18 @@
       "images": [
         "assets/images/surya-ashtakam-01.svg"
       ]
+    },
+    {
+      "slug": "narayaneeyam",
+      "title_te": "శ్రీమన్నారాయణీయమ్",
+      "title_sa": "श्रीमन्नारायणीयम्",
+      "title_en": "śrīmannārāyaṇīyam",
+      "description_en": "The Narayaneeyam is a Vedic hymn composed by Narayana Bhattathiri, consisting of ten verses in the Totaka meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
+      "description_te": "శ్రీమన్నారాయణీయమ్, నారాయణ భట్టాతిరి రచించిన వేద స్తోత్రం, ఇది పది శ్లోకాలతో కూడి, నారాయణభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
+      "featured": true,
+      "images": [
+        "assets/images/narayaneeyam-01.svg"
+      ]
     }
   ]
 }
