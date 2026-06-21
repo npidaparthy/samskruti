@@ -790,6 +790,33 @@ input[type="color"] {
 .section-tab:hover { border-color: var(--c-primary); color: var(--c-primary); }
 .section-tab.active { background: var(--c-primary); border-color: var(--c-primary); color: #fff; }
 
+/* Section dropdown (used when sections > SECTION_TAB_THRESHOLD) */
+.section-dropdown-wrap {
+  display: flex; align-items: center; gap: 0.75rem;
+}
+.section-dropdown {
+  padding: 0.35rem 2rem 0.35rem 0.75rem;
+  border: 1.5px solid var(--c-border);
+  border-radius: 20px;
+  background: var(--c-surface);
+  color: var(--c-text);
+  font-size: 0.88rem;
+  font-family: var(--font-te);
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23888' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.6rem center;
+  cursor: pointer;
+  min-width: 12rem; max-width: 60vw;
+}
+.section-dropdown:focus { outline: none; border-color: var(--c-primary); }
+.section-dropdown-count {
+  font-size: 0.78rem;
+  color: var(--c-text-muted);
+  white-space: nowrap;
+}
+
 /* Stotram image */
 .stotram-image-wrap {
   margin-bottom: 1.25rem;

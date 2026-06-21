@@ -8,7 +8,6 @@ const ASSETS = [
     '/assets/js/modules/parser.js',
     '/assets/js/modules/audio.js',
     '/assets/js/modules/search.js',
-    '/assets/js/modules/bookmarks.js',
     '/assets/js/modules/ui.js',
     '/data/stotrams.json',
 ];

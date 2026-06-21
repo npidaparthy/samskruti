@@ -1,8 +1,7 @@
-/**
- * app.js — Main application bootstrap, routing, URL hash navigation.
- * FIX: URL now updates on navigation so stotrams are shareable.
- * FIX: Search now indexes loaded shlokas.
- */
+// ── Config ───────────────────────────────────────────────────────────────────
+const SECTION_TAB_THRESHOLD = 6; // ≤ this → pill tabs; > this → dropdown
+
+// ─────────────────────────────────────────────────────────────────────────────
 
 window.StotramApp = {
   currentSlug: null,
@@ -292,31 +291,13 @@ window.StotramApp = {
 
     this._updateReaderHeader();
 
-    /* Section tabs */
+    /* Section tabs — pills if ≤ SECTION_TAB_THRESHOLD, dropdown if more */
     const sections = meta.sections || meta.chapters || [];
     const tabsEl   = document.getElementById('sectionTabs');
-    if (tabsEl) {
-      // Tab labels follow lipi (script) — same script as the shloka text.
-      // Lang does NOT affect tab labels; lipi alone decides the script.
-      const _lipi = window.StotramSettings?.get('lipi') || 'te';
-      const _tabLabel = sec => {
-        if (_lipi === 'sa')   return sec.title_sa || sec.title_te || sec.title_en;
-        if (_lipi === 'iast') return sec.title_en || sec.title_te;
-        return sec.title_te || sec.title_sa || sec.title_en;   // lipi=te → always Telugu
-      };
-      tabsEl.innerHTML = sections.length > 1
-        ? sections.map((sec, i) =>
-            `<button class="section-tab${i === 0 ? ' active' : ''}" data-si="${i}">
-              ${this._esc(_tabLabel(sec))}
-            </button>`).join('')
-        : '';
-      tabsEl.addEventListener('click', e => {
-        const btn = e.target.closest('.section-tab');
-        if (!btn) return;
-        tabsEl.querySelectorAll('.section-tab').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        this.renderSection(slug, parseInt(btn.dataset.si));
-      });
+    if (tabsEl && sections.length > 1) {
+      this._renderSectionNav(tabsEl, slug, sections, 0);
+    } else if (tabsEl) {
+      tabsEl.innerHTML = '';
     }
 
     /* Bottom nav — delegate clicks on dynamically rendered buttons */
@@ -327,8 +308,7 @@ window.StotramApp = {
       const top  = e.target.closest('.bottom-nav-top');
       if (prev || next) {
         const si = parseInt((prev || next).dataset.si);
-        document.querySelectorAll('.section-tab').forEach(b =>
-          b.classList.toggle('active', parseInt(b.dataset.si) === si));
+        this._setSectionActive(si);
         this.renderSection(slug, si);
         document.getElementById('page-reader')?.scrollTo({ top: 0, behavior: 'smooth' });
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -428,23 +408,82 @@ window.StotramApp = {
   // Re-render section tabs when UI language or lipi changes.
   // Tab labels follow lipi (same script as shloka text).
   // When lipi=te, UI lang (te/en) decides between title_te and title_en.
+  // ── Section navigation helpers ────────────────────────────────────────────
+  _sectionLabel(sec) {
+    const lipi = window.StotramSettings?.get('lipi') || 'te';
+    if (lipi === 'sa')   return sec.title_sa || sec.title_te || sec.title_en;
+    if (lipi === 'iast') return sec.title_en || sec.title_te;
+    return sec.title_te || sec.title_sa || sec.title_en;
+  },
+
+  _renderSectionNav(tabsEl, slug, sections, activeIdx) {
+    if (sections.length <= SECTION_TAB_THRESHOLD) {
+      // Pill tabs
+      tabsEl.innerHTML = sections.map((sec, i) =>
+        `<button class="section-tab${i === activeIdx ? ' active' : ''}" data-si="${i}">
+          ${this._esc(this._sectionLabel(sec))}
+        </button>`).join('');
+      tabsEl.addEventListener('click', e => {
+        const btn = e.target.closest('.section-tab');
+        if (!btn) return;
+        const si = parseInt(btn.dataset.si);
+        this._setSectionActive(si);
+        this.renderSection(slug, si);
+      });
+    } else {
+      // Dropdown for large section counts
+      const lang = window.i18n?.lang || 'en';
+      const ofLabel = lang === 'te' ? 'లో' : 'of';
+      tabsEl.innerHTML =
+        `<div class="section-dropdown-wrap">
+          <select class="section-dropdown" aria-label="Select section">
+            ${sections.map((sec, i) =>
+              `<option value="${i}"${i === activeIdx ? ' selected' : ''}>
+                ${this._esc(this._sectionLabel(sec))}
+              </option>`).join('')}
+          </select>
+          <span class="section-dropdown-count">${activeIdx + 1} ${ofLabel} ${sections.length}</span>
+        </div>`;
+      tabsEl.querySelector('.section-dropdown')?.addEventListener('change', e => {
+        const si = parseInt(e.target.value);
+        this._setSectionActive(si);
+        this.renderSection(slug, si);
+      });
+    }
+  },
+
+  _setSectionActive(si) {
+    // Pills
+    document.querySelectorAll('#sectionTabs .section-tab').forEach(b =>
+      b.classList.toggle('active', parseInt(b.dataset.si) === si));
+    // Dropdown
+    const sel = document.querySelector('#sectionTabs .section-dropdown');
+    if (sel) {
+      sel.value = si;
+      const lang = window.i18n?.lang || 'en';
+      const ofLabel = lang === 'te' ? 'లో' : 'of';
+      const count = document.querySelector('.section-dropdown-count');
+      if (count) count.textContent = `${si + 1} ${ofLabel} ${sel.options.length}`;
+    }
+  },
+
   _updateSectionTabs() {
     const meta = this.currentMeta;
     if (!meta) return;
     const sections = meta.sections || meta.chapters || [];
-    // Tab labels follow lipi (same script as shloka text).
-    const lipi = window.StotramSettings?.get('lipi') || 'te';
-    const lang = window.i18n?.lang || 'en';
-
-    document.querySelectorAll('#sectionTabs .section-tab').forEach((btn, i) => {
-      const sec = sections[i];
-      if (!sec) return;
-      let label;
-      if (lipi === 'sa')        label = sec.title_sa || sec.title_te || sec.title_en;
-      else if (lipi === 'iast') label = sec.title_en || sec.title_te;
-      else                      label = sec.title_te || sec.title_sa || sec.title_en;  // lipi=te → always Telugu
-      btn.textContent = label || '';
-    });
+    if (sections.length <= SECTION_TAB_THRESHOLD) {
+      // Update pill labels for lipi change
+      document.querySelectorAll('#sectionTabs .section-tab').forEach((btn, i) => {
+        const sec = sections[i];
+        if (sec) btn.textContent = this._sectionLabel(sec);
+      });
+    } else {
+      // Update dropdown option labels for lipi change
+      document.querySelectorAll('#sectionTabs .section-dropdown option').forEach((opt, i) => {
+        const sec = sections[i];
+        if (sec) opt.textContent = this._sectionLabel(sec);
+      });
+    }
   },
 
   // ── Bottom navigation (end of section) ───────────────────────────────────
