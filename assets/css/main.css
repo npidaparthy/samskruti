@@ -234,8 +234,7 @@ img { max-width: 100%; height: auto; display: block; }
   transition: background var(--transition), color var(--transition);
 }
 .main-nav .nav-tab .en-label {
-  font-size: 0.65rem;
-  opacity: 0.7;
+  font-size: 0.82rem;
   font-family: var(--font-en);
 }
 .main-nav .nav-tab:hover,
@@ -1155,7 +1154,8 @@ input[type="color"] {
 /* ── PRINT ── */
 @media print {
   .site-header, .search-bar-wrap, .audio-panel, .settings-panel,
-  .settings-overlay, .site-footer, .back-btn, .img-toggle { display: none !important; }
+  .settings-overlay, .site-footer, .back-btn, .img-toggle,
+  .shloka-num, .shloka-bookmark-btn, .bottom-nav, .fab-top { display: none !important; }
   .shloka-block { break-inside: avoid; page-break-inside: avoid; }
   body { background: white; color: black; }
 }
