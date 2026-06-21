@@ -16,7 +16,7 @@ window.StotramApp = {
     await this.loadIndex();
     this.bindNav();
     await window.StotramSearch?.init(this.stotramsIndex);
-    window.StotramBookmarks?.init();
+
     this.setupInstallPrompt();
 
     /* URL hash routing — supports sharing links */
@@ -392,8 +392,6 @@ window.StotramApp = {
         return `<div class="section-head">${this._esc(b.text)}</div>`;
       }
       if (b.type === 'shloka') {
-        const key = `${slug}:${b.index}`;
-        const bm  = window.StotramBookmarks?.has(key);
         return `
           <div class="shloka-block" id="shloka-${b.index}"
                data-index="${b.index}"
@@ -401,10 +399,6 @@ window.StotramApp = {
                data-audio-end="${b.audioEnd ?? ''}">
             <div class="shloka-num">
               <span>${window.i18n?.t('shloka_label') || 'శ్లోకం'} ${b.index}</span>
-              <button class="shloka-bookmark-btn ${bm ? 'bookmarked' : ''}"
-                      data-bm-key="${key}" aria-label="Bookmark">
-                ${bm ? '🔖' : '🏷️'}
-              </button>
             </div>
             <div class="shloka-text">${this._esc(b.text)}</div>
           </div>`;

@@ -940,15 +940,6 @@ input[type="color"] {
   justify-content: space-between;
   align-items: center;
 }
-.shloka-bookmark-btn {
-  color: var(--c-text-muted);
-  font-size: 0.85rem;
-  padding: 0.1rem 0.3rem;
-  border-radius: var(--radius);
-  transition: color var(--transition);
-}
-.shloka-bookmark-btn:hover { color: var(--c-accent); }
-.shloka-bookmark-btn.bookmarked { color: var(--c-accent); }
 
 .shloka-text {
   font-size: 1.15rem;
@@ -1155,7 +1146,7 @@ input[type="color"] {
 @media print {
   .site-header, .search-bar-wrap, .audio-panel, .settings-panel,
   .settings-overlay, .site-footer, .back-btn, .img-toggle,
-  .shloka-num, .shloka-bookmark-btn, .bottom-nav, .fab-top { display: none !important; }
+  .shloka-num, .bottom-nav, .fab-top { display: none !important; }
   .shloka-block { break-inside: avoid; page-break-inside: avoid; }
   body { background: white; color: black; }
 }
