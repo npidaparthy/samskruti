@@ -15,17 +15,24 @@
     ],
     "sections": [
         {
+            "id": "1",
+            "title_te": "భగవన్మహిమానువర్ణనమ్",
+            "title_sa": "भगवन्महिमानुवर्णनम्",
+            "title_en": "bhagavanmahimānuvarṇanam",
+            "file": "narayaneeyam_1.txt"
+        },
+        {
             "id": "14",
             "title_te": "కపిలావతారమ్",
             "title_sa": "कपिलावतारम्",
-            "title_en": "kapilavataram",
+            "title_en": "kapilāvatāram",
             "file": "narayaneeyam_14.txt"
         },
         {
             "id": "15",
             "title_te": "కపిలోపదేశమ్",
-            "title_sa": "कपिलेोपदेशम्",
-            "title_en": "kapilopadesam",
+            "title_sa": "कपिलोपदेशम्",
+            "title_en": "kapilopadeśam",
             "file": "narayaneeyam_15.txt"
         },
         {
@@ -34,6 +41,20 @@
             "title_sa": "ध्रुवचरितम्",
             "title_en": "dhruvacaritam",
             "file": "narayaneeyam_17.txt"
-        }
+        },
+        {
+            "id": "24",
+            "title_te": "ప్రహ్లాదచరితమ్",
+            "title_sa": "प्रह्लादचरितम्",
+            "title_en": "prahlādacaritam",
+            "file": "narayaneeyam_24.txt"
+        },
+        {
+            "id": "25",
+            "title_te": "నరసింహావతారమ్",
+            "title_sa": "नृसिंहावतारम्",
+            "title_en": "nṛsiṃhāvatāram",
+            "file": "narayaneeyam_25.txt"
+        },
     ]
 }
