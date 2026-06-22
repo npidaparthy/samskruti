@@ -1,0 +1,31 @@
+{
+  "id": "dharma-001",
+  "tags": ["dharma", "summary", "vyasa"],
+  "shlokam": {
+    "te": "అష్టాదశ పురాణేషు వ్యాసస్య వచనద్వయమ్ ।\nపరోపకారః పుణ్యాయ పాపాయ పరపీడనమ్ ॥",
+    "sa": "अष्टादश पुराणेषु व्यासस्य वचनद्वयम् ।\nपरोपकारः पुण्याय पापाय परपीडनम् ॥",
+    "iast": "aṣṭādaśa purāṇeṣu vyāsasya vacanadvayam |\nparopakāraḥ puṇyāya pāpāya parapīḍanam ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup)",
+  "granthaH": {
+    "name_te": "వ్యాస వచనమ్ (పద్మపురాణమ్ అని ఉద్ధృతమైనది)",
+    "name_en": "Vyāsa Vacana (cited in Padma Purāṇa)",
+    "chapter": ""
+  },
+  "padavibhagam": {
+    "te": "అష్టాదశ | పురాణేషు | వ్యాసస్య | వచనద్వయమ్ | పరోపకారః | పుణ్యాయ | పాపాయ | పరపీడనమ్",
+    "en": "aṣṭādaśa | purāṇeṣu | vyāsasya | vacanadvayam | paropakāraḥ | puṇyāya | pāpāya | parapīḍanam"
+  },
+  "anvayam": {
+    "te": "అష్టాదశ పురాణేషు వ్యాసస్య వచనద్వయమ్ (అస్తి): పరోపకారః పుణ్యాయ (భవతి); పరపీడనమ్ పాపాయ (భవతి).",
+    "en": "In all eighteen Purāṇas (aṣṭādaśa purāṇeṣu), Vyāsa's two statements (vacanadvayam) are: service to others (paropakāraḥ) leads to merit (puṇyāya); causing pain to others (parapīḍanam) leads to sin (pāpāya)."
+  },
+  "meaning": {
+    "te": "అష్టాదశ పురాణాలలో వ్యాసుడు చెప్పింది రెండు మాటలే: పరోపకారమే పుణ్యం; పరపీడనమే పాపం.",
+    "en": "Of all that Vyāsa has said across the eighteen Purāṇas, the essence is just two statements: service to others is virtue; harming others is sin."
+  },
+  "tatparyam": {
+    "te": "అష్టాదశ పురాణాలలో లక్షల శ్లోకాలు ఉన్నాయి. వ్యాసుడు వాటన్నింటి సారాన్ని రెండు వాక్యాలలో ఇచ్చాడు: ఇతరులకు సహాయం చేయడమే ధర్మం — ఇతరులను హింసించడమే అధర్మం. ఇంత సరళమైన, సార్వజనీనమైన నిర్వచనం మరొకటి లేదు.",
+    "en": "The eighteen Purāṇas together contain hundreds of thousands of verses. Vyāsa distils their entire wisdom into two statements: helping others is dharma; harming others is adharma. No simpler or more universal definition of righteousness has ever been given."
+  }
+}

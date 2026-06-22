@@ -1,0 +1,31 @@
+{
+  "id": "dharma-007",
+  "tags": ["dharma", "uttishtha", "jagrata", "veda"],
+  "shlokam": {
+    "te": "ఉత్తిష్ఠత జాగ్రత ప్రాప్య వరాన్నిబోధత ।\nక్షురస్య ధారా నిశితా దురత్యయా దుర్గం పథస్తత్కవయో వదన్తి ॥",
+    "sa": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत ।\nक्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ॥",
+    "iast": "uttiṣṭhata jāgrata prāpya varānnibodhata |\nkṣurasya dhārā niśitā duratyayā durgaṃ pathastatkavayo vadanti ||"
+  },
+  "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
+  "granthaH": {
+    "name_te": "కఠోపనిషత్",
+    "name_en": "Kaṭha Upaniṣad",
+    "chapter": "1.3.14 (Yama to Naciketas)"
+  },
+  "padavibhagam": {
+    "te": "ఉత్తిష్ఠత | జాగ్రత | ప్రాప్య | వరాన్ | నిబోధత | క్షురస్య | ధారా | నిశితా | దురత్యయా | దుర్గమ్ | పథః | తత్ | కవయః | వదన్తి",
+    "en": "uttiṣṭhata | jāgrata | prāpya | varān | nibodhata | kṣurasya | dhārā | niśitā | duratyayā | durgam | pathaḥ | tat | kavayaḥ | vadanti"
+  },
+  "anvayam": {
+    "te": "ఉత్తిష్ఠత, జాగ్రత, వరాన్ ప్రాప్య నిబోధత; (జ్ఞానమార్గః) క్షురస్య నిశితా ధారా (వంటి) దురత్యయా (అస్తి); తత్ పథః దుర్గమ్ ఇతి కవయః వదన్తి.",
+    "en": "Arise (uttiṣṭhata), awake (jāgrata), and having approached great teachers (varān prāpya), learn (nibodhata); the path of knowledge is like the sharp edge of a razor (kṣurasya niśitā dhārā) — hard to cross (duratyayā); such is that difficult path (durgam pathaḥ), say the wise (kavayaḥ vadanti)."
+  },
+  "meaning": {
+    "te": "లేవండి, మేలుకోండి, గురువులను ఆశ్రయించి జ్ఞానాన్ని గ్రహించండి. జ్ఞానమార్గం క్షురధార వంటిది — నిశితమైన, దాటడానికి అతికష్టమైనది; అది దుర్గమం అని జ్ఞానులు చెప్తారు.",
+    "en": "Arise, awake, and having approached teachers, learn! The path of knowledge is like the razor's edge — sharp and hard to traverse; that path is difficult, say the wise."
+  },
+  "tatparyam": {
+    "te": "యముడు నచికేతసునికి ఈ మాటలు చెప్పాడు. మోక్షమార్గం సులభం కాదు — అది క్షురధారలా నిశితమైనది. కానీ నిరాశ పడకుండా లేచి, మేలుకొని, అర్హులైన గురువులను ఆశ్రయించి పురోగమించమని ఉత్సాహపరుస్తున్నాడు. స్వామి వివేకానంద ఈ మాటలను తన ఉపన్యాసాలలో వినియోగించుకొని యువతను ప్రేరేపించారు.",
+    "en": "Yama speaks these words to Naciketā. The path to liberation is not easy — it is as sharp and treacherous as a razor's edge. Yet Yama's message is not discouragement but inspiration: arise, wake up, seek qualified teachers, and walk the path with determination. Swami Vivekananda famously drew on this verse to awaken the youth of India."
+  }
+}

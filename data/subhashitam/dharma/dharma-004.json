@@ -1,0 +1,31 @@
+{
+  "id": "dharma-004",
+  "tags": ["dharma", "janani", "janmabhoomi", "matru"],
+  "shlokam": {
+    "te": "జననీ జన్మభూమిశ్చ స్వర్గాదపి గరీయసీ ।",
+    "sa": "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी ।",
+    "iast": "jananī janmabhūmiśca svargādapi garīyasī |"
+  },
+  "chandaH": "అనుష్టుప్ అర్ధభాగమ్ (half-verse, Anuṣṭup)",
+  "granthaH": {
+    "name_te": "వాల్మీకి రామాయణమ్ — యుద్ధకాణ్డమ్",
+    "name_en": "Vālmīki Rāmāyaṇa — Yuddha Kāṇḍa",
+    "chapter": "6.124.17 (Rāma to Lakṣmaṇa)"
+  },
+  "padavibhagam": {
+    "te": "జననీ | జన్మభూమిః | చ | స్వర్గాత్ | అపి | గరీయసీ",
+    "en": "jananī | janmabhūmiḥ | ca | svargāt | api | garīyasī"
+  },
+  "anvayam": {
+    "te": "జననీ జన్మభూమిః చ స్వర్గాత్ అపి గరీయసీ (అస్తి).",
+    "en": "Mother (jananī) and motherland (janmabhūmiḥ) are greater (garīyasī) even than heaven (svargāt api)."
+  },
+  "meaning": {
+    "te": "తల్లి మరియు జన్మభూమి — ఈ రెండూ స్వర్గంకన్నా కూడా గొప్పవి.",
+    "en": "Mother and motherland are greater even than heaven."
+  },
+  "tatparyam": {
+    "te": "లంకను జయించి, సీతమ్మను తిరిగి పొందిన తర్వాత లక్ష్మణుడు లంకలో నివసిద్దామని సూచించగా, రాముడు ఈ మాటలు చెప్పాడు. స్వర్ణమయమైన లంక కంటే కూడా మన తల్లి, మన జన్మభూమి గొప్పవని రాముడు ప్రకటించాడు. ఇది దేశభక్తికి, మాతృభావానికి పరాకాష్ఠ.",
+    "en": "After conquering Lanka and rescuing Sītā, when Lakṣmaṇa suggested settling in the golden city of Lanka, Rāma spoke these words. Even the most magnificent foreign land cannot compare to one's mother and motherland. This remains the most powerful expression of patriotism and filial devotion in all of Sanskrit literature."
+  }
+}

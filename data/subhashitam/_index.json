@@ -1,0 +1,202 @@
+[
+  {
+    "id": "niti-001",
+    "file": "niti/niti-001.json",
+    "tags": ["niti", "vidya", "vinaya"],
+    "firstline_te": "విద్యా దదాతి వినయం",
+    "firstline_sa": "विद्या ददाति विनयं",
+    "source_en": "Vidura Nīti / Hitopadeśa"
+  },
+  {
+    "id": "niti-002",
+    "file": "niti/niti-002.json",
+    "tags": ["niti", "paropakara", "vriksha"],
+    "firstline_te": "పరోపకారాయ ఫలన్తి వృక్షాః",
+    "firstline_sa": "परोपकाराय फलन्ति वृक्षाः",
+    "source_en": "Subhāṣita tradition"
+  },
+  {
+    "id": "niti-003",
+    "file": "niti/niti-003.json",
+    "tags": ["niti", "alasya", "purusha"],
+    "firstline_te": "ఆలస్యం హి మనుష్యాణాం",
+    "firstline_sa": "आलस्यं हि मनुष्याणां",
+    "source_en": "Hitopadeśa"
+  },
+  {
+    "id": "niti-004",
+    "file": "niti/niti-004.json",
+    "tags": ["niti", "vidya", "dhana"],
+    "firstline_te": "న చోరహార్యం న చ రాజహార్యం",
+    "firstline_sa": "न चोरहार्यं न च राजहार्यं",
+    "source_en": "Hitopadeśa"
+  },
+  {
+    "id": "niti-005",
+    "file": "niti/niti-005.json",
+    "tags": ["niti", "mitra", "aapatkala"],
+    "firstline_te": "ఆపత్కాలే తు సంప్రాప్తే",
+    "firstline_sa": "आपत्काले तु संप्राप्ते",
+    "source_en": "Cāṇakya Nīti"
+  },
+  {
+    "id": "niti-006",
+    "file": "niti/niti-006.json",
+    "tags": ["niti", "manikya", "durlabha"],
+    "firstline_te": "శైలే శైలే న మాణిక్యం",
+    "firstline_sa": "शैले शैले न माणिक्यं",
+    "source_en": "Cāṇakya Nīti"
+  },
+  {
+    "id": "niti-007",
+    "file": "niti/niti-007.json",
+    "tags": ["niti", "kshama", "bala"],
+    "firstline_te": "క్షమా బలమశక్తానాం",
+    "firstline_sa": "क्षमा बलमशक्तानां",
+    "source_en": "Mahābhārata — Udyoga Parva"
+  },
+  {
+    "id": "niti-008",
+    "file": "niti/niti-008.json",
+    "tags": ["niti", "satya", "priya"],
+    "firstline_te": "సత్యం బ్రూయాత్ ప్రియం బ్రూయాత్",
+    "firstline_sa": "सत्यं ब्रूयात् प्रियं ब्रूयात्",
+    "source_en": "Manusmṛti 4.138"
+  },
+  {
+    "id": "niti-009",
+    "file": "niti/niti-009.json",
+    "tags": ["niti", "vasudhaiva", "kutumbakam"],
+    "firstline_te": "అయం నిజః పరో వేతి",
+    "firstline_sa": "अयं निजः परो वेति",
+    "source_en": "Mahopaniṣad 6.71"
+  },
+  {
+    "id": "niti-010",
+    "file": "niti/niti-010.json",
+    "tags": ["niti", "kavya", "kala"],
+    "firstline_te": "కావ్యశాస్త్రవినోదేన",
+    "firstline_sa": "काव्यशास्त्रविनोदेन",
+    "source_en": "Subhāṣita tradition"
+  },
+  {
+    "id": "dharma-001",
+    "file": "dharma/dharma-001.json",
+    "tags": ["dharma", "paropakara", "vyasa"],
+    "firstline_te": "అష్టాదశ పురాణేషు",
+    "firstline_sa": "अष्टादश पुराणेषु",
+    "source_en": "Vyāsa Vacana"
+  },
+  {
+    "id": "dharma-002",
+    "file": "dharma/dharma-002.json",
+    "tags": ["dharma", "nari", "stri"],
+    "firstline_te": "యత్ర నార్యస్తు పూజ్యన్తే",
+    "firstline_sa": "यत्र नार्यस्तु पूज्यन्ते",
+    "source_en": "Manusmṛti 3.56"
+  },
+  {
+    "id": "dharma-003",
+    "file": "dharma/dharma-003.json",
+    "tags": ["dharma", "ratna", "prithvi", "subhashitam"],
+    "firstline_te": "పృథివ్యాం త్రీణి రత్నాని",
+    "firstline_sa": "पृथिव्यां त्रीणि रत्नानि",
+    "source_en": "Cāṇakya Nīti"
+  },
+  {
+    "id": "dharma-004",
+    "file": "dharma/dharma-004.json",
+    "tags": ["dharma", "janani", "janmabhoomi", "matru"],
+    "firstline_te": "జననీ జన్మభూమిశ్చ",
+    "firstline_sa": "जननी जन्मभूमिश्च",
+    "source_en": "Vālmīki Rāmāyaṇa — Yuddha Kāṇḍa 6.124.17"
+  },
+  {
+    "id": "dharma-005",
+    "file": "dharma/dharma-005.json",
+    "tags": ["dharma", "shanti", "sarve", "mangala"],
+    "firstline_te": "సర్వే భవన్తు సుఖినః",
+    "firstline_sa": "सर्वे भवन्तु सुखिनः",
+    "source_en": "Bṛhadāraṇyaka Upaniṣad / Vedic prayer"
+  },
+  {
+    "id": "dharma-006",
+    "file": "dharma/dharma-006.json",
+    "tags": ["dharma", "manas", "karya", "chanakya"],
+    "firstline_te": "మనసా చిన్తితం కార్యం",
+    "firstline_sa": "मनसा चिन्तितं कार्यं",
+    "source_en": "Cāṇakya Nīti Ch. 9"
+  },
+  {
+    "id": "dharma-007",
+    "file": "dharma/dharma-007.json",
+    "tags": ["dharma", "uttishtha", "jagrata", "upanishad"],
+    "firstline_te": "ఉత్తిష్ఠత జాగ్రత",
+    "firstline_sa": "उत्तिष्ठत जाग्रत",
+    "source_en": "Kaṭha Upaniṣad 1.3.14"
+  },
+  {
+    "id": "dharma-008",
+    "file": "dharma/dharma-008.json",
+    "tags": ["dharma", "sahana", "guru", "shanti"],
+    "firstline_te": "సహనావవతు సహ నౌ భునక్తు",
+    "firstline_sa": "सहनाववतु सह नौ भुनक्तु",
+    "source_en": "Taittirīya Upaniṣad — Śānti Pāṭha 2.1"
+  },
+  {
+    "id": "karma-001",
+    "file": "karma/karma-001.json",
+    "tags": ["karma", "gita", "adhikara", "phala"],
+    "firstline_te": "కర్మణ్యేవాధికారస్తే",
+    "firstline_sa": "कर्मण्येवाधिकारस्ते",
+    "source_en": "Bhagavad Gītā 2.47"
+  },
+  {
+    "id": "karma-002",
+    "file": "karma/karma-002.json",
+    "tags": ["karma", "gita", "dharma", "avatara"],
+    "firstline_te": "యదా యదా హి ధర్మస్య",
+    "firstline_sa": "यदा यदा हि धर्मस्य",
+    "source_en": "Bhagavad Gītā 4.7"
+  },
+  {
+    "id": "karma-003",
+    "file": "karma/karma-003.json",
+    "tags": ["karma", "jnana", "gita", "pavitra"],
+    "firstline_te": "న హి జ్ఞానేన సదృశం",
+    "firstline_sa": "न हि ज्ञानेन सदृशं",
+    "source_en": "Bhagavad Gītā 4.38"
+  },
+  {
+    "id": "karma-004",
+    "file": "karma/karma-004.json",
+    "tags": ["karma", "vinasha", "buddhi", "lokokti"],
+    "firstline_te": "వినాశకాలే విపరీతబుద్ధిః",
+    "firstline_sa": "विनाशकाले विपरीतबुद्धिः",
+    "source_en": "Mahābhārata — Udyoga Parva (proverb)"
+  },
+  {
+    "id": "seva-001",
+    "file": "seva/seva-001.json",
+    "tags": ["seva", "paropakara", "hari"],
+    "firstline_te": "పరహితం యస్య మనసః ప్రవృత్తయః",
+    "firstline_sa": "परहितं यस्य मनसः प्रवृत्तयः",
+    "source_en": "Nītiśataka / Purāṇa tradition"
+  },
+  {
+    "id": "seva-002",
+    "file": "seva/seva-002.json",
+    "tags": ["seva", "atithi", "matru", "guru"],
+    "firstline_te": "అతిథిదేవో భవ",
+    "firstline_sa": "अतिथिदेवो भव",
+    "source_en": "Taittirīya Upaniṣad — Śikṣāvallī 1.11.2"
+  },
+  {
+    "id": "seva-003",
+    "file": "seva/seva-003.json",
+    "tags": ["seva", "lokasangraha", "gita"],
+    "firstline_te": "లోకసంగ్రహమేవాపి",
+    "firstline_sa": "लोकसंग्रहमेवापि",
+    "source_en": "Bhagavad Gītā 3.20"
+  }
+]

@@ -57,6 +57,10 @@
         <span class="nav-te">స్తోత్రాలు</span>
         <span class="nav-en en-label">Stotrams</span>
       </button>
+      <button class="nav-tab nav-sub hidden" data-nav="subhashitam">
+        <span class="nav-te">సుభాషితం</span>
+        <span class="nav-en en-label">Subhāṣitam</span>
+      </button>
       <button class="nav-tab" data-nav="about">
         <span class="nav-te">గురించి</span>
         <span class="nav-en en-label">About</span>
@@ -126,6 +130,7 @@
   <nav class="mobile-nav hidden" id="mobileNav">
     <button class="nav-tab" data-nav="home"><span class="nav-te">హోమ్</span><span class="nav-en">Home</span></button>
     <button class="nav-tab" data-nav="stotrams"><span class="nav-te">స్తోత్రాలు</span><span class="nav-en">Stotrams</span></button>
+    <button class="nav-tab nav-sub hidden" data-nav="subhashitam"><span class="nav-te">సుభాషితం</span><span class="nav-en">Subhāṣitam</span></button>
     <button class="nav-tab" data-nav="about"><span class="nav-te">గురించి</span><span class="nav-en">About</span></button>
     <button class="nav-tab" data-nav="contact"><span class="nav-te">సంప్రదించండి</span><span class="nav-en">Contact</span></button>
     <button class="nav-tab" data-nav="credits"><span class="nav-te">కృతజ్ఞతలు</span><span class="nav-en">Credits</span></button>
@@ -439,7 +444,16 @@
     </div>
   </section>
 
+  <!-- ── SUBHASHITAM (beta-gated) ── -->
+  <section class="page hidden" id="page-subhashitam">
+    <div id="subhashitamList"></div>
+    <div id="subhashitamDetail" class="hidden"></div>
+  </section>
+
 </main>
+
+<!-- Beta access toast -->
+<div id="betaToast" class="beta-toast hidden" role="status" aria-live="polite"></div>
 
 <!-- ═══════════════════════════════════════════════════════
      FOOTER

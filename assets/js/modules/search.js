@@ -12,6 +12,7 @@ window.StotramSearch = {
   fuse: null,
   index: [],
   _uiBound: false,   // guard: bind DOM listeners exactly once
+  _filter: 'all',    // 'all' | 'stotram' | 'subhashitam'
 
   async init(stotramsIndex) {
     // Build base index from metadata
@@ -46,6 +47,28 @@ window.StotramSearch = {
       this._bindUI();
       this._uiBound = true;
     }
+  },
+
+  // Called once after subhashitam _index.json loads
+  addSubhashitam(entries) {
+    // Remove stale entries first
+    this.index = this.index.filter(e => e.type !== 'subhashitam');
+    entries.forEach(e => {
+      this.index.push({
+        id:          e.id,
+        type:        'subhashitam',
+        slug:        e.id,
+        file:        e.file,
+        stotram:     (e.firstline_te || '') + ' ' + (e.firstline_sa || ''),
+        stotram_en:  e.firstline_sa || '',
+        tags:        (e.tags || []).join(' '),
+        synonyms:    '',
+        description: e.source_en || '',
+        shloka_text: '',
+        section:     '',
+      });
+    });
+    this._buildFuse();
   },
 
   // Called by app.js after each section renders — adds shloka text to index
@@ -115,23 +138,35 @@ window.StotramSearch = {
       input.focus();
     });
 
-    // BUG 2 FIX: use navigate() which calls openStotram() internally
-    // Old code: openStotram() then navigate() separately — wrong order, wrong hash
+    // Filter chip clicks — re-run search with new filter
     results?.addEventListener('click', e => {
-      const item = e.target.closest('.search-result-item[data-slug]');
+      const chip = e.target.closest('.search-filter-chip');
+      if (chip) {
+        this._filter = chip.dataset.filter;
+        if (this._lastQuery) this._run(this._lastQuery);
+        return;
+      }
+    });
+
+    results?.addEventListener('click', e => {
+      const item = e.target.closest('.search-result-item');
       if (!item) return;
-      const slug = item.dataset.slug;
       results.classList.add('hidden');
       input.value = '';
       clear?.classList.add('hidden');
-      // navigate('reader', slug) handles both URL hash AND openStotram()
-      window.StotramApp?.navigate('reader', slug);
+      if (item.dataset.subId) {
+        // Subhashitam result — navigate to subhashitam page and open verse
+        window.StotramApp?.navigate('subhashitam');
+        window.StotramApp?.openSubhashitam(item.dataset.subId, item.dataset.subFile);
+      } else if (item.dataset.slug) {
+        window.StotramApp?.navigate('reader', item.dataset.slug);
+      }
     });
 
     // Keyboard: Enter on focused result
     results?.addEventListener('keydown', e => {
       if (e.key !== 'Enter') return;
-      const item = e.target.closest('.search-result-item[data-slug]');
+      const item = e.target.closest('.search-result-item');
       if (!item) return;
       item.click();
     });
@@ -156,29 +191,72 @@ window.StotramSearch = {
       return;
     }
 
-    const hits = this.fuse.search(query).slice(0, 15);
+    const lang = window.i18n?.lang || 'en';
+    const allHits = this.fuse.search(query).slice(0, 40);
+
+    // Check if subhashitam entries exist to decide whether to show filter
+    const hasSubhashitam = this.index.some(e => e.type === 'subhashitam');
+
+    // Filter chips — only shown when subhashitam is indexed
+    const filterHtml = hasSubhashitam ? `
+      <div class="search-filter-bar">
+        <button class="search-filter-chip${this._filter === 'all'         ? ' active' : ''}" data-filter="all">
+          ${lang === 'te' ? 'అన్నీ' : 'All'}
+        </button>
+        <button class="search-filter-chip${this._filter === 'stotram'     ? ' active' : ''}" data-filter="stotram">
+          ${lang === 'te' ? 'స్తోత్రాలు' : 'Stotrams'}
+        </button>
+        <button class="search-filter-chip${this._filter === 'subhashitam' ? ' active' : ''}" data-filter="subhashitam">
+          ${lang === 'te' ? 'సుభాషితం' : 'Subhāṣitam'}
+        </button>
+      </div>` : '';
+
+    // Apply filter
+    const filtered = this._filter === 'all'
+      ? allHits
+      : allHits.filter(({ item }) =>
+          this._filter === 'stotram'
+            ? item.type !== 'subhashitam'
+            : item.type === 'subhashitam'
+        );
+
+    const hits = filtered.slice(0, 15);
 
     if (!hits.length) {
-      results.innerHTML = `<div class="search-result-item" style="color:var(--c-text-muted);font-style:italic">
+      results.innerHTML = filterHtml + `<div class="search-result-item" style="color:var(--c-text-muted);font-style:italic">
         ${window.i18n?.t('no_results') || 'No results found.'}</div>`;
       results.classList.remove('hidden');
       return;
     }
 
-    results.innerHTML = hits.map(({ item }) => {
-      const meta = item.type === 'stotram'
-        ? (item.stotram_en || item.stotram)
-        : `${item.stotram_en || item.slug} › ${item.section} › ${window.i18n?.t('shloka_label') || 'Shloka'} ${item.shloka_index}`;
-      const body = (item.shloka_text || item.description || '').slice(0, 140);
+    const items = hits.map(({ item }) => {
+      let meta, body, dataAttr;
+      if (item.type === 'subhashitam') {
+        const label = lang === 'te' ? 'సుభాషితం' : 'Subhāṣitam';
+        meta = `${label} · ${this._esc(item.description || item.id)}`;
+        body = (item.stotram || '').slice(0, 140);
+        dataAttr = `data-sub-id="${item.id}" data-sub-file="${item.file}"`;
+      } else if (item.type === 'shloka') {
+        meta = `${item.stotram_en || item.slug} › ${item.section} › ${window.i18n?.t('shloka_label') || 'Shloka'} ${item.shloka_index}`;
+        body = (item.shloka_text || '').slice(0, 140);
+        dataAttr = `data-slug="${item.slug}"`;
+      } else {
+        meta = item.stotram_en || item.stotram;
+        body = (item.description || '').slice(0, 140);
+        dataAttr = `data-slug="${item.slug}"`;
+      }
       return `
-        <div class="search-result-item" data-slug="${item.slug}"
-             role="option" tabindex="0">
-          <div class="sr-meta">${this._esc(meta)}</div>
+        <div class="search-result-item" ${dataAttr} role="option" tabindex="0">
+          <div class="sr-meta">${meta}</div>
           <div class="sr-text">${this._highlight(this._esc(body), query)}</div>
         </div>`;
     }).join('');
 
+    results.innerHTML = filterHtml + items;
     results.classList.remove('hidden');
+
+    // Store query so filter chips can re-run it
+    this._lastQuery = query;
   },
 
   _esc(t) {

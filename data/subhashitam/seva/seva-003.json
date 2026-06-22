@@ -1,0 +1,31 @@
+{
+  "id": "seva-003",
+  "tags": ["seva", "lokasangraha", "gita", "karma"],
+  "shlokam": {
+    "te": "లోకసంగ్రహమేవాపి సంపశ్యన్ కర్తుమర్హసి ।",
+    "sa": "लोकसंग्रहमेवापि सम्पश्यन् कर्तुमर्हसि ।",
+    "iast": "lokasaṃgrahamevāpi sampaśyan kartumarhasi |"
+  },
+  "chandaH": "అనుష్టుప్ అర్ధభాగమ్ (Anuṣṭup, half-verse)",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత",
+    "name_en": "Bhagavad Gītā",
+    "chapter": "3.20 (Kṛṣṇa to Arjuna)"
+  },
+  "padavibhagam": {
+    "te": "లోకసంగ్రహమ్ | ఏవ | అపి | సంపశ్యన్ | కర్తుమ్ | అర్హసి",
+    "en": "lokasaṃgraham | eva | api | sampaśyan | kartum | arhasi"
+  },
+  "anvayam": {
+    "te": "లోకసంగ్రహమ్ ఏవ అపి సంపశ్యన్ (కర్మ) కర్తుమ్ అర్హసి.",
+    "en": "Even keeping in view (sampaśyan) only the welfare and holding-together of the world (lokasaṃgraham eva api), you ought to act (kartum arhasi)."
+  },
+  "meaning": {
+    "te": "లోకసంగ్రహాన్ని — జగత్తు యొక్క సమన్వయాన్ని, హితాన్ని — దృష్టిలో ఉంచుకుని కూడా నువ్వు కర్మ చేయవలసి ఉంది.",
+    "en": "Even keeping in view the welfare and cohesion of the world, you ought to act."
+  },
+  "tatparyam": {
+    "te": "'లోకసంగ్రహ' — లోకాన్ని ఒకటిగా ఉంచడం, సమాజ పోషణ — ఇది కర్మ చేయడానికి ఒక్కటే సరిపోయే కారణం. వ్యక్తిగత ఫలాపేక్ష లేనప్పటికీ, సమాజ మేలు కోసమైనా నిస్వార్థంగా పని చేయాలి. శ్రీకృష్ణుడు ఇక్కడ రాజు, నాయకుడు, జ్ఞాని — వీళ్ళందరికీ ఒక ముఖ్యమైన బాధ్యతను చెప్తున్నాడు: మీరు చేసే పనిలో లోకహితం ఉండాలి. ఇది సేవకు అత్యున్నతమైన నిర్వచనం.",
+    "en": "'Lokasaṃgraha' — holding the world together, social welfare — is itself a sufficient reason to act. Even without personal desire, one must act for the good of society. Kṛṣṇa addresses this particularly to leaders, scholars, and those whose actions set an example: your deeds shape the world, so act with the world's welfare in view. This is the highest definition of seva — not personal merit-earning, but holding the fabric of society together."
+  }
+}

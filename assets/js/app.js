@@ -1,6 +1,46 @@
 // ── Config ───────────────────────────────────────────────────────────────────
-const SECTION_TAB_THRESHOLD = 6; // ≤ this → pill tabs; > this → dropdown
+const SECTION_TAB_THRESHOLD = 6;   // ≤ this → pill tabs; > this → dropdown
 
+// Feature flags — set to true to enable for all users, false to hide.
+// Even when false, users with the beta token in localStorage can still access.
+const ENABLE_SUBHASHITAM  = false; // Subhashitam browse + reader
+const ENABLE_STOTRAM_MEANING = true; // Click-to-expand meaning per shloka
+
+// Beta access token — share this URL param to grant tester access:
+//   https://samskruti.info/?beta=sub-beta-1
+// Change the token string to revoke all existing tester access.
+const SUBHASHITAM_BETA_TOKEN = 'sub-beta-1';
+
+// ─────────────────────────────────────────────────────────────────────────────
+
+// ── Beta access helpers ───────────────────────────────────────────────────────
+function _checkBetaParam() {
+  const params = new URLSearchParams(window.location.search);
+  const token  = params.get('beta');
+  if (token === SUBHASHITAM_BETA_TOKEN) {
+    localStorage.setItem('beta_subhashitam', SUBHASHITAM_BETA_TOKEN);
+    // Strip the ?beta= from the URL cleanly
+    const clean = window.location.pathname + window.location.hash;
+    history.replaceState(null, '', clean);
+    // Show toast after DOM is ready
+    document.addEventListener('DOMContentLoaded', () => _showBetaToast('Beta access enabled — Subhāṣitam unlocked'), { once: true });
+    return true;
+  }
+  return false;
+}
+
+function _showBetaToast(msg) {
+  const toast = document.getElementById('betaToast');
+  if (!toast) return;
+  toast.textContent = msg;
+  toast.classList.remove('hidden');
+  setTimeout(() => toast.classList.add('hidden'), 3500);
+}
+
+function _hasBetaAccess() {
+  return ENABLE_SUBHASHITAM ||
+    localStorage.getItem('beta_subhashitam') === SUBHASHITAM_BETA_TOKEN;
+}
 // ─────────────────────────────────────────────────────────────────────────────
 
 window.StotramApp = {
@@ -10,9 +50,11 @@ window.StotramApp = {
   stotramsIndex: [],
 
   async init() {
+    _checkBetaParam(); // must run before nav render — sets localStorage if ?beta= present
     window.StotramSettings?.init();
     window.i18n?.init();
     await this.loadIndex();
+    this._applyFeatureFlags();
     this.bindNav();
     await window.StotramSearch?.init(this.stotramsIndex);
 
@@ -29,14 +71,39 @@ window.StotramApp = {
     document.addEventListener('uilangchange', () => {
       const activePage = document.querySelector('.page.active')?.id;
       if (activePage === 'page-home')     this.renderHome();
-      if (activePage === 'page-stotrams') this.renderStotramsList();
+      if (activePage === 'page-stotrams')    this.renderStotramsList();
+      if (activePage === 'page-subhashitam') {
+        const detail = document.getElementById('subhashitamDetail');
+        if (detail && !detail.classList.contains('hidden') && this._currentSubFile) {
+          this.openSubhashitam(this._currentSubId, this._currentSubFile);
+        } else {
+          this.renderSubhashitamList();
+        }
+      }
       if (activePage === 'page-reader' && this.currentSlug) {
         this._updateReaderHeader();
         this._updateSectionTabs();
+        const lang = window.i18n.lang;
         // Update shloka number labels inline
         document.querySelectorAll('.shloka-num > span:first-child').forEach(el => {
           const idx = el.closest('.shloka-block')?.dataset.index;
           if (idx) el.textContent = `${window.i18n.t('shloka_label')} ${idx}`;
+        });
+        // Update meaning button labels
+        document.querySelectorAll('.meaning-toggle').forEach(btn => {
+          const open = btn.getAttribute('aria-expanded') === 'true';
+          btn.querySelector('.meaning-toggle-label').textContent =
+            lang === 'te'
+              ? (open ? 'అర్థం ▴' : 'అర్థం ▾')
+              : (open ? 'Meaning ▴' : 'Meaning ▾');
+        });
+        // Reload meanings in new language; update any currently-open blocks
+        this._loadMeanings(this.currentSlug).then(() => {
+          document.querySelectorAll('.meaning-block:not(.hidden)').forEach(block => {
+            const idx = parseInt(block.id.replace('meaning-', ''));
+            const m = this._meanings?.[idx];
+            if (m) block.querySelector('.meaning-text').textContent = m;
+          });
         });
       }
     });
@@ -127,6 +194,14 @@ window.StotramApp = {
     }
   },
 
+  // ── Feature flags ─────────────────────────────────────────────────────────
+
+  _applyFeatureFlags() {
+    if (_hasBetaAccess()) {
+      document.querySelectorAll('.nav-sub').forEach(el => el.classList.remove('hidden'));
+    }
+  },
+
   // ── Hash-based routing (shareable URLs) ──────────────────────────────────
 
   handleHash() {
@@ -136,11 +211,16 @@ window.StotramApp = {
       this.renderHome();
       return;
     }
-    if (hash === '#stotrams') { this._showPage('stotrams'); this.renderStotramsList(); return; }
-    if (hash === '#about')    { this._showPage('about');    return; }
-    if (hash === '#contact')  { this._showPage('contact');  return; }
-    if (hash === '#credits')  { this._showPage('credits');  return; }
-    if (hash === '#stats')    { this._showPage('stats'); window.StotramStats?.render(); return; }
+    if (hash === '#stotrams')     { this._showPage('stotrams'); this.renderStotramsList(); return; }
+    if (hash === '#about')        { this._showPage('about');    return; }
+    if (hash === '#contact')      { this._showPage('contact');  return; }
+    if (hash === '#credits')      { this._showPage('credits');  return; }
+    if (hash === '#stats')        { this._showPage('stats'); window.StotramStats?.render(); return; }
+    if (hash === '#subhashitam' && _hasBetaAccess()) {
+      this._showPage('subhashitam');
+      this.renderSubhashitamList();
+      return;
+    }
 
     const readerMatch = hash.match(/^#reader\/(.+)$/);
     if (readerMatch) {
@@ -183,9 +263,10 @@ window.StotramApp = {
     } else {
       this.setHash(`#${page}`);
       this._showPage(page);
-      if (page === 'home')     this.renderHome();
-      if (page === 'stotrams') this.renderStotramsList();
-      if (page === 'stats')    window.StotramStats?.render();
+      if (page === 'home')         this.renderHome();
+      if (page === 'stotrams')     this.renderStotramsList();
+      if (page === 'subhashitam')  this.renderSubhashitamList();
+      if (page === 'stats')        window.StotramStats?.render();
     }
     document.getElementById('mobileNav')?.classList.add('hidden');
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -343,10 +424,15 @@ window.StotramApp = {
       // Pre-generated files used for all lipis — no client-side transliteration.
       // _sa.txt / _iast.txt are produced by scripts/transliterate.js (run locally
       // and on every CI deploy). Telugu (.txt) is the source file itself.
-      const parsed = await window.StotramParser.fetchAndParse(lipiFile);
+      const [parsed] = await Promise.all([
+        window.StotramParser.fetchAndParse(lipiFile),
+        this._loadMeanings(slug),
+      ]);
 
       container.innerHTML = this.renderBlocks(parsed.blocks, slug)
                           + this._renderBottomNav(slug, idx, sections);
+
+      this._initMeaningToggle(container);
 
       /* Feed shlokas into search index */
       window.StotramSearch?.addShlokas?.(slug, section.title_te || section.title_en, parsed.blocks);
@@ -367,11 +453,23 @@ window.StotramApp = {
   },
 
   renderBlocks(blocks, slug) {
+    const meanings = ENABLE_STOTRAM_MEANING ? (this._meanings || {}) : {};
     return blocks.map(b => {
       if (b.type === 'heading') {
         return `<div class="section-head">${this._esc(b.text)}</div>`;
       }
       if (b.type === 'shloka') {
+        const m = meanings[b.index];
+        const meaningBtn = m
+          ? `<button class="meaning-toggle" data-idx="${b.index}" aria-expanded="false" aria-label="Show meaning">
+               <span class="meaning-toggle-label">${window.i18n?.lang === 'te' ? 'అర్థం' : 'Meaning'} ▾</span>
+             </button>`
+          : '';
+        const meaningBlock = m
+          ? `<div class="meaning-block hidden" id="meaning-${b.index}">
+               <div class="meaning-text">${this._esc(m)}</div>
+             </div>`
+          : '';
         return `
           <div class="shloka-block" id="shloka-${b.index}"
                data-index="${b.index}"
@@ -379,12 +477,65 @@ window.StotramApp = {
                data-audio-end="${b.audioEnd ?? ''}">
             <div class="shloka-num">
               <span>${window.i18n?.t('shloka_label') || 'శ్లోకం'} ${b.index}</span>
+              ${meaningBtn}
             </div>
             <div class="shloka-text">${this._esc(b.text)}</div>
+            ${meaningBlock}
           </div>`;
       }
       return '';
     }).join('');
+  },
+
+  // ── Stotram meaning loader ────────────────────────────────────────────────
+
+  async _loadMeanings(slug) {
+    this._meanings = {};
+    if (!ENABLE_STOTRAM_MEANING) return;
+    const lang = window.i18n?.lang || 'en';
+    const url  = `data/${slug}/${slug}_stotram_meaning_${lang}.txt`;
+    try {
+      const res  = await fetch(url);
+      if (!res.ok) return; // no meaning file — silently skip
+      const text = await res.text();
+      // Parse [N] blocks: each block starts with [N] on its own line (or [N] followed by text)
+      const map = {};
+      let current = null;
+      let lines   = [];
+      for (const raw of text.split('\n')) {
+        const line  = raw.trim();
+        const match = line.match(/^\[(\d+)\]\s*(.*)/);
+        if (match) {
+          if (current !== null) map[current] = lines.join('\n').trim();
+          current = parseInt(match[1]);
+          lines   = match[2] ? [match[2]] : [];
+        } else if (current !== null) {
+          lines.push(line);
+        }
+      }
+      if (current !== null) map[current] = lines.join('\n').trim();
+      this._meanings = map;
+    } catch (_) { /* no meaning file available */ }
+  },
+
+  // ── Meaning toggle click handler (delegated) ──────────────────────────────
+
+  _initMeaningToggle(container) {
+    container.addEventListener('click', e => {
+      const btn = e.target.closest('.meaning-toggle');
+      if (!btn) return;
+      e.stopPropagation();
+      const idx   = btn.dataset.idx;
+      const block = document.getElementById(`meaning-${idx}`);
+      if (!block) return;
+      const open = !block.classList.contains('hidden');
+      block.classList.toggle('hidden', open);
+      btn.setAttribute('aria-expanded', String(!open));
+      btn.querySelector('.meaning-toggle-label').textContent =
+        open
+          ? (window.i18n?.lang === 'te' ? 'అర్థం ▾' : 'Meaning ▾')
+          : (window.i18n?.lang === 'te' ? 'అర్థం ▴' : 'Meaning ▴');
+    });
   },
 
 
@@ -519,6 +670,124 @@ window.StotramApp = {
     return String(t)
       .replace(/&/g,'&amp;').replace(/</g,'&lt;')
       .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  },
+
+  // ── Subhashitam browse ────────────────────────────────────────────────────
+
+  async renderSubhashitamList() {
+    const container = document.getElementById('subhashitamList');
+    if (!container) return;
+    const lang = window.i18n?.lang || 'en';
+    container.innerHTML = '<div class="skeleton-card" style="height:120px;margin:1rem 0"></div>';
+    try {
+      const res  = await fetch('data/subhashitam/_index.json');
+      const list = await res.json();
+
+      // Feed into search index once (guard: only if not already added)
+      if (!this._subIndexed) {
+        window.StotramSearch?.addSubhashitam?.(list);
+        this._subIndexed = true;
+      }
+
+      const activeTag = container.dataset.activeTag || 'all';
+
+      // Collect unique tags
+      const allTags = ['all', ...new Set(list.flatMap(e => e.tags || []))].sort((a,b) => a === 'all' ? -1 : a.localeCompare(b));
+      const filtered = activeTag === 'all' ? list : list.filter(e => (e.tags||[]).includes(activeTag));
+
+      const tagChips = allTags.map(tag =>
+        `<button class="sub-tag-chip${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">
+          ${this._esc(tag)}
+        </button>`).join('');
+
+      const cards = filtered.map(e => {
+        const firstLine = lang === 'te' ? (e.firstline_te || e.firstline_sa || '') : (e.firstline_sa || e.firstline_te || '');
+        const tags = (e.tags || []).map(t => `<span class="sub-tag">${this._esc(t)}</span>`).join('');
+        return `<div class="sub-card" data-sub-id="${this._esc(e.id)}" data-file="${this._esc(e.file)}" role="button" tabindex="0">
+          <div class="sub-card-verse">${this._esc(firstLine)}</div>
+          <div class="sub-card-source">${this._esc(e.source_en || '')}</div>
+          <div class="sub-card-tags">${tags}</div>
+        </div>`;
+      }).join('');
+
+      const countLabel = lang === 'te' ? `${filtered.length} సుభాషితాలు` : `${filtered.length} verses`;
+
+      container.innerHTML = `
+        <div class="sub-filter-bar">
+          <div class="sub-tag-chips">${tagChips}</div>
+          <span class="sub-count">${this._esc(countLabel)}</span>
+        </div>
+        <div class="sub-grid">${cards || '<p style="padding:2rem;color:var(--c-text-muted)">No verses found.</p>'}</div>`;
+
+      // Tag filter clicks
+      container.querySelectorAll('.sub-tag-chip').forEach(btn => {
+        btn.addEventListener('click', () => {
+          container.dataset.activeTag = btn.dataset.tag;
+          this.renderSubhashitamList();
+        });
+      });
+      // Card clicks → open reader
+      container.querySelectorAll('.sub-card').forEach(card => {
+        const open = () => this.openSubhashitam(card.dataset.subId, card.dataset.file);
+        card.addEventListener('click', open);
+        card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') open(); });
+      });
+    } catch (e) {
+      container.innerHTML = `<p style="padding:2rem;color:var(--c-text-muted)">⚠️ Could not load subhashitam index.</p>`;
+    }
+  },
+
+  async openSubhashitam(id, file) {
+    const detail = document.getElementById('subhashitamDetail');
+    const list   = document.getElementById('subhashitamList');
+    if (!detail || !list) return;
+    const lang = window.i18n?.lang || 'en';
+
+    this._currentSubId   = id;
+    this._currentSubFile = file;
+
+    list.classList.add('hidden');
+    detail.classList.remove('hidden');
+    detail.innerHTML = '<div class="skeleton-card" style="height:300px;margin:1rem 0"></div>';
+
+    try {
+      const res  = await fetch(`data/subhashitam/${file}`);
+      const sub  = await res.json();
+
+      const script  = window.StotramSettings?.get('lipi') || 'te';
+      const verse   = script === 'sa' ? sub.shlokam.sa : script === 'iast' ? sub.shlokam.iast : sub.shlokam.te;
+      const tags    = (sub.tags || []).map(t => `<span class="sub-tag">${this._esc(t)}</span>`).join('');
+      const source  = lang === 'te' ? (sub.granthaH?.name_te || sub.granthaH?.name_en || '') : (sub.granthaH?.name_en || '');
+      const chapter = sub.granthaH?.chapter ? ` — ${sub.granthaH.chapter}` : '';
+
+      const section = (label, te, en) => {
+        const body = lang === 'te' ? te : en;
+        if (!body) return '';
+        return `<details class="sub-detail-section">
+          <summary class="sub-detail-head">${this._esc(label)}</summary>
+          <div class="sub-detail-body">${this._esc(body)}</div>
+        </details>`;
+      };
+
+      detail.innerHTML = `
+        <button class="sub-back-btn" id="subBack">← ${lang === 'te' ? 'వెనక్కు' : 'Back'}</button>
+        <div class="sub-reader-card">
+          <div class="sub-reader-tags">${tags}</div>
+          <div class="sub-reader-verse">${this._esc(verse)}</div>
+          <div class="sub-reader-meta">${this._esc(source + chapter)}${sub.chandaH ? ' · ' + this._esc(sub.chandaH) : ''}</div>
+          ${section(lang === 'te' ? 'అర్థం' : 'Meaning',     sub.meaning?.te,      sub.meaning?.en)}
+          ${section(lang === 'te' ? 'అన్వయం' : 'Anvayam',    sub.anvayam?.te,      sub.anvayam?.en)}
+          ${section(lang === 'te' ? 'పదవిభాగం' : 'Padavibhāgam', sub.padavibhagam?.te, sub.padavibhagam?.en)}
+          ${section(lang === 'te' ? 'తాత్పర్యం' : 'Tātparyam',   sub.tatparyam?.te,    sub.tatparyam?.en)}
+        </div>`;
+
+      document.getElementById('subBack')?.addEventListener('click', () => {
+        detail.classList.add('hidden');
+        list.classList.remove('hidden');
+      });
+    } catch (e) {
+      detail.innerHTML = `<p style="padding:2rem;color:var(--c-text-muted)">⚠️ Could not load verse.</p>`;
+    }
   },
 
   // ── PWA install ───────────────────────────────────────────────────────────

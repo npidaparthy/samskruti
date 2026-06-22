@@ -1,0 +1,31 @@
+{
+  "id": "dharma-008",
+  "tags": ["dharma", "sahana", "guru", "shanti"],
+  "shlokam": {
+    "te": "సహనావవతు సహ నౌ భునక్తు సహ వీర్యం కరవావహై ।\nతేజస్వినావధీతమస్తు మా విద్విషావహై ॥\nఓం శాన్తిః శాన్తిః శాన్తిః ॥",
+    "sa": "सहनाववतु सह नौ भुनक्तु सह वीर्यं करवावहै ।\nतेजस्विनावधीतमस्तु मा विद्विषावहै ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+    "iast": "sahanāvavatu saha nau bhanaktu saha vīryaṃ karavāvahai |\ntejasvinavadhītamastu mā vidviṣāvahai ||\noṃ śāntiḥ śāntiḥ śāntiḥ ||"
+  },
+  "chandaH": "గాయత్రీ (Gāyatrī) — anuṣṭup variant, peace chant",
+  "granthaH": {
+    "name_te": "కృష్ణయజుర్వేదీయ తైత్తిరీయ ఉపనిషత్ — శాన్తిపాఠమ్",
+    "name_en": "Taittirīya Upaniṣad — Śānti Pāṭha",
+    "chapter": "2.1 (opening invocation)"
+  },
+  "padavibhagam": {
+    "te": "సహ | నౌ | అవతు | సహ | నౌ | భునక్తు | సహ | వీర్యమ్ | కరవావహై | తేజస్వినౌ | అధీతమ్ | అస్తు | మా | విద్విషావహై",
+    "en": "saha | nau | avatu | saha | nau | bhanaktu | saha | vīryam | karavāvahai | tejasvinau | adhītam | astu | mā | vidviṣāvahai"
+  },
+  "anvayam": {
+    "te": "(భగవాన్) నౌ సహ అవతు; నౌ సహ భునక్తు; (వయం) సహ వీర్యం కరవావహై; తేజస్వినౌ అధీతం అస్తు; (వయం) మా విద్విషావహై.",
+    "en": "May He protect us both (nau saha avatu); may He nourish us both (nau saha bhanaktu); may we both work with vigour together (saha vīryam karavāvahai); may our study be brilliant (tejasvinau adhītam astu); may we not hate each other (mā vidviṣāvahai)."
+  },
+  "meaning": {
+    "te": "(భగవంతుడు) మనిద్దరినీ కాపాడుగాక; మనిద్దరినీ పోషించుగాక; మనం ఇద్దరం కలసి శక్తిగా పని చేద్దాం; మన అభ్యాసం తేజస్వంతంగా ఉండుగాక; మనం పరస్పరం ద్వేషించుకోకుండా ఉందాం.",
+    "en": "May He protect us both; may He nourish us both; may we work with strength together; may our learning shine brilliantly; may we never bear hatred toward each other."
+  },
+  "tatparyam": {
+    "te": "ఇది గురు-శిష్య ఇద్దరూ కలసి చదివే శాంతిపాఠం. 'నౌ' అంటే మనిద్దరం — గురువు మరియు శిష్యుడు కలసి రక్షింపబడాలి, పోషింపబడాలి, పని చేయాలి. చివరిలో 'మా విద్విషావహై' — ద్వేషం వద్దు — అనే మాట అన్నింటికన్నా ముఖ్యమైనది. నేర్చుకోవడం ఒక సహకార ప్రక్రియ, పోటీ కాదు అని ఈ శ్లోకం చెప్తుంది.",
+    "en": "This is the peace chant recited together by teacher and student at the start of learning. 'Nau' (us two) — both guru and disciple are protected, nourished, and empowered together. The final line — 'may we not hate each other' — is the most poignant: learning is a shared journey, not a competition. This Vedic invocation sets the tone for all education as a sacred, cooperative endeavour."
+  }
+}
