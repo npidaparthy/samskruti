@@ -521,6 +521,8 @@ window.StotramApp = {
   // ── Meaning toggle click handler (delegated) ──────────────────────────────
 
   _initMeaningToggle(container) {
+    if (container._meaningToggleBound) return;
+    container._meaningToggleBound = true;
     container.addEventListener('click', e => {
       const btn = e.target.closest('.meaning-toggle');
       if (!btn) return;
