@@ -1224,7 +1224,22 @@ input[type="color"] {
   background: var(--c-surface); z-index: 10;
   border-bottom: 1px solid var(--c-border);
 }
-.sub-tag-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.sub-tag-chips { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.sub-topics-wrap { position: relative; }
+.sub-topics-btn {
+  padding: 4px 10px; border-radius: 20px; border: 1.5px solid var(--c-border);
+  background: var(--c-surface); color: var(--c-text-muted); font-size: 0.78rem;
+  cursor: pointer; white-space: nowrap;
+}
+.sub-topics-btn.active { border-color: var(--c-primary); color: var(--c-primary); background: var(--c-surface2); }
+.sub-topics-dropdown {
+  position: absolute; top: calc(100% + 6px); left: 0; z-index: 50;
+  background: var(--c-surface); border: 1px solid var(--c-border);
+  border-radius: var(--radius); box-shadow: var(--shadow);
+  padding: 10px; display: flex; flex-wrap: wrap; gap: 6px;
+  min-width: 220px; max-width: 320px;
+}
+.sub-topics-dropdown.hidden { display: none; }
 .sub-tag-chip {
   font-size: 0.78rem; padding: 3px 12px; border-radius: 14px;
   border: 1.5px solid var(--c-border);

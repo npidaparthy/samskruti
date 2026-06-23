@@ -1,0 +1,37 @@
+{
+  "id": "karma-006",
+  "tags": ["karma", "atma", "bandhu", "ripu", "gita"],
+
+  "shlokam": {
+    "te": "ఉద్ధరేదాత్మనాత్మానం నాత్మానమవసాదయేత్ ।\nఆత్మైవ హ్యాత్మనో బన్ధురాత్మైవ రిపురాత్మనః ॥",
+    "sa": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥",
+    "iast": "uddharedātmanātmānaṃ nātmānam avasādayet |\nātmaiva hyātmano bandhurātmaiva ripurātmanaḥ ||"
+  },
+
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత 6.5",
+    "name_en": "Bhagavad Gītā 6.5"
+  },
+
+  "padavibhagam": {
+    "te": "ఉద్ధరేత్ | ఆత్మనా | ఆత్మానం | న | ఆత్మానం | అవసాదయేత్ | ఆత్మా | ఏవ | హి | ఆత్మనః | బన్ధుః | ఆత్మా | ఏవ | రిపుః | ఆత్మనః",
+    "en": "uddharet | ātmanā | ātmānam | na | ātmānam | avasādayet | ātmā | eva | hi | ātmanaḥ | bandhuḥ | ātmā | eva | ripuḥ | ātmanaḥ"
+  },
+
+  "anvayam": {
+    "te": "ఆత్మనా ఆత్మానం ఉద్ధరేత్, ఆత్మానం న అవసాదయేత్; ఆత్మా ఏవ హి ఆత్మనః బన్ధుః; ఆత్మా ఏవ ఆత్మనః రిపుః.",
+    "en": "ātmanā (by oneself) ātmānam (oneself) uddharet (let one uplift), na ātmānam avasādayet (let one not degrade oneself); ātmā eva hi (for indeed the self alone) ātmanaḥ bandhuḥ (is one's own friend); ātmā eva (the self alone) ripuḥ ātmanaḥ (is one's own enemy)."
+  },
+
+  "meaning": {
+    "te": "తనను తానే ఉద్ధరించుకో, తనను తానే అధఃపతనం చేసుకోకు. మనసే మనిషికి బంధువు; మనసే మనిషికి శత్రువు.",
+    "en": "Let one lift oneself up; let one not drag oneself down. The self alone is one's own friend; the self alone is one's own enemy."
+  },
+
+  "tatparyam": {
+    "te": "ఈ శ్లోకంలో ఆత్మోద్ధరణ యొక్క రహస్యం ఉంది. బాహ్య శత్రువుల గురించి మనం ఆందోళన పడుతాం — కానీ అసలు శత్రువు అంతరంగంలోనే ఉన్నాడు. అదే విధంగా అసలు మిత్రుడు కూడా లోపలే ఉన్నాడు. సంకల్పం, ఆత్మజ్ఞానం, నిష్ఠ ద్వారా మనిషి తన ఉత్కర్షను సాధించగలడు.",
+    "en": "This verse contains the secret of self-development. We worry about external enemies, but the real enemy lives within — in the form of weakness, delusion, and lack of self-discipline. Similarly, the greatest ally is also within — one's own will, clarity, and determination. No one else can uplift or degrade us as completely as we do ourselves. This is Kṛṣṇa's call to radical personal responsibility."
+  }
+}

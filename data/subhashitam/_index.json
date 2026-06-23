@@ -224,4 +224,230 @@
     "firstline_sa": "लोकसंग्रहमेवापि",
     "source_en": "Bhagavad Gītā 3.20"
   }
+  ,
+  {
+    "id": "niti-011",
+    "slug": "udyamena-hi-sidhyanti",
+    "file": "niti/niti-011.json",
+    "tags": ["niti", "udyama", "purushartha"],
+    "firstline_te": "ఉద్యమేన హి సిధ్యన్తి కార్యాణి",
+    "firstline_sa": "उद्यमेन हि सिध्यन्ति कार्याणि",
+    "source_en": "Hitopadeśa"
+  },
+  {
+    "id": "niti-012",
+    "slug": "kakah-krishnah-pikah-krishnah",
+    "file": "niti/niti-012.json",
+    "tags": ["niti", "guna", "viveka"],
+    "firstline_te": "కాకః కృష్ణః పికః కృష్ణః",
+    "firstline_sa": "काकः कृष्णः पिकः कृष्णः",
+    "source_en": "Subhāṣita tradition"
+  },
+  {
+    "id": "niti-013",
+    "slug": "agniseshamrnasesham",
+    "file": "niti/niti-013.json",
+    "tags": ["niti", "shatru", "rna", "chanakya"],
+    "firstline_te": "అగ్నిశేషమృణశేషం శత్రుశేషం",
+    "firstline_sa": "अग्निशेषमृणशेषं शत्रुशेषं",
+    "source_en": "Cāṇakya Nīti"
+  },
+  {
+    "id": "niti-014",
+    "slug": "sukhaarthinah-kuto-vidyaa",
+    "file": "niti/niti-014.json",
+    "tags": ["niti", "vidya", "sukha", "tyaga"],
+    "firstline_te": "సుఖార్థినః కుతో విద్యా",
+    "firstline_sa": "सुखार्थिनः कुतो विद्या",
+    "source_en": "Cāṇakya Nīti"
+  },
+  {
+    "id": "niti-015",
+    "slug": "yeshaam-na-vidyaa-na-tapo",
+    "file": "niti/niti-015.json",
+    "tags": ["niti", "durjana", "sajjana", "viveka"],
+    "firstline_te": "యేషాం న విద్యా న తపో న దానం",
+    "firstline_sa": "येषां न विद्या न तपो न दानं",
+    "source_en": "Bhartṛhari — Nītiśataka"
+  },
+  {
+    "id": "dharma-009",
+    "slug": "satyameva-jayate",
+    "file": "dharma/dharma-009.json",
+    "tags": ["dharma", "satya", "upanishad"],
+    "firstline_te": "సత్యమేవ జయతే నానృతం",
+    "firstline_sa": "सत्यमेव जयते नानृतं",
+    "source_en": "Muṇḍaka Upaniṣad 3.1.6"
+  },
+  {
+    "id": "dharma-010",
+    "slug": "ahimsaa-paramo-dharmah",
+    "file": "dharma/dharma-010.json",
+    "tags": ["dharma", "ahimsa", "mahabharata"],
+    "firstline_te": "అహింసా పరమో ధర్మః",
+    "firstline_sa": "अहिंसा परमो धर्मः",
+    "source_en": "Mahābhārata — Anuśāsana Parva 115.23"
+  },
+  {
+    "id": "dharma-011",
+    "slug": "paropakaarah-punyaaya",
+    "file": "dharma/dharma-011.json",
+    "tags": ["dharma", "paropakara", "papa", "punya"],
+    "firstline_te": "పరోపకారః పుణ్యాయ పాపాయ",
+    "firstline_sa": "परोपकारः पुण्याय पापाय",
+    "source_en": "Padma Purāṇa / Subhāṣita tradition"
+  },
+  {
+    "id": "dharma-012",
+    "slug": "gurur-brahma-gurur-vishnuh",
+    "file": "dharma/dharma-012.json",
+    "tags": ["dharma", "guru", "brahma", "namaskara"],
+    "firstline_te": "గురుర్బ్రహ్మా గురుర్విష్ణుః",
+    "firstline_sa": "गुरुर्ब्रह्मा गुरुर्विष्णुः",
+    "source_en": "Guru Stotram (Skānda Purāṇa)"
+  },
+  {
+    "id": "karma-005",
+    "slug": "shraddhavaan-labhate-jnaanam",
+    "file": "karma/karma-005.json",
+    "tags": ["karma", "shraddha", "jnana", "gita"],
+    "firstline_te": "శ్రద్ధావాన్ లభతే జ్ఞానం",
+    "firstline_sa": "श्रद्धावान् लभते ज्ञानं",
+    "source_en": "Bhagavad Gītā 4.39"
+  },
+  {
+    "id": "karma-006",
+    "slug": "uddhareda-atmana-atmaanam",
+    "file": "karma/karma-006.json",
+    "tags": ["karma", "atma", "bandhu", "ripu", "gita"],
+    "firstline_te": "ఉద్ధరేదాత్మనాత్మానం",
+    "firstline_sa": "उद्धरेदात्मनात्मानं",
+    "source_en": "Bhagavad Gītā 6.5"
+  },
+  {
+    "id": "karma-007",
+    "slug": "yuktaahaaraviharasya",
+    "file": "karma/karma-007.json",
+    "tags": ["karma", "yoga", "ahara", "vihara", "gita"],
+    "firstline_te": "యుక్తాహారవిహారస్య",
+    "firstline_sa": "युक्ताहारविहारस्य",
+    "source_en": "Bhagavad Gītā 6.17"
+  },
+  {
+    "id": "seva-004",
+    "slug": "daanam-bhogo-naashas-tisro",
+    "file": "seva/seva-004.json",
+    "tags": ["seva", "dana", "bhoga", "vitta"],
+    "firstline_te": "దానం భోగో నాశస్తిస్రో గతయో",
+    "firstline_sa": "दानं भोगो नाशस्तिस्रो गतयो",
+    "source_en": "Bhartṛhari — Nītiśataka"
+  },
+  {
+    "id": "seva-005",
+    "slug": "pibanti-nadyah-svayameva",
+    "file": "seva/seva-005.json",
+    "tags": ["seva", "paropakara", "nadi", "vrksha"],
+    "firstline_te": "పిబన్తి నద్యః స్వయమేవ నాంభః",
+    "firstline_sa": "पिबन्ति नद्यः स्वयमेव नांभः",
+    "source_en": "Subhāṣita Ratnākara"
+  },
+  {
+    "id": "seva-006",
+    "slug": "maatrudevo-bhava-pitrudevo-bhava",
+    "file": "seva/seva-006.json",
+    "tags": ["seva", "matru", "pitru", "guru", "upanishad"],
+    "firstline_te": "మాతృదేవో భవ పితృదేవో భవ",
+    "firstline_sa": "मातृदेवो भव पितृदेवो भव",
+    "source_en": "Taittirīya Upaniṣad — Śikṣāvallī 1.11.2"
+  },
+  {
+    "id": "vairagya-001",
+    "slug": "bhaja-govindam-bhaja-govindam",
+    "file": "vairagya/vairagya-001.json",
+    "tags": ["vairagya", "bhaja-govindam", "shankara", "maya"],
+    "firstline_te": "భజ గోవిన్దం భజ గోవిన్దం",
+    "firstline_sa": "भज गोविन्दं भज गोविन्दं",
+    "source_en": "Bhaja Govindam — Ādi Śaṅkarācārya (v.1)"
+  },
+  {
+    "id": "vairagya-002",
+    "slug": "maa-kuru-dhanajana-yauvana-garvam",
+    "file": "vairagya/vairagya-002.json",
+    "tags": ["vairagya", "bhaja-govindam", "shankara", "dhana", "yauvana"],
+    "firstline_te": "మా కురు ధనజనయౌవనగర్వం",
+    "firstline_sa": "मा कुरु धनजनयौवनगर्वं",
+    "source_en": "Bhaja Govindam — Ādi Śaṅkarācārya (v.11)"
+  },
+  {
+    "id": "vairagya-003",
+    "slug": "dinam-api-rajani-saayam-praatah",
+    "file": "vairagya/vairagya-003.json",
+    "tags": ["vairagya", "kala", "ayu", "samsara"],
+    "firstline_te": "దినమపి రజనీ సాయం ప్రాతః",
+    "firstline_sa": "दिनमपि रजनी सायं प्रातः",
+    "source_en": "Bhaja Govindam — Ādi Śaṅkarācārya (v.20)"
+  },
+  {
+    "id": "vairagya-004",
+    "slug": "punarapi-jananam-punarapi-maranam",
+    "file": "vairagya/vairagya-004.json",
+    "tags": ["vairagya", "samsara", "janana", "marana", "bhaja-govindam"],
+    "firstline_te": "పునరపి జననం పునరపి మరణం",
+    "firstline_sa": "पुनरपि जननं पुनरपि मरणं",
+    "source_en": "Bhaja Govindam — Ādi Śaṅkarācārya (v.21)"
+  },
+  {
+    "id": "vairagya-005",
+    "slug": "kaa-te-kaantaa-kaste-putrah",
+    "file": "vairagya/vairagya-005.json",
+    "tags": ["vairagya", "samsara", "moha", "viveka"],
+    "firstline_te": "కా తే కాన్తా కస్తే పుత్రః",
+    "firstline_sa": "का ते कान्ता कस्ते पुत्रः",
+    "source_en": "Bhaja Govindam — Ādi Śaṅkarācārya (v.14)"
+  },
+  {
+    "id": "bhakti-001",
+    "slug": "tvameva-maataa-ca-pitaa-tvameva",
+    "file": "bhakti/bhakti-001.json",
+    "tags": ["bhakti", "tvameva", "sharanagati", "stuti"],
+    "firstline_te": "త్వమేవ మాతా చ పితా త్వమేవ",
+    "firstline_sa": "त्वमेव माता च पिता त्वमेव",
+    "source_en": "Pāṇḍava Gīta / devotional tradition"
+  },
+  {
+    "id": "bhakti-002",
+    "slug": "sarvadharmaan-parityajya",
+    "file": "bhakti/bhakti-002.json",
+    "tags": ["bhakti", "sharanagati", "gita", "moksha"],
+    "firstline_te": "సర్వధర్మాన్ పరిత్యజ్య మామేకం",
+    "firstline_sa": "सर्वधर्मान् परित्यज्य मामेकं",
+    "source_en": "Bhagavad Gītā 18.66"
+  },
+  {
+    "id": "bhakti-003",
+    "slug": "yatra-yogeshvarah-krishnah",
+    "file": "bhakti/bhakti-003.json",
+    "tags": ["bhakti", "gita", "yoga", "vijaya", "krishna"],
+    "firstline_te": "యత్ర యోగేశ్వరః కృష్ణో",
+    "firstline_sa": "यत्र योगेश्वरः कृष्णो",
+    "source_en": "Bhagavad Gītā 18.78"
+  },
+  {
+    "id": "bhakti-004",
+    "slug": "kaayena-vaachaa-manasendriyairvaa",
+    "file": "bhakti/bhakti-004.json",
+    "tags": ["bhakti", "samarpana", "kayena", "vacha"],
+    "firstline_te": "కాయేన వాచా మనసేన్ద్రియైర్వా",
+    "firstline_sa": "कायेन वाचा मनसेन्द्रियैर्वा",
+    "source_en": "Nārāyaṇa Samarpaṇa — devotional tradition"
+  },
+  {
+    "id": "bhakti-005",
+    "slug": "ananyaashchintayanto-maam",
+    "file": "bhakti/bhakti-005.json",
+    "tags": ["bhakti", "ananya", "gita", "yoga-kshema", "krishna"],
+    "firstline_te": "అనన్యాశ్చిన్తయన్తో మాం",
+    "firstline_sa": "अनन्याश्चिन्तयन्तो मां",
+    "source_en": "Bhagavad Gītā 9.22"
+  }
 ]

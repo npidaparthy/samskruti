@@ -1,0 +1,37 @@
+{
+  "id": "dharma-011",
+  "tags": ["dharma", "paropakara", "papa", "punya"],
+
+  "shlokam": {
+    "te": "పరోపకారః పుణ్యాయ పాపాయ పరపీడనమ్ ।\nఇతి తే సంక్షేపేణ ప్రోక్తం లక్షణం పుణ్యపాపయోః ॥",
+    "sa": "परोपकारः पुण्याय पापाय परपीडनम् ।\nइति ते संक्षेपेण प्रोक्तं लक्षणं पुण्यपापयोः ॥",
+    "iast": "paropakāraḥ puṇyāya pāpāya parapīḍanam |\niti te saṃkṣepeṇa proktaṃ lakṣaṇaṃ puṇyapāpayoḥ ||"
+  },
+
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+
+  "granthaH": {
+    "name_te": "పద్మపురాణం / సుభాషిత సంప్రదాయం",
+    "name_en": "Padma Purāṇa / Subhāṣita tradition"
+  },
+
+  "padavibhagam": {
+    "te": "పరోపకారః | పుణ్యాయ | పాపాయ | పరపీడనమ్ | ఇతి | తే | సంక్షేపేణ | ప్రోక్తం | లక్షణం | పుణ్యపాపయోః",
+    "en": "paropakāraḥ | puṇyāya | pāpāya | parapīḍanam | iti | te | saṃkṣepeṇa | proktam | lakṣaṇam | puṇyapāpayoḥ"
+  },
+
+  "anvayam": {
+    "te": "పరోపకారః పుణ్యాయ (పుణ్యఫలమునకు కారణం); పరపీడనం పాపాయ (పాపఫలమునకు కారణం). ఇతి (ఈ విధంగా) తే పుణ్యపాపయోః లక్షణం సంక్షేపేణ ప్రోక్తం (నీకు సంక్షిప్తంగా చెప్పబడింది).",
+    "en": "paropakāraḥ (helping others) puṇyāya (is merit); parapīḍanam (harming others) pāpāya (is sin). iti (thus) te (to you) puṇyapāpayoḥ lakṣaṇam (the definition of merit and sin) saṃkṣepeṇa proktam (has been briefly stated)."
+  },
+
+  "meaning": {
+    "te": "పరులకు సహాయం చేయడం పుణ్యం; పరులను పీడించడం పాపం. ఇదే పుణ్యపాపాల లక్షణం సంక్షిప్తంగా చెప్పబడింది.",
+    "en": "Helping others is merit; harming others is sin. This, in brief, is the definition of virtue and vice."
+  },
+
+  "tatparyam": {
+    "te": "ధర్మ-అధర్మాల నిర్వచనాన్ని ఇంత సరళంగా చెప్పడం అరుదు. సంపూర్ణ శాస్త్రాలను పరిశీలించినా ఈ ఒక్క వాక్యంలో సారం ఉంది — పరోపకారం పుణ్యం, పరపీడనం పాపం. ఇది వ్యక్తి స్వయంగా నిర్ణయించుకోగలిగేంత సరళం.",
+    "en": "Rarely is the definition of merit and sin stated so plainly. The entire corpus of dharmaśāstra can be distilled into this one verse — what benefits others is virtue, what harms others is sin. This formulation requires no priest or scripture to interpret: every individual can apply it directly in daily life. It is ethics at its most universal."
+  }
+}

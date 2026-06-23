@@ -3,7 +3,7 @@ const SECTION_TAB_THRESHOLD = 6;   // ≤ this → pill tabs; > this → dropdow
 
 // Feature flags — set to true to enable for all users, false to hide.
 // Even when false, users with the beta token in localStorage can still access.
-const ENABLE_SUBHASHITAM  = false; // Subhashitam browse + reader
+const ENABLE_SUBHASHITAM  = true;  // Subhashitam browse + reader
 const ENABLE_STOTRAM_MEANING = true; // Click-to-expand meaning per shloka
 
 // Beta access token — share this URL param to grant tester access:
@@ -708,14 +708,23 @@ window.StotramApp = {
 
       const activeTag = container.dataset.activeTag || 'all';
 
-      // Collect unique tags
-      const allTags = ['all', ...new Set(list.flatMap(e => e.tags || []))].sort((a,b) => a === 'all' ? -1 : a.localeCompare(b));
+      // Category tags = first tag of each entry
+      const catTags = ['all', ...new Set(list.map(e => (e.tags || [])[0]).filter(Boolean))].sort((a,b) => a === 'all' ? -1 : a.localeCompare(b));
+      // Topic tags = all other tags not already a category
+      const catSet = new Set(catTags);
+      const topicTags = [...new Set(list.flatMap(e => (e.tags || []).slice(1)))].filter(t => !catSet.has(t)).sort();
+
       const filtered = activeTag === 'all' ? list : list.filter(e => (e.tags||[]).includes(activeTag));
 
-      const tagChips = allTags.map(tag =>
-        `<button class="sub-tag-chip${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">
-          ${this._esc(tag)}
-        </button>`).join('');
+      const catChips = catTags.map(tag =>
+        `<button class="sub-tag-chip${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">${this._esc(tag)}</button>`
+      ).join('');
+
+      const topicChips = topicTags.map(tag =>
+        `<button class="sub-tag-chip sub-topic-chip${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">${this._esc(tag)}</button>`
+      ).join('');
+
+      const topicBtnLabel = topicTags.includes(activeTag) ? `${activeTag} ▴` : `Topics ▾`;
 
       const cards = filtered.map(e => {
         const firstLine = lang === 'te' ? (e.firstline_te || e.firstline_sa || '') : (e.firstline_sa || e.firstline_te || '');
@@ -731,10 +740,25 @@ window.StotramApp = {
 
       container.innerHTML = `
         <div class="sub-filter-bar">
-          <div class="sub-tag-chips">${tagChips}</div>
+          <div class="sub-tag-chips">
+            ${catChips}
+            <div class="sub-topics-wrap">
+              <button class="sub-topics-btn${topicTags.includes(activeTag) ? ' active' : ''}" id="subTopicsBtn">${topicBtnLabel}</button>
+              <div class="sub-topics-dropdown hidden" id="subTopicsDropdown">${topicChips}</div>
+            </div>
+          </div>
           <span class="sub-count">${this._esc(countLabel)}</span>
         </div>
         <div class="sub-grid">${cards || '<p style="padding:2rem;color:var(--c-text-muted)">No verses found.</p>'}</div>`;
+
+      // Topics dropdown toggle
+      container.querySelector('#subTopicsBtn')?.addEventListener('click', e => {
+        e.stopPropagation();
+        container.querySelector('#subTopicsDropdown')?.classList.toggle('hidden');
+      });
+      document.addEventListener('click', () => {
+        container.querySelector('#subTopicsDropdown')?.classList.add('hidden');
+      }, { once: true });
 
       // Tag filter clicks
       container.querySelectorAll('.sub-tag-chip').forEach(btn => {

@@ -1,0 +1,37 @@
+{
+  "id": "dharma-012",
+  "tags": ["dharma", "guru", "brahma", "namaskara"],
+
+  "shlokam": {
+    "te": "గురుర్బ్రహ్మా గురుర్విష్ణుః గురుర్దేవో మహేశ్వరః ।\nగురుః సాక్షాత్ పరబ్రహ్మ తస్మై శ్రీ గురవే నమః ॥",
+    "sa": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः ।\nगुरुः साक्षात् परब्रह्म तस्मै श्री गुरवे नमः ॥",
+    "iast": "gururbrahmā gururviṣṇuḥ gururdevo maheśvaraḥ |\nguruḥ sākṣāt parabrahma tasmai śrī gurave namaḥ ||"
+  },
+
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+
+  "granthaH": {
+    "name_te": "గురు స్తోత్రం (స్కాన్ద పురాణం)",
+    "name_en": "Guru Stotram (Skānda Purāṇa)"
+  },
+
+  "padavibhagam": {
+    "te": "గురుః | బ్రహ్మా | గురుః | విష్ణుః | గురుః | దేవః | మహేశ్వరః | గురుః | సాక్షాత్ | పరబ్రహ్మ | తస్మై | శ్రీ | గురవే | నమః",
+    "en": "guruḥ | brahmā | guruḥ | viṣṇuḥ | guruḥ | devaḥ | maheśvaraḥ | guruḥ | sākṣāt | parabrahma | tasmai | śrī | gurave | namaḥ"
+  },
+
+  "anvayam": {
+    "te": "గురుః బ్రహ్మా (గురువే బ్రహ్మ); గురుః విష్ణుః; గురుః దేవః మహేశ్వరః; గురుః సాక్షాత్ పరబ్రహ్మ (ఏ); తస్మై శ్రీ గురవే నమః.",
+    "en": "guruḥ brahmā (the guru is Brahma — the creator); guruḥ viṣṇuḥ (the guru is Viṣṇu — the sustainer); guruḥ devaḥ maheśvaraḥ (the guru is Śiva — the destroyer); guruḥ sākṣāt parabrahma (the guru is directly the Supreme Brahman); tasmai śrī gurave namaḥ (salutations to that revered guru)."
+  },
+
+  "meaning": {
+    "te": "గురువే బ్రహ్మ, గురువే విష్ణువు, గురువే మహేశ్వరుడు. గురువు సాక్షాత్ పరబ్రహ్మ స్వరూపుడు. ఆ శ్రీ గురువునకు నమస్కారం.",
+    "en": "The guru is Brahma (creator), the guru is Viṣṇu (sustainer), the guru is Maheśvara (Śiva, the transformer). The guru is directly the Supreme Brahman. Salutations to that revered guru."
+  },
+
+  "tatparyam": {
+    "te": "ఈ శ్లోకం గురువు యొక్క మహత్త్వాన్ని అత్యున్నత స్థాయిలో వర్ణిస్తుంది. సృష్టి, స్థితి, లయాలకు కారణమైన త్రిమూర్తులతో గురువును సమానంగా చెప్పడం — గురు-శిష్య సంబంధం యొక్క పావిత్ర్యాన్ని తెలుపుతుంది. జ్ఞానం ప్రసాదించే గురువు దైవ స్వరూపుడే.",
+    "en": "This verse elevates the guru to the highest spiritual status by identifying them with the entire Trinity — Brahma who creates, Viṣṇu who sustains, and Śiva who transforms. The guru facilitates all three processes in a disciple's life: creating understanding, sustaining practice, and dissolving ignorance. To call the guru Parabrahma is to recognise that true knowledge is itself divine."
+  }
+}

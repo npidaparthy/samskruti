@@ -1,0 +1,37 @@
+{
+  "id": "seva-004",
+  "tags": ["seva", "dana", "bhoga", "vitta"],
+
+  "shlokam": {
+    "te": "దానం భోగో నాశస్తిస్రో గతయో భవన్తి విత్తస్య ।\nయో న దదాతి న భుఙ్క్తే తస్య తృతీయా గతిర్భవతి ॥",
+    "sa": "दानं भोगो नाशस्तिस्रो गतयो भवन्ति वित्तस्य ।\nयो न ददाति न भुङ्क्ते तस्य तृतीया गतिर्भवति ॥",
+    "iast": "dānaṃ bhogo nāśas tisro gatayo bhavanti vittasya |\nyo na dadāti na bhuṅkte tasya tṛtīyā gatirbhavati ||"
+  },
+
+  "chandaH": "ఆర్యా (Āryā) — syllabic metre with 12+18 morae",
+
+  "granthaH": {
+    "name_te": "భర్తృహరి నీతిశతకం",
+    "name_en": "Bhartṛhari — Nītiśataka"
+  },
+
+  "padavibhagam": {
+    "te": "దానం | భోగః | నాశః | తిస్రః | గతయః | భవన్తి | విత్తస్య | యః | న | దదాతి | న | భుఙ్క్తే | తస్య | తృతీయా | గతిః | భవతి",
+    "en": "dānam | bhogaḥ | nāśaḥ | tisraḥ | gatayaḥ | bhavanti | vittasya | yaḥ | na | dadāti | na | bhuṅkte | tasya | tṛtīyā | gatiḥ | bhavati"
+  },
+
+  "anvayam": {
+    "te": "విత్తస్య తిస్రః గతయః భవన్తి — దానం, భోగః, నాశః (ఇతి); యః (వ్యక్తి) న దదాతి న భుఙ్క్తే, తస్య తృతీయా గతిః (నాశమే) భవతి.",
+    "en": "vittasya (of wealth) tisraḥ gatayaḥ (three paths) bhavanti (there are) — dānam (giving), bhogaḥ (enjoyment), nāśaḥ (destruction); yaḥ (one who) na dadāti (neither gives) na bhuṅkte (nor enjoys), tasya (for them) tṛtīyā gatiḥ (the third path — destruction) bhavati (is certain)."
+  },
+
+  "meaning": {
+    "te": "ధనానికి మూడే గతులు — దానం, భోగం, నాశం. ఇవ్వని, అనుభవించని వ్యక్తికి మూడవ గతి అంటే నాశమే.",
+    "en": "Wealth has only three paths — charity, enjoyment, or destruction. One who neither gives nor enjoys will certainly face the third path: loss."
+  },
+
+  "tatparyam": {
+    "te": "ధనాన్ని దానంలోనో, సద్వినియోగంలోనో వాడని వ్యక్తి చివరకు పోగొట్టుకుంటాడు — చోరీ ద్వారా, పన్ను ద్వారా, లేదా వృద్ధాప్యంలో. ఈ శ్లోకం కార్పణ్యాన్ని విమర్శిస్తూ దానం, భోగం రెండింటిలోనూ సంతులనం ఉండాలని చెప్తుంది.",
+    "en": "Wealth that is neither given nor enjoyed will inevitably be lost — through theft, taxation, or time. Bhartṛhari's wit is in saying that the miser, who thinks they are saving, is actually choosing the worst outcome: loss without joy or merit. This verse encourages both generosity and wholesome enjoyment over hoarding."
+  }
+}
