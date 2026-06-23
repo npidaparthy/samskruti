@@ -1,5 +1,7 @@
 // ── Config ───────────────────────────────────────────────────────────────────
 const SECTION_TAB_THRESHOLD = 6;   // ≤ this → pill tabs; > this → dropdown
+const DATA_STOTRAMS_INDEX   = 'data/stotrams.json';
+const DATA_SUBHASHITAM_INDEX = 'data/subhashitam/_index.json';
 
 // Feature flags — set to true to enable for all users, false to hide.
 // Even when false, users with the beta token in localStorage can still access.
@@ -176,8 +178,8 @@ window.StotramApp = {
 
   async loadIndex() {
     try {
-      const resp = await fetch('data/stotrams.json');
-      if (!resp.ok) throw new Error(`stotrams.json → HTTP ${resp.status}`);
+      const resp = await fetch(DATA_STOTRAMS_INDEX);
+      if (!resp.ok) throw new Error(`${DATA_STOTRAMS_INDEX} → HTTP ${resp.status}`);
       const json = await resp.json();
       const base = json.stotrams || [];
 
@@ -210,7 +212,7 @@ window.StotramApp = {
       this.stotramsIndex = [];
       document.getElementById('featuredGrid').innerHTML =
         `<p style="color:var(--c-text-muted);grid-column:1/-1;padding:2rem">
-          ⚠️ Could not load <code>data/stotrams.json</code>.<br>
+          ⚠️ Could not load <code>${DATA_STOTRAMS_INDEX}</code>.<br>
           Check the file exists and GitHub Pages is deployed.
         </p>`;
     }
@@ -735,7 +737,7 @@ window.StotramApp = {
     const lang = window.i18n?.lang || 'en';
     container.innerHTML = '<div class="skeleton-card" style="height:120px;margin:1rem 0"></div>';
     try {
-      const res  = await fetch('data/subhashitam/_index.json');
+      const res  = await fetch(DATA_SUBHASHITAM_INDEX);
       const list = await res.json();
       this._subIndex = list;  // cache for slug lookup
 
@@ -821,7 +823,7 @@ window.StotramApp = {
   async _openSubhashitamBySlug(slug) {
     // If index not yet loaded, fetch it first
     if (!this._subIndex) {
-      const res = await fetch('data/subhashitam/_index.json');
+      const res = await fetch(DATA_SUBHASHITAM_INDEX);
       this._subIndex = await res.json();
     }
     const entry = this._subIndex.find(e => e.slug === slug);
