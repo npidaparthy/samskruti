@@ -1,7 +1,7 @@
 #python3 -c "
 import json
 from collections import Counter
-data = json.load(open('/Users/Nagendra/Projects/claude/samskruti/data/stotrams.json'))
+data = json.load(open('/Users/Nagendra/Projects/claude/samskruti/data/stotram/stotrams.json'))
 items = data if isinstance(data, list) else list(data.values())[0]
 c = Counter()
 for s in items:

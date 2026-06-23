@@ -14,11 +14,11 @@ Usage:
 import json, os, sys, tempfile, webbrowser
 
 # ── Load data ─────────────────────────────────────────────────────────────────
-with open("data/stotrams.json") as f:
+with open("data/stotram/stotrams.json") as f:
     INDEX = {s["slug"]: s for s in json.load(f)["stotrams"]}
 
 def load_meta(slug):
-    path = f"data/{slug}/{slug}_meta.json"
+    path = f"data/stotram/{slug}/{slug}_meta.json"
     if os.path.exists(path):
         with open(path) as f:
             return json.load(f)

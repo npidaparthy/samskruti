@@ -8,7 +8,7 @@ Output: assets/images/<slug>-0N.svg  (N = 01..08)
 import os, json, math
 
 # ── Load title data ────────────────────────────────────────────────────────────
-with open("data/stotrams.json") as f:
+with open("data/stotram/stotrams.json") as f:
     INDEX = {s["slug"]: s for s in json.load(f)["stotrams"]}
 
 def get_titles(slug):
@@ -17,7 +17,7 @@ def get_titles(slug):
     theme falls back to _meta.json if not set in stotrams.json.
     """
     base = INDEX.get(slug, {})
-    meta_path = f"data/{slug}/{slug}_meta.json"
+    meta_path = f"data/stotram/{slug}/{slug}_meta.json"
     meta = {}
     if os.path.exists(meta_path):
         with open(meta_path) as f:
@@ -335,7 +335,7 @@ VARIANTS = [v1_om_center, v2_lotus_title, v3_starburst_left, v4_yantra,
 OUT = "assets/images"
 os.makedirs(OUT, exist_ok=True)
 
-slugs = [s["slug"] for s in json.load(open("data/stotrams.json"))["stotrams"]]
+slugs = [s["slug"] for s in json.load(open("data/stotram/stotrams.json"))["stotrams"]]
 total = 0
 
 for slug in slugs:

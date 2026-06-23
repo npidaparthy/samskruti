@@ -177,7 +177,7 @@ window.StotramApp = {
       // _meta.json fields WIN over stotrams.json fields when both exist.
       this.stotramsIndex = await Promise.all(base.map(async entry => {
         try {
-          const mr = await fetch(`data/${entry.slug}/${entry.slug}_meta.json`);
+          const mr = await fetch(`data/stotram/${entry.slug}/${entry.slug}_meta.json`);
           if (mr.ok) {
             const meta = await mr.json();
             // Merge strategy: _meta.json wins for rich content (sections,
@@ -455,7 +455,7 @@ window.StotramApp = {
     if (!container) return;
     container.innerHTML = '<div class="skeleton-card" style="height:200px;margin:1rem 0"></div>';
 
-    const basePath = `data/${slug}/`;
+    const basePath = `data/stotram/${slug}/`;
     const srcFile  = basePath + section.file;
     let lipiFile   = srcFile;
 
@@ -535,7 +535,7 @@ window.StotramApp = {
     this._meanings = {};
     if (!ENABLE_STOTRAM_MEANING) return;
     const lang = window.i18n?.lang || 'en';
-    const url  = `data/${slug}/${slug}_stotram_meaning_${lang}.txt`;
+    const url  = `data/stotram/${slug}/${slug}_stotram_meaning_${lang}.txt`;
     try {
       const res  = await fetch(url);
       if (!res.ok) return; // no meaning file — silently skip

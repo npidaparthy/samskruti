@@ -108,7 +108,7 @@ window.I18N = {
     // ── Errors ───────────────────────────────────────────────
     err_file_load:      'Could not load',
     err_file_missing:   'Make sure this file exists in your GitHub repository.',
-    err_no_stotrams:    'No stotrams found. Check data/stotrams.json.',
+    err_no_stotrams:    'No stotrams found. Check data/stotram/stotrams.json.',
   },
 
   te: {
@@ -197,7 +197,7 @@ window.I18N = {
     // ── Errors ───────────────────────────────────────────────
     err_file_load:      'ఫైల్ లోడ్ కాలేదు',
     err_file_missing:   'ఈ ఫైల్ మీ GitHub రిపోజిటరీలో ఉందో లేదో తనిఖీ చేయండి.',
-    err_no_stotrams:    'స్తోత్రాలు కనుగొనబడలేదు. data/stotrams.json తనిఖీ చేయండి.',
+    err_no_stotrams:    'స్తోత్రాలు కనుగొనబడలేదు. data/stotram/stotrams.json తనిఖీ చేయండి.',
   }
 };
 

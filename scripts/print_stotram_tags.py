@@ -1,6 +1,6 @@
 #python3 -c "
 import json
-data = json.load(open('/Users/Nagendra/Projects/claude/samskruti/data/stotrams.json'))
+data = json.load(open('/Users/Nagendra/Projects/claude/samskruti/data/stotram/stotrams.json'))
 tags = set()
 items = data if isinstance(data, list) else data.get('stotrams', data.get('items', []))
 for s in items:

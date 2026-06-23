@@ -10,7 +10,7 @@ const ASSETS = [
     '/assets/js/modules/audio.js',
     '/assets/js/modules/search.js',
     '/assets/js/modules/ui.js',
-    '/data/stotrams.json',
+    '/data/stotram/stotrams.json',
 ];
 
 self.addEventListener('install', e => {
