@@ -368,7 +368,6 @@ window.StotramApp = {
   },
 
   buildCard(s) {
-    const tags  = (s.tags || []).slice(0, 3).map(t => `<span class="tag-pill">${t}</span>`).join('');
     const title = window.i18n?.lang === 'te' ? (s.title_te || s.title_en) : s.title_en;
     const desc  = window.i18n?.lang === 'te' ? (s.description_te || s.description_en) : s.description_en;
 
@@ -392,7 +391,6 @@ window.StotramApp = {
           <div class="card-title-te">${s.title_te || s.title_sa}</div>
           <div class="card-title-en">${s.title_en}</div>
           <div class="card-desc">${desc || ''}</div>
-          <div class="card-tags">${tags}</div>
         </div>
       </div>`;
   },
