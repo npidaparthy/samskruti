@@ -1,0 +1,37 @@
+{
+  "id": "karma-008",
+  "tags": ["karma", "gahana", "gita", "karma-rahasya", "mystery"],
+
+  "shlokam": {
+    "te": "కర్మణో హ్యపి బోద్ధవ్యం బోద్ధవ్యం చ వికర్మణః ।\nఅకర్మణశ్చ బోద్ధవ్యం గహనా కర్మణో గతిః ॥",
+    "sa": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः ।\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ॥",
+    "iast": "karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ |\nakarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ ||"
+  },
+
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత 4.17",
+    "name_en": "Bhagavad Gītā 4.17"
+  },
+
+  "padavibhagam": {
+    "te": "కర్మణః | హి | అపి | బోద్ధవ్యం | బోద్ధవ్యం | చ | వికర్మణః | అకర్మణః | చ | బోద్ధవ్యం | గహనా | కర్మణః | గతిః",
+    "en": "karmaṇaḥ | hi | api | boddhavyam | boddhavyam | ca | vikarmaṇaḥ | akarmaṇaḥ | ca | boddhavyam | gahanā | karmaṇaḥ | gatiḥ"
+  },
+
+  "anvayam": {
+    "te": "కర్మణః హి అపి బోద్ధవ్యం (కర్మను కూడా తెలుసుకోవాలి); వికర్మణః చ బోద్ధవ్యం (వికర్మను కూడా తెలుసుకోవాలి); అకర్మణః చ బోద్ధవ్యం (అకర్మను కూడా తెలుసుకోవాలి). కర్మణః గతిః గహనా (కర్మ యొక్క గతి రహస్యమైనది).",
+    "en": "karmaṇaḥ hi api boddhavyam (karma must indeed be understood); vikarmaṇaḥ ca boddhavyam (so also forbidden action must be understood); akarmaṇaḥ ca boddhavyam (so also inaction must be understood). karmaṇaḥ gatiḥ gahanā (the course of karma is mysterious/deep)."
+  },
+
+  "meaning": {
+    "te": "కర్మను, వికర్మను, అకర్మను — మూడింటినీ తెలుసుకోవాలి. కర్మ యొక్క గతి మిక్కిలి రహస్యమైనది.",
+    "en": "One must understand karma, vikarma (forbidden action), and akarma (inaction). The course of karma is truly mysterious."
+  },
+
+  "tatparyam": {
+    "te": "భగవద్గీతలో కర్మ రహస్యాన్ని కృష్ణుడు మూడు వర్గాలుగా విభజించి చెప్తున్నాడు. కర్మ అంటే విధి కర్తవ్యం; వికర్మ అంటే నిషిద్ధ కర్మ; అకర్మ అంటే కర్మ ఫలాన్ని విడిచిపెట్టడం — యోగులకు ఇది నిష్కామ కర్మ. 'గహనా కర్మణో గతిః' అన్న వాక్యం మిక్కిలి ప్రసిద్ధం — కర్మ సిద్ధాంతం మానవ బుద్ధికి అందుబాటులో ఉన్నంత సులభమైనది కాదు; అందుకే తత్త్వ జ్ఞానం అవసరం. ఫలాపేక్ష లేని కర్మ సాధన ద్వారా మాత్రమే ఈ రహస్యాన్ని అనుభవంలో అర్థం చేసుకోవచ్చు.",
+    "en": "In this verse from the Gītā (4.17), Kṛṣṇa categorizes action into three types: karma (obligatory action), vikarma (prohibited/sinful action), and akarma (non-action or the state of action without ego-involvement). The most famous phrase here is 'gahanā karmaṇo gatiḥ' — the way of karma is unfathomable. This is an honest admission that karma's workings transcend ordinary human understanding. The verse sets up the Gītā's central teaching: since karma's full consequences cannot be calculated, the wise course is to act without attachment to results — nishkāma karma yoga."
+  }
+}

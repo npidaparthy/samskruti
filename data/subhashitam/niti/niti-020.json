@@ -1,0 +1,37 @@
+{
+  "id": "niti-020",
+  "tags": ["niti", "matrvat", "sadachara", "nitishastra", "character"],
+
+  "shlokam": {
+    "te": "మాతృవత్ పరదారేషు పరద్రవ్యేషు లోష్టవత్ ।\nఆత్మవత్ సర్వభూతేషు యః పశ్యతి స పండితః ॥",
+    "sa": "मातृवत् परदारेषु परद्रव्येषु लोष्टवत् ।\nआत्मवत् सर्वभूतेषु यः पश्यति स पण्डितः ॥",
+    "iast": "mātṛvat paradāreṣu paradravyeṣu loṣṭavat |\nātmavat sarvabhūteṣu yaḥ paśyati sa paṇḍitaḥ ||"
+  },
+
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+
+  "granthaH": {
+    "name_te": "చాణక్య నీతి / సుభాషిత సంగ్రహం",
+    "name_en": "Cāṇakya Nīti / Subhāṣita tradition"
+  },
+
+  "padavibhagam": {
+    "te": "మాతృవత్ | పర-దారేషు | పర-ద్రవ్యేషు | లోష్టవత్ | ఆత్మవత్ | సర్వ-భూతేషు | యః | పశ్యతి | సః | పండితః",
+    "en": "mātṛvat | para-dāreṣu | para-dravyeṣu | loṣṭavat | ātmavat | sarva-bhūteṣu | yaḥ | paśyati | saḥ | paṇḍitaḥ"
+  },
+
+  "anvayam": {
+    "te": "యః పరదారేషు మాతృవత్ (ఎవరైతే ఇతరుల భార్యలను తల్లివలె), పరద్రవ్యేషు లోష్టవత్ (ఇతరుల సంపదను మట్టి ముద్దవలె), సర్వభూతేషు ఆత్మవత్ (సర్వప్రాణులలో ఆత్మవలె) పశ్యతి (చూస్తాడో), సః పండితః (అతను పండితుడు).",
+    "en": "yaḥ (he who) para-dāreṣu mātṛvat (sees others' wives as mother), para-dravyeṣu loṣṭavat (sees others' wealth as a clod of earth), sarva-bhūteṣu ātmavat (sees all beings as oneself) paśyati (perceives thus) — saḥ paṇḍitaḥ (he is the truly learned)."
+  },
+
+  "meaning": {
+    "te": "ఇతరుల భార్యలను తల్లిగా, ఇతరుల సంపదను మట్టి ముద్దగా, సర్వప్రాణులను తన ఆత్మగా చూసేవాడే నిజమైన పండితుడు.",
+    "en": "He who sees others' wives as his mother, others' wealth as a clod of earth, and all beings as his own self — that person is the truly learned."
+  },
+
+  "tatparyam": {
+    "te": "ఈ సుభాషితం పాండిత్యానికి లక్షణాలు నిర్వచిస్తుంది — పుస్తక జ్ఞానం కాదు, జీవన సదాచారం. మూడు పాదాలు మూడు నైతిక ప్రమాణాలను చెప్తాయి: పరస్త్రీ పట్ల పవిత్రత, పరధనం పట్ల నిర్లిప్తత, సర్వభూతాల పట్ల సమభావం. ఇవి ఒక్కసారి అలవాటు చేసుకుంటే మనిషి ఎంత గొప్ప సమాజాన్ని నిర్మించగలడో ఊహించవచ్చు. చాణక్యుని దృష్టిలో నిజమైన 'పండితుడు' సంస్కారవంతుడు, గ్రంథాధ్యాయి మాత్రమే కాదు.",
+    "en": "This verse defines true learning not by bookish knowledge but by ethical conduct. Three criteria are given: chastity in regard to others' wives, non-covetousness of others' wealth, and universal empathy that sees all beings as oneself. These three together constitute sādācāra — right conduct — the foundation of a civilized person. Cāṇakya's standard of a 'paṇḍita' is thus moral and spiritual, not merely intellectual. A society built on such values would have minimal conflict, crime, and inequality."
+  }
+}

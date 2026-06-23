@@ -1,0 +1,37 @@
+{
+  "id": "seva-007",
+  "tags": ["seva", "ishavasyam", "isha-upanishad", "tyaga", "renunciation"],
+
+  "shlokam": {
+    "te": "ఈశావాస్యమిదం సర్వం యత్కిఞ్చ జగత్యాం జగత్ ।\nతేన త్యక్తేన భుఞ్జీథా మా గృధః కస్యస్విద్ధనమ్ ॥",
+    "sa": "ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत् ।\nतेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥",
+    "iast": "īśāvāsyamidaṃ sarvaṃ yatkiñca jagatyāṃ jagat |\ntena tyaktena bhuñjīthā mā gṛdhaḥ kasyasviddhanam ||"
+  },
+
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+
+  "granthaH": {
+    "name_te": "ఈశావాస్యోపనిషత్ 1",
+    "name_en": "Īśāvāsya Upaniṣad 1"
+  },
+
+  "padavibhagam": {
+    "te": "ఈశ-ఆవాస్యం | ఇదం | సర్వం | యత్-కిఞ్చ | జగత్యాం | జగత్ | తేన | త్యక్తేన | భుఞ్జీథాః | మా | గృధః | కస్య-స్విత్ | ధనం",
+    "en": "īśa-āvāsyam | idam | sarvam | yat-kiñca | jagatyām | jagat | tena | tyaktena | bhuñjīthāḥ | mā | gṛdhaḥ | kasya-svit | dhanam"
+  },
+
+  "anvayam": {
+    "te": "జగత్యాం యత్కిఞ్చ జగత్ ఇదం సర్వం ఈశావాస్యం (ఈ జగత్తులో ఉన్నదంతా ఈశ్వరుడితో నిండినది). తేన త్యక్తేన భుఞ్జీథాః (ఆయన అర్పిస్తే దాన్ని త్యాగ భావంతో అనుభవించు); కస్యస్విత్ ధనం మా గృధః (ఇది ఎవరి ధనమో తెలుసుకొని దానిపై ఆసక్తి పెట్టుకోవద్దు).",
+    "en": "yatkiñca jagat jagatyāṃ idam sarvam īśa-āvāsyam (all this — whatever exists in this moving world — is pervaded by the Lord). tena tyaktena bhuñjīthāḥ (enjoy through renunciation — enjoy what He gives, with detachment); mā gṛdhaḥ kasyasvit dhanam (do not covet the wealth of anyone)."
+  },
+
+  "meaning": {
+    "te": "ఈ జగత్తులో ఉన్నదంతా ఈశ్వరుడితో నిండినది. ఆయన అనుగ్రహం ద్వారా త్యాగభావంతో అనుభవించు — ఇతరుల సంపదపై ఆసక్తి పెట్టుకోకు.",
+    "en": "All this — whatever exists in this universe — is pervaded by the Lord. Enjoy through renunciation what He grants; do not covet the wealth of others."
+  },
+
+  "tatparyam": {
+    "te": "ఈశావాస్యోపనిషత్ మొదటి శ్లోకం ఒక విశ్వ దృష్టిని ఇస్తుంది. సర్వం ఈశ్వరావాస్యం — ప్రతి వస్తువు, ప్రతి జీవి దైవంతో నిండినది. ఈ దృష్టి ఉంటే సేవ, ప్రేమ స్వాభావికంగా వస్తాయి. 'త్యక్తేన భుఞ్జీథాః' అన్న సూత్రం — అనుభవించు, కానీ అంటుకొనేలా కాదు; ఆనందించు, కానీ ఆసక్తి పెట్టుకోవద్దు. ఇది భోగాన్ని నిరాకరించడం కాదు — శుద్ధమైన భోగం. ఈ వాక్యం గాంధీజీకి జీవిత మూలమంత్రం.",
+    "en": "The opening verse of the Īśāvāsya Upaniṣad establishes a total worldview in three clauses. First, the entire universe is pervaded by the Lord — this is the non-dual recognition that the sacred is not confined to temples but fills all existence. Second, 'enjoy through renunciation' (tyaktena bhuñjīthāḥ) — this does not demand asceticism but a spirit of trusteeship: use and enjoy what life offers without possessiveness. Third, do not covet — contentment with what one has, and non-interference with others'. Mahatma Gandhi called this single verse a complete summary of all ethics."
+  }
+}

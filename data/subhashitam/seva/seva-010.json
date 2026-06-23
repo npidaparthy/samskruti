@@ -1,0 +1,37 @@
+{
+  "id": "seva-010",
+  "tags": ["seva", "annadanam", "mahadanam", "dana", "food"],
+
+  "shlokam": {
+    "te": "అన్నదానం మహాదానం వస్త్రదానం తతోఽధికం ।\nజ్ఞానదానం మహాదానం ఏతేభ్యో నోత్తమం దానమ్ ॥",
+    "sa": "अन्नदानं महादानं वस्त्रदानं ततोऽधिकम् ।\nज्ञानदानं महादानं एतेभ्यो नोत्तमं दानम् ॥",
+    "iast": "annadānaṃ mahādānaṃ vastradānaṃ tato'dhikam |\njñānadānaṃ mahādānaṃ etebhyo nottamaṃ dānam ||"
+  },
+
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+
+  "granthaH": {
+    "name_te": "సుభాషిత / పురాణ సంగ్రహం",
+    "name_en": "Subhāṣita / Purāṇa tradition"
+  },
+
+  "padavibhagam": {
+    "te": "అన్న-దానం | మహా-దానం | వస్త్ర-దానం | తతః | అధికం | జ్ఞాన-దానం | మహా-దానం | ఏతేభ్యః | న | ఉత్తమం | దానం",
+    "en": "anna-dānam | mahā-dānam | vastra-dānam | tataḥ | adhikam | jñāna-dānam | mahā-dānam | etebhyaḥ | na | uttamam | dānam"
+  },
+
+  "anvayam": {
+    "te": "అన్నదానం మహాదానం (అన్నదానం గొప్ప దానం); వస్త్రదానం తతోఽధికం (వస్త్రదానం దానికంటె అధికం). జ్ఞానదానం మహాదానం (జ్ఞానదానం మహాదానం); ఏతేభ్యః ఉత్తమం దానం న (వీటన్నింటికంటె ఉత్తమమైన దానం లేదు).",
+    "en": "annadānam mahādānam (giving food is great giving); vastradānam tato'dhikam (giving clothing is greater still). jñānadānam mahādānam (giving knowledge is the greatest gift); etebhyaḥ uttamam dānam na (there is no gift greater than these)."
+  },
+
+  "meaning": {
+    "te": "అన్నదానం మహాదానం; వస్త్రదానం అంతకంటె అధికం; జ్ఞానదానం మహాదానం — వీటికంటె ఉత్తమమైన దానం లేదు.",
+    "en": "Food-giving is a great gift; clothing-giving is even greater; knowledge-giving is the greatest gift — there is no gift superior to these."
+  },
+
+  "tatparyam": {
+    "te": "ఈ శ్లోకం దానానికి ఒక క్రమాన్ని నిర్ణయిస్తుంది. అన్నదానం శరీరాన్ని పోషిస్తుంది — అది గొప్పది. వస్త్రదానం గౌరవాన్ని రక్షిస్తుంది — అది అంతకంటె అధికం. కానీ జ్ఞానదానం ఆత్మను తీర్చిదిద్దుతుంది — అది అతి గొప్పది. భారతీయ సంస్కృతిలో గురువు, పండితులు విద్యను ఉచితంగా ఇచ్చే సంప్రదాయం ఉంది — ఇది 'జ్ఞానదానం'. తిరుమల దేవస్థానం అన్నదానానికి ప్రసిద్ధం — ఇది 'అన్నదానం'. రెండూ మహాదానాలు.",
+    "en": "This verse establishes a hierarchy of giving. Annadāna — giving food — sustains the body and is great because hunger is the most immediate suffering. Vastradāna — giving clothing — addresses human dignity and is greater. Jñānadāna — giving knowledge — transforms the soul and enables the recipient to help themselves and others indefinitely. The verse reflects the Indian tradition of free education (gurukula) as a supreme form of service, equal to or greater than material gifts. The Tirupati temple complex is famous for free meals; the great Vedic gurukulas offered free education — both embody this teaching."
+  }
+}

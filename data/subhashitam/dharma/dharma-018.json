@@ -1,0 +1,37 @@
+{
+  "id": "dharma-018",
+  "tags": ["dharma", "sarve-bhavantu-sukhinah", "shanti", "upanishad", "universal-prayer"],
+
+  "shlokam": {
+    "te": "సర్వే భవన్తు సుఖినః సర్వే సన్తు నిరామయాః ।\nసర్వే భద్రాణి పశ్యన్తు మా కశ్చిద్దుఃఖభాగ్భవేత్ ॥",
+    "sa": "सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः ।\nसर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत् ॥",
+    "iast": "sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ |\nsarve bhadrāṇi paśyantu mā kaścidduḥkhabhāgbhavet ||"
+  },
+
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+
+  "granthaH": {
+    "name_te": "బృహదారణ్యకోపనిషత్ / శాంతి పాఠం",
+    "name_en": "Bṛhadāraṇyaka Upaniṣad / Śānti pāṭha tradition"
+  },
+
+  "padavibhagam": {
+    "te": "సర్వే | భవన్తు | సుఖినః | సర్వే | సన్తు | నిరామయాః | సర్వే | భద్రాణి | పశ్యన్తు | మా | కశ్చిత్ | దుఃఖ-భాక్ | భవేత్",
+    "en": "sarve | bhavantu | sukhinaḥ | sarve | santu | nirāmayāḥ | sarve | bhadrāṇi | paśyantu | mā | kaścit | duḥkha-bhāk | bhavet"
+  },
+
+  "anvayam": {
+    "te": "సర్వే సుఖినః భవన్తు (అందరూ సుఖంగా ఉండుగాక); సర్వే నిరామయాః సన్తు (అందరూ రోగరహితులు అయ్యుదురుగాక); సర్వే భద్రాణి పశ్యన్తు (అందరూ శుభాలను చూడుగాక); కశ్చిత్ దుఃఖభాక్ మా భవేత్ (ఏ ఒక్కరూ దుఃఖానికి పాత్రులు కాకుండుగాక).",
+    "en": "sarve sukhinaḥ bhavantu (may all be happy); sarve nirāmayāḥ santu (may all be free from disease); sarve bhadrāṇi paśyantu (may all see what is auspicious); mā kaścit duḥkhabhāk bhavet (may no one whatsoever be touched by sorrow)."
+  },
+
+  "meaning": {
+    "te": "అందరూ సుఖంగా ఉండుగాక; అందరూ రోగరహితులు అగుదురుగాక; అందరూ శుభదర్శనం చేసుకుందురుగాక; ఏ ఒక్కరికీ దుఃఖం కలుగకుండుగాక.",
+    "en": "May all be happy; may all be free from disease; may all see what is auspicious; may none whatsoever be touched by sorrow."
+  },
+
+  "tatparyam": {
+    "te": "ఈ శ్లోకం భారతీయ సంస్కృతిలో అత్యంత ప్రాచీనమైన సార్వత్రిక ప్రార్థన. 'సర్వే' అంటే — మన బంధువులు మాత్రమే కాదు, అందరూ; మన మతం వారు మాత్రమే కాదు, అందరూ; మన దేశం వారు మాత్రమే కాదు, అందరూ. నాలుగు పాదాలు నాలుగు కోణాల నుండి శ్రేయస్సును కోరుతున్నాయి: ఆనందం, ఆరోగ్యం, శుభ దర్శనం, దుఃఖ నివారణం. ఇది స్వామి వివేకానందుడు, మహాత్మా గాంధీ నిత్యం పఠించిన ప్రార్థన.",
+    "en": "This verse is one of India's most ancient and universal prayers, chanted daily in Vedic traditions. 'Sarve' — all beings without exception: not just one's own family, community, religion, or nation, but all sentient life. The prayer covers four dimensions of well-being: happiness (sukha), health (nirāmaya), the perception of auspiciousness (bhadrāṇi paśyantu), and freedom from sorrow. The last line — 'may no one at all be touched by suffering' — is a radical aspiration of unlimited compassion. This spirit underpins the Vedantic ideal of universal brotherhood that Swami Vivekananda carried to the world."
+  }
+}

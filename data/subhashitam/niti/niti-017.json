@@ -1,0 +1,37 @@
+{
+  "id": "niti-017",
+  "tags": ["niti", "vasudhaiva-kutumbakam", "udara", "mahabharata", "pancatantra"],
+
+  "shlokam": {
+    "te": "అయం నిజః పరో వేతి గణనా లఘుచేతసాం ।\nఉదారచరితానాం తు వసుధైవ కుటుంబకం ॥",
+    "sa": "अयं निजः परो वेति गणना लघुचेतसाम् ।\nउदारचरितानां तु वसुधैव कुटुम्बकम् ॥",
+    "iast": "ayaṃ nijaḥ paro veti gaṇanā laghucetasām |\nudāracaritānāṃ tu vasudhaiva kuṭumbakam ||"
+  },
+
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+
+  "granthaH": {
+    "name_te": "మహోపనిషత్ / పంచతంత్రం",
+    "name_en": "Mahopaniṣat / Pañcatantra"
+  },
+
+  "padavibhagam": {
+    "te": "అయం | నిజః | పరః | వా | ఇతి | గణనా | లఘు-చేతసాం | ఉదార-చరితానాం | తు | వసుధా | ఏవ | కుటుంబకం",
+    "en": "ayam | nijaḥ | paraḥ | vā | iti | gaṇanā | laghu-cetasām | udāra-caritānām | tu | vasudhā | eva | kuṭumbakam"
+  },
+
+  "anvayam": {
+    "te": "అయం నిజః పరో వా ఇతి గణనా లఘుచేతసాం (ఇది నాది, అది పరుల వారిది అని లెక్కించడం సంకుచిత హృదయులకు మాత్రమే). ఉదారచరితానాం తు వసుధైవ కుటుంబకం (ఉదారచిత్తులకు ఈ భూమి మొత్తమే ఒక కుటుంబం).",
+    "en": "ayaṃ nijaḥ paraḥ vā iti (this is mine, that is another's — such) gaṇanā (calculation/division) laghucetasām (belongs to small-minded people); udāracaritānām tu (but for the large-hearted) vasudhaiva kuṭumbakam (the whole earth is but one family)."
+  },
+
+  "meaning": {
+    "te": "'ఇది నాది, ఇది పరుల వారిది' అని విభజించడం సంకుచిత మనసుల పని. ఉదారమైన హృదయం కలవారికి ఈ సమస్త భూమి ఒకే కుటుంబం.",
+    "en": "Dividing people into 'mine' and 'others' is the thought of the narrow-minded. For those of noble and generous character, the entire world is one family."
+  },
+
+  "tatparyam": {
+    "te": "ఈ సుభాషితం భారతీయ సనాతన సంస్కృతిలో అత్యంత ప్రసిద్ధమైన వాక్యం — 'వసుధైవ కుటుంబకం'. భూమి మొత్తం ఒకే కుటుంబం అన్న భావన సంకుచితత్వాన్ని తిరస్కరిస్తుంది. జాతి, మతం, ప్రాంతం అనే విభేదాలు లఘు మనసుల సృష్టి; ఉదార చరిత్రులు సర్వుల హితాన్ని తమ బంధువుల హితంగా భావిస్తారు. నేటి ప్రపంచంలో అంతర్జాతీయ సంబంధాలకు, సార్వత్రిక సోదరత్వానికి ఇది పునాది సూత్రం.",
+    "en": "This verse contains one of the most celebrated phrases of Indian civilization — 'vasudhaiva kuṭumbakam' — the whole world is one family. It draws a sharp contrast between the small-minded who divide humanity into 'us' and 'them,' and the noble-hearted who see all beings as kin. This is not naive universalism but a moral aspiration rooted in the recognition of shared humanity. The verse underpins India's civilizational commitment to universal well-being and has resonated in global forums as a call for international solidarity."
+  }
+}

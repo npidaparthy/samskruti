@@ -1,0 +1,37 @@
+{
+  "id": "seva-008",
+  "tags": ["seva", "saha-nau-bhunaktu", "taittiriya", "shanti", "together"],
+
+  "shlokam": {
+    "te": "సహ నౌ భునక్తు సహ నౌ విరక్తు సహ వీర్యం కరవావహై ।\nతేజస్వినావధీతమస్తు మా విద్విషావహై ॥",
+    "sa": "सह नौ भुनक्तु सह नौ विरक्तु सह वीर्यं करवावहै ।\nतेजस्विनावधीतमस्तु मा विद्विषावहै ॥",
+    "iast": "saha nau bhunaktu saha nau viraktu saha vīryaṃ karavāvahai |\ntejasvinā vadhītamastu mā vidviṣāvahai ||"
+  },
+
+  "chandaH": "వేద శాంతి పాఠం (Vedic śānti pāṭha) — prose rhythm",
+
+  "granthaH": {
+    "name_te": "తైత్తిరీయోపనిషత్ శాంతిపాఠం",
+    "name_en": "Taittirīya Upaniṣad Śānti pāṭha"
+  },
+
+  "padavibhagam": {
+    "te": "సహ | నౌ | భునక్తు | సహ | నౌ | విరక్తు | సహ | వీర్యం | కరవావహై | తేజస్వినౌ | అధీతం | అస్తు | మా | విద్విషావహై",
+    "en": "saha | nau | bhunaktu | saha | nau | viraktu | saha | vīryam | karavāvahai | tejasvinau | adhītam | astu | mā | vidviṣāvahai"
+  },
+
+  "anvayam": {
+    "te": "నౌ సహ భునక్తు (మనమిద్దరినీ కలిసి పోషించుగాక); నౌ సహ విరక్తు (కలిసి రక్షించుగాక); సహ వీర్యం కరవావహై (కలిసి పరాక్రమం చూపుదాం); తేజస్వినౌ అధీతం అస్తు (మన అధ్యయనం తేజోవంతమవుగాక); మా విద్విషావహై (మనమిద్దరూ ద్వేషించుకోకుండుగాక).",
+    "en": "nau saha bhunaktu (may He nourish us both together); nau saha viraktu (may He protect us both together); saha vīryam karavāvahai (may we both together exert our strength in learning); tejasvinau adhītam astu (may our study be brilliant/radiant); mā vidviṣāvahai (may we never hate each other)."
+  },
+
+  "meaning": {
+    "te": "మనమిద్దరినీ కలిసి పోషించుగాక; కలిసి రక్షించుగాక; కలిసి పరాక్రమం చూపుదాం; మన అధ్యయనం తేజోవంతమవుగాక; మనమిద్దరూ ద్వేషించుకోకుండుగాక.",
+    "en": "May He nourish us both together; protect us both together; may we exert our strength together; may our learning be radiant; may we never hate each other."
+  },
+
+  "tatparyam": {
+    "te": "తైత్తిరీయోపనిషత్ శాంతిపాఠం గురు-శిష్య బంధానికి ఒక అద్భుతమైన ప్రార్థన. 'నౌ' అంటే మనమిద్దరు — గురువు మరియు శిష్యుడు. ఈ ప్రార్థన ఒంటరి వ్యక్తి ప్రార్థన కాదు, జంటగా, కలిసి జరిపే ప్రార్థన. సహ భోజనం, సహ రక్షణ, సహ వీర్యం — ప్రతిది కలిసి. చివరి వాక్యం — 'మా విద్విషావహై' — మనమిద్దరు ద్వేషించుకోకుండా ఉందుగాక — ఇది ఒక అత్యున్నతమైన కోరిక. ఆధ్యాత్మిక సేవలో పారస్పరిక ప్రేమ, సహనం ముఖ్యం.",
+    "en": "This śānti pāṭha from the Taittirīya Upaniṣad is a shared prayer between teacher and student — 'nau' means 'us two.' In a tradition where the guru-śiṣya relationship is sacred, this prayer reflects that the spiritual journey is not solitary but relational. The prayer covers four dimensions of their shared life: nourishment, protection, effort in learning, and the radiance of their studies. The final petition — 'may we never hate each other' — is the most intimate: it acknowledges that even in the closeness of the guru-student bond, friction can arise, and prays for its prevention. It is the foundation of all true satsaṅga and seva."
+  }
+}

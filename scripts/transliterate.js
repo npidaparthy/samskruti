@@ -225,21 +225,67 @@ function findTxt(dir) {
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, e.name);
     if (e.isDirectory()) out.push(...findTxt(full));
-    else if (e.isFile() && e.name.endsWith('.txt')) out.push(full);
+    else if (e.isFile() && e.name.endsWith('.txt') && !e.name.includes('meaning')) out.push(full);
+  }
+  return out;
+}
+
+function findGenerated(dir) {
+  const out = [];
+  for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, e.name);
+    if (e.isDirectory()) out.push(...findGenerated(full));
+    else if (e.isFile() && (/_sa\.txt$/.test(e.name) || /_iast\.txt$/.test(e.name))) out.push(full);
   }
   return out;
 }
 
 // MAIN
-const args = process.argv.slice(2).filter(a => a !== '--force');
+const rawArgs = process.argv.slice(2);
+
+if (rawArgs.includes('--help') || rawArgs.includes('-h')) {
+  console.log(`
+transliterate.js — Telugu → Devanagari + IAST converter
+
+Usage:
+  node scripts/transliterate.js                  # transliterate all data/**/*.txt (skip existing)
+  node scripts/transliterate.js --force          # regenerate all, overwrite existing
+  node scripts/transliterate.js --clean          # delete all generated _sa.txt and _iast.txt
+  node scripts/transliterate.js --clean --force  # delete then regenerate fresh
+  node scripts/transliterate.js <file.txt>       # transliterate a single file
+
+Notes:
+  - Files matching *meaning* are skipped
+  - Generated files (_sa.txt, _iast.txt) are git-ignored
+  - CI stamps the cache version and runs this automatically on every push
+`);
+  process.exit(0);
+}
+
+const force   = rawArgs.includes('--force');
+const clean   = rawArgs.includes('--clean');
+const args    = rawArgs.filter(a => a !== '--force' && a !== '--clean');
+
+const dataDir = path.join(__dirname, '..', 'data');
+if (!fs.existsSync(dataDir)) { console.error('data/ not found'); process.exit(1); }
+
+if (clean) {
+  const generated = findGenerated(dataDir);
+  if (!generated.length) {
+    console.log('No generated files found.\n');
+  } else {
+    console.log(`Removing ${generated.length} generated file(s)...`);
+    for (const f of generated) { fs.unlinkSync(f); console.log(`  deleted ${path.relative(dataDir, f)}`); }
+    console.log('');
+  }
+}
+
 if (args.length) {
   for (const f of args) {
     if (fs.existsSync(f)) { console.log(`Processing: ${f}`); processFile(f); }
     else console.error(`Not found: ${f}`);
   }
-} else {
-  const dataDir = path.join(__dirname, '..', 'data');
-  if (!fs.existsSync(dataDir)) { console.error('data/ not found'); process.exit(1); }
+} else if (!clean || rawArgs.includes('--force')) {
   const files = findTxt(dataDir);
   console.log(`Found ${files.length} source .txt files\n`);
   for (const f of files) processFile(f);

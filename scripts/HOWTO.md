@@ -8,6 +8,7 @@ All scripts run from the **repo root** (`samskruti/`), not from inside `scripts/
 
 | Script | What it does |
 |--------|-------------|
+| `sub-info.py` | Inspect, validate and search subhashitam data |
 | `gen-stotram-images.py` | Generate 8 SVG card images per stotram (96 total) |
 | `gen-favicons.py` | Generate 36 favicon design variants for review |
 | `check-images.py` | Verify Telugu / Devanagari / Latin titles are embedded in every image |
@@ -114,6 +115,45 @@ python3 scripts/gen-stotram-images.py && python3 scripts/check-images.py 01 08
 ```
 
 ---
+
+---
+
+## sub-info.py
+
+Inspect, validate, and search subhashitam data from the command line. Run from the repo root.
+
+```bash
+# Category summary and counts
+python3 scripts/sub-info.py
+
+# Validate all 100 entries (checks fields, scripts, bilingual completeness)
+python3 scripts/sub-info.py --validate
+
+# List all entries: id, slug, source
+python3 scripts/sub-info.py --list
+
+# Show full detail for one entry (by id or slug)
+python3 scripts/sub-info.py --show karma-001
+python3 scripts/sub-info.py --show karmanyevadhikaraste
+
+# All tags and their counts
+python3 scripts/sub-info.py --tags
+
+# Filter entries by tag
+python3 scripts/sub-info.py --tag gita
+python3 scripts/sub-info.py --tag shankara
+
+# Find entries where a field is empty (useful before shipping Sanskrit UI)
+python3 scripts/sub-info.py --missing shlokam.sa
+python3 scripts/sub-info.py --missing tatparyam.te
+
+# All sources sorted alphabetically with entry counts
+python3 scripts/sub-info.py --sources
+
+# Look up full detail by slug
+python3 scripts/sub-info.py --slug satyameva-jayate
+python3 scripts/sub-info.py --slug karmanyevadhikaraste
+```
 
 ---
 

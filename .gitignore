@@ -1,2 +1,6 @@
 # Node
 node_modules/
+
+# Generated transliteration files (built by CI; run transliterate.js locally for testing)
+data/**/*_sa.txt
+data/**/*_iast.txt

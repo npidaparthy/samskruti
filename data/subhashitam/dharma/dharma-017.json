@@ -1,0 +1,37 @@
+{
+  "id": "dharma-017",
+  "tags": ["dharma", "tamaso-ma", "jyotir-gamaya", "brihadaranyaka", "upanishad"],
+
+  "shlokam": {
+    "te": "అసతో మా సద్గమయ । తమసో మా జ్యోతిర్గమయ । మృత్యోర్మా అమృతం గమయ ॥",
+    "sa": "असतो मा सद्गमय । तमसो मा ज्योतिर्गमय । मृत्योर्मा अमृतं गमय ॥",
+    "iast": "asato mā sadgamaya | tamaso mā jyotirgamaya | mṛtyormā amṛtaṃ gamaya ||"
+  },
+
+  "chandaH": "వేద ప్రార్థన (Vedic prārthanā) — prose rhythm",
+
+  "granthaH": {
+    "name_te": "బృహదారణ్యకోపనిషత్ 1.3.28",
+    "name_en": "Bṛhadāraṇyaka Upaniṣad 1.3.28"
+  },
+
+  "padavibhagam": {
+    "te": "అసతః | మా | సత్ | గమయ | తమసః | మా | జ్యోతిః | గమయ | మృత్యోః | మా | అమృతం | గమయ",
+    "en": "asataḥ | mā | sat | gamaya | tamasaḥ | mā | jyotiḥ | gamaya | mṛtyoḥ | mā | amṛtam | gamaya"
+  },
+
+  "anvayam": {
+    "te": "అసతః సత్ మా గమయ (అసత్తు నుండి సత్తు వైపు నన్ను తీసుకెళ్ళు); తమసః జ్యోతిః మా గమయ (అంధకారం నుండి వెలుతురు వైపు తీసుకెళ్ళు); మృత్యోః అమృతం మా గమయ (మృత్యువు నుండి అమృతత్వం వైపు తీసుకెళ్ళు).",
+    "en": "asataḥ sat mā gamaya (from the unreal lead me to the real); tamasaḥ jyotiḥ mā gamaya (from darkness lead me to light); mṛtyoḥ amṛtam mā gamaya (from death lead me to immortality)."
+  },
+
+  "meaning": {
+    "te": "అసత్తు నుండి సత్తు వైపు నన్ను తీసుకెళ్ళు; అంధకారం నుండి వెలుతురు వైపు నన్ను తీసుకెళ్ళు; మృత్యువు నుండి అమృతత్వం వైపు నన్ను తీసుకెళ్ళు.",
+    "en": "Lead me from the unreal to the real; from darkness to light; from death to immortality."
+  },
+
+  "tatparyam": {
+    "te": "బృహదారణ్యకోపనిషత్తులో ఈ ప్రార్థన మూడు స్థాయిలలో ముక్తిని కోరుతుంది. అసత్తు అంటే అజ్ఞానం, మాయ, అనిత్యమైనవి; సత్తు అంటే బ్రహ్మ, నిత్యసత్య. తమస్సు అంటే అవిద్య, అంధకారం; జ్యోతి అంటే జ్ఞానం. మృత్యువు అంటే దేహ బంధనం; అమృతం అంటే ముక్తి. ఈ మూడు పాదాలు ఒకే పరిణామాన్ని వేరువేరు కోణాల నుండి చెప్తున్నాయి — ఒకే లక్ష్యం: పరమాత్మ సాక్షాత్కారం. ఇది నేటికీ ఉపనిషత్ పఠనంలో ముఖ్యమైన శాంతి పాఠం.",
+    "en": "This prayer from the Bṛhadāraṇyaka Upaniṣad articulates the spiritual aspiration of the seeker in three movements. 'Asat' (unreal) refers to the transient, the illusory, the egoic; 'sat' is the eternal, the truly real, Brahman. 'Tamas' (darkness) is ignorance and spiritual blindness; 'jyotiḥ' is the light of knowledge. 'Mṛtyu' (death) is bondage to the cycle of birth and death; 'amṛtam' is immortality — liberation. All three pairs are different expressions of the same aspiration: the movement from the lower to the higher, from the finite to the infinite. This prayer is recited daily in Vedic traditions as the quintessential invocation."
+  }
+}

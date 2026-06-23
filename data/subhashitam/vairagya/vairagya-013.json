@@ -1,0 +1,37 @@
+{
+  "id": "vairagya-013",
+  "tags": ["vairagya", "kastvam-koham", "bhaja-govindam", "shankaracharya", "inquiry"],
+
+  "shlokam": {
+    "te": "కస్త్వం కోఽహం కుత ఆయాతః కా మే జననీ కో మే తాతః ।\nఇతి పరిభావయ సర్వమసారమ్ విశ్వం త్యక్త్వా స్వప్నవిచారమ్ ॥",
+    "sa": "कस्त्वं कोऽहं कुत आयातः का मे जननी को मे तातः ।\nइति परिभावय सर्वमसारम् विश्वं त्यक्त्वा स्वप्नविचारम् ॥",
+    "iast": "kastvam ko'haṃ kuta āyātaḥ kā me jananī ko me tātaḥ |\niti paribhāvaya sarvamasāram viśvaṃ tyaktvā svapnavicāram ||"
+  },
+
+  "chandaH": "భజగోవిందం మాత్రావృత్తం (Bhaja Govindam — mātrāvṛtta)",
+
+  "granthaH": {
+    "name_te": "శ్రీ శంకరాచార్య రచిత భజగోవిందం వ.24",
+    "name_en": "Ādi Śaṅkarācārya, Bhaja Govindam, verse 24"
+  },
+
+  "padavibhagam": {
+    "te": "కః | త్వం | కః | అహం | కుతః | ఆయాతః | కా | మే | జననీ | కః | మే | తాతః | ఇతి | పరిభావయ | సర్వం | అసారం | విశ్వం | త్యక్త్వా | స్వప్న-విచారం",
+    "en": "kaḥ | tvam | kaḥ | aham | kutaḥ | āyātaḥ | kā | me | jananī | kaḥ | me | tātaḥ | iti | paribhāvaya | sarvam | asāram | viśvam | tyaktvā | svapna-vicāram"
+  },
+
+  "anvayam": {
+    "te": "కః త్వం (నువ్వు ఎవరు?); కః అహం (నేను ఎవడను?); కుతః ఆయాతః (ఎక్కడి నుండి వచ్చాను?); కా మే జననీ (నా తల్లి ఎవరు?); కః మే తాతః (నా తండ్రి ఎవరు?). ఇతి పరిభావయ (ఇలా ఆలోచించు); సర్వం విశ్వం అసారం (ఈ సమస్త విశ్వం సారహీనమని); స్వప్నవిచారం త్యక్త్వా (కలలాంటి విచారాలను వదిలి).",
+    "en": "kaḥ tvam (who are you?); kaḥ aham (who am I?); kutaḥ āyātaḥ (from where have I come?); kā me jananī (who is my mother?); kaḥ me tātaḥ (who is my father?). iti paribhāvaya (reflect on this); sarvam viśvam asāram (all this universe is without essence); svapna-vicāram tyaktvā (giving up dream-like thoughts)."
+  },
+
+  "meaning": {
+    "te": "నువ్వు ఎవరు? నేను ఎవడను? ఎక్కడి నుండి వచ్చాను? నా తల్లి ఎవరు? నా తండ్రి ఎవరు? ఇలా ఆలోచించు — ఈ సమస్త విశ్వం సారహీనం; స్వప్న వంటి విచారాలను వదిలిపెట్టు.",
+    "en": "Who are you? Who am I? From where have I come? Who is my mother? Who is my father? Reflect on all this — the entire world is without essence; give up these dream-like deliberations."
+  },
+
+  "tatparyam": {
+    "te": "శంకరాచార్యులు ఈ శ్లోకంలో ఆత్మ విచారణ అన్న అద్వైత సాధనా మార్గాన్ని సూచిస్తున్నారు. 'కస్త్వం కోఽహం' — ఈ ప్రశ్నలు సాంఘిక గుర్తింపులను పదే పదే ప్రశ్నిస్తున్నాయి. 'నేను ఫలాన వ్యక్తిని, ఫలాన కులంవాడిని, ఫలాన తల్లిదండ్రుల బిడ్డను' — ఇవన్నీ ఉపాధులు. నిజమైన 'నేను' ఏమిటి? ఈ విచారణ ద్వారా స్వప్నం వంటి సంసారిక భావాలను త్యజించి ఆత్మజ్ఞానం పొందడమే ముక్తి. భజగోవిందంలో ఇది ఆత్మ విచారానికి ప్రారంభం.",
+    "en": "This verse from Bhaja Govindam (v.24) is an invitation to the Advaitic practice of ātma-vicāra — self-inquiry. The rapid-fire questions — who are you? who am I? from where? — are not meant to be answered from biographical information but to destabilize our habitual identification with social and bodily roles. My mother, my father, my name — these are 'upādhis' (limiting adjuncts) superimposed on the real Self. When these are questioned deeply, the dream-nature of ordinary worldly identification becomes apparent. 'Svapna-vicāra' — dream-like deliberation — is a brilliant characterization of samsaric thinking as a state of waking sleep from which inquiry awakens us."
+  }
+}
