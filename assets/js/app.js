@@ -262,6 +262,8 @@ window.StotramApp = {
 
   bindNav() {
     document.addEventListener('click', e => {
+      const href = e.target.closest('[data-href]');
+      if (href) { window.location.href = href.dataset.href; return; }
       const el = e.target.closest('[data-nav]');
       if (!el) return;
       e.preventDefault();
@@ -382,8 +384,13 @@ window.StotramApp = {
     // onerror hides the <img> and shows the ॐ fallback.
     const imgSrc = s.image || (Array.isArray(s.images) && s.images[0]) || `assets/images/${s.slug}-01.svg`;
 
+    const isHtml = s.type === 'html';
+    const navAttr = isHtml
+      ? `data-href="${s.href}"`
+      : `data-nav="reader" data-slug="${s.slug}"`;
+
     return `
-      <div class="stotram-card" data-nav="reader" data-slug="${s.slug}"
+      <div class="stotram-card" ${navAttr}
            tabindex="0" role="button" aria-label="Open ${title}"
            onkeydown="if(event.key==='Enter')this.click()">
         <div class="card-image">

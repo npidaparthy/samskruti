@@ -20,6 +20,7 @@ window.StotramSearch = {
       id: s.slug,
       type: 'stotram',
       slug: s.slug,
+      href: s.href || null,
       stotram: (s.title_te || '') + ' ' + (s.title_sa || ''),
       stotram_en: s.title_en || '',
       tags: (s.tags || []).join(' '),
@@ -155,9 +156,10 @@ window.StotramSearch = {
       input.value = '';
       clear?.classList.add('hidden');
       if (item.dataset.subId) {
-        // Subhashitam result — navigate to subhashitam page and open verse
         window.StotramApp?.navigate('subhashitam');
         window.StotramApp?.openSubhashitam(item.dataset.subId, item.dataset.subFile);
+      } else if (item.dataset.href) {
+        window.location.href = item.dataset.href;
       } else if (item.dataset.slug) {
         window.StotramApp?.navigate('reader', item.dataset.slug);
       }
@@ -240,6 +242,10 @@ window.StotramSearch = {
         meta = `${item.stotram_en || item.slug} › ${item.section} › ${window.i18n?.t('shloka_label') || 'Shloka'} ${item.shloka_index}`;
         body = (item.shloka_text || '').slice(0, 140);
         dataAttr = `data-slug="${item.slug}"`;
+      } else if (item.href) {
+        meta = item.stotram_en || item.stotram;
+        body = (item.description || '').slice(0, 140);
+        dataAttr = `data-href="${item.href}"`;
       } else {
         meta = item.stotram_en || item.stotram;
         body = (item.description || '').slice(0, 140);

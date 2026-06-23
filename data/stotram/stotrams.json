@@ -490,6 +490,66 @@
       "images": [
         "assets/images/narayaneeyam-01.svg"
       ]
+    },
+    {
+      "slug": "yoga-sutras-samadhi-pada",
+      "title_te": "పతంజలి యోగసూత్రాలు — సమాధిపాదః",
+      "title_sa": "पतञ्जलि योगसूत्राणि — समाधिपादः",
+      "title_en": "Patanjali Yoga Sutras — Samādhipādaḥ",
+      "tags": [
+        "yoga",
+        "philosophy",
+        "patanjali"
+      ],
+      "featured": false,
+      "theme": "indigo",
+      "type": "html",
+      "href": "data/stotram/yoga-sutras/samadhi-pada.html"
+    },
+    {
+      "slug": "yoga-sutras-sadhana-pada",
+      "title_te": "పతంజలి యోగసూత్రాలు — సాధనపాదః",
+      "title_sa": "पतञ्जलि योगसूत्राणि — साधनपादः",
+      "title_en": "Patanjali Yoga Sutras — Sādhanapādaḥ",
+      "tags": [
+        "yoga",
+        "philosophy",
+        "patanjali"
+      ],
+      "featured": false,
+      "theme": "indigo",
+      "type": "html",
+      "href": "data/stotram/yoga-sutras/sadhana-pada.html"
+    },
+    {
+      "slug": "yoga-sutras-vibhuti-pada",
+      "title_te": "పతంజలి యోగసూత్రాలు — విభూతిపాదః",
+      "title_sa": "पतञ्जलि योगसूत्राणि — विभूतिपादः",
+      "title_en": "Patanjali Yoga Sutras — Vibhūtipādaḥ",
+      "tags": [
+        "yoga",
+        "philosophy",
+        "patanjali"
+      ],
+      "featured": false,
+      "theme": "indigo",
+      "type": "html",
+      "href": "data/stotram/yoga-sutras/vibhuti-pada.html"
+    },
+    {
+      "slug": "yoga-sutras-kaivalya-pada",
+      "title_te": "పతంజలి యోగసూత్రాలు — కైవల్యపాదః",
+      "title_sa": "पतञ्जलि योगसूत्राणि — कैवल्यपादः",
+      "title_en": "Patanjali Yoga Sutras — Kaivalyapādaḥ",
+      "tags": [
+        "yoga",
+        "philosophy",
+        "patanjali"
+      ],
+      "featured": false,
+      "theme": "indigo",
+      "type": "html",
+      "href": "data/stotram/yoga-sutras/kaivalya-pada.html"
     }
   ]
 }
