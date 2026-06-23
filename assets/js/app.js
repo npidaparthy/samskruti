@@ -714,7 +714,8 @@ window.StotramApp = {
       const catSet = new Set(catTags);
       const topicTags = [...new Set(list.flatMap(e => (e.tags || []).slice(1)))].filter(t => !catSet.has(t)).sort();
 
-      const filtered = activeTag === 'all' ? list : list.filter(e => (e.tags||[]).includes(activeTag));
+      const filtered = (activeTag === 'all' ? list : list.filter(e => (e.tags||[]).includes(activeTag)))
+        .slice().sort(() => Math.random() - 0.5);
 
       const catChips = catTags.map(tag =>
         `<button class="sub-tag-chip${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">${this._esc(tag)}</button>`

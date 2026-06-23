@@ -115,6 +115,75 @@ python3 scripts/gen-stotram-images.py && python3 scripts/check-images.py 01 08
 
 ---
 
+---
+
+## Adding a subhāṣitam
+
+Subhāṣitams live in `data/subhashitam/` and are indexed by `data/subhashitam/_index.json`.
+
+### File layout
+
+```
+data/subhashitam/
+├── _index.json              # master list (id, file, slug, category, tags, preview)
+├── niti/
+│   ├── niti-001.json
+│   └── ...
+├── dharma/
+├── karma/
+├── seva/
+├── vairagya/
+└── bhakti/
+```
+
+### Steps to add a new verse
+
+1. Pick a category directory (or create one for a new category)
+2. Number the file sequentially: `niti-016.json`, `bhakti-006.json`, etc.
+3. Copy an existing JSON as template — required fields:
+
+```json
+{
+  "id": "niti-016",
+  "tags": ["niti", "udyama"],
+  "shlokam": {
+    "te": "...",
+    "sa": "...",
+    "iast": "..."
+  },
+  "chandaH": "...",
+  "granthaH": { "name_te": "...", "name_en": "..." },
+  "padavibhagam": { "te": "...", "en": "..." },
+  "anvayam": { "te": "...", "en": "..." },
+  "meaning": { "te": "...", "en": "..." },
+  "tatparyam": { "te": "...", "en": "..." }
+}
+```
+
+4. Add an entry to `_index.json`:
+
+```json
+{
+  "id": "niti-016",
+  "file": "niti/niti-016.json",
+  "slug": "udyamena-hi-sidhyanti",
+  "category": "niti",
+  "tags": ["udyama", "purusha"],
+  "preview": { "te": "...", "sa": "...", "en": "..." }
+}
+```
+
+### Slug naming convention
+
+- Use the opening words of the verse, transliterated
+- **Do not split Sanskrit compound words (sandhi forms) with hyphens** — keep them as one unit
+  - ✅ `karmanyevadhikaraste`
+  - ❌ `karmany-eva-adhikaras-te`
+- Hyphens are only for clearly separate words
+- Once published, a slug must never change (it is the permanent URL)
+
+---
+
 ## Typical workflow
 
 ```bash

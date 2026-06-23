@@ -1,6 +1,6 @@
 # సమస్కృతి · Samskruti
 
-A progressive web app for Sanskrit devotional texts (stotrams), served in Telugu script, Devanagari, and IAST transliteration.
+A progressive web app for Sanskrit devotional texts — stotrams and subhāṣitams — served in Telugu script, Devanagari, and IAST transliteration.
 
 🌐 **Live site:** [samskruti.info](https://samskruti.info)
 
@@ -9,6 +9,7 @@ A progressive web app for Sanskrit devotional texts (stotrams), served in Telugu
 ## Features
 
 - 12 stotrams with full shloka text
+- 50 subhāṣitams across 6 categories (niti, dharma, karma, seva, vairagya, bhakti)
 - Three scripts: Telugu · Devanagari · IAST
 - Bilingual UI: Telugu / English
 - Bookmarks, audio sync, search
@@ -70,6 +71,43 @@ samskruti/
 | `samskruti.info/` | Home (featured stotrams) |
 | `samskruti.info/#stotrams` | Full stotram list |
 | `samskruti.info/#reader/<slug>` | Reader for a specific stotram |
+| `samskruti.info/#subhashitam` | Subhāṣitam browse page |
+| `samskruti.info/#subhashitam/<slug>` | Deep link to a specific subhāṣitam verse |
+
+Subhāṣitam slugs are human-readable Sanskrit compound words (e.g. `karmanyevadhikaraste`, `satyamevajayate`). They are stable — once published a slug never changes.
+
+## Feature flags & beta testing
+
+New features are gated in `assets/js/app.js` with two mechanisms:
+
+### 1. Feature flag (instant on/off)
+```js
+const ENABLE_SUBHASHITAM     = true;   // set false to hide from everyone
+const ENABLE_STOTRAM_MEANING = true;
+```
+
+### 2. Beta token (selective early access)
+When a flag is `false`, you can still grant access to specific testers via a shared URL:
+
+```
+https://samskruti.info/?beta=<token>
+```
+
+How it works:
+1. Visitor opens the beta URL → token is saved to their `localStorage`
+2. `?beta=...` is stripped from the URL (clean address bar)
+3. From that point, their browser shows the feature on every visit
+4. To revoke all tester access: change the token string in the code and redeploy
+
+To set up beta access for a new feature:
+1. Add a constant: `const MY_FEATURE_BETA_TOKEN = 'my-token-text';`
+2. Set the feature flag to `false`
+3. Share `https://samskruti.info/?beta=my-token-text` with testers
+4. When ready to ship: set flag to `true` — the token check becomes irrelevant
+
+The token string can be any text — it is not cryptographic. Keep it low-profile (don't publish it publicly) but it is not a secret in a security sense.
+
+---
 
 ## Adding a stotram
 
