@@ -68,6 +68,21 @@ window.StotramApp = {
        Static data-i18n-bilingual elements are handled by i18n.apply().
        Dynamic JS-built content (cards, section tabs, reader labels) needs
        explicit re-render here. */
+    const _subjectLabels = {
+      feedback:   { te: 'అభిప్రాయం',    en: 'Feedback' },
+      correction: { te: 'దోషం',          en: 'Error Correction' },
+      suggestion: { te: 'సూచన',          en: 'Suggestion' },
+      other:      { te: 'ఇతర',           en: 'Other' },
+    };
+    const _updateSubjectOptions = () => {
+      const lang = window.i18n?.lang || 'en';
+      document.querySelectorAll('#cf-subject option').forEach(opt => {
+        opt.textContent = _subjectLabels[opt.value]?.[lang] || opt.value;
+      });
+    };
+    _updateSubjectOptions();
+    document.addEventListener('uilangchange', _updateSubjectOptions);
+
     document.addEventListener('uilangchange', () => {
       const activePage = document.querySelector('.page.active')?.id;
       if (activePage === 'page-home')     this.renderHome();

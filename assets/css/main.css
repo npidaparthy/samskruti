@@ -1023,28 +1023,28 @@ input[type="color"] {
 .prose-page {
   max-width: 760px;
   margin: 0 auto;
-  padding: 2rem 0;
+  padding: 1.25rem 0;
 }
 .prose-page h2 {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   color: var(--c-primary);
-  margin-bottom: 1rem;
+  margin-bottom: 0.25rem;
   font-family: var(--font-te);
 }
-.prose-page h3 { font-size: 1.1rem; color: var(--c-primary); margin: 1.5rem 0 0.5rem; }
-.prose-page p { line-height: 1.85; margin-bottom: 1rem; color: var(--c-text); }
+.prose-page h3 { font-size: 1.1rem; color: var(--c-primary); margin: 1.25rem 0 0.4rem; }
+.prose-page p { line-height: 1.7; margin-bottom: 0.5rem; color: var(--c-text); }
 .prose-page ul { padding-left: 1.5rem; line-height: 2; }
 
 .page-header {
-  padding: 1rem 0;
+  padding: 0.75rem 0;
   border-bottom: 2px solid var(--c-border);
-  margin-bottom: 1.25rem;
+  margin-bottom: 1rem;
 }
-.page-header h2 { font-size: 1.4rem; color: var(--c-primary); margin-bottom: 0.75rem; }
+.page-header h2 { font-size: 1.4rem; color: var(--c-primary); margin-bottom: 0.5rem; }
 
 /* Contact Form */
-.contact-form { display: flex; flex-direction: column; gap: 1.1rem; margin-top: 1.5rem; }
-.form-group { display: flex; flex-direction: column; gap: 0.35rem; }
+.contact-form { display: flex; flex-direction: column; gap: 0.65rem; margin-top: 0.75rem; }
+.form-group { display: flex; flex-direction: column; gap: 0.2rem; }
 .form-group label {
   font-size: 0.85rem;
   font-weight: 600;
@@ -1054,7 +1054,7 @@ input[type="color"] {
 .form-group input,
 .form-group select,
 .form-group textarea {
-  padding: 0.6rem 0.85rem;
+  padding: 0.5rem 0.75rem;
   border: 1.5px solid var(--c-border);
   border-radius: var(--radius);
   font-size: 0.95rem;
@@ -1069,7 +1069,7 @@ input[type="color"] {
   outline: none;
   border-color: var(--c-primary);
 }
-.form-group textarea { resize: vertical; min-height: 120px; }
+.form-group textarea { resize: vertical; min-height: 90px; }
 
 /* Credits */
 .credits-grid {
