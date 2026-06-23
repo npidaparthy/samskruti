@@ -1,17 +1,4 @@
-// ── Config ───────────────────────────────────────────────────────────────────
-const SECTION_TAB_THRESHOLD = 6;   // ≤ this → pill tabs; > this → dropdown
-const DATA_STOTRAMS_INDEX   = 'data/stotrams.json';
-const DATA_SUBHASHITAM_INDEX = 'data/subhashitam/_index.json';
-
-// Feature flags — set to true to enable for all users, false to hide.
-// Even when false, users with the beta token in localStorage can still access.
-const ENABLE_SUBHASHITAM  = true;  // Subhashitam browse + reader
-const ENABLE_STOTRAM_MEANING = true; // Click-to-expand meaning per shloka
-
-// Beta access token — share this URL param to grant tester access:
-//   https://samskruti.info/?beta=sub-beta-1
-// Change the token string to revoke all existing tester access.
-const SUBHASHITAM_BETA_TOKEN = 'sub-beta-1';
+// (constants live in assets/js/constants.js)
 
 // ─────────────────────────────────────────────────────────────────────────────
 

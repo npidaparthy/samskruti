@@ -31,7 +31,7 @@ window.StotramSearch = {
 
     // Try pre-built index from GitHub Actions
     try {
-      const resp = await fetch('data/search-index.json');
+      const resp = await fetch(DATA_SEARCH_INDEX);
       if (resp.ok) {
         const extra = await resp.json();
         if (Array.isArray(extra) && extra.length) {
