@@ -311,25 +311,51 @@ window.StotramApp = {
   // ── Stotrams list ─────────────────────────────────────────────────────────
 
   renderStotramsList() {
-    const allTags = new Set(['all']);
+    const allTags = new Set();
     this.stotramsIndex.forEach(s => (s.tags || []).forEach(t => allTags.add(t)));
+    const tagList = [...allTags].sort();
 
     const chips = document.getElementById('tagChips');
     if (chips) {
-      chips.innerHTML = [...allTags].map(tag =>
-        `<button class="tag-chip${tag === 'all' ? ' active' : ''}" data-tag="${tag}">
-          ${tag === 'all' ? (window.i18n?.t('tag_all') || 'All') : tag}
-        </button>`
-      ).join('');
-      chips.addEventListener('click', e => {
-        const chip = e.target.closest('.tag-chip');
+      const activeTag = chips.dataset.activeTag || 'all';
+      const dropdownLabel = activeTag !== 'all' ? `${activeTag} ▴` : `Tags ▾`;
+      chips.innerHTML = `
+        <button class="tag-chip${activeTag === 'all' ? ' active' : ''}" data-tag="all">
+          ${window.i18n?.t('tag_all') || 'All'}
+        </button>
+        <div class="sub-topics-wrap">
+          <button class="sub-topics-btn${activeTag !== 'all' ? ' active' : ''}" id="stotramTagBtn">${this._esc(dropdownLabel)}</button>
+          <div class="sub-topics-dropdown hidden" id="stotramTagDropdown">
+            ${tagList.map(tag =>
+              `<button class="sub-tag-chip${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">${this._esc(tag)}</button>`
+            ).join('')}
+          </div>
+        </div>`;
+
+      // All chip
+      chips.querySelector('[data-tag="all"]').addEventListener('click', () => {
+        chips.dataset.activeTag = 'all';
+        this.renderStotramsList();
+        this._filterStotrams('all');
+      });
+
+      // Dropdown toggle
+      const btn = chips.querySelector('#stotramTagBtn');
+      const dropdown = chips.querySelector('#stotramTagDropdown');
+      btn.addEventListener('click', e => { e.stopPropagation(); dropdown.classList.toggle('hidden'); });
+      document.addEventListener('click', () => dropdown.classList.add('hidden'), { once: true });
+
+      // Tag selection
+      dropdown.addEventListener('click', e => {
+        const chip = e.target.closest('[data-tag]');
         if (!chip) return;
-        chips.querySelectorAll('.tag-chip').forEach(c => c.classList.remove('active'));
-        chip.classList.add('active');
+        chips.dataset.activeTag = chip.dataset.tag;
+        dropdown.classList.add('hidden');
+        this.renderStotramsList();
         this._filterStotrams(chip.dataset.tag);
       });
     }
-    this._filterStotrams('all');
+    this._filterStotrams(chips?.dataset.activeTag || 'all');
   },
 
   _filterStotrams(tag) {
