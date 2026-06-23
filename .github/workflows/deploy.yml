@@ -53,6 +53,11 @@ jobs:
           echo "=== Generated images ==="
           find assets/images -name "*.svg" | sort
 
+      - name: Allow generated transliteration files through .gitignore for deploy
+        run: |
+          sed -i '/\*_sa\.txt/d' .gitignore
+          sed -i '/\*_iast\.txt/d' .gitignore
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

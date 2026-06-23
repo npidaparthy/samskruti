@@ -496,8 +496,8 @@ window.StotramApp = {
     } catch (e) {
       console.error('renderSection error:', e);
       container.innerHTML = `
-        <div style="padding:2rem;color:var(--c-text-muted);text-align:center">
-          <p>⚠️ ${window.i18n?.t('err_file_load')} <code>${lipiFile}</code></p>
+        <div style="padding:2rem;color:var(--c-text-muted);text-align:center;word-break:break-word">
+          <p>⚠️ ${window.i18n?.t('err_file_load')} <code style="word-break:break-all">${lipiFile}</code></p>
           <p style="font-size:.85rem;margin-top:.5rem">
             ${window.i18n?.t('err_file_missing')}
           </p>
