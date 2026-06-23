@@ -114,6 +114,13 @@ window.StotramApp = {
         this._updateSectionTabs();           // update tab labels for new script
         this.renderSection(this.currentSlug, this.currentSection);  // reload shloka text
       }
+      const activePage = document.querySelector('.page:not(.hidden)')?.id;
+      if (activePage === 'page-subhashitam') {
+        const detail = document.getElementById('subhashitamDetail');
+        if (detail && !detail.classList.contains('hidden') && this._currentSubFile) {
+          this.openSubhashitam(this._currentSubId, this._currentSubFile);
+        }
+      }
     });
 
     this._initHelpBanner();
