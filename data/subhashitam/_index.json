@@ -1,6 +1,7 @@
 [
   {
     "id": "niti-001",
+    "slug": "vidya-dadati-vinayam",
     "file": "niti/niti-001.json",
     "tags": ["niti", "vidya", "vinaya"],
     "firstline_te": "విద్యా దదాతి వినయం",
@@ -9,6 +10,7 @@
   },
   {
     "id": "niti-002",
+    "slug": "paropakaaraya-phalanti-vrksah",
     "file": "niti/niti-002.json",
     "tags": ["niti", "paropakara", "vriksha"],
     "firstline_te": "పరోపకారాయ ఫలన్తి వృక్షాః",
@@ -17,6 +19,7 @@
   },
   {
     "id": "niti-003",
+    "slug": "aalasyam-hi-manushyanaam",
     "file": "niti/niti-003.json",
     "tags": ["niti", "alasya", "purusha"],
     "firstline_te": "ఆలస్యం హి మనుష్యాణాం",
@@ -25,6 +28,7 @@
   },
   {
     "id": "niti-004",
+    "slug": "na-choraharyam",
     "file": "niti/niti-004.json",
     "tags": ["niti", "vidya", "dhana"],
     "firstline_te": "న చోరహార్యం న చ రాజహార్యం",
@@ -33,6 +37,7 @@
   },
   {
     "id": "niti-005",
+    "slug": "aapatkale-tu-samprapte",
     "file": "niti/niti-005.json",
     "tags": ["niti", "mitra", "aapatkala"],
     "firstline_te": "ఆపత్కాలే తు సంప్రాప్తే",
@@ -41,6 +46,7 @@
   },
   {
     "id": "niti-006",
+    "slug": "shaile-shaile-na-manikyam",
     "file": "niti/niti-006.json",
     "tags": ["niti", "manikya", "durlabha"],
     "firstline_te": "శైలే శైలే న మాణిక్యం",
@@ -49,6 +55,7 @@
   },
   {
     "id": "niti-007",
+    "slug": "kshama-balamashaktaanaam",
     "file": "niti/niti-007.json",
     "tags": ["niti", "kshama", "bala"],
     "firstline_te": "క్షమా బలమశక్తానాం",
@@ -57,6 +64,7 @@
   },
   {
     "id": "niti-008",
+    "slug": "satyam-bruyaat-priyam-bruyaat",
     "file": "niti/niti-008.json",
     "tags": ["niti", "satya", "priya"],
     "firstline_te": "సత్యం బ్రూయాత్ ప్రియం బ్రూయాత్",
@@ -65,6 +73,7 @@
   },
   {
     "id": "niti-009",
+    "slug": "ayam-nijah-paro-veti",
     "file": "niti/niti-009.json",
     "tags": ["niti", "vasudhaiva", "kutumbakam"],
     "firstline_te": "అయం నిజః పరో వేతి",
@@ -73,6 +82,7 @@
   },
   {
     "id": "niti-010",
+    "slug": "kavyashastravinodena",
     "file": "niti/niti-010.json",
     "tags": ["niti", "kavya", "kala"],
     "firstline_te": "కావ్యశాస్త్రవినోదేన",
@@ -81,6 +91,7 @@
   },
   {
     "id": "dharma-001",
+    "slug": "ashtadasha-puranesu",
     "file": "dharma/dharma-001.json",
     "tags": ["dharma", "paropakara", "vyasa"],
     "firstline_te": "అష్టాదశ పురాణేషు",
@@ -89,6 +100,7 @@
   },
   {
     "id": "dharma-002",
+    "slug": "yatra-naaryastu-puujyante",
     "file": "dharma/dharma-002.json",
     "tags": ["dharma", "nari", "stri"],
     "firstline_te": "యత్ర నార్యస్తు పూజ్యన్తే",
@@ -97,6 +109,7 @@
   },
   {
     "id": "dharma-003",
+    "slug": "prithivyaam-treeni-ratnaani",
     "file": "dharma/dharma-003.json",
     "tags": ["dharma", "ratna", "prithvi", "subhashitam"],
     "firstline_te": "పృథివ్యాం త్రీణి రత్నాని",
@@ -105,6 +118,7 @@
   },
   {
     "id": "dharma-004",
+    "slug": "janani-janmabhumishca",
     "file": "dharma/dharma-004.json",
     "tags": ["dharma", "janani", "janmabhoomi", "matru"],
     "firstline_te": "జననీ జన్మభూమిశ్చ",
@@ -113,6 +127,7 @@
   },
   {
     "id": "dharma-005",
+    "slug": "sarve-bhavantu-sukhinah",
     "file": "dharma/dharma-005.json",
     "tags": ["dharma", "shanti", "sarve", "mangala"],
     "firstline_te": "సర్వే భవన్తు సుఖినః",
@@ -121,6 +136,7 @@
   },
   {
     "id": "dharma-006",
+    "slug": "manasa-chintitam-kaaryam",
     "file": "dharma/dharma-006.json",
     "tags": ["dharma", "manas", "karya", "chanakya"],
     "firstline_te": "మనసా చిన్తితం కార్యం",
@@ -129,6 +145,7 @@
   },
   {
     "id": "dharma-007",
+    "slug": "uttishthata-jaagrata",
     "file": "dharma/dharma-007.json",
     "tags": ["dharma", "uttishtha", "jagrata", "upanishad"],
     "firstline_te": "ఉత్తిష్ఠత జాగ్రత",
@@ -137,6 +154,7 @@
   },
   {
     "id": "dharma-008",
+    "slug": "sahanaavavatu",
     "file": "dharma/dharma-008.json",
     "tags": ["dharma", "sahana", "guru", "shanti"],
     "firstline_te": "సహనావవతు సహ నౌ భునక్తు",
@@ -145,6 +163,7 @@
   },
   {
     "id": "karma-001",
+    "slug": "karmanyevadhikaraste",
     "file": "karma/karma-001.json",
     "tags": ["karma", "gita", "adhikara", "phala"],
     "firstline_te": "కర్మణ్యేవాధికారస్తే",
@@ -153,6 +172,7 @@
   },
   {
     "id": "karma-002",
+    "slug": "yadaa-yadaa-hi-dharmasya",
     "file": "karma/karma-002.json",
     "tags": ["karma", "gita", "dharma", "avatara"],
     "firstline_te": "యదా యదా హి ధర్మస్య",
@@ -161,6 +181,7 @@
   },
   {
     "id": "karma-003",
+    "slug": "na-hi-jnaanena-sadrisham",
     "file": "karma/karma-003.json",
     "tags": ["karma", "jnana", "gita", "pavitra"],
     "firstline_te": "న హి జ్ఞానేన సదృశం",
@@ -169,6 +190,7 @@
   },
   {
     "id": "karma-004",
+    "slug": "vinaashakaale-vipariitabuddhih",
     "file": "karma/karma-004.json",
     "tags": ["karma", "vinasha", "buddhi", "lokokti"],
     "firstline_te": "వినాశకాలే విపరీతబుద్ధిః",
@@ -177,6 +199,7 @@
   },
   {
     "id": "seva-001",
+    "slug": "parahitam-yasya-manasah",
     "file": "seva/seva-001.json",
     "tags": ["seva", "paropakara", "hari"],
     "firstline_te": "పరహితం యస్య మనసః ప్రవృత్తయః",
@@ -185,6 +208,7 @@
   },
   {
     "id": "seva-002",
+    "slug": "atithidevo-bhava",
     "file": "seva/seva-002.json",
     "tags": ["seva", "atithi", "matru", "guru"],
     "firstline_te": "అతిథిదేవో భవ",
@@ -193,6 +217,7 @@
   },
   {
     "id": "seva-003",
+    "slug": "lokasangrahamevapi",
     "file": "seva/seva-003.json",
     "tags": ["seva", "lokasangraha", "gita"],
     "firstline_te": "లోకసంగ్రహమేవాపి",

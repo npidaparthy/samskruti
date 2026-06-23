@@ -229,6 +229,13 @@ window.StotramApp = {
       return;
     }
 
+    const subMatch = hash.match(/^#subhashitam\/(.+)$/);
+    if (subMatch && _hasBetaAccess()) {
+      this._showPage('subhashitam');
+      this._openSubhashitamBySlug(subMatch[1]);
+      return;
+    }
+
     const readerMatch = hash.match(/^#reader\/(.+)$/);
     if (readerMatch) {
       this._showPage('reader');
@@ -691,6 +698,7 @@ window.StotramApp = {
     try {
       const res  = await fetch('data/subhashitam/_index.json');
       const list = await res.json();
+      this._subIndex = list;  // cache for slug lookup
 
       // Feed into search index once (guard: only if not already added)
       if (!this._subIndexed) {
@@ -746,6 +754,18 @@ window.StotramApp = {
     }
   },
 
+  async _openSubhashitamBySlug(slug) {
+    // If index not yet loaded, fetch it first
+    if (!this._subIndex) {
+      const res = await fetch('data/subhashitam/_index.json');
+      this._subIndex = await res.json();
+    }
+    const entry = this._subIndex.find(e => e.slug === slug);
+    if (!entry) return;
+    await this.renderSubhashitamList();
+    this.openSubhashitam(entry.id, entry.file);
+  },
+
   async openSubhashitam(id, file) {
     const detail = document.getElementById('subhashitamDetail');
     const list   = document.getElementById('subhashitamList');
@@ -754,6 +774,12 @@ window.StotramApp = {
 
     this._currentSubId   = id;
     this._currentSubFile = file;
+
+    // Update URL to the slug-based deep link
+    const entry = this._subIndex?.find(e => e.id === id);
+    if (entry?.slug) {
+      history.replaceState(null, '', `#subhashitam/${entry.slug}`);
+    }
 
     list.classList.add('hidden');
     detail.classList.remove('hidden');
