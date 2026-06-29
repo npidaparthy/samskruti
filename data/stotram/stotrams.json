@@ -560,6 +560,41 @@
       "description_te": "దేవీ భాగవత పురాణం (12వ స్కంధం) నుండి తీసుకోబడిన మణిద్వీప వర్ణనమ్ — లలితా మహాత్రిపురసుందరీ దేవి నివసించే రత్నమయ ద్వీపం యొక్క వర్ణన. చింతామణి గృహం, దివ్య శక్తులు మరియు శ్రీ చక్రం యొక్క విశ్వరూపాన్ని వివరిస్తుంది. లలితా సహస్రనామం తర్వాత పారాయణ చేయడం సాంప్రదాయం.",
       "featured": true,
       "theme": "rose"
+    },
+    {
+      "slug": "durga-saptashloki",
+      "title_te": "శ్రీదుర్గాసప్తశ్లోకీ",
+      "title_sa": "श्रीदुर्गासप्तश्लोकी",
+      "title_en": "śrīdurgāsaptashlōkī",
+      "description_en": "Seven verses condensing the spiritual essence of the Devī Māhātmyam (Durgā Saptaśatī). Covers Durgā's cosmic form, her victories over Madhu-Kaiṭabha, Mahiṣāsura, and Śumbha-Niśumbha, and closes with a benediction for protection and liberation. Recited as a daily prayer or as an opening invocation before the full Saptaśatī.",
+      "description_te": "దేవీ మాహాత్మ్యం (దుర్గా సప్తశతి) యొక్క సారాన్ని ఏడు శ్లోకాలలో సంగ్రహించిన స్తోత్రం. దుర్గాదేవి విశ్వరూపం, మధు-కైటభ, మహిషాసుర, శుంభ-నిశుంభ వధలు మరియు రక్షణ-మోక్ష ఆశీర్వాదాలు ఇందులో ఇమిడి ఉన్నాయి. నిత్యపారాయణకు లేదా సప్తశతి పారాయణకు ముందు పఠిస్తారు.",
+      "featured": true,
+      "tags": [
+        "durga",
+        "saptashloki",
+        "markandeya"
+      ],
+      "theme": "crimson"
+    },
+    {
+      "slug": "aditya-hrudayam",
+      "title_te": "ఆదిత్యహృదయమ్",
+      "title_sa": "आदित्यहृदयम्",
+      "title_en": "ādityahṛdayam",
+      "description_en": "A sacred hymn sung by sage Agastya to Lord Rama during the final battle with Ravana. It consists of 31 verses praising the Sun God as the source of life, energy, and victory. Regular recitation is believed to grant courage, remove fear, and ensure success over enemies.",
+      "description_te": "రామాయణంలో (యుద్ధకాండ, సర్గ 106) రావణుడితో జరిగిన తుది యుద్ధంలో అగస్త్య మహాముని శ్రీరామునికి వినిపించిన పవిత్ర స్తోత్రం. ఇందులో 31 శ్లోకాలు సూర్య భగవానుడిని జీవానికి, శక్తికి, విజయానికి మూలంగా స్తుతిస్తాయి. నిత్య పారాయణ వలన ధైర్యం, నిర్భీతి, శత్రువులపై విజయం కలుగుతాయని నమ్మకం.",
+      "featured": true,
+      "theme": "blue"
+    },
+    {
+      "slug": "sankshepa-ramayanam",
+      "title_te": "సంక్షేపరామాయణమ్",
+      "title_sa": "संक्षेपरामायणम्",
+      "title_en": "saṅkṣēparāmaṇam",
+      "description_te": "సంక్షిప్త రామాయణం, వాల్మీకి రామాయణంలోని బాలకాండ నుండి సేకరించిన సంక్షిప్త రూపం. ఈ స్తోత్రం సంకల్పంలా పనిచేస్తుంది, పారాయణ చేయడం వలన వాల్మీకి రామాయణం పూర్తి పాఠాన్ని పఠించినంత పుణ్యం లభిస్తుందని నమ్మకం. ఇందులో మొత్తం 100 శ్లోకాలు ఉన్నాయి.",
+      "description_en": "A concise version of Valmiki Ramayana, extracted from the Bala kaanda. This hymn serves as a sankalpa, promising the merit of reciting the complete Ramayana. Comprising 100 verses.",
+      "featured": true,
+      "theme": "indigo"
     }
   ]
 }
