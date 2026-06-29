@@ -465,7 +465,8 @@
       "title_en": "toṭakāṣṭakam",
       "description_en": "The Totakastakam is a Vedic hymn composed by Adi Shankaracharya, consisting of eight verses in the Totaka meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
       "description_te": "తోటకాష్టకమ్, ఆదిశంకరాచార్యులు రచించిన వేద స్తోత్రం, ఇది ఎనిమిది శ్లోకాలతో కూడి, భగవంతుని దివ్య గుణాలను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
-      "featured": true
+      "featured": true,
+      "theme": "theme-pearl"
     },
     {
       "slug": "surya-ashtakam",
@@ -475,6 +476,7 @@
       "description_en": "The suryastakam is a Vedic hymn composed by Shiva, consisting of eight verses in the Totaka meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
       "description_te": "శ్రీసూర్యాష్టకమ్, శివప్రోక్తం వేద స్తోత్రం, ఇది ఎనిమిది శ్లోకాలతో కూడి, సూర్యభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
       "featured": true,
+      "theme": "theme-surya",
       "images": [
         "assets/images/surya-ashtakam-01.svg"
       ]
@@ -487,6 +489,7 @@
       "description_en": "The Narayaneeyam is a Vedic hymn composed by Narayana Bhattathiri, consisting of ten verses in the Totaka meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
       "description_te": "శ్రీమన్నారాయణీయమ్, నారాయణ భట్టాతిరి రచించిన వేద స్తోత్రం, ఇది పది శ్లోకాలతో కూడి, నారాయణభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
       "featured": true,
+      "theme": "theme-pearl",
       "images": [
         "assets/images/narayaneeyam-01.svg"
       ]
@@ -501,8 +504,8 @@
         "philosophy",
         "patanjali"
       ],
-      "featured": false,
-      "theme": "indigo",
+      "featured": true,
+      "theme": "theme-forest",
       "type": "html",
       "href": "data/stotram/yoga-sutras/samadhi-pada.html"
     },
@@ -516,8 +519,8 @@
         "philosophy",
         "patanjali"
       ],
-      "featured": false,
-      "theme": "indigo",
+      "featured": true,
+      "theme": "theme-forest",
       "type": "html",
       "href": "data/stotram/yoga-sutras/sadhana-pada.html"
     },
@@ -531,8 +534,8 @@
         "philosophy",
         "patanjali"
       ],
-      "featured": false,
-      "theme": "indigo",
+      "featured": true,
+      "theme": "theme-forest",
       "type": "html",
       "href": "data/stotram/yoga-sutras/vibhuti-pada.html"
     },
@@ -546,8 +549,8 @@
         "philosophy",
         "patanjali"
       ],
-      "featured": false,
-      "theme": "indigo",
+      "featured": true,
+      "theme": "theme-forest",
       "type": "html",
       "href": "data/stotram/yoga-sutras/kaivalya-pada.html"
     },
@@ -559,7 +562,7 @@
       "description_en": "A vision of Maṇidvīpa — the jewelled island realm of Goddess Lalitā Mahātripurasundarī, drawn from the Devī Bhāgavata Purāṇa (12th Skandha). Describes the gem-built palace Cintāmaṇi Gṛha, the divine Śaktis, and the cosmic Śrī Cakra in its celestial form. Traditionally recited after Lalitā Sahasranāma.",
       "description_te": "దేవీ భాగవత పురాణం (12వ స్కంధం) నుండి తీసుకోబడిన మణిద్వీప వర్ణనమ్ — లలితా మహాత్రిపురసుందరీ దేవి నివసించే రత్నమయ ద్వీపం యొక్క వర్ణన. చింతామణి గృహం, దివ్య శక్తులు మరియు శ్రీ చక్రం యొక్క విశ్వరూపాన్ని వివరిస్తుంది. లలితా సహస్రనామం తర్వాత పారాయణ చేయడం సాంప్రదాయం.",
       "featured": true,
-      "theme": "rose"
+      "theme": "theme-saffron"
     },
     {
       "slug": "durga-saptashloki",
@@ -574,7 +577,7 @@
         "saptashloki",
         "markandeya"
       ],
-      "theme": "crimson"
+      "theme": "theme-forest"
     },
     {
       "slug": "aditya-hrudayam",
@@ -584,7 +587,7 @@
       "description_en": "A sacred hymn sung by sage Agastya to Lord Rama during the final battle with Ravana. It consists of 31 verses praising the Sun God as the source of life, energy, and victory. Regular recitation is believed to grant courage, remove fear, and ensure success over enemies.",
       "description_te": "రామాయణంలో (యుద్ధకాండ, సర్గ 106) రావణుడితో జరిగిన తుది యుద్ధంలో అగస్త్య మహాముని శ్రీరామునికి వినిపించిన పవిత్ర స్తోత్రం. ఇందులో 31 శ్లోకాలు సూర్య భగవానుడిని జీవానికి, శక్తికి, విజయానికి మూలంగా స్తుతిస్తాయి. నిత్య పారాయణ వలన ధైర్యం, నిర్భీతి, శత్రువులపై విజయం కలుగుతాయని నమ్మకం.",
       "featured": true,
-      "theme": "blue"
+      "theme": "theme-surya"
     },
     {
       "slug": "sankshepa-ramayanam",
@@ -594,7 +597,7 @@
       "description_te": "సంక్షిప్త రామాయణం, వాల్మీకి రామాయణంలోని బాలకాండ నుండి సేకరించిన సంక్షిప్త రూపం. ఈ స్తోత్రం సంకల్పంలా పనిచేస్తుంది, పారాయణ చేయడం వలన వాల్మీకి రామాయణం పూర్తి పాఠాన్ని పఠించినంత పుణ్యం లభిస్తుందని నమ్మకం. ఇందులో మొత్తం 100 శ్లోకాలు ఉన్నాయి.",
       "description_en": "A concise version of Valmiki Ramayana, extracted from the Bala kaanda. This hymn serves as a sankalpa, promising the merit of reciting the complete Ramayana. Comprising 100 verses.",
       "featured": true,
-      "theme": "indigo"
+      "theme": "theme-pearl"
     },
     {
       "slug": "shiva-mahimna",
@@ -603,7 +606,8 @@
       "title_en": "śivamahimnaḥstotram",
       "description_en": "The shiva mahimna is a Vedic hymn composed by Pushpa Danta, consisting of 42 verses in the Sardulvikridita meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
       "description_te": "పుష్పదంతుడు రచించిన శివమహిమ్న స్తోత్రం, ఇది 42 శ్లోకాలతో కూడిన వేద స్తోత్రం, ఇది శివభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
-      "theme": "theme-bhakti"
+      "featured": true,
+      "theme": "theme-shiva"
     }
   ]
 }
