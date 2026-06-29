@@ -550,6 +550,16 @@
       "theme": "indigo",
       "type": "html",
       "href": "data/stotram/yoga-sutras/kaivalya-pada.html"
+    },
+    {
+      "slug": "manidweepa-varnana",
+      "title_te": "శ్రీమణిద్వీపవర్ణనమ్",
+      "title_sa": "श्रीमणिद्वीपवर्णनम्",
+      "title_en": "śrīmaṇidvīpavarṇanam",
+      "description_en": "A vision of Maṇidvīpa — the jewelled island realm of Goddess Lalitā Mahātripurasundarī, drawn from the Devī Bhāgavata Purāṇa (12th Skandha). Describes the gem-built palace Cintāmaṇi Gṛha, the divine Śaktis, and the cosmic Śrī Cakra in its celestial form. Traditionally recited after Lalitā Sahasranāma.",
+      "description_te": "దేవీ భాగవత పురాణం (12వ స్కంధం) నుండి తీసుకోబడిన మణిద్వీప వర్ణనమ్ — లలితా మహాత్రిపురసుందరీ దేవి నివసించే రత్నమయ ద్వీపం యొక్క వర్ణన. చింతామణి గృహం, దివ్య శక్తులు మరియు శ్రీ చక్రం యొక్క విశ్వరూపాన్ని వివరిస్తుంది. లలితా సహస్రనామం తర్వాత పారాయణ చేయడం సాంప్రదాయం.",
+      "featured": true,
+      "theme": "rose"
     }
   ]
 }
