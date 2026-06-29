@@ -542,7 +542,7 @@ window.StotramApp = {
     this._meanings = {};
     if (!ENABLE_STOTRAM_MEANING) return;
     const lang = window.i18n?.lang || 'en';
-    const url  = `data/stotram/${slug}/${slug}_stotram_meaning_${lang}.txt`;
+    const url  = `data/stotram/${slug}/${slug}_meaning_${lang}.txt`;
     try {
       const res  = await fetch(url);
       if (!res.ok) return; // no meaning file — silently skip

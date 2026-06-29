@@ -1,27 +1,27 @@
 {
-    "slug": "krishna-ashtakam",
-    "title_te": "కృష్ణాష్టకమ్",
-    "title_sa": "कृष्णाष्टकम्",
-    "title_en": "krishnāṣṭakam",
-    "description_en": "krishnāṣṭakam",
-    "description_te": "కృష్ణాష్టకమ్",
-    "description_sa": "कृष्णाष्टकम्",
-    "theme": "theme-vishnu",
-    "tags": [
-        "kṛṣṇa",
-        "aśtakam"
-    ],
-    "synonyms": [],
-    "youtube_url": "https://www.youtube.com/watch?v=Z5rE7aV5eP0",
-    "sections": [
-        {
-            "id": "main",
-            "title_te": "కృష్ణాష్టకమ్",
-            "title_sa": "कृष्णाष्टकम्",
-            "title_en": "krishnāṣṭakam",
-            "file": "krishna-ashtakam_stotram.txt"
-        }
-    ],
-    "image_folder": "krishna-ashtakam",
-    "featured": true
+  "slug": "krishna-ashtakam",
+  "title_te": "కృష్ణాష్టకమ్",
+  "title_sa": "कृष्णाष्टकम्",
+  "title_en": "krishnāṣṭakam",
+  "description_en": "krishnāṣṭakam",
+  "description_te": "కృష్ణాష్టకమ్",
+  "description_sa": "कृष्णाष्टकम्",
+  "theme": "theme-vishnu",
+  "tags": [
+    "kṛṣṇa",
+    "aśtakam"
+  ],
+  "synonyms": [],
+  "youtube_url": "https://www.youtube.com/watch?v=Z5rE7aV5eP0",
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "కృష్ణాష్టకమ్",
+      "title_sa": "कृष्णाष्टकम्",
+      "title_en": "krishnāṣṭakam",
+      "file": "krishna-ashtakam.txt"
+    }
+  ],
+  "image_folder": "krishna-ashtakam",
+  "featured": true
 }
