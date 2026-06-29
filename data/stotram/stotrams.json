@@ -375,7 +375,7 @@
       "description_en": "natarājasthotram",
       "description_te": "నటరాజస్తోత్రమ్",
       "description_sa": "नटराजस्तोत्रम्",
-      "theme": "theme-vishnu",
+      "theme": "theme-forest",
       "tags": [
         "nataraja",
         "shiva"
@@ -404,7 +404,7 @@
       "description_en": "navaratnamalastotram",
       "description_te": "నవరత్నమాలాస్తోత్రమ్",
       "description_sa": "नवरत्नमालास्तोत्रम्",
-      "theme": "theme-vishnu",
+      "theme": "theme-saffron",
       "tags": [
         "anjaneya",
         "hanuman",
@@ -608,6 +608,26 @@
       "description_te": "పుష్పదంతుడు రచించిన శివమహిమ్న స్తోత్రం, ఇది 42 శ్లోకాలతో కూడిన వేద స్తోత్రం, ఇది శివభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
       "featured": true,
       "theme": "theme-shiva"
+    },
+    {
+      "slug": "mahishasura-mardhini",
+      "title_te": "మహిషాసురమర్దినీస్తోత్రమ్",
+      "title_sa": "महिषासुरमर्दिनीस्तोत्रम्",
+      "title_en": "Mahiṣāsuramardinīstotram",
+      "description_en": "",
+      "description_te": "",
+      "featured": true,
+      "theme": "theme-forest"
+    },
+    {
+      "slug": "annapurna-ashtakam",
+      "title_te": "అన్నపూర్ణాష్టకమ్",
+      "title_sa": "अन्नपूर्णाष्टकम्",
+      "title_en": "Annapūrṇāṣṭakam",
+      "description_en": "",
+      "description_te": "",
+      "featured": true,
+      "theme": "theme-pearl"
     }
   ]
 }
