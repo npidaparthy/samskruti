@@ -1,96 +1,98 @@
 // Share card generator — palm leaf manuscript design
 // Draws a 1080×1080 PNG on an off-screen canvas and shares or downloads it.
+// data = { slug, script, syllables, source, verse, meaning, tatparyam }
 
 window.ShareCard = (() => {
-  const S   = 1080;
-  const PAD = 72;
-  const INK  = '#1A0A02';
-  const INK2 = '#3A2010';
+  const S     = 1080;
+  const OUTER = 36;
+  const INNER = 52;
+  const CONT  = 90;
+  const INK   = '#1A0A02';
+  const INK2  = '#3A2010';
 
-  const Z = {
-    borderTop:  100,
-    source:     148,
-    verseStart: 230,
-    meaningHead: 480,
-    meaningText: 528,
-    tatpHead:   690,
-    tatpText:   738,
-    borderBot:  960,
-    footerY:   1010,
-  };
+  const VERSE_FAM = '"Noto Sans Telugu","Noto Serif Devanagari","Georgia",serif';
+  const BODY_FAM  = '"Noto Sans Telugu","Georgia",serif';
+  const SRC_FAM   = '"Georgia",serif';
 
   function _noise(ctx, w, h, alpha) {
     const id = ctx.createImageData(w, h);
     const d  = id.data;
     for (let i = 0; i < d.length; i += 4) {
       const v = Math.random() * 255;
-      d[i] = d[i+1] = d[i+2] = v;
-      d[i+3] = alpha;
+      d[i] = d[i+1] = d[i+2] = v; d[i+3] = alpha;
     }
     ctx.putImageData(id, 0, 0);
   }
 
   function _sectionHeading(ctx, label, x, y, color) {
     ctx.save();
-    ctx.font = 'bold 30px "Georgia", serif';
-    ctx.fillStyle = color;
-    ctx.textAlign = 'left';
+    ctx.font = 'bold 28px "Georgia",serif';
+    ctx.fillStyle = color; ctx.textAlign = 'left';
     const tw = ctx.measureText(label).width;
     const lx = x - tw / 2;
     ctx.fillText(label, lx, y);
-    const ruleGap = 18, ruleLen = 80;
-    ctx.strokeStyle = color;
-    ctx.lineWidth = 1.5;
-    ctx.globalAlpha = 0.5;
-    ctx.beginPath(); ctx.moveTo(lx - ruleGap - ruleLen, y - 8); ctx.lineTo(lx - ruleGap, y - 8); ctx.stroke();
-    ctx.beginPath(); ctx.moveTo(lx + tw + ruleGap, y - 8); ctx.lineTo(lx + tw + ruleGap + ruleLen, y - 8); ctx.stroke();
+    const gap = 16, len = 72;
+    ctx.strokeStyle = color; ctx.lineWidth = 1.5; ctx.globalAlpha = 0.45;
+    ctx.beginPath(); ctx.moveTo(lx - gap - len, y - 8); ctx.lineTo(lx - gap, y - 8); ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(lx + tw + gap, y - 8); ctx.lineTo(lx + tw + gap + len, y - 8); ctx.stroke();
     ctx.restore();
   }
 
-  function _wrap(ctx, text, x, y, maxW, lineH, maxLines) {
+  // Wrap text with no truncation; returns bottom Y after last line
+  function _wrap(ctx, text, x, y, maxW, lineH) {
     const words = text.split(' ');
-    let line = '', cy = y, count = 0;
+    let line = '', cy = y;
     for (const word of words) {
       const test = line + word + ' ';
       if (ctx.measureText(test).width > maxW && line) {
-        if (maxLines && count >= maxLines - 1) { ctx.fillText(line.trim() + '…', x, cy); return cy + lineH; }
-        ctx.fillText(line.trim(), x, cy);
-        line = word + ' '; cy += lineH; count++;
+        ctx.fillText(line.trim(), x, cy); line = word + ' '; cy += lineH;
       } else { line = test; }
     }
     if (line.trim()) ctx.fillText(line.trim(), x, cy);
     return cy + lineH;
   }
 
-  // Fold 4-pada verse into 2 lines
-  function _normVerse(text) {
+  // Measure wrapped height without drawing
+  function _measureWrap(ctx, text, maxW, lineH) {
+    const words = text.split(' ');
+    let line = '', lines = 1;
+    for (const word of words) {
+      const test = line + word + ' ';
+      if (ctx.measureText(test).width > maxW && line) { line = word + ' '; lines++; }
+      else { line = test; }
+    }
+    return lines * lineH;
+  }
+
+  // Verse: ≤8 syllables → join pairs into 2 lines; else keep as 4 lines
+  function _prepareVerse(text, syllables) {
     const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
-    if (lines.length === 4) return `${lines[0]} ${lines[1]}\n${lines[2]} ${lines[3]}`;
-    if (lines.length === 3) return `${lines[0]} ${lines[1]}\n${lines[2]}`;
-    return text;
+    if ((syllables || 8) <= 8 && lines.length === 4)
+      return [`${lines[0]} ${lines[1]}`, `${lines[2]} ${lines[3]}`];
+    return lines;
   }
 
   function _draw(canvas, data) {
-    const ctx = canvas.getContext('2d');
+    const ctx   = canvas.getContext('2d');
+    const textW = S - CONT * 2;
 
-    // Background
+    // ── Background ──
     const bg = ctx.createLinearGradient(0, 0, S, S);
     bg.addColorStop(0,   '#C8943A');
     bg.addColorStop(0.3, '#D4A040');
     bg.addColorStop(0.6, '#C08030');
     bg.addColorStop(1,   '#A86820');
-    ctx.fillStyle = bg;
-    ctx.fillRect(0, 0, S, S);
+    ctx.fillStyle = bg; ctx.fillRect(0, 0, S, S);
 
-    // Vein streaks
+    // Vein streaks (deterministic — consistent across redraws)
     for (let i = 0; i < 18; i++) {
-      const y = Math.random() * S;
-      const a = 0.03 + Math.random() * 0.055;
-      ctx.strokeStyle = `rgba(${Math.random() > 0.5 ? '255,200,100' : '80,30,0'},${a})`;
-      ctx.lineWidth = 1 + Math.random() * 3;
+      const y = (i / 18) * S + 20;
+      const a = 0.03 + (i % 3) * 0.015;
+      ctx.strokeStyle = `rgba(${i % 2 === 0 ? '255,200,100' : '80,30,0'},${a})`;
+      ctx.lineWidth = 1 + (i % 3);
       ctx.beginPath();
       ctx.moveTo(0, y);
-      ctx.bezierCurveTo(S*0.3, y+(Math.random()-.5)*12, S*0.7, y+(Math.random()-.5)*12, S, y);
+      ctx.bezierCurveTo(S*0.3, y+(i%2===0?8:-8), S*0.7, y+(i%2===0?-6:6), S, y);
       ctx.stroke();
     }
 
@@ -103,54 +105,112 @@ window.ShareCard = (() => {
     // Vignette
     const vig = ctx.createRadialGradient(S/2, S/2, S*0.32, S/2, S/2, S*0.72);
     vig.addColorStop(0, 'rgba(0,0,0,0)');
-    vig.addColorStop(1, 'rgba(30,8,0,0.42)');
+    vig.addColorStop(1, 'rgba(30,8,0,0.44)');
     ctx.fillStyle = vig; ctx.fillRect(0, 0, S, S);
+
+    // ── Decorative frame ──
+    ctx.strokeStyle = 'rgba(80,30,5,0.55)'; ctx.lineWidth = 2;
+    ctx.strokeRect(OUTER, OUTER, S-OUTER*2, S-OUTER*2);
+    ctx.strokeStyle = 'rgba(80,30,5,0.28)'; ctx.lineWidth = 1;
+    ctx.strokeRect(INNER, INNER, S-INNER*2, S-INNER*2);
+    const CF = 18;
+    for (const [cx,cy] of [[OUTER,OUTER],[S-OUTER,OUTER],[OUTER,S-OUTER],[S-OUTER,S-OUTER]]) {
+      const sx = cx === OUTER ? 1 : -1, sy = cy === OUTER ? 1 : -1;
+      ctx.strokeStyle = 'rgba(80,30,5,0.55)'; ctx.lineWidth = 1.5;
+      ctx.beginPath(); ctx.moveTo(cx,cy+sy*CF); ctx.lineTo(cx,cy); ctx.lineTo(cx+sx*CF,cy); ctx.stroke();
+    }
 
     // Binding hole
     ctx.save();
-    ctx.beginPath(); ctx.arc(S/2, 52, 20, 0, Math.PI*2);
+    ctx.beginPath(); ctx.arc(S/2, OUTER+26, 16, 0, Math.PI*2);
     ctx.fillStyle = 'rgba(20,6,0,0.55)'; ctx.fill();
-    ctx.strokeStyle = 'rgba(100,50,10,0.6)'; ctx.lineWidth = 2; ctx.stroke();
+    ctx.strokeStyle = 'rgba(100,50,10,0.5)'; ctx.lineWidth = 1.5; ctx.stroke();
     ctx.restore();
 
-    // Border lines
-    ctx.strokeStyle = 'rgba(80,30,5,0.45)'; ctx.lineWidth = 2;
-    ctx.beginPath(); ctx.moveTo(PAD, Z.borderTop); ctx.lineTo(S-PAD, Z.borderTop); ctx.stroke();
-    ctx.beginPath(); ctx.moveTo(PAD, Z.borderBot); ctx.lineTo(S-PAD, Z.borderBot); ctx.stroke();
+    // ── Source band — wraps to 2 lines at 18px ──
+    const SRC_SIZE = 18, SRC_LH = SRC_SIZE * 1.5;
+    ctx.font = `500 ${SRC_SIZE}px ${SRC_FAM}`;
+    const srcWords = (data.source || '').toUpperCase().split(' ');
+    let srcLine = '', srcLines = [];
+    for (const w of srcWords) {
+      const t = srcLine + w + ' ';
+      if (ctx.measureText(t).width > textW && srcLine) { srcLines.push(srcLine.trim()); srcLine = w + ' '; }
+      else { srcLine = t; }
+    }
+    if (srcLine.trim()) srcLines.push(srcLine.trim());
+    srcLines = srcLines.slice(0, 2);
 
-    // Source line
-    ctx.font = '500 25px "Georgia", serif';
+    const srcBandH = srcLines.length * SRC_LH + 16;
+    const srcRule1 = INNER + 20;
+    const srcTextY = srcRule1 + 14 + SRC_SIZE;
+    const srcRule2 = srcRule1 + srcBandH;
+
+    ctx.strokeStyle = 'rgba(80,30,5,0.28)'; ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(INNER, srcRule1); ctx.lineTo(S-INNER, srcRule1); ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(INNER, srcRule2); ctx.lineTo(S-INNER, srcRule2); ctx.stroke();
     ctx.fillStyle = INK2; ctx.textAlign = 'center';
-    ctx.fillText((data.source || '').toUpperCase(), S/2, Z.source);
+    srcLines.forEach((l, i) => ctx.fillText(l, S/2, srcTextY + i * SRC_LH));
 
-    // Verse — 2 lines
-    const verseText = _normVerse(data.verse || '');
-    const verseLines = verseText.split('\n');
-    const VFS = data.script === 'iast' ? 46 : 50;
-    ctx.font = `500 ${VFS}px "Noto Sans Telugu","Noto Serif Devanagari","Georgia",serif`;
+    // ── Verse — auto-shrink to fit width, no truncation ──
+    const verseLines = _prepareVerse(data.verse || '', data.syllables);
+    const isFour     = verseLines.length >= 4;
+    const VFS_START  = isFour ? (data.script === 'iast' ? 34 : 38) : (data.script === 'iast' ? 44 : 48);
+    const VLH_MULT   = isFour ? 1.65 : 2.0;
+
+    let VFS = VFS_START;
+    while (VFS > 20) {
+      ctx.font = `500 ${VFS}px ${VERSE_FAM}`;
+      if (Math.max(...verseLines.map(l => ctx.measureText(l).width)) <= textW) break;
+      VFS--;
+    }
+    ctx.font = `500 ${VFS}px ${VERSE_FAM}`;
     ctx.fillStyle = INK; ctx.textAlign = 'center';
-    let vy = Z.verseStart;
-    for (const line of verseLines) { ctx.fillText(line, S/2, vy); vy += VFS * 2.0; }
+    const verseStartY = srcRule2 + 32;
+    let vy = verseStartY;
+    for (const line of verseLines) { ctx.fillText(line, S/2, vy); vy += VFS * VLH_MULT; }
+    const verseEndY = vy - VFS * (VLH_MULT - 0.3);
 
-    // Meaning
-    _sectionHeading(ctx, 'అర్థం  ·  MEANING', S/2, Z.meaningHead, '#6B1A00');
-    ctx.font = '500 32px "Noto Sans Telugu","Georgia",serif';
+    // ── Find font sizes so meaning + commentary fit without truncation ──
+    const footerRule = S - INNER - 58;
+    const SECT_GAP   = 44, HEAD_H = 42;
+    const available  = footerRule - 20 - verseEndY - SECT_GAP - HEAD_H - SECT_GAP - HEAD_H;
+
+    let mSize = 30, tSize = 25;
+    while (mSize >= 16) {
+      ctx.font = `500 ${mSize}px ${BODY_FAM}`;
+      const mH = _measureWrap(ctx, data.meaning || '', textW, mSize * 1.6);
+      ctx.font = `500 ${tSize}px ${BODY_FAM}`;
+      const tH = _measureWrap(ctx, data.tatparyam || '', textW, tSize * 1.6);
+      if (mH + tH <= available) break;
+      mSize--; tSize = Math.max(14, mSize - 4);
+    }
+
+    // ── Meaning ──
+    const meaningHeadY = verseEndY + SECT_GAP;
+    const meaningTextY = meaningHeadY + HEAD_H;
+    _sectionHeading(ctx, 'అర్థం  ·  MEANING', S/2, meaningHeadY, '#6B1A00');
+    ctx.font = `500 ${mSize}px ${BODY_FAM}`;
     ctx.fillStyle = INK; ctx.textAlign = 'center';
-    _wrap(ctx, data.meaning || '', S/2, Z.meaningText, S - PAD*2.2, 50, 3);
+    const meaningEndY = _wrap(ctx, data.meaning || '', S/2, meaningTextY, textW, mSize * 1.6);
 
-    // Tatparyam
-    _sectionHeading(ctx, 'తాత్పర్యం  ·  COMMENTARY', S/2, Z.tatpHead, '#1A3A20');
-    ctx.font = '500 28px "Noto Sans Telugu","Georgia",serif';
+    // ── Commentary ──
+    const tatpHeadY = meaningEndY + SECT_GAP - 8;
+    const tatpTextY = tatpHeadY + HEAD_H;
+    _sectionHeading(ctx, 'తాత్పర్యం  ·  COMMENTARY', S/2, tatpHeadY, '#1A3A20');
+    ctx.font = `500 ${tSize}px ${BODY_FAM}`;
     ctx.fillStyle = INK2; ctx.textAlign = 'center';
-    _wrap(ctx, data.tatparyam || '', S/2, Z.tatpText, S - PAD*2.2, 46, 3);
+    _wrap(ctx, data.tatparyam || '', S/2, tatpTextY, textW, tSize * 1.6);
 
-    // Footer
-    ctx.font = '600 28px "Noto Sans Telugu","Noto Serif Devanagari","Georgia",serif';
+    // ── Footer ──
+    const footerY = S - INNER - 18;
+    ctx.strokeStyle = 'rgba(80,30,5,0.28)'; ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(INNER, footerRule); ctx.lineTo(S-INNER, footerRule); ctx.stroke();
+    ctx.font = '600 26px "Noto Sans Telugu","Noto Serif Devanagari","Georgia",serif';
     ctx.fillStyle = INK; ctx.textAlign = 'left';
-    ctx.fillText('సంస్కృతి · संस्कृति', PAD, Z.footerY);
-    ctx.font = '500 26px "Georgia",serif';
+    ctx.fillText('సంస్కృతి · संस्कृति', CONT, footerY);
+    ctx.font = '500 24px "Georgia",serif';
     ctx.fillStyle = INK2; ctx.textAlign = 'right';
-    ctx.fillText('https://samskruti.info', S - PAD, Z.footerY);
+    ctx.fillText('https://samskruti.info', S - CONT, footerY);
   }
 
   async function share(data) {
@@ -169,7 +229,7 @@ window.ShareCard = (() => {
           return;
         }
       } catch (e) {
-        if (e.name === 'AbortError') return; // user cancelled
+        if (e.name === 'AbortError') return;
       }
     }
 

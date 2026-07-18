@@ -948,6 +948,7 @@ window.StotramApp = {
         window.ShareCard?.share({
           slug:      entry?.slug || id,
           script,
+          syllables: sub.syllablesPerQuarter || 8,
           source:    (source + chapter + (sub.chandaH ? ' · ' + sub.chandaH : '')),
           verse:     script === 'sa' ? sub.shlokam.sa : script === 'iast' ? sub.shlokam.iast : sub.shlokam.te,
           meaning:   lang === 'te' ? (sub.meaning?.te || sub.meaning?.en || '') : (sub.meaning?.en || ''),
