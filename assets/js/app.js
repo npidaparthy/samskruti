@@ -47,6 +47,7 @@ window.StotramApp = {
     this.bindNav();
     await window.StotramSearch?.init(this.stotramsIndex);
     window.Contact?.init({ scriptUrl: 'https://script.google.com/macros/s/AKfycbxa0hLe7kRV3jhmTdvHNf9P8rVntm8wEAa7Xrz0f51mT8LJwrxRtD2Q0yU-m-UsTUrY3A/exec', siteName: 'samskruti.info' });
+    this._initParayanamMode();
 
     this.setupInstallPrompt();
 
@@ -138,10 +139,22 @@ window.StotramApp = {
   _initFabTop() {
     const fab = document.getElementById('fabTop');
     if (!fab) return;
-    window.addEventListener('scroll', () => {
-      fab.classList.toggle('hidden', window.scrollY < 300);
-    }, { passive: true });
-    fab.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+
+    const update = () => {
+      const reader = document.getElementById('page-reader');
+      const inPM   = document.body.classList.contains('parayanam-mode');
+      const scrollY = inPM ? (reader?.scrollTop || 0) : window.scrollY;
+      fab.classList.toggle('hidden', scrollY < 300);
+    };
+
+    window.addEventListener('scroll', update, { passive: true });
+    document.getElementById('page-reader')?.addEventListener('scroll', update, { passive: true });
+
+    fab.addEventListener('click', () => {
+      const inPM = document.body.classList.contains('parayanam-mode');
+      if (inPM) document.getElementById('page-reader')?.scrollTo({ top: 0, behavior: 'smooth' });
+      else window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
   },
 
   // ── First-time help banner ────────────────────────────────────────────────
@@ -597,6 +610,37 @@ window.StotramApp = {
 
 
   // Update reader title/subtitle when language toggles
+  // ── Parayanam (focus) mode ───────────────────────────────────────────────
+
+  _initParayanamMode() {
+    document.getElementById('pmToggle')?.addEventListener('click', () => this._enterParayanam());
+    document.getElementById('pmExit')?.addEventListener('click',   () => this._exitParayanam());
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape' && document.body.classList.contains('parayanam-mode')) this._exitParayanam();
+    });
+  },
+
+  _enterParayanam() {
+    const meta  = this.currentMeta;
+    const lang  = window.i18n?.lang || 'en';
+    const title = lang === 'te' ? (meta?.title_te || meta?.title_sa) : (meta?.title_en || meta?.title_sa);
+    const sections = meta?.sections || meta?.chapters || [];
+    const sec   = sections[this.currentSection];
+    const secLabel = sec ? (lang === 'te' ? (sec.title_te || sec.title_sa) : (sec.title_en || sec.title_sa)) : '';
+    const label = secLabel ? `${title} · ${secLabel}` : title;
+    document.getElementById('pmStotramLabel').textContent = label || '';
+    document.body.classList.add('parayanam-mode');
+    document.getElementById('pmExitBar')?.classList.remove('hidden');
+    document.getElementById('page-reader')?.scrollTo({ top: 0 });
+    document.documentElement.requestFullscreen?.().catch(() => {});
+  },
+
+  _exitParayanam() {
+    document.body.classList.remove('parayanam-mode');
+    document.getElementById('pmExitBar')?.classList.add('hidden');
+    if (document.fullscreenElement) document.exitFullscreen?.().catch(() => {});
+  },
+
   _updateReaderHeader() {
     const meta = this.currentMeta;
     if (!meta) return;

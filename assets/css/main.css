@@ -794,6 +794,133 @@ input[type="color"] {
 .reader-title { font-size: 1.5rem; color: var(--c-primary); font-family: var(--font-te); line-height: 1.3; }
 .reader-subtitle { font-size: 0.82rem; color: var(--c-text-muted); font-family: var(--font-en); font-style: italic; margin-top: 0.15rem; }
 
+/* ── Parayanam mode toggle button (in reader header) ── */
+.pm-toggle-btn {
+  flex-shrink: 0;
+  background: transparent;
+  border: 1.5px solid var(--c-border);
+  color: var(--c-text-muted);
+  border-radius: var(--radius);
+  padding: 0.4rem 0.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  transition: background var(--transition), color var(--transition);
+}
+.pm-toggle-btn:hover { background: var(--c-surface2); color: var(--c-primary); }
+
+/* ── Parayanam exit bar (replaces reader header in PM) ── */
+.pm-exit-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.55rem 1rem 0.4rem;
+  background: #0a0d1a;
+  flex-shrink: 0;
+}
+.pm-stotram-label {
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #7a7a9a;
+}
+.pm-exit-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.12);
+  color: #8a8aaa;
+  border-radius: 6px;
+  padding: 0.3rem 0.65rem;
+  font-size: 0.72rem;
+  cursor: pointer;
+  transition: color 0.18s;
+}
+.pm-exit-btn:hover { color: #e8e4d8; }
+
+/* ── Parayanam mode — body class applied when active ── */
+body.parayanam-mode {
+  background: #0a0d1a;
+}
+
+/* Hide all chrome in PM */
+body.parayanam-mode .app-header,
+body.parayanam-mode .app-nav,
+body.parayanam-mode .site-footer,
+body.parayanam-mode .reader-header,
+body.parayanam-mode .stotram-image-wrap,
+body.parayanam-mode .audio-panel,
+body.parayanam-mode .section-tabs,
+body.parayanam-mode .meaning-toggle-wrap {
+  display: none !important;
+}
+
+/* Show the exit bar */
+body.parayanam-mode .pm-exit-bar { display: flex !important; }
+
+/* Reader page fills viewport */
+body.parayanam-mode .fab-top { z-index: 210 !important; }
+
+body.parayanam-mode #page-reader {
+  background: #0a0d1a;
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  overflow-y: auto;
+  padding: 0;
+  display: flex !important;
+  flex-direction: column;
+}
+
+/* Content area */
+body.parayanam-mode #shlokasContainer {
+  padding: 1rem 1.5rem 2rem;
+  flex: 1;
+}
+
+/* Shloka blocks — dark mode */
+body.parayanam-mode .shloka-block {
+  background: transparent;
+  box-shadow: none;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  border-radius: 0;
+  padding: 1.4rem 0.5rem;
+  text-align: center;
+}
+body.parayanam-mode .shloka-block:nth-child(even) { background: transparent; }
+body.parayanam-mode .shloka-block:hover { background: rgba(255,255,255,0.03); }
+body.parayanam-mode .shloka-block:last-child { border-bottom: none; }
+
+body.parayanam-mode .shloka-text {
+  font-size: 1.2rem;
+  line-height: 2.4;
+  color: #e8e4d8;
+}
+
+body.parayanam-mode .shloka-num {
+  color: #c8a84b;
+  font-size: 0.6rem;
+  letter-spacing: 0.18em;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+
+body.parayanam-mode .shloka-block-header { color: #c8a84b; }
+
+/* Bottom nav in PM */
+body.parayanam-mode .bottom-nav {
+  background: #0a0d1a;
+  border-top: 1px solid rgba(255,255,255,0.07);
+}
+body.parayanam-mode .bottom-nav-prev,
+body.parayanam-mode .bottom-nav-next {
+  background: rgba(255,255,255,0.07);
+  border-color: rgba(255,255,255,0.12);
+  color: #8a8aaa;
+}
+body.parayanam-mode .bottom-nav-back { display: none; }
+
 .section-tabs { display: flex; gap: 0.4rem; flex-wrap: wrap; }
 .section-tab {
   padding: 0.3rem 0.75rem;
