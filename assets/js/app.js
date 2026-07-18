@@ -46,6 +46,7 @@ window.StotramApp = {
     this._applyFeatureFlags();
     this.bindNav();
     await window.StotramSearch?.init(this.stotramsIndex);
+    window.Contact?.init({ scriptUrl: 'https://script.google.com/macros/s/AKfycbxa0hLe7kRV3jhmTdvHNf9P8rVntm8wEAa7Xrz0f51mT8LJwrxRtD2Q0yU-m-UsTUrY3A/exec', siteName: 'samskruti.info' });
 
     this.setupInstallPrompt();
 

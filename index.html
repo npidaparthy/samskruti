@@ -365,7 +365,8 @@
         <span class="i18n-te">మీ అభిప్రాయాలు, సూచనలు పంపండి</span>
         <span class="i18n-en">Send your feedback and suggestions</span>
       </p>
-      <form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+      <div id="contact-status" class="contact-status" hidden></div>
+      <form class="contact-form" id="contact-form">
         <div class="form-group">
           <label for="cf-name">
             <span class="i18n-te">పేరు</span><span class="i18n-en">Name</span>
@@ -490,6 +491,7 @@
 <script src="assets/js/modules/parser.js"></script>
 <script src="assets/js/modules/audio.js"></script>
 <script src="assets/js/modules/search.js"></script>
+<script src="assets/js/modules/contact.js"></script>
 <script src="assets/js/modules/ui.js"></script>
 <script src="assets/js/app.js"></script>
 
