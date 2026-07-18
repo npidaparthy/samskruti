@@ -261,19 +261,21 @@
   <section class="page hidden" id="page-reader">
     <!-- Reader Header -->
     <div class="reader-header">
-      <button class="back-btn" id="readerBack">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
-        <span data-i18n-bilingual="back">వెనక్కి / Back</span>
-      </button>
+      <div class="reader-header-left">
+        <button class="back-btn" id="readerBack">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+          <span data-i18n-bilingual="back">వెనక్కి / Back</span>
+        </button>
+        <button class="pm-toggle-btn" id="pmToggle" title="Parayanam mode">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
+        </button>
+      </div>
       <div class="reader-title-wrap">
         <h2 class="reader-title" id="readerTitle">—</h2>
         <p class="reader-subtitle" id="readerSubtitle"></p>
       </div>
       <!-- Section Tabs (for multi-section stotrams) -->
       <div class="section-tabs" id="sectionTabs"></div>
-      <button class="pm-toggle-btn" id="pmToggle" title="Parayanam mode">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
-      </button>
     </div>
 
     <!-- Parayanam mode exit bar (hidden by default) -->
