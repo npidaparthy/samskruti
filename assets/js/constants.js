@@ -1,5 +1,6 @@
 // ── File paths ────────────────────────────────────────────────────────────────
 const DATA_STOTRAMS_INDEX    = 'data/stotram/stotrams.json';
+const DATA_SUBHASHITAM_BASE  = 'data/subhashitam/';
 const DATA_SUBHASHITAM_INDEX = 'data/subhashitam/_index.json';
 const DATA_SEARCH_INDEX      = 'data/search-index.json';
 

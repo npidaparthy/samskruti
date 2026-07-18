@@ -176,6 +176,7 @@ window.StotramApp = {
       // single source of truth for rich content (descriptions, sections, images).
       // _meta.json fields WIN over stotrams.json fields when both exist.
       this.stotramsIndex = await Promise.all(base.map(async entry => {
+        if (entry.type === 'html' || entry.type === 'external') return entry;
         try {
           const mr = await fetch(`data/stotram/${entry.slug}/${entry.slug}_meta.json`);
           if (mr.ok) {
@@ -431,21 +432,25 @@ window.StotramApp = {
     }
 
     /* Bottom nav — delegate clicks on dynamically rendered buttons */
-    document.getElementById('shlokasContainer')?.addEventListener('click', e => {
-      const prev = e.target.closest('.bottom-nav-prev');
-      const next = e.target.closest('.bottom-nav-next');
-      const back = e.target.closest('.bottom-nav-back');
-      const top  = e.target.closest('.bottom-nav-top');
-      if (prev || next) {
-        const si = parseInt((prev || next).dataset.si);
-        this._setSectionActive(si);
-        this.renderSection(slug, si);
-        document.getElementById('page-reader')?.scrollTo({ top: 0, behavior: 'smooth' });
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      }
-      if (back) this.navigate('stotrams');
-      if (top)  window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
+    const container = document.getElementById('shlokasContainer');
+    if (container && !container._navBound) {
+      container._navBound = true;
+      container.addEventListener('click', e => {
+        const prev = e.target.closest('.bottom-nav-prev');
+        const next = e.target.closest('.bottom-nav-next');
+        const back = e.target.closest('.bottom-nav-back');
+        const top  = e.target.closest('.bottom-nav-top');
+        if (prev || next) {
+          const si = parseInt((prev || next).dataset.si);
+          this._setSectionActive(si);
+          this.renderSection(this.currentSlug, si);
+          document.getElementById('page-reader')?.scrollTo({ top: 0, behavior: 'smooth' });
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        if (back) this.navigate('stotrams');
+        if (top)  window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
 
     window.StotramAudio?.setup(meta);
     await this.renderSection(slug, 0);
@@ -732,6 +737,7 @@ window.StotramApp = {
     container.innerHTML = '<div class="skeleton-card" style="height:120px;margin:1rem 0"></div>';
     try {
       const res  = await fetch(DATA_SUBHASHITAM_INDEX);
+      if (!res.ok) throw new Error(`${DATA_SUBHASHITAM_INDEX} → HTTP ${res.status}`);
       const list = await res.json();
       this._subIndex = list;  // cache for slug lookup
 
@@ -818,6 +824,7 @@ window.StotramApp = {
     // If index not yet loaded, fetch it first
     if (!this._subIndex) {
       const res = await fetch(DATA_SUBHASHITAM_INDEX);
+      if (!res.ok) throw new Error(`${DATA_SUBHASHITAM_INDEX} → HTTP ${res.status}`);
       this._subIndex = await res.json();
     }
     const entry = this._subIndex.find(e => e.slug === slug);
@@ -846,7 +853,8 @@ window.StotramApp = {
     detail.innerHTML = '<div class="skeleton-card" style="height:300px;margin:1rem 0"></div>';
 
     try {
-      const res  = await fetch(`data/subhashitam/${file}`);
+      const res  = await fetch(`${DATA_SUBHASHITAM_BASE}${file}`);
+      if (!res.ok) throw new Error(`${DATA_SUBHASHITAM_BASE}${file} → HTTP ${res.status}`);
       const sub  = await res.json();
 
       const script  = window.StotramSettings?.get('lipi') || 'te';
