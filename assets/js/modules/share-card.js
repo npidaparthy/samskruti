@@ -64,12 +64,27 @@ window.ShareCard = (() => {
     return lines * lineH;
   }
 
-  // Verse: ≤8 syllables → join pairs into 2 lines; else keep as 4 lines
+  // Verse line format:
+  //   Anuṣṭup (≤8 syl) → always 2 lines (join pada pairs)
+  //   Longer metres     → always 4 lines (split at | / । if stored as 2)
   function _prepareVerse(text, syllables) {
     const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
-    if ((syllables || 8) <= 8 && lines.length === 4)
-      return [`${lines[0]} ${lines[1]}`, `${lines[2]} ${lines[3]}`];
-    return lines;
+    if ((syllables || 8) <= 8) {
+      if (lines.length === 4) return [`${lines[0]} ${lines[1]}`, `${lines[2]} ${lines[3]}`];
+      return lines; // already 2 lines
+    }
+    // Longer metre — ensure 4 lines
+    if (lines.length === 2) {
+      // Split each of the 2 lines at the pada separator | or ।
+      const four = lines.flatMap(l => {
+        const parts = l.split(/\s*[|।]\s*/);
+        return parts.length >= 2
+          ? [parts[0].trim(), parts.slice(1).join(' ').trim()]
+          : [l];
+      }).filter(Boolean);
+      if (four.length === 4) return four;
+    }
+    return lines; // already 4 lines or unusual structure
   }
 
   function _draw(canvas, data) {
