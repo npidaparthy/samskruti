@@ -54,6 +54,7 @@ window.I18N = {
 
     // ── Reader ───────────────────────────────────────────────
     back:              'Back',
+    share:             'Share',
     hide_img:          'Hide Image',
     show_img:          'Show Image',
     repeat:            'Repeat',
@@ -143,6 +144,7 @@ window.I18N = {
 
     // ── Reader ───────────────────────────────────────────────
     back:              'వెనక్కి',
+    share:             'షేర్',
     hide_img:          'చిత్రం దాచు',
     show_img:          'చిత్రం చూపు',
     repeat:            'పునరావృత్తి',

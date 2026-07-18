@@ -918,7 +918,16 @@ window.StotramApp = {
       };
 
       detail.innerHTML = `
-        <button class="sub-back-btn" id="subBack">← ${lang === 'te' ? 'వెనక్కు' : 'Back'}</button>
+        <div class="sub-detail-header">
+          <button class="sub-back-btn" id="subBack">← ${window.i18n.t('back')}</button>
+          <button class="sub-share-btn" id="subShare" title="${window.i18n.t('share')}">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+              <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+            </svg>
+            ${window.i18n.t('share')}
+          </button>
+        </div>
         <div class="sub-reader-card">
           <div class="sub-reader-tags">${tags}</div>
           <div class="sub-reader-verse">${this._esc(verse)}</div>
@@ -932,6 +941,18 @@ window.StotramApp = {
       document.getElementById('subBack')?.addEventListener('click', () => {
         detail.classList.add('hidden');
         list.classList.remove('hidden');
+      });
+
+      document.getElementById('subShare')?.addEventListener('click', () => {
+        const script = window.StotramSettings?.get('lipi') || 'te';
+        window.ShareCard?.share({
+          slug:      entry?.slug || id,
+          script,
+          source:    (source + chapter + (sub.chandaH ? ' · ' + sub.chandaH : '')),
+          verse:     script === 'sa' ? sub.shlokam.sa : script === 'iast' ? sub.shlokam.iast : sub.shlokam.te,
+          meaning:   lang === 'te' ? (sub.meaning?.te || sub.meaning?.en || '') : (sub.meaning?.en || ''),
+          tatparyam: lang === 'te' ? (sub.tatparyam?.te || sub.tatparyam?.en || '') : (sub.tatparyam?.en || ''),
+        });
       });
     } catch (e) {
       detail.innerHTML = `<p style="padding:2rem;color:var(--c-text-muted)">⚠️ Could not load verse.</p>`;

@@ -10,6 +10,7 @@ const ASSETS = [
     '/assets/js/modules/audio.js',
     '/assets/js/modules/search.js',
     '/assets/js/modules/contact.js',
+    '/assets/js/modules/share-card.js',
     '/assets/js/modules/ui.js',
     '/data/stotram/stotrams.json',
 ];

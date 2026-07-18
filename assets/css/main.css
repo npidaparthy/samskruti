@@ -1410,14 +1410,26 @@ body.parayanam-mode .bottom-nav-back { display: none; }
 }
 
 /* ── SUBHASHITAM READER ── */
+.sub-detail-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0.5rem 1rem 0;
+}
 .sub-back-btn {
-  display: inline-block; margin: 0.75rem 1rem;
+  display: inline-block;
   background: none; border: 1px solid var(--c-border);
   border-radius: 16px; padding: 4px 14px;
   font-size: 0.85rem; color: var(--c-text-muted); cursor: pointer;
   touch-action: manipulation;
 }
 .sub-back-btn:hover { background: var(--c-surface2); }
+.sub-share-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: none; border: 1px solid var(--c-border);
+  border-radius: 16px; padding: 4px 14px;
+  font-size: 0.85rem; color: var(--c-text-muted); cursor: pointer;
+  touch-action: manipulation;
+}
+.sub-share-btn:hover { background: var(--c-surface2); }
 .sub-reader-card {
   margin: 0 1rem 4rem; background: var(--c-surface);
   border: 1px solid var(--c-border); border-radius: 12px; overflow: hidden;
