@@ -1,0 +1,26 @@
+{
+  "slug": "maha-lakshmi-ashtakam",
+  "title_te": "మహాలక్ష్మ్యష్టకమ్",
+  "title_sa": "महालक्ष्म्यष्टकम्",
+  "title_en": "Mahālakṣmy Aṣṭakam",
+  "description_en": "Eight verses on Goddess Mahālakṣmī from the Padma Purāṇa, invoking her as the bestower of wealth, prosperity, courage, and liberation. Each verse addresses her with a different epithet and closes with a prayer for her grace. One of the most widely recited Lakṣmī stotras across India.",
+  "description_te": "పద్మ పురాణం నుండి తీసుకోబడిన మహాలక్ష్మీ అష్టకం. సంపద, ధైర్యం మరియు మోక్షాన్ని ప్రసాదించే దేవిని వేర్వేరు నామాలతో స్తుతిస్తుంది. భారతదేశంలో విస్తృతంగా పఠించే లక్ష్మీ స్తోత్రాలలో ఒకటి.",
+  "description_sa": "पद्मपुराणान्तर्गतं महालक्ष्म्याः अष्टकम्। ऐश्वर्यधैर्यमोक्षप्रदां देवीं नानानामभिः स्तुवन्ति। भारतदेशे सर्वत्र प्रसिद्धं लक्ष्मीस्तोत्रम्।",
+  "theme": "gold",
+  "tags": [
+    "lakshmi",
+    "devi",
+    "shakta",
+    "ashtakam"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "మహాలక్ష్మ్యష్టకమ్",
+      "title_sa": "महालक्ष्म्यष्टकम्",
+      "title_en": "Mahālakṣmy Aṣṭakam",
+      "file": "maha-lakshmi-ashtakam.txt"
+    }
+  ]
+}

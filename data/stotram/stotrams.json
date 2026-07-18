@@ -605,7 +605,7 @@
       "title_sa": "शिवमाहत्म्यम्",
       "title_en": "śivamahimnaḥstotram",
       "description_en": "The shiva mahimna is a Vedic hymn composed by Pushpa Danta, consisting of 42 verses in the Sardulvikridita meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
-      "description_te": "పుష్పదంతుడు రచించిన శివమహిమ్న స్తోత్రం, ఇది 42 శ్లోకాలతో కూడిన వేద స్తోత్రం, ఇది శివభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
+      "description_te": "పుష్పదన్తుడు రచించిన శివమహిమ్న స్తోత్రం, ఇది 42 శ్లోకాలతో కూడిన వేద స్తోత్రం, ఇది శివభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
       "featured": true,
       "theme": "theme-shiva"
     },
@@ -628,6 +628,367 @@
       "description_te": "",
       "featured": true,
       "theme": "theme-pearl"
+    },
+    {
+      "slug": "shiva-manasa-puja",
+      "title_te": "శివమానసపూజా",
+      "title_sa": "शिवमानसपूजा",
+      "title_en": "Śiva Mānasa Pūjā",
+      "tags": [
+        "shiva",
+        "shankaracharya",
+        "puja"
+      ],
+      "featured": true,
+      "theme": "blue"
+    },
+    {
+      "slug": "surya-shatakam",
+      "title_te": "సూర్యశతకమ్",
+      "title_sa": "सूर्यशतकम्",
+      "title_en": "Sūrya Śatakam",
+      "tags": [
+        "surya",
+        "kavya"
+      ],
+      "featured": true,
+      "theme": "gold"
+    },
+    {
+      "slug": "meenakshi-pancha-ratnam",
+      "title_te": "మీనాక్షీపఞ్చరత్నమ్",
+      "title_sa": "मीनाक्षीपञ्चरत्नम्",
+      "title_en": "Mīnākṣī Pañcaratnam",
+      "tags": [
+        "devi",
+        "meenakshi",
+        "5",
+        "shankaracharya",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "rose"
+    },
+    {
+      "slug": "guru-ashtakam",
+      "title_te": "గుర్వష్టకమ్",
+      "title_sa": "गुर्वष्टकम्",
+      "title_en": "Guru Aṣṭakam",
+      "tags": [
+        "guru",
+        "shankaracharya",
+        "ashtakam",
+        "8",
+        "vedanta"
+      ],
+      "featured": true,
+      "theme": "saffron"
+    },
+    {
+      "slug": "ganesha-pancha-ratnam",
+      "title_te": "గణేశపఞ్చరత్నమ్",
+      "title_sa": "गणेशपञ्चरत्नम्",
+      "title_en": "Gaṇeśa Pañcaratnam",
+      "tags": [
+        "ganesha",
+        "5",
+        "shankaracharya"
+      ],
+      "featured": true,
+      "theme": "orange"
+    },
+    {
+      "slug": "ganesha-bhujanga-stotram",
+      "title_te": "గణేశభుజఙ్గస్తోత్రమ్",
+      "title_sa": "गणेशभुजङ्गस्तोत्रम्",
+      "title_en": "Gaṇeśa Bhujaṅga Stotram",
+      "tags": [
+        "ganesha",
+        "shankaracharya"
+      ],
+      "featured": true,
+      "theme": "orange"
+    },
+    {
+      "slug": "maha-lakshmi-ashtakam",
+      "title_te": "మహాలక్ష్మ్యష్టకమ్",
+      "title_sa": "महालक्ष्म्यष्टकम्",
+      "title_en": "Mahālakṣmy Aṣṭakam",
+      "tags": [
+        "lakshmi",
+        "devi",
+        "8",
+        "ashtakam",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "gold"
+    },
+    {
+      "slug": "ashta-lakshmi-stotram",
+      "title_te": "అష్టలక్ష్మీస్తోత్రమ్",
+      "title_sa": "अष्टलक्ष्मीस्तोत्रम्",
+      "title_en": "Aṣṭalakṣmī Stotram",
+      "tags": [
+        "lakshmi",
+        "devi",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "gold"
+    },
+    {
+      "slug": "matru-panchakam",
+      "title_te": "మాతృపఞ్చకమ్",
+      "title_sa": "मातृपञ्चकम्",
+      "title_en": "Mātṛ Pañcakam",
+      "tags": [
+        "shankaracharya",
+        "5",
+        "vedanta"
+      ],
+      "featured": true,
+      "theme": "green"
+    },
+    {
+      "slug": "vishnu-panchayudha-stotram",
+      "title_te": "విష్ణుపఞ్చాయుధస్తోత్రమ్",
+      "title_sa": "विष्णुपञ्चायुधस्तोत्रम्",
+      "title_en": "Viṣṇu Pañcāyudha Stotram",
+      "tags": [
+        "vishnu",
+        "vaishnavism"
+      ],
+      "featured": true,
+      "theme": "indigo"
+    },
+    {
+      "slug": "nirvana-shatkam",
+      "title_te": "నిర్వాణషట్కమ్",
+      "title_sa": "निर्वाणषट्कम्",
+      "title_en": "Nirvāṇa Ṣaṭkam",
+      "tags": [
+        "shankaracharya",
+        "vedanta",
+        "6",
+        "advaita"
+      ],
+      "featured": true,
+      "theme": "blue"
+    },
+    {
+      "slug": "sri-rama-raksha-stotram",
+      "title_te": "శ్రీరామరక్షాస్తోత్రమ్",
+      "title_sa": "श्रीरामरक्षास्तोत्रम्",
+      "title_en": "Śrī Rāma Rakṣā Stotram",
+      "tags": [
+        "rama",
+        "vaishnava",
+        "protection"
+      ],
+      "featured": true,
+      "theme": "green"
+    },
+    {
+      "slug": "subrahmanya-bhujanga-stotram",
+      "title_te": "సుబ్రహ్మణ్యభుజఙ్గస్తోత్రమ్",
+      "title_sa": "सुब्रह्मण्यभुजङ्गस्तोत्रम्",
+      "title_en": "Subrahmaṇya Bhujaṅga Stotram",
+      "tags": [
+        "subrahmanya",
+        "murugan",
+        "shankaracharya"
+      ],
+      "featured": true,
+      "theme": "orange"
+    },
+    {
+      "slug": "ashva-dhati-stotram",
+      "title_te": "అశ్వధాటీస్తోత్రమ్",
+      "title_sa": "अश्वधाटीस्तोत्रम्",
+      "title_en": "Aśvadhāṭī Stotram",
+      "tags": [
+        "vishnu",
+        "venkateswara",
+        "kavya"
+      ],
+      "featured": true,
+      "theme": "indigo"
+    },
+    {
+      "slug": "shivananda-lahari",
+      "title_te": "శివానన్దలహరీ",
+      "title_sa": "शिवानन्दलहरी",
+      "title_en": "Śivānanda Laharī",
+      "tags": [
+        "shiva",
+        "lahari",
+        "shankaracharya"
+      ],
+      "featured": true,
+      "theme": "blue"
+    },
+    {
+      "slug": "bhartruhari-subhashitani",
+      "title_te": "భర్తృహరి సుభాషితాని",
+      "title_sa": "भर्तृहरि सुभाषितानि",
+      "title_en": "Bhartṛhari Subhāṣitāni",
+      "tags": [
+        "subhashitam",
+        "niti",
+        "philosophy",
+        "poetry"
+      ],
+      "featured": true,
+      "theme": "green"
+    },
+    {
+      "slug": "lalita-pancha-ratnam",
+      "title_te": "లలితాపఞ్చరత్నమ్",
+      "title_sa": "ललितापञ्चरत्नम्",
+      "title_en": "Lalitā Pañcaratnam",
+      "tags": [
+        "devi",
+        "lalita",
+        "5",
+        "shankaracharya",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "rose"
+    },
+    {
+      "slug": "devi-aparadha-kshama-stotram",
+      "title_te": "శ్రీదేవ్యపరాధక్షమాపణస్తోత్రమ్",
+      "title_sa": "देवी अपराधक्षमापणस्तोत्रम्",
+      "title_en": "Devī Aparādha Kṣamāpaṇa Stotram",
+      "tags": [
+        "devi",
+        "shankaracharya",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "rose"
+    },
+    {
+      "slug": "ganga-dhyanam",
+      "title_te": "గఙ్గాధ్యానమ్",
+      "title_sa": "गङ्गाध्यानम्",
+      "title_en": "Gaṅgā Dhyānam",
+      "tags": [
+        "ganga",
+        "tirtha",
+        "devi"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "hanuman-dvadasha-nama",
+      "title_te": "హనుమాన్ ద్వాదశనామస్తోత్రమ్",
+      "title_sa": "हनुमान् द्वादशनामस्तोत्रम्",
+      "title_en": "Hanumān Dvādaśa Nāma Stotram",
+      "tags": [
+        "hanuman",
+        "12",
+        "dvadasha-nama"
+      ],
+      "theme": "saffron"
+    },
+    {
+      "slug": "ganesha-shodasha-nama",
+      "title_te": "గణేశషోడశనామస్తోత్రమ్",
+      "title_sa": "गणेशषोडशनामस्तोत्रम्",
+      "title_en": "Gaṇeśa Ṣoḍaśa Nāma Stotram",
+      "tags": [
+        "ganesha",
+        "16",
+        "shodasha-nama"
+      ],
+      "theme": "orange"
+    },
+    {
+      "slug": "dvadasha-jyotirlinga-stotram",
+      "title_te": "ద్వాదశజ్యోతిర్లిఙ్గస్తోత్రమ్",
+      "title_sa": "द्वादशज्योतिर्लिङ्गस्तोत्रम्",
+      "title_en": "Dvādaśa Jyotirliṅga Stotram",
+      "tags": [
+        "shiva",
+        "12",
+        "jyotirlinga",
+        "tirtha"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "shiva-tandava-stotram",
+      "title_te": "శివతాణ్డవస్తోత్రమ్",
+      "title_sa": "शिवताण्डवस्तोत्रम्",
+      "title_en": "Śiva Tāṇḍava Stotram",
+      "tags": [
+        "shiva",
+        "ravana",
+        "kavya"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "linga-ashtakam",
+      "title_te": "లిఙ్గాష్టకమ్",
+      "title_sa": "लिङ्गाष्टकम्",
+      "title_en": "Liṅgāṣṭakam",
+      "tags": [
+        "shiva",
+        "8",
+        "linga"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "bilva-ashtakam",
+      "title_te": "బిల్వాష్టకమ్",
+      "title_sa": "बिल्वाष्टकम्",
+      "title_en": "Bilvāṣṭakam",
+      "tags": [
+        "shiva",
+        "8",
+        "bilva"
+      ],
+      "theme": "green"
+    },
+    {
+      "slug": "shiva-panchakshari-stotram",
+      "title_te": "శివపఞ్చాక్షరీస్తోత్రమ్",
+      "title_sa": "शिवपञ्चाक्षरीस्तोत्रम्",
+      "title_en": "Śiva Pañcākṣarī Stotram",
+      "tags": [
+        "shiva",
+        "shankaracharya",
+        "mantra"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "sankata-nashana-ganesha-stotram",
+      "title_te": "సఙ్కటనాశనగణేశస్తోత్రమ్",
+      "title_sa": "सङ्कटनाशनगणेशस्तोत्रम्",
+      "title_en": "Saṅkaṭa Nāśana Gaṇeśa Stotram",
+      "tags": [
+        "ganesha",
+        "narada"
+      ],
+      "theme": "orange"
+    },
+    {
+      "slug": "dasha-shloki",
+      "title_te": "దశశ్లోకీ",
+      "title_sa": "दशश्लोकी",
+      "title_en": "Daśa Ślokī",
+      "tags": [
+        "shankaracharya",
+        "vedanta",
+        "advaita"
+      ],
+      "theme": "saffron"
     }
   ]
 }
