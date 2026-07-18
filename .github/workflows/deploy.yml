@@ -27,6 +27,13 @@ jobs:
           sed -i "s/const CACHE = 'stotram-v[^']*'/const CACHE = 'stotram-${COMMIT}'/" service-worker.js
           echo "Service worker cache → stotram-${COMMIT}"
 
+      - name: Generate version.json
+        run: |
+          COMMIT=$(git rev-parse --short HEAD)
+          TS=$(date -u '+%d%m%Y%H%M')
+          echo "{\"hash\":\"${COMMIT}\",\"ts\":\"${TS}\"}" > version.json
+          echo "Version → ${COMMIT}.${TS}"
+
       - name: Generate transliterations (Telugu → Devanagari + IAST)
         run: |
           echo "Running transliterator on all data/**/*.txt files..."

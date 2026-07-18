@@ -48,6 +48,7 @@ window.StotramApp = {
     await window.StotramSearch?.init(this.stotramsIndex);
     window.Contact?.init({ scriptUrl: 'https://script.google.com/macros/s/AKfycbxa0hLe7kRV3jhmTdvHNf9P8rVntm8wEAa7Xrz0f51mT8LJwrxRtD2Q0yU-m-UsTUrY3A/exec', siteName: 'samskruti.info' });
     this._initParayanamMode();
+    this._loadVersion();
 
     this.setupInstallPrompt();
 
@@ -958,6 +959,19 @@ window.StotramApp = {
     } catch (e) {
       detail.innerHTML = `<p style="padding:2rem;color:var(--c-text-muted)">⚠️ Could not load verse.</p>`;
     }
+  },
+
+  // ── Site version pill ─────────────────────────────────────────────────────
+
+  async _loadVersion() {
+    const pill = document.getElementById('siteVersionPill');
+    if (!pill) return;
+    try {
+      const res = await fetch('version.json', { cache: 'no-store' });
+      if (!res.ok) return;
+      const { hash, ts } = await res.json();
+      pill.textContent = ts === 'local' ? `${hash}` : `${hash}.${ts}`;
+    } catch { /* silently ignore */ }
   },
 
   // ── PWA install ───────────────────────────────────────────────────────────

@@ -1202,6 +1202,20 @@ body.parayanam-mode .bottom-nav-back { display: none; }
 .contact-status.success { background: #d4edda; color: #155724; }
 .contact-status.error   { background: #f8d7da; color: #721c24; }
 
+.site-version-row { display: flex; align-items: center; gap: 0.6rem; margin-top: 1.25rem; font-size: 0.85rem; color: var(--c-text-muted); flex-wrap: wrap; }
+.version-pill {
+  display: inline-flex; align-items: center;
+  background: var(--c-surface2);
+  border: 1px solid var(--c-border);
+  color: var(--c-accent);
+  border-radius: 999px;
+  padding: 2px 12px;
+  font-size: 0.75rem;
+  font-family: 'Courier New', monospace;
+  letter-spacing: 0.04em;
+  user-select: all;
+}
+
 /* Credits */
 .credits-grid {
   display: grid;
