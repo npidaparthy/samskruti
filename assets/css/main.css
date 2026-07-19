@@ -673,6 +673,94 @@ input[type="color"] {
   line-height: 1;
 }
 
+/* ── HOME PAGE SECTIONS ── */
+.home-section { margin: 1.75rem 0 0.5rem; }
+.home-section-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--c-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.75rem;
+  font-family: var(--font-en);
+}
+
+/* Deity tiles */
+.deity-row {
+  display: flex;
+  gap: 0.6rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  scrollbar-width: none;
+}
+.deity-row::-webkit-scrollbar { display: none; }
+.deity-tile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.75rem 1rem;
+  border-radius: 14px;
+  border: 1.5px solid var(--c-border);
+  background: var(--c-surface);
+  min-width: 72px;
+  flex-shrink: 0;
+  transition: all var(--transition);
+}
+.deity-tile:hover { border-color: var(--c-primary); background: var(--c-surface2); transform: translateY(-2px); }
+.deity-symbol { font-size: 1.6rem; line-height: 1; }
+.deity-name { font-size: 0.72rem; color: var(--c-text-muted); font-family: var(--font-te); white-space: nowrap; }
+
+/* Stat tiles */
+.home-stats {
+  display: flex;
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+}
+.stat-tile {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem 0.5rem;
+  background: var(--c-surface2);
+  border-radius: 14px;
+  gap: 0.2rem;
+}
+.stat-num {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--c-primary);
+  font-family: var(--font-en);
+  line-height: 1;
+}
+.stat-label {
+  font-size: 0.72rem;
+  color: var(--c-text-muted);
+  font-family: var(--font-te);
+  text-align: center;
+}
+
+/* Explore cards */
+.explore-cards { display: flex; flex-direction: column; gap: 0.6rem; }
+.explore-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.9rem 1rem;
+  border-radius: 14px;
+  border: 1.5px solid var(--c-border);
+  background: var(--c-surface);
+  text-align: left;
+  transition: all var(--transition);
+}
+.explore-card:hover { border-color: var(--c-primary); background: var(--c-surface2); }
+.explore-icon { font-size: 1.6rem; flex-shrink: 0; }
+.explore-text { display: flex; flex-direction: column; gap: 0.15rem; flex: 1; }
+.explore-text strong { font-size: 0.95rem; color: var(--c-text); font-family: var(--font-te); }
+.explore-text span { font-size: 0.78rem; color: var(--c-text-muted); }
+.explore-arrow { font-size: 1.1rem; color: var(--c-text-muted); flex-shrink: 0; }
+
 .section-heading {
   margin: 1rem 0 0.75rem;
   display: flex;

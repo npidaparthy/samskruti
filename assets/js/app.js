@@ -322,7 +322,92 @@ window.StotramApp = {
   // ── Home ──────────────────────────────────────────────────────────────────
 
   renderHome() {
-    // Home page intentionally shows only the hero; featured stotrams live in the Stotrams tab.
+    const lang = window.i18n?.lang || 'en';
+    const isTe = lang === 'te';
+
+    const DEITIES = [
+      { tag: 'shiva',   symbol: '🔱', te: 'శివుడు',    en: 'Shiva'    },
+      { tag: 'vishnu',  symbol: '🪷', te: 'విష్ణువు',   en: 'Vishnu'   },
+      { tag: 'devi',    symbol: '✨', te: 'దేవి',       en: 'Devi'     },
+      { tag: 'ganesha', symbol: '🐘', te: 'గణేశుడు',   en: 'Ganesha'  },
+      { tag: 'lakshmi', symbol: '🌸', te: 'లక్ష్మి',    en: 'Lakshmi'  },
+      { tag: 'rama',    symbol: '🏹', te: 'రాముడు',    en: 'Rama'     },
+      { tag: 'hanuman', symbol: '🌟', te: 'హనుమంతుడు', en: 'Hanuman'  },
+      { tag: 'surya',   symbol: '☀️', te: 'సూర్యుడు',   en: 'Surya'    },
+    ];
+
+    const deityRow = document.getElementById('deityRow');
+    if (deityRow) {
+      deityRow.innerHTML = DEITIES.map(d => `
+        <button class="deity-tile" data-tag="${d.tag}" data-nav="stotrams">
+          <span class="deity-symbol">${d.symbol}</span>
+          <span class="deity-name">${isTe ? d.te : d.en}</span>
+        </button>`).join('');
+      deityRow.querySelectorAll('.deity-tile').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const tagChips = document.getElementById('tagChips');
+          if (tagChips) tagChips.dataset.activeTag = btn.dataset.tag;
+          document.querySelector('[data-nav="stotrams"]')?.click();
+          // re-render with that tag active
+          setTimeout(() => this._filterStotrams(btn.dataset.tag), 50);
+        });
+      });
+    }
+
+    const subCount = window._subhashitamIndex?.length || 0;
+    const stotramsCount = this.stotramsIndex?.length || 0;
+    const statsEl = document.getElementById('homeStats');
+    if (statsEl) {
+      const stats = [
+        { num: stotramsCount, te: 'స్తోత్రాలు', en: 'Stotrams' },
+        { num: subCount || '∞', te: 'సుభాషితాలు', en: 'Subhāṣitam' },
+        { num: 3, te: 'లిపులు', en: 'Scripts' },
+      ];
+      statsEl.innerHTML = stats.map(s => `
+        <div class="stat-tile">
+          <span class="stat-num">${s.num}</span>
+          <span class="stat-label">${isTe ? s.te : s.en}</span>
+        </div>`).join('');
+    }
+
+    const exploreEl = document.getElementById('exploreCards');
+    if (exploreEl) {
+      const cards = [
+        {
+          nav: 'subhashitam',
+          icon: '📜',
+          te: 'సుభాషితాలు',   en: 'Subhāṣitam',
+          descTe: 'జ్ఞానంతో నిండిన సంస్కృత సూక్తులు',
+          descEn: 'Timeless Sanskrit wisdom verses',
+        },
+        {
+          nav: 'stotrams', tag: 'shankaracharya',
+          icon: '🕉️',
+          te: 'శంకరాచార్య',  en: 'Shankaracharya',
+          descTe: '15 అద్వైత స్తోత్రాలు',
+          descEn: '15 Advaita stotrams',
+        },
+      ];
+      exploreEl.innerHTML = cards.map(c => `
+        <button class="explore-card" data-nav="${c.nav}"${c.tag ? ` data-tag="${c.tag}"` : ''}>
+          <span class="explore-icon">${c.icon}</span>
+          <div class="explore-text">
+            <strong>${isTe ? c.te : c.en}</strong>
+            <span>${isTe ? c.descTe : c.descEn}</span>
+          </div>
+          <span class="explore-arrow">→</span>
+        </button>`).join('');
+      exploreEl.querySelectorAll('.explore-card').forEach(btn => {
+        btn.addEventListener('click', () => {
+          if (btn.dataset.tag) {
+            const tagChips = document.getElementById('tagChips');
+            if (tagChips) tagChips.dataset.activeTag = btn.dataset.tag;
+          }
+          document.querySelector(`[data-nav="${btn.dataset.nav}"]`)?.click();
+          if (btn.dataset.tag) setTimeout(() => this._filterStotrams(btn.dataset.tag), 50);
+        });
+      });
+    }
   },
 
   // ── Stotrams list ─────────────────────────────────────────────────────────
