@@ -213,7 +213,7 @@ window.StotramApp = {
     } catch (e) {
       console.error('loadIndex failed:', e);
       this.stotramsIndex = [];
-      document.getElementById('featuredGrid').innerHTML =
+      document.getElementById('stotramsGrid').innerHTML =
         `<p style="color:var(--c-text-muted);grid-column:1/-1;padding:2rem">
           ⚠️ Could not load <code>${DATA_STOTRAMS_INDEX}</code>.<br>
           Check the file exists and GitHub Pages is deployed.
@@ -322,12 +322,7 @@ window.StotramApp = {
   // ── Home ──────────────────────────────────────────────────────────────────
 
   renderHome() {
-    const grid = document.getElementById('featuredGrid');
-    if (!grid) return;
-    const featured = this.stotramsIndex.filter(s => s.featured);
-    grid.innerHTML = featured.length
-      ? featured.map(s => this.buildCard(s)).join('')
-      : `<p style="color:var(--c-text-muted);grid-column:1/-1">${window.i18n?.t('err_no_stotrams')}</p>`;
+    // Home page intentionally shows only the hero; featured stotrams live in the Stotrams tab.
   },
 
   // ── Stotrams list ─────────────────────────────────────────────────────────
@@ -340,43 +335,69 @@ window.StotramApp = {
     const chips = document.getElementById('tagChips');
     if (chips) {
       const activeTag = chips.dataset.activeTag || 'all';
-      const dropdownLabel = activeTag !== 'all' ? `${activeTag} ▴` : `Tags ▾`;
+      const tagLabel = activeTag === 'all' || activeTag === '__featured__'
+        ? (window.i18n?.lang === 'te' ? 'ట్యాగ్ ▾' : 'Tags ▾')
+        : `${activeTag} ▴`;
+
       chips.innerHTML = `
         <button class="tag-chip${activeTag === 'all' ? ' active' : ''}" data-tag="all">
           ${window.i18n?.t('tag_all') || 'All'}
         </button>
-        <div class="sub-topics-wrap">
-          <button class="sub-topics-btn${activeTag !== 'all' ? ' active' : ''}" id="stotramTagBtn">${this._esc(dropdownLabel)}</button>
-          <div class="sub-topics-dropdown hidden" id="stotramTagDropdown">
-            ${tagList.map(tag =>
-              `<button class="sub-tag-chip${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">${this._esc(tag)}</button>`
-            ).join('')}
+        <button class="tag-chip tag-chip-featured${activeTag === '__featured__' ? ' active' : ''}" data-tag="__featured__">
+          ★ ${window.i18n?.lang === 'te' ? 'ముఖ్యమైనవి' : 'Featured'}
+        </button>
+        <div class="tag-dropdown-wrap">
+          <button class="tag-chip tag-dropdown-btn${activeTag !== 'all' && activeTag !== '__featured__' ? ' active' : ''}" id="tagDropdownBtn">${this._esc(tagLabel)}</button>
+          <div class="tag-dropdown-panel hidden" id="tagDropdownPanel">
+            <input class="tag-search-input" id="tagSearchInput" type="search" placeholder="${window.i18n?.lang === 'te' ? 'ట్యాగ్ వెతకండి…' : 'Search tags…'}" autocomplete="off">
+            <div class="tag-dropdown-chips" id="tagDropdownChips">
+              ${tagList.map(tag =>
+                `<button class="tag-chip tag-chip-sm${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">${this._esc(tag)}</button>`
+              ).join('')}
+            </div>
           </div>
         </div>`;
 
-      // All chip
+      // All / Featured chips
       chips.querySelector('[data-tag="all"]').addEventListener('click', () => {
         chips.dataset.activeTag = 'all';
         this.renderStotramsList();
-        this._filterStotrams('all');
+      });
+      chips.querySelector('[data-tag="__featured__"]').addEventListener('click', () => {
+        chips.dataset.activeTag = '__featured__';
+        this.renderStotramsList();
       });
 
       // Dropdown toggle
-      const btn = chips.querySelector('#stotramTagBtn');
-      const dropdown = chips.querySelector('#stotramTagDropdown');
-      btn.addEventListener('click', e => { e.stopPropagation(); dropdown.classList.toggle('hidden'); });
-      document.addEventListener('click', () => dropdown.classList.add('hidden'), { once: true });
+      const dropBtn = chips.querySelector('#tagDropdownBtn');
+      const panel = chips.querySelector('#tagDropdownPanel');
+      dropBtn.addEventListener('click', e => {
+        e.stopPropagation();
+        panel.classList.toggle('hidden');
+        if (!panel.classList.contains('hidden')) chips.querySelector('#tagSearchInput')?.focus();
+      });
+      document.addEventListener('click', e => {
+        if (!chips.contains(e.target)) panel.classList.add('hidden');
+      });
 
-      // Tag selection
-      dropdown.addEventListener('click', e => {
+      // Tag selection inside dropdown
+      chips.querySelector('#tagDropdownChips').addEventListener('click', e => {
         const chip = e.target.closest('[data-tag]');
         if (!chip) return;
         chips.dataset.activeTag = chip.dataset.tag;
-        dropdown.classList.add('hidden');
+        panel.classList.add('hidden');
         this.renderStotramsList();
-        this._filterStotrams(chip.dataset.tag);
+      });
+
+      // Search within dropdown
+      chips.querySelector('#tagSearchInput').addEventListener('input', e => {
+        const q = e.target.value.trim().toLowerCase();
+        chips.querySelectorAll('#tagDropdownChips .tag-chip').forEach(c => {
+          c.style.display = (!q || c.dataset.tag.toLowerCase().includes(q)) ? '' : 'none';
+        });
       });
     }
+
     this._filterStotrams(chips?.dataset.activeTag || 'all');
   },
 
@@ -385,7 +406,9 @@ window.StotramApp = {
     if (!grid) return;
     const list = tag === 'all'
       ? this.stotramsIndex
-      : this.stotramsIndex.filter(s => (s.tags || []).includes(tag));
+      : tag === '__featured__'
+        ? this.stotramsIndex.filter(s => s.featured)
+        : this.stotramsIndex.filter(s => (s.tags || []).includes(tag));
     grid.innerHTML = list.map(s => this.buildCard(s)).join('');
   },
 

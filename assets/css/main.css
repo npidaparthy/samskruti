@@ -752,7 +752,7 @@ input[type="color"] {
 @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
 /* ── TAG FILTER ── */
-.tag-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.75rem; }
+.tag-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; }
 .tag-chip {
   font-size: 0.8rem;
   padding: 0.3rem 0.8rem;
@@ -761,9 +761,54 @@ input[type="color"] {
   color: var(--c-text-muted);
   background: var(--c-surface);
   transition: all var(--transition);
+  white-space: nowrap;
 }
 .tag-chip:hover { border-color: var(--c-primary); color: var(--c-primary); }
 .tag-chip.active { background: var(--c-primary); border-color: var(--c-primary); color: #fff; }
+.tag-chip-featured { border-color: var(--c-accent, #c9a227); color: var(--c-accent, #c9a227); }
+.tag-chip-featured.active { background: var(--c-accent, #c9a227); border-color: var(--c-accent, #c9a227); color: #fff; }
+.tag-chip-featured:hover { background: var(--c-accent, #c9a227); border-color: var(--c-accent, #c9a227); color: #fff; }
+
+/* Tag dropdown */
+.tag-dropdown-wrap { position: relative; }
+.tag-dropdown-btn.active { background: var(--c-surface2); border-color: var(--c-primary); color: var(--c-primary); }
+.tag-dropdown-panel {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  z-index: 200;
+  background: var(--c-surface);
+  border: 1.5px solid var(--c-border);
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  padding: 0.6rem;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.tag-dropdown-panel.hidden { display: none; }
+.tag-search-input {
+  width: 100%;
+  padding: 0.35rem 0.75rem;
+  border-radius: 20px;
+  border: 1.5px solid var(--c-border);
+  background: var(--c-surface2);
+  color: var(--c-text);
+  font-size: 0.82rem;
+  outline: none;
+  transition: border-color var(--transition);
+  box-sizing: border-box;
+}
+.tag-search-input:focus { border-color: var(--c-primary); }
+.tag-dropdown-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  max-height: 220px;
+  overflow-y: auto;
+}
+.tag-chip-sm { font-size: 0.75rem; padding: 0.2rem 0.65rem; }
 
 /* ── READER ── */
 .reader-header {
