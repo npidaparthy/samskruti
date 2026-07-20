@@ -33,112 +33,112 @@
     "chapters": [
         {
             "id": "chapter-1",
-            "title_te": "అధ్యాయం ౧",
-            "title_sa": "अध्यायः १",
+            "title_te": "అధ్యాయం ౧ - మధ్యమాధికారః",
+            "title_sa": "अध्यायः १ - मध्यमाधिकारः",
             "title_en": "Ch.1 — Mean Motion of Planets",
             "file": "chapter-1/surya-siddhanta_chapter-1.txt",
             "shlokas": 70
         },
         {
             "id": "chapter-2",
-            "title_te": "అధ్యాయం ౨",
-            "title_sa": "अध्यायः २",
+            "title_te": "అధ్యాయం ౨ - స్పష్టాధికారః",
+            "title_sa": "अध्यायः २ - स्पष्टाधिकारः",
             "title_en": "Ch.2 — True Motion of Planets",
             "file": "chapter-2/surya-siddhanta_chapter-2.txt",
             "shlokas": 57
         },
         {
             "id": "chapter-3",
-            "title_te": "అధ్యాయం ౩",
-            "title_sa": "अध्यायः ३",
+            "title_te": "అధ్యాయం ౩ - త్రిప్రశ్నాధికారః",
+            "title_sa": "अध्यायः ३ - त्रिप्रश्नाधिकारः",
             "title_en": "Ch.3 — Direction, Place and Time",
             "file": "chapter-3/surya-siddhanta_chapter-3.txt",
             "shlokas": 66
         },
         {
             "id": "chapter-4",
-            "title_te": "అధ్యాయం ౪",
-            "title_sa": "अध्यायः ४",
+            "title_te": "అధ్యాయం ౪ - చన్ద్రగ్రహణాధికారః",
+            "title_sa": "अध्यायः ४ - चन्द्रग्रहणाधिकारः",
             "title_en": "Ch.4 — Lunar Eclipse",
             "file": "chapter-4/surya-siddhanta_chapter-4.txt",
             "shlokas": 25
         },
         {
             "id": "chapter-5",
-            "title_te": "అధ్యాయం ౫",
-            "title_sa": "अध्यायः ५",
+            "title_te": "అధ్యాయం ౫ - సూర్యగ్రహణాధికారః",
+            "title_sa": "अध्यायः ५ - सूर्यग्रहणाधिकारः",
             "title_en": "Ch.5 — Solar Eclipse",
             "file": "chapter-5/surya-siddhanta_chapter-5.txt",
             "shlokas": 18
         },
         {
             "id": "chapter-6",
-            "title_te": "అధ్యాయం ౬",
-            "title_sa": "अध्यायः ६",
+            "title_te": "అధ్యాయం ౬ - ఛేద్యకాధికారః",
+            "title_sa": "अध्यायः ६ - छेद्यकाधिकारः",
             "title_en": "Ch.6 — Projection of Eclipses",
             "file": "chapter-6/surya-siddhanta_chapter-6.txt",
             "shlokas": 24
         },
         {
             "id": "chapter-7",
-            "title_te": "అధ్యాయం ౭",
-            "title_sa": "अध्यायः ७",
+            "title_te": "అధ్యాయం ౭ - గ్రహయుత్యధికారః",
+            "title_sa": "अध्यायः ७ - ग्रहयुत्यधिकारः",
             "title_en": "Ch.7 — Planetary Conjunctions",
             "file": "chapter-7/surya-siddhanta_chapter-7.txt",
             "shlokas": 20
         },
         {
             "id": "chapter-8",
-            "title_te": "అధ్యాయం ౮",
-            "title_sa": "अध्यायः ८",
+            "title_te": "అధ్యాయం ౮ - నక్షత్రగ్రహయుత్యధికారః",
+            "title_sa": "अध्यायः ८ - नक्षत्रग्रहयुत्यधिकारः",
             "title_en": "Ch.8 — Stars",
             "file": "chapter-8/surya-siddhanta_chapter-8.txt",
             "shlokas": 23
         },
         {
             "id": "chapter-9",
-            "title_te": "అధ్యాయం ౯",
-            "title_sa": "अध्यायः ९",
+            "title_te": "అధ్యాయం ౯ - ఉదయాస్తాధికారః",
+            "title_sa": "अध्यायः ९ - उदयास्ताधिकारः",
             "title_en": "Ch.9 — Risings and Settings",
             "file": "chapter-9/surya-siddhanta_chapter-9.txt",
             "shlokas": 19
         },
         {
             "id": "chapter-10",
-            "title_te": "అధ్యాయం ౧౦",
-            "title_sa": "अध्यायः १०",
+            "title_te": "అధ్యాయం ౧౦ - శృఙ్గోన్నత్యధికారః",
+            "title_sa": "अध्यायः १० - श्रृङ्गोन्नत्यधिकारः",
             "title_en": "Ch.10 — Moon's Crescent",
             "file": "chapter-10/surya-siddhanta_chapter-10.txt",
             "shlokas": 14
         },
         {
             "id": "chapter-11",
-            "title_te": "అధ్యాయం ౧౧",
-            "title_sa": "अध्यायः ११",
+            "title_te": "అధ్యాయం ౧౧ - పాతాధికారః",
+            "title_sa": "अध्यायः ११ - पाताधिकारः",
             "title_en": "Ch.11 — Gnomonic Shadow",
             "file": "chapter-11/surya-siddhanta_chapter-11.txt",
             "shlokas": 20
         },
         {
             "id": "chapter-12",
-            "title_te": "అధ్యాయం ౧౨",
-            "title_sa": "अध्यायः १२",
+            "title_te": "అధ్యాయం ౧౨ - భూగోలాధ్యాయః",
+            "title_sa": "अध्यायः १२ - भूगोलाध्यायः",
             "title_en": "Ch.12 — Cosmography",
             "file": "chapter-12/surya-siddhanta_chapter-12.txt",
             "shlokas": 86
         },
         {
             "id": "chapter-13",
-            "title_te": "అధ్యాయం ౧౩",
-            "title_sa": "अध्यायः १३",
+            "title_te": "అధ్యాయం ౧౩ - జ్యౌతిషోపనిషదధ్యాయః",
+            "title_sa": "अध्यायः १३ - ज्यौतिषोपनिषदध्यायः",
             "title_en": "Ch.13 — Armillary Sphere",
             "file": "chapter-13/surya-siddhanta_chapter-13.txt",
             "shlokas": 58
         },
         {
             "id": "chapter-14",
-            "title_te": "అధ్యాయం ౧౪",
-            "title_sa": "अध्यायः १४",
+            "title_te": "అధ్యాయం ౧౪ - మానాధ్యాయః",
+            "title_sa": "अध्यायः १४ - मानाध्यायः",
             "title_en": "Ch.14 — Astronomical Instruments",
             "file": "chapter-14/surya-siddhanta_chapter-14.txt",
             "shlokas": 21
