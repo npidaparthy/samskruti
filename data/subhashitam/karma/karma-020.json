@@ -1,0 +1,31 @@
+{
+  "id": "karma-020",
+  "tags": ["karma", "gita", "samatva"],
+  "shlokam": {
+    "te": "సుఖదుఃఖే సమే కృత్వా లాభాలాభౌ జయాజయౌ ।\nతతో యుద్ధాయ యుజ్యస్వ నైవం పాపమవాప్స్యసి ॥",
+    "sa": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ ।\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥",
+    "iast": "sukhaduḥkhe same kṛtvā lābhālābhau jayājayau |\ntato yuddhāya yujyasva naivaṃ pāpam avāpsyasi ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
+    "chapter": "2.38"
+  },
+  "padavibhagam": {
+    "te": "సుఖదుఃఖే | సమే | కృత్వా | లాభాలాభౌ | జయాజయౌ | తతః | యుద్ధాయ | యుజ్యస్వ | న | ఏవమ్ | పాపమ్ | అవాప్స్యసి",
+    "en": "sukhaduḥkhe | same | kṛtvā | lābhālābhau | jayājayau | tataḥ | yuddhāya | yujyasva | na | evam | pāpam | avāpsyasi"
+  },
+  "anvayam": {
+    "te": "సుఖదుఃఖే, లాభాలాభౌ, జయాజయౌ సమే కృత్వా, తతః యుద్ధాయ యుజ్యస్వ; ఏవం పాపం న అవాప్స్యసి.",
+    "en": "Sukhaduḥkhe (pleasure and pain), lābhālābhau (gain and loss), jayājayau (victory and defeat) same kṛtvā (holding as equal), tataḥ yuddhāya yujyasva (then gird yourself for battle); evaṃ pāpaṃ na avāpsyasi (thus you will incur no sin)."
+  },
+  "meaning": {
+    "te": "సుఖదుఃఖాలను, లాభనష్టాలను, జయాపజయాలను సమానంగా భావించి యుద్ధానికి సన్నద్ధుడవు కా — ఇలా చేస్తే నీకు పాపం అంటదు.",
+    "en": "Holding pleasure and pain, gain and loss, victory and defeat as the same, gird yourself for the battle — thus you will incur no sin."
+  },
+  "tatparyam": {
+    "te": "మూడు జతల ద్వంద్వాలు — సుఖదుఃఖాలు, లాభనష్టాలు, జయాపజయాలు — వీటిని సమం చేసుకున్నాక పోరాడమన్నది క్రమం గమనించదగినది: ముందు సమత్వం, తరువాత కార్యాచరణ. ఫలితాల లెక్కల నుండి విడుదలైన మనసుతో చేసిన కర్మ ఎంత ఘోరమైనదైనా బంధించదన్నది ఇక్కడి సూక్ష్మం. కర్తవ్యం నిర్ణయమయ్యాక ఫలితభయంతో వెనుకాడటమే అసలైన పాపమని, సమబుద్ధితో రంగంలోకి దిగడమే పుణ్యమని — ప్రతి కార్యసాధకుడూ గుర్తుంచుకోవలసిన యుద్ధసూత్రం.",
+    "en": "Note the order in the three balanced pairs — pleasure-pain, gain-loss, victory-defeat: first the equanimity, then the engagement. Action performed by a mind released from the arithmetic of outcomes does not bind, however fierce the action. Once duty is clear, shrinking back out of fear of results is the real sin; entering the field with an even mind is the merit — a battle-rule for everyone with hard work before them."
+  }
+}

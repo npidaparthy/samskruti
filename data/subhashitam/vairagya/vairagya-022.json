@@ -1,0 +1,31 @@
+{
+  "id": "vairagya-022",
+  "tags": ["vairagya", "sadhana", "bhakti"],
+  "shlokam": {
+    "te": "గేయం గీతానామసహస్రం\nధ్యేయం శ్రీపతిరూపమజస్రమ్ ।\nనేయం సజ్జనసంగే చిత్తం\nదేయం దీనజనాయ చ విత్తమ్ ॥",
+    "sa": "गेयं गीतानामसहस्रं\nध्येयं श्रीपतिरूपमजस्रम् ।\nनेयं सज्जनसङ्गे चित्तं\nदेयं दीनजनाय च वित्तम् ॥",
+    "iast": "geyaṃ gītānāmasahasraṃ\ndhyeyaṃ śrīpatirūpam ajasram |\nneyaṃ sajjanasaṅge cittaṃ\ndeyaṃ dīnajanāya ca vittam ||"
+  },
+  "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
+  "granthaH": {
+    "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
+    "name_en": "Bhaja Govindam (Adi Shankaracharya)",
+    "chapter": "verse 27"
+  },
+  "padavibhagam": {
+    "te": "గేయమ్ | గీతా | నామసహస్రమ్ | ధ్యేయమ్ | శ్రీపతిరూపమ్ | అజస్రమ్ | నేయమ్ | సజ్జనసంగే | చిత్తమ్ | దేయమ్ | దీనజనాయ | చ | విత్తమ్",
+    "en": "geyam | gītā | nāmasahasram | dhyeyam | śrīpatirūpam | ajasram | neyam | sajjanasaṅge | cittam | deyam | dīnajanāya | ca | vittam"
+  },
+  "anvayam": {
+    "te": "గీతా నామసహస్రం (చ) గేయమ్; శ్రీపతిరూపమ్ అజస్రం ధ్యేయమ్; చిత్తం సజ్జనసంగే నేయమ్; విత్తం చ దీనజనాయ దేయమ్.",
+    "en": "Gītā nāmasahasram geyam (the Gita and the thousand names are to be sung); śrīpatirūpam ajasram dhyeyam (the form of the Lord of Lakshmi is to be meditated on ceaselessly); cittaṃ sajjanasaṅge neyam (the mind is to be led into the company of the good); vittaṃ ca dīnajanāya deyam (and wealth is to be given to the needy)."
+  },
+  "meaning": {
+    "te": "గీతను, విష్ణుసహస్రనామాన్ని గానం చేయాలి; శ్రీపతి రూపాన్ని ఎడతెగక ధ్యానించాలి; చిత్తాన్ని సజ్జనుల సాంగత్యంలోకి నడిపించాలి; ధనాన్ని దీనజనులకు ఇవ్వాలి.",
+    "en": "Sing the Gita and the thousand names; meditate ceaselessly on the form of the Lord; lead the mind into the company of the good; and give wealth to those in need."
+  },
+  "tatparyam": {
+    "te": "వైరాగ్యాన్ని బోధించిన శంకరులే ఇక్కడ దానికి ఆచరణరూపం ఇస్తున్నారు — నాలుగు 'యం' కారాలతో నాలుగు నిత్యకర్తవ్యాలు. వాక్కుకు గానం, బుద్ధికి ధ్యానం, చిత్తానికి సత్సంగం, ధనానికి దానం — ఇలా జీవితంలోని ప్రతి శక్తికీ ఒక సన్మార్గం చూపడం ఈ శ్లోక సౌందర్యం. వైరాగ్యం అంటే అన్నీ వదిలేయడం కాదు; ప్రతిదాన్నీ ఉత్తమమైన దిశలో ప్రవహింపజేయడం అన్నది ఇక్కడి నిర్వచనం.",
+    "en": "Having taught detachment, Shankara here gives it working form — four duties in four rhyming clauses. Song for the voice, meditation for the intellect, good company for the mind, charity for wealth: every faculty of life is given its noblest channel. Renunciation, by this definition, is not abandoning everything but directing everything toward its highest use."
+  }
+}

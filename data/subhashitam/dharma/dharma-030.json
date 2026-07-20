@@ -1,0 +1,31 @@
+{
+  "id": "dharma-030",
+  "tags": ["dharma", "sthairya", "nitya"],
+  "shlokam": {
+    "te": "న జాతు కామాన్న భయాన్న లోభాద్\nధర్మం త్యజేజ్జీవితస్యాపి హేతోః ।\nనిత్యో ధర్మః సుఖదుఃఖే త్వనిత్యే\nజీవో నిత్యో హేతురస్య త్వనిత్యః ॥",
+    "sa": "न जातु कामान्न भयान्न लोभाद्\nधर्मं त्यजेज्जीवितस्यापि हेतोः ।\nनित्यो धर्मः सुखदुःखे त्वनित्ये\nजीवो नित्यो हेतुरस्य त्वनित्यः ॥",
+    "iast": "na jātu kāmān na bhayān na lobhād\ndharmaṃ tyajej jīvitasyāpi hetoḥ |\nnityo dharmaḥ sukhaduḥkhe tv anitye\njīvo nityo hetur asya tv anityaḥ ||"
+  },
+  "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మహాభారతము (స్వర్గారోహణపర్వము)",
+    "name_en": "Mahabharata (Svargarohana Parva)",
+    "chapter": "18.5.50"
+  },
+  "padavibhagam": {
+    "te": "న | జాతు | కామాత్ | న | భయాత్ | న | లోభాత్ | ధర్మమ్ | త్యజేత్ | జీవితస్య | అపి | హేతోః | నిత్యః | ధర్మః | సుఖదుఃఖే | తు | అనిత్యే | జీవః | నిత్యః | హేతుః | అస్య | తు | అనిత్యః",
+    "en": "na | jātu | kāmāt | na | bhayāt | na | lobhāt | dharmam | tyajet | jīvitasya | api | hetoḥ | nityaḥ | dharmaḥ | sukhaduḥkhe | tu | anitye | jīvaḥ | nityaḥ | hetuḥ | asya | tu | anityaḥ"
+  },
+  "anvayam": {
+    "te": "కామాత్ న, భయాత్ న, లోభాత్ న, జీవితస్య హేతోః అపి — జాతు ధర్మం న త్యజేత్; ధర్మః నిత్యః; సుఖదుఃఖే తు అనిత్యే; జీవః నిత్యః; అస్య హేతుః (దేహః) తు అనిత్యః.",
+    "en": "Kāmāt na (not from desire), bhayāt na (not from fear), lobhāt na (not from greed), jīvitasya hetoḥ api (not even for life itself) — jātu dharmaṃ na tyajet (should one ever abandon dharma); dharmaḥ nityaḥ (dharma is eternal); sukhaduḥkhe tu anitye (joy and sorrow are fleeting); jīvaḥ nityaḥ (the soul is eternal); asya hetuḥ tu anityaḥ (its embodiment is fleeting)."
+  },
+  "meaning": {
+    "te": "కోరిక వల్లగానీ, భయం వల్లగానీ, లోభం వల్లగానీ — చివరకు ప్రాణం కోసమైనా సరే — ధర్మాన్ని ఎన్నడూ విడువకూడదు. ధర్మం నిత్యం; సుఖదుఃఖాలు అనిత్యాలు. జీవుడు నిత్యుడు; అతని దేహం అనిత్యం.",
+    "en": "Never abandon dharma — not for desire, not from fear, not out of greed, not even to save one's life. Dharma is eternal; joy and sorrow are passing. The soul is eternal; its bodily dwelling is passing."
+  },
+  "tatparyam": {
+    "te": "మహాభారతపు చిట్టచివరి ఉపదేశాలలో ఒకటి — ధర్మత్యాగానికి మనుషులు చూపే మూడు కారణాలను (కామం, భయం, లోభం) పేర్కొని, మూడింటినీ నిరాకరిస్తుంది. ఎందుకంటే బేరీజు స్పష్టం: విడిచేది నిత్యమైనది, దక్కించుకునేది అనిత్యమైనది. క్షణికమైన సుఖం కోసమో ప్రాణభయం కోసమో శాశ్వతమైన ధర్మాన్ని అమ్ముకోవడం లాభసాటి వ్యాపారం కాదన్నది వ్యాసుని తుది మాట.",
+    "en": "Among the Mahabharata's final teachings, this verse names the three usual reasons people forsake dharma — desire, fear, greed — and rejects all three. The arithmetic is plain: what is abandoned is eternal; what is gained is fleeting. To trade everlasting dharma for a moment's pleasure or the fear of death is, in Vyasa's closing judgment, simply a bad bargain."
+  }
+}

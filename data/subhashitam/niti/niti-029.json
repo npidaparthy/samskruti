@@ -1,0 +1,31 @@
+{
+  "id": "niti-029",
+  "tags": ["niti", "vidya", "vidyarthi"],
+  "shlokam": {
+    "te": "కాకచేష్టా బకోధ్యానం శ్వాననిద్రా తథైవ చ ।\nఅల్పాహారీ గృహత్యాగీ విద్యార్థీ పంచలక్షణమ్ ॥",
+    "sa": "काकचेष्टा बकोध्यानं श्वाननिद्रा तथैव च ।\nअल्पाहारी गृहत्यागी विद्यार्थी पञ्चलक्षणम् ॥",
+    "iast": "kākaceṣṭā bakodhyānaṃ śvānanidrā tathaiva ca |\nalpāhārī gṛhatyāgī vidyārthī pañcalakṣaṇam ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "attributed maxim"
+  },
+  "padavibhagam": {
+    "te": "కాకచేష్టా | బకోధ్యానమ్ | శ్వాననిద్రా | తథా | ఏవ | చ | అల్పాహారీ | గృహత్యాగీ | విద్యార్థీ | పంచలక్షణమ్",
+    "en": "kākaceṣṭā | bakodhyānam | śvānanidrā | tathā | eva | ca | alpāhārī | gṛhatyāgī | vidyārthī | pañcalakṣaṇam"
+  },
+  "anvayam": {
+    "te": "కాకచేష్టా, బకోధ్యానం, తథైవ చ శ్వాననిద్రా, అల్పాహారీ, గృహత్యాగీ — (ఇతి) విద్యార్థీ పంచలక్షణమ్.",
+    "en": "Kākaceṣṭā (the alertness of a crow), bakodhyānam (the concentration of a crane), śvānanidrā (the light sleep of a dog), alpāhārī (moderate in food), gṛhatyāgī (willing to leave home) — these are the pañcalakṣaṇam (five marks) of a vidyārthī (true student)."
+  },
+  "meaning": {
+    "te": "కాకి వంటి చురుకుదనం, కొంగ వంటి ఏకాగ్రత, కుక్క వంటి మెలకువ నిద్ర, మితాహారం, ఇంటిపై మమకారం విడువగలగడం — ఇవి విద్యార్థి అయిదు లక్షణాలు.",
+    "en": "The alertness of a crow, the single-pointed focus of a crane, the light sleep of a dog, moderation in food, and readiness to leave the comfort of home — these are the five marks of a true student."
+  },
+  "tatparyam": {
+    "te": "చాణక్యుడు విద్యార్జనను ఒక తపస్సుగా చిత్రించాడు. కాకి ప్రతి అవకాశాన్నీ గమనిస్తుంది; కొంగ చేపపైనే దృష్టి నిలిపినట్లు లక్ష్యంపై ఏకాగ్రత ఉండాలి; కుక్కలా చిన్న అలికిడికే మేల్కొనే జాగరూకత కావాలి; అతి భోజనం బద్ధకాన్ని పెంచుతుంది; సుఖాల మోహం విడువనిదే కొత్తది నేర్వలేము. ఈ ఐదూ నేటి విద్యార్థులకూ, ఏ రంగంలోనైనా నైపుణ్యం సాధించాలనుకునేవారికీ వర్తించే సూత్రాలు.",
+    "en": "Chanakya paints learning as a discipline akin to tapas. The crow misses no opportunity; the crane fixes its gaze on the fish alone — such must be the student's focus; the dog wakes at the faintest sound — such must be their alertness; heavy eating breeds sloth; and without letting go of comforts, nothing new is learned. These five apply as much to any modern learner or craftsman as to the ancient student."
+  }
+}

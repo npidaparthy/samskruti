@@ -1,0 +1,31 @@
+{
+  "id": "vairagya-017",
+  "tags": ["vairagya", "santosha", "trishna"],
+  "shlokam": {
+    "te": "వయమిహ పరితుష్టా వల్కలైస్త్వం చ లక్ష్మ్యా\nసమ ఇహ పరితోషో నిర్విశేషో విశేషః ।\nస తు భవతు దరిద్రో యస్య తృష్ణా విశాలా\nమనసి చ పరితుష్టే కోఽర్థవాన్ కో దరిద్రః ॥",
+    "sa": "वयमिह परितुष्टा वल्कलैस्त्वं च लक्ष्म्या\nसम इह परितोषो निर्विशेषो विशेषः ।\nस तु भवतु दरिद्रो यस्य तृष्णा विशाला\nमनसि च परितुष्टे कोऽर्थवान् को दरिद्रः ॥",
+    "iast": "vayam iha parituṣṭā valkalais tvaṃ ca lakṣmyā\nsama iha paritoṣo nirviśeṣo viśeṣaḥ |\nsa tu bhavatu daridro yasya tṛṣṇā viśālā\nmanasi ca parituṣṭe ko'rthavān ko daridraḥ ||"
+  },
+  "chandaH": "మాలినీ (Mālinī) — 15 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "భర్తృహరి వైరాగ్యశతకము",
+    "name_en": "Bhartrhari's Vairagya Shataka",
+    "chapter": "verse 53"
+  },
+  "padavibhagam": {
+    "te": "వయమ్ | ఇహ | పరితుష్టాః | వల్కలైః | త్వమ్ | చ | లక్ష్మ్యా | సమః | ఇహ | పరితోషః | నిర్విశేషః | విశేషః | సః | తు | భవతు | దరిద్రః | యస్య | తృష్ణా | విశాలా | మనసి | చ | పరితుష్టే | కః | అర్థవాన్ | కః | దరిద్రః",
+    "en": "vayam | iha | parituṣṭāḥ | valkalaiḥ | tvam | ca | lakṣmyā | samaḥ | iha | paritoṣaḥ | nirviśeṣaḥ | viśeṣaḥ | saḥ | tu | bhavatu | daridraḥ | yasya | tṛṣṇā | viśālā | manasi | ca | parituṣṭe | kaḥ | arthavān | kaḥ | daridraḥ"
+  },
+  "anvayam": {
+    "te": "వయమ్ ఇహ వల్కలైః పరితుష్టాః; త్వం చ లక్ష్మ్యా (పరితుష్టః); ఇహ పరితోషః సమః — విశేషః నిర్విశేషః; యస్య తృష్ణా విశాలా, సః తు దరిద్రః భవతు; మనసి పరితుష్టే చ — కః అర్థవాన్? కః దరిద్రః?",
+    "en": "Vayam iha valkalaiḥ parituṣṭāḥ (we here are content with bark garments); tvaṃ ca lakṣmyā (and you with royal wealth); iha paritoṣaḥ samaḥ (the contentment is the same) — viśeṣaḥ nirviśeṣaḥ (the difference is no difference); saḥ tu daridraḥ bhavatu (let him be called poor) yasya tṛṣṇā viśālā (whose craving is vast); manasi ca parituṣṭe (when the mind is content) — kaḥ arthavān kaḥ daridraḥ (who is rich, who is poor)?"
+  },
+  "meaning": {
+    "te": "మేము నారచీరలతో తృప్తి పడ్డాము; నీవు సంపదతో తృప్తి పడ్డావు. తృప్తి ఇద్దరిదీ సమానమే — తేడా ఏమీ లేదు. ఎవడి తృష్ణ విశాలమో వాడే దరిద్రుడు. మనసు తృప్తిగా ఉన్నప్పుడు ధనవంతుడెవడు? దరిద్రుడెవడు?",
+    "en": "We are content in bark garments; you are content in royal riches. The contentment is the same — the difference is no difference. Poor is he whose craving is vast. When the mind is content, who is rich and who is poor?"
+  },
+  "tatparyam": {
+    "te": "ఒక రాజుకు సన్యాసి ఇచ్చిన సమాధానంగా చెప్పబడే ఈ శ్లోకం సంపద కొలమానాన్నే మార్చేస్తుంది. ధనవంతుడెవరో నిర్ణయించేది బ్యాంకు ఖాతా కాదు — తృష్ణకూ తృప్తికీ మధ్య ఉన్న దూరం. కోట్లున్నా ఇంకా కావాలనుకునేవాడు దరిద్రుడే; ఉన్నదానితో నిండుగా ఉన్నవాడు నారచీరలోనూ చక్రవర్తే. సంతోషం సంపాదనలో లేదు, సంతృప్తిలో ఉంది అన్నది భర్తృహరి తేల్చిన లెక్క.",
+    "en": "Framed as an ascetic's reply to a king, this verse redefines the measure of wealth. What decides who is rich is not the treasury but the distance between craving and contentment. The man with millions who still wants more is a pauper; the man complete with what he has is an emperor in bark cloth. Happiness lies not in acquisition but in sufficiency — Bhartrhari's final arithmetic."
+  }
+}

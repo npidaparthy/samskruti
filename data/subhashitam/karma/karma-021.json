@@ -1,0 +1,31 @@
+{
+  "id": "karma-021",
+  "tags": ["karma", "gita", "jnana"],
+  "shlokam": {
+    "te": "కర్మణ్యకర్మ యః పశ్యేదకర్మణి చ కర్మ యః ।\nస బుద్ధిమాన్మనుష్యేషు స యుక్తః కృత్స్నకర్మకృత్ ॥",
+    "sa": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः ।\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ॥",
+    "iast": "karmaṇy akarma yaḥ paśyed akarmaṇi ca karma yaḥ |\nsa buddhimān manuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానకర్మసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Jnana Karma Sannyasa Yoga)",
+    "chapter": "4.18"
+  },
+  "padavibhagam": {
+    "te": "కర్మణి | అకర్మ | యః | పశ్యేత్ | అకర్మణి | చ | కర్మ | యః | సః | బుద్ధిమాన్ | మనుష్యేషు | సః | యుక్తః | కృత్స్నకర్మకృత్",
+    "en": "karmaṇi | akarma | yaḥ | paśyet | akarmaṇi | ca | karma | yaḥ | saḥ | buddhimān | manuṣyeṣu | saḥ | yuktaḥ | kṛtsnakarmakṛt"
+  },
+  "anvayam": {
+    "te": "యః కర్మణి అకర్మ పశ్యేత్, యః చ అకర్మణి కర్మ (పశ్యేత్) — సః మనుష్యేషు బుద్ధిమాన్; సః యుక్తః కృత్స్నకర్మకృత్.",
+    "en": "Yaḥ karmaṇi akarma paśyet (he who sees inaction in action), yaḥ ca akarmaṇi karma (and action in inaction) — saḥ manuṣyeṣu buddhimān (he is wise among men); saḥ yuktaḥ kṛtsnakarmakṛt (he is a yogi, a doer of all action)."
+  },
+  "meaning": {
+    "te": "కర్మలో అకర్మను, అకర్మలో కర్మను ఎవడు చూస్తాడో — అతడే మనుషులలో బుద్ధిమంతుడు; అతడే యోగి, సమస్త కర్మలను చేసినవాడు.",
+    "en": "He who sees inaction in action, and action in inaction — he is the wise one among men; he is the yogi who has accomplished all action."
+  },
+  "tatparyam": {
+    "te": "గీతలోని అత్యంత గంభీరమైన శ్లోకాలలో ఒకటి. అనాసక్తుడై, కర్తృత్వాభిమానం లేకుండా పనిచేసేవాడు ఎంత చేసినా బంధించే 'కర్మ' చేయనట్లే — ఇది కర్మలో అకర్మ. బద్ధకంతో పని మానేసినవాడు 'ఏమీ చేయడం లేదు' అనుకుంటాడు గానీ, ఆ మానివేయడమూ ఫలితాలు గల ఒక చేష్టే — ఇది అకర్మలో కర్మ. బంధించేది శరీరపు కదలిక కాదు, మనసు పెట్టుకునే ముడి అన్న ఈ సూక్ష్మదృష్టియే కర్మయోగపు లోతైన రహస్యం.",
+    "en": "One of the Gita's profoundest verses. One who works without attachment or the pride of doership performs no binding 'action' however much he does — inaction within action. And the idler who quits work believing he is 'doing nothing' forgets that abstention too is an act with consequences — action within inaction. What binds is not the body's movement but the knot the mind ties — the subtle insight at the heart of karma yoga."
+  }
+}

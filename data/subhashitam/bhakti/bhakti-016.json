@@ -1,0 +1,31 @@
+{
+  "id": "bhakti-016",
+  "tags": ["bhakti", "kunti", "bhagavatam"],
+  "shlokam": {
+    "te": "త్వయి మేఽనన్యవిషయా మతిర్మధుపతేఽసకృత్ ।\nరతిముద్వహతాదద్ధా గంగేవౌఘముదన్వతి ॥",
+    "sa": "त्वयि मेऽनन्यविषया मतिर्मधुपतेऽसकृत् ।\nरतिमुद्वहतादद्धा गङ्गेवौघमुदन्वति ॥",
+    "iast": "tvayi me'nanyaviṣayā matir madhupate'sakṛt |\nratim udvahatād addhā gaṅgevaugham udanvati ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భాగవతము (కున్తీస్తుతి)",
+    "name_en": "Srimad Bhagavatam (Kunti's prayer)",
+    "chapter": "1.8.42"
+  },
+  "padavibhagam": {
+    "te": "త్వయి | మే | అనన్యవిషయా | మతిః | మధుపతే | అసకృత్ | రతిమ్ | ఉద్వహతాత్ | అద్ధా | గంగా | ఇవ | ఓఘమ్ | ఉదన్వతి",
+    "en": "tvayi | me | ananyaviṣayā | matiḥ | madhupate | asakṛt | ratim | udvahatāt | addhā | gaṅgā | iva | ogham | udanvati"
+  },
+  "anvayam": {
+    "te": "మధుపతే! మే మతిః అనన్యవిషయా (భూత్వా), గంగా ఉదన్వతి ఓఘమ్ ఇవ, త్వయి అసకృత్ అద్ధా రతిమ్ ఉద్వహతాత్.",
+    "en": "Madhupate (O Lord of Madhu)! Me matiḥ (may my mind), ananyaviṣayā (turning to no other object), gaṅgā udanvati ogham iva (like the Ganga bearing its flood to the sea), tvayi (toward you) asakṛt addhā ratim udvahatāt (flow with unbroken, undivided love)."
+  },
+  "meaning": {
+    "te": "మధుపతీ! గంగ తన ప్రవాహాన్ని ఎడతెగక సముద్రం వైపే తీసుకువెళ్ళినట్లు, నా బుద్ధి మరే విషయం వైపూ మళ్ళక, నీ యందే నిరంతరం ప్రేమను ప్రవహింపజేయుగాక.",
+    "en": "O Lord of Madhu! As the Ganga carries her stream unceasingly to the sea, may my mind, drawn to nothing else, bear its love in an unbroken current toward you alone."
+  },
+  "tatparyam": {
+    "te": "వరాలు కోరమన్న కృష్ణుని ముందు కుంతీదేవి కోరిన ఒకే ఒక వరం ఇది. గంగ దారిలో ఎన్ని అడ్డంకులు వచ్చినా, ఎన్ని మలుపులు తిరిగినా గమ్యం సముద్రమే — అలాగే జీవితపు కష్టసుఖాల మధ్య కూడా చిత్తప్రవాహం భగవంతుని వైపే సాగాలన్నది ఈ ఉపమానపు లోతు. భక్తికి భాగవతం ఇచ్చిన అందమైన నిర్వచనం — విడివిడి చుక్కలు కాదు, ఏకధారగా సాగే ప్రవాహం.",
+    "en": "Invited by Krishna to ask any boon, Kunti asked only this. Whatever obstacles the Ganga meets, however many bends she takes, her destination is always the sea — so too, through life's joys and sorrows, the current of the heart should move toward the Lord alone. It is the Bhagavata's loveliest definition of devotion: not scattered drops, but one unbroken stream."
+  }
+}

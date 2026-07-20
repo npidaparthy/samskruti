@@ -1,0 +1,31 @@
+{
+  "id": "niti-030",
+  "tags": ["niti", "vak", "priyavachana"],
+  "shlokam": {
+    "te": "ప్రియవాక్యప్రదానేన సర్వే తుష్యన్తి జన్తవః ।\nతస్మాత్తదేవ వక్తవ్యం వచనే కా దరిద్రతా ॥",
+    "sa": "प्रियवाक्यप्रदानेन सर्वे तुष्यन्ति जन्तवः ।\nतस्मात्तदेव वक्तव्यं वचने का दरिद्रता ॥",
+    "iast": "priyavākyapradānena sarve tuṣyanti jantavaḥ |\ntasmāt tad eva vaktavyaṃ vacane kā daridratā ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "16.17"
+  },
+  "padavibhagam": {
+    "te": "ప్రియవాక్యప్రదానేన | సర్వే | తుష్యన్తి | జన్తవః | తస్మాత్ | తత్ | ఏవ | వక్తవ్యమ్ | వచనే | కా | దరిద్రతా",
+    "en": "priyavākyapradānena | sarve | tuṣyanti | jantavaḥ | tasmāt | tat | eva | vaktavyam | vacane | kā | daridratā"
+  },
+  "anvayam": {
+    "te": "ప్రియవాక్యప్రదానేన సర్వే జన్తవః తుష్యన్తి; తస్మాత్ తత్ ఏవ వక్తవ్యమ్; వచనే కా దరిద్రతా?",
+    "en": "Priyavākyapradānena (by the gift of kind words) sarve jantavaḥ (all beings) tuṣyanti (are pleased); tasmāt (therefore) tat eva vaktavyam (speak only thus); vacane (in speech) kā daridratā (why be a miser)?"
+  },
+  "meaning": {
+    "te": "ప్రియమైన మాటలు పలికితే సర్వ ప్రాణులూ సంతోషిస్తాయి. కనుక అలాంటి మాటలే మాట్లాడాలి. మాటల విషయంలో దరిద్రం ఎందుకు?",
+    "en": "Kind words bring joy to every being. Therefore speak only such words — why be miserly with speech, which costs nothing?"
+  },
+  "tatparyam": {
+    "te": "దానాలలో సులభతమమైనది, ఖర్చులేనిది — ప్రియవచనం. అయినా మనుషులు మాటల్లో పిసినారులవుతారు; పరుషవాక్యం ధనవ్యయం లేకుండానే శత్రువులను సృష్టిస్తుంది. మధురభాషణం అంటే ముఖస్తుతి కాదు — సత్యాన్ని కూడా మృదువుగా, హితంగా చెప్పగల నేర్పు. మాట మనిషి సంపదలో అతి చవకైనది, అతి శక్తిమంతమైనది అన్నది ఈ శ్లోక సందేశం.",
+    "en": "Of all gifts, the kind word is the easiest and the only one that costs nothing — yet people turn misers precisely here, and a harsh word makes enemies free of charge. Sweet speech is not flattery; it is the art of saying even hard truths gently and helpfully. Speech is the cheapest of our possessions and the most powerful — that is the verse's point."
+  }
+}

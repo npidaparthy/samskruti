@@ -1,0 +1,31 @@
+{
+  "id": "vairagya-021",
+  "tags": ["vairagya", "jara", "asha"],
+  "shlokam": {
+    "te": "అంగం గలితం పలితం ముండం\nదశనవిహీనం జాతం తుండమ్ ।\nవృద్ధో యాతి గృహీత్వా దండం\nతదపి న ముంచత్యాశాపిండమ్ ॥",
+    "sa": "अङ्गं गलितं पलितं मुण्डं\nदशनविहीनं जातं तुण्डम् ।\nवृद्धो याति गृहीत्वा दण्डं\nतदपि न मुञ्चत्याशापिण्डम् ॥",
+    "iast": "aṅgaṃ galitaṃ palitaṃ muṇḍaṃ\ndaśanavihīnaṃ jātaṃ tuṇḍam |\nvṛddho yāti gṛhītvā daṇḍaṃ\ntad api na muñcaty āśāpiṇḍam ||"
+  },
+  "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
+  "granthaH": {
+    "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
+    "name_en": "Bhaja Govindam (Adi Shankaracharya)",
+    "chapter": "verse 15"
+  },
+  "padavibhagam": {
+    "te": "అంగమ్ | గలితమ్ | పలితమ్ | ముండమ్ | దశనవిహీనమ్ | జాతమ్ | తుండమ్ | వృద్ధః | యాతి | గృహీత్వా | దండమ్ | తత్ | అపి | న | ముంచతి | ఆశాపిండమ్",
+    "en": "aṅgam | galitam | palitam | muṇḍam | daśanavihīnam | jātam | tuṇḍam | vṛddhaḥ | yāti | gṛhītvā | daṇḍam | tat | api | na | muñcati | āśāpiṇḍam"
+  },
+  "anvayam": {
+    "te": "అంగం గలితం; ముండం పలితం; తుండం దశనవిహీనం జాతమ్; వృద్ధః దండం గృహీత్వా యాతి — తదపి ఆశాపిండం న ముంచతి.",
+    "en": "Aṅgaṃ galitam (the body has withered); muṇḍaṃ palitam (the head has greyed); tuṇḍaṃ daśanavihīnaṃ jātam (the mouth has lost its teeth); vṛddhaḥ daṇḍaṃ gṛhītvā yāti (the old man walks clutching a staff) — tad api (even then) āśāpiṇḍaṃ na muñcati (he does not release his bundle of desires)."
+  },
+  "meaning": {
+    "te": "శరీరం శిథిలమైంది; తల నెరిసింది; నోరు పళ్ళులేనిదైంది; ముసలివాడు కర్ర పట్టుకుని నడుస్తున్నాడు — అయినా ఆశల మూటను మాత్రం విడువడం లేదు.",
+    "en": "The body has withered, the head has greyed, the mouth is toothless; the old man totters along clutching his staff — yet even now he will not let go of his bundle of hopes."
+  },
+  "tatparyam": {
+    "te": "నాలుగు వివరాలతో శంకరులు గీసిన వృద్ధాప్య చిత్రం — చివరి పంక్తిలో చురుక్కుమనే వ్యంగ్యం. దేహంలోని ప్రతి అవయవం వైరాగ్యపాఠం చెబుతున్నా మనసు మాత్రం వినదు; పోయిన పళ్ళ కన్నా పోని ఆశలే విషాదం. వార్ధక్యం శరీరానికి సహజంగా వస్తుంది గానీ వైరాగ్యం మనసుకు సాధనతోనే రావాలి. ఆశను వదిలించేది వయసు కాదు, వివేకమే అన్నది ఈ శ్లోక సందేశం.",
+    "en": "In four strokes Shankara sketches old age — and lands the sting in the last line. Every limb of the body is teaching detachment, but the mind refuses the lesson; the tragedy is not the teeth that fell but the hopes that did not. Age comes to the body unbidden; detachment must be won by the mind through practice. It is wisdom, not years, that loosens desire's grip."
+  }
+}

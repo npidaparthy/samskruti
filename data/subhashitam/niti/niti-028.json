@@ -1,0 +1,31 @@
+{
+  "id": "niti-028",
+  "tags": ["niti", "durjana", "vidya"],
+  "shlokam": {
+    "te": "దుర్జనః పరిహర్తవ్యో విద్యయాలంకృతోఽపి సన్ ।\nమణినా భూషితః సర్పః కిమసౌ న భయంకరః ॥",
+    "sa": "दुर्जनः परिहर्तव्यो विद्ययालङ्कृतोऽपि सन् ।\nमणिना भूषितः सर्पः किमसौ न भयङ्करः ॥",
+    "iast": "durjanaḥ parihartavyo vidyayālaṅkṛto'pi san |\nmaṇinā bhūṣitaḥ sarpaḥ kim asau na bhayaṅkaraḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి / భర్తృహరి నీతిశతకము",
+    "name_en": "Chanakya Niti / Bhartrhari's Niti Shataka",
+    "chapter": "widely quoted maxim"
+  },
+  "padavibhagam": {
+    "te": "దుర్జనః | పరిహర్తవ్యః | విద్యయా | అలంకృతః | అపి | సన్ | మణినా | భూషితః | సర్పః | కిమ్ | అసౌ | న | భయంకరః",
+    "en": "durjanaḥ | parihartavyaḥ | vidyayā | alaṅkṛtaḥ | api | san | maṇinā | bhūṣitaḥ | sarpaḥ | kim | asau | na | bhayaṅkaraḥ"
+  },
+  "anvayam": {
+    "te": "దుర్జనః విద్యయా అలంకృతః అపి సన్ పరిహర్తవ్యః; మణినా భూషితః సర్పః — అసౌ కిం భయంకరః న (భవతి)?",
+    "en": "Durjanaḥ (a wicked person), vidyayā alaṅkṛtaḥ api san (even though adorned with learning), parihartavyaḥ (should be avoided); maṇinā bhūṣitaḥ sarpaḥ (a serpent crowned with a jewel) — kim asau na bhayaṅkaraḥ (is it not still terrifying)?"
+  },
+  "meaning": {
+    "te": "దుర్జనుడు విద్యతో అలంకరింపబడినా అతనిని విడిచిపెట్టవలసిందే. మణితో అలంకరింపబడిన పాము భయంకరం కాకుండా పోతుందా?",
+    "en": "A wicked person must be avoided even when adorned with learning. Does a serpent become less terrifying because it wears a jewel on its hood?"
+  },
+  "tatparyam": {
+    "te": "విద్య స్వతః మంచిదే, కానీ అది స్వభావాన్ని మార్చదు — అలంకరిస్తుంది మాత్రమే. చెడు స్వభావం గలవాడి చేతిలో విద్య మరింత ప్రమాదకరమైన ఆయుధం అవుతుంది. మణి పాము విషాన్ని తొలగించనట్లే, పాండిత్యం దుర్జనుని దుష్టత్వాన్ని తొలగించదు. వ్యక్తిని అంచనా వేసేటప్పుడు ప్రతిభను కాక శీలాన్ని చూడాలన్నది ఇక్కడి నీతి.",
+    "en": "Learning is good in itself, but it decorates a nature — it does not change it. In wicked hands, knowledge becomes a sharper weapon. Just as the jewel does not remove the serpent's venom, scholarship does not remove a bad person's malice. Judge people by character, the verse teaches, not by brilliance."
+  }
+}

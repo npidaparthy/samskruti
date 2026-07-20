@@ -1,0 +1,31 @@
+{
+  "id": "bhakti-019",
+  "tags": ["bhakti", "gita", "kshama"],
+  "shlokam": {
+    "te": "అపి చేత్సుదురాచారో భజతే మామనన్యభాక్ ।\nసాధురేవ స మన్తవ్యః సమ్యగ్వ్యవసితో హి సః ॥",
+    "sa": "अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।\nसाधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ॥",
+    "iast": "api cet sudurācāro bhajate mām ananyabhāk |\nsādhur eva sa mantavyaḥ samyag vyavasito hi saḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (రాజవిద్యారాజగుహ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Raja Vidya Yoga)",
+    "chapter": "9.30"
+  },
+  "padavibhagam": {
+    "te": "అపి | చేత్ | సుదురాచారః | భజతే | మామ్ | అనన్యభాక్ | సాధుః | ఏవ | సః | మన్తవ్యః | సమ్యక్ | వ్యవసితః | హి | సః",
+    "en": "api | cet | sudurācāraḥ | bhajate | mām | ananyabhāk | sādhuḥ | eva | saḥ | mantavyaḥ | samyak | vyavasitaḥ | hi | saḥ"
+  },
+  "anvayam": {
+    "te": "సుదురాచారః అపి చేత్ అనన్యభాక్ (సన్) మాం భజతే, సః సాధుః ఏవ మన్తవ్యః; సః హి సమ్యక్ వ్యవసితః.",
+    "en": "Sudurācāraḥ api cet (even if a man of very bad conduct) ananyabhāk māṃ bhajate (worships me with undivided devotion), saḥ sādhuḥ eva mantavyaḥ (he is to be regarded as righteous); saḥ hi samyak vyavasitaḥ (for he has resolved rightly)."
+  },
+  "meaning": {
+    "te": "ఎంతటి దురాచారి అయినా అనన్యభక్తితో నన్ను భజిస్తే, అతనిని సాధువుగానే భావించాలి — ఎందుకంటే అతడు సరైన నిశ్చయానికి వచ్చాడు.",
+    "en": "Even a man of the worst conduct, if he worships me with undivided devotion, is to be counted as righteous — for he has made the right resolve."
+  },
+  "tatparyam": {
+    "te": "గీతలోని అత్యంత ఉదారమైన శ్లోకాలలో ఒకటి. మనుషులు వ్యక్తిని అతని గతంతో కొలుస్తారు; భగవంతుడు అతని ప్రస్తుత నిశ్చయంతో కొలుస్తాడు — 'సమ్యగ్వ్యవసితః', దిశ సరైనది అయితే చాలు. ఎంత దిగజారినవాడికీ తలుపు మూసుకుపోలేదన్న ఈ అభయం తరువాతి శ్లోకంలో 'నా భక్తుడు నశించడు' అన్న ప్రతిజ్ఞగా బలపడుతుంది. పతనం శాశ్వతం కాదు; మలుపు తిరిగిన క్షణమే పునర్జన్మ అన్నది గీత ఇచ్చే ఆశ.",
+    "en": "One of the Gita's most generous verses. People measure a person by their past; the Lord measures by their present resolve — 'samyag vyavasitaḥ', the direction is right, and that suffices. No one has fallen so far that the door is closed — an assurance sealed in the next verse's vow, 'my devotee never perishes.' No fall is final; the moment of turning is itself a rebirth. That is the Gita's hope."
+  }
+}

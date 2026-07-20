@@ -1,0 +1,31 @@
+{
+  "id": "dharma-026",
+  "tags": ["dharma", "pratishtha", "veda"],
+  "shlokam": {
+    "te": "ధర్మో విశ్వస్య జగతః ప్రతిష్ఠా ।\nలోకే ధర్మిష్ఠం ప్రజా ఉపసర్పన్తి ।\nధర్మేణ పాపమపనుదతి ।\nధర్మే సర్వం ప్రతిష్ఠితమ్ ।\nతస్మాద్ధర్మం పరమం వదన్తి ॥",
+    "sa": "धर्मो विश्वस्य जगतः प्रतिष्ठा ।\nलोके धर्मिष्ठं प्रजा उपसर्पन्ति ।\nधर्मेण पापमपनुदति ।\nधर्मे सर्वं प्रतिष्ठितम् ।\nतस्माद्धर्मं परमं वदन्ति ॥",
+    "iast": "dharmo viśvasya jagataḥ pratiṣṭhā |\nloke dharmiṣṭhaṃ prajā upasarpanti |\ndharmeṇa pāpam apanudati |\ndharme sarvaṃ pratiṣṭhitam |\ntasmād dharmaṃ paramaṃ vadanti ||"
+  },
+  "chandaH": "వైదిక గద్యము (Vedic prose)",
+  "granthaH": {
+    "name_te": "మహానారాయణోపనిషత్ (తైత్తిరీయారణ్యకము)",
+    "name_en": "Mahanarayana Upanishad (Taittiriya Aranyaka)",
+    "chapter": "79.7"
+  },
+  "padavibhagam": {
+    "te": "ధర్మః | విశ్వస్య | జగతః | ప్రతిష్ఠా | లోకే | ధర్మిష్ఠమ్ | ప్రజాః | ఉపసర్పన్తి | ధర్మేణ | పాపమ్ | అపనుదతి | ధర్మే | సర్వమ్ | ప్రతిష్ఠితమ్ | తస్మాత్ | ధర్మమ్ | పరమమ్ | వదన్తి",
+    "en": "dharmaḥ | viśvasya | jagataḥ | pratiṣṭhā | loke | dharmiṣṭham | prajāḥ | upasarpanti | dharmeṇa | pāpam | apanudati | dharme | sarvam | pratiṣṭhitam | tasmāt | dharmam | paramam | vadanti"
+  },
+  "anvayam": {
+    "te": "ధర్మః విశ్వస్య జగతః ప్రతిష్ఠా; లోకే ప్రజాః ధర్మిష్ఠమ్ ఉపసర్పన్తి; ధర్మేణ పాపమ్ అపనుదతి; ధర్మే సర్వం ప్రతిష్ఠితమ్; తస్మాత్ ధర్మం పరమం వదన్తి.",
+    "en": "Dharmaḥ (dharma) viśvasya jagataḥ pratiṣṭhā (is the foundation of the whole universe); loke (in the world) prajāḥ (people) dharmiṣṭham upasarpanti (draw near the most righteous); dharmeṇa (through dharma) pāpam apanudati (one drives away evil); dharme sarvaṃ pratiṣṭhitam (everything rests on dharma); tasmāt (therefore) dharmaṃ paramaṃ vadanti (they call dharma supreme)."
+  },
+  "meaning": {
+    "te": "ధర్మం సమస్త విశ్వానికి పునాది. లోకంలో ప్రజలు ధర్మిష్ఠుని చెంతకే చేరతారు. ధర్మం చేత పాపం తొలగుతుంది. సర్వమూ ధర్మంపైనే నిలిచి ఉంది. అందుకే ధర్మాన్ని పరమమైనదిగా చెబుతారు.",
+    "en": "Dharma is the foundation of the entire universe. People in this world draw near the one most established in dharma. By dharma evil is driven away. On dharma everything rests. Therefore they declare dharma supreme."
+  },
+  "tatparyam": {
+    "te": "ధర్మం అంటే కేవలం నియమావళి కాదు — విశ్వాన్ని నిలిపి ఉంచే ధారణశక్తి అని ఉపనిషత్తు ప్రకటిస్తోంది. 'ధృ' (ధరించు) ధాతువు నుండి వచ్చిన ఈ పదం, సూర్యచంద్రుల గమనం నుండి మానవ సమాజపు నడవడిక వరకు అన్నింటినీ క్రమంలో నిలిపే సూత్రాన్ని సూచిస్తుంది. ప్రజలు అధికారవంతుని కాదు, ధర్మిష్ఠుని విశ్వసిస్తారు అన్న మాట నాయకత్వ లక్షణానికి వేదకాలపు కొలమానం.",
+    "en": "Dharma, the Upanishad declares, is no mere rulebook — it is the sustaining power that holds the universe together. Derived from the root 'dhṛ' (to uphold), the word names the principle that keeps everything in order, from the course of sun and moon to the conduct of human society. That people gather around the righteous, not the merely powerful, is the Vedic measure of leadership."
+  }
+}

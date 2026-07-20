@@ -1,0 +1,31 @@
+{
+  "id": "bhakti-020",
+  "tags": ["bhakti", "gita", "abhaya"],
+  "shlokam": {
+    "te": "క్షిప్రం భవతి ధర్మాత్మా శశ్వచ్ఛాన్తిం నిగచ్ఛతి ।\nకౌన్తేయ ప్రతిజానీహి న మే భక్తః ప్రణశ్యతి ॥",
+    "sa": "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति ।\nकौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ॥",
+    "iast": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati |\nkaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (రాజవిద్యారాజగుహ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Raja Vidya Yoga)",
+    "chapter": "9.31"
+  },
+  "padavibhagam": {
+    "te": "క్షిప్రమ్ | భవతి | ధర్మాత్మా | శశ్వత్ | శాన్తిమ్ | నిగచ్ఛతి | కౌన్తేయ | ప్రతిజానీహి | న | మే | భక్తః | ప్రణశ్యతి",
+    "en": "kṣipram | bhavati | dharmātmā | śaśvat | śāntim | nigacchati | kaunteya | pratijānīhi | na | me | bhaktaḥ | praṇaśyati"
+  },
+  "anvayam": {
+    "te": "(సః) క్షిప్రం ధర్మాత్మా భవతి; శశ్వత్ శాన్తిం నిగచ్ఛతి; కౌన్తేయ! ప్రతిజానీహి — మే భక్తః న ప్రణశ్యతి.",
+    "en": "(He) kṣipraṃ dharmātmā bhavati (soon becomes righteous of soul); śaśvat śāntiṃ nigacchati (and attains lasting peace); kaunteya (O son of Kunti)! pratijānīhi (declare it boldly) — me bhaktaḥ na praṇaśyati (my devotee never perishes)."
+  },
+  "meaning": {
+    "te": "అతడు శీఘ్రమే ధర్మాత్ముడవుతాడు; శాశ్వతమైన శాంతిని పొందుతాడు. కౌంతేయా! ధైర్యంగా ప్రకటించు — నా భక్తుడు ఎన్నటికీ నశించడు.",
+    "en": "He soon becomes righteous of soul and attains everlasting peace. O son of Kunti, declare it boldly: my devotee never perishes."
+  },
+  "tatparyam": {
+    "te": "గీతలో కృష్ణుడు స్వయంగా ప్రతిజ్ఞ చేయకుండా, 'నీవు ప్రతిజ్ఞ చెయ్యి' అని అర్జునునితో చెప్పించిన అపూర్వ ఘట్టం ఇది. భగవంతుని మాట కన్నా భక్తుని మాటను లోకం ఎక్కువ నమ్ముతుందనీ, భక్తుని ప్రతిజ్ఞను నిలబెట్టడం తన బాధ్యత అవుతుందనీ వ్యాఖ్యాతలు దీని మర్మం చెబుతారు. ముందు శ్లోకపు దురాచారి సైతం 'క్షిప్రం' — శీఘ్రమే — ధర్మాత్ముడవుతాడు; భక్తి మార్పును నిదానంగా కాదు, వేగంగా తెస్తుంది. 'న మే భక్తః ప్రణశ్యతి' — భక్తసంప్రదాయాలన్నీ ఆధారంగా చేసుకున్న మహాభయప్రదానం.",
+    "en": "A singular moment: Krishna does not make the vow himself but has Arjuna proclaim it — the world, the commentators explain, trusts a devotee's word even more than God's, and the Lord then binds himself to honour his devotee's pledge. Even the sinner of the previous verse becomes righteous 'kṣipram' — swiftly; devotion transforms fast, not slowly. 'Na me bhaktaḥ praṇaśyati' — the great assurance upon which every bhakti tradition has rested since."
+  }
+}

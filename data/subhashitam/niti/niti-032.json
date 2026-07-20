@@ -1,0 +1,31 @@
+{
+  "id": "niti-032",
+  "tags": ["niti", "vidya", "satya", "tyaga"],
+  "shlokam": {
+    "te": "నాస్తి విద్యాసమం చక్షుర్నాస్తి సత్యసమం తపః ।\nనాస్తి రాగసమం దుఃఖం నాస్తి త్యాగసమం సుఖమ్ ॥",
+    "sa": "नास्ति विद्यासमं चक्षुर्नास्ति सत्यसमं तपः ।\nनास्ति रागसमं दुःखं नास्ति त्यागसमं सुखम् ॥",
+    "iast": "nāsti vidyāsamaṃ cakṣur nāsti satyasamaṃ tapaḥ |\nnāsti rāgasamaṃ duḥkhaṃ nāsti tyāgasamaṃ sukham ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "widely quoted maxim"
+  },
+  "padavibhagam": {
+    "te": "న | అస్తి | విద్యాసమమ్ | చక్షుః | న | అస్తి | సత్యసమమ్ | తపః | న | అస్తి | రాగసమమ్ | దుఃఖమ్ | న | అస్తి | త్యాగసమమ్ | సుఖమ్",
+    "en": "na | asti | vidyāsamam | cakṣuḥ | na | asti | satyasamam | tapaḥ | na | asti | rāgasamam | duḥkham | na | asti | tyāgasamam | sukham"
+  },
+  "anvayam": {
+    "te": "విద్యాసమం చక్షుః నాస్తి; సత్యసమం తపః నాస్తి; రాగసమం దుఃఖం నాస్తి; త్యాగసమం సుఖం నాస్తి.",
+    "en": "Vidyāsamam cakṣuḥ nāsti (there is no eye equal to knowledge); satyasamam tapaḥ nāsti (no austerity equal to truth); rāgasamam duḥkham nāsti (no sorrow equal to attachment); tyāgasamam sukham nāsti (no happiness equal to renunciation)."
+  },
+  "meaning": {
+    "te": "విద్యతో సమానమైన కన్ను లేదు; సత్యంతో సమానమైన తపస్సు లేదు; ఆసక్తి (రాగం)తో సమానమైన దుఃఖం లేదు; త్యాగంతో సమానమైన సుఖం లేదు.",
+    "en": "There is no eye like knowledge, no austerity like truthfulness, no sorrow like attachment, and no happiness like letting go."
+  },
+  "tatparyam": {
+    "te": "నాలుగు పాదాల్లో నాలుగు తులనలు — ఒక్కొక్కటీ ఒక జీవనసూత్రం. విద్య కంటికి కనబడనిదాన్ని చూపే మూడో కన్ను; సత్యపాలన ఏ కఠోర తపస్సుకన్నా గొప్ప సాధన; దుఃఖాల మూలాన్ని వెతికితే అది వస్తువులో కాదు, వాటిపై మన పట్టులో ఉంటుంది; ఆ పట్టును వదిలిన క్షణమే నిజమైన సుఖం మొదలవుతుంది. చిన్న శ్లోకంలో జ్ఞానం, సాధన, దుఃఖనిదానం, సుఖరహస్యం — నాలుగూ ఇమిడి ఉన్నాయి.",
+    "en": "Four comparisons in four quarters, each a complete teaching. Knowledge is the third eye that sees what eyes cannot; living truthfully outweighs any severe austerity; trace any sorrow to its root and you find not the object but our grip on it; and the moment that grip loosens, real happiness begins. One small verse holds all four — wisdom, practice, the diagnosis of sorrow, and the secret of joy."
+  }
+}

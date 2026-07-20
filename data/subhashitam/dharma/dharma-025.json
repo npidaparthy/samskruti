@@ -1,0 +1,31 @@
+{
+  "id": "dharma-025",
+  "tags": ["dharma", "vriksha", "prakruti"],
+  "shlokam": {
+    "te": "దశకూపసమా వాపీ దశవాపీసమో హ్రదః ।\nదశహ్రదసమః పుత్రో దశపుత్రసమో ద్రుమః ॥",
+    "sa": "दशकूपसमा वापी दशवापीसमो ह्रदः ।\nदशह्रदसमः पुत्रो दशपुत्रसमो द्रुमः ॥",
+    "iast": "daśakūpasamā vāpī daśavāpīsamo hradaḥ |\ndaśahradasamaḥ putro daśaputrasamo drumaḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మత్స్యపురాణము",
+    "name_en": "Matsya Purana",
+    "chapter": "154.512"
+  },
+  "padavibhagam": {
+    "te": "దశకూపసమా | వాపీ | దశవాపీసమః | హ్రదః | దశహ్రదసమః | పుత్రః | దశపుత్రసమః | ద్రుమః",
+    "en": "daśakūpasamā | vāpī | daśavāpīsamaḥ | hradaḥ | daśahradasamaḥ | putraḥ | daśaputrasamaḥ | drumaḥ"
+  },
+  "anvayam": {
+    "te": "వాపీ దశకూపసమా; హ్రదః దశవాపీసమః; పుత్రః దశహ్రదసమః; ద్రుమః దశపుత్రసమః.",
+    "en": "Vāpī (a step-well) daśakūpasamā (equals ten wells); hradaḥ (a lake) daśavāpīsamaḥ (equals ten step-wells); putraḥ (a son) daśahradasamaḥ (equals ten lakes); drumaḥ (a tree) daśaputrasamaḥ (equals ten sons)."
+  },
+  "meaning": {
+    "te": "పది నూతులతో ఒక దిగుడుబావి సమానం; పది బావులతో ఒక చెరువు; పది చెరువులతో ఒక పుత్రుడు; పది మంది పుత్రులతో ఒక చెట్టు సమానం.",
+    "en": "One step-well equals ten wells; one lake, ten step-wells; one son, ten lakes; and one tree equals ten sons."
+  },
+  "tatparyam": {
+    "te": "వేల సంవత్సరాల క్రితమే భారతీయ సంస్కృతి పర్యావరణానికి ఇచ్చిన స్థానం ఇది. కుమారుడు ఒక కుటుంబానికి సేవ చేస్తాడు; చెట్టు తరతరాలకు, జాతిభేదం లేకుండా అందరికీ — నీడ, ఫలం, గాలి, వాన — ఇస్తూనే ఉంటుంది. చెట్టు నాటడం పదిమంది కొడుకులను కన్నదానితో సమానమైన పుణ్యం అని పురాణం ప్రకటించడం, నేటి పర్యావరణ ఉద్యమాలకు ఎంతో ముందే మన సంప్రదాయం ఇచ్చిన సందేశం.",
+    "en": "This is the rank Indian tradition gave the environment millennia ago. A son serves one family; a tree serves generations, without distinction — shade, fruit, air, rain — endlessly. For a Purana to declare that planting one tree earns the merit of raising ten sons is an environmental charter given long before the modern movements arrived at the same truth."
+  }
+}
