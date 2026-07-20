@@ -142,10 +142,19 @@ window.ShareCard = (() => {
     ctx.strokeStyle = 'rgba(100,50,10,0.5)'; ctx.lineWidth = 1.5; ctx.stroke();
     ctx.restore();
 
-    // ── Source band — wraps to 2 lines at 18px ──
-    const SRC_SIZE = 18, SRC_LH = SRC_SIZE * 1.5;
+    // ── Source band — source name + metre on separate lines, color-coded ──
+    // data.source = "Book name · Metre" — split at the · separator
+    const rawSrc   = data.source || '';
+    const dotIdx   = rawSrc.lastIndexOf('·');
+    const srcName  = (dotIdx > 0 ? rawSrc.slice(0, dotIdx) : rawSrc).trim().toUpperCase();
+    const srcMetre = (dotIdx > 0 ? rawSrc.slice(dotIdx + 1) : '').trim().toUpperCase();
+
+    const SRC_SIZE = 19, SRC_LH = SRC_SIZE * 1.55;
+    const MTR_SIZE = 20, MTR_LH = MTR_SIZE * 1.4;
+
+    // Measure source name lines
     ctx.font = `500 ${SRC_SIZE}px ${SRC_FAM}`;
-    const srcWords = (data.source || '').toUpperCase().split(' ');
+    const srcWords = srcName.split(' ');
     let srcLine = '', srcLines = [];
     for (const w of srcWords) {
       const t = srcLine + w + ' ';
@@ -155,22 +164,40 @@ window.ShareCard = (() => {
     if (srcLine.trim()) srcLines.push(srcLine.trim());
     srcLines = srcLines.slice(0, 2);
 
-    const srcBandH = srcLines.length * SRC_LH + 16;
-    const srcRule1 = INNER + 20;
+    // Start below binding hole (hole bottom ≈ OUTER+42); add breathing room
+    const srcRule1 = OUTER + 56;
     const srcTextY = srcRule1 + 14 + SRC_SIZE;
-    const srcRule2 = srcRule1 + srcBandH;
+    // Last baseline in the band: source lines, then optional metre line
+    const lastSrcY = srcTextY + (srcLines.length - 1) * SRC_LH;
+    const metreY   = srcMetre ? srcTextY + srcLines.length * SRC_LH + MTR_LH * 0.6 : 0;
+    const srcRule2 = (srcMetre ? metreY : lastSrcY) + 18;
 
     ctx.strokeStyle = 'rgba(80,30,5,0.28)'; ctx.lineWidth = 1;
     ctx.beginPath(); ctx.moveTo(INNER, srcRule1); ctx.lineTo(S-INNER, srcRule1); ctx.stroke();
     ctx.beginPath(); ctx.moveTo(INNER, srcRule2); ctx.lineTo(S-INNER, srcRule2); ctx.stroke();
+
+    // Source name — warm brown
+    ctx.font = `500 ${SRC_SIZE}px ${SRC_FAM}`;
     ctx.fillStyle = INK2; ctx.textAlign = 'center';
     srcLines.forEach((l, i) => ctx.fillText(l, S/2, srcTextY + i * SRC_LH));
 
+    // Metre — accent gold with dot separators
+    if (srcMetre) {
+      ctx.font = `700 ${MTR_SIZE}px ${SRC_FAM}`;
+      ctx.fillStyle = '#8B4500';
+      ctx.fillText(`◆  ${srcMetre}  ◆`, S/2, metreY);
+    }
+
     // ── Verse — auto-shrink to fit width, no truncation ──
+    // Starting size scales down with syllable count (longer metres = smaller font)
     const verseLines = _prepareVerse(data.verse || '', data.syllables);
     const isFour     = verseLines.length >= 4;
-    const VFS_START  = isFour ? (data.script === 'iast' ? 34 : 38) : (data.script === 'iast' ? 44 : 48);
-    const VLH_MULT   = isFour ? 1.65 : 2.0;
+    const syl        = data.syllables || 8;
+    const isIAST     = data.script === 'iast';
+    const VFS_START  = isFour
+      ? (syl <= 11 ? (isIAST ? 36 : 40) : syl <= 15 ? (isIAST ? 32 : 36) : (isIAST ? 28 : 32))
+      : (syl <= 8  ? (isIAST ? 38 : 42) : (isIAST ? 34 : 38));
+    const VLH_MULT   = isFour ? 1.65 : 1.9;
 
     let VFS = VFS_START;
     while (VFS > 20) {
@@ -180,7 +207,8 @@ window.ShareCard = (() => {
     }
     ctx.font = `500 ${VFS}px ${VERSE_FAM}`;
     ctx.fillStyle = INK; ctx.textAlign = 'center';
-    const verseStartY = srcRule2 + 32;
+    // First baseline must clear the rule by the glyph height
+    const verseStartY = srcRule2 + 28 + VFS;
     let vy = verseStartY;
     for (const line of verseLines) { ctx.fillText(line, S/2, vy); vy += VFS * VLH_MULT; }
     const verseEndY = vy - VFS * (VLH_MULT - 0.3);
@@ -190,7 +218,7 @@ window.ShareCard = (() => {
     const SECT_GAP   = 44, HEAD_H = 42;
     const available  = footerRule - 20 - verseEndY - SECT_GAP - HEAD_H - SECT_GAP - HEAD_H;
 
-    let mSize = 30, tSize = 25;
+    let mSize = 38, tSize = 32;
     while (mSize >= 16) {
       ctx.font = `500 ${mSize}px ${BODY_FAM}`;
       const mH = _measureWrap(ctx, data.meaning || '', textW, mSize * 1.6);
