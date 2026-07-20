@@ -1,0 +1,31 @@
+{
+  "id": "niti-041",
+  "tags": ["niti", "murkha", "lakshana"],
+  "shlokam": {
+    "te": "మూర్ఖస్య పంచ చిహ్నాని గర్వో దుర్వచనం తథా ।\nక్రోధశ్చ దృఢవాదశ్చ పరవాక్యేష్వనాదరః ॥",
+    "sa": "मूर्खस्य पञ्च चिह्नानि गर्वो दुर्वचनं तथा ।\nक्रोधश्च दृढवादश्च परवाक्येष्वनादरः ॥",
+    "iast": "mūrkhasya pañca cihnāni garvo durvacanaṃ tathā |\nkrodhaś ca dṛḍhavādaś ca paravākyeṣv anādaraḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత సంప్రదాయము",
+    "name_en": "Subhashita tradition",
+    "chapter": "widely quoted maxim"
+  },
+  "padavibhagam": {
+    "te": "మూర్ఖస్య | పంచ | చిహ్నాని | గర్వః | దుర్వచనమ్ | తథా | క్రోధః | చ | దృఢవాదః | చ | పరవాక్యేషు | అనాదరః",
+    "en": "mūrkhasya | pañca | cihnāni | garvaḥ | durvacanam | tathā | krodhaḥ | ca | dṛḍhavādaḥ | ca | paravākyeṣu | anādaraḥ"
+  },
+  "anvayam": {
+    "te": "మూర్ఖస్య పంచ చిహ్నాని — గర్వః, దుర్వచనం తథా క్రోధః చ, దృఢవాదః చ, పరవాక్యేషు అనాదరః.",
+    "en": "Mūrkhasya pañca cihnāni (a fool has five marks) — garvaḥ (arrogance), durvacanam (harsh speech), krodhaḥ ca (anger), dṛḍhavādaḥ ca (obstinate insistence), paravākyeṣu anādaraḥ (and contempt for others' words)."
+  },
+  "meaning": {
+    "te": "మూర్ఖునికి ఐదు గుర్తులు — గర్వం, పరుషవచనం, కోపం, మొండిపట్టుదల, ఇతరుల మాటలపై అనాదరం.",
+    "en": "A fool has five marks: arrogance, harsh speech, anger, obstinate insistence, and contempt for what others say."
+  },
+  "tatparyam": {
+    "te": "మూర్ఖత్వానికి కొలబద్ద చదువు లేకపోవడం కాదని ఈ శ్లోకపు సూక్ష్మత — ఐదు గుర్తుల్లో ఏ ఒక్కటీ విద్యకు సంబంధించినది కాదు; అన్నీ ప్రవర్తనవే. పట్టాలున్నవాడిలోనూ ఈ ఐదూ ఉండవచ్చు; నిరక్షరాస్యుడిలో ఒక్కటీ లేకపోవచ్చు. అన్నింటికన్నా చివరిది లోతైనది — 'పరవాక్యేష్వనాదరః'. వినడం ఆగిన చోటే నేర్చుకోవడం ఆగుతుంది; నేర్చుకోవడం ఆగినవాడే నిజమైన మూర్ఖుడు. ఈ జాబితా ఇతరులను కొలవడానికి కాదు — అప్పుడప్పుడు అద్దంలో చూసుకోవడానికి.",
+    "en": "The subtlety here is that folly's measure is not lack of schooling — not one of the five marks concerns education; all five are conduct. A man with degrees may carry all five; an unlettered one may have none. The deepest is the last — contempt for others' words. Where listening stops, learning stops; and the one who has stopped learning is the real fool. The list is meant less for measuring others than for an occasional look in the mirror."
+  }
+}

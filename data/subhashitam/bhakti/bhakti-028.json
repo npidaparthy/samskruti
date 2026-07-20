@@ -1,0 +1,31 @@
+{
+  "id": "bhakti-028",
+  "tags": ["bhakti", "gita", "sadrisha"],
+  "shlokam": {
+    "te": "సమోఽహం సర్వభూతేషు న మే ద్వేష్యోఽస్తి న ప్రియః ।\nయే భజన్తి తు మాం భక్త్యా మయి తే తేషు చాప్యహమ్ ॥",
+    "sa": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥",
+    "iast": "samo'haṃ sarvabhūteṣu na me dveṣyo'sti na priyaḥ |\nye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (భక్తియోగము)",
+    "name_en": "Srimad Bhagavad Gita (Bhakti Yoga)",
+    "chapter": "9.29"
+  },
+  "padavibhagam": {
+    "te": "సమః | అహమ్ | సర్వభూతేషు | న | మే | ద్వేష్యః | అస్తి | న | ప్రియః | యే | భజన్తి | తు | మామ్ | భక్త్యా | మయి | తే | తేషు | చ | అపి | అహమ్",
+    "en": "samaḥ | aham | sarvabhūteṣu | na | me | dveṣyaḥ | asti | na | priyaḥ | ye | bhajanti | tu | mām | bhaktyā | mayi | te | teṣu | ca | api | aham"
+  },
+  "anvayam": {
+    "te": "అహం సర్వభూతేషు సమః; మే న ద్వేష్యః అస్తి, న ప్రియః; యే తు మాం భక్త్యా భజన్తి, తే మయి (వర్తన్తే); అహం అపి తేషు (వర్తే).",
+    "en": "Aham sarvabhūteṣu samaḥ (I am equal toward all beings); me na dveṣyaḥ asti na priyaḥ (none is hateful to me, none dear); ye tu māṃ bhaktyā bhajanti (but those who worship me with devotion), te mayi (they dwell in me); aham api teṣu (and I too dwell in them)."
+  },
+  "meaning": {
+    "te": "నేను సర్వప్రాణులయందు సముడను — నాకు ద్వేషితుడూ లేడు, ప్రియుడూ లేడు. అయితే భక్తితో నన్ను భజించేవారు నాలో ఉంటారు; నేనూ వారిలో ఉంటాను.",
+    "en": "I am equal to all beings — none is hateful to me, none especially dear. But those who worship me with devotion, they dwell in me, and I too dwell in them."
+  },
+  "tatparyam": {
+    "te": "నిష్పక్షపాతమైన సమదృష్టికీ, భక్తుని పట్ల ప్రత్యేక సాన్నిహిత్యానికీ మధ్య వైరుధ్యం లేదని ఈ శ్లోకం స్పష్టం చేస్తుంది. సూర్యుడు అందరిపైనా సమానంగా వెలుతురు కురిపిస్తాడు — కానీ కిటికీ తెరిచినవాడి గదిలో మాత్రమే ఆ వెలుతురు నిండుతుంది. దేవుని సమత్వం మారదు; భక్తుని తలుపు తెరవడమే అతని అనుభవాన్ని మారుస్తుంది. కనుక భగవంతుడు కొందరిని ప్రేమించి కొందరిని ద్వేషించడు — భక్తుడే తన హృదయద్వారాన్ని తెరిచి ఆ సాన్నిధ్యాన్ని అనుభవంలోకి తెచ్చుకుంటాడు.",
+    "en": "This verse resolves the apparent tension between impartial equanimity and special closeness to the devotee. The sun shines equally on everyone — yet its light fills only the room whose window has been opened. God's equality does not change; it is the devotee opening the door that changes his own experience of it. God does not love some and hate others; rather, the devotee opens the door of his own heart and brings that presence into felt experience."
+  }
+}

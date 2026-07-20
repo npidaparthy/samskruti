@@ -1,0 +1,31 @@
+{
+  "id": "dharma-040",
+  "tags": ["dharma", "satsanga", "hitopadesha"],
+  "shlokam": {
+    "te": "విద్యా విని యం దదాతి వినయాదాయాతి పాత్రతామ్ ।\nసత్సఙ్గాత్సుగుణా భవన్తి పురుషా వాచ్యస్తథా కేషుచిత్ ॥",
+    "sa": "विद्या विनयं ददाति विनयाद्यायाति पात्रताम् ।\nसत्सङ्गात्सुगुणा भवन्ति पुरुषा वाच्यस्तथा केषुचित् ॥",
+    "iast": "vidyā vinayaṃ dadāti vinayād yāyāti pātratām |\nsatsaṅgāt sugaṇā bhavanti puruṣā vācyas tathā keṣucit ||"
+  },
+  "chandaH": "శార్దూలవిక్రీడితము (Śārdūlavikrīḍita) — 19 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "హితోపదేశము",
+    "name_en": "Hitopadesha",
+    "chapter": "Mitralabha (echoing niti-001)"
+  },
+  "padavibhagam": {
+    "te": "విద్యా | వినయమ్ | దదాతి | వినయాత్ | యాతి | పాత్రతామ్ | సత్సఙ్గాత్ | సుగుణాః | భవన్తి | పురుషాః | వాచ్యః | తథా | కేషుచిత్",
+    "en": "vidyā | vinayam | dadāti | vinayāt | yāti | pātratām | satsaṅgāt | sugaṇāḥ | bhavanti | puruṣāḥ | vācyaḥ | tathā | keṣucit"
+  },
+  "anvayam": {
+    "te": "విద్యా వినయం దదాతి; వినయాత్ పాత్రతాం యాతి; సత్సఙ్గాత్ పురుషాః సుగుణాః భవన్తి; తథా కేషుచిత్ (దుర్జనసఙ్గాత్ దుర్గుణాః భవన్తి ఇతి) వాచ్యః.",
+    "en": "Vidyā vinayaṃ dadāti (learning gives humility); vinayāt yāti pātratām (from humility comes worthiness); satsaṅgāt puruṣāḥ sugaṇāḥ bhavanti (through good company men acquire good qualities); tathā keṣucit vācyaḥ (and it should likewise be said of some, through bad company, the opposite)."
+  },
+  "meaning": {
+    "te": "విద్య వినయాన్నిస్తుంది; వినయం వల్ల పాత్రత లభిస్తుంది. సత్సాంగత్యం వల్ల మనుషులు సుగుణవంతులవుతారు; అలాగే కొందరు (దుస్సాంగత్యం వల్ల) దుర్గుణులవుతారని కూడా చెప్పాలి.",
+    "en": "Learning gives humility; humility brings worthiness. Through good company, people acquire good qualities — and, it must likewise be said, some acquire the opposite through bad company."
+  },
+  "tatparyam": {
+    "te": "గ్రంథసంపుటిలోని మొదటి శ్లోకమైన 'విద్యా దదాతి వినయం'తో సంభాషణ చేస్తున్నట్లుండే ఈ శ్లోకం, ఆ సూత్రానికి ఒక ముఖ్యమైన చేర్పు జోడిస్తుంది — సత్సాంగత్యం. విద్య ఒక్కటే సరిపోదు; ఎవరి మధ్య ఉంటున్నామన్నదీ గుణనిర్మాణంలో సమాన పాత్ర పోషిస్తుంది. చివరి పాదంలో నిక్కచ్చిగా ఒప్పుకున్న సత్యం — దుస్సాంగత్యం సైతం అంతే బలంగా పనిచేస్తుందని. విద్యార్జనతో పాటు సాంగత్యాన్ని జాగ్రత్తగా ఎంచుకోవడమూ వ్యక్తిత్వ నిర్మాణంలో అంతే కీలకమన్నది ఈ జోడు సూత్రం.",
+    "en": "In dialogue with this very collection's first verse, 'vidyā dadāti vinayam', this shloka adds a crucial supplement: good company. Learning alone is not enough; whom one keeps company with plays an equally decisive role in shaping character. The final line admits, bluntly, that bad company works just as powerfully in the opposite direction. Choosing one's company with as much care as one pursues learning — that is the twin principle this verse insists on."
+  }
+}

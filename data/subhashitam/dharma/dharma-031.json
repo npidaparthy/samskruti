@@ -1,0 +1,31 @@
+{
+  "id": "dharma-031",
+  "tags": ["dharma", "atithi", "griha"],
+  "shlokam": {
+    "te": "అతిథిర్యస్య భగ్నాశో గృహాత్ప్రతినివర్తతే ।\nస దదాతి హి తస్మై స్వం పుణ్యాని చ పాపాని చ ॥",
+    "sa": "अतिथिर्यस्य भग्नाशो गृहात्प्रतिनिवर्तते ।\nस ददाति हि तस्मै स्वं पुण्यानि च पापानि च ॥",
+    "iast": "atithir yasya bhagnāśo gṛhāt prativartate |\nsa dadāti hi tasmai svaṃ puṇyāni ca pāpāni ca ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మనుస్మృతి",
+    "name_en": "Manusmriti",
+    "chapter": "3.100"
+  },
+  "padavibhagam": {
+    "te": "అతిథిః | యస్య | భగ్నాశః | గృహాత్ | ప్రతినివర్తతే | సః | దదాతి | హి | తస్మై | స్వమ్ | పుణ్యాని | చ | పాపాని | చ",
+    "en": "atithiḥ | yasya | bhagnāśaḥ | gṛhāt | prativartate | saḥ | dadāti | hi | tasmai | svam | puṇyāni | ca | pāpāni | ca"
+  },
+  "anvayam": {
+    "te": "యస్య గృహాత్ అతిథిః భగ్నాశః ప్రతినివర్తతే, సః తస్మై స్వం పుణ్యాని చ పాపాని చ దదాతి హి.",
+    "en": "Yasya gṛhāt (from whose house) atithiḥ bhagnāśaḥ (a guest, his hopes broken) prativartate (turns back), saḥ (that host) tasmai (to him) svaṃ puṇyāni ca pāpāni ca dadāti hi (indeed gives away his own merits and takes on his sins)."
+  },
+  "meaning": {
+    "te": "ఎవరి ఇంటి నుండి అతిథి ఆశాభంగుడై వెనుదిరుగుతాడో, అతడు తన పుణ్యాలను ఆ అతిథికి ఇచ్చేసి, అతని పాపాలను తాను తీసుకుంటాడు.",
+    "en": "From whichever house a guest turns back with hopes broken, the host gives away his own merits to that guest, and takes on the guest's sins in return."
+  },
+  "tatparyam": {
+    "te": "అతిథిసత్కారానికి మనువు ఇచ్చిన అత్యంత తీక్షణమైన హెచ్చరిక ఇది. ఇక్కడ లెక్క వింతగా అనిపించవచ్చు — అతిథిని అసంతృప్తిగా పంపిన గృహస్థుడు తన పుణ్యాన్ని కోల్పోయి, ఆ అతిథి పాపాలను మూటగట్టుకుంటాడు అనడం. కానీ భావం స్పష్టం: ఆతిథ్యం ఐచ్ఛికమైన దాతృత్వం కాదు, గృహస్థ ధర్మంలో అతి ముఖ్యమైన బాధ్యత. ద్వారం తట్టినవాడిని ఖాళీ చేతులతో పంపడం చిన్న విషయం కాదని, అది ఆధ్యాత్మిక ఖాతాలో నమోదయ్యే తీవ్రమైన లోటు అని చెప్పే ఈ శ్లోకమే 'అతిథిదేవో భవ' అన్న ఆదేశానికి పునాది.",
+    "en": "Manu's sharpest warning on hospitality. The arithmetic may seem strange — the host who sends a guest away disappointed loses his own merit and inherits the guest's sins. But the point is unmistakable: hospitality is not optional charity but among the gravest duties of a householder. Turning away one who knocked at the door empty-handed is no small matter — it registers as a serious deficit in the spiritual ledger. This verse underlies the very command 'atithidevo bhava' — treat the guest as God."
+  }
+}

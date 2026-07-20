@@ -1,0 +1,31 @@
+{
+  "id": "bhakti-026",
+  "tags": ["bhakti", "gita", "sharanagati"],
+  "shlokam": {
+    "te": "అనన్యాశ్చిన్తయన్తో మాం యే జనాః పర్యుపాసతే ।\nతేషాం నిత్యాభియుక్తానాం యోగక్షేమం వహామ్యహమ్ ॥",
+    "sa": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥",
+    "iast": "ananyāś cintayanto māṃ ye janāḥ paryupāsate |\nteṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmy aham ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (విభూతియోగము)",
+    "name_en": "Srimad Bhagavad Gita (Vibhuti Yoga)",
+    "chapter": "9.22"
+  },
+  "padavibhagam": {
+    "te": "అనన్యాః | చిన్తయన్తః | మామ్ | యే | జనాః | పర్యుపాసతే | తేషామ్ | నిత్యాభియుక్తానామ్ | యోగక్షేమమ్ | వహామి | అహమ్",
+    "en": "ananyāḥ | cintayantaḥ | mām | ye | janāḥ | paryupāsate | teṣām | nityābhiyuktānām | yogakṣemam | vahāmi | aham"
+  },
+  "anvayam": {
+    "te": "అనన్యాః (సన్తః) మాం చిన్తయన్తః యే జనాః పర్యుపాసతే, తేషాం నిత్యాభియుక్తానాం యోగక్షేమం అహం వహామి.",
+    "en": "Ananyāḥ (santaḥ) māṃ cintayantaḥ (thinking of none other but me), ye janāḥ paryupāsate (whoever worships me thus), teṣāṃ nityābhiyuktānāṃ (of those ever united with me) yogakṣemaṃ aham vahāmi (I myself carry the burden of their yoga-kshema — gaining what they lack and preserving what they have)."
+  },
+  "meaning": {
+    "te": "అనన్యభావంతో నన్నే స్మరిస్తూ సేవించే భక్తులకు — నిత్యమూ నాతో అనుసంధానమైన వారికి — వారి యోగక్షేమాలను నేనే వహిస్తాను.",
+    "en": "Those who, with undivided mind, worship me alone, thinking of nothing else — for those ever united with me, I myself bear the burden of gaining what they need and preserving what they have."
+  },
+  "tatparyam": {
+    "te": "గీతలోని అత్యంత ఆదరణీయమైన వాగ్దానం — 'యోగక్షేమం వహామ్యహమ్'. 'యోగం' అంటే లేనిదాన్ని పొందడం, 'క్షేమం' అంటే ఉన్నదాన్ని కాపాడటం; ఈ రెండు బాధ్యతలనూ భగవంతుడే స్వయంగా వహిస్తానంటున్నాడు — షరతు ఒక్కటే, అనన్యచిత్తంతో నిత్యమూ ఆయననే స్మరించడం. లౌకికచింత వదిలి ఆధ్యాత్మిక సాధనలో నిమగ్నమైనవారికి బతుకుతెరువు గురించిన బెంగ అనవసరమని ఇచ్చే భరోసా ఇది. నమ్మకంతో అర్పించినవానికి బాధ్యత ఆయనదే అవుతుందన్న ఈ మాటే భక్తిమార్గానికి పెద్ద ఊతం.",
+    "en": "One of the Gita's most cherished promises — 'yogakṣemaṃ vahāmyaham'. 'Yoga' is gaining what one lacks, 'kṣema' is preserving what one has; the Lord declares he himself will carry both burdens — the one condition being undivided, constant remembrance of him. It is the assurance that one absorbed in spiritual practice need not worry over worldly sustenance. This vow — that responsibility passes to him once surrendered in trust — is the great support of the path of devotion."
+  }
+}

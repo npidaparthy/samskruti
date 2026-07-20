@@ -1,0 +1,31 @@
+{
+  "id": "dharma-034",
+  "tags": ["dharma", "matru", "pitru"],
+  "shlokam": {
+    "te": "ఉపాధ్యాయాన్దశాచార్య ఆచార్యాణాం శతం పితా ।\nసహస్రం తు పితౄన్మాతా గౌరవేణాతిరిచ్యతే ॥",
+    "sa": "उपाध्यायान्दशाचार्य आचार्याणां शतं पिता ।\nसहस्रं तु पितॄन्माता गौरवेणातिरिच्यते ॥",
+    "iast": "upādhyāyān daśācārya ācāryāṇāṃ śataṃ pitā |\nsahasraṃ tu pitṝn mātā gauraveṇātiricyate ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మనుస్మృతి",
+    "name_en": "Manusmriti",
+    "chapter": "2.145"
+  },
+  "padavibhagam": {
+    "te": "ఉపాధ్యాయాన్ | దశ | ఆచార్యః | ఆచార్యాణామ్ | శతమ్ | పితా | సహస్రమ్ | తు | పితౄన్ | మాతా | గౌరవేణ | అతిరిచ్యతే",
+    "en": "upādhyāyān | daśa | ācāryaḥ | ācāryāṇām | śatam | pitā | sahasram | tu | pitṝn | mātā | gauraveṇa | atiricyate"
+  },
+  "anvayam": {
+    "te": "దశ ఉపాధ్యాయాన్ ఆచార్యః (అతిరిచ్యతే); ఆచార్యాణాం శతం పితా (అతిరిచ్యతే); సహస్రం పితౄన్ తు మాతా గౌరవేణ అతిరిచ్యతే.",
+    "en": "Daśa upādhyāyān (over ten ordinary teachers) ācāryaḥ (one preceptor-teacher outweighs); ācāryāṇāṃ śatam (over a hundred such preceptors) pitā (a father outweighs); sahasraṃ pitṝn tu (over a thousand fathers) mātā (a mother) gauraveṇa atiricyate (surpasses in worthiness of reverence)."
+  },
+  "meaning": {
+    "te": "పది ఉపాధ్యాయుల కన్నా ఒక ఆచార్యుడు గొప్పవాడు; వంద ఆచార్యుల కన్నా తండ్రి గొప్పవాడు; వెయ్యి మంది తండ్రుల కన్నా తల్లి గౌరవంలో మిన్న.",
+    "en": "One preceptor outweighs ten ordinary teachers in worth; a father outweighs a hundred such preceptors; and a mother surpasses a thousand fathers in the reverence she deserves."
+  },
+  "tatparyam": {
+    "te": "గురుపరంపరలో స్థానాలను హెచ్చుతగ్గుల క్రమంలో పేర్చి, తల్లిని అత్యున్నత శిఖరాన నిలిపిన శ్లోకం ఇది. ప్రతి మెట్టు వద్దా గౌరవం పదింతలవుతుంది — బోధించడం కన్నా జన్మనివ్వడం, జన్మనివ్వడం కన్నా పెంచిపోషించడం గొప్పదని ఈ గణితం సూచిస్తుంది. అమ్మ కడుపులో నెలలు మోసి, పాలిచ్చి, నిద్ర కరిగించి పెంచిన ఆ రుణం ఏ లెక్కకూ అందదు. 'మాతృదేవో భవ' అన్న ఉపనిషద్వాక్యానికి మనువు ఇచ్చిన సంఖ్యాత్మక వివరణ ఇది.",
+    "en": "This verse arranges the teaching lineage in ascending order of worth and sets the mother at its very peak. At each step reverence multiplies tenfold — teaching, the arithmetic suggests, is exceeded by the gift of birth, and birth itself is exceeded by the labour of raising a child. The debt of the mother who carried, nursed, and lost her sleep cannot be tallied by any measure. This is Manu's numerical gloss on the Upanishadic command: 'mātṛdevo bhava' — treat the mother as God."
+  }
+}

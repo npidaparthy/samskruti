@@ -1,0 +1,31 @@
+{
+  "id": "seva-020",
+  "tags": ["seva", "sharira", "dharma"],
+  "shlokam": {
+    "te": "అపి స్వశక్త్యా తపసి ప్రవర్తసే\nశరీరమాద్యం ఖలు ధర్మసాధనమ్ ॥",
+    "sa": "अपि स्वशक्त्या तपसि प्रवर्तसे\nशरीरमाद्यं खलु धर्मसाधनम् ॥",
+    "iast": "api svaśaktyā tapasi pravartase\nśarīram ādyaṃ khalu dharmasādhanam ||"
+  },
+  "chandaH": "వంశస్థము (Vaṃśastha) — 12 syllables per quarter",
+  "granthaH": {
+    "name_te": "కుమారసంభవము (కాళిదాసు)",
+    "name_en": "Kumarasambhava (Kalidasa)",
+    "chapter": "5.33"
+  },
+  "padavibhagam": {
+    "te": "అపి | స్వశక్త్యా | తపసి | ప్రవర్తసే | శరీరమ్ | ఆద్యమ్ | ఖలు | ధర్మసాధనమ్",
+    "en": "api | svaśaktyā | tapasi | pravartase | śarīram | ādyam | khalu | dharmasādhanam"
+  },
+  "anvayam": {
+    "te": "స్వశక్త్యా తపసి ప్రవర్తసే అపి (కిమ్)? శరీరమ్ ఆద్యం ధర్మసాధనం ఖలు.",
+    "en": "Svaśaktyā tapasi pravartase api (are you performing austerity within your strength)? Śarīram ādyaṃ dharmasādhanaṃ khalu (for the body, surely, is the first instrument of dharma)."
+  },
+  "meaning": {
+    "te": "నీ శక్తికి తగినట్లుగానే తపస్సు చేస్తున్నావా? శరీరమే ధర్మసాధనకు మొదటి పరికరం కదా!",
+    "en": "Are you keeping your austerities within your strength? For the body, after all, is the first instrument for the practice of dharma."
+  },
+  "tatparyam": {
+    "te": "ఘోరతపస్సు చేస్తున్న పార్వతిని బ్రహ్మచారి రూపంలో వచ్చిన శివుడు అడిగిన కుశలప్రశ్నలోని ఈ అర్ధశ్లోకం సంస్కృత సాహిత్యపు అమర సూక్తులలో ఒకటిగా నిలిచిపోయింది. లక్ష్యం ఎంత ఉన్నతమైనదైనా దానిని సాధించే పరికరం శరీరమే; పరికరాన్ని విరగ్గొట్టుకుంటే సాధన ఎలా సాగుతుంది? ఆరోగ్యరక్షణ భోగలాలస కాదు — ధర్మాచరణకు మొదటి మెట్టు. దేహదండననే భక్తిగా భావించే అతివాదానికి కాళిదాసు ఇచ్చిన సున్నిత సవరణ ఇది.",
+    "en": "This half-verse — from the well-being question Shiva, disguised as a young ascetic, puts to Parvati amid her fierce austerities — became one of Sanskrit's immortal aphorisms. However lofty the goal, the body is the instrument that must reach it; break the instrument and how will the striving go on? Care of health is not indulgence but the first step of dharma. Kalidasa's gentle correction to every extremism that mistakes self-harm for devotion."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "seva-015",
+  "tags": ["seva", "aparigraha", "bhagavatam"],
+  "shlokam": {
+    "te": "యావద్భ్రియేత జఠరం తావత్స్వత్వం హి దేహినామ్ ।\nఅధికం యోఽభిమన్యేత స స్తేనో దండమర్హతి ॥",
+    "sa": "यावद्भ्रियेत जठरं तावत्स्वत्वं हि देहिनाम् ।\nअधिकं योऽभिमन्येत स स्तेनो दण्डमर्हति ॥",
+    "iast": "yāvad bhriyeta jaṭharaṃ tāvat svatvaṃ hi dehinām |\nadhikaṃ yo'bhimanyeta sa steno daṇḍam arhati ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భాగవతము",
+    "name_en": "Srimad Bhagavatam",
+    "chapter": "7.14.8"
+  },
+  "padavibhagam": {
+    "te": "యావత్ | భ్రియేత | జఠరమ్ | తావత్ | స్వత్వమ్ | హి | దేహినామ్ | అధికమ్ | యః | అభిమన్యేత | సః | స్తేనః | దండమ్ | అర్హతి",
+    "en": "yāvat | bhriyeta | jaṭharam | tāvat | svatvam | hi | dehinām | adhikam | yaḥ | abhimanyeta | saḥ | stenaḥ | daṇḍam | arhati"
+  },
+  "anvayam": {
+    "te": "దేహినాం యావత్ జఠరం భ్రియేత, తావత్ హి స్వత్వమ్; యః అధికమ్ అభిమన్యేత, సః స్తేనః దండమ్ అర్హతి.",
+    "en": "Dehinām (for embodied beings) yāvat jaṭharaṃ bhriyeta (as much as fills the belly) tāvat hi svatvam (so much alone is one's rightful own); yaḥ adhikam abhimanyeta (whoever claims more as his), saḥ stenaḥ (he is a thief) daṇḍam arhati (and deserves punishment)."
+  },
+  "meaning": {
+    "te": "కడుపు నింపుకోవడానికి ఎంత అవసరమో అంతవరకే ప్రాణులకు స్వత్వం (హక్కు). అంతకు మించి 'నాది' అనుకునేవాడు దొంగ — దండనార్హుడు.",
+    "en": "Only so much as fills one's belly is a being's rightful own. Whoever claims more than that as 'mine' is a thief and deserves punishment."
+  },
+  "tatparyam": {
+    "te": "సంపదపై భాగవతం ప్రకటించిన విప్లవాత్మక సూత్రం — అవసరం వరకే హక్కు; మిగిలినదంతా సమాజపు ధరావతు. అవసరానికి మించి పోగేసుకోవడాన్ని పొదుపరితనం అనో సామర్థ్యం అనో లోకం మెచ్చుకుంటుంది; భాగవతం దానికి పెట్టిన పేరు 'స్తేయం' — దొంగతనం. ప్రకృతి వనరులు అందరివీ అయినప్పుడు ఒకరి అతిసంచయం మరొకరి లేమికి కారణమవుతుంది. గాంధీజీ చెప్పిన 'అందరి అవసరాలకు సరిపడేది భూమి వద్ద ఉంది, ఒక్కరి దురాశకు సరిపడేది లేదు' అన్న మాటకు ఇదే ప్రాచీన మూలం.",
+    "en": "The Bhagavata's revolutionary rule of property — rightful ownership extends to need; all beyond is held in trust for society. The world applauds accumulation as thrift or ability; the Bhagavata names it 'steya' — theft. When nature's resources belong to all, one person's hoard becomes another's want. Gandhi's saying that the earth has enough for everyone's need but not for anyone's greed has its ancient root here."
+  }
+}

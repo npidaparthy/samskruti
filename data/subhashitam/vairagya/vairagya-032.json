@@ -1,0 +1,31 @@
+{
+  "id": "vairagya-032",
+  "tags": ["vairagya", "vanam", "svabhava"],
+  "shlokam": {
+    "te": "వనే రమ్యే వసేద్యోగీ వారిణ్యగ్నౌ చ నిర్మలే ।\nవాయుమాత్రేణ సన్తుష్టః న సుఖం విన్దతే యథా ॥",
+    "sa": "वने रम्ये वसेद्योगी वारिण्यग्नौ च निर्मले ।\nवायुमात्रेण सन्तुष्टः न सुखं विन्दते यथा ॥",
+    "iast": "vane ramye vased yogī vāriṇy agnau ca nirmale |\nvāyumātreṇa santuṣṭaḥ na sukhaṃ vindate yathā ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత రత్నభాండాగారము",
+    "name_en": "Subhashita Ratnabhandagara",
+    "chapter": "traditional subhashitam"
+  },
+  "padavibhagam": {
+    "te": "వనే | రమ్యే | వసేత్ | యోగీ | వారిణి | అగ్నౌ | చ | నిర్మలే | వాయుమాత్రేణ | సన్తుష్టః | న | సుఖమ్ | విన్దతే | యథా",
+    "en": "vane | ramye | vaset | yogī | vāriṇi | agnau | ca | nirmale | vāyumātreṇa | santuṣṭaḥ | na | sukham | vindate | yathā"
+  },
+  "anvayam": {
+    "te": "యోగీ రమ్యే వనే వసేత్; నిర్మలే వారిణి అగ్నౌ చ (సన్తుష్టః భవేత్); వాయుమాత్రేణ సన్తుష్టః (సన్) యథా సుఖం న విన్దతే, (తథా బాహ్యవస్తుభిః న).",
+    "en": "Yogī ramye vane vaset (a yogi may dwell in a lovely forest), nirmale vāriṇi agnau ca (content with pure water and fire alone); vāyumātreṇa santuṣṭaḥ (satisfied even with air alone), yathā sukhaṃ na vindate (yet still may not find happiness, unless the mind itself is at peace)."
+  },
+  "meaning": {
+    "te": "యోగి రమణీయ వనంలో నివసించవచ్చు; స్వచ్ఛమైన నీటితో, అగ్నితో తృప్తిపడవచ్చు; కేవలం గాలితో సంతృప్తి చెందవచ్చు — అయినా మనసు నిలకడ లేకపోతే సుఖం లభించదు.",
+    "en": "A yogi may dwell in a lovely forest, content with pure water and fire, satisfied even with air alone — yet if the mind itself is not at peace, happiness will still elude him."
+  },
+  "tatparyam": {
+    "te": "బాహ్యసౌకర్యాలను శూన్యానికి తగ్గించినా అంతర్గత ప్రశాంతత రాకపోతే ప్రయోజనం లేదని చెప్పే శ్లోకం. అడవి రమణీయమైనదైనా, నీరు స్వచ్ఛమైనదైనా, జీవనం అతిసామాన్యమైనదైనా — ఇవన్నీ బాహ్యపరిస్థితులు మాత్రమే. సుఖం ఆ పరిస్థితుల్లో లేదు, మనసు స్థితిలో ఉంది. స్థలం మార్చడం సమస్యకు పరిష్కారం కాదు — మనసు మారకపోతే రాజప్రాసాదంలోనూ అశాంతే, గుహలోనూ అశాంతే అన్నది వైరాగ్యానికి ఈ శ్లోకం ఇచ్చే లోతైన హెచ్చరిక.",
+    "en": "A warning that reducing external comforts to nothing avails little if inner stillness does not follow. However lovely the forest, however pure the water, however austere the life — all of this remains external circumstance. Happiness resides not in the circumstance but in the state of the mind. Changing location is no solution — restlessness follows the unquiet mind whether into a palace or a cave; that is this verse's deep caution to the pursuit of renunciation."
+  }
+}

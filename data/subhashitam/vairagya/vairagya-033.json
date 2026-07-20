@@ -1,0 +1,31 @@
+{
+  "id": "vairagya-033",
+  "tags": ["vairagya", "kaya", "chapala"],
+  "shlokam": {
+    "te": "క్షణం చిత్తం క్షణం విత్తం క్షణం జీవితమావయోః ।\nయమస్య కరుణా నాస్తి ధర్మస్య త్వరితా గతిః ॥",
+    "sa": "क्षणं चित्तं क्षणं वित्तं क्षणं जीवितमावयोः ।\nयमस्य करुणा नास्ति धर्मस्य त्वरिता गतिः ॥",
+    "iast": "kṣaṇaṃ cittaṃ kṣaṇaṃ vittaṃ kṣaṇaṃ jīvitam āvayoḥ |\nyamasya karuṇā nāsti dharmasya tvaritā gatiḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత రత్నభాండాగారము",
+    "name_en": "Subhashita Ratnabhandagara",
+    "chapter": "traditional subhashitam"
+  },
+  "padavibhagam": {
+    "te": "క్షణమ్ | చిత్తమ్ | క్షణమ్ | విత్తమ్ | క్షణమ్ | జీవితమ్ | ఆవయోః | యమస్య | కరుణా | న | అస్తి | ధర్మస్య | త్వరితా | గతిః",
+    "en": "kṣaṇam | cittam | kṣaṇam | vittam | kṣaṇam | jīvitam | āvayoḥ | yamasya | karuṇā | na | asti | dharmasya | tvaritā | gatiḥ"
+  },
+  "anvayam": {
+    "te": "ఆవయోః చిత్తం క్షణమ్; విత్తం క్షణమ్; జీవితం క్షణమ్; యమస్య కరుణా న అస్తి; ధర్మస్య గతిః త్వరితా (భవతు).",
+    "en": "Āvayoḥ (of both of us) cittaṃ kṣaṇam (the mind lasts but a moment), vittaṃ kṣaṇam (wealth but a moment), jīvitam kṣaṇam (life but a moment); yamasya karuṇā na asti (Yama, the lord of death, shows no mercy); dharmasya gatiḥ tvaritā (let the pursuit of dharma, then, be swift)."
+  },
+  "meaning": {
+    "te": "మన మనసూ, ధనమూ, జీవితమూ క్షణికమైనవే. యమునికి కరుణ లేదు. కనుక ధర్మాచరణ శీఘ్రమే జరగాలి.",
+    "en": "Our mind, our wealth, our life — all last but a moment. Death shows no mercy. Therefore let the pursuit of dharma be swift."
+  },
+  "tatparyam": {
+    "te": "మూడు క్షణికాలను ఏకరువు పెట్టి, ఒకే ఒక నిశ్చయానికి చేరే శ్లోకం — వాయిదా వేయవద్దు. మనసు కూడా క్షణికమే అనడం విశేషం — ఆలోచనలు, తీర్మానాలు క్షణక్షణం మారతాయి; అందుకే మంచి సంకల్పం కలిగిన క్షణంలోనే దానిని ఆచరణలో పెట్టాలి, రేపటికి వాయిదా వేయకూడదు. యముడికి కరుణ లేదన్న మాట భయపెట్టడానికి కాదు — వాస్తవాన్ని నిష్కర్షగా చెప్పి, ఆ వాస్తవం ముందు ధర్మాచరణను వేగవంతం చేయమని ప్రేరేపించడానికి.",
+    "en": "Naming three fleeting things in a row, the verse arrives at a single resolve — do not delay. That the mind too is called momentary is notable — thoughts and resolutions shift by the instant, so the good intention formed this moment must be acted upon now, not deferred to tomorrow. To say death shows no mercy is not meant to frighten but to state a fact plainly, and to use that fact as the spur that quickens one's practice of dharma."
+  }
+}

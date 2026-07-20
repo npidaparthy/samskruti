@@ -1,0 +1,31 @@
+{
+  "id": "dharma-038",
+  "tags": ["dharma", "sadachara", "shishtachara"],
+  "shlokam": {
+    "te": "యద్యదాచరతి శిష్టః శిష్టస్తత్ప్రమాణమ్ ।\nసదాచారః పరో ధర్మః శ్రుతిస్మృత్యుద్భవో హి సః ॥",
+    "sa": "यद्यदाचरति शिष्टः शिष्टस्तत्प्रमाणम् ।\nसदाचारः परो धर्मः श्रुतिस्मृत्युद्भवो हि सः ॥",
+    "iast": "yad yad ācarati śiṣṭaḥ śiṣṭas tat pramāṇam |\nsadācāraḥ paro dharmaḥ śrutismṛtyudbhavo hi saḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "ధర్మశాస్త్ర సంప్రదాయము",
+    "name_en": "Dharmashastra tradition",
+    "chapter": "widely quoted maxim"
+  },
+  "padavibhagam": {
+    "te": "యత్ | యత్ | ఆచరతి | శిష్టః | శిష్టః | తత్ | ప్రమాణమ్ | సదాచారః | పరః | ధర్మః | శ్రుతిస్మృత్యుద్భవః | హి | సః",
+    "en": "yat | yat | ācarati | śiṣṭaḥ | śiṣṭaḥ | tat | pramāṇam | sadācāraḥ | paraḥ | dharmaḥ | śrutismṛtyudbhavaḥ | hi | saḥ"
+  },
+  "anvayam": {
+    "te": "శిష్టః యత్ యత్ ఆచరతి, శిష్టస్య తత్ ప్రమాణమ్; సదాచారః పరః ధర్మః; సః హి శ్రుతిస్మృత్యుద్భవః.",
+    "en": "Śiṣṭaḥ yat yat ācarati (whatever a cultured, learned person practises), śiṣṭasya tat pramāṇam (that becomes the standard set by the cultured); sadācāraḥ paraḥ dharmaḥ (good conduct is the supreme dharma); saḥ hi śrutismṛtyudbhavaḥ (for it arises from the Vedas and the Smritis)."
+  },
+  "meaning": {
+    "te": "శిష్టుడు ఏది ఏది ఆచరిస్తాడో అదే ప్రమాణం అవుతుంది. సదాచారమే పరమ ధర్మం — అది శ్రుతిస్మృతుల నుండి ఉద్భవించినదే.",
+    "en": "Whatever a cultured, well-conducted person practises becomes the standard. Good conduct is the highest dharma — for it springs from the Vedas and the Smritis themselves."
+  },
+  "tatparyam": {
+    "te": "ధర్మనిర్ణయంలో గ్రంథప్రమాణం ఒక్కటే సరిపోదు, జీవించే ఆచరణ కూడా ప్రమాణమేనని ధర్మశాస్త్రం ఇచ్చిన కీలక సూత్రం ఇది. కొత్త పరిస్థితులకు శాస్త్రవాక్యం స్పష్టంగా లేనప్పుడు, సచ్ఛీలురైన పెద్దలు ఆచరించే విధానమే మార్గదర్శకం అవుతుంది — ఎందుకంటే వారి ఆచరణలో శ్రుతిస్మృతుల స్ఫూర్తి ఇప్పటికే ఇంకిపోయి ఉంటుంది. దీనివల్లే ధర్మం స్తంభించిన శాసనం కాకుండా, కాలానుగుణంగా జీవించే సంప్రదాయమవుతుంది — శిష్టాచారమే దాని ప్రాణం.",
+    "en": "A key axiom of dharmashastra: scriptural text alone cannot settle every question of right conduct — living practice is itself a valid proof. When explicit scripture is silent on a new situation, the conduct of virtuous, cultured elders becomes the guide — for the spirit of the Vedas and Smritis has already been absorbed into their practice. This is why dharma remains a living tradition rather than a frozen statute, kept alive precisely through the conduct of the good."
+  }
+}

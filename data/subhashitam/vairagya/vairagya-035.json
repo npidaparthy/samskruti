@@ -1,0 +1,31 @@
+{
+  "id": "vairagya-035",
+  "tags": ["vairagya", "gita", "kama-krodha"],
+  "shlokam": {
+    "te": "ధ్యాయతో విషయాన్పుంసః సంగస్తేషూపజాయతే ।\nసంగాత్సంజాయతే కామః కామాత్క్రోధోఽభిజాయతే ॥",
+    "sa": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ॥",
+    "iast": "dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate |\nsaṅgāt sañjāyate kāmaḥ kāmāt krodho'bhijāyate ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
+    "chapter": "2.62"
+  },
+  "padavibhagam": {
+    "te": "ధ్యాయతః | విషయాన్ | పుంసః | సంగః | తేషు | ఉపజాయతే | సంగాత్ | సంజాయతే | కామః | కామాత్ | క్రోధః | అభిజాయతే",
+    "en": "dhyāyataḥ | viṣayān | puṃsaḥ | saṅgaḥ | teṣu | upajāyate | saṅgāt | sañjāyate | kāmaḥ | kāmāt | krodhaḥ | abhijāyate"
+  },
+  "anvayam": {
+    "te": "విషయాన్ ధ్యాయతః పుంసః తేషు సంగః ఉపజాయతే; సంగాత్ కామః సంజాయతే; కామాత్ క్రోధః అభిజాయతే.",
+    "en": "Viṣayān dhyāyataḥ puṃsaḥ (in a man who dwells in thought on sense-objects), teṣu saṅgaḥ upajāyate (attachment to them arises); saṅgāt kāmaḥ sañjāyate (from attachment, desire is born); kāmāt krodhaḥ abhijāyate (from desire, anger is born)."
+  },
+  "meaning": {
+    "te": "విషయాలను ధ్యానిస్తూ ఉండే మనిషికి వాటిపై ఆసక్తి కలుగుతుంది; ఆసక్తి నుండి కామం పుడుతుంది; కామం నుండి క్రోధం జనిస్తుంది.",
+    "en": "In a man who keeps dwelling in thought on sense-objects, attachment to them arises; from attachment is born desire; and from desire is born anger."
+  },
+  "tatparyam": {
+    "te": "పతనానికి దారితీసే మానసిక గొలుసును గీత ఇక్కడ శస్త్రచికిత్సకుని కచ్చితత్వంతో విడదీస్తుంది — తరువాతి శ్లోకాలలో ఈ గొలుసు క్రోధం నుండి సంమోహానికీ, స్మృతినాశనానికీ, బుద్ధినాశనానికీ, చివరకు సంపూర్ణ పతనానికీ కొనసాగుతుంది. మూలకారణం బాహ్యవస్తువు కాదు — దానిపై పదేపదే మనసు లగ్నం చేయడమే ('ధ్యాయతః'). మొదటి కడియాన్ని — విషయచింతనను — నియంత్రించగలిగితే గొలుసు మొత్తం ఆగిపోతుంది. ఆధునిక మనస్తత్వశాస్త్రం నేటికీ గుర్తించే ఈ కారణపరంపర గీత అప్పుడే స్పష్టంగా చిత్రించింది.",
+    "en": "The Gita here dissects, with a surgeon's precision, the mental chain that leads to downfall — in verses that follow, this chain continues from anger to delusion, loss of memory, loss of judgment, and total ruin. The root cause is not the external object but the mind's repeated dwelling upon it — 'dhyāyataḥ'. Control the first link — contemplation of the object — and the whole chain halts. A causal sequence that modern psychology still recognises, mapped out here with total clarity."
+  }
+}

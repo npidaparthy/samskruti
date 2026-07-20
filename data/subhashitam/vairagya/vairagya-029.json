@@ -1,0 +1,31 @@
+{
+  "id": "vairagya-029",
+  "tags": ["vairagya", "sukha", "duhkha"],
+  "shlokam": {
+    "te": "సురమన్దిరతరుమూలనివాసః\nశయ్యా భూతలమజినం వాసః ।\nసర్వపరిగ్రహభోగత్యాగః\nకస్య సుఖం న కరోతి విరాగః ॥",
+    "sa": "सुरमन्दिरतरुमूलनिवासः\nशय्या भूतलमजिनं वासः ।\nसर्वपरिग्रहभोगत्यागः\nकस्य सुखं न करोति विरागः ॥",
+    "iast": "suramandiratarumūlanivāsaḥ\nśayyā bhūtalam ajinaṃ vāsaḥ |\nsarvaparigrahabhogatyāgaḥ\nkasya sukhaṃ na karoti virāgaḥ ||"
+  },
+  "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
+  "granthaH": {
+    "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
+    "name_en": "Bhaja Govindam (Adi Shankaracharya)",
+    "chapter": "verse 22"
+  },
+  "padavibhagam": {
+    "te": "సురమన్దిర | తరుమూల | నివాసః | శయ్యా | భూతలమ్ | అజినమ్ | వాసః | సర్వపరిగ్రహ | భోగత్యాగః | కస్య | సుఖమ్ | న | కరోతి | విరాగః",
+    "en": "suramandira | tarumūla | nivāsaḥ | śayyā | bhūtalam | ajinam | vāsaḥ | sarvaparigraha | bhogatyāgaḥ | kasya | sukham | na | karoti | virāgaḥ"
+  },
+  "anvayam": {
+    "te": "సురమన్దిరతరుమూలనివాసః, భూతలం శయ్యా, అజినం వాసః, సర్వపరిగ్రహభోగత్యాగః — విరాగః కస్య సుఖం న కరోతి?",
+    "en": "Suramandiratarumūlanivāsaḥ (dwelling at the foot of a tree by a temple), bhūtalaṃ śayyā (the bare earth as bed), ajinaṃ vāsaḥ (a deerskin as clothing), sarvaparigrahabhogatyāgaḥ (renunciation of all possession and enjoyment) — kasya sukhaṃ na karoti virāgaḥ (whom does such detachment not bring happiness)?"
+  },
+  "meaning": {
+    "te": "గుడి వద్ద చెట్టు మొదట్లో నివాసం, నేలనే పాన్పుగా, జింకచర్మాన్నే వస్త్రంగా చేసుకుని, సమస్త పరిగ్రహభోగాలనూ త్యజించిన వైరాగ్యం ఎవరికి సుఖాన్ని కలిగించదు?",
+    "en": "Dwelling at the foot of a tree by a shrine, the bare earth for a bed, a deerskin for clothing, and renunciation of all possession and pleasure — whom would such detachment not bring happiness?"
+  },
+  "tatparyam": {
+    "te": "సన్యాసజీవితపు కనీస అవసరాలను వర్ణిస్తూ, వాటిలోనే దాగిన సుఖాన్ని ప్రశ్నరూపంలో బయటపెట్టే శ్లోకం. లోకం భావించే సుఖం సముపార్జనలో ఉంటుంది; ఇక్కడ శంకరులు దానికి పూర్తి వ్యతిరేకమైన చిత్రం చూపుతారు — ఏమీ లేకపోవడంలోనే ఉండే స్వేచ్ఛ. వస్తువులు కాపాడుకోవలసిన బాధ్యత లేనప్పుడు మనసుకు లభించే తేలికదనమే ఈ ప్రశ్నలోని రహస్యం. కలిగి ఉండటమే సుఖం అనుకునే ఆధునిక ధోరణికి ఇది ఒక ప్రాచీన ప్రతి-ప్రతిపాదన.",
+    "en": "Describing the barest necessities of ascetic life, the verse springs its point as a question — happiness hiding precisely inside that lack. The world imagines happiness lies in accumulation; Shankara here paints the exact opposite picture — the freedom found in owning nothing at all. The lightness a mind gains once it has nothing to protect is the secret behind this rhetorical question, an ancient counter-proposal to the modern equation of possession with joy."
+  }
+}
