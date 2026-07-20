@@ -576,6 +576,7 @@ window.StotramApp = {
     }
 
     window.StotramAudio?.setup(meta);
+
     await this.renderSection(slug, 0);
   },
 
