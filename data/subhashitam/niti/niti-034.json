@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "వాల్మీకి రామాయణము (అరణ్యకాండము)",
     "name_en": "Valmiki Ramayana (Aranya Kanda)",
-    "chapter": "Aranya Kanda 37.2 (Maricha to Ravana)"
+    "chapter": "Aranya Kanda 37.2 (Maricha to Ravana)",
+    "grantha": "Rāmāyaṇa",
+    "grantha_te": "రామాయణమ్",
+    "grantha_sa": "रामायणम्"
   },
   "padavibhagam": {
     "te": "సులభాః | పురుషాః | రాజన్ | సతతమ్ | ప్రియవాదినః | అప్రియస్య | చ | పథ్యస్య | వక్తా | శ్రోతా | చ | దుర్లభః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "సీతాపహరణానికి ముందు మారీచుడు రావణునికి చెప్పిన హెచ్చరిక ఇది. ముఖస్తుతి చేసేవారు ప్రతి సభలోనూ ఉంటారు; చేదు నిజం చెప్పే హితైషి అరుదు — అంతకన్నా అరుదు దానిని ఓర్చుకుని వినగల నాయకుడు. రావణుడు వినలేదు; ఫలితం రామాయణమంతా చెబుతుంది. విమర్శను స్వాగతించగలగడమే నిజమైన బలమని ఈ శ్లోకం నేటి నాయకులకూ, ప్రతి వ్యక్తికీ గుర్తుచేస్తుంది.",
     "en": "This is Maricha's warning to Ravana before the abduction of Sita. Flatterers fill every court; the well-wisher who utters a bitter truth is rare — and rarer still the leader who can bear to hear it. Ravana would not listen, and the rest of the Ramayana tells the price. The capacity to welcome criticism is real strength — a reminder as urgent for leaders today as it was then."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

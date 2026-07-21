@@ -2,7 +2,6 @@
   "id": "vairagya-035",
   "tags": [
     "vairagya",
-    "gita",
     "kama-krodha"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.62"
+    "chapter": "2.62",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "ధ్యాయతః | విషయాన్ | పుంసః | సంగః | తేషు | ఉపజాయతే | సంగాత్ | సంజాయతే | కామః | కామాత్ | క్రోధః | అభిజాయతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "పతనానికి దారితీసే మానసిక గొలుసును గీత ఇక్కడ శస్త్రచికిత్సకుని కచ్చితత్వంతో విడదీస్తుంది — తరువాతి శ్లోకాలలో ఈ గొలుసు క్రోధం నుండి సంమోహానికీ, స్మృతినాశనానికీ, బుద్ధినాశనానికీ, చివరకు సంపూర్ణ పతనానికీ కొనసాగుతుంది. మూలకారణం బాహ్యవస్తువు కాదు — దానిపై పదేపదే మనసు లగ్నం చేయడమే ('ధ్యాయతః'). మొదటి కడియాన్ని — విషయచింతనను — నియంత్రించగలిగితే గొలుసు మొత్తం ఆగిపోతుంది. ఆధునిక మనస్తత్వశాస్త్రం నేటికీ గుర్తించే ఈ కారణపరంపర గీత అప్పుడే స్పష్టంగా చిత్రించింది.",
     "en": "The Gita here dissects, with a surgeon's precision, the mental chain that leads to downfall — in verses that follow, this chain continues from anger to delusion, loss of memory, loss of judgment, and total ruin. The root cause is not the external object but the mind's repeated dwelling upon it — 'dhyāyataḥ'. Control the first link — contemplation of the object — and the whole chain halts. A causal sequence that modern psychology still recognises, mapped out here with total clarity."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -2,7 +2,6 @@
   "id": "dharma-045",
   "tags": [
     "dharma",
-    "gita",
     "sattva-guna"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "3.13"
+    "chapter": "3.13",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యజ్ఞశిష్టాశినః | సన్తః | ముచ్యన్తే | సర్వకిల్బిషైః | భుఞ్జతే | తే | తు | అఘమ్ | పాపాః | యే | పచన్తి | ఆత్మకారణాత్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఆహారాన్ని కూడా అర్పణభావంతో స్వీకరించమని బోధించే గీత శ్లోకం. మొదట ఇతరులకూ, దేవతలకూ, ప్రకృతికీ అర్పించి, మిగిలినదాన్ని తినడమే 'యజ్ఞశిష్టాశనం' — ఇది కృతజ్ఞతాభావంతో కూడిన భోజనవిధానం. కేవలం తన కడుపు నింపుకోవడానికే వండుకుని తినేవాడు ఆ చర్యలో స్వార్థాన్నే పోషిస్తున్నాడని గీత తీక్షణంగా చెబుతుంది. ఆహారం, దాని మూలం, దానిని పండించినవారి శ్రమ పట్ల కృతజ్ఞత లేని భోజనం కేవలం స్వార్థపూరిత చర్య అవుతుందని ఈ శ్లోకం హెచ్చరిస్తుంది — తినడమనే నిత్యకర్మలో కూడా దాతృత్వభావం ఇమిడి ఉండాలని బోధిస్తూ.",
     "en": "A Gita verse teaching that even eating should be received in a spirit of offering. First offering to others, to the divine, to nature, and only then partaking of what remains — this is 'yajñaśiṣṭāśana', eating with a spirit of gratitude. Krishna states sharply that one who cooks and eats purely to fill their own stomach is nourishing nothing but selfishness in that very act. A meal eaten without gratitude for the food, its origin, and the labour of those who grew it becomes, this verse warns, a purely self-serving act — teaching that even the daily act of eating should carry within it a spirit of giving."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

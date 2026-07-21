@@ -14,7 +14,10 @@
   "chandaH": "ఇన్ద్రవజ్ర / ఉపేన్ద్రవజ్ర (Indravajrā / Upendravajrā mix) — 11 syllables per quarter",
   "granthaH": {
     "name_te": "భర్తృహరి నీతిశతకం",
-    "name_en": "Bhartṛhari — Nītiśataka"
+    "name_en": "Bhartṛhari — Nītiśataka",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "యేషాం | న | విద్యా | న | తపః | న | దానం | జ్ఞానం | న | శీలం | న | గుణః | న | ధర్మః | తే | మర్త్యలోకే | భువి | భారభూతాః | మనుష్యరూపేణ | మృగాః | చరన్తి",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "మనుష్య జన్మ యొక్క శ్రేష్ఠత ఈ సద్గుణాల వికాసంలో ఉంది. వాటిలో ఏదీ లేకపోయినా కేవలం ఆకారం మాత్రమే మనిషిది — మనసు జంతువు వంటిది. భర్తృహరి ఈ శ్లోకంలో మానవ జీవితానికి అర్థాన్ని ఇచ్చే ఏడు లక్షణాలను స్పష్టంగా చెప్పాడు.",
     "en": "The distinction of human birth lies in the cultivation of these seven qualities. Without even one of them, only the physical form is human — the inner life remains animal. Bhartṛhari lists seven markers of a truly human life: learning, austerity, charity, wisdom, character, virtue, and righteousness. Their absence is not merely a deficiency — it is a waste of a rare birth."
-  }
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
 }

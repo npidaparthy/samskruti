@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి వైరాగ్యశతకము",
     "name_en": "Bhartrhari's Vairagya Shataka",
-    "chapter": "verse 53"
+    "chapter": "verse 53",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "వయమ్ | ఇహ | పరితుష్టాః | వల్కలైః | త్వమ్ | చ | లక్ష్మ్యా | సమః | ఇహ | పరితోషః | నిర్విశేషః | విశేషః | సః | తు | భవతు | దరిద్రః | యస్య | తృష్ణా | విశాలా | మనసి | చ | పరితుష్టే | కః | అర్థవాన్ | కః | దరిద్రః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఒక రాజుకు సన్యాసి ఇచ్చిన సమాధానంగా చెప్పబడే ఈ శ్లోకం సంపద కొలమానాన్నే మార్చేస్తుంది. ధనవంతుడెవరో నిర్ణయించేది బ్యాంకు ఖాతా కాదు — తృష్ణకూ తృప్తికీ మధ్య ఉన్న దూరం. కోట్లున్నా ఇంకా కావాలనుకునేవాడు దరిద్రుడే; ఉన్నదానితో నిండుగా ఉన్నవాడు నారచీరలోనూ చక్రవర్తే. సంతోషం సంపాదనలో లేదు, సంతృప్తిలో ఉంది అన్నది భర్తృహరి తేల్చిన లెక్క.",
     "en": "Framed as an ascetic's reply to a king, this verse redefines the measure of wealth. What decides who is rich is not the treasury but the distance between craving and contentment. The man with millions who still wants more is a pauper; the man complete with what he has is an emperor in bark cloth. Happiness lies not in acquisition but in sufficiency — Bhartrhari's final arithmetic."
-  }
+  },
+  "chanda_key": "malini",
+  "chanda_sa": "मालिनी",
+  "chanda_te": "మాలినీ"
 }

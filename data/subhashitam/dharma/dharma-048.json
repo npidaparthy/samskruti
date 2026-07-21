@@ -2,7 +2,6 @@
   "id": "dharma-048",
   "tags": [
     "dharma",
-    "gita",
     "sattvika-bhojana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (శ్రద్ధాత్రయవిభాగయోగము)",
     "name_en": "Srimad Bhagavad Gita (Shraddhatraya Vibhaga Yoga)",
-    "chapter": "17.8"
+    "chapter": "17.8",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "ఆయుఃసత్త్వబలారోగ్యసుఖప్రీతివివర్ధనాః | రస్యాః | స్నిగ్ధాః | స్థిరాః | హృద్యాః | ఆహారాః | సాత్త్వికప్రియాః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఆహారానికీ మనఃస్థితికీ ఉన్న సంబంధాన్ని గీత శాస్త్రీయంగా వర్గీకరించిన అధ్యాయంలో ఇది తొలి శ్లోకం. ఆహారం కేవలం శరీరపోషణకే కాదు, మనసుపైనా ప్రభావం చూపుతుందని ఈ వర్గీకరణ చెబుతుంది — ఆధునిక పోషకాహారశాస్త్రం, మానసిక ఆరోగ్యశాస్త్రం ఇటీవలే గుర్తించిన సంబంధాన్ని గీత వేల ఏళ్ళ క్రితమే స్పష్టం చేసింది. తినేదాన్ని ఎంచుకోవడం అనేది కేవలం రుచి విషయం కాదు, తన మనఃస్థితిని తానే నిర్మించుకునే ఎంపిక అని ఈ శ్లోకం గుర్తుచేస్తుంది.",
     "en": "This is the opening verse of the chapter where the Gita scientifically classifies the connection between diet and mental state. This classification shows that food affects not only the body but the mind — a connection modern nutrition science and mental health research have only recently begun to fully recognise, one the Gita made explicit millennia earlier. Choosing what to eat, this verse reminds us, is not merely a matter of taste but a choice by which one shapes one's own state of mind."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

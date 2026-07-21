@@ -2,8 +2,7 @@
   "id": "dharma-041",
   "tags": [
     "dharma",
-    "shanti",
-    "upanishad"
+    "shanti"
   ],
   "shlokam": {
     "te": "ఓం ద్యౌః శాన్తిరన్తరిక్షం శాన్తిః\nపృథివీ శాన్తిరాపః శాన్తిరోషధయః శాన్తిః ।\nవనస్పతయః శాన్తిర్విశ్వేదేవాః శాన్తిర్బ్రహ్మ శాన్తిః\nసర్వం శాన్తిః శాన్తిరేవ శాన్తిః సా మా శాన్తిరేధి ॥",
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "యజుర్వేదము (శాన్తిపాఠము)",
     "name_en": "Yajurveda (Shanti Patha)",
-    "chapter": "traditional invocation"
+    "chapter": "traditional invocation",
+    "grantha": "Veda / Mantra",
+    "grantha_te": "వేదమన్త్రాః",
+    "grantha_sa": "वेदमन्त्राः"
   },
   "padavibhagam": {
     "te": "ద్యౌః | శాన్తిః | అన్తరిక్షమ్ | శాన్తిః | పృథివీ | శాన్తిః | ఆపః | శాన్తిః | ఓషధయః | శాన్తిః | వనస్పతయః | శాన్తిః | విశ్వేదేవాః | శాన్తిః | బ్రహ్మ | శాన్తిః | సర్వమ్ | శాన్తిః | శాన్తిః | ఏవ | శాన్తిః | సా | మా | శాన్తిః | ఏధి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "వేదకాలపు అత్యంత విస్తృతమైన శాంతిమంత్రాలలో ఒకటి — వ్యక్తిగత శాంతిని కోరుకోవడానికి ముందు, విశ్వంలోని ప్రతి పొరనూ శాంతితో నింపమని ప్రార్థించడం విశేషం. ఆకాశం నుండి భూమి వరకూ, జలాల నుండి వృక్షాల వరకూ, దేవతల నుండి బ్రహ్మం వరకూ — సమస్త సృష్టీ శాంతిమయమైతేనే వ్యక్తికి నిజమైన శాంతి లభిస్తుందన్న సమగ్రదృష్టి ఇందులో ఉంది. వ్యక్తిగత శాంతి, సామాజిక శాంతి, పర్యావరణ శాంతి — వీటిని వేరుచేసి చూడలేమని, అన్నీ ఒకే వస్త్రంలోని దారాలని ఈ మంత్రం చాటుతుంది.",
     "en": "One of the most expansive of the Vedic peace-invocations — notable for praying that every layer of the universe be filled with peace before asking for personal peace at all. From sky to earth, from waters to trees, from gods to Brahman — the vision here is that individual peace becomes real only when the whole of creation is at peace. This mantra declares that personal peace, social peace, and ecological peace cannot be separated — all are threads of the same fabric."
-  }
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
 }

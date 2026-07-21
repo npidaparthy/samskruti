@@ -13,7 +13,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "సుభాషిత సంప్రదాయం",
-    "name_en": "Subhāṣita tradition"
+    "name_en": "Subhāṣita tradition",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "కాకః | కృష్ణః | పికః | కృష్ణః | కః | భేదః | పిక-కాకయోః | వసన్తకాలే | సంప్రాప్తే | కాకః | కాకః | పికః | పికః",
@@ -30,5 +33,8 @@
   "tatparyam": {
     "te": "రూపం వల్ల మనుష్యుని గుణం తెలియదు. అదే విధంగా కాకి, కోయిల రెండూ నల్లగా ఉంటాయి. వసంతకాలం వచ్చినప్పుడు కోయిల తన మధుర స్వరంతో తనను తాను వేరుపరుస్తుంది. పరీక్ష వేళలో నిజమైన గుణం వ్యక్తమవుతుంది.",
     "en": "Outward appearance does not reveal inner quality. Both the crow and the cuckoo are black, indistinguishable at first glance. But when spring comes, each reveals its nature through its voice. This verse teaches that character shows itself in times of trial, not in ordinary circumstances."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

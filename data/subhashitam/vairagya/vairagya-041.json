@@ -2,7 +2,6 @@
   "id": "vairagya-041",
   "tags": [
     "vairagya",
-    "gita",
     "prakruti-guna"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (విభూతియోగము)",
     "name_en": "Srimad Bhagavad Gita (Vibhuti Yoga)",
-    "chapter": "9.7"
+    "chapter": "9.7",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "సర్వభూతాని | కౌన్తేయ | ప్రకృతిమ్ | యాన్తి | మామికామ్ | కల్పక్షయే | పునః | తాని | కల్పాదౌ | విసృజామి | అహమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "సృష్టిచక్రాన్ని ఊపిరి తీసుకోవడం, వదలడం లాంటి లయాత్మక ప్రక్రియగా చిత్రించే విశ్వసృష్టిదర్శనం ఇది. మరణం అంతం కాదు, సృష్టిలో లీనం కావడం మాత్రమేనని, తిరిగి కొత్తగా ఆవిర్భవించడం అనేది సహజచక్రంలో భాగమేనని ఈ శ్లోకం చాటుతుంది. వ్యక్తిగత మరణభయాన్ని విశ్వస్థాయి దృష్టితో చూడగలిగితే, అది భయంకరమైనది కాక ఒక సహజలయగా కనిపిస్తుంది. వ్యక్తిగత జీవితచక్రాన్ని విశ్వసృష్టిచక్రంతో పోల్చి చూడటం ద్వారా, మరణంపట్ల వైరాగ్యదృష్టిని పెంపొందించే గంభీరమైన బోధ ఇది.",
     "en": "A cosmic vision of creation as a rhythmic process, like breathing in and breathing out. This verse teaches that death is not an end but merely a dissolving back into creation, and that re-emergence is part of a natural cycle. Seeing personal fear of death from this cosmic vantage transforms it from something terrifying into a natural rhythm. By comparing the personal life-cycle to the cosmic cycle of creation, this is a profound teaching cultivating detachment toward death."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

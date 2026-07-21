@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "ముకున్దమాలా (కులశేఖరాళ్వార్)",
     "name_en": "Mukundamala (Kulashekhara Alvar)",
-    "chapter": "verse 33"
+    "chapter": "verse 33",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "కృష్ణ | త్వదీయ | పదపంకజ | పంజరాన్తమ్ | అద్య | ఏవ | మే | విశతు | మానసరాజహంసః | ప్రాణప్రయాణసమయే | కఫవాతపిత్తైః | కంఠావరోధనవిధౌ | స్మరణమ్ | కుతః | తే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "'చివరి రోజుల్లో భగవంతుని తలుచుకుందాంలే' అనే వాయిదాకు కులశేఖరుల చురుకైన సమాధానం. మరణసమయపు స్థితిని ఆయుర్వేద పరిభాషలో అంత వాస్తవికంగా చిత్రించి — ఆ క్షణంలో స్మరణ అసాధ్యమని తేల్చి — భక్తికి సరైన ముహూర్తం 'అద్యైవ', ఈ రోజే అంటున్నారు. మనసును రాజహంసగా, భగవత్పాదాలను బంగారు పంజరంగా చెప్పడంలోని సొగసు: ఆ బంధనం బానిసత్వం కాదు, హంసకు ఇష్టమైన నివాసం.",
     "en": "Kulashekhara's sharp answer to 'I'll turn to God in my last days.' He paints the deathbed with clinical Ayurvedic realism — and concludes that remembrance will be impossible in that hour; the right moment for devotion is 'adyaiva', this very day. And in the image of the mind as a royal swan and the Lord's feet as its cage lies the verse's grace: that captivity is no bondage, but the dwelling the swan itself longs for."
-  }
+  },
+  "chanda_key": "vasantatilaka",
+  "chanda_sa": "वसन्ततिलका",
+  "chanda_te": "వసన్తతిలకా"
 }

@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "హితోపదేశము (మిత్రలాభః)",
     "name_en": "Hitopadesha (Mitralabha)",
-    "chapter": "Mitralabha"
+    "chapter": "Mitralabha",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
   },
   "padavibhagam": {
     "te": "గుణాః | గుణజ్ఞేషు | గుణాః | భవన్తి | తే | నిర్గుణమ్ | ప్రాప్య | భవన్తి | దోషాః | ఆస్వాద్యతోయాః | ప్రభవన్తి | నద్యః | సముద్రమ్ | ఆసాద్య | భవన్తి | అపేయాః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "సాంగత్య ప్రభావంపై హితోపదేశం ఇచ్చిన అద్భుత ఉపమానం ఇది. మన గుణాలు నిలిచేదీ, వికసించేదీ మనం ఎవరి మధ్య ఉంటామన్న దానిపై ఆధారపడుతుంది. తియ్యని నదీజలం ఉప్పు సముద్రంలో కలిసి తన స్వభావాన్ని కోల్పోయినట్లు, సత్సంగం లేని చోట ప్రతిభ కూడా వికృతమవుతుంది. కనుక సహవాసాన్ని ఎంచుకోవడమే జీవితంలో అతి ముఖ్యమైన ఎంపికలలో ఒకటి.",
     "en": "The Hitopadesha's finest image for the power of company. Whether our qualities survive and flower depends on whom we live among. As sweet river water loses its nature in the salt sea, even talent turns warped where good company is absent. Choosing one's company is therefore among life's most consequential choices."
-  }
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
 }

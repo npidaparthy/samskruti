@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మనుస్మృతి",
     "name_en": "Manusmriti",
-    "chapter": "3.100"
+    "chapter": "3.100",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "అతిథిః | యస్య | భగ్నాశః | గృహాత్ | ప్రతినివర్తతే | సః | దదాతి | హి | తస్మై | స్వమ్ | పుణ్యాని | చ | పాపాని | చ",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "అతిథిసత్కారానికి మనువు ఇచ్చిన అత్యంత తీక్షణమైన హెచ్చరిక ఇది. ఇక్కడ లెక్క వింతగా అనిపించవచ్చు — అతిథిని అసంతృప్తిగా పంపిన గృహస్థుడు తన పుణ్యాన్ని కోల్పోయి, ఆ అతిథి పాపాలను మూటగట్టుకుంటాడు అనడం. కానీ భావం స్పష్టం: ఆతిథ్యం ఐచ్ఛికమైన దాతృత్వం కాదు, గృహస్థ ధర్మంలో అతి ముఖ్యమైన బాధ్యత. ద్వారం తట్టినవాడిని ఖాళీ చేతులతో పంపడం చిన్న విషయం కాదని, అది ఆధ్యాత్మిక ఖాతాలో నమోదయ్యే తీవ్రమైన లోటు అని చెప్పే ఈ శ్లోకమే 'అతిథిదేవో భవ' అన్న ఆదేశానికి పునాది.",
     "en": "Manu's sharpest warning on hospitality. The arithmetic may seem strange — the host who sends a guest away disappointed loses his own merit and inherits the guest's sins. But the point is unmistakable: hospitality is not optional charity but among the gravest duties of a householder. Turning away one who knocked at the door empty-handed is no small matter — it registers as a serious deficit in the spiritual ledger. This verse underlies the very command 'atithidevo bhava' — treat the guest as God."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

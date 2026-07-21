@@ -3,8 +3,7 @@
   "tags": [
     "seva",
     "parahita",
-    "golden-rule",
-    "mahabharata"
+    "golden-rule"
   ],
   "shlokam": {
     "te": "న తత్పరస్య సన్దధ్యాత్ ప్రతికూలం యదాత్మనః ।\nఏష సఙ్క్షేపతో ధర్మః కామాదన్యః ప్రవర్తతే ॥",
@@ -14,7 +13,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "మహాభారతం, అనుశాసన పర్వ 113.8",
-    "name_en": "Mahābhārata, Anuśāsana Parva 113.8"
+    "name_en": "Mahābhārata, Anuśāsana Parva 113.8",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
   },
   "padavibhagam": {
     "te": "న | తత్ | పరస్య | సందధ్యాత్ | ప్రతికూలం | యత్ | ఆత్మనః | ఏషః | సంక్షేపతః | ధర్మః | కామాత్ | అన్యః | ప్రవర్తతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఇది మహాభారతంలో ఉన్న సంస్కృత స్వర్ణ నియమం (Golden Rule). ధర్మం యొక్క సారాన్ని ఒక్క శ్లోకంలో చెప్పాలంటే ఇదే — తనకు ఇష్టం లేనిది ఇతరులకు చేయకూడదు. రెండవ పాదం చెప్తుంది: కోరిక వల్ల మనిషి దీన్ని మరచి అన్యాయంగా ప్రవర్తిస్తాడు. ఈ శ్లోకం ప్రపంచంలోని అన్ని నీతి సంప్రదాయాలలో కనిపించే సార్వత్రిక నైతిక సూత్రాన్ని సంస్కృతంలో చెప్తుంది.",
     "en": "This is the Sanskrit golden rule in the Mahābhārata. The entire edifice of dharma is compressed into one verse: do not do to another what is unwelcome to yourself. The second line is equally important — it is desire (kāma) that causes a person to forget this principle and act unjustly. This universal ethical principle appears in every major civilization independently; in Sanskrit it receives its most concise and philosophically complete expression here. The qualifier 'in brief' (saṃkṣepataḥ) acknowledges that dharma has many elaborations — but at its core, this is it."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

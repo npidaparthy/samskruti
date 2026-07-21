@@ -2,7 +2,6 @@
   "id": "niti-057",
   "tags": [
     "niti",
-    "chanakya",
     "vishvasa"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Chanakya Niti",
-    "chapter": "5.18"
+    "chapter": "5.18",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "పరోక్షే | కార్యహన్తారమ్ | ప్రత్యక్షే | ప్రియవాదినమ్ | వర్జయేత్ | తాదృశమ్ | మిత్రమ్ | విషకుమ్భమ్ | పయోముఖమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "కపటమిత్రుని గుర్తించడానికి చాణక్యుడు ఇచ్చిన అత్యంత ఖచ్చితమైన నిర్వచనం — పైన మాట తీయగా, లోన చేష్ట క్రూరంగా ఉండేవాడు. 'విషకుమ్భం పయోముఖమ్' అనే ఉపమానం అత్యంత ప్రమాదకరమైనది — పైకి కనబడేది పాలలా నిర్దోషంగా అనిపించి, తాగినకొద్దీ లోలోపలి విషం చంపేస్తుంది. ఎదురుగా పొగిడేవాడు నమ్మదగినవాడని కాదు, ఎదురులేనప్పుడు అతని ప్రవర్తన ఎలా ఉంటుందో చూసే గానీ నిజమైన మిత్రుడో కాదో తెలియదని ఈ శ్లోకం హెచ్చరిస్తుంది.",
     "en": "Chanakya's most precise definition for recognising a treacherous friend — one whose words are sweet on the surface while their actions are cruel beneath. The image 'viṣakumbhaṃ payomukham' is especially dangerous — what looks harmless like milk on top kills as one keeps drinking, the poison hidden below. This verse warns that a person who praises you to your face is not necessarily trustworthy; only observing their conduct when you are absent reveals whether they are truly a friend."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

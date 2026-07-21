@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మహాభారతము (అనుశాసనపర్వము)",
     "name_en": "Mahabharata (Anushasana Parva)",
-    "chapter": "widely quoted maxim"
+    "chapter": "widely quoted maxim",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
   },
   "padavibhagam": {
     "te": "అభయమ్ | సర్వభూతేభ్యః | దదాతి | యది | జీవతి | సర్వదానేషు | తత్ | దానమ్ | సర్వధర్మేషు | చ | ఉత్తమమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "దానాలలో అభయదానాన్ని అత్యున్నత స్థానంలో నిలిపే మహాభారత శ్లోకం. ధనదానం, అన్నదానం, విద్యాదానం — ఇవన్నీ ఇచ్చేదానికీ పుచ్చుకునేదానికీ మధ్య ఒక లావాదేవీ; అభయదానం మాత్రం భిన్నమైనది — అది ఏ ప్రాణీ మనవల్ల భయపడకుండా జీవించగలగడం. చేతలతోనూ, మాటలతోనూ, ఉనికితోనూ ఇతరులకు నిర్భయతను కలిగించడమే అత్యున్నత ధర్మమని ఈ శ్లోకం చాటుతుంది — ఎందుకంటే భయరహిత సహజీవనమే సమాజధర్మానికి పునాది.",
     "en": "A Mahabharata verse placing the gift of fearlessness above all other gifts. Gifts of wealth, food, and knowledge are all transactions of giving and receiving; the gift of fearlessness is different — it is ensuring that no living being needs to fear us. Through action, through speech, through mere presence, granting others the freedom to live without fear is declared here as the supreme dharma — for a coexistence free of fear is the very foundation of a just society."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

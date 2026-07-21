@@ -2,7 +2,6 @@
   "id": "niti-055",
   "tags": [
     "niti",
-    "chanakya",
     "raja-vidvan"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Chanakya Niti",
-    "chapter": "13.13"
+    "chapter": "13.13",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "ధనధాన్యప్రయోగేషు | విద్యాసంగ్రహణేషు | చ | ఆహారే | వ్యవహారే | చ | త్యక్తలజ్జః | సుఖీ | భవేత్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "నాలుగు రంగాలలో అనవసరమైన సిగ్గు లేదా సంకోచం ప్రగతికి అడ్డుగోడ అవుతుందని చాణక్యుడు హెచ్చరిస్తున్నాడు. ధనవ్యవహారంలో సంకోచిస్తే నష్టపోతాము; ప్రశ్నించడానికి సిగ్గుపడితే విద్య అబ్బదు; అవసరమైనప్పుడు తినడానికి సంకోచిస్తే ఆరోగ్యం చెడుతుంది; వ్యవహారాలలో మొహమాటపడితే అవకాశాలు కోల్పోతాము. ఇది నిస్సిగ్గుతనాన్ని ప్రోత్సహించడం కాదు — తప్పు లేని విషయాల్లో అనవసరమైన బెరుకును వదిలించుకోమని చెప్పడం. ఆత్మవిశ్వాసానికీ, అనవసర సంకోచానికీ మధ్య తేడాను గుర్తించమని ఈ శ్లోకం బోధిస్తుంది.",
     "en": "Chanakya warns that unnecessary shame or hesitation in four areas becomes a wall against progress. Hesitate in financial dealings, and you lose money; be too embarrassed to ask questions, and learning eludes you; be too shy to eat when needed, and health suffers; hold back in dealings out of awkwardness, and opportunities are lost. This is not an endorsement of shamelessness — it is a call to drop needless hesitation in matters where there is nothing wrong to begin with. The verse teaches the difference between confidence and unnecessary timidity."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

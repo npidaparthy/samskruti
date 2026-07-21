@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "పంచతన్త్రము",
     "name_en": "Panchatantra",
-    "chapter": "Mitralabha"
+    "chapter": "Mitralabha",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
   },
   "padavibhagam": {
     "te": "అర్థానామ్ | అర్జనే | దుఃఖమ్ | అర్జితానామ్ | చ | రక్షణే | ఆయే | దుఃఖమ్ | వ్యయే | దుఃఖమ్ | ధిక్ | అర్థాః | కష్టసంశ్రయాః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ధనజీవితపు నాలుగు దశలనూ — సంపాదన, రక్షణ, రాక, పోక — వరుసగా పరిశీలించి, ప్రతి దశలోనూ దుఃఖమే మిగులుతుందని తేల్చిన లెక్క ఇది. సంపాదనలో శ్రమ, కాపాడటంలో భయం, పెరిగినప్పుడు లోభం, తరిగినప్పుడు శోకం. ఇది ధనత్యాగపు బోధ కాదు — ధనం సుఖసాధనమే గానీ సుఖం కాదన్న స్పష్టత. ఆ తేడా మరిచిపోయి సాధనాన్నే గమ్యంగా చేసుకున్నప్పుడే ధనం 'కష్టసంశ్రయం' అవుతుంది. సంపదతో సంబంధాన్ని ఆరోగ్యంగా ఉంచుకోమన్న హెచ్చరిక.",
     "en": "An audit of wealth's four phases — earning, guarding, arrival, departure — finding pain on every line. Toil in the earning, fear in the keeping, greed in the growing, grief in the going. This is not a sermon on renouncing money — it is the clarity that wealth is an instrument of happiness, not happiness itself. Only when that difference is forgotten and the instrument becomes the goal does wealth turn into the 'abode of troubles'. A warning to keep one's relationship with money healthy."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

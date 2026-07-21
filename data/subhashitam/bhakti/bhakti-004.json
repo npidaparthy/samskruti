@@ -14,7 +14,10 @@
   "chandaH": "ఇన్ద్రవజ్ర (Indravajrā) — 11 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "నారాయణ సమర్పణ — స్తుతి సంప్రదాయం",
-    "name_en": "Nārāyaṇa Samarpaṇa — devotional tradition"
+    "name_en": "Nārāyaṇa Samarpaṇa — devotional tradition",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "కాయేన | వాచా | మనసా | ఇన్ద్రియైః | వా | బుద్ధ్యా | ఆత్మనా | వా | ప్రకృతేః | స్వభావాత్ | కరోమి | యత్ యత్ | సకలం | పరస్మై | నారాయణాయ | ఇతి | సమర్పయామి",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకం కర్మ సమర్పణ యొక్క పరాకాష్ఠ. మనిషి తన ప్రతి కార్యాన్ని — శరీరకంగా, వాచికంగా, మానసికంగా — భగవంతునకు అర్పిస్తే కర్మ బంధం కలగదు. ఇది ప్రతి ఉదయం లేదా సాయంత్రం పఠించే శ్లోకం. ప్రతి పని భగవత్కార్యంగా భావించే దృష్టి ఇందులో ఉంది.",
     "en": "This verse represents the pinnacle of karma-samarpana — the offering of all action to the divine. When every act of body, speech, and mind is consecrated to God, the binding force of karma is dissolved. This is traditionally recited morning or evening as a daily act of total surrender. The verse covers every channel of human activity — the six-fold list (body, speech, mind, senses, intellect, soul) leaves nothing outside the scope of this offering."
-  }
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
 }

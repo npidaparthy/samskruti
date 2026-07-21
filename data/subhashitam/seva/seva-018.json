@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "పరోపకరణమ్ | యేషామ్ | జాగర్తి | హృదయే | సతామ్ | నశ్యన్తి | విపదః | తేషామ్ | సమ్పదః | స్యుః | పదే | పదే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "'జాగర్తి' — మేల్కొని ఉంటుంది — అన్న పదమే ఈ శ్లోకపు ప్రాణం. పరోపకారం అప్పుడప్పుడు చేసే కార్యక్రమం కాదు; నిరంతరం మేల్కొని ఉండే హృదయస్థితి. అలాంటివారికి ఆపదలు తొలగడం కేవలం దైవానుగ్రహమే కాదు — ఉపకారం పొందిన చేతులన్నీ కష్టకాలంలో వారికి అండగా నిలుస్తాయి; పంచిన మేలు వడ్డీతో తిరిగివస్తుంది. ఇతరుల కోసం బతికేవాడి చుట్టూ సమాజమే రక్షాకవచమవుతుందన్న లోకసత్యం ఇది.",
     "en": "The word 'jāgarti' — stays awake — is the verse's soul. Helping others is not an occasional programme but a state of heart that never sleeps. That misfortune spares such people is not mere providence — every hand they once helped stands up for them in their hard hour; the good they scattered returns with interest. Around one who lives for others, society itself becomes the armour: a truth of the world, not just of heaven."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

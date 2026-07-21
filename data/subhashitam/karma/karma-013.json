@@ -3,7 +3,6 @@
   "tags": [
     "karma",
     "krodhad-bhavati",
-    "gita",
     "anger",
     "delusion"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 2.63",
-    "name_en": "Bhagavad Gītā 2.63"
+    "name_en": "Bhagavad Gītā 2.63",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "క్రోధాత్ | భవతి | సమ్మోహః | సమ్మోహాత్ | స్మృతి-విభ్రమః | స్మృతి-భ్రంశాత్ | బుద్ధి-నాశః | బుద్ధి-నాశాత్ | ప్రణశ్యతి",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఇది గీతలో క్రోధం యొక్క పతన పరంపరను వివరించే ప్రసిద్ధ శ్లోకం. క్రోధం → సమ్మోహం → స్మృతిభ్రంశం → బుద్ధినాశం → వినాశం — ఇది ఒక శృంఖల పతనం. ఒకసారి కోపం వచ్చిందంటే పరిస్థితి అర్థం కాదు; పరిస్థితి అర్థం కాలేదంటే మనం ఏమి చెప్పాలో మర్చిపోతాం; మర్చిపోతే తప్పు నిర్ణయం తీసుకుంటాం; తప్పు నిర్ణయంతో నాశనం జరుగుతుంది. అందుకే కోపాన్ని నియంత్రించడం ఆధ్యాత్మిక సాధనలో ముఖ్యమైన పని.",
     "en": "This verse from the Gītā (2.63) presents a causal chain: anger → delusion → loss of memory → destruction of reason → ruin. Each link follows inevitably from the previous one. When anger arises, the mind becomes clouded (sammoha). Clouded, it cannot access its stored wisdom (smṛti). Without access to wisdom, right judgment (buddhi) fails. And with judgment destroyed, the person acts destructively and is thereby undone. This psychological analysis is remarkably precise and has been confirmed by modern neuroscience — the 'amygdala hijack' of the prefrontal cortex under anger mirrors exactly what Kṛṣṇa describes. The teaching urges mastery of anger as the foundation of all other virtues."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

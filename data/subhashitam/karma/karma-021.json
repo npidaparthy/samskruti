@@ -2,7 +2,6 @@
   "id": "karma-021",
   "tags": [
     "karma",
-    "gita",
     "jnana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానకర్మసంన్యాసయోగము)",
     "name_en": "Srimad Bhagavad Gita (Jnana Karma Sannyasa Yoga)",
-    "chapter": "4.18"
+    "chapter": "4.18",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "కర్మణి | అకర్మ | యః | పశ్యేత్ | అకర్మణి | చ | కర్మ | యః | సః | బుద్ధిమాన్ | మనుష్యేషు | సః | యుక్తః | కృత్స్నకర్మకృత్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "గీతలోని అత్యంత గంభీరమైన శ్లోకాలలో ఒకటి. అనాసక్తుడై, కర్తృత్వాభిమానం లేకుండా పనిచేసేవాడు ఎంత చేసినా బంధించే 'కర్మ' చేయనట్లే — ఇది కర్మలో అకర్మ. బద్ధకంతో పని మానేసినవాడు 'ఏమీ చేయడం లేదు' అనుకుంటాడు గానీ, ఆ మానివేయడమూ ఫలితాలు గల ఒక చేష్టే — ఇది అకర్మలో కర్మ. బంధించేది శరీరపు కదలిక కాదు, మనసు పెట్టుకునే ముడి అన్న ఈ సూక్ష్మదృష్టియే కర్మయోగపు లోతైన రహస్యం.",
     "en": "One of the Gita's profoundest verses. One who works without attachment or the pride of doership performs no binding 'action' however much he does — inaction within action. And the idler who quits work believing he is 'doing nothing' forgets that abstention too is an act with consequences — action within inaction. What binds is not the body's movement but the knot the mind ties — the subtle insight at the heart of karma yoga."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

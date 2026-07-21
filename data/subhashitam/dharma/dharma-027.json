@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "తైత్తిరీయోపనిషత్ (శిక్షావల్లి)",
     "name_en": "Taittiriya Upanishad (Shiksha Valli)",
-    "chapter": "1.11.3"
+    "chapter": "1.11.3",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "శ్రద్ధయా | దేయమ్ | అశ్రద్ధయా | అదేయమ్ | శ్రియా | దేయమ్ | హ్రియా | దేయమ్ | భియా | దేయమ్ | సంవిదా | దేయమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "విద్యాభ్యాసం ముగించి ఇంటికి వెళ్ళే శిష్యునికి గురువు చేసే ప్రసిద్ధ ఉపదేశంలోని భాగం ఇది. దానంలో ఇచ్చే వస్తువుకన్నా ఇచ్చే తీరు ముఖ్యమని ఉపనిషత్తు చెబుతోంది — నిర్లక్ష్యంగా విసిరేసిన దానం దానమే కాదు. వినయం లేని దాత అహంకారాన్ని కొంటాడు; అవగాహన లేని దానం అపాత్రదానమవుతుంది. ఇచ్చేటప్పుడు హృదయం ఎలా ఉండాలో చెప్పే ఈ ఆరు పదాలు దానధర్మానికి శాశ్వత మార్గదర్శకాలు.",
     "en": "Part of the teacher's famed parting instruction to the departing student, this passage insists that how one gives matters more than what is given — charity flung carelessly is no charity at all. The giver without modesty purchases only pride; giving without discernment lands in unworthy hands. Six phrases on the state of the heart while giving — a permanent charter for the dharma of generosity."
-  }
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
 }

@@ -2,7 +2,6 @@
   "id": "karma-035",
   "tags": [
     "karma",
-    "gita",
     "trividha-karta"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
     "name_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)",
-    "chapter": "18.12"
+    "chapter": "18.12",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "అనిష్టమ్ | ఇష్టమ్ | మిశ్రమ్ | చ | త్రివిధమ్ | కర్మణః | ఫలమ్ | భవతి | అత్యాగినామ్ | ప్రేత్య | న | తు | సంన్యాసినామ్ | క్వచిత్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "కర్మఫలత్యాగానికీ, సన్యాసానికీ మధ్య నిజమైన సంబంధాన్ని స్పష్టం చేసే గీత చివరి అధ్యాయపు శ్లోకం. ఫలాన్ని అంటిపెట్టుకున్నవాడికి మంచిదైనా చెడ్డదైనా మిశ్రమమైనా — ఏదో ఒక ఫలం అనుభవించక తప్పదు. కానీ కర్తృత్వాభిమానాన్నీ ఫలాపేక్షనూ నిజంగా వదిలినవాడికి ఆ మూడు ఫలాలలో ఏదీ అంటదు. ఇది కర్మను మానేయడం కాదు — కర్మతో ఉన్న సంబంధాన్ని మార్చుకోవడం. ఫలాన్ని వదిలిన కర్మ బంధించదు, ఫలాన్ని అంటిపెట్టుకున్న కర్మ ఎప్పటికీ ఏదో ఒక రూపంలో తిరిగి వస్తుందని ఈ శ్లోకం స్పష్టం చేస్తుంది.",
     "en": "A verse from the Gita's final chapter clarifying the true relationship between renunciation of results and true sannyasa. For one attached to results, some fruit — good, bad, or mixed — must inevitably be experienced. But for one who has genuinely relinquished the sense of doership and desire for results, none of these three fruits ever touches them. This is not about abandoning action but about changing one's relationship to it. Action performed without attachment to its fruit does not bind; action performed with attachment always returns in some form — this verse makes that plain."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

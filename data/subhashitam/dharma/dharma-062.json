@@ -2,7 +2,6 @@
   "id": "dharma-062",
   "tags": [
     "dharma",
-    "gita",
     "kutastha-lakshana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (పురుషోత్తమయోగము)",
     "name_en": "Srimad Bhagavad Gita (Purushottama Yoga)",
-    "chapter": "15.16"
+    "chapter": "15.16",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "ద్వౌ | ఇమౌ | పురుషౌ | లోకే | క్షరః | చ | అక్షరః | ఏవ | చ | క్షరః | సర్వాణి | భూతాని | కూటస్థః | అక్షరః | ఉచ్యతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "పురుషోత్తమయోగపు తాత్త్విక వర్గీకరణకు నాంది పలికే శ్లోకం — క్షరము, అక్షరము అనే రెండు తత్త్వాలను నిర్వచిస్తుంది. క్షరము అంటే మారుతూ ఉండేది — శరీరాలు, పదార్థాలు, ప్రకృతిలో భాగమైన సమస్తమూ; అక్షరము అంటే మారని జీవాత్మతత్త్వం. ఈ ద్వంద్వ వర్గీకరణ, తర్వాతి శ్లోకంలో (15.18) పురుషోత్తముడు ఈ రెండింటినీ మించినవాడని చెప్పడానికి పునాదిగా నిలుస్తుంది. మార్పు, స్థిరత్వం అనే రెండు అంశాలను స్పష్టంగా వేరుచేసి చూపే ఈ శ్లోకం, జీవితంలో దేనిని పట్టుకోవాలో, దేనిని వదలాలో వివేచించుకోవడానికి తాత్త్విక ప్రాతిపదికను ఇస్తుంది.",
     "en": "The opening verse of Purushottama Yoga's philosophical classification, defining two categories — kshara and akshara. Kshara is that which is subject to change — bodies, matter, everything that is part of nature; akshara is the unchanging principle of the individual soul. This dual classification lays the foundation for the following verse (15.18), which declares the Purushottama to be beyond both. Clearly separating change from constancy, this verse offers a philosophical basis for discerning what in life to hold onto and what to release."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

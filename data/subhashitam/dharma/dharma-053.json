@@ -2,7 +2,6 @@
   "id": "dharma-053",
   "tags": [
     "dharma",
-    "manusmriti",
     "raja-danda"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "మనుస్మృతి",
     "name_en": "Manusmriti",
-    "chapter": "7.22"
+    "chapter": "7.22",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "దండః | ఏవ | ప్రజాః | సర్వాః | రక్షతి | ప్రచ్యుతే | హి | సః | సర్వలోకమ్ | అభిద్రుహ్యేత్ | దండస్య | విభ్రమాత్ | భయాత్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "న్యాయవ్యవస్థ ఎందుకు అవసరమో మనువు ఇచ్చిన నిర్మొహమాటమైన వివరణ ఇది — 'మాత్స్యన్యాయం' భావనకు మరో కోణం. చట్టం, దాని అమలు గురించిన భయం లేకపోతే, మానవస్వభావంలో దాగి ఉన్న స్వార్థం అరాచకంగా బయటపడుతుందని ఈ శ్లోకం హెచ్చరిస్తుంది. దండన అనేది క్రూరత్వం కాదు — సమాజం సురక్షితంగా మనుగడ సాగించడానికి అవసరమైన నియంత్రణ వ్యవస్థ. ఈ సూత్రం ఆధునిక న్యాయవ్యవస్థలకూ, పోలీసింగ్‌కూ మూలసిద్ధాంతంగా నిలుస్తుంది — శిక్షాభయమే సమాజంలో క్రమశిక్షణను నిలబెడుతుందని.",
     "en": "Manu's unflinching explanation of why a system of justice is necessary — another facet of the concept of 'matsyanyaya'. This verse warns that without the fear of law and its enforcement, the self-interest lurking in human nature erupts into anarchy. Punishment is not cruelty — it is the regulatory system essential for society to survive safely. This principle stands as a founding doctrine for modern justice systems and policing alike — that the fear of consequence is what sustains discipline in society."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

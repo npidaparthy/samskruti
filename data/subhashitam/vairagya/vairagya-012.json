@@ -3,7 +3,6 @@
   "tags": [
     "vairagya",
     "vasansi-jirnani",
-    "gita",
     "rebirth",
     "body"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 2.22",
-    "name_en": "Bhagavad Gītā 2.22"
+    "name_en": "Bhagavad Gītā 2.22",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "వాసాంసి | జీర్ణాని | యథా | విహాయ | నవాని | గృహ్ణాతి | నరః | అపరాణి | తథా | శరీరాణి | విహాయ | జీర్ణాని | అన్యాని | సంయాతి | నవాని | దేహీ",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "భగవద్గీతలో కృష్ణుడు ఇచ్చిన ఉపమానాలలో ఇది అత్యంత సులభమైనది — అందరికీ అర్థమయ్యే రోజువారీ సంఘటన. వస్త్రాలు పాతపడ్డాయి అంటే వాటిని మార్చుకుంటాం — ఆనందం లేదు, శోకం లేదు. అదే విధంగా శరీరం జీర్ణమైతే ఆత్మ మార్చుకుంటుంది. ఈ ఉపమానం మృత్యు భయాన్ని తొలగించడానికి రూపకంగా చాలా శక్తివంతం. పునర్జన్మ సిద్ధాంతాన్ని ఇంత స్పష్టంగా, ఇంత సులభంగా వివరించిన శ్లోకం మరొక్కటి లేదు.",
     "en": "Kṛṣṇa's simile of the garment is perhaps the most accessibly beautiful explanation of the soul's journey through bodies. Changing clothes is mundane — everyone understands that worn-out clothes are given up without grief and new ones are put on without ceremony. The same principle applies to bodies: when the current body becomes 'worn-out' (jīrṇa), the soul — here called 'dehī' (the wearer of the body) — simply acquires a new one. The simile demystifies death and rebirth by framing them as a natural and familiar process. The grief of death is compared to grieving the wearing-out of a garment — misplaced."
-  }
+  },
+  "chanda_key": "trishtubh",
+  "chanda_sa": "त्रिष्टुप्",
+  "chanda_te": "త్రిష్టుప్"
 }

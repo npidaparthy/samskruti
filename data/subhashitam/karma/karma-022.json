@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "ఉద్యమః | సాహసమ్ | ధైర్యమ్ | బుద్ధిః | శక్తిః | పరాక్రమః | షట్ | ఏతే | యత్ర | వర్తన్తే | తత్ర | దేవః | సహాయకృత్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "'దైవం తోడు నిలవాలంటే ముందు నీవు నిలబడాలి' అన్నది ఈ శ్లోకపు మెలిక. వరాల కోసం ఎదురుచూసేవాడి వద్దకు కాదు — పూనిక, తెగువ, నిబ్బరం, వివేకం, బలం, పరాక్రమం అనే ఆరు గుణాలతో రంగంలో దిగినవాడి వద్దకే దైవానుగ్రహం వస్తుంది. ప్రయత్నానికీ అనుగ్రహానికీ మధ్య ఉన్న ఈ క్రమం గమనార్హం: దైవసహాయం ప్రయత్నానికి ప్రత్యామ్నాయం కాదు, పరాకాష్ఠ. కృషితో నాస్తి దుర్భిక్షం అన్న లోకోక్తికి ఇదే శాస్త్రపాఠం.",
     "en": "The verse's turn: for God to stand with you, you must first stand up. Grace comes not to the one waiting for boons but to the one who takes the field armed with the six — effort, daring, steadiness, judgment, strength, valour. The sequence between striving and grace is the point: divine help is not a substitute for effort but its crown. Heaven, as the proverb has it, helps those who help themselves — here is its Sanskrit charter."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

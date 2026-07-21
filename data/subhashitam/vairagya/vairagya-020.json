@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
     "name_en": "Bhaja Govindam (Adi Shankaracharya)",
-    "chapter": "verse 9"
+    "chapter": "verse 9",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "సత్సంగత్వే | నిస్సంగత్వమ్ | నిస్సంగత్వే | నిర్మోహత్వమ్ | నిర్మోహత్వే | నిశ్చలతత్త్వమ్ | నిశ్చలతత్త్వే | జీవన్ముక్తిః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "మోక్షానికి శంకరులు గీసిన నిచ్చెన — నాలుగు మెట్లు, ఒక్కొక్కటి ముందుదాని నుండి సహజంగా పుట్టేది. అన్నింటికీ మొదటి మెట్టు, మనం ఎంచుకోగలిగినది ఒక్కటే — సత్సంగం. మంచివారి సాంగత్యం చాలు; మిగతా మెట్లు వాటంతట అవే వస్తాయి. ముక్తి మరణానంతర విషయం కాదు, ఈ జీవితంలోనే సాధ్యమన్న 'జీవన్ముక్తి' భావన ఈ శ్లోకపు ప్రత్యేకత. ఎవరి మధ్య ఉంటున్నామన్నదే ఎక్కడికి చేరతామో నిర్ణయిస్తుంది.",
     "en": "Shankara's ladder to liberation — four rungs, each growing naturally out of the one before. Only the first rung lies in our hands: good company. Keep the company of the good, and the remaining rungs follow of themselves. And the goal is jīvanmukti — freedom not after death but within this very life. Whom we surround ourselves with decides where we arrive."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

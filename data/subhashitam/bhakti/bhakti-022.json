@@ -2,7 +2,6 @@
   "id": "bhakti-022",
   "tags": [
     "bhakti",
-    "gita",
     "jnana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానవిజ్ఞానయోగము)",
     "name_en": "Srimad Bhagavad Gita (Jnana Vijnana Yoga)",
-    "chapter": "7.19"
+    "chapter": "7.19",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "బహూనామ్ | జన్మనామ్ | అన్తే | జ్ఞానవాన్ | మామ్ | ప్రపద్యతే | వాసుదేవః | సర్వమ్ | ఇతి | సః | మహాత్మా | సుదుర్లభః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "జ్ఞానానికీ భక్తికీ మధ్య వివాదాన్ని ఈ శ్లోకం కరిగించేస్తుంది — జ్ఞానం పరిపక్వమైనప్పుడు అది భక్తిగానే పరిణమిస్తుంది. అనేక జన్మల అన్వేషణ చివర తెలిసేది క్లిష్టమైన సిద్ధాంతం కాదు; 'వాసుదేవః సర్వమ్' అనే మూడు పదాల సరళ సత్యం — కనిపించేదంతా ఆ ఒక్కడే అని. ఆ దర్శనం కలిగినవానికి ద్వేషానికీ భయానికీ స్థానం ఎక్కడిది? అద్వైతదర్శనమూ శరణాగతీ ఒకే బిందువులో కలిసే ఈ శ్లోకాన్ని రామానుజాదులు భక్తిశిఖరంగా కీర్తించారు.",
     "en": "This verse dissolves the quarrel between knowledge and devotion — knowledge, when fully ripe, culminates as devotion. What is realised at the end of many lifetimes of search is no intricate doctrine but a three-word simplicity: 'vāsudevaḥ sarvam' — all this is He. For one who sees so, where could hatred or fear find footing? Non-dual vision and total surrender meet at a single point here — a verse the great teachers celebrated as bhakti's summit."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

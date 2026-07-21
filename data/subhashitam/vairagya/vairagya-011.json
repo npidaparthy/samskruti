@@ -3,7 +3,6 @@
   "tags": [
     "vairagya",
     "na-jayate",
-    "gita",
     "atma",
     "immortal"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 2.20",
-    "name_en": "Bhagavad Gītā 2.20"
+    "name_en": "Bhagavad Gītā 2.20",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "న | జాయతే | మ్రియతే | వా | కదాచిత్ | న | అయం | భూత్వా | భవితా | వా | న | భూయః | అజః | నిత్యః | శాశ్వతః | అయం | పురాణః | న | హన్యతే | హన్యమానే | శరీరే",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "భగవద్గీతలో ఆత్మ స్వభావాన్ని వర్ణించే శ్లోకాలలో ఇది అత్యంత సంపూర్ణమైనది. 'అజః' (పుట్టుక లేనిది), 'నిత్యః' (నిత్యమైనది), 'శాశ్వతః' (శాశ్వతమైనది), 'పురాణః' (పురాతనమైనది) — ఈ నాలుగు విశేషణాలు ఆత్మ నిర్నిరంజన స్వభావాన్ని నిర్ద్వంద్వంగా చెప్తున్నాయి. శరీరం నాశనమవుతుంది — ఆత్మ నాశనమవ్వదు. మృత్యువు శరీరానికి మాత్రమే, ఆత్మకు కాదు. ఈ జ్ఞానంతో బ్రతికేవాడు మృత్యుభయం నుండి, శోకం నుండి విముక్తుడవుతాడు.",
     "en": "Bhagavad Gītā 2.20 is the most comprehensive single verse on the nature of the ātman. Four epithets are used: aja (unborn — it precedes all birth), nitya (eternal — it continues beyond all death), śāśvata (ever-existing — it is always present), purāṇa (primeval/ancient — it is the oldest reality). The verse addresses the deepest human fear — the fear of death — by revealing that what we essentially are cannot die. This is not consolation but a philosophical claim with practical consequence: one who has internalized this teaching is freed from the dread of death and can live with extraordinary courage and equanimity."
-  }
+  },
+  "chanda_key": "trishtubh",
+  "chanda_sa": "त्रिष्टुप्",
+  "chanda_te": "త్రిష్టుప్"
 }

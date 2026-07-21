@@ -2,8 +2,7 @@
   "id": "seva-016",
   "tags": [
     "seva",
-    "ashraya",
-    "hitopadesha"
+    "ashraya"
   ],
   "shlokam": {
     "te": "సేవితవ్యో మహావృక్షః ఫలచ్ఛాయాసమన్వితః ।\nయది దైవాత్ఫలం నాస్తి ఛాయా కేన నివార్యతే ॥",
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "హితోపదేశము",
     "name_en": "Hitopadesha",
-    "chapter": "Mitralabha"
+    "chapter": "Mitralabha",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
   },
   "padavibhagam": {
     "te": "సేవితవ్యః | మహావృక్షః | ఫలచ్ఛాయాసమన్వితః | యది | దైవాత్ | ఫలమ్ | న | అస్తి | ఛాయా | కేన | నివార్యతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఎవరిని ఆశ్రయించాలో, ఎలాంటివారితో సాంగత్యం చేయాలో చెప్పే హితోపదేశపు ఉపమానం. మహావృక్షం అంటే సజ్జనుడు, ఉత్తమ గురువు, గొప్ప సంస్థ — వారి వద్ద ప్రత్యక్ష ఫలం (ధనం, పదవి) ఒకవేళ దక్కకపోయినా, వారి సాన్నిధ్యపు నీడ — సంస్కారం, జ్ఞానం, రక్షణ — ఎప్పుడూ లభిస్తూనే ఉంటుంది. మంచివారి సాంగత్యం ఎన్నడూ నష్టం కాదు; ఆశించిన ఫలం రాకపోయినా వచ్చే మేలు తక్కువేమీ కాదు.",
     "en": "The Hitopadesha's image for choosing whom to depend on and whose company to keep. The great tree is the good person, the true teacher, the worthy institution — even if the direct fruit (wealth, position) happens not to come, the shade of their presence — culture, knowledge, protection — never stops falling. The company of the good is never a loss; even when the hoped-for fruit fails, what one still receives is no small thing."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

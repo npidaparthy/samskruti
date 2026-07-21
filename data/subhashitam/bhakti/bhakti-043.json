@@ -2,7 +2,6 @@
   "id": "bhakti-043",
   "tags": [
     "bhakti",
-    "gita",
     "guru-brahma-anupraveshana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (భక్తియోగము)",
     "name_en": "Srimad Bhagavad Gita (Bhakti Yoga)",
-    "chapter": "10.9"
+    "chapter": "10.9",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "మచ్చిత్తాః | మద్గతప్రాణాః | బోధయన్తః | పరస్పరమ్ | కథయన్తః | చ | మామ్ | నిత్యమ్ | తుష్యన్తి | చ | రమన్తి | చ",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "సాముదాయిక భక్తికి గీత ఇచ్చిన అందమైన చిత్రం — భక్తిసాధన ఒంటరిగా చేసేది మాత్రమే కాదు, పరస్పర సాంగత్యంలో వికసించేది కూడా అని చాటుతూ. 'బోధయన్తః పరస్పరమ్' అన్న పదబంధం విశేషమైనది — భక్తులు ఒకరికొకరు బోధించుకుంటారు, అంటే జ్ఞానం ఒకవైపు నుండి మాత్రమే ప్రవహించదు, పరస్పర మార్పిడిగా సాగుతుంది. భగవంతుని గురించి మాట్లాడుకోవడం వినోదం కాదు, అదే వారికి 'తుష్టి' (సంతృప్తి), 'రతి' (ఆనందం) కలిగించే మూలం. సత్సంగం, కీర్తనం, భజన సంప్రదాయాలకు ఈ శ్లోకమే మూలాధారం.",
     "en": "A beautiful picture of communal devotion the Gita offers — declaring that devotional practice is not solely a solitary pursuit but blossoms also in mutual companionship. The phrase 'bodhayantaḥ parasparam' is notable — devotees teach one another, meaning knowledge does not flow from a single direction but circulates as mutual exchange. Speaking of the divine together is not mere pastime — it is itself the very source of their 'tuṣṭi' (contentment) and 'rati' (delight). This verse is the very foundation of the traditions of satsanga, kirtan, and communal singing."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

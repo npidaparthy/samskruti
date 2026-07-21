@@ -2,7 +2,6 @@
   "id": "seva-036",
   "tags": [
     "seva",
-    "gita",
     "svadharme-nidhanam"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "3.33"
+    "chapter": "3.33",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "సదృశమ్ | చేష్టతే | స్వస్యాః | ప్రకృతేః | జ్ఞానవాన్ | అపి | ప్రకృతిమ్ | యాన్తి | భూతాని | నిగ్రహః | కిమ్ | కరిష్యతి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "స్వభావాన్ని అణచివేయడం కన్నా అర్థం చేసుకుని దానితో సహకరించడమే వివేకమని చెప్పే వాస్తవికదృష్టిగల శ్లోకం. బాహ్యంగా జ్ఞాని అనిపించుకున్నవారు కూడా తమ మౌలిక స్వభావాన్ని పూర్తిగా వదలలేరని, ఆ వాస్తవాన్ని అంగీకరించడమే వివేకమని కృష్ణుడు చెబుతున్నాడు. బలవంతంగా అణచివేసిన స్వభావం ఎప్పుడో ఒకప్పుడు మరింత బలంగా బయటపడుతుందని — నిగ్రహం శాశ్వత పరిష్కారం కాదని — ఈ శ్లోకం హెచ్చరిస్తుంది. తనను తానే మెరుగుపరుచుకునే ప్రయత్నంలో, తన స్వభావాన్ని ద్వేషించకుండా అర్థం చేసుకుని మెల్లగా మలచుకోవడమే సరైన మార్గమని ఇది సూచిస్తుంది.",
     "en": "A realistic verse holding that understanding and working with one's nature is wiser than forcibly suppressing it. Krishna acknowledges that even those who appear to be men of knowledge cannot entirely shed their basic nature, and that accepting this fact is itself wisdom. This verse warns that a nature forcibly suppressed will eventually surface with greater force — suppression is no lasting solution. In the effort of self-improvement, understanding one's own nature without hating it, and gradually shaping it, is the path this verse points to."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

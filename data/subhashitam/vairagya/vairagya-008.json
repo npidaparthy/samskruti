@@ -3,7 +3,6 @@
   "tags": [
     "vairagya",
     "nalini-dala",
-    "bhaja-govindam",
     "shankaracharya",
     "impermanence"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "భజగోవిందం మాత్రావృత్తం (Bhaja Govindam — mātrāvṛtta)",
   "granthaH": {
     "name_te": "శ్రీ శంకరాచార్య రచిత భజగోవిందం వ.4",
-    "name_en": "Ādi Śaṅkarācārya, Bhaja Govindam, verse 4"
+    "name_en": "Ādi Śaṅkarācārya, Bhaja Govindam, verse 4",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "నళినీ-దల-గత-జలం | అతి-తరలం | తద్వత్ | జీవితం | అతిశయ-చపలం | విద్ధి | వ్యాధి-అభిమాన-గ్రస్తం | లోకం | శోక-హతం | చ | సమస్తం",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "శంకరాచార్యులు తామరాకుపై నీటి చుక్కను ఉపమానంగా తీసుకున్నారు — ఇది అద్భుతమైన కవిత్వం. తామరాకు సారం నీటిని అంటుకోనివ్వదు; ఆ నీటి చుక్క ఒక్క గాలికి పడిపోతుంది. అదే విధంగా జీవితం అతి చంచలం — ఏ క్షణమైనా ముగిసిపోవచ్చు. ఈ అనిత్యత గుర్తుచేసి, వ్యాధి, అభిమానం, శోకంతో నిండిన లోకంలో గోవిందుని నామస్మరణే శరణ్యం అని శంకరుడు చెప్తున్నాడు.",
     "en": "Śaṅkarācārya's lotus-leaf water-drop simile is one of Sanskrit poetry's most elegant images of impermanence. The water on a lotus leaf does not adhere — the lotus leaf's waxy surface repels it — and a single breath of wind sends it flying. Life, the verse says, is even more fickle than this. The second part identifies the three afflictions that characterize worldly existence: vyādhi (disease — the body's vulnerability), abhimāna (ego/pride — the mind's delusion), and śoka (grief — the heart's pain). Knowing this, Śaṅkara urges the devotee toward Govinda — the one stable reality."
-  }
+  },
+  "chanda_key": "matra-misc",
+  "chanda_sa": "पदकुलकम्",
+  "chanda_te": "పదకులకమ్"
 }

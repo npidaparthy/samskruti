@@ -2,7 +2,6 @@
   "id": "karma-015",
   "tags": [
     "karma",
-    "gita",
     "abhaya"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.40"
+    "chapter": "2.40",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "న | ఇహ | అభిక్రమనాశః | అస్తి | ప్రత్యవాయః | న | విద్యతే | స్వల్పమ్ | అపి | అస్య | ధర్మస్య | త్రాయతే | మహతః | భయాత్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "కొత్త మార్గంలో అడుగుపెట్టేవారి రెండు భయాలకు — 'మధ్యలో ఆగిపోతే ఇప్పటివరకు చేసినదంతా వృథా అవుతుందేమో', 'తప్పుగా చేస్తే నష్టం వస్తుందేమో' — గీత ఇచ్చిన ధైర్యవచనం. కర్మయోగంలో ప్రతి నిజాయితీ ప్రయత్నమూ ఖాతాలో నిలిచిపోతుంది; సగం చేసినదీ వృథా కాదు, చిన్నదీ వ్యర్థం కాదు. పరిపూర్ణంగా చేయలేమన్న భయంతో అసలు మొదలుపెట్టకపోవడమే నిజమైన నష్టమని ఈ శ్లోకం ప్రతి ఆరంభకుడికీ చెప్పే అభయం.",
     "en": "The Gita's reassurance against the two fears of every beginner — 'if I stop midway, everything so far is wasted' and 'if I do it wrong, harm will follow.' In karma yoga, every sincere effort stays credited; nothing half-done is lost, nothing small is futile. The only real loss is never beginning for fear of imperfection — the verse's standing encouragement to everyone standing at a threshold."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

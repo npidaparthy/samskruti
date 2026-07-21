@@ -15,7 +15,10 @@
   "granthaH": {
     "name_te": "మనుస్మృతి",
     "name_en": "Manusmṛti",
-    "chapter": "4.138"
+    "chapter": "4.138",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "సత్యమ్ | బ్రూయాత్ | ప్రియమ్ | బ్రూయాత్ | న | బ్రూయాత్ | సత్యమ్ | అప్రియమ్ | ప్రియమ్ | చ | న | అనృతమ్ | బ్రూయాత్ | ఏషః | ధర్మః | సనాతనః",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకం నాలుగు నియమాలు చెప్తుంది: (1) సత్యం చెప్పాలి, (2) ప్రియంగా చెప్పాలి, (3) కఠినమైన సత్యం చెప్పకూడదు, (4) ప్రియంగా ఉంటుందని అబద్ధం చెప్పకూడదు. 'సత్యమ్ + ప్రియమ్' — ఈ రెండూ కలిసిన మాటనే మాట్లాడాలి. ఇది కేవలం మాటల నీతి కాదు — సంబంధాలను కాపాడుకునే జ్ఞానం.",
     "en": "This verse gives four principles: (1) speak truth, (2) speak pleasantly, (3) do not speak a truth that is harsh and hurtful, (4) do not speak a falsehood just because it is pleasing. The ideal speech is both truthful AND kind. This is not mere etiquette — it is the wisdom of preserving human relationships without compromising integrity."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

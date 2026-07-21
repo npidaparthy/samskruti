@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి నీతిశతకము",
     "name_en": "Bhartrhari's Niti Shataka",
-    "chapter": "verse 4"
+    "chapter": "verse 4",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "శక్యః | వారయితుమ్ | జలేన | హుతభుక్ | ఛత్రేణ | సూర్యాతపః | నాగేన్ద్రః | నిశితాంకుశేన | సమదః | దండేన | గోగర్దభౌ | వ్యాధిః | భేషజసంగ్రహైః | చ | వివిధైః | మన్త్రప్రయోగైః | విషమ్ | సర్వస్య | ఔషధమ్ | అస్తి | శాస్త్రవిహితమ్ | మూర్ఖస్య | న | అస్తి | ఔషధమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఆరు ప్రమాదకరమైన శక్తులను ఏకరువు పెట్టి, వాటన్నింటికీ శాస్త్రం పరిష్కారం చూపిందని చెప్పిన తర్వాత, ఏడవదైన మూర్ఖత్వానికి మాత్రం ఏ శాస్త్రమూ మందు కనుక్కోలేదని చెప్పే భర్తృహరి వ్యంగ్యశైలి. అగ్నినీ, విషాన్నీ, మదించిన ఏనుగునూ కూడా నియంత్రించగల మానవప్రజ్ఞ, తనలోని మూర్ఖత్వాన్నే నియంత్రించుకోలేదన్నది ఈ శ్లోకపు లోతైన వ్యంగ్యం. బాహ్యప్రమాదాలన్నింటికీ విరుగుడు కనుక్కున్న మనిషి, అంతర్గత మూర్ఖత్వం ముందు నిస్సహాయుడేనని ఈ శ్లోకం గుర్తుచేస్తుంది.",
     "en": "After listing six dangerous forces and noting that scripture has found a remedy for every one of them, Bhartrhari delivers his signature irony — for the seventh, foolishness, no scripture has ever found a cure. The deep irony of this verse is that human intelligence, capable of taming fire, poison, and a raging elephant, has never learned to tame the foolishness within itself. Having conquered every external danger, the verse reminds us, man remains helpless before his own inner folly."
-  }
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
 }

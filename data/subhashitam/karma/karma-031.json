@@ -2,7 +2,6 @@
   "id": "karma-031",
   "tags": [
     "karma",
-    "gita",
     "shitoshna"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (గుణత్రయవిభాగయోగము)",
     "name_en": "Srimad Bhagavad Gita (Gunatraya Vibhaga Yoga)",
-    "chapter": "14.25"
+    "chapter": "14.25",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "శీతోష్ణసుఖదుఃఖేషు | సమః | మానావమానయోః | శత్రుమిత్రపక్షయోః | తుల్యః | సర్వారమ్భపరిత్యాగీ",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "గుణాతీతస్థితిని — సత్త్వరజస్తమోగుణాల ప్రభావాన్ని దాటిన స్థితిని — వర్ణించే గీత పద్నాలుగవ అధ్యాయపు శ్లోకమిది. ఇక్కడ ప్రత్యేకంగా చేర్చిన లక్షణం 'శత్రుమిత్రపక్షయోస్తుల్యః' — శత్రువుపట్లా మిత్రుని పట్లా సమదృష్టి. ఇది ఉదాసీనత కాదు — ఇద్దరి పట్లా అదే కరుణాభావం, అదే న్యాయదృష్టి కలిగి ఉండటం. 'సర్వారమ్భపరిత్యాగీ' అన్న పదం పనిచేయకపోవడం కాదు, ఫలాపేక్షతో కూడిన స్వార్థపూరిత ఆరంభాలను వదలడం. గుణాల ఆటలో చిక్కుకోకుండా, వాటిని గమనిస్తూ మాత్రమే జీవించే స్థితినే ఇక్కడ 'గుణాతీతత'గా చెప్పారు.",
     "en": "This verse from the Gita's fourteenth chapter describes the state of gunatita — one who has transcended the influence of sattva, rajas, and tamas. The trait singled out here is 'śatrumitrapakṣayos tulyaḥ' — equal outlook toward the sides of foe and friend. This is not indifference but holding the same compassion, the same fairness, toward both. 'Sarvārambhaparityāgī' does not mean inaction, but giving up self-driven undertakings pursued for personal gain. Living by observing the play of the gunas without being caught in it — that is what is called transcendence here."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

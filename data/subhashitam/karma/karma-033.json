@@ -2,7 +2,6 @@
   "id": "karma-033",
   "tags": [
     "karma",
-    "hitopadesha",
     "udyama"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "హితోపదేశము",
     "name_en": "Hitopadesha",
-    "chapter": "Mitralabha (echoing the chariot-wheel analogy)"
+    "chapter": "Mitralabha (echoing the chariot-wheel analogy)",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
   },
   "padavibhagam": {
     "te": "యథా | హి | ఏకేన | చక్రేణ | న | రథస్య | గతిః | భవేత్ | ఏవమ్ | పురుషకారేణ | వినా | దైవమ్ | న | సిధ్యతి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "జ్ఞానభక్తుల మధ్య బంధాన్ని వర్ణించడానికి వాడే రథచక్రాల ఉపమానాన్నే, ఇక్కడ దైవప్రయత్నాల మధ్య బంధానికి హితోపదేశం ఉపయోగిస్తుంది — ఒకే ఉపమానం, రెండు వేర్వేరు సందర్భాలలో అంతే బలంగా వర్తించడం విశేషం. దైవం (అదృష్టం) ఒక్కటే సరిపోదు, ప్రయత్నం (పురుషకారం) ఒక్కటే సరిపోదు — రెండూ కలిస్తేనే రథం ముందుకు కదులుతుంది. అదృష్టాన్ని నిందించి చేతులు ముడుచుకు కూర్చున్నవారికీ, ప్రయత్నమే అన్నీ అనుకుని విధిని పూర్తిగా కొట్టిపారేసేవారికీ — ఇద్దరికీ సమాధానం చెప్పే సమతూక సూత్రం ఇది.",
     "en": "The same chariot-wheel image used elsewhere to describe the bond between knowledge and devotion, the Hitopadesha applies here to the bond between fate and effort — the same metaphor holding with equal force in two different contexts. Fate alone will not do, and effort alone will not do either — only together do they move the chariot forward. A balanced answer to both those who fold their hands blaming fate and those who dismiss destiny entirely, believing effort is everything."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

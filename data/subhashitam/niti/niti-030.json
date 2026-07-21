@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Chanakya Niti",
-    "chapter": "16.17"
+    "chapter": "16.17",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "ప్రియవాక్యప్రదానేన | సర్వే | తుష్యన్తి | జన్తవః | తస్మాత్ | తత్ | ఏవ | వక్తవ్యమ్ | వచనే | కా | దరిద్రతా",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "దానాలలో సులభతమమైనది, ఖర్చులేనిది — ప్రియవచనం. అయినా మనుషులు మాటల్లో పిసినారులవుతారు; పరుషవాక్యం ధనవ్యయం లేకుండానే శత్రువులను సృష్టిస్తుంది. మధురభాషణం అంటే ముఖస్తుతి కాదు — సత్యాన్ని కూడా మృదువుగా, హితంగా చెప్పగల నేర్పు. మాట మనిషి సంపదలో అతి చవకైనది, అతి శక్తిమంతమైనది అన్నది ఈ శ్లోక సందేశం.",
     "en": "Of all gifts, the kind word is the easiest and the only one that costs nothing — yet people turn misers precisely here, and a harsh word makes enemies free of charge. Sweet speech is not flattery; it is the art of saying even hard truths gently and helpfully. Speech is the cheapest of our possessions and the most powerful — that is the verse's point."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

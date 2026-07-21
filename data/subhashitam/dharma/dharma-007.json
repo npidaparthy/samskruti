@@ -3,8 +3,7 @@
   "tags": [
     "dharma",
     "uttishtha",
-    "jagrata",
-    "veda"
+    "jagrata"
   ],
   "shlokam": {
     "te": "ఉత్తిష్ఠత జాగ్రత ప్రాప్య వరాన్నిబోధత ।\nక్షురస్య ధారా నిశితా దురత్యయా దుర్గం పథస్తత్కవయో వదన్తి ॥",
@@ -15,7 +14,10 @@
   "granthaH": {
     "name_te": "కఠోపనిషత్",
     "name_en": "Kaṭha Upaniṣad",
-    "chapter": "1.3.14 (Yama to Naciketas)"
+    "chapter": "1.3.14 (Yama to Naciketas)",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "ఉత్తిష్ఠత | జాగ్రత | ప్రాప్య | వరాన్ | నిబోధత | క్షురస్య | ధారా | నిశితా | దురత్యయా | దుర్గమ్ | పథః | తత్ | కవయః | వదన్తి",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "యముడు నచికేతసునికి ఈ మాటలు చెప్పాడు. మోక్షమార్గం సులభం కాదు — అది క్షురధారలా నిశితమైనది. కానీ నిరాశ పడకుండా లేచి, మేలుకొని, అర్హులైన గురువులను ఆశ్రయించి పురోగమించమని ఉత్సాహపరుస్తున్నాడు. స్వామి వివేకానంద ఈ మాటలను తన ఉపన్యాసాలలో వినియోగించుకొని యువతను ప్రేరేపించారు.",
     "en": "Yama speaks these words to Naciketā. The path to liberation is not easy — it is as sharp and treacherous as a razor's edge. Yet Yama's message is not discouragement but inspiration: arise, wake up, seek qualified teachers, and walk the path with determination. Swami Vivekananda famously drew on this verse to awaken the youth of India."
-  }
+  },
+  "chanda_key": "trishtubh",
+  "chanda_sa": "त्रिष्टुप्",
+  "chanda_te": "త్రిష్టుప్"
 }

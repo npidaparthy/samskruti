@@ -2,7 +2,6 @@
   "id": "karma-038",
   "tags": [
     "karma",
-    "hitopadesha",
     "arambha"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "నీతిశతకము / సుభాషిత సంప్రదాయము",
     "name_en": "Niti Shataka tradition (widely quoted)",
-    "chapter": "traditional maxim"
+    "chapter": "traditional maxim",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "ఆరభ్యతే | న | ఖలు | విఘ్నభయేన | నీచైః | ప్రారభ్య | విఘ్నవిహతాః | విరమన్తి | మధ్యాః | విఘ్నైః | పునః | పునః | అపి | ప్రతిహన్యమానాః | ప్రారబ్ధమ్ | ఉత్తమజనాః | న | పరిత్యజన్తి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "మనుషులను మూడు స్థాయిలుగా వర్గీకరించి, ప్రతి స్థాయినీ విఘ్నాలతో వారి సంబంధం ద్వారానే నిర్వచించే ప్రసిద్ధ శ్లోకం. ప్రారంభించడానికే భయపడేవారు, ప్రారంభించి మధ్యలో వదిలేసేవారు, ఎన్నిసార్లు అడ్డుపడినా పట్టు వదలనివారు — ఈ మూడు కోవలూ నేటి ప్రతి రంగంలోనూ కనిపిస్తాయి. అడ్డంకి ఎదురుకావడం సమస్య కాదు, దానికి ఎలా స్పందిస్తామన్నదే వ్యక్తిత్వాన్ని నిర్ణయిస్తుందని ఈ శ్లోకం చాటుతుంది — పట్టుదల అనేది గొప్పతనానికి అంతిమ గీటురాయి అని.",
     "en": "A celebrated verse classifying people into three levels, defining each level entirely by their relationship to obstacles. Those too afraid even to begin, those who begin and abandon halfway, and those who hold firm no matter how many times they are struck down — all three types can be seen in every field today. This verse declares that encountering an obstacle is not the problem; how one responds to it is what defines character — persistence is the ultimate touchstone of greatness."
-  }
+  },
+  "chanda_key": "vasantatilaka",
+  "chanda_sa": "वसन्ततिलका",
+  "chanda_te": "వసన్తతిలకా"
 }

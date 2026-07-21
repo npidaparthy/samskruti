@@ -3,7 +3,6 @@
   "tags": [
     "karma",
     "gahana",
-    "gita",
     "karma-rahasya",
     "mystery"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 4.17",
-    "name_en": "Bhagavad Gītā 4.17"
+    "name_en": "Bhagavad Gītā 4.17",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "కర్మణః | హి | అపి | బోద్ధవ్యం | బోద్ధవ్యం | చ | వికర్మణః | అకర్మణః | చ | బోద్ధవ్యం | గహనా | కర్మణః | గతిః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "భగవద్గీతలో కర్మ రహస్యాన్ని కృష్ణుడు మూడు వర్గాలుగా విభజించి చెప్తున్నాడు. కర్మ అంటే విధి కర్తవ్యం; వికర్మ అంటే నిషిద్ధ కర్మ; అకర్మ అంటే కర్మ ఫలాన్ని విడిచిపెట్టడం — యోగులకు ఇది నిష్కామ కర్మ. 'గహనా కర్మణో గతిః' అన్న వాక్యం మిక్కిలి ప్రసిద్ధం — కర్మ సిద్ధాంతం మానవ బుద్ధికి అందుబాటులో ఉన్నంత సులభమైనది కాదు; అందుకే తత్త్వ జ్ఞానం అవసరం. ఫలాపేక్ష లేని కర్మ సాధన ద్వారా మాత్రమే ఈ రహస్యాన్ని అనుభవంలో అర్థం చేసుకోవచ్చు.",
     "en": "In this verse from the Gītā (4.17), Kṛṣṇa categorizes action into three types: karma (obligatory action), vikarma (prohibited/sinful action), and akarma (non-action or the state of action without ego-involvement). The most famous phrase here is 'gahanā karmaṇo gatiḥ' — the way of karma is unfathomable. This is an honest admission that karma's workings transcend ordinary human understanding. The verse sets up the Gītā's central teaching: since karma's full consequences cannot be calculated, the wise course is to act without attachment to results — nishkāma karma yoga."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

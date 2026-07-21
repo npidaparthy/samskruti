@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మనుస్మృతి",
     "name_en": "Manusmriti",
-    "chapter": "2.145"
+    "chapter": "2.145",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "ఉపాధ్యాయాన్ | దశ | ఆచార్యః | ఆచార్యాణామ్ | శతమ్ | పితా | సహస్రమ్ | తు | పితౄన్ | మాతా | గౌరవేణ | అతిరిచ్యతే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "గురుపరంపరలో స్థానాలను హెచ్చుతగ్గుల క్రమంలో పేర్చి, తల్లిని అత్యున్నత శిఖరాన నిలిపిన శ్లోకం ఇది. ప్రతి మెట్టు వద్దా గౌరవం పదింతలవుతుంది — బోధించడం కన్నా జన్మనివ్వడం, జన్మనివ్వడం కన్నా పెంచిపోషించడం గొప్పదని ఈ గణితం సూచిస్తుంది. అమ్మ కడుపులో నెలలు మోసి, పాలిచ్చి, నిద్ర కరిగించి పెంచిన ఆ రుణం ఏ లెక్కకూ అందదు. 'మాతృదేవో భవ' అన్న ఉపనిషద్వాక్యానికి మనువు ఇచ్చిన సంఖ్యాత్మక వివరణ ఇది.",
     "en": "This verse arranges the teaching lineage in ascending order of worth and sets the mother at its very peak. At each step reverence multiplies tenfold — teaching, the arithmetic suggests, is exceeded by the gift of birth, and birth itself is exceeded by the labour of raising a child. The debt of the mother who carried, nursed, and lost her sleep cannot be tallied by any measure. This is Manu's numerical gloss on the Upanishadic command: 'mātṛdevo bhava' — treat the mother as God."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

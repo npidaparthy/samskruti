@@ -2,7 +2,6 @@
   "id": "niti-058",
   "tags": [
     "niti",
-    "chanakya",
     "vipatti"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Chanakya Niti",
-    "chapter": "5.16"
+    "chapter": "5.16",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "ఉత్సవే | వ్యసనే | చ | ఏవ | దుర్భిక్షే | రాష్ట్రవిప్లవే | రాజద్వారే | శ్మశానే | చ | యః | తిష్ఠతి | సః | బాన్ధవః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "నిజమైన బంధుత్వాన్ని రక్తసంబంధంతో కాక సన్నిహిత్యంతో నిర్వచించే చాణక్యుని ప్రసిద్ధ శ్లోకం. ఆరు పరిస్థితులను — మూడు సానుకూలమైనవి, మూడు ప్రతికూలమైనవి — ఏకరువు పెట్టడం విశేషం: ఉత్సవం, రాజసభ సానుకూలమైనవైతే, వ్యసనం, దుర్భిక్షం, విప్లవం, శ్మశానం అత్యంత క్లిష్టమైనవి. చివరిది — శ్మశానం — అత్యంత శక్తిమంతమైనది; మరణసమయంలో కూడా పక్కన నిలిచేవాడే అసలైన బంధువు అని చెప్పడం ద్వారా బంధుత్వానికి అత్యున్నత గీటురాయిని నిర్దేశిస్తుంది. సుఖంలో మాత్రమే తోడుండేవారు మిత్రులు కారని, కష్టకాలంలో నిలిచేవారే నిజమైన బంధువులని ఈ శ్లోకం చాటుతుంది.",
     "en": "Chanakya's celebrated verse defining true kinship not by blood but by presence. It is notable that six situations are named — three favourable, three difficult: celebration and royal court are favourable, while misfortune, famine, upheaval, and the cremation ground are the hardest of all. The last — the cremation ground — is the most powerful; by naming the one who stands by you even at the moment of death as true kin, it sets the highest possible bar for kinship. Those who accompany you only in comfort are not friends, this verse declares — only those who remain through hardship are true kin."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

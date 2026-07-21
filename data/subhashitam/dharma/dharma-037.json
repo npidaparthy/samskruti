@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "ఋగ్వేదము (మృత్యుంజయ మంత్రము)",
     "name_en": "Rigveda (Mahamrityunjaya Mantra)",
-    "chapter": "7.59.12"
+    "chapter": "7.59.12",
+    "grantha": "Veda / Mantra",
+    "grantha_te": "వేదమన్త్రాః",
+    "grantha_sa": "वेदमन्त्राः"
   },
   "padavibhagam": {
     "te": "త్ర్యమ్బకమ్ | యజామహే | సుగన్ధిమ్ | పుష్టివర్ధనమ్ | ఉర్వారుకమ్ | ఇవ | బన్ధనాత్ | మృత్యోః | ముక్షీయ | మా | అమృతాత్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఋగ్వేదంలోని ఈ మంత్రం మృత్యుంజయ మంత్రంగా ప్రసిద్ధి చెందింది — ప్రార్థన మృత్యువు రాకుండా ఆపమని కాదు, దాని పట్టు నుండి సునాయాసంగా విడివడాలనే. దోసపండు పండి పండి తీగె నుండి తనంతటతానే జారిపడుతుంది — బలవంతంగా తెంపబడదు. ఆ సహజమైన, బాధలేని విడుదలనే మృత్యువు నుండి కోరుకుంటున్నాడు సాధకుడు; మృత్యువును జయించడం అంటే శరీరాన్ని శాశ్వతం చేయడం కాదు, దాని పట్ల భయాన్ని జయించి అమృతత్వపు దిశగా సాగడం. ఆరోగ్యంకోసమూ, శాంతికోసమూ నేటికీ లోకమంతా జపించే ఈ మంత్రం మృత్యువుపై భయాన్ని కరుణగా మార్చే ప్రార్థన.",
     "en": "This Rigvedic verse became famed as the Mahamrityunjaya Mantra — the prayer is not to prevent death but to be released from its grip as easily and naturally as a ripe cucumber falls from its vine, without force. That natural, painless release is what the seeker asks of death; conquering death is not making the body eternal but conquering the fear of it, moving toward immortality. Chanted today across the world for health and peace, it is a prayer that turns fear of death into grace."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

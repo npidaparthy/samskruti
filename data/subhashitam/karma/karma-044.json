@@ -2,7 +2,6 @@
   "id": "karma-044",
   "tags": [
     "karma",
-    "gita",
     "vishvarupa-udyoga"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (విశ్వరూపసందర్శనయోగము)",
     "name_en": "Srimad Bhagavad Gita (Vishvarupa Sandarshana Yoga)",
-    "chapter": "11.33"
+    "chapter": "11.33",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "తస్మాత్ | త్వమ్ | ఉత్తిష్ఠ | యశః | లభస్వ | జిత్వా | శత్రూన్ | భుంక్ష్వ | రాజ్యమ్ | సమృద్ధమ్ | మయా | ఏవ | ఏతే | నిహతాః | పూర్వమ్ | ఏవ | నిమిత్తమాత్రమ్ | భవ | సవ్యసాచిన్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "విశ్వరూపదర్శనం తర్వాత కృష్ణుడు అర్జునుడికి ఇచ్చే కీలకమైన ఆదేశం — 'నిమిత్తమాత్రం భవ', కేవలం సాధనమాత్రుడవు కమ్ము. యుద్ధఫలితం ఇప్పటికే నిర్ణయమైపోయిందని, కర్తృత్వం తనదేనని, అర్జునుడు కేవలం ఒక పనిముట్టుగా ఆ ప్రక్రియలో పాల్గొంటాడని కృష్ణుడు వెల్లడించడం ఈ శ్లోకపు గాఢమైన సందేశం. ఇది బాధ్యతారాహిత్యానికి ప్రేరణ కాదు — విశ్వశక్తి ముందు వ్యక్తిగత అహంకారాన్ని కరిగించి, తనకు అప్పగించిన కర్తవ్యాన్ని నిర్భయంగా నిర్వర్తించమనే పిలుపు. కర్తృత్వాభిమానం వదిలి, విశ్వక్రమంలో తనవంతు పాత్రను నిర్వర్తించడమే నిజమైన కర్మయోగమని ఈ శ్లోకం చాటుతుంది.",
     "en": "The pivotal instruction Krishna gives Arjuna after the vision of the cosmic form — 'nimittamātraṃ bhava', be merely the instrument. The profound message of this verse is Krishna revealing that the outcome of the battle is already determined, that the doership is his own, and that Arjuna merely participates in that process as an instrument. This is not a call to abandon responsibility — it is a call to dissolve personal ego before the cosmic power and fearlessly discharge the duty entrusted to oneself. Letting go of the pride of doership and fulfilling one's own role within the cosmic order, this verse declares, is true karma yoga."
-  }
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
 }

@@ -4,7 +4,6 @@
     "dharma",
     "svadharma",
     "nidhana",
-    "gita",
     "duty"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 3.35",
-    "name_en": "Bhagavad Gītā 3.35"
+    "name_en": "Bhagavad Gītā 3.35",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "శ్రేయాన్ | స్వధర్మః | విగుణః | పరధర్మాత్ | స్వ-అనుష్ఠితాత్ | స్వధర్మే | నిధనం | శ్రేయః | పరధర్మః | భయావహః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "భగవద్గీతలో ఈ శ్లోకం స్వధర్మ సిద్ధాంతానికి మూలం. ప్రతి వ్యక్తికి సహజంగా ఒక ధర్మం ఉంటుంది — ఆ ధర్మాన్ని ఆచరించడంలో నైపుణ్యం లేకపోయినా అది ఇతరుల ధర్మాన్ని అనుసరించడం కంటే మేలు. 'విగుణ' అంటే లోపభూయిష్ఠమైన అని అర్థం — అయినప్పటికీ స్వధర్మం శ్రేయస్కరం. ఎందుకంటే పరధర్మం అనుసరించడం ఒక ఆత్మవంచన — ఆ ధర్మం మన స్వభావానికి సహజం కాదు. స్వీయ సత్యంతో జీవించడమే ముక్తికి మార్గం.",
     "en": "This verse from the Bhagavad Gītā (3.35) establishes the principle of svadharma — one's own duty corresponding to one's nature, station, and circumstance. Even if one performs svadharma imperfectly, it is preferable to excelling at another's dharma. The key insight is that living authentically according to one's own nature is spiritually safer than imitation, however accomplished. 'Paradharma' carries danger because it involves living a borrowed identity, out of alignment with one's true self. This teaching is not rigid social determinism but an invitation to deep self-knowledge."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

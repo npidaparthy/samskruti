@@ -2,7 +2,6 @@
   "id": "vairagya-040",
   "tags": [
     "vairagya",
-    "bhartrhari",
     "sukha-anveshana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి వైరాగ్యశతకము",
     "name_en": "Bhartrhari's Vairagya Shataka",
-    "chapter": "verse 39"
+    "chapter": "verse 39",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "భ్రాన్తమ్ | దేశమ్ | అనేకదుర్గవిషమమ్ | ప్రాప్తమ్ | న | కించిత్ | ఫలమ్ | త్యక్త్వా | జాతికులాభిమానమ్ | ఉచితమ్ | సేవా | కృతా | నిష్ఫలా | భుక్తమ్ | మానవివర్జితమ్ | పరగృహేషు | ఆశంకయా | కాకవత్ | తృష్ణే | జృమ్భసి | పాపకర్మపిశునే | న | అద్య | అపి | సన్తుష్యసి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "జీవితకాలం మొత్తం తృష్ణను తీర్చడానికి పడిన శ్రమనూ, అవమానాలనూ ఏకరువు పెట్టి, చివరకు ఆ తృష్ణ ఇప్పటికీ తృప్తి చెందలేదని వాపోయే ఆత్మవిమర్శన శ్లోకం. దేశదేశాలు తిరగడం, పరాయిల ఇళ్ళలో కాకిలా బతకడం, గౌరవాన్ని చాలించడం — ఇవన్నీ తృష్ణ కోసం చేసిన త్యాగాలే, కానీ తృష్ణ ఇచ్చిన ప్రతిఫలం శూన్యం. తృష్ణను నేరుగా సంబోధించి 'పాపకర్మపిశునే' అని పిలవడంలో — అది ఎంత మనుషులను దారుణమైన పనులకు పురికొల్పుతుందో చెప్పే తీక్షణమైన నింద ఉంది. ఎంత సంపాదించినా తృష్ణ ఎన్నటికీ నిండదన్న ఈ అనుభవపూర్వక ఒప్పుకోలు, వైరాగ్యం వైపు మళ్ళే మార్పుకు నాంది.",
     "en": "A verse of self-examination that catalogues a lifetime's labour and humiliation endured to satisfy craving — only to lament that craving remains unsatisfied still. Wandering across lands, living like a crow in strangers' homes, setting aside self-respect — all sacrifices made for the sake of craving, yet craving's return is nil. Addressing craving directly as 'pāpakarmapiśune' carries a sharp indictment of how far it drives people into degrading acts. This hard-won admission — that no matter how much is gained, craving is never filled — marks the turn toward genuine renunciation."
-  }
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
 }

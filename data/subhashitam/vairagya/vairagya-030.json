@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
     "name_en": "Bhaja Govindam (Adi Shankaracharya)",
-    "chapter": "verse 29 (Charpata Panjarika)"
+    "chapter": "verse 29 (Charpata Panjarika)",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "కామమ్ | క్రోధమ్ | లోభమ్ | మోహమ్ | త్యక్త్వా | ఆత్మానమ్ | భావయ | కః | అహమ్ | ఆత్మజ్ఞానవిహీనాః | మూఢాః | తే | పచ్యన్తే | నరకనిగూఢాః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "నాలుగు అంతఃశత్రువులను ఒక్క పంక్తిలో ఏకరువు పెట్టి, వాటికి విరుగుడుగా ఆత్మవిచారణను సూచించే శ్లోకం. 'కోఽహమ్' అన్న ప్రశ్న అద్వైతవేదాంతపు మూలసూత్రం — దేహమూ, మనసూ, ఇంద్రియాలూ కాక నిజమైన 'నేను' ఎవరు అని నిత్యమూ వెతకమనేది. ఈ విచారణను వదిలేసి కోరికలకూ కోపానికీ లోభానికీ లొంగినవాడు తనను తానే నరకంలో ముంచుకుంటాడు — నరకం మరణానంతర స్థలం మాత్రమే కాదు, ఆత్మజ్ఞానం లేని బతుకే ఒక నరకమన్న సూక్ష్మ సందేశం ఇక్కడ దాగి ఉంది.",
     "en": "The verse names the four inner enemies in a single breath and prescribes self-inquiry as their antidote. 'Ko'ham' — who am I — is Advaita Vedanta's founding question: to search, ceaselessly, for the true 'I' beyond body, mind, and senses. Abandon that inquiry and surrender to desire, anger, and greed, and one sinks into hell by one's own doing — the subtle point being that hell is not only a place after death, but a life lived without self-knowledge."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

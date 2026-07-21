@@ -3,8 +3,7 @@
   "tags": [
     "karma",
     "shraddha",
-    "jnana",
-    "gita"
+    "jnana"
   ],
   "shlokam": {
     "te": "శ్రద్ధావాన్ లభతే జ్ఞానం తత్పరః సంయతేన్ద్రియః ।\nజ్ఞానం లబ్ధ్వా పరాం శాన్తిమచిరేణాధిగచ్ఛతి ॥",
@@ -14,7 +13,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 4.39",
-    "name_en": "Bhagavad Gītā 4.39"
+    "name_en": "Bhagavad Gītā 4.39",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "శ్రద్ధావాన్ | లభతే | జ్ఞానం | తత్పరః | సంయత-ఇన్ద్రియః | జ్ఞానం | లబ్ధ్వా | పరాం | శాన్తిం | అచిరేణ | అధిగచ్ఛతి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "శ్రద్ధ, నిష్ఠ, ఇంద్రియ నిగ్రహం — ఈ మూడూ జ్ఞాన సంపాదనకు ముఖ్య పూర్వ నిబంధనలు. జ్ఞానం స్వయంగా శాంతినిస్తుంది. గీత యొక్క నాల్గవ అధ్యాయంలో శ్రీకృష్ణుడు జ్ఞాన యజ్ఞాన్ని వివరించినప్పుడు ఈ మాటలు చెప్పాడు — జ్ఞానం పొందే మార్గం శ్రద్ధతో మొదలవుతుంది.",
     "en": "Faith, dedication, and sense-control are the three prerequisites for attaining knowledge. Once knowledge is gained, peace follows naturally — it is not something to be separately pursued. Kṛṣṇa speaks this in the context of the jñāna-yajña (sacrifice of knowledge) in Chapter 4, emphasising that the seeker's inner preparation — śraddhā, tatparatā, saṃyata-indriya — is as important as the teaching itself."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

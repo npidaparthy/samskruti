@@ -3,7 +3,6 @@
   "tags": [
     "vairagya",
     "bhoge-roga-bhayam",
-    "bhartrhari",
     "vairagya-shataka",
     "fear"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "శార్దూలవిక్రీడితం (Śārdūlavikrīḍitam) — 19 syllables per quarter",
   "granthaH": {
     "name_te": "భర్తృహరి వైరాగ్యశతకం",
-    "name_en": "Bhartṛhari, Vairāgya Śataka"
+    "name_en": "Bhartṛhari, Vairāgya Śataka",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "భోగే | రోగ-భయం | కులే | చ్యుతి-భయం | విత్తే | నృపాలాత్ | భయం | మానే | దైన్య-భయం | బలే | రిపు-భయం | రూపే | జరాయాః | భయం | శాస్త్రే | వాది-భయం | గుణే | ఖల-భయం | కాయే | కృతాన్తాత్ | భయం | సర్వం | వస్తు | భయ-అన్వితం | భువి | నృణాం | వైరాగ్యం | ఏవ | అభయం",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "భర్తృహరి వైరాగ్యశతకంలో ఇది అత్యంత ప్రసిద్ధమైన శ్లోకం. తొమ్మిది పార్శ్వాల నుండి తొమ్మిది భయాలను పరిగణిస్తే — జీవితంలో ఒక్కటి కూడా భయరహితం కాదు. ఐశ్వర్యం వ్యాధికి దారి తీస్తే, బలం శత్రువులను ఆకర్షిస్తుంది, సౌందర్యం వార్ధక్యంతో నశిస్తుంది. ఏకైక అభయం వైరాగ్యం — ఏ వస్తువుపైనా ఆసక్తి లేకుంటే ఆ వస్తువు కోల్పోవడం వల్ల భయం లేదు. ఈ గ్రంథం చదివి భర్తృహరి మళ్లీ సన్యాసం స్వీకరించాడు.",
     "en": "This is perhaps Bhartṛhari's most celebrated verse in the Vairāgya Śataka. It constructs a comprehensive argument for renunciation through a simple enumeration: take any object of worldly attachment — pleasure, lineage, wealth, honor, strength, beauty, learning, virtue, or the body itself — and each one comes with its own specific fear. There is no attachment without corresponding anxiety. The only escape from fear is non-attachment (vairāgya) — when nothing is clung to, nothing can be lost, and the root of fear dissolves. Bhartṛhari, a king who gave up his throne, wrote from hard-won experience, which gives the verse its penetrating authenticity."
-  }
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
 }

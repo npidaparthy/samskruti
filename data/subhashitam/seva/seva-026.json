@@ -2,7 +2,6 @@
   "id": "seva-026",
   "tags": [
     "seva",
-    "gita",
     "yajna-bhava"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "3.10"
+    "chapter": "3.10",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "సహయజ్ఞాః | ప్రజాః | సృష్ట్వా | పురా | ఉవాచ | ప్రజాపతిః | అనేన | ప్రసవిష్యధ్వమ్ | ఏషః | వః | అస్తు | ఇష్టకామధుక్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "సృష్టికి మూలసూత్రంగా యజ్ఞాన్ని — పరస్పర సేవాభావాన్ని — నిర్దేశించే గీత శ్లోకం ఇది. మనిషిని సృష్టించినప్పుడే, ఒంటరిగా బతకమని కాక పరస్పరసహకారంతో వర్ధిల్లమని ప్రజాపతి ఆదేశించాడు. 'యజ్ఞం' ఇక్కడ అగ్నిహోత్రం మాత్రమే కాదు — ఇచ్చిపుచ్చుకోవడం, ఒకరికొకరు తోడ్పడటం అనే విశ్వసూత్రం. సమాజం అంటే వేర్వేరు వ్యక్తుల సముదాయం కాదు, పరస్పర సేవాసంబంధాల వలయమని; ఆ వలయాన్ని నిలబెట్టేదే యజ్ఞభావమని ఈ శ్లోకం చాటుతుంది.",
     "en": "This Gita verse names sacrifice — the spirit of mutual service — as the founding principle of creation itself. At the very moment of creating humankind, the Creator ordained not solitary survival but mutual cooperation and flourishing. 'Yajna' here is not merely ritual fire-offering but the universal principle of giving and receiving, of helping one another. Society, the verse declares, is not merely a collection of separate individuals but a web of mutual service — and it is the spirit of yajna that holds that web together."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

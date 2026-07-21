@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "హితోపదేశః",
     "name_en": "Hitopadeśa",
-    "chapter": ""
+    "chapter": "",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
   },
   "padavibhagam": {
     "te": "న | చోరహార్యమ్ | న చ | రాజహార్యమ్ | న | భ్రాతృభాజ్యమ్ | న చ | భారకారి | వ్యయే కృతే | వర్ధతే | ఏవ | నిత్యమ్ | విద్యాధనమ్ | సర్వధనప్రధానమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "భౌతిక సంపద నాశనమవుతుంది, పంచుకున్నంతగా తగ్గిపోతుంది. కానీ విద్య అనే సంపద వ్యయించిన కొద్దీ — పంచుకున్న కొద్దీ — వర్ధిల్లుతుంది. ఇది అజేయమైన సంపద. ఆధునిక కాలంలో కూడా 'intellectual capital' అనే భావన ఇదే సత్యాన్ని ప్రతిధ్వనిస్తుంది.",
     "en": "Material wealth diminishes when divided and can be lost. But knowledge grows the more it is shared — it is indestructible, weightless, and inexhaustible. This verse anticipates what modern thinkers call 'intellectual capital': the one resource that multiplies through use."
-  }
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
 }

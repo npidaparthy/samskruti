@@ -126,6 +126,8 @@ window.StotramApp = {
         const detail = document.getElementById('subhashitamDetail');
         if (detail && !detail.classList.contains('hidden') && this._currentSubFile) {
           this.openSubhashitam(this._currentSubId, this._currentSubFile);
+        } else {
+          this.renderSubhashitamList();   // grantha labels follow lipi
         }
       }
     });
@@ -902,7 +904,20 @@ window.StotramApp = {
         this._subIndexed = true;
       }
 
-      const activeTag = container.dataset.activeTag || 'all';
+      // Chandas reference (meter names, sutras, notes) — fetched once (retries until loaded)
+      if (!this._chandaMeters?.length) {
+        try { const cr = await fetch(DATA_CHANDAS_METERS); if (cr.ok) this._chandaMeters = await cr.json(); }
+        catch { /* leave unset so a later render retries */ }
+      }
+      const meters = this._chandaMeters || [];
+      const meterByKey = Object.fromEntries(meters.map(m => [m.key, m]));
+
+      const isTe = lang === 'te';
+      const lipi = window.StotramSettings?.get('lipi') || 'te';
+      const activeTag     = container.dataset.activeTag || 'all';
+      const activeGrantha = container.dataset.grantha   || 'all';
+      const activeChanda  = container.dataset.chanda    || 'all';
+      const activeSort    = container.dataset.sort      || 'random';
 
       // Category tags = first tag of each entry
       const catTags = ['all', ...new Set(list.map(e => (e.tags || [])[0]).filter(Boolean))].sort((a,b) => a === 'all' ? -1 : a.localeCompare(b));
@@ -910,8 +925,34 @@ window.StotramApp = {
       const catSet = new Set(catTags);
       const topicTags = [...new Set(list.flatMap(e => (e.tags || []).slice(1)))].filter(t => !catSet.has(t)).sort();
 
-      const filtered = (activeTag === 'all' ? list : list.filter(e => (e.tags||[]).includes(activeTag)))
-        .slice().sort(() => Math.random() - 0.5);
+      // ── Grantha axis (labels follow lipi: te→grantha_te, sa→grantha_sa, iast→source_en) ──
+      const gKey   = e => e.grantha_sa || e.source_en || '';               // stable grouping key
+      const gLabel = k => { const e = list.find(x => gKey(x) === k) || {};
+        return lipi === 'sa' ? (e.grantha_sa || e.source_en)
+             : lipi === 'iast' ? (e.source_en || e.grantha_sa)
+             : (e.grantha_te || e.source_en); };
+      const gCounts = {}; list.forEach(e => { const k = gKey(e); if (k) gCounts[k] = (gCounts[k] || 0) + 1; });
+      const granthas = Object.keys(gCounts).sort((a,b) => gCounts[b] - gCounts[a]);
+
+      // ── Chandas axis (labels follow lipi: te→name_te, sa→name_sa, iast→name_iast) ──
+      const cLabel = m => lipi === 'sa' ? m.name_sa : lipi === 'iast' ? m.name_iast : m.name_te;
+      const cCounts = {}; list.forEach(e => { const k = e.chanda_key; if (k) cCounts[k] = (cCounts[k] || 0) + 1; });
+      // meters ordered by our reference file, keeping only those present
+      const chandas = meters.map(m => m.key).filter(k => cCounts[k]);
+
+      const firstOf = e => isTe ? (e.firstline_te || e.firstline_sa || '') : (e.firstline_sa || e.firstline_te || '');
+
+      let filtered = list
+        .filter(e => activeTag === 'all' || (e.tags || []).includes(activeTag))
+        .filter(e => activeGrantha === 'all' || gKey(e) === activeGrantha)
+        .filter(e => activeChanda === 'all' || e.chanda_key === activeChanda)
+        .slice();
+      if (activeSort === 'az')
+        filtered.sort((a,b) => firstOf(a).localeCompare(firstOf(b)));
+      else if (activeSort === 'grantha')
+        filtered.sort((a,b) => gKey(a) === gKey(b) ? firstOf(a).localeCompare(firstOf(b)) : gKey(a).localeCompare(gKey(b)));
+      else
+        filtered.sort(() => Math.random() - 0.5);
 
       const catChips = catTags.map(tag =>
         `<button class="sub-tag-chip${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">${this._esc(tag)}</button>`
@@ -920,8 +961,50 @@ window.StotramApp = {
       const topicChips = topicTags.map(tag =>
         `<button class="sub-tag-chip sub-topic-chip${tag === activeTag ? ' active' : ''}" data-tag="${this._esc(tag)}">${this._esc(tag)}</button>`
       ).join('');
+      const topicBtnLabel = topicTags.includes(activeTag) ? `${activeTag} ▴` : (isTe ? 'విషయం ▾' : 'Topics ▾');
 
-      const topicBtnLabel = topicTags.includes(activeTag) ? `${activeTag} ▴` : `Topics ▾`;
+      // Grantham dropdown
+      const granthaChips = ['all', ...granthas].map(k => {
+        const lbl = k === 'all' ? (isTe ? 'అన్నీ' : 'All') : `${gLabel(k)} · ${gCounts[k]}`;
+        return `<button class="sub-tag-chip sub-grantha-chip${k === activeGrantha ? ' active' : ''}" data-grantha="${this._esc(k)}">${this._esc(lbl)}</button>`;
+      }).join('');
+      const granthaBtnLabel = activeGrantha === 'all' ? (isTe ? 'గ్రంథం ▾' : 'Grantham ▾') : `${gLabel(activeGrantha)} ▴`;
+
+      // Chandas dropdown
+      const chandaChips = ['all', ...chandas].map(k => {
+        if (k === 'all') return `<button class="sub-tag-chip sub-chanda-chip${activeChanda === 'all' ? ' active' : ''}" data-chanda="all">${isTe ? 'అన్నీ' : 'All'}</button>`;
+        const m = meterByKey[k];
+        return `<button class="sub-tag-chip sub-chanda-chip${k === activeChanda ? ' active' : ''}" data-chanda="${this._esc(k)}">${this._esc(cLabel(m))} · ${cCounts[k]}</button>`;
+      }).join('');
+      const chandaBtnLabel = activeChanda === 'all' ? (isTe ? 'ఛందస్సు ▾' : 'Chandas ▾') : `${this._esc(cLabel(meterByKey[activeChanda]))} ▴`;
+
+      // Educational panel for the selected meter (sutra + gaṇa + note)
+      let chandaPanel = '';
+      if (activeChanda !== 'all' && meterByKey[activeChanda]) {
+        const m = meterByKey[activeChanda];
+        const sutra = lipi === 'sa' ? m.lakshana_sa : lipi === 'iast' ? m.lakshana_iast : m.lakshana_te;
+        const gana  = lipi === 'sa' ? m.gana : lipi === 'iast' ? (m.gana_iast || m.gana) : (m.gana_te || m.gana);
+        const note  = isTe ? (m.note_te || m.note_en) : (m.note_en || m.note_te);
+        const rows = [];
+        if (gana && gana !== '—')           rows.push(`<span class="chanda-fact"><b>${isTe ? 'గణ' : 'Gaṇa'}:</b> ${this._esc(gana)}</span>`);
+        if (m.aksharas && m.aksharas !== '—')rows.push(`<span class="chanda-fact"><b>${isTe ? 'అక్షరాలు' : 'Akṣara'}:</b> ${this._esc(String(m.aksharas))}</span>`);
+        if (m.yati && m.yati !== '—')        rows.push(`<span class="chanda-fact"><b>${isTe ? 'యతి' : 'Yati'}:</b> ${this._esc(m.yati)}</span>`);
+        chandaPanel = `
+          <div class="chanda-panel">
+            <div class="chanda-panel-head">${this._esc(cLabel(m))} <span class="chanda-class">${this._esc(m.class)}</span></div>
+            ${sutra ? `<div class="chanda-sutra">${this._esc(sutra)}</div>` : ''}
+            ${rows.length ? `<div class="chanda-facts">${rows.join('')}</div>` : ''}
+            ${note ? `<div class="chanda-note">${this._esc(note)}</div>` : ''}
+          </div>`;
+      }
+
+      // Sort dropdown
+      const sortOpts = [['random', isTe ? 'యాదృచ్ఛికం' : 'Random'], ['grantha', isTe ? 'గ్రంథం వారీగా' : 'By grantha'], ['az', isTe ? 'అక్షరక్రమం' : 'A–Z']];
+      const sortChips = sortOpts.map(([v,l]) =>
+        `<button class="sub-tag-chip sub-sort-chip${v === activeSort ? ' active' : ''}" data-sort="${v}">${this._esc(l)}</button>`
+      ).join('');
+      const sortCur = (sortOpts.find(s => s[0] === activeSort) || sortOpts[0])[1];
+      const sortBtnLabel = `${isTe ? 'క్రమం' : 'Sort'}: ${sortCur} ▾`;
 
       const cards = filtered.map(e => {
         const firstLine = lang === 'te' ? (e.firstline_te || e.firstline_sa || '') : (e.firstline_sa || e.firstline_te || '');
@@ -940,27 +1023,65 @@ window.StotramApp = {
           <div class="sub-tag-chips">
             ${catChips}
             <div class="sub-topics-wrap">
-              <button class="sub-topics-btn${topicTags.includes(activeTag) ? ' active' : ''}" id="subTopicsBtn">${topicBtnLabel}</button>
+              <button class="sub-topics-btn${topicTags.includes(activeTag) ? ' active' : ''}" data-dd="subTopicsDropdown">${topicBtnLabel}</button>
               <div class="sub-topics-dropdown hidden" id="subTopicsDropdown">${topicChips}</div>
+            </div>
+            <div class="sub-topics-wrap">
+              <button class="sub-topics-btn${activeGrantha !== 'all' ? ' active' : ''}" data-dd="subGranthaDropdown">${this._esc(granthaBtnLabel)}</button>
+              <div class="sub-topics-dropdown hidden" id="subGranthaDropdown">${granthaChips}</div>
+            </div>
+            <div class="sub-topics-wrap">
+              <button class="sub-topics-btn${activeChanda !== 'all' ? ' active' : ''}" data-dd="subChandaDropdown">${this._esc(chandaBtnLabel)}</button>
+              <div class="sub-topics-dropdown hidden" id="subChandaDropdown">${chandaChips}</div>
+            </div>
+            <div class="sub-topics-wrap">
+              <button class="sub-topics-btn${activeSort !== 'random' ? ' active' : ''}" data-dd="subSortDropdown">${this._esc(sortBtnLabel)}</button>
+              <div class="sub-topics-dropdown hidden" id="subSortDropdown">${sortChips}</div>
             </div>
           </div>
           <span class="sub-count">${this._esc(countLabel)}</span>
         </div>
+        ${chandaPanel}
         <div class="sub-grid">${cards || '<p style="padding:2rem;color:var(--c-text-muted)">No verses found.</p>'}</div>`;
 
-      // Topics dropdown toggle
-      container.querySelector('#subTopicsBtn')?.addEventListener('click', e => {
-        e.stopPropagation();
-        container.querySelector('#subTopicsDropdown')?.classList.toggle('hidden');
+      // Dropdown toggles (Topics / Grantham / Sort) — open one, close the rest
+      const closeDropdowns = () => container.querySelectorAll('.sub-topics-dropdown').forEach(d => d.classList.add('hidden'));
+      container.querySelectorAll('.sub-topics-btn[data-dd]').forEach(btn => {
+        btn.addEventListener('click', e => {
+          e.stopPropagation();
+          const dd = container.querySelector('#' + btn.dataset.dd);
+          const wasHidden = dd?.classList.contains('hidden');
+          closeDropdowns();
+          if (wasHidden) dd?.classList.remove('hidden');
+        });
       });
-      document.addEventListener('click', () => {
-        container.querySelector('#subTopicsDropdown')?.classList.add('hidden');
-      }, { once: true });
+      document.addEventListener('click', closeDropdowns, { once: true });
 
-      // Tag filter clicks
-      container.querySelectorAll('.sub-tag-chip').forEach(btn => {
+      // Tag filter clicks (category chips + topic chips)
+      container.querySelectorAll('.sub-tag-chip[data-tag]').forEach(btn => {
         btn.addEventListener('click', () => {
           container.dataset.activeTag = btn.dataset.tag;
+          this.renderSubhashitamList();
+        });
+      });
+      // Grantha filter clicks
+      container.querySelectorAll('.sub-grantha-chip').forEach(btn => {
+        btn.addEventListener('click', () => {
+          container.dataset.grantha = btn.dataset.grantha;
+          this.renderSubhashitamList();
+        });
+      });
+      // Chandas filter clicks
+      container.querySelectorAll('.sub-chanda-chip').forEach(btn => {
+        btn.addEventListener('click', () => {
+          container.dataset.chanda = btn.dataset.chanda;
+          this.renderSubhashitamList();
+        });
+      });
+      // Sort clicks
+      container.querySelectorAll('.sub-sort-chip').forEach(btn => {
+        btn.addEventListener('click', () => {
+          container.dataset.sort = btn.dataset.sort;
           this.renderSubhashitamList();
         });
       });

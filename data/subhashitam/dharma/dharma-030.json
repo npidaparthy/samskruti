@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మహాభారతము (స్వర్గారోహణపర్వము)",
     "name_en": "Mahabharata (Svargarohana Parva)",
-    "chapter": "18.5.50"
+    "chapter": "18.5.50",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
   },
   "padavibhagam": {
     "te": "న | జాతు | కామాత్ | న | భయాత్ | న | లోభాత్ | ధర్మమ్ | త్యజేత్ | జీవితస్య | అపి | హేతోః | నిత్యః | ధర్మః | సుఖదుఃఖే | తు | అనిత్యే | జీవః | నిత్యః | హేతుః | అస్య | తు | అనిత్యః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "మహాభారతపు చిట్టచివరి ఉపదేశాలలో ఒకటి — ధర్మత్యాగానికి మనుషులు చూపే మూడు కారణాలను (కామం, భయం, లోభం) పేర్కొని, మూడింటినీ నిరాకరిస్తుంది. ఎందుకంటే బేరీజు స్పష్టం: విడిచేది నిత్యమైనది, దక్కించుకునేది అనిత్యమైనది. క్షణికమైన సుఖం కోసమో ప్రాణభయం కోసమో శాశ్వతమైన ధర్మాన్ని అమ్ముకోవడం లాభసాటి వ్యాపారం కాదన్నది వ్యాసుని తుది మాట.",
     "en": "Among the Mahabharata's final teachings, this verse names the three usual reasons people forsake dharma — desire, fear, greed — and rejects all three. The arithmetic is plain: what is abandoned is eternal; what is gained is fleeting. To trade everlasting dharma for a moment's pleasure or the fear of death is, in Vyasa's closing judgment, simply a bad bargain."
-  }
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
 }

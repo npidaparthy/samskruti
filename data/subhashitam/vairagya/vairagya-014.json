@@ -3,7 +3,6 @@
   "tags": [
     "vairagya",
     "etajjnanam",
-    "gita",
     "humility",
     "knowledge"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 13.7 (జ్ఞానం లక్షణాలు)",
-    "name_en": "Bhagavad Gītā 13.7 (characteristics of jñāna)"
+    "name_en": "Bhagavad Gītā 13.7 (characteristics of jñāna)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "అమానిత్వం | అదమ్భిత్వం | అహింసా | క్షాన్తిః | ఆర్జవం | ఆచార్య-ఉపాసనం | శౌచం | స్థైర్యం | ఆత్మ-వినిగ్రహః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "గీతలో 13వ అధ్యాయంలో కృష్ణుడు జ్ఞానానికి లక్షణాలు నిర్వచిస్తున్నాడు — ఇవి పుస్తక జ్ఞానం కాదు, జీవన లక్షణాలు. 'ఏతజ్జ్ఞానమితి ప్రోక్తం' — ఇవే జ్ఞానమని చెప్పబడింది. అహంకారం, ఆడంబరం, హింస — ఇవి అజ్ఞానం. వినమ్రత, ఓర్పు, నిజాయితీ — ఇవి జ్ఞానం. ఆధ్యాత్మిక పరిపక్వతకు వైరాగ్యం మాత్రమే చాలదు — ఈ నైతిక సుగుణాలు కూడా అవసరం. గురువు సేవ జ్ఞానానికి లక్షణంగా చెప్పడం గురు-శిష్య సంప్రదాయం యొక్క మహత్వాన్ని చాటుతుంది.",
     "en": "Bhagavad Gītā 13.7 defines jñāna — not as intellectual information but as a cluster of qualities of character. The verse says these are what knowledge IS, not what knowledge produces. This is Kṛṣṇa's radical redefinition: a person of genuine wisdom is marked by humility, non-deception, non-violence, patience, honesty, dedication to the teacher, purity, stability, and self-mastery. Their opposites — pride, ostentation, violence — are ignorance. The list deliberately includes service to the teacher (ācāryopāsanam) as a mark of wisdom, affirming that true jñāna is never self-sufficient but remains rooted in gratitude, lineage, and relationship."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

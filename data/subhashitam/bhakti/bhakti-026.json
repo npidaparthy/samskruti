@@ -2,7 +2,6 @@
   "id": "bhakti-026",
   "tags": [
     "bhakti",
-    "gita",
     "bhakta-uttama"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (భక్తియోగము)",
     "name_en": "Srimad Bhagavad Gita (Bhakti Yoga)",
-    "chapter": "12.8"
+    "chapter": "12.8",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "మయి | ఏవ | మనః | ఆధత్స్వ | మయి | బుద్ధిమ్ | నివేశయ | నివసిష్యసి | మయి | ఏవ | అతః | ఊర్ధ్వమ్ | న | సంశయః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "భక్తియోగపు ఆచరణాత్మక ఆరంభ సూత్రం ఇది — మనసునూ బుద్ధినీ రెంటినీ భగవంతునిపై కేంద్రీకరించమని. మనసు అనుభూతిస్థానం, బుద్ధి నిర్ణయస్థానం; రెండింటినీ ఒకే దిశగా మళ్ళిస్తే సాధన సంపూర్ణమవుతుంది. 'న సంశయః' అన్న నిశ్చయవాక్యం విశేషం — ఇది కేవలం సూచన కాదు, హామీ. షరతులు నెరవేరిస్తే ఫలితం తథ్యమని కృష్ణుడు నిర్భయంగా ప్రకటిస్తున్నాడు. మనసూ బుద్ధీ దేనిపై కేంద్రీకృతమవుతాయో అక్కడే మనం చివరకు నివసిస్తామన్న ఈ సూత్రం, నేటి మనఃశాస్త్రంలోని 'attention shapes destiny' అనే భావనకు ప్రాచీన ప్రతిరూపం.",
     "en": "This is bhakti yoga's practical starting instruction — concentrating both mind and intellect on the divine. The mind is the seat of feeling, the intellect the seat of decision; when both are turned in the same direction, the practice becomes complete. The declaration 'na saṃśayaḥ' — no doubt — is notable; it is not a mere suggestion but a guarantee. Krishna fearlessly proclaims that if the conditions are met, the result is certain. That we ultimately come to dwell wherever mind and intellect are focused is this verse's ancient counterpart to the modern insight that attention shapes destiny."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

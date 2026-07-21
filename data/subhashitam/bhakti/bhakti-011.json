@@ -15,7 +15,10 @@
   "chandaH": "స్రగ్ధరా (Sragdharā) — 21 syllables per quarter",
   "granthaH": {
     "name_te": "విష్ణు ధ్యాన శ్లోకం (సనాతన పంచాయతన పూజా)",
-    "name_en": "Viṣṇu Dhyāna Śloka (traditional Pañcāyatana worship)"
+    "name_en": "Viṣṇu Dhyāna Śloka (traditional Pañcāyatana worship)",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "శాన్త-ఆకారం | భుజగ-శయనం | పద్మ-నాభం | సుర-ఈశం | విశ్వ-ఆధారం | గగన-సదృశం | మేఘ-వర్ణం | శుభ-అంగం | లక్ష్మీ-కాన్తం | కమల-నయనం | యోగిభిః | ధ్యాన-గమ్యం | వన్దే | విష్ణుం | భవ-భయ-హరం | సర్వ-లోక-ఏక-నాథం",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "ఈ ప్రసిద్ధమైన విష్ణు ధ్యాన శ్లోకం ఆదిశేషుని మీద శయనించిన విష్ణువు యొక్క సంపూర్ణ రూపాన్ని అద్భుతమైన కవిత్వంలో వర్ణిస్తుంది. ప్రతి పదమూ భగవంతుని ఒక లక్షణాన్ని వర్ణిస్తుంది. 'ధ్యానగమ్యం' అన్న పదం ముఖ్యం — విష్ణువు తర్కంతో కాదు, ధ్యానంతో తెలిసేవాడు. ప్రాతఃకాలంలో ఈ శ్లోకాన్ని పఠించడం నేత్ర దర్శన ఫలాన్ని ఇస్తుంది. నిత్య పూజలో, సంకల్పంలో ఈ ధ్యాన శ్లోకం అత్యావశ్యకం.",
     "en": "This celebrated Viṣṇu dhyāna śloka — sung during morning prayers and worship across Vaiṣṇava and Smārta traditions — paints a complete verbal icon of Viṣṇu in Anantaśayana (reclining on the cosmic serpent Ananta). Each compound word contributes a different facet: peaceful disposition, cosmological role (support of the universe), aesthetic splendor (lotus eyes, cloud-blue complexion), relational identity (consort of Lakṣmī), and soteriological function (remover of saṃsāra's fear). The phrase 'yogibhir dhyānagamyam' is theologically significant — Viṣṇu is not attained by logic or scholarship but by the stilling of the mind in meditation. Reciting this at sunrise is traditionally held equivalent to beholding the Lord."
-  }
+  },
+  "chanda_key": "sragdhara",
+  "chanda_sa": "स्रग्धरा",
+  "chanda_te": "స్రగ్ధరా"
 }

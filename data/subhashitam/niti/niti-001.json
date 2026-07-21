@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "విదురనీతి (మహాభారతము, ఉద్యోగపర్వము)",
     "name_en": "Vidura Niti (Mahabharata, Udyoga Parva)",
-    "chapter": "Udyoga Parva 33.9"
+    "chapter": "Udyoga Parva 33.9",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
   },
   "padavibhagam": {
     "te": "విద్యా | దదాతి | వినయమ్ | వినయాత్ | యాతి | పాత్రతామ్ | పాత్రత్వాత్ | ధనమ్ | ఆప్నోతి | ధనాత్ | ధర్మమ్ | తతః | సుఖమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "విద్య కేవలం జ్ఞానమును మాత్రమే కాదు — వినయమును కూడా ప్రసాదిస్తుంది. నిజమైన విద్య అహంకారమును తగ్గించి, వ్యక్తిని సమాజానికి అర్హుని చేస్తుంది. ఈ క్రమంలో ధనము, ధర్మము మరియు చివరకు సుఖము అన్నీ సహజంగా వస్తాయి. విద్య → వినయం → పాత్రత → ధనం → ధర్మం → సుఖం అనే ఈ శృంఖల మానవ జీవితానికి ఒక సంపూర్ణ మార్గదర్శకం.",
     "en": "True education does not merely fill the mind with knowledge — it cultivates humility. A person who is genuinely educated becomes humble, and that humility makes them worthy of trust and responsibility. From worthiness flows wealth (earned rightly), from wealth comes the capacity to practise dharma, and dharma leads to lasting happiness. This chain — vidyā → vinaya → pātratā → dhana → dharma → sukha — is a complete roadmap for a meaningful human life."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

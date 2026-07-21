@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "న | దేయమ్ | క్షుద్రయాచ్ఞాయై | న | దానమ్ | సఫలమ్ | లఘు | యత్ | దానమ్ | మహతే | దేయమ్ | తత్ | ఏవ | ఫలవత్ | స్మృతమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "దానంలో వివేకం ఎంత అవసరమో చెప్పే శ్లోకం — ఇచ్చే మొత్తం కన్నా, ఎవరికి ఇస్తున్నామన్నదే ఫలితాన్ని నిర్ణయిస్తుందని. గుడ్డిగా అడిగినందుకల్లా ఇవ్వడం దానం అనిపించుకోదు — అది వివేకరహిత వ్యయం మాత్రమే. అర్హతను గుర్తించి ఇచ్చిన దానమే నిజమైన ఫలాన్నిస్తుంది. ఇది పిసినారితనానికి సమర్థన కాదు — దాత తన వనరులను ఎక్కడ ఎలా వినియోగించాలో ఆలోచించి నిర్ణయించుకోవాలన్న బాధ్యతాయుత దానధర్మపు సూత్రం.",
     "en": "A verse on how essential discernment is in giving — it is not the amount given but to whom it is given that determines the fruit. Giving merely because someone asked is not charity — it is thoughtless expenditure. Only a gift given with recognition of true worthiness bears genuine fruit. This is not a justification for miserliness, but a principle of responsible giving: the giver must think through where and how their resources are best used."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

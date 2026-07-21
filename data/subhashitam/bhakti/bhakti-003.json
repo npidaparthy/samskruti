@@ -2,7 +2,6 @@
   "id": "bhakti-003",
   "tags": [
     "bhakti",
-    "gita",
     "yoga",
     "vijaya",
     "krishna"
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 18.78 (సంజయ వాక్యం)",
-    "name_en": "Bhagavad Gītā 18.78 (Sañjaya's words)"
+    "name_en": "Bhagavad Gītā 18.78 (Sañjaya's words)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యత్ర | యోగేశ్వరః | కృష్ణః | యత్ర | పార్థః | ధనుర్ధరః | తత్ర | శ్రీః | విజయః | భూతిః | ధ్రువా | నీతిః | మతిః | మమ",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఇది గీత యొక్క అంతిమ శ్లోకం — సంజయుడు ధృతరాష్ట్రునికి చెప్తున్న మాటలు. జ్ఞానం (కృష్ణుడు) మరియు సమర్పిత కర్మ (అర్జునుడు) కలిసి ఉన్న చోట విజయం నిశ్చయం. ఇది కేవలం యుద్ధ ఫలితం కాదు — జీవితంలో ఏ రంగంలోనైనా జ్ఞానం మరియు పరాక్రమం కలిసి ఉంటే విజయం సాధ్యం.",
     "en": "These are the final words of the Gītā — Sañjaya's conclusive statement to Dhṛtarāṣṭra. Where wisdom (Kṛṣṇa) and devoted action (Arjuna) combine, victory is assured. This is not merely a prediction about one battle — it is a universal principle. In any field of life, when inner clarity (yoga) is paired with skilled, dedicated action, the four outcomes — śrī (glory), vijaya (victory), bhūti (prosperity), and dhruvā nīti (unwavering ethics) — follow naturally."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

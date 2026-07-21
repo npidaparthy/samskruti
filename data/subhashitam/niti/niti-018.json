@@ -4,7 +4,6 @@
     "niti",
     "kshama",
     "bala",
-    "mahabharata",
     "forgiveness"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "మహాభారతం ఉద్యోగపర్వం",
-    "name_en": "Mahābhārata, Udyoga Parva"
+    "name_en": "Mahābhārata, Udyoga Parva",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
   },
   "padavibhagam": {
     "te": "క్షమా | బలం | అశక్తానాం | శక్తానాం | భూషణం | క్షమా | క్షమా | వశీకృతే | లోకే | క్షమయా | కిం | న | సిధ్యతి",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "మహాభారతంలో ఈ సూక్తి క్షమకు ఉన్న విశ్వసనీయ మహిమను వర్ణిస్తుంది. బలహీనుడు తప్పు చేసినవారిని క్షమించడం అతని బలం; కానీ బలవంతుడు తనకు హాని చేసినవారిని క్షమించడం అతని సంస్కారానికి నిదర్శనం. క్రోధం ద్వారా శత్రువులను గెలవొచ్చు, కానీ క్షమ ద్వారా హృదయాలను గెలుచుకోవచ్చు. గాంధీజీ ఈ సూత్రాన్ని అహింస ఉద్యమానికి ఆధారంగా చేసుకున్నారు.",
     "en": "This verse from the Mahābhārata celebrates forgiveness as a virtue with two distinct aspects. For the weak, forgiveness is the only power available — it is not defeat but strategy. For the strong, choosing to forgive demonstrates greatness of character — it is the highest ornament. The third and fourth lines escalate the claim: forgiveness conquers the whole world and nothing is beyond its reach. This teaching profoundly influenced Mahatma Gandhi's philosophy of non-violence and moral strength."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

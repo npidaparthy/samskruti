@@ -2,7 +2,6 @@
   "id": "bhakti-042",
   "tags": [
     "bhakti",
-    "gita",
     "chaturvidha-bhakta"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానవిజ్ఞానయోగము)",
     "name_en": "Srimad Bhagavad Gita (Jnana Vijnana Yoga)",
-    "chapter": "7.16"
+    "chapter": "7.16",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "చతుర్విధాః | భజన్తే | మామ్ | జనాః | సుకృతినః | అర్జున | ఆర్తః | జిజ్ఞాసుః | అర్థార్థీ | జ్ఞానీ | చ | భరతర్షభ",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "భక్తిమార్గంలోకి ప్రవేశించే నాలుగు ద్వారాలను ఏకరువు పెట్టే గీత శ్లోకం — ఏదో ఒక అవసరం, జిజ్ఞాస, కోరిక, లేదా జ్ఞానం — ప్రతి ఒక్కటీ భగవంతుని వైపు తిరిగే చెల్లుబాటయ్యే మార్గమేనని ఇక్కడ ఆమోదించడం విశేషం. ఆపదలో దేవుడిని తలుచుకున్నా అది తప్పు కాదు; సంపద కోసం ప్రార్థించినా అది నిషిద్ధం కాదు — ఏ కారణంతోనైనా భగవంతుని వైపు తొలిఅడుగు వేసినవారందరూ 'సుకృతినః' (పుణ్యాత్ములు) అని అభివర్ణించబడతారు. ఏ ద్వారం నుండి ప్రవేశించినా, భక్తిమార్గం అందరినీ స్వాగతిస్తుందని చాటే ఈ ఉదారదృష్టి, తర్వాతి శ్లోకంలో జ్ఞానిని అత్యున్నతునిగా చెప్పినా, తక్కిన మూడు రకాలవారినీ ఎన్నడూ తక్కువగా చూడదు.",
     "en": "A Gita verse naming four gateways into the path of devotion — it is notable that some need, curiosity, desire, or knowledge, each is accepted here as a valid path toward the divine. Remembering God in distress is not wrong; praying for wealth is not forbidden — whoever takes that first step toward the divine for any reason at all is described as 'sukṛtinaḥ', virtuous. This generous vision — that devotion welcomes entry through any of these gateways — never diminishes the other three even while the following verse names the jnani as the highest."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

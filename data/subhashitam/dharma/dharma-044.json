@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "యస్మిన్ | కుటుమ్బే | యుక్తానామ్ | వృద్ధానామ్ | చ | అనువర్తనమ్ | వర్తతే | తత్ | కులమ్ | శ్రేష్ఠమ్ | విపరీతమ్ | వినశ్యతి",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "కుటుంబవ్యవస్థ మనుగడకు కీలకమైన సూత్రాన్ని చెప్పే శ్లోకం — పెద్దల అనుభవాన్ని గౌరవించడం లేదా నిర్లక్ష్యం చేయడం. 'యుక్తానామ్' అనే పదం కేవలం వయసుమళ్ళినవారిని కాదు, వివేకం సంపాదించినవారిని సూచిస్తుంది — వయసుతో పాటు వివేకమూ కలిస్తేనే ఆ మార్గదర్శకత్వం విలువైనది. అనుభవజ్ఞుల సలహాను పెడచెవిన పెట్టే కుటుంబాలు తరచూ పునరావృతమయ్యే తప్పులలో చిక్కుకుంటాయని, తరాల మధ్య జ్ఞానప్రసారం ఆగిపోతే కుటుంబం క్షీణిస్తుందని ఈ శ్లోకం హెచ్చరిస్తుంది.",
     "en": "A verse on the principle vital to a family's survival — honouring or neglecting the experience of elders. 'Yuktānām' does not mean merely the aged, but those who have acquired wisdom — guidance is valuable only when age is joined with discernment. Families that dismiss the counsel of the experienced often fall into repeating the same mistakes; this verse warns that once the transmission of knowledge across generations halts, a family declines."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

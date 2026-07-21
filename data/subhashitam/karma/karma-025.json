@@ -2,7 +2,6 @@
   "id": "karma-025",
   "tags": [
     "karma",
-    "gita",
     "sanga-tyaga"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "5.10"
+    "chapter": "5.10",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "బ్రహ్మణి | ఆధాయ | కర్మాణి | సంగమ్ | త్యక్త్వా | కరోతి | యః | లిప్యతే | న | సః | పాపేన | పద్మపత్రమ్ | ఇవ | అమ్భసా",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "పద్మపత్రపు ఉపమానం కర్మయోగానికి భారతీయ చిత్రకళలో అత్యంత ప్రసిద్ధమైనది — నీటిలో పుట్టి, నీటిపైనే తేలుతూ కూడా తడవని ఆకు. అలాగే లోకంలో జీవిస్తూ, కర్తవ్యాలు నిర్వహిస్తూ కూడా వాటి ఫలాలతో అంటుకోని మనసు సాధ్యమేనని ఈ శ్లోకం చూపుతుంది. ఆధారం ఒక్కటే — 'బ్రహ్మణి ఆధాయ', ప్రతి కర్మనూ తనదిగా కాక అర్పణగా భావించడం. ఇది లోకవిముఖత కాదు — లోకంలో ఉంటూనే లోకాతీతంగా జీవించే కళ.",
     "en": "The lotus-leaf image is Indian art and thought's most celebrated picture of karma yoga — a leaf born in water, floating upon it, yet never wetted by it. So too, the verse shows, one can live fully in the world, discharging every duty, and remain untouched by the results those duties yield. The single condition is 'brahmaṇy ādhāya' — offering every act not as one's own but as an offering. This is not withdrawal from the world, but the art of living transcendent while fully engaged in it."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

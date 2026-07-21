@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
     "name_en": "Bhaja Govindam (Adi Shankaracharya)",
-    "chapter": "verse 2"
+    "chapter": "verse 2",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "మూఢ | జహీహి | ధనాగమతృష్ణామ్ | కురు | సద్బుద్ధిమ్ | మనసి | వితృష్ణామ్ | యత్ | లభసే | నిజకర్మోపాత్తమ్ | విత్తమ్ | తేన | వినోదయ | చిత్తమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "శంకరులు ధనార్జననే నిషేధించడం లేదు — 'నిజకర్మోపాత్తం' అన్న పదమే దీనికి కీలకం. స్వధర్మంతో వచ్చిన సంపదను అనుభవించమనే అంటున్నారు; నిషేధిస్తున్నది తృష్ణను — ఎంత వచ్చినా చాలదన్న దాహాన్ని. తృష్ణ ఉన్నంతవరకు ఐశ్వర్యంలోనూ దరిద్రమే; తృష్ణ తీరిన మనసుకు ఉన్నదే సంపూర్ణం. అవసరానికీ ఆశకూ మధ్య గీత గీసుకోవడమే ఈ శ్లోకం నేర్పే వివేకం.",
     "en": "Shankara does not forbid earning — the key word is 'nijakarmopāttam', wealth won by one's own rightful work; enjoy it, he says. What he forbids is the thirst — the ache that no amount can quench. While craving lives, one is poor amid riches; when craving ends, what one has is already enough. Learning to draw the line between need and greed is the discrimination this verse teaches."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

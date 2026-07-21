@@ -2,7 +2,6 @@
   "id": "dharma-055",
   "tags": [
     "dharma",
-    "manusmriti",
     "sthree-samman"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "మనుస్మృతి",
     "name_en": "Manusmriti",
-    "chapter": "3.60"
+    "chapter": "3.60",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "సంతుష్టః | భార్యయా | భర్తా | భర్త్రా | భార్యా | తథా | ఏవ | చ | యస్మిన్ | ఏవ | కులే | నిత్యమ్ | కల్యాణమ్ | తత్ర | వై | ధ్రువమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "దాంపత్యంలో పరస్పర సంతృప్తినే కుటుంబసౌభాగ్యానికి మూలంగా చెప్పే మనువాక్యం. ఇక్కడ 'సంతుష్టః' అన్న పదం ఇరువురికీ సమానంగా వర్తించడం విశేషం — భర్త మాత్రమే కాక భార్య కూడా అంతే సంతృప్తిగా ఉండాలని, ఆ పరస్పరత్వమే కుటుంబసౌభాగ్యానికి పునాదని ఈ శ్లోకం చెబుతుంది. బాహ్యసంపద, హోదా కన్నా దాంపత్యంలోని పరస్పర గౌరవమూ సంతృప్తీ కుటుంబ శ్రేయస్సుకు నిజమైన కొలబద్దగా నిలుస్తాయని ఈ ప్రాచీన సూత్రం చాటుతుంది.",
     "en": "Manu's verse names mutual contentment in marriage as the root of family prosperity. Notably, the word 'santuṣṭaḥ' applies equally to both — it declares that not only the husband but the wife too must be equally content, and that this very mutuality is the foundation of family well-being. This ancient principle holds that mutual respect and contentment in marriage, more than external wealth or status, remain the true measure of a family's welfare."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

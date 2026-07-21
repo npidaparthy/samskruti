@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "సత్యమ్ | మాతా | పితా | జ్ఞానమ్ | ధర్మః | భ్రాతా | దయా | సఖా | శాన్తిః | పత్నీ | క్షమా | పుత్రః | షట్ | ఏతే | మమ | బాన్ధవాః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "రక్తసంబంధాలు జన్మతో వస్తాయి; ఈ శ్లోకం చెప్పే ఆరు బంధాలు సాధనతో సంపాదించుకోవాలి. సత్యం తల్లిలా జన్మనిస్తుంది, జ్ఞానం తండ్రిలా దారి చూపుతుంది, ధర్మం సోదరుడిలా అండగా నిలుస్తుంది, దయ మిత్రుడిలా తోడుంటుంది, శాంతి ఇల్లాలిలా ఇంటిని నింపుతుంది, క్షమ పుత్రుడిలా భవిష్యత్తును కాపాడుతుంది. ఈ ఆరుగురున్న వాడు ఎక్కడున్నా ఒంటరి కాడు — సద్గుణాలే శాశ్వత కుటుంబం అన్నది ఇక్కడి భావన.",
     "en": "Blood relations come by birth; the six kinships of this verse must be earned by practice. Truth gives birth like a mother, knowledge guides like a father, dharma stands by like a brother, compassion accompanies like a friend, peace fills the home like a spouse, and forgiveness secures the future like a son. One who has these six is never alone anywhere — virtues are the family that never leaves."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

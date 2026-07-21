@@ -3,7 +3,6 @@
   "tags": [
     "bhakti",
     "manmana-bhava",
-    "gita",
     "krishna",
     "surrender"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 18.65",
-    "name_en": "Bhagavad Gītā 18.65"
+    "name_en": "Bhagavad Gītā 18.65",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "మత్-మనాః | భవ | మత్-భక్తః | మత్-యాజీ | మాం | నమస్కురు | మాం | ఏవ | ఏష్యసి | సత్యం | తే | ప్రతిజానే | ప్రియః | అసి | మే",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "గీతలో 18వ అధ్యాయంలో కృష్ణుడు ఇచ్చిన ఈ వాగ్దానం అత్యంత వ్యక్తిగతమైనది. 'ప్రియోఽసి మే' — నువ్వు నాకు ప్రియుడివి — ఇది పరమాత్మ తన భక్తుడికి ఇచ్చిన ప్రేమపూర్వక హమీ. నాలుగు ఆజ్ఞలు: మనసు నాపై నిలిపి, భక్తుడివై, పూజించి, నమస్కరించు. ఈ నాలుగూ పాటిస్తే ఒక్కటే ఫలం — కృష్ణ సాయుజ్యం. 'సత్యం తే ప్రతిజానే' అన్న మాటలు కృష్ణుడు ఇచ్చిన అత్యుత్తమ హామీ — ఈ వాగ్దానం ఎప్పుడూ తప్పదు.",
     "en": "This verse from the Gītā (18.65) contains Kṛṣṇa's most personal and intimate promise to the devotee. Four actions are requested: fix the mind on Me, be My devotee, worship Me, bow to Me. Then comes the extraordinary promise: 'you will come to Me' — and to underline its certainty, Kṛṣṇa adds 'I promise you truly' and 'you are dear to Me.' This is the language of a loving relationship between the divine and the devotee, not merely a philosophical transaction. 'Priyo'si me' — you are dear to Me — is Kṛṣṇa's declaration that the path of bhakti is upheld by divine love, and the devotee is never alone on it."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

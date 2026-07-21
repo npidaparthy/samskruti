@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "క్షణమ్ | చిత్తమ్ | క్షణమ్ | విత్తమ్ | క్షణమ్ | జీవితమ్ | ఆవయోః | యమస్య | కరుణా | న | అస్తి | ధర్మస్య | త్వరితా | గతిః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "మూడు క్షణికాలను ఏకరువు పెట్టి, ఒకే ఒక నిశ్చయానికి చేరే శ్లోకం — వాయిదా వేయవద్దు. మనసు కూడా క్షణికమే అనడం విశేషం — ఆలోచనలు, తీర్మానాలు క్షణక్షణం మారతాయి; అందుకే మంచి సంకల్పం కలిగిన క్షణంలోనే దానిని ఆచరణలో పెట్టాలి, రేపటికి వాయిదా వేయకూడదు. యముడికి కరుణ లేదన్న మాట భయపెట్టడానికి కాదు — వాస్తవాన్ని నిష్కర్షగా చెప్పి, ఆ వాస్తవం ముందు ధర్మాచరణను వేగవంతం చేయమని ప్రేరేపించడానికి.",
     "en": "Naming three fleeting things in a row, the verse arrives at a single resolve — do not delay. That the mind too is called momentary is notable — thoughts and resolutions shift by the instant, so the good intention formed this moment must be acted upon now, not deferred to tomorrow. To say death shows no mercy is not meant to frighten but to state a fact plainly, and to use that fact as the spur that quickens one's practice of dharma."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -3,8 +3,7 @@
   "tags": [
     "niti",
     "shatru",
-    "rna",
-    "chanakya"
+    "rna"
   ],
   "shlokam": {
     "te": "అగ్నిశేషమృణశేషం శత్రుశేషం తథైవ చ ।\nపునః పునః ప్రవర్ధేత తస్మాచ్ఛేషం న కారయేత్ ॥",
@@ -14,7 +13,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "చాణక్య నీతి",
-    "name_en": "Cāṇakya Nīti"
+    "name_en": "Cāṇakya Nīti",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "అగ్నిశేషం | ఋణశేషం | శత్రుశేషం | తథా | ఏవ | చ | పునః | పునః | ప్రవర్ధేత | తస్మాత్ | శేషం | న | కారయేత్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "చిన్న నిప్పు కణం గాలికి మళ్ళీ మంట అవుతుంది. చిన్న అప్పు వడ్డీతో పెరుగుతుంది. బద్ధ శత్రువు సమయం దొరికితే పగ తీర్చుకుంటాడు. ఈ మూడింటిలోనూ నిర్లక్ష్యం ప్రమాదకరం — సంపూర్ణంగా పరిష్కరించడం మేలు.",
     "en": "A spark can reignite into a blaze. A small debt grows with interest. An unconquered enemy bides his time and strikes again. This verse warns against leaving anything half-done in these three areas — fire, debt, and enmity — urging complete resolution over partial measures."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

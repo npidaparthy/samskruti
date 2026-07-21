@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "శివాపరాధక్షమాపణస్తోత్రము (ఆదిశంకరాచార్యులు)",
     "name_en": "Shiva Aparadha Kshamapana Stotram (Adi Shankaracharya)",
-    "chapter": "verse 12 (closing verse)"
+    "chapter": "verse 12 (closing verse)",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "కరచరణకృతమ్ | వాక్కాయజమ్ | కర్మజమ్ | వా | శ్రవణనయనజమ్ | వా | మానసమ్ | వా | అపరాధమ్ | విహితమ్ | అవిహితమ్ | వా | సర్వమ్ | ఏతత్ | క్షమస్వ | జయ | జయ | కరుణాబ్ధే | శ్రీమహాదేవ | శమ్భో",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "శివాపరాధక్షమాపణస్తోత్రపు ముగింపు శ్లోకం — శరీరంలోని ప్రతి అవయవాన్నీ ఏకరువు పెట్టి, ఆ ద్వారా జరిగిన తప్పులన్నింటినీ క్షమించమని వేడుకునే సమగ్రమైన ప్రార్థన. 'విహితమ్ అవిహితం వా' అన్న పదబంధం విశేషమైనది — తెలిసి చేసిన తప్పులతో పాటు తెలియకుండా జరిగినవి కూడా క్షమాపణ పరిధిలోకి వస్తాయి. మానవప్రయత్నం ఎంత జాగ్రత్తగా ఉన్నా అసంపూర్ణతే మిగులుతుందని ఒప్పుకుంటూ, ఆ అసంపూర్ణతను కరుణాసముద్రుడైన శివుని ముందు నిర్భయంగా అంగీకరించడం — పశ్చాత్తాపమూ శరణాగతీ కలగలిసిన ఈ ముగింపు శ్లోకం భక్తిహృదయపు వినమ్రతకు అద్దం పడుతుంది.",
     "en": "The closing verse of the Shiva Aparadha Kshamapana Stotram — a comprehensive prayer that names every faculty of the body and begs forgiveness for whatever wrong was done through each. The phrase 'vihitam avihitaṃ vā' is telling — it brings both knowing and unknowing lapses equally within the scope of forgiveness. Acknowledging that human effort, however careful, remains imperfect, and fearlessly owning that imperfection before the ocean of compassion that is Shiva — this closing verse, blending repentance and surrender, mirrors the humility at the heart of devotion."
-  }
+  },
+  "chanda_key": "malini",
+  "chanda_sa": "मालिनी",
+  "chanda_te": "మాలినీ"
 }

@@ -4,7 +4,6 @@
     "dharma",
     "sarve-bhavantu-sukhinah",
     "shanti",
-    "upanishad",
     "universal-prayer"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "బృహదారణ్యకోపనిషత్ / శాంతి పాఠం",
-    "name_en": "Bṛhadāraṇyaka Upaniṣad / Śānti pāṭha tradition"
+    "name_en": "Bṛhadāraṇyaka Upaniṣad / Śānti pāṭha tradition",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "సర్వే | భవన్తు | సుఖినః | సర్వే | సన్తు | నిరామయాః | సర్వే | భద్రాణి | పశ్యన్తు | మా | కశ్చిత్ | దుఃఖ-భాక్ | భవేత్",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకం భారతీయ సంస్కృతిలో అత్యంత ప్రాచీనమైన సార్వత్రిక ప్రార్థన. 'సర్వే' అంటే — మన బంధువులు మాత్రమే కాదు, అందరూ; మన మతం వారు మాత్రమే కాదు, అందరూ; మన దేశం వారు మాత్రమే కాదు, అందరూ. నాలుగు పాదాలు నాలుగు కోణాల నుండి శ్రేయస్సును కోరుతున్నాయి: ఆనందం, ఆరోగ్యం, శుభ దర్శనం, దుఃఖ నివారణం. ఇది స్వామి వివేకానందుడు, మహాత్మా గాంధీ నిత్యం పఠించిన ప్రార్థన.",
     "en": "This verse is one of India's most ancient and universal prayers, chanted daily in Vedic traditions. 'Sarve' — all beings without exception: not just one's own family, community, religion, or nation, but all sentient life. The prayer covers four dimensions of well-being: happiness (sukha), health (nirāmaya), the perception of auspiciousness (bhadrāṇi paśyantu), and freedom from sorrow. The last line — 'may no one at all be touched by suffering' — is a radical aspiration of unlimited compassion. This spirit underpins the Vedantic ideal of universal brotherhood that Swami Vivekananda carried to the world."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

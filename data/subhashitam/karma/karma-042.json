@@ -2,7 +2,6 @@
   "id": "karma-042",
   "tags": [
     "karma",
-    "gita",
     "buddhiyoga-sharanya"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.49"
+    "chapter": "2.49",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "దూరేణ | హి | అవరమ్ | కర్మ | బుద్ధియోగాత్ | ధనంజయ | బుద్ధౌ | శరణమ్ | అన్విచ్ఛ | కృపణాః | ఫలహేతవః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఫలాపేక్షతో పనిచేసేవారిని 'కృపణాః' — దీనులు, జాలిపడదగినవారు — అని నిర్మొహమాటంగా వర్ణించే గీత శ్లోకం. ఎందుకంటే వారి మనశ్శాంతి పూర్తిగా వారి నియంత్రణలో లేని ఫలితంపై ఆధారపడి ఉంటుంది — ఫలితం అనుకూలిస్తే సంతోషం, ప్రతికూలిస్తే దుఃఖం, ఈ ఊగిసలాటలోనే జీవితం గడిచిపోతుంది. బుద్ధియోగం (సమచిత్తత) సాధించినవాడు మాత్రం ఫలితంతో సంబంధం లేకుండా శాంతిని కాపాడుకుంటాడు. కర్మను నిర్వహించడం ఒక స్థాయి, దానిని సమచిత్తతతో నిర్వహించడం మరో ఉన్నత స్థాయి అని ఈ శ్లోకం స్పష్టం చేస్తుంది.",
     "en": "A Gita verse bluntly describing those who act driven by desire for results as 'kṛpaṇāḥ' — pitiable, deserving of sympathy. This is because their peace of mind depends entirely on an outcome not within their control — happiness when it favours them, sorrow when it doesn't, life spent oscillating between the two. One who has attained buddhiyoga, equanimity of mind, however, preserves peace regardless of outcome. Performing action is one level, this verse makes clear; performing it with equanimity is a far higher level."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

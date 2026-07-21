@@ -2,7 +2,6 @@
   "id": "dharma-058",
   "tags": [
     "dharma",
-    "gita",
     "vibhajana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "4.13"
+    "chapter": "4.13",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "చాతుర్వర్ణ్యమ్ | మయా | సృష్టమ్ | గుణకర్మవిభాగశః | తస్య | కర్తారమ్ | అపి | మామ్ | విద్ధి | అకర్తారమ్ | అవ్యయమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "వర్ణవ్యవస్థను జన్మాధారంగా కాక గుణకర్మాధారంగా నిర్వచించే కీలకమైన శ్లోకం — 'గుణకర్మవిభాగశః' అన్న పదబంధమే దీనికి ప్రాణం. వర్ణం అంటే జన్మతః సంక్రమించే ముద్ర కాదు, వ్యక్తి స్వభావగుణాలనూ, చేసే పనినీ బట్టి ఏర్పడే వర్గీకరణ అని ఇక్కడ స్పష్టం. రెండో భాగం మరింత లోతైనది — సృష్టికర్తగా ఉంటూనే తాను 'అకర్త' అని కృష్ణుడు చెప్పడం, కర్తృత్వాభిమానం లేకుండా చేసే కర్మ బంధించదన్న సూత్రానికి స్వయంగా ఉదాహరణగా నిలుస్తుంది.",
     "en": "A pivotal verse defining the varna system by quality and action rather than by birth — the phrase 'guṇakarmavibhāgaśaḥ' is the very life of this verse. It clarifies here that varna is not a mark stamped at birth, but a classification arising from a person's inherent qualities and the work they do. The second half runs deeper still — Krishna declaring himself the 'non-doer' even while being the creator stands as his own living example of the principle that action performed without the pride of doership does not bind."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

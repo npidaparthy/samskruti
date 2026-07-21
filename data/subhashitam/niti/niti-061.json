@@ -2,7 +2,6 @@
   "id": "niti-061",
   "tags": [
     "niti",
-    "chanakya",
     "desha-kala"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "సుభాషిత సంప్రదాయము (భర్తృహరి ఆపాదితము)",
     "name_en": "Subhashita tradition (attributed to Bhartrhari)",
-    "chapter": "widely quoted maxim"
+    "chapter": "widely quoted maxim",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "కావ్యశాస్త్రవిహీనస్య | సాక్షాత్ | పశుః | పుచ్ఛవిషాణహీనః | తృణమ్ | న | ఖాదన్ | అపి | జీవమానః | తత్ | భాగధేయమ్ | పరమమ్ | పశూనామ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "విద్యారాహిత్యాన్ని పశుత్వంతో పోల్చే అత్యంత చురుకైన, వ్యంగ్యాత్మక శ్లోకం. చివరి పంక్తిలోని చమత్కారం అద్భుతమైనది — ఈ 'పశువు' గడ్డి తినడు కనుక నిజమైన పశువులకు పోటీ ఉండదు, అదే వారి అదృష్టం అని. ఇది కేవలం చదువు లేనివారిని కించపరచడం కాదు — సౌందర్యదృష్టీ, భావుకతా, జ్ఞానతృష్ణా లేని జీవితం మనిషితనానికి దూరమైనదని చెప్పే గంభీరమైన హెచ్చరిక. కావ్యమూ శాస్త్రమూ మనిషిని పశువుల నుండి వేరుచేసే లక్షణాలని, వాటిని నిర్లక్ష్యం చేయడం మానవత్వాన్నే త్యజించడమని ఈ శ్లోకం చాటుతుంది.",
     "en": "An exceptionally sharp, satirical verse comparing the absence of learning to animal existence. The wit of the final line is remarkable — that this 'beast' does not eat grass, so it poses no competition to real beasts, which is their good fortune. This is not merely mocking the uneducated — it is a serious warning that a life devoid of aesthetic sense, feeling, and thirst for knowledge is estranged from what makes us human. Poetry and learning, this verse declares, are what distinguish humans from beasts, and neglecting them is to abandon humanity itself."
-  }
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
 }

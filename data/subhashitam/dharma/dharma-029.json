@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మహాభారతము (శాన్తిపర్వము)",
     "name_en": "Mahabharata (Shanti Parva)",
-    "chapter": "Shanti Parva 329.13 (Narada's teaching)"
+    "chapter": "Shanti Parva 329.13 (Narada's teaching)",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
   },
   "padavibhagam": {
     "te": "సత్యస్య | వచనమ్ | శ్రేయః | సత్యాత్ | అపి | హితమ్ | వదేత్ | యత్ | భూతహితమ్ | అత్యన్తమ్ | ఏతత్ | సత్యమ్ | మతమ్ | మమ",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "సత్యానికి భారతీయ చింతన ఇచ్చిన లోతైన నిర్వచనం ఇది. వాస్తవం (fact) వేరు, సత్యం (truth) వేరు — కేవలం జరిగింది చెప్పడం కాదు, ఆ మాట లోకహితానికి దారి తీయాలి. దొంగలకు దారి చూపే నిజం సత్యం కాదు; ప్రాణరక్షణకై పలికిన హితవాక్యం అసత్యం కాదు. సత్యం అహింసతో, భూతహితంతో కలిసినప్పుడే పూర్ణమవుతుందన్న ఈ దృష్టి ధర్మసూక్ష్మతను చూపుతుంది.",
     "en": "This is Indian thought's deepest definition of truth. Fact and truth are not the same — merely reporting what happened is not enough; the word must lead to the good of the world. A fact that guides robbers to their victim is no truth; a benevolent word spoken to save a life is no lie. Truth becomes complete only when joined with harmlessness and the welfare of beings — a teaching that reveals how subtle dharma really is."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

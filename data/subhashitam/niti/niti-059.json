@@ -2,7 +2,6 @@
   "id": "niti-059",
   "tags": [
     "niti",
-    "chanakya",
     "vishesha-guna"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Chanakya Niti",
-    "chapter": "10.9"
+    "chapter": "10.9",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "అనేకసంశయోచ్ఛేది | పరోక్షార్థస్య | దర్శకమ్ | సర్వస్య | లోచనమ్ | శాస్త్రమ్ | యస్య | న | అస్తి | అన్ధః | ఏవ | సః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "జ్ఞానాన్ని కంటితో పోల్చే ప్రసిద్ధ ఉపమానం — భౌతికమైన కన్ను ప్రత్యక్షంగా కనబడేదాన్ని మాత్రమే చూపిస్తుంది; శాస్త్రజ్ఞానం అనేది ప్రత్యక్షంగా కనబడనిదాన్ని, భవిష్యత్తునూ, పరిణామాలనూ చూపే 'మూడో కన్ను'. సంశయాలను తీర్చే శక్తి శాస్త్రానికి మాత్రమే ఉందని, దాని లేమి కంటిచూపు లేకపోవడం కన్నా ప్రమాదకరమైనదని ఈ శ్లోకం హెచ్చరిస్తుంది. కళ్ళు ఉన్నా జ్ఞానం లేనివాడు నిజంగానే గుడ్డివాడు అన్న ఈ తీక్షణమైన నిర్వచనం, విద్యకు మానవజీవితంలో ఎంత అనివార్యమైన స్థానం ఉందో చాటుతుంది.",
     "en": "The celebrated comparison of knowledge to an eye — a physical eye shows only what is directly visible; learning is the 'third eye' revealing what is not directly seen, the future, and consequences. This verse warns that only learning has the power to resolve doubt, and that lacking it is more dangerous than lacking physical sight. This sharp definition — that one with eyes but without knowledge is truly blind — declares just how indispensable education is to human life."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

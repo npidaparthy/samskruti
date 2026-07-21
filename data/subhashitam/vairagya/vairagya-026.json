@@ -2,8 +2,7 @@
   "id": "vairagya-026",
   "tags": [
     "vairagya",
-    "dehabhrama",
-    "bhajagovindam"
+    "dehabhrama"
   ],
   "shlokam": {
     "te": "నారీస్తనభర నాభీదేశం\nదృష్ట్వా మా గా మోహావేశమ్ ।\nఏతన్మాంసావసాదివికారం\nమనసి విచిన్తయ వారం వారమ్ ॥",
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
     "name_en": "Bhaja Govindam (Adi Shankaracharya)",
-    "chapter": "verse 6"
+    "chapter": "verse 6",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "నారీస్తనభర | నాభీదేశమ్ | దృష్ట్వా | మా | గాః | మోహావేశమ్ | ఏతత్ | మాంసావసాదివికారమ్ | మనసి | విచిన్తయ | వారం | వారమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "కామవాంఛకు మూలమైన శారీరకాకర్షణను విశ్లేషణాత్మకంగా ఛేదించే శంకరుని పద్ధతి ఇది — వస్తువులోని అందాన్ని దాని వాస్తవ ఘటకాలుగా విడదీసి చూడటం. మాంసం, ఎముక, రక్తం, స్రావాలు — శరీరపు వాస్తవ నిర్మాణాన్ని పదేపదే స్మరిస్తే, పైపై ఆకర్షణ మీద మనసు అంటుకోకుండా ఆగుతుంది. ఇది స్త్రీద్వేషం కాదు — దేహాకృతిపై కేంద్రీకృతమైన మోహాన్ని విచికిత్సాదృష్టితో సడలించే యోగసాధన. 'వారం వారమ్' అన్న పునరుక్తే కీలకం — ఒకసారి ఆలోచించి వదిలేయడం సరిపోదు, పదేపదే అభ్యసించవలసిన విచక్షణ ఇది.",
     "en": "Shankara's method for dismantling physical attraction at its source — analysing the object of beauty down to its literal constituents. Flesh, bone, blood, secretions — repeated remembrance of the body's actual composition keeps the mind from fastening onto surface allure. This is not misogyny but a clinical yogic technique for loosening infatuation fixed on form. The repetition 'vāraṃ vāram' is the key — reflecting once and dropping it is not enough; this is discrimination to be practised again and again."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

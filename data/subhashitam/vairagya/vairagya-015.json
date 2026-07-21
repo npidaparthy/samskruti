@@ -4,7 +4,6 @@
     "vairagya",
     "yasya-nasti",
     "prajna",
-    "subhashita",
     "discernment"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "సుభాషిత సంగ్రహం",
-    "name_en": "Subhāṣita tradition"
+    "name_en": "Subhāṣita tradition",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "యస్య | నాస్తి | స్వయం | ప్రజ్ఞా | శాస్త్రం | తస్య | కరోతి | కిం | లోచనాభ్యాం | విహీనస్య | దర్పణః | కిం | కరిష్యతి",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ సుభాషితం జ్ఞాన పద్ధతిపై ఒక శక్తివంతమైన వ్యాఖ్య. అద్దం ప్రతిబింబాన్ని ఇస్తుంది — కానీ కళ్ళు లేకుంటే ఆ ప్రతిబింబం పనికిరాదు. అదే విధంగా శాస్త్రం జ్ఞానాన్ని ఇస్తుంది — కానీ సాధకుడికి స్వంత వివేకం లేకుంటే ఆ జ్ఞానం స్వీకరించడం సాధ్యం కాదు. 'ప్రజ్ఞా' అంటే కేవలం బుద్ధి కాదు — వివేకశక్తి, అంతర్దృష్టి. వైరాగ్యం, సాధన, సుమనస్కత ద్వారా ఈ ప్రజ్ఞ పెరుగుతుంది. అప్పుడే శాస్త్రం ఉపకరిస్తుంది.",
     "en": "This aphorism makes a profound point about the relationship between scripture (śāstra) and innate wisdom (prajñā). Scripture provides guidance, framework, and accumulated wisdom — but it can only illuminate when the reader has the inner discernment to receive it. The blind-man-and-mirror analogy is perfect: a mirror is useless without functioning eyes. Similarly, even the most profound scripture is useless to one who lacks the capacity for discrimination (viveka) and self-reflection. Vairāgya, sādhanā, and moral cultivation develop this prajñā — the inner eye — without which all external teaching is merely noise."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

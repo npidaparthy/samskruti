@@ -2,7 +2,6 @@
   "id": "seva-037",
   "tags": [
     "seva",
-    "gita",
     "adhikara-svabhava"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "3.34"
+    "chapter": "3.34",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "ఇన్ద్రియస్య | ఇన్ద్రియస్య | అర్థే | రాగద్వేషౌ | వ్యవస్థితౌ | తయోః | న | వశమ్ | ఆగచ్ఛేత్ | తౌ | హి | అస్య | పరిపన్థినౌ",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఇంద్రియనిగ్రహానికి మూలకారణాన్ని విశ్లేషించే ఆచరణాత్మక శ్లోకం. రాగద్వేషాలు ఇంద్రియానికీ విషయానికీ మధ్య సహజంగా ఏర్పడతాయని, వాటిని పూర్తిగా తొలగించడం కష్టమని ఒప్పుకుంటూనే, వాటి 'వశం' కాకూడదని — అంటే వాటిని అనుభవించడం వేరు, వాటికి బానిస కావడం వేరు అని — స్పష్టం చేస్తుంది. 'పరిపన్థినౌ' అన్న పదం — మార్గంలో అడ్డుపడే దొంగలు — శక్తిమంతమైన ఉపమానం. ఆధ్యాత్మికప్రగతిలో అతిపెద్ద అడ్డంకులు బాహ్యశత్రువులు కాదు, ప్రతి క్షణం లోపల పుట్టే ఇష్టాయిష్టాలేనని ఈ శ్లోకం గుర్తుచేస్తుంది.",
     "en": "A practical verse analysing the root cause behind the need for sense-control. While acknowledging that attraction and aversion naturally arise between each sense and its object, and that eliminating them entirely is difficult, it makes clear that one must not come under their 'control' — that experiencing them is one thing, becoming enslaved to them is another. The word 'paripanthinau' — bandits blocking the road — is a powerful image. The greatest obstacles to spiritual progress, this verse reminds us, are not external enemies but the likes and dislikes born within, moment by moment."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

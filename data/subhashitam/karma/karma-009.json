@@ -3,7 +3,6 @@
   "tags": [
     "karma",
     "niyatam",
-    "gita",
     "duty",
     "action"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 3.8",
-    "name_en": "Bhagavad Gītā 3.8"
+    "name_en": "Bhagavad Gītā 3.8",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "నియతం | కురు | కర్మ | త్వం | కర్మ | జ్యాయః | హి | అకర్మణః | శరీర-యాత్రా | అపి | చ | తే | న | ప్రసిద్ధ్యేత్ | అకర్మణః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "అర్జునుడు కర్మ చేయడానికి నిరాకరించినప్పుడు కృష్ణుడు ఈ మాటలు చెప్పాడు. 'నియతం కర్మ' అంటే తనకు నిర్ణయించబడిన ధర్మ కర్మ — అర్జునుడికి యుద్ధం అది. పూర్తి నిష్క్రియత సాధ్యమే కాదు — శ్వాస, ఆహారం, నిద్ర అన్నీ కర్మలే. కాబట్టి అకర్మ అన్నది ఒక భ్రమ. నిజమైన సాధన నిష్కామ కర్మలో ఉంది — కర్మ చేయడం, ఫలాపేక్ష విడవడం. ఈ గీతా వాక్యం ఆధునిక జీవితంలో నిష్క్రియత అనే సోమరితనానికి ఒక సమాధానం.",
     "en": "This verse is Kṛṣṇa's direct command to Arjuna who was considering renouncing action entirely. 'Niyatam karma' is the duty assigned by one's station in life — for Arjuna, it is the duty of the warrior. The verse makes two points: action is superior to inaction at the practical level, and complete inaction is impossible (even bodily survival requires action). This dismantles the rationalization that passivity is somehow more spiritual. True spirituality lies not in avoiding action but in transforming the quality of action — removing ego-attachment while performing duty fully."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

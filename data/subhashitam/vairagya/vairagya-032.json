@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "వనే | రమ్యే | వసేత్ | యోగీ | వారిణి | అగ్నౌ | చ | నిర్మలే | వాయుమాత్రేణ | సన్తుష్టః | న | సుఖమ్ | విన్దతే | యథా",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "బాహ్యసౌకర్యాలను శూన్యానికి తగ్గించినా అంతర్గత ప్రశాంతత రాకపోతే ప్రయోజనం లేదని చెప్పే శ్లోకం. అడవి రమణీయమైనదైనా, నీరు స్వచ్ఛమైనదైనా, జీవనం అతిసామాన్యమైనదైనా — ఇవన్నీ బాహ్యపరిస్థితులు మాత్రమే. సుఖం ఆ పరిస్థితుల్లో లేదు, మనసు స్థితిలో ఉంది. స్థలం మార్చడం సమస్యకు పరిష్కారం కాదు — మనసు మారకపోతే రాజప్రాసాదంలోనూ అశాంతే, గుహలోనూ అశాంతే అన్నది వైరాగ్యానికి ఈ శ్లోకం ఇచ్చే లోతైన హెచ్చరిక.",
     "en": "A warning that reducing external comforts to nothing avails little if inner stillness does not follow. However lovely the forest, however pure the water, however austere the life — all of this remains external circumstance. Happiness resides not in the circumstance but in the state of the mind. Changing location is no solution — restlessness follows the unquiet mind whether into a palace or a cave; that is this verse's deep caution to the pursuit of renunciation."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

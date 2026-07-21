@@ -3,7 +3,6 @@
   "tags": [
     "bhakti",
     "ishvarah-sarvabhutanam",
-    "gita",
     "antaryami",
     "hridaya"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 18.61",
-    "name_en": "Bhagavad Gītā 18.61"
+    "name_en": "Bhagavad Gītā 18.61",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "ఈశ్వరః | సర్వ-భూతానాం | హృత్-దేశే | అర్జున | తిష్ఠతి | భ్రామయన్ | సర్వ-భూతాని | యంత్ర-ఆరూఢాని | మాయయా",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "గీతలో ఇది అంతర్యామి భావనను స్పష్టం చేసే శ్లోకం. ఈశ్వరుడు కేవలం ఆకాశంలో కాదు — ప్రతి జీవి హృదయంలో ఉన్నాడు. 'యంత్రారూఢాని' అన్న పదం శరీరాన్ని ఒక యంత్రంగా, జీవుడిని అందులో బంధింపబడిన చైతన్యంగా చూపిస్తుంది. ఈశ్వరుడు ఈ యంత్రాన్ని నడుపుతున్నాడు — జీవుడు తాను నడుపుతున్నట్లు భ్రమిస్తున్నాడు. ఈ జ్ఞానంతో పాటు భక్తి కూడా వస్తుంది — అందరిలో ఉన్న ఈ ఈశ్వరుడిని గుర్తించడమే భక్తి.",
     "en": "Bhagavad Gītā 18.61 presents the doctrine of the antaryāmin — the inner controller who dwells in the heart of every being. The 'yantra' (machine) metaphor is striking: the body is the machine, the soul is the passenger, and the Lord is the invisible operator who runs the whole mechanism through māyā (creative power). The devotional implication is profound: since the Divine is present in the heart of every being, every being is a dwelling of the sacred. Bhakti thus finds its fullest expression not only in temple worship but in recognizing the divine presence in every heart one encounters — the basis of 'daridra-nārāyaṇa sevā.'"
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

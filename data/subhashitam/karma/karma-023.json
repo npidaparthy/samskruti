@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "పంచతన్త్రము / సుభాషిత సంప్రదాయము",
     "name_en": "Panchatantra / subhashita tradition",
-    "chapter": "traditional maxim"
+    "chapter": "traditional maxim",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
   },
   "padavibhagam": {
     "te": "కర్మాయత్తమ్ | ఫలమ్ | పుంసామ్ | బుద్ధిః | కర్మానుసారిణీ | తథాపి | సుధియః | చ | ఆర్యాః | సువిచార్య | ఏవ | కుర్వతే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "విధి, పూర్వకర్మ అనేవి నిజమే కావచ్చు — కానీ అవి విచక్షణను విడిచిపెట్టడానికి సాకులు కావు అన్నది ఈ శ్లోకపు 'తథాపి'లోని బరువు. ఫలితం కర్మాధీనం అనుకుని గుడ్డిగా అడుగేసేవాడు తన వంతు బాధ్యతను తప్పించుకుంటున్నాడు. ఫలితం ఎవరి చేతిలో ఉన్నా ఆలోచన మన చేతిలోనే ఉంది; దాన్ని పూర్తిగా వినియోగించడమే వివేకుల లక్షణం. విధివిశ్వాసమూ వివేకమూ పరస్పర విరుద్ధాలు కావని చూపే సమన్వయ శ్లోకం.",
     "en": "Fate and past karma may well be real — but they are no excuse for abandoning judgment: that is the weight of the verse's 'tathāpi', even so. One who plunges blindly, saying results are karma's business anyway, is dodging his own share of the work. Whoever owns the outcome, the deliberation is ours — and using it fully is the mark of the wise. A verse of balance, showing that trust in destiny and careful thinking are not opposites."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

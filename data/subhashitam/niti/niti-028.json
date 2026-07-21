@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి / భర్తృహరి నీతిశతకము",
     "name_en": "Chanakya Niti / Bhartrhari's Niti Shataka",
-    "chapter": "widely quoted maxim"
+    "chapter": "widely quoted maxim",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "దుర్జనః | పరిహర్తవ్యః | విద్యయా | అలంకృతః | అపి | సన్ | మణినా | భూషితః | సర్పః | కిమ్ | అసౌ | న | భయంకరః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "విద్య స్వతః మంచిదే, కానీ అది స్వభావాన్ని మార్చదు — అలంకరిస్తుంది మాత్రమే. చెడు స్వభావం గలవాడి చేతిలో విద్య మరింత ప్రమాదకరమైన ఆయుధం అవుతుంది. మణి పాము విషాన్ని తొలగించనట్లే, పాండిత్యం దుర్జనుని దుష్టత్వాన్ని తొలగించదు. వ్యక్తిని అంచనా వేసేటప్పుడు ప్రతిభను కాక శీలాన్ని చూడాలన్నది ఇక్కడి నీతి.",
     "en": "Learning is good in itself, but it decorates a nature — it does not change it. In wicked hands, knowledge becomes a sharper weapon. Just as the jewel does not remove the serpent's venom, scholarship does not remove a bad person's malice. Judge people by character, the verse teaches, not by brilliance."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

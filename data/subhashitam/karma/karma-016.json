@@ -2,7 +2,6 @@
   "id": "karma-016",
   "tags": [
     "karma",
-    "gita",
     "nayakatva"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "3.21"
+    "chapter": "3.21",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యత్ | యత్ | ఆచరతి | శ్రేష్ఠః | తత్ | తత్ | ఏవ | ఇతరః | జనః | సః | యత్ | ప్రమాణమ్ | కురుతే | లోకః | తత్ | అనువర్తతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "నాయకత్వ ధర్మానికి గీత ఇచ్చిన మౌలిక సూత్రం — లోకం ఉపదేశాలను కాదు, ఆచరణను అనుసరిస్తుంది. ఈ మాట చెబుతున్న కృష్ణుడే తరువాతి శ్లోకాల్లో 'నాకు పొందవలసినది ఏమీ లేకపోయినా నేను కర్మలో ఉంటాను — నన్ను చూసి లోకం నడుస్తుంది కనుక' అంటాడు. తల్లిదండ్రులైనా, గురువులైనా, అధికారులైనా — స్థానం పైకి ఎక్కిన కొద్దీ ప్రతి చిన్న నడవడికా ప్రమాణంగా మారుతుందన్న ఎరుక పెరగాలి. మాట కాదు, నడతే బోధన.",
     "en": "The Gita's founding principle of leadership — the world follows conduct, not sermons. Krishna, who speaks this line, says in the very next verses that though he has nothing left to gain, he stays engaged in action, for the world walks by his example. Parent, teacher, or officer — the higher the position, the more every small act hardens into a standard for others. It is the walk, not the talk, that teaches."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

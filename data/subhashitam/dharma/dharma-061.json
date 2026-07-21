@@ -2,7 +2,6 @@
   "id": "dharma-061",
   "tags": [
     "dharma",
-    "gita",
     "purushottama-yoga"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (పురుషోత్తమయోగము)",
     "name_en": "Srimad Bhagavad Gita (Purushottama Yoga)",
-    "chapter": "15.18"
+    "chapter": "15.18",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యస్మాత్ | క్షరమ్ | అతీతః | అహమ్ | అక్షరాత్ | అపి | చ | ఉత్తమః | అతః | అస్మి | లోకే | వేదే | చ | ప్రథితః | పురుషోత్తమః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "పురుషోత్తమయోగపు కీలక ప్రకటన — క్షరము (నశించే ప్రకృతి), అక్షరము (నశించని జీవాత్మ) అనే రెండు తత్త్వాలను దాటిన మూడో తత్త్వంగా భగవంతుని నిర్వచించడం. ఈ త్రివిధ వర్గీకరణ వేదాంతచింతనలో లోతైన స్థానం కలిగినది — క్షరమూ అక్షరమూ రెండూ సృష్టిలో భాగమే, కానీ పురుషోత్తముడు వాటికి ఆధారమూ, వాటిని మించినవాడూ. ఈ శ్లోకం భగవత్తత్త్వాన్ని కేవలం సృష్టిలో ఒక భాగంగా కాక, సృష్టికే మూలాధారంగా నిలుపుతూ, గీత మొత్తానికి తాత్త్విక శిఖరాన్ని అందిస్తుంది.",
     "en": "The pivotal declaration of Purushottama Yoga — defining the divine as a third reality beyond the two categories of kshara (the perishable, nature) and akshara (the imperishable, the individual soul). This threefold classification holds a profound place in Vedantic thought — both kshara and akshara are part of creation, but the Purushottama is their ground and transcends them both. This verse elevates the divine not merely as a part of creation but as its very foundation, offering the philosophical summit of the entire Gita."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -2,7 +2,6 @@
   "id": "vairagya-039",
   "tags": [
     "vairagya",
-    "bhartrhari",
     "sharira-jara"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి వైరాగ్యశతకము",
     "name_en": "Bhartrhari's Vairagya Shataka",
-    "chapter": "verse 9"
+    "chapter": "verse 9",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "వలీభిః | ముఖమ్ | ఆక్రాన్తమ్ | పలితేన | అంకితమ్ | శిరః | గాత్రాణి | శిథిలాయన్తే | తృష్ణా | ఏకా | తరుణాయతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "వృద్ధాప్యం శరీరంలోని ప్రతి భాగాన్నీ ముట్టుకున్నా, తృష్ణ మాత్రం దానికి అతీతంగా నిత్యయవ్వనంగా నిలిచిపోతుందన్న వ్యంగ్యాన్ని చాటే శ్లోకం. ముఖం, తల, అవయవాలు — శరీరం మొత్తం వయసుకు లొంగిపోతుండగా, మనసులో ఒక్క కోరిక మాత్రమే ఆ నియమానికి మినహాయింపుగా నిలుస్తుంది. వృద్ధాప్యం శరీరాన్ని బలహీనం చేసినా కోరికను బలహీనం చేయకపోవడమే మానవస్వభావంలోని అతి విషాదకరమైన వైరుధ్యమని భర్తృహరి ఎత్తిచూపుతాడు — దేహం వృద్ధాప్యం చెందినా మనసు వృద్ధాప్యం చెందదన్న ఈ పరిశీలన నేటికీ నిజం.",
     "en": "A verse capturing the irony that while old age touches every part of the body, craving alone remains untouched, forever youthful. As the face, head, and limbs all yield to age, one single desire in the mind stands exempt from that same law. Bhartrhari points to this as human nature's most tragic contradiction — that while the body grows old, desire does not, that the mind refuses to age along with the body — an observation that holds just as true today."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

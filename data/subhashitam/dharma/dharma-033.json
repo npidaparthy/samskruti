@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "ఏకోదరసముద్భూతాః | ఏకనక్షత్రజాతకాః | న | భవన్తి | సమాః | శీలే | యథా | బదరికణ్టకాః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఒకే తల్లిదండ్రుల పిల్లలు వేరువేరు స్వభావాలు కలిగి ఉండటాన్ని చూసి తల్లిదండ్రులు తరచూ ఆశ్చర్యపోతారు, కొన్నిసార్లు కలత చెందుతారు — ఈ శ్లోకం ఆ వాస్తవాన్ని ప్రకృతిలోని ఉపమానంతో సాధారణీకరిస్తుంది. రేగిచెట్టు ముళ్ళన్నీ ఒకే కాండం నుండి పుట్టినా పొడవులో, వంపులో వేరువేరుగా ఉంటాయి. పిల్లల మధ్య పోలికలు వెతకడం అనవసరమైన అసంతృప్తికి మూలం; ప్రతి వ్యక్తినీ వారి ప్రత్యేక స్వభావంతోనే స్వీకరించడమే వివేకమని ఈ ప్రకృతిపాఠం నేర్పుతుంది.",
     "en": "Parents are often puzzled, sometimes troubled, to see siblings turn out so differently — this verse universalises that fact through a picture from nature. All the thorns of a single jujube branch spring from the same stem, yet none match another in length or curve. Comparing children against one another breeds needless discontent; accepting each for their own distinct nature is the wisdom this small lesson from nature offers."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

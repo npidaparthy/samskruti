@@ -2,7 +2,6 @@
   "id": "karma-039",
   "tags": [
     "karma",
-    "gita",
     "shraddhavan-karma"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "4.40"
+    "chapter": "4.40",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "అజ్ఞః | చ | అశ్రద్దధానః | చ | సంశయాత్మా | వినశ్యతి | న | అయమ్ | లోకః | అస్తి | న | పరః | న | సుఖమ్ | సంశయాత్మనః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "సందిగ్ధమనస్తత్వాన్ని అత్యంత తీక్షణంగా విమర్శించే గీత శ్లోకం. మూడు రకాల లోపాలను — అజ్ఞానం, అవిశ్వాసం, సంశయం — ఒకే కోవలో నిలిపి, మూడూ నాశనానికే దారితీస్తాయని చెప్పడం విశేషం. వీటిలో సంశయమే అత్యంత ప్రమాదకరమైనది, ఎందుకంటే అది నిర్ణయాన్ని పూర్తిగా స్తంభింపజేస్తుంది — ముందుకూ వెళ్ళలేడు, వెనక్కూ తగ్గలేడు. 'న అయం లోకః న పరః న సుఖమ్' అనే ముమ్మారు నిషేధం సంశయపు పరిణామాన్ని అత్యంత తీవ్రంగా చిత్రిస్తుంది — ఏదీ నిర్ణయించుకోలేని మనసు దేనినీ సాధించలేదని.",
     "en": "The Gita's sharpest critique of an indecisive mind. It is notable that three flaws — ignorance, faithlessness, and doubt — are grouped together, all declared to lead to ruin. Among them, doubt is the most dangerous, because it paralyses decision altogether — one can neither move forward nor step back. The triple negation 'na ayaṃ lokaḥ na paraḥ na sukham' depicts the consequence of doubt in the starkest terms — a mind that cannot decide anything achieves nothing at all."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

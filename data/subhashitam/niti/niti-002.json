@@ -15,7 +15,10 @@
   "granthaH": {
     "name_te": "సుభాషితరత్నభాండాగారమ్",
     "name_en": "Subhāṣita Ratna Bhaṇḍāgāra",
-    "chapter": ""
+    "chapter": "",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "పరోపకారాయ | ఫలన్తి | వృక్షాః | పరోపకారాయ | వహన్తి | నద్యః | పరోపకారాయ | దుహన్తి | గావః | పరోపకారార్థమ్ | ఇదమ్ | శరీరమ్",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "ప్రకృతిలోని ప్రతి వస్తువూ — వృక్షము, నది, గోవు — తన ఉనికిని ఇతరులకు సేవ చేయడంలో అర్థవంతం చేసుకుంటుంది. అదే విధంగా మానవ శరీరము కూడా పరోపకారముచే మాత్రమే సార్థకత పొందుతుంది. స్వార్థపరమైన జీవితం సహజ ధర్మానికి విరుద్ధమని ఈ శ్లోకం సూచిస్తుంది.",
     "en": "Every element of nature — tree, river, cow — finds meaning by giving to others. This verse teaches that a human life, too, is made meaningful only through selfless service. A life lived purely for oneself runs contrary to the natural order."
-  }
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
 }

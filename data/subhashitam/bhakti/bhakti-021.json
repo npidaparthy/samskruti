@@ -2,7 +2,6 @@
   "id": "bhakti-021",
   "tags": [
     "bhakti",
-    "gita",
     "bhakta-lakshana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (భక్తియోగము)",
     "name_en": "Srimad Bhagavad Gita (Bhakti Yoga)",
-    "chapter": "12.13"
+    "chapter": "12.13",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "అద్వేష్టా | సర్వభూతానామ్ | మైత్రః | కరుణః | ఏవ | చ | నిర్మమః | నిరహంకారః | సమదుఃఖసుఖః | క్షమీ",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "గీత పన్నెండవ అధ్యాయం చివరలో కృష్ణుడు వర్ణించిన ప్రియభక్తుని లక్షణమాల ఇలా మొదలవుతుంది. గమనించదగినది — ఈ జాబితాలో పూజావిధులు, తీర్థయాత్రలు, జపసంఖ్యలు లేవు; ఉన్నవన్నీ తోటి ప్రాణుల పట్ల నడవడికే. ద్వేషరాహిత్యం, మైత్రి, కరుణ — భక్తి కొలబద్ద దేవాలయంలో కాదు, మనుషుల మధ్య వ్యవహారంలో కనబడుతుందన్నది స్పష్టం. భగవంతునిపై ప్రేమకు మొదటి రుజువు ప్రాణులపై ప్రేమే.",
     "en": "So begins Krishna's garland of the traits of his beloved devotee, closing the Gita's twelfth chapter. Notice what the list omits — rituals, pilgrimages, counts of recitation; every trait named concerns conduct toward fellow beings. Absence of hatred, friendliness, compassion — devotion is measured not in the temple but in how one deals with people. Love for creatures is the first proof of love for God."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

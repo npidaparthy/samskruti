@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి వైరాగ్యశతకము",
     "name_en": "Bhartrhari's Vairagya Shataka",
-    "chapter": "verse 8"
+    "chapter": "verse 8",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "ఆశా | నామ | నదీ | మనోరథజలా | తృష్ణాతరంగాకులా | రాగగ్రాహవతీ | వితర్కవిహగా | ధైర్యద్రుమధ్వంసినీ | మోహావర్తసుదుస్తరాతిగహనా | ప్రోత్తుంగచిన్తాతటీ | తస్యాః | పారగతాః | విశుద్ధమనసః | నన్దన్తి | యోగీశ్వరాః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "కోరికను నదిగా చిత్రించి, దాని ప్రతి లక్షణానికీ నదీలక్షణాన్ని జతచేసిన అలంకారసంపన్న శ్లోకం — నీరు కోరికలు, అలలు తృష్ణ, మొసళ్ళు రాగం. ఇంత వివరణాత్మక రూపకం కట్టడంలో భర్తృహరి కవితాచాతుర్యం ప్రస్ఫుటమవుతుంది. సందేశం స్పష్టం — ఆశ అనేది దాటవలసిన నదే గానీ, ఒడ్డున కూర్చుని చూడవలసినది కాదు. ఆ నదిని దాటినవారికే నిజమైన ఆనందం లభిస్తుందని, దానిలోనే మునిగి ఉన్నవారు శాశ్వతంగా కొట్టుమిట్టాడుతూ ఉంటారని ఈ శ్లోకం హెచ్చరిస్తుంది.",
     "en": "A verse rich in extended metaphor — desire as a river, its water as longing, its waves as craving, its crocodiles as passion, matched limb for limb to the parts of an actual river. The elaborate conceit displays Bhartrhari's poetic virtuosity in full. The message is plain: Hope is a river to be crossed, not one to sit upon the bank admiring. Only those who cross to its far shore find true joy; those who remain immersed in it are doomed to struggle forever."
-  }
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
 }

@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "పంచతన్త్రము",
     "name_en": "Panchatantra",
-    "chapter": "Mitrabheda"
+    "chapter": "Mitrabheda",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
   },
   "padavibhagam": {
     "te": "పరీక్ష్య | లోకతత్త్వాని | పరీక్ష్య | గురులాఘవమ్ | శక్యాశక్యే | చ | కృత్యాని | కుర్యాత్ | యః | న | అవసీదతి",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "విజయవంతమైన కార్యాచరణకు మూడు ముందస్తు పరీక్షలను నిర్దేశించే వ్యావహారికనీతి శ్లోకం ఇది — లోకవాస్తవికత, ప్రాధాన్యక్రమం, సాధ్యాసాధ్యవివేచన. తొందరపడి పనిలోకి దూకేవారు తరచూ విఫలమవుతారు, ఎందుకంటే వారు ఈ మూడు పరీక్షలనూ దాటవేస్తారు. ఏది ముఖ్యమో, ఏది అప్రధానమో వేరుచేయలేకపోవడం వల్లే చాలామంది శక్తినంతా చిన్నవిషయాలపై వృథా చేస్తారు. ప్రణాళికాబద్ధమైన ఆచరణకు పంచతంత్రం ఇచ్చిన ఈ మూడంచెల సూత్రం ఆధునిక వ్యూహరచనకూ వర్తిస్తుంది.",
     "en": "A worldly-wise verse laying down three preliminary tests for successful action — assessing reality, weighing priorities, and discerning what is achievable. Those who rush into action often fail precisely because they skip these three tests. Many exhaust their energy on trivial matters simply because they cannot distinguish what truly matters from what does not. This three-step principle for planned action, offered by the Panchatantra, applies equally to modern strategy."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

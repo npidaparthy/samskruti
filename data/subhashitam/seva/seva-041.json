@@ -2,7 +2,6 @@
   "id": "seva-041",
   "tags": [
     "seva",
-    "gita",
     "sthitaprajna-lakshana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.71"
+    "chapter": "2.71",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "విహాయ | కామాన్ | యః | సర్వాన్ | పుమాన్ | చరతి | నిఃస్పృహః | నిర్మమః | నిరహంకారః | సః | శాన్తిమ్ | అధిగచ్ఛతి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "స్థితప్రజ్ఞుని వర్ణనను ముగిస్తూ, గీత రెండవ అధ్యాయపు చివరి భాగంలో వచ్చే ఈ శ్లోకం, శాంతికి మూడు అవసరమైన షరతులను నిర్దేశిస్తుంది — స్పృహారాహిత్యం, మమకారరాహిత్యం, అహంకారరాహిత్యం. ఈ మూడూ ఒక క్రమంలో ముడిపడి ఉన్నాయి — కోరిక తగ్గితే మమకారం తగ్గుతుంది, మమకారం తగ్గితే అహంకారం తగ్గుతుంది. బాహ్యసంపదనూ, హోదానూ వదలమని కాదు — వాటిపట్ల మనసులోని పట్టును వదలమని ఈ శ్లోకం సూచిస్తుంది. శాంతి అనేది సముపార్జించే వస్తువు కాదు, వదులుకోవడం ద్వారా చేరుకునే స్థితి అని ఈ శ్లోకపు అంతిమసందేశం.",
     "en": "Closing the description of the sthitaprajna at the end of the Gita's second chapter, this verse lays out three necessary conditions for peace — freedom from longing, freedom from possessiveness, freedom from ego. These three are linked in sequence — as desire lessens, possessiveness lessens; as possessiveness lessens, ego lessens. This does not mean giving up outer wealth or status — it means releasing the mind's grip upon them. Peace, this verse's final message declares, is not something acquired but a state arrived at through letting go."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

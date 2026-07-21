@@ -2,7 +2,6 @@
   "id": "seva-038",
   "tags": [
     "seva",
-    "gita",
     "sarvatra-avastithi"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానకర్మసంన్యాసయోగము)",
     "name_en": "Srimad Bhagavad Gita (Jnana Karma Sannyasa Yoga)",
-    "chapter": "5.18"
+    "chapter": "5.18",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "విద్యావినయసమ్పన్నే | బ్రాహ్మణే | గవి | హస్తిని | శుని | చ | ఏవ | శ్వపాకే | చ | పండితాః | సమదర్శినః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "సమదృష్టికి గీత ఇచ్చిన అత్యంత విప్లవాత్మక ఉదాహరణ — సామాజిక క్రమంలో అత్యున్నత స్థానంలో ఉన్న బ్రాహ్మణుని నుండి అత్యంత నిమ్నస్థానంలో పరిగణించబడే శ్వపాకుని వరకూ ఒకే జాబితాలో నిలపడం. ఇక్కడ 'సమదర్శనం' అంటే బాహ్యభేదాలను చూడకపోవడం కాదు — వాటిని దాటి, అన్నింటిలోనూ ఉన్న ఒకే చైతన్యాన్ని దర్శించడం. కులం, జాతి, హోదా అనే విభజనలు తాత్కాలికమైనవి, ఉపరితలమైనవి మాత్రమేనని, అంతర్గతంగా అన్ని జీవులలోనూ ఒకే ఆత్మతత్త్వం వ్యాపించి ఉందని చాటే ఈ శ్లోకం, సమానత్వసిద్ధాంతానికి ఆధ్యాత్మిక పునాదిని అందిస్తుంది.",
     "en": "The Gita's most revolutionary example of equal vision — placing the brahmana at the highest rung of the social order and the outcaste considered lowest on the same list. 'Samadarshana' here does not mean failing to see external differences — it means seeing past them to the same single consciousness present in all. Declaring that divisions of caste, race, and status are temporary, superficial, while the same essence of the Self pervades all beings within, this verse offers a spiritual foundation for the doctrine of equality."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -2,7 +2,6 @@
   "id": "bhakti-029",
   "tags": [
     "bhakti",
-    "gita",
     "sulabha"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (అక్షరపరబ్రహ్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Akshara Brahma Yoga)",
-    "chapter": "8.14"
+    "chapter": "8.14",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "అనన్యచేతాః | సతతమ్ | యః | మామ్ | స్మరతి | నిత్యశః | తస్య | అహమ్ | సులభః | పార్థ | నిత్యయుక్తస్య | యోగినః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "మోక్షసాధన కఠినమైనదని లోకం భావిస్తుంది; ఈ శ్లోకం ఆ భావననే సవరిస్తుంది — 'సులభః', సులభంగా లభిస్తాను అంటున్నాడు కృష్ణుడు. షరతు సంక్లిష్టమైనది కాదు — 'అనన్యచేతాః', 'నిత్యశః' అనే రెండు మాటలే: మనసు చెదరకుండా, నిరంతరం స్మరించడం. తపస్సో, యాగమో, ప్రత్యేక సాధనలో కాదు — నిత్యజీవితంలో నిరంతర స్మరణే భగవంతుని చేరువకు తేలికైన దారి అని గీత భరోసా ఇస్తుంది. కఠినత్వం మార్గంలో లేదు, మనసు నిలకడలో ఉందని చెప్పే ఈ శ్లోకం సాధకులకు గొప్ప ఊరట.",
     "en": "The world assumes liberation is arduous; this verse corrects that assumption — 'sulabhaḥ', easily attained, says Krishna. The condition is not elaborate — just two words, 'ananyacetāḥ' and 'nityaśaḥ': an undivided mind, remembering without break. Not some special austerity or ritual, but constant remembrance woven into daily life is, the Gita assures, the easy road to reaching the Lord. The difficulty lies not in the path but in the steadiness of the mind — a great comfort to every seeker."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

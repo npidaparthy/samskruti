@@ -2,7 +2,6 @@
   "id": "niti-063",
   "tags": [
     "niti",
-    "chanakya",
     "atma-pariksha"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "సుభాషిత సంప్రదాయము",
     "name_en": "Subhashita tradition (echoing Chanakya's mitra-lakshana)",
-    "chapter": "traditional maxim"
+    "chapter": "traditional maxim",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "పరోక్షే | యస్య | దుర్వృత్తమ్ | ప్రత్యక్షే | ప్రియసంభాషీ | వర్జయేత్ | వ్యాఘ్రవత్ | లోకే | గుడాంగారః | ఇవ | అనలమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "కపటమిత్రుని గుర్తించడానికి మరో బలమైన ఉపమానం — 'గుడాంగారః' అంటే బెల్లంతో కప్పిన నిప్పు కణిక, తీయగా కనిపిస్తుంది కానీ తాకితే కాల్చేస్తుంది. ఇక్కడ 'వ్యాఘ్రవత్' (పులిలా) అనే పోలిక కూడా కీలకం — పులి బయటికి అందంగా కనిపించినా ప్రమాదకరమే. రెండు ఉపమానాలూ ఒకే సందేశాన్ని ఇస్తాయి — బాహ్యరూపమూ, మధురవచనమూ నమ్మదగినవాటికి రుజువు కాదు; నిజమైన స్వభావం లోతుగా దాగి ఉండవచ్చు. మనుషులను తీర్పు చేసేటప్పుడు వారి మాటలకన్నా వారి చేష్టలను నిశితంగా గమనించమని ఈ శ్లోకం హెచ్చరిస్తుంది.",
     "en": "Another powerful image for recognising a treacherous friend — 'guḍāṅgāraḥ', a burning coal coated in sugar, looks sweet but burns upon touch. The comparison 'vyāghravat' — like a tiger — is equally key; a tiger, however beautiful its appearance, remains dangerous. Both images carry the same message — outward appearance and sweet words are no proof of trustworthiness; true nature may lie hidden deep beneath. This verse warns that when judging people, one must watch their actions closely, more than their words."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -2,8 +2,7 @@
   "id": "dharma-009",
   "tags": [
     "dharma",
-    "satya",
-    "upanishad"
+    "satya"
   ],
   "shlokam": {
     "te": "సత్యమేవ జయతే నానృతం సత్యేన పన్థా వితతో దేవయానః ।\nయేనాక్రమన్త్యృషయో హ్యాప్తకామా యత్ర తత్ సత్యస్య పరమం నిధానమ్ ॥",
@@ -13,7 +12,10 @@
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "ముండకోపనిషత్తు 3.1.6",
-    "name_en": "Muṇḍaka Upaniṣad 3.1.6"
+    "name_en": "Muṇḍaka Upaniṣad 3.1.6",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "సత్యమేవ | జయతే | న | అనృతం | సత్యేన | పన్థాః | వితతః | దేవయానః | యేన | ఆక్రమన్తి | ఋషయః | హి | ఆప్తకామాః | యత్ర | తత్ | సత్యస్య | పరమం | నిధానమ్",
@@ -30,5 +32,8 @@
   "tatparyam": {
     "te": "ఈ వాక్యం భారత గణతంత్రం యొక్క జాతీయ నినాదంగా స్వీకరింపబడింది. ముండక ఉపనిషత్తు జ్ఞాన మార్గాన్ని వివరిస్తుంది — సత్యం కేవలం నైతిక విలువ కాదు, అది మోక్షానికి వాహనం. అసత్యం తాత్కాలికంగా విజయిస్తున్నట్లు కనిపించినా, చివరకు సత్యమే నిలిచిపోతుంది.",
     "en": "This verse, adopted as India's national motto, comes from the Muṇḍaka Upaniṣad's teaching on the path of knowledge. Truth is not merely an ethical virtue here — it is the vehicle of liberation. Falsehood may appear to triumph temporarily, but in the ultimate reckoning, only truth stands. The sages walked this path and reached fulfilment — the verse is both a declaration and an invitation."
-  }
+  },
+  "chanda_key": "trishtubh",
+  "chanda_sa": "त्रिष्टुप्",
+  "chanda_te": "త్రిష్టుప్"
 }

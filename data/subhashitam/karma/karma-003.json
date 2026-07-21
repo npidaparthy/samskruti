@@ -3,7 +3,6 @@
   "tags": [
     "karma",
     "jnana",
-    "gita",
     "tatvam"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత",
     "name_en": "Bhagavad Gītā",
-    "chapter": "4.38 (Kṛṣṇa to Arjuna)"
+    "chapter": "4.38 (Kṛṣṇa to Arjuna)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "న | హి | జ్ఞానేన | సదృశమ్ | పవిత్రమ్ | ఇహ | విద్యతే | తత్ | స్వయమ్ | యోగసంసిద్ధః | కాలేన | ఆత్మని | విన్దతి",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "జ్ఞానం అన్ని పవిత్రతలలో అత్యున్నతమైనది. గంగాస్నానం, యజ్ఞాలు, దానాలు — ఇవన్నీ శుద్ధి చేయగలవు; కానీ జ్ఞానం మాత్రమే అజ్ఞానమనే మూల కారణాన్ని నాశనం చేయగలదు. మరో విశేషం — ఇది 'కాలేన' — సమయం వస్తేనే లభిస్తుంది; తొందరపాటు పని చేయదు. యోగసాధన నిరంతరం చేస్తే, జ్ఞానం స్వయంగా ప్రకటితమవుతుంది.",
     "en": "Of all purifiers, knowledge is supreme. Ritual baths, sacrifices, and charity purify the body and mind; but only knowledge destroys ignorance at its root. The phrase 'kālena' (in time) is significant — wisdom cannot be rushed. With sustained yoga practice, knowledge arises spontaneously from within. Grace comes to those who are ready."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

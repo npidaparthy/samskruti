@@ -2,7 +2,6 @@
   "id": "vairagya-001",
   "tags": [
     "vairagya",
-    "bhaja-govindam",
     "shankara",
     "maya"
   ],
@@ -14,7 +13,10 @@
   "chandaH": "మాత్రాసమక (Mātrāsamaka) — 16 morae per quarter",
   "granthaH": {
     "name_te": "భజ గోవిన్దం — ఆది శంకరాచార్య (1వ శ్లోకం)",
-    "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 1)"
+    "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 1)",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "భజ | గోవిన్దం | భజ | గోవిన్దం | గోవిన్దం | భజ | మూఢమతే | సంప్రాప్తే | సన్నిహితే | కాలే | న | హి | న | హి | రక్షతి | డుకృఞ్ | కరణే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఆది శంకరాచార్యులు వారణాసిలో ఒక వృద్ధ పండితుడు వ్యాకరణ సూత్రాలు చదువుతూ ఉండగా ఈ పాటను ఆశువుగా పాడారని చెప్తారు. 'డుకృఞ్ కరణే' అనేది 'కర్' ధాతువు యొక్క వ్యాకరణ సంకేతం — ఇది బాహ్య జ్ఞానానికి ప్రతీక. అంత్యకాలంలో కేవలం భగవద్భక్తి మాత్రమే శరణు.",
     "en": "Tradition holds that Śaṅkara composed this song spontaneously upon seeing an elderly scholar memorising grammar rules on the banks of the Gaṅgā in Vārāṇasī. 'ḍukṛñ karaṇe' is a grammatical code for the root 'kṛ' (to do) — here it represents all worldly pursuits and intellectual achievement. The verse is a piercing reminder that no external accomplishment can substitute for inner turning toward the divine when death approaches."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

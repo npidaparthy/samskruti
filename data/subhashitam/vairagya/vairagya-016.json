@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి వైరాగ్యశతకము",
     "name_en": "Bhartrhari's Vairagya Shataka",
-    "chapter": "verse 7"
+    "chapter": "verse 7",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "భోగాః | న | భుక్తాః | వయమ్ | ఏవ | భుక్తాః | తపః | న | తప్తమ్ | వయమ్ | ఏవ | తప్తాః | కాలః | న | యాతః | వయమ్ | ఏవ | యాతాః | తృష్ణా | న | జీర్ణా | వయమ్ | ఏవ | జీర్ణాః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "సంస్కృత సాహిత్యంలోని అత్యంత శక్తిమంతమైన శ్లోకాలలో ఒకటి — కర్తనూ కర్మనూ తారుమారు చేసి జీవితసత్యాన్ని బట్టబయలు చేస్తుంది. భోగించేవాడు తానేనని మనిషి భ్రమిస్తాడు; నిజానికి భోగాలే అతని ఆయుస్సునూ ఆరోగ్యాన్నీ భోగిస్తున్నాయి. దేహం ముసలిదవుతుంది గానీ కోరిక ఎప్పటికీ నవయౌవనంగానే ఉంటుంది. ఆలస్యమైనా వైరాగ్యం వైపు అడుగు వేయమన్న భర్తృహరి హెచ్చరిక ఇది.",
     "en": "One of Sanskrit's most powerful verses — it swaps subject and object to lay life's truth bare. Man imagines he is the enjoyer; in truth, the pleasures are enjoying him, feeding on his years and health. The body ages, but desire stays forever young. Bhartrhari's warning: turn toward detachment before everything else of you is used up."
-  }
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
 }

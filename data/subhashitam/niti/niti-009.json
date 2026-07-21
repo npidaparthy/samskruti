@@ -15,7 +15,10 @@
   "granthaH": {
     "name_te": "మహోపనిషత్ (పఞ్చతన్త్రమ్ అని కూడా ఉద్ధృతమైనది)",
     "name_en": "Mahopaniṣat 6.71 (also cited in Pañcatantra)",
-    "chapter": "Mahopaniṣat 6.71"
+    "chapter": "Mahopaniṣat 6.71",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
   },
   "padavibhagam": {
     "te": "అయమ్ | నిజః | పరః | వా | ఇతి | గణనా | లఘుచేతసామ్ | ఉదారచరితానామ్ | తు | వసుధా | ఏవ | కుటుమ్బకమ్",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "భారతదేశపు సర్వోన్నత విదేశాంగ నీతి సూత్రంగా మారిన ఈ వాక్యం మానవజాతి ఏకత్వాన్ని ప్రతిపాదిస్తుంది. 'నాది-పరాయిది' అనే భేదం అల్పబుద్ధికి చిహ్నం; విశాల దృష్టి ఉన్నవాడికి ప్రపంచమంతా ఒక్క కుటుంబమే. ఆధునిక ప్రపంచీకరణ కాలంలో ఈ సత్యం మరింత అర్థవంతంగా ఉంది.",
     "en": "This verse — adopted as India's foreign policy motto — proclaims the oneness of humanity. The division of 'mine' and 'theirs' is the mark of a small mind; the truly noble see the whole world as one family. In an age of globalisation, this ancient wisdom is more relevant than ever."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

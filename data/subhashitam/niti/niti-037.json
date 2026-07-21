@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి నీతిశతకము",
     "name_en": "Bhartrhari's Niti Shataka",
-    "chapter": "verse 20"
+    "chapter": "verse 20",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "విద్యా | నామ | నరస్య | రూపమ్ | అధికమ్ | ప్రచ్ఛన్నగుప్తమ్ | ధనమ్ | విద్యా | భోగకరీ | యశఃసుఖకరీ | విద్యా | గురూణామ్ | గురుః | విద్యా | బన్ధుజనః | విదేశగమనే | విద్యా | పరా | దేవతా | విద్యా | రాజసు | పూజ్యతే | న | హి | ధనమ్ | విద్యావిహీనః | పశుః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "విద్యకు భర్తృహరి రాసిన స్తుతిపత్రం — ఏడు బిరుదులతో. అందం వాడిపోతుంది, ధనం దొంగల పాలవుతుంది; విద్య రెండింటి పనీ చేస్తూ రెండింటి లోపాలూ లేని సంపద. 'ప్రచ్ఛన్నగుప్తం ధనం' — ఎవరికీ కనబడదు, ఎవరూ దోచుకోలేరు; 'విదేశగమనే బన్ధుజనః' — పరాయిచోట పరిచయపత్రమూ రక్షకుడూ అదే. చివరి మూడు పదాల చురక — విద్యావిహీనుడు తిని, నిద్రించి, భయపడే జీవితంలో పశువుకు భిన్నుడేమీ కాదు — విద్యార్జనను మనిషితనానికే షరతుగా నిలుపుతుంది.",
     "en": "Bhartrhari's citation for learning — seven titles conferred in four lines. Beauty fades and wealth can be stolen; learning does the work of both with the flaws of neither. 'Pracchannaguptaṃ dhanam' — invisible to all, robbable by none; 'videśagamane bandhujanaḥ' — in a strange land it is both letter of introduction and guardian. And the closing sting — without learning, a life of eating, sleeping and fearing differs nothing from a beast's — makes education the very condition of being human."
-  }
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
 }

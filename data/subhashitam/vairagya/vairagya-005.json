@@ -14,7 +14,10 @@
   "chandaH": "మాత్రాసమక (Mātrāsamaka) — 16 morae per quarter",
   "granthaH": {
     "name_te": "భజ గోవిన్దం — ఆది శంకరాచార్య (14వ శ్లోకం)",
-    "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 14)"
+    "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 14)",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "కా | తే | కాన్తా | కః | తే | పుత్రః | సంసారః | అయం | అతీవ | విచిత్రః | కస్య | త్వం | కః | కుతః | ఆయాతః | తత్త్వం | చిన్తయ | తత్ | ఇహ | భ్రాతః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "శంకరాచార్యులు నేరుగా మనిషి యొక్క ఆత్మీయ సంబంధాలను ప్రశ్నిస్తారు. 'నీ భార్య ఎవరు? నీ పుత్రుడు ఎవరు?' — ఇవి తక్కువ చేయడానికి కాదు. వారి నిజ స్వభావం అర్థం చేసుకోవడానికి. 'నేను ఎవరు?' అనే ప్రశ్నలో అన్ని ఆధ్యాత్మిక సాధనలు మొదలవుతాయి. ఈ శ్లోకం వైరాగ్యానికి మరియు ఆత్మ విచారానికి ద్వారం.",
     "en": "Śaṅkara directly questions the attachments that define most human lives — wife, son, family. This is not dismissal of these relationships but an invitation to examine their true nature. Who are they, really, in the context of the eternal? And crucially — who are you? From where did you come? These questions are the beginning of all genuine spiritual inquiry. 'Tadiha bhrātaḥ' — right here, right now, O brother — the inquiry cannot be postponed."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

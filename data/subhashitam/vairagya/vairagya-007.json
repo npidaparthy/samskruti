@@ -3,7 +3,6 @@
   "tags": [
     "vairagya",
     "vayasi-gate",
-    "bhaja-govindam",
     "shankaracharya",
     "youth"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "భజగోవిందం మాత్రావృత్తం (Bhaja Govindam — mātrāvṛtta)",
   "granthaH": {
     "name_te": "శ్రీ శంకరాచార్య రచిత భజగోవిందం వ.13",
-    "name_en": "Ādi Śaṅkarācārya, Bhaja Govindam, verse 13"
+    "name_en": "Ādi Śaṅkarācārya, Bhaja Govindam, verse 13",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "వయసి | గతే | కః | కామ-వికారః | శుష్కే | నీరే | కః | కాసారః | క్షీణే | విత్తే | కః | పరివారః | జ్ఞాతే | తత్త్వే | కః | సంసారః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "శంకరాచార్యుల ఈ వాక్యాలు నాలుగు తత్కాలీన సత్యాలను బహిర్గతం చేస్తాయి. కామం వయసుపై ఆధారపడింది — వయసు పోతే కామ ఉద్రేకం పోతుంది. కొలను నీళ్ళపై ఆధారపడింది — నీళ్ళు పోతే కొలను లేదు. బంధువులు ధనంపై ఆధారపడి ఉన్నారు — ధనం పోతే బంధువులు పోతారు. సంసారం అవిద్యపై ఆధారపడింది — తత్త్వజ్ఞానం వస్తే సంసారం నశిస్తుంది. ఈ నాలుగు ఉపమానాలు వైరాగ్యానికి అత్యంత శక్తివంతమైన ప్రేరణలు.",
     "en": "Śaṅkarācārya uses four parallel rhetorical questions to expose the conditional and transient nature of the world's attractions. Passion (kāma) is powered by youthful energy — when youth fades, it vanishes like a lake without water. Social belonging (parivāra) is powered by wealth — when wealth runs out, relatives disappear. And the entire experience of saṃsāra (the cycle of existence with its suffering) is powered by ignorance of truth — when tattva-jñāna (knowledge of reality) dawns, saṃsāra dissolves. The verse works by analogy: just as the lake vanishes without water, the causes of suffering vanish without their supporting conditions."
-  }
+  },
+  "chanda_key": "matra-misc",
+  "chanda_sa": "पदकुलकम्",
+  "chanda_te": "పదకులకమ్"
 }

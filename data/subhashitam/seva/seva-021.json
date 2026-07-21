@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "ఉత్తరరామచరితము (భవభూతి)",
     "name_en": "Uttararamacharita (Bhavabhuti)",
-    "chapter": "2.7"
+    "chapter": "2.7",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "వజ్రాత్ | అపి | కఠోరాణి | మృదూని | కుసుమాత్ | అపి | లోకోత్తరాణామ్ | చేతాంసి | కః | హి | విజ్ఞాతుమ్ | అర్హతి",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "కర్తవ్యం కోసం ప్రియతమ సీతను అడవికి పంపిన రాముని సందర్భంలో భవభూతి పలికించిన శ్లోకం. మహాత్ముల వైచిత్రి ఇదే — ధర్మం విషయంలో వజ్రకాఠిన్యం, ప్రాణుల దుఃఖం విషయంలో పుష్పమార్దవం; రెండూ ఒకే హృదయంలో. కఠినత్వం లేని మృదుత్వం బలహీనత; కరుణ లేని కాఠిన్యం క్రూరత్వం. ఎప్పుడు వజ్రం కావాలో, ఎప్పుడు పువ్వు కావాలో తెలిసి ఉండటమే లోకోత్తర లక్షణం — సేవకూ నాయకత్వానికీ ఇదే కొలబద్ద.",
     "en": "Bhavabhuti's verse for Rama, who for duty's sake sent his beloved Sita to the forest. This is the paradox of great souls — diamond-hard where dharma is at stake, flower-soft before the suffering of any creature; both in one heart. Softness without firmness is weakness; firmness without compassion is cruelty. Knowing when to be the diamond and when the flower — that is the mark of the extraordinary, and the measure alike of service and of leadership."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

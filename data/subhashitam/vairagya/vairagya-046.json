@@ -2,7 +2,6 @@
   "id": "vairagya-046",
   "tags": [
     "vairagya",
-    "gita",
     "dhyana-siddhi"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (ఆత్మసంయమయోగము)",
     "name_en": "Srimad Bhagavad Gita (Dhyana Yoga)",
-    "chapter": "6.19"
+    "chapter": "6.19",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యథా | దీపః | నివాతస్థః | న | ఇంగతే | సా | ఉపమా | స్మృతా | యోగినః | యతచిత్తస్య | యుంజతః | యోగమ్ | ఆత్మనః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ధ్యానస్థితిని వర్ణించడానికి గీత ఇచ్చిన అత్యంత ప్రసిద్ధ, కావ్యాత్మకమైన ఉపమానం — గాలిలేని దీపం. ఈ చిత్రం రెండు అంశాలను ఏకకాలంలో సూచిస్తుంది — ప్రకాశం (జ్ఞానం, చైతన్యం ఆరిపోకుండా ఉండటం), స్థిరత్వం (బాహ్యప్రభావాలకు చలించకపోవడం). బయటి గాలి లేకపోతేనే దీపం స్థిరంగా ఉన్నట్లు, బాహ్యవిషయాలవైపు మనసు పరుగెత్తకుండా ఉంటేనే ధ్యానం స్థిరపడుతుందని ఈ ఉపమానం సూచిస్తుంది. సరళమైన, దైనందిన అనుభవం నుండి తీసుకున్న ఈ చిత్రం, అత్యంత సూక్ష్మమైన ఆధ్యాత్మిక స్థితిని సామాన్యులకు కూడా అర్థమయ్యేలా చేస్తుంది.",
     "en": "One of the Gita's most celebrated, poetic images for describing the state of meditation — a flame undisturbed by wind. This image conveys two things at once — luminosity (knowledge, awareness that does not go out) and steadiness (unmoved by external influence). Just as a lamp stays steady only where there is no wind, this simile suggests that meditation becomes steady only when the mind stops running toward external objects. Drawn from a simple, everyday experience, this image makes even the subtlest spiritual state accessible to the ordinary person."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

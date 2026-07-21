@@ -2,8 +2,7 @@
   "id": "seva-014",
   "tags": [
     "seva",
-    "dana",
-    "gita"
+    "dana"
   ],
   "shlokam": {
     "te": "దాతవ్యమితి యద్దానం దీయతేఽనుపకారిణే ।\nదేశే కాలే చ పాత్రే చ తద్దానం సాత్త్వికం స్మృతమ్ ॥",
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (శ్రద్ధాత్రయవిభాగయోగము)",
     "name_en": "Srimad Bhagavad Gita (Shraddhatraya Vibhaga Yoga)",
-    "chapter": "17.20"
+    "chapter": "17.20",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "దాతవ్యమ్ | ఇతి | యత్ | దానమ్ | దీయతే | అనుపకారిణే | దేశే | కాలే | చ | పాత్రే | చ | తత్ | దానమ్ | సాత్త్వికమ్ | స్మృతమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "దానపరీక్షకు గీత పెట్టిన గీటురాయి — 'అనుపకారిణే', తిరిగి ఏమీ చేయలేనివానికి. ప్రత్యుపకారం ఆశించిన దానం పెట్టుబడి; పేరు కోసం చేసినది ప్రకటన; ఇవ్వడం ధర్మం అన్న ఒకే భావనతో ఇచ్చినదే దానం. దేశకాలపాత్రల విచక్షణ కూడా అవసరమే — సాత్త్విక దానం ఉదారమే కాదు, వివేకవంతమూ. ఇచ్చేటప్పుడు మన లోపలి ఉద్దేశమే దానపు జాతిని నిర్ణయిస్తుందన్న ఈ ఆత్మపరీక్ష ప్రతి దాతకూ అద్దం.",
     "en": "The Gita's touchstone for charity — 'anupakāriṇe', to one who can give nothing back. A gift expecting return is an investment; one made for reputation is advertising; only what is given from the single conviction that giving is right is dāna at all. Discernment of place, time and recipient matters too — the pure gift is not merely generous but wise. The inner intention at the moment of giving decides the gift's whole character: a mirror held up to every giver."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

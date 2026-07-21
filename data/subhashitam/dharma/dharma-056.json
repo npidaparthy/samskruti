@@ -2,7 +2,6 @@
   "id": "dharma-056",
   "tags": [
     "dharma",
-    "gita",
     "kshetra-kshetrajna"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (క్షేత్రక్షేత్రజ్ఞవిభాగయోగము)",
     "name_en": "Srimad Bhagavad Gita (Kshetra Kshetrajna Vibhaga Yoga)",
-    "chapter": "13.2"
+    "chapter": "13.2",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "ఇదమ్ | శరీరమ్ | కౌన్తేయ | క్షేత్రమ్ | ఇతి | అభిధీయతే | ఏతత్ | యః | వేత్తి | తమ్ | ప్రాహుః | క్షేత్రజ్ఞః | ఇతి | తద్విదః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "గీత పదమూడవ అధ్యాయపు కీలక పరిభాషను నిర్వచించే తొలి శ్లోకం — 'క్షేత్రం' (శరీరం), 'క్షేత్రజ్ఞుడు' (దానిని ఎరిగిన ఆత్మ). శరీరాన్ని పొలంతో పోల్చడం అర్థవంతమైనది — పొలంలో పంట పండుతుంది, మారుతుంది, చివరకు కోతకు గురవుతుంది; రైతు మాత్రం పొలానికి భిన్నంగా ఉంటాడు, దానిని గమనిస్తాడు. అలాగే శరీరంలో మార్పులు జరుగుతున్నా, వాటిని గమనించే 'క్షేత్రజ్ఞుడు' వేరుగా ఉంటాడు. ఈ విభజన — దేహం వేరు, దేహిని ఎరిగే చైతన్యం వేరు — తరువాతి వేదాంతచింతన మొత్తానికి పునాదిగా నిలుస్తుంది.",
     "en": "The opening verse defining the key terminology of the Gita's thirteenth chapter — 'kshetra' (the field, i.e. the body), and 'kshetrajna' (the knower of that field, the Self). Comparing the body to a field is meaningful — crops grow, change, and are eventually harvested in a field, while the farmer remains distinct from the field, observing it. Likewise, though changes occur within the body, the 'kshetrajna' who observes them remains separate. This distinction — the body is one thing, the awareness that knows the body is another — becomes the foundation for all subsequent Vedantic thought."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

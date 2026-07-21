@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "చాణక్య నీతిదర్పణమ్",
     "name_en": "Cāṇakya Nītidarpana",
-    "chapter": "Chapter 4"
+    "chapter": "Chapter 4",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "శైలే శైలే | న | మాణిక్యమ్ | మౌక్తికమ్ | న | గజే గజే | సాధవః | న హి | సర్వత్ర | చన్దనమ్ | న | వనే వనే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "శ్రేష్ఠమైనవి అన్ని చోట్లా లభించవు — అదే వాటి విలువ. మాణిక్యము, ముత్యము, చందనము అరుదుగా దొరుకుతాయి. అదే విధంగా సత్పురుషులు (సాధువులు) కూడా అరుదే. అందువల్ల మంచివారిని గుర్తించినప్పుడు వారిని గౌరవించాలని, వారి సాంగత్యాన్ని అమూల్యంగా భావించాలని ఈ శ్లోకం బోధిస్తుంది.",
     "en": "The rarest things are the most precious. Rubies, pearls and sandalwood are valuable precisely because they are not found everywhere. Likewise, a truly virtuous person is rare — and when found, to be cherished and revered. This verse cautions against taking good people for granted."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

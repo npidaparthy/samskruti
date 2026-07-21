@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి / హితోపదేశము",
     "name_en": "Chanakya Niti / Hitopadesha",
-    "chapter": "widely quoted maxim"
+    "chapter": "widely quoted maxim",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "విద్వత్త్వమ్ | చ | నృపత్వమ్ | చ | న | ఏవ | తుల్యమ్ | కదాచన | స్వదేశే | పూజ్యతే | రాజా | విద్వాన్ | సర్వత్ర | పూజ్యతే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "రాజు అధికారం సరిహద్దుల వద్ద ఆగిపోతుంది; విద్వాంసుని గౌరవానికి సరిహద్దులు లేవు. అధికారం పదవితో పోతుంది, సంపద దొంగల పాలవుతుంది — కానీ విద్య ఎక్కడికి వెళ్ళినా వెంట వచ్చే సంపద, ఏ దేశంలోనైనా గుర్తింపు తెచ్చే ముద్ర. అందుకే భారతీయ సంప్రదాయం సింహాసనం కన్నా సరస్వతిని మిన్నగా భావించింది.",
     "en": "A king's authority ends at his border; a scholar's honour knows none. Power ends with office and wealth can be stolen, but learning travels with its owner and earns recognition in any land. This is why the Indian tradition placed Sarasvati above the throne."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

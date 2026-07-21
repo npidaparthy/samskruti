@@ -2,7 +2,6 @@
   "id": "karma-029",
   "tags": [
     "karma",
-    "gita",
     "guna"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "3.27"
+    "chapter": "3.27",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "ప్రకృతేః | క్రియమాణాని | గుణైః | కర్మాణి | సర్వశః | అహంకారవిమూఢాత్మా | కర్తా | అహమ్ | ఇతి | మన్యతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "కర్తృత్వాభిమానం ఎక్కడి నుండి పుడుతుందో విశ్లేషించే గీతలోని లోతైన శ్లోకం. వాస్తవానికి పనులన్నీ సత్త్వరజస్తమోగుణాల పరస్పర చర్య వల్ల జరుగుతాయి — శరీరం, మనసు, ఇంద్రియాలు అన్నీ ప్రకృతిలో భాగమే. 'నేను చేశాను' అనే భావన కేవలం అహంకారపు మాయ. ఈ సత్యాన్ని గ్రహించినవాడు విజయంలో గర్వపడడు, అపజయంలో కుంగిపోడు — ఎందుకంటే రెండూ గుణాల ఆటలో భాగమేనని తెలుసుకుంటాడు. కర్తృత్వభావన వదలడమే నిజమైన స్వేచ్ఛకు తొలిమెట్టు అని ఈ శ్లోకం బోధిస్తుంది.",
     "en": "A profound Gita verse analysing where the sense of doership comes from. In truth, every action arises from the interplay of the three gunas — sattva, rajas, tamas; body, mind, and senses are all part of nature. The feeling 'I did this' is merely ego's illusion. One who grasps this truth neither swells with pride in success nor collapses in failure, seeing both as part of the play of the gunas. Letting go of the sense of doership, the verse teaches, is the first step toward true freedom."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -2,7 +2,6 @@
   "id": "karma-041",
   "tags": [
     "karma",
-    "gita",
     "vishada-nashaka"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (అర్జునవిషాదయోగము)",
     "name_en": "Srimad Bhagavad Gita (Arjuna Vishada Yoga)",
-    "chapter": "2.7"
+    "chapter": "2.7",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "కార్పణ్యదోషమ్ | ఉపహతస్వభావః | పృచ్ఛామి | త్వామ్ | ధర్మసమ్మూఢచేతాః | యత్ | శ్రేయః | స్యాత్ | నిశ్చితమ్ | బ్రూహి | తత్ | మే | శిష్యః | తే | అహమ్ | శాధి | మామ్ | త్వామ్ | ప్రపన్నమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "గీత మొత్తానికి నాంది పలికే అత్యంత కీలకమైన శ్లోకం — అర్జునుడు తనను తాను శిష్యునిగా అధికారికంగా సమర్పించుకునే ఘట్టం. ఇంతకుముందు అర్జునుడు కృష్ణుని స్నేహితునిగా, సారథిగా చూశాడు; ఇక్కడ మొదటిసారి 'శిష్యస్తేఽహమ్' — నేను నీ శిష్యుడను — అని అంగీకరిస్తాడు. ఈ ఒక్క వాక్యంతోనే గురుశిష్యసంబంధం ఆరంభమవుతుంది, గీతోపదేశానికి తలుపులు తెరుచుకుంటాయి. తనకు తెలియదని, మార్గదర్శకత్వం కావాలని నిజాయితీగా ఒప్పుకోవడమే — అహంకారం వదిలి నేర్చుకోవడానికి సిద్ధపడటమే — ఏ నిజమైన బోధకైనా తొలిమెట్టు అని ఈ ఘట్టం చాటుతుంది.",
     "en": "The pivotal verse that inaugurates the entire teaching of the Gita — the moment Arjuna formally offers himself as a disciple. Until now, Arjuna has seen Krishna as friend and charioteer; here, for the first time, he acknowledges, 'śiṣyas te'ham' — I am your disciple. With this single line, the teacher-student relationship begins, and the doors to the Gita's teaching open. Honestly admitting one's own ignorance and need for guidance — becoming willing to set aside ego and learn — this moment declares, is the first step of any true teaching."
-  }
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
 }

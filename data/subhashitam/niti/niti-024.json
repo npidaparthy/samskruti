@@ -4,7 +4,6 @@
     "niti",
     "shreyansi",
     "vighna",
-    "subhashita",
     "udyoga"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "సుభాషిత సంగ్రహం",
-    "name_en": "Subhāṣita tradition"
+    "name_en": "Subhāṣita tradition",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "శ్రేయాంసి | బహు-విఘ్నాని | భవన్తి | మహతాం | అపి | దైవ-ఆయత్తం | ఫలం | తేషాం | కర్మ-ఆయత్తం | తు | పౌరుషం",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ సుభాషితం నైరాశ్యాన్ని తొలగించే ప్రేరణాత్మకమైన వాక్యం. గొప్ప కార్యం చేపట్టినప్పుడు అడ్డంకులు వస్తాయని మొదట చెప్పి, అది సాధారణం అని హామీ ఇస్తుంది. ఫలం అదృష్టాధీనం — అది మన చేతిలో లేదు. కానీ ప్రయత్నం, పట్టుదల, పురుషకారం మన చేతిలోనే ఉన్నాయి. కాబట్టి ఫలాపేక్ష లేకుండా, అడ్డంకులకు ఓడిపోకుండా, నిరంతర ప్రయత్నం చేయడమే ధీరుని లక్షణం అని ఈ శ్లోకం చెప్తుంది.",
     "en": "This verse is a motivational teaching about persistence in the face of adversity. The first line reassures the aspirant that obstacles are normal — even the greatest individuals face them in their noblest endeavors. The second line draws a crucial distinction: the fruit belongs to providence, but the heroic effort belongs entirely to us. This resonates with the Gītā's teaching of nishkāma karma — act without attachment to outcomes. The verse encourages undaunted action, reminding us that giving up is the only true failure."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

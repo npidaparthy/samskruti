@@ -2,7 +2,6 @@
   "id": "vairagya-042",
   "tags": [
     "vairagya",
-    "gita",
     "avinashi"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.17"
+    "chapter": "2.17",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "అవినాశి | తు | తత్ | విద్ధి | యేన | సర్వమ్ | ఇదమ్ | తతమ్ | వినాశమ్ | అవ్యయస్య | అస్య | న | కశ్చిత్ | కర్తుమ్ | అర్హతి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఆత్మనిత్యత్వానికి తార్కికమైన ఆధారాన్ని అందించే గీత శ్లోకం. దృశ్యమానప్రపంచమంతటినీ వ్యాపించి ఉండేది ఏదో ఒకటి ఉందని, అది తప్పనిసరిగా నాశనరహితమని — ఎందుకంటే వ్యాపించి ఉన్నదానిని ఖండించలేమని — ఈ తర్కం చూపుతుంది. ఈ శ్లోకం తర్వాతి 'అంతవన్త ఇమే దేహాః' అనే శ్లోకానికి పునాదిగా నిలుస్తుంది — శరీరాలు అంతం కలవి, కానీ వాటిని వ్యాపించి ఉన్న చైతన్యం అంతం లేనిది. దైనందిన అనుభవంలో మార్పు, నాశనం కనిపించే ప్రతిచోటా, వాటి వెనుక మారని ఒక సత్యం ఉందని గుర్తుచేసే తాత్త్విక భరోసా ఇది.",
     "en": "A Gita verse offering the logical foundation for the eternity of the Self. The reasoning holds that whatever pervades the entire visible world must necessarily be indestructible — for what pervades everything cannot itself be cut off or divided. This verse lays the foundation for the following verse, 'antavanta ime dehāḥ' — bodies have an end, but the consciousness pervading them does not. It is a philosophical assurance, reminding us that behind every instance of change and destruction we witness in daily experience, there stands an unchanging truth."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

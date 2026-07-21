@@ -2,7 +2,6 @@
   "id": "bhakti-039",
   "tags": [
     "bhakti",
-    "gita",
     "brahmi-sthiti"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
     "name_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)",
-    "chapter": "18.54"
+    "chapter": "18.54",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "బ్రహ్మభూతః | ప్రసన్నాత్మా | న | శోచతి | న | కాంక్షతి | సమః | సర్వేషు | భూతేషు | మద్భక్తిమ్ | లభతే | పరామ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "జ్ఞానమార్గం చివరకు భక్తిమార్గంలో కలుస్తుందని చాటే అపూర్వమైన శ్లోకం. బ్రహ్మసాక్షాత్కారం పొందిన జ్ఞాని — దుఃఖరహితుడై, కోరికారహితుడై, సమదృష్టి కలిగినవాడై — ఆ స్థితి నుండే 'పరాభక్తి'ని పొందుతాడని చెప్పడం విశేషం. అంటే జ్ఞానం అంతిమగమ్యం కాదు, భక్తికి ద్వారం అని ఈ శ్లోకం సూచిస్తుంది. అద్వైతజ్ఞానమూ, భగవద్భక్తీ పరస్పరవిరుద్ధాలు కావని, ఒకటి రెండోదానికి సహజంగా దారితీస్తుందని చాటే ఈ శ్లోకం — జ్ఞానమార్గంలోని పరిపూర్ణత భక్తిలో ప్రస్ఫుటమవుతుందని చూపే వేదాంతసమన్వయ సూత్రం.",
     "en": "A remarkable verse showing that the path of knowledge ultimately merges into the path of devotion. It is notable that the jnani who has realised Brahman — free of grief, free of craving, holding an equal view of all — attains, from that very state, 'para bhakti', supreme devotion. This suggests that knowledge is not the final destination but the doorway to devotion. This verse — showing that Advaita realisation and devotion to the Lord are not opposites, one naturally flowing into the other — is a Vedantic principle of reconciliation, showing that the fulfilment of the path of knowledge becomes visible in devotion."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

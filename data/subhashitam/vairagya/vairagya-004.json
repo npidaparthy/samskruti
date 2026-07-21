@@ -4,8 +4,7 @@
     "vairagya",
     "samsara",
     "janana",
-    "marana",
-    "bhaja-govindam"
+    "marana"
   ],
   "shlokam": {
     "te": "పునరపి జననం పునరపి మరణం పునరపి జననీజఠరే శయనమ్ ।\nఇహ సంసారే బహుదుస్తారే కృపయాపారే పాహి మురారే ॥",
@@ -15,7 +14,10 @@
   "chandaH": "మాత్రాసమక (Mātrāsamaka) — 16 morae per quarter",
   "granthaH": {
     "name_te": "భజ గోవిన్దం — ఆది శంకరాచార్య (21వ శ్లోకం)",
-    "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 21)"
+    "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 21)",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "పునః | అపి | జననం | పునః | అపి | మరణం | పునః | అపి | జననీ-జఠరే | శయనం | ఇహ | సంసారే | బహు-దుస్తారే | కృపయా | అపారే | పాహి | మురారే",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకం వైరాగ్య-భక్తి కలయికకు శ్రేష్ఠ ఉదాహరణ. సంసారం యొక్క పునరావృత్తి దుఃఖాన్ని తీవ్రంగా అనుభవించిన వ్యక్తి భగవంతుని శరణు వేడుకుంటున్నాడు. 'పునరపి' మూడు సార్లు పునరావృత్తి — జన్మ-మరణ-గర్భవాస ఈ మూడు దుఃఖాల తీవ్రతను తెలుపుతుంది. ముందు వైరాగ్యం, తర్వాత శరణాగతి — ఇది మోక్ష మార్గం.",
     "en": "This verse is a masterpiece blending vairāgya (dispassion) with bhakti (devotion). Having viscerally felt the exhaustion of repeated birth, death, and womb-dwelling, the seeker turns to Kṛṣṇa with a prayer for liberation. The triple repetition of 'punarapi' — again and again and again — conveys the utter weariness of saṃsāra. From that weariness springs the deepest surrender. This is Śaṅkara's formula: vairāgya first, śaraṇāgati next."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

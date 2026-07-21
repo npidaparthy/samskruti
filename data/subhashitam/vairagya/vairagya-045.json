@@ -2,7 +2,6 @@
   "id": "vairagya-045",
   "tags": [
     "vairagya",
-    "gita",
     "vishaya-vinivartana"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.59"
+    "chapter": "2.59",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "విషయాః | వినివర్తన్తే | నిరాహారస్య | దేహినః | రసవర్జమ్ | రసః | అపి | అస్య | పరమ్ | దృష్ట్వా | నివర్తతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "బాహ్యనిగ్రహానికీ, అంతర్గత విముక్తికీ మధ్య ఉన్న తేడాను నిజాయితీగా చూపే గీత శ్లోకం. ఉపవాసం చేసినా, ఇంద్రియసుఖాలకు దూరంగా ఉన్నా — వాటిపై కోరిక మనసులో అలాగే మిగిలిపోవచ్చని ఈ శ్లోకం ఒప్పుకుంటుంది. బాహ్యత్యాగం సగం పరిష్కారం మాత్రమే; అసలైన విముక్తి భగవత్సాక్షాత్కారం ద్వారానే వస్తుందని — ఉన్నతమైనదాన్ని చవిచూసినప్పుడే తక్కువదానిపై ఆసక్తి సహజంగా తొలగిపోతుందని — ఈ శ్లోకం చాటుతుంది. బలవంతపు నిగ్రహం కన్నా ఉన్నతానుభవమే నిజమైన వైరాగ్యానికి మార్గమని ఇది సూచిస్తుంది.",
     "en": "A Gita verse honestly showing the difference between outer restraint and inner freedom. It acknowledges that even fasting or staying away from sensory pleasures, the desire for them may still linger in the mind. Outer renunciation is only half the solution; true freedom comes only through realisation of the divine — that once one has tasted the higher, the craving for the lower naturally falls away, this verse declares. It suggests that a higher experience, rather than forced restraint, is the true path to genuine detachment."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

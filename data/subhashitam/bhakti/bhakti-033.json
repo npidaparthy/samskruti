@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "నారద భక్తిసూత్రములు",
     "name_en": "Narada Bhakti Sutras",
-    "chapter": "sutras 5–6"
+    "chapter": "sutras 5–6",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "యత్ | లబ్ధ్వా | న | కించిత్ | వాంఛతి | న | శోచతి | న | ద్వేష్టి | న | రమతే | న | ఉత్సాహీ | భవతి",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "నిజమైన భక్తి పొందిన వ్యక్తి యొక్క మానసిక స్థితిని వర్ణించే సూత్రద్వయం ఇది. ఇక్కడ చెప్పిన లక్షణాలు నిర్లిప్తతతో పోలినట్లు అనిపించవచ్చు, కానీ ఇది ఉదాసీనత కాదు — పరిపూర్ణత్వం. కోరిక అంటే ఏదో లోటు ఉందని సూచన; భక్తుడు దేనికీ లోటు అనుభవించడు కనుక కోరడు. దుఃఖమూ ద్వేషమూ దేనిపైనో ఆధారపడిన మనసుకు వస్తాయి; పరిపూర్ణతృప్తి చెందిన మనసుకు అవి తావు లేవు. లౌకిక సుఖోద్వేగాలకు అతీతమైన ఒక స్థిరమైన, నిండైన ఆనందస్థితినే నారదులు ఇక్కడ 'పరమప్రేమ'గా అభివర్ణిస్తున్నారు.",
     "en": "This pair of sutras describes the mental state of one who has attained true devotion. The traits listed may sound like detachment, but this is not indifference — it is completeness. Desire signals some lack; a devotee, lacking nothing, desires nothing. Grief and hatred arise in a mind dependent on external conditions; in a mind fully satisfied, they find no ground. It is this steady, full state of joy beyond ordinary worldly excitement and grief that Narada here describes as 'supreme love'."
-  }
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
 }

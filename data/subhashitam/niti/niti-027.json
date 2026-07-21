@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Chanakya Niti",
-    "chapter": "attributed maxim"
+    "chapter": "attributed maxim",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "ఆయుషః | క్షణః | ఏకః | అపి | న | లభ్యః | స్వర్ణకోటిభిః | సః | చేత్ | నిరర్థకమ్ | నీతః | కా | ను | హానిః | తతః | అధికా",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ధనం పోతే తిరిగి సంపాదించవచ్చు; ఆరోగ్యం చెడితే కొంతవరకు బాగుచేసుకోవచ్చు; కానీ గడిచిన క్షణం ఏ మూల్యానికీ తిరిగి రాదు. కాలమే అత్యంత విలువైన సంపద అని గుర్తించినవాడు దానిని విద్యకు, ధర్మానికి, సత్కార్యాలకు వినియోగిస్తాడు. కాలహరణమే అన్నిటికన్నా పెద్ద దారిద్ర్యం అన్నది చాణక్యుని హెచ్చరిక.",
     "en": "Lost wealth can be earned again; broken health can often be mended; but a moment gone returns at no price. One who recognises time as the supreme wealth spends it on learning, dharma, and good deeds. Squandered time, Chanakya warns, is the deepest poverty of all."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

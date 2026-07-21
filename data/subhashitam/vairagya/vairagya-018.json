@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి వైరాగ్యశతకము",
     "name_en": "Bhartrhari's Vairagya Shataka",
-    "chapter": "verse 75"
+    "chapter": "verse 75",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "యావత్ | స్వస్థమ్ | ఇదమ్ | శరీరమ్ | అరుజమ్ | యావత్ | చ | దూరే | జరా | యావత్ | చ | ఇన్ద్రియశక్తిః | అప్రతిహతా | యావత్ | క్షయః | న | ఆయుషః | ఆత్మశ్రేయసి | తావత్ | ఏవ | విదుషా | కార్యః | ప్రయత్నః | మహాన్ | సందీప్తే | భవనే | తు | కూపఖననమ్ | ప్రత్యుద్యమః | కీదృశః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "'రేపు చేద్దాం' అనే వాయిదాకు భర్తృహరి ఇచ్చిన సమాధానం ఈ చిత్రం — ఇల్లు మండుతుండగా బావి తవ్వడం. సాధనకు కావలసిన పరికరాలన్నీ — ఆరోగ్యం, శక్తి, సమయం — యౌవనంలోనే పుష్కలంగా ఉంటాయి; కానీ అప్పుడు ధ్యాస భోగాలపై ఉంటుంది. ముసలితనంలో ధ్యాస మళ్ళినా పరికరాలు మిగలవు. ఆధ్యాత్మికతే కాదు — ఏ మంచి పని వాయిదా వేసినా ఈ హెచ్చరిక వర్తిస్తుంది.",
     "en": "This is Bhartrhari's answer to 'I'll start tomorrow' — the image of digging a well while the house burns. Every tool the inner life needs — health, energy, time — is abundant in youth, but youth's attention is on pleasures; by old age the attention returns, but the tools are gone. The warning applies beyond spirituality to every good work postponed."
-  }
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
 }

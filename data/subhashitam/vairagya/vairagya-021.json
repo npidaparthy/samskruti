@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
     "name_en": "Bhaja Govindam (Adi Shankaracharya)",
-    "chapter": "verse 15"
+    "chapter": "verse 15",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "అంగమ్ | గలితమ్ | పలితమ్ | ముండమ్ | దశనవిహీనమ్ | జాతమ్ | తుండమ్ | వృద్ధః | యాతి | గృహీత్వా | దండమ్ | తత్ | అపి | న | ముంచతి | ఆశాపిండమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "నాలుగు వివరాలతో శంకరులు గీసిన వృద్ధాప్య చిత్రం — చివరి పంక్తిలో చురుక్కుమనే వ్యంగ్యం. దేహంలోని ప్రతి అవయవం వైరాగ్యపాఠం చెబుతున్నా మనసు మాత్రం వినదు; పోయిన పళ్ళ కన్నా పోని ఆశలే విషాదం. వార్ధక్యం శరీరానికి సహజంగా వస్తుంది గానీ వైరాగ్యం మనసుకు సాధనతోనే రావాలి. ఆశను వదిలించేది వయసు కాదు, వివేకమే అన్నది ఈ శ్లోక సందేశం.",
     "en": "In four strokes Shankara sketches old age — and lands the sting in the last line. Every limb of the body is teaching detachment, but the mind refuses the lesson; the tragedy is not the teeth that fell but the hopes that did not. Age comes to the body unbidden; detachment must be won by the mind through practice. It is wisdom, not years, that loosens desire's grip."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

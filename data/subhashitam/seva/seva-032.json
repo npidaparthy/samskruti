@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మహాభారతము (ఉద్యోగపర్వము)",
     "name_en": "Mahabharata (Udyoga Parva)",
-    "chapter": "Udyoga Parva 35.58 (Vidura Niti)"
+    "chapter": "Udyoga Parva 35.58 (Vidura Niti)",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
   },
   "padavibhagam": {
     "te": "న | సా | సభా | యత్ర | న | సన్తి | వృద్ధాః | న | తే | వృద్ధాః | యే | న | వదన్తి | ధర్మమ్ | న | అసౌ | ధర్మః | యత్ర | న | సత్యమ్ | అస్తి | న | తత్ | సత్యమ్ | యత్ | ఛలేన | అనువిద్ధమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "విదురనీతిలోని ఈ శ్లోకం నాలుగు నిర్వచనాలను గొలుసుగా కడుతూ, ప్రతి పదానికీ దాని అసలైన అర్హతను నిర్దేశిస్తుంది. కేవలం వయసు మీరినంతమాత్రాన 'పెద్ద' అనిపించుకోలేడు — ధర్మం బోధించగలిగినప్పుడే ఆ గౌరవం అర్హమవుతుంది. ఇదే గొలుసు సభకూ, ధర్మానికీ, సత్యానికీ వర్తిస్తుంది — ఒక్కొక్క పదానికీ దానికి తగిన నైతిక సారాంశం ఉంటేనే ఆ పేరుకు అర్హత. బాహ్యస్వరూపాన్ని కాక అంతస్సారాన్ని చూడమని, పదవులకూ బిరుదులకూ కాక వాటి వెనుక ఉన్న గుణానికే గౌరవం దక్కాలని ఈ శ్లోకం గుర్తుచేస్తుంది.",
     "en": "This verse from Vidura Niti builds four definitions in a chain, insisting that each term must earn its true qualification. Mere old age does not make someone an 'elder' — that honour is deserved only when one is capable of teaching dharma. The same chain applies to assembly, dharma, and truth — each word deserves its name only when it holds the corresponding moral substance. The verse reminds us to look past outward form to inner substance, and to accord respect not to titles and positions but to the virtue that stands behind them."
-  }
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
 }

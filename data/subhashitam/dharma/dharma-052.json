@@ -2,7 +2,6 @@
   "id": "dharma-052",
   "tags": [
     "dharma",
-    "gita",
     "shraddha-triguna"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (శ్రద్ధాత్రయవిభాగయోగము)",
     "name_en": "Srimad Bhagavad Gita (Shraddhatraya Vibhaga Yoga)",
-    "chapter": "17.3"
+    "chapter": "17.3",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "సత్త్వానురూపా | సర్వస్య | శ్రద్ధా | భవతి | భారత | శ్రద్ధామయః | అయమ్ | పురుషః | యః | యత్ | శ్రద్ధః | సః | ఏవ | సః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "వ్యక్తిత్వాన్ని అర్థం చేసుకోవడానికి గీత ఇచ్చిన అత్యంత లోతైన సూత్రం — 'యో యచ్ఛ్రద్ధః స ఏవ సః', మనిషి తన శ్రద్ధ ఎలాంటిదో అలాంటివాడే. అంటే ఒక వ్యక్తి ఏమి నమ్ముతాడో, దేనిని గౌరవిస్తాడో, దేని పట్ల భక్తి చూపిస్తాడో — అదే అతని నిజమైన స్వరూపాన్ని నిర్ణయిస్తుంది. బాహ్య రూపమో, మాటలో కాదు — శ్రద్ధే వ్యక్తిత్వానికి అద్దం. ఈ నిర్వచనం మనల్ని ప్రశ్నించుకోమని ప్రేరేపిస్తుంది — మనం దేనిపై శ్రద్ధ పెడుతున్నామో, అదే మనం అవుతున్నామా అని.",
     "en": "The Gita's deepest principle for understanding personality — 'yo yacchraddhaḥ sa eva saḥ', a person is what their faith is. This means what a person believes in, respects, and holds devotion toward is what truly determines their nature. Not outward appearance or speech — faith is the mirror of character. This definition prompts a searching question: are we becoming what we place our faith in?"
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

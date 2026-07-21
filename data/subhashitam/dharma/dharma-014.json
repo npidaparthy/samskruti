@@ -4,7 +4,6 @@
     "dharma",
     "nari",
     "pujyante",
-    "manusmriti",
     "stri-shakti"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "మనుస్మృతి 3.56",
-    "name_en": "Manusmṛti 3.56"
+    "name_en": "Manusmṛti 3.56",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "యత్ర | నార్యః | తు | పూజ్యన్తే | రమన్తే | తత్ర | దేవతాః | యత్ర | ఏతాః | తు | న | పూజ్యన్తే | సర్వాః | తత్ర | అఫలాః | క్రియాః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "మనుస్మృతిలో ఈ శ్లోకం స్త్రీ గౌరవానికి ఇచ్చిన ప్రాముఖ్యతను చాటుతుంది. స్త్రీ శక్తి లేకుండా ఏ కార్యమూ సిద్ధించదు — ఇది ఒక ఆధ్యాత్మిక సత్యం. శక్తి, లక్ష్మి, సరస్వతి — దేవతలు స్త్రీ రూపంలో ఉన్నారు; వాస్తవ స్త్రీలను అగౌరవపరిస్తే ఆ దేవతలు విముఖులవుతారు. ఒక ఇంట్లో, ఒక సమాజంలో స్త్రీలు సురక్షితంగా, గౌరవంగా ఉన్నారంటే ఆ చోటు సమృద్ధంగా ఉంటుందని సనాతన ధర్మం చెప్తుంది.",
     "en": "This verse from Manusmṛti makes a bold statement about the centrality of women's dignity in any flourishing society. Theologically, the divine is worshipped in female form — Śakti, Lakṣmī, Sarasvatī — and dishonouring actual women is tantamount to dishonouring the divine. Practically, the verse asserts that no family, community, or civilization can prosper if it mistreats women. The fruitlessness of all actions in such a place is total — no ritual, no effort, no enterprise bears fruit. This teaching has been cited across centuries as a scriptural foundation for women's rights."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

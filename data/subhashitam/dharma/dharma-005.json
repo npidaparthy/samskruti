@@ -15,7 +15,10 @@
   "granthaH": {
     "name_te": "బృహదారణ్యకోపనిషత్",
     "name_en": "Bṛhadāraṇyaka Upaniṣad / widely cited in Vedic prayers",
-    "chapter": ""
+    "chapter": "",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "సర్వే | భవన్తు | సుఖినః | సర్వే | సన్తు | నిరామయాః | సర్వే | భద్రాణి | పశ్యన్తు | మా | కశ్చిత్ | దుఃఖభాక్ | భవేత్",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "ఇది కేవలం వ్యక్తిగత సుఖాన్ని కోరుకోకుండా 'సర్వే' — సమస్త జీవులూ — సుఖంగా ఉండాలని కోరే మహత్తర ప్రార్థన. ఒక వ్యక్తి తన సుఖాన్ని విశ్వం యొక్క సుఖంతో ముడిపెట్టి ఆలోచించడమే నిజమైన ఆధ్యాత్మికత. ఇది సంకుచిత ప్రార్థన కాదు — విశ్వప్రేమ యొక్క అభివ్యక్తి.",
     "en": "This is not a prayer for personal happiness — it is a prayer for all beings. The word 'sarve' (all) appears three times, expanding the circle of concern to the entire universe. True spirituality lies in this shift from 'I' to 'all'. This verse is among the most universally beloved prayers in the Vedic tradition."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

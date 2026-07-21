@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "బ్రహ్మబిన్దూపనిషత్",
     "name_en": "Brahmabindu Upanishad",
-    "chapter": "verse 2"
+    "chapter": "verse 2",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "మనః | ఏవ | మనుష్యాణామ్ | కారణమ్ | బన్ధమోక్షయోః | బన్ధాయ | విషయాసఙ్గమ్ | ముక్త్యై | నిర్విషయమ్ | స్మృతమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "బంధమూ మోక్షమూ రెండు వేర్వేరు స్థలాలు కావు, ఒకే మనసు యొక్క రెండు స్థితులు అని ఈ ఉపనిషద్వాక్యం తేల్చిచెబుతుంది. బాహ్యపరిస్థితులు మారకుండానే, విషయాలపై పట్టు వదిలిన మాత్రాన మనసు బద్ధస్థితి నుండి ముక్తస్థితికి మారగలదు. చెరసాల కారాగారంలో ఉందా బయటా అన్నది కాదు ప్రశ్న — దేనికి అంటిపెట్టుకుని ఉందన్నదే అసలు ప్రశ్న. సాధన అంతా బయటి ప్రపంచాన్ని మార్చడం కాదు, లోపలి మనసు దృష్టిని మార్చడమేనన్న ఈ సూత్రం అద్వైతవేదాంతపు మూలస్తంభాలలో ఒకటి.",
     "en": "Bondage and liberation are not two different places but two states of the very same mind — that is the Upanishad's uncompromising claim. Without any change in outer circumstance, the mind can pass from bondage to freedom the moment its grip on sense-objects loosens. The question is not whether the mind sits in a prison or outside one, but what it clings to. That the entire practice is not about changing the outer world but redirecting the mind's own attention is one of the founding pillars of Advaita Vedanta."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

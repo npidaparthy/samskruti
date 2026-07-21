@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.14"
+    "chapter": "2.14",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "మాత్రాస్పర్శాః | తు | కౌన్తేయ | శీతోష్ణసుఖదుఃఖదాః | ఆగమాపాయినః | అనిత్యాః | తాన్ | తితిక్షస్వ | భారత",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "సుఖదుఃఖాల స్వరూపాన్ని కృష్ణుడు ఒకే పదంలో తేల్చేశాడు — 'ఆగమాపాయినః', వచ్చి పోయేవి. ఋతువుల్లా అవీ తిరుగుతాయి; వేసవిని ఆపలేము గానీ అది శాశ్వతం కాదని తెలిస్తే వణకమూ లేదు, వ్యామోహమూ లేదు. తితిక్ష అంటే నిస్సహాయపు సహనం కాదు — వచ్చేపోయే ద్వంద్వాల మధ్య చెదరని సమతా స్థితి. కష్టమొచ్చినప్పుడు 'ఇదీ గడిచిపోతుంది' అని గుర్తుంచుకోవడమే ఈ శ్లోకపు నిత్యోపయోగం.",
     "en": "Krishna settles the nature of pleasure and pain in one word — 'āgamāpāyinaḥ', they come and go. Like seasons they revolve; we cannot stop the summer, but knowing it will not last, we neither tremble nor cling. Titiksha is not helpless endurance but unshaken evenness amid the passing pairs of opposites. In any hardship, the verse's daily use is the simple remembrance: this too shall pass."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

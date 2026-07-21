@@ -14,7 +14,10 @@
   "chandaH": "ఇన్ద్రవజ్ర (Indravajrā) — 11 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "పాండవగీత / స్తుతి సంప్రదాయం",
-    "name_en": "Pāṇḍava Gīta / traditional devotional stuti"
+    "name_en": "Pāṇḍava Gīta / traditional devotional stuti",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "త్వమేవ | మాతా | చ | పితా | త్వమేవ | త్వమేవ | బన్ధుః | చ | సఖా | త్వమేవ | త్వమేవ | విద్యా | ద్రవిణం | త్వమేవ | త్వమేవ | సర్వం | మమ | దేవదేవ",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకం పూర్ణ శరణాగతి యొక్క అభివ్యక్తి. మాత, పిత, బంధు, సఖ, విద్య, ద్రవిణం — జీవితంలో మనిషికి అవసరమైన ప్రతి ఆధారమూ భగవంతుని యందే ఉన్నదని భక్తుడు అనుభవిస్తాడు. ఈ అనుభవం చేరుకున్నప్పుడు బాహ్య ఆసరాల వెంట పరుగెత్తే అవసరం పోతుంది.",
     "en": "This verse is the expression of total surrender (pūrṇa śaraṇāgati). The devotee recognises that every support life offers — mother, father, kin, friend, learning, and wealth — is ultimately the divine in different forms. When this recognition is complete, the restless search for external support ceases. 'Tvam eva' repeated five times is not mere repetition — it is the progressive deepening of that recognition in each domain of life."
-  }
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
 }

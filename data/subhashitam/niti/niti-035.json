@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "అమన్త్రమ్ | అక్షరమ్ | న | అస్తి | న | అస్తి | మూలమ్ | అనౌషధమ్ | అయోగ్యః | పురుషః | న | అస్తి | యోజకః | తత్ర | దుర్లభః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ ప్రపంచంలో వ్యర్థమైనది ఏదీ లేదు — వినియోగం తెలియకపోవడమే వ్యర్థత. ప్రతి అక్షరంలో మంత్రశక్తి, ప్రతి మొక్కలో ఔషధగుణం, ప్రతి మనిషిలో ఏదో ఒక సామర్థ్యం దాగి ఉంటాయి. వాటిని గుర్తించి తగిన చోట నిలిపే 'యోజకుడు' — నేటి భాషలో మంచి గురువు, నాయకుడు, నిర్వాహకుడు — అరుదు. వ్యక్తులను తప్పుపట్టే ముందు వారి శక్తిని గుర్తించి వినియోగించే నేర్పు మనకుందా అని ప్రశ్నించుకోమంటుంది ఈ శ్లోకం.",
     "en": "Nothing in this world is useless — only unrecognised. Every syllable holds mantra-power, every plant a medicinal virtue, every person some hidden capacity. What is rare is the yojaka — the one who sees these and sets each in its right place: in today's terms, the good teacher, leader, or manager. Before dismissing anyone as worthless, the verse asks, do we have the skill to discover and deploy what they carry?"
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

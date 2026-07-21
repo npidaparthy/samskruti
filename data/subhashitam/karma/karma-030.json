@@ -2,7 +2,6 @@
   "id": "karma-030",
   "tags": [
     "karma",
-    "gita",
     "arjuna-vishada"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.3"
+    "chapter": "2.3",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "క్లైబ్యమ్ | మా | స్మ | గమః | పార్థ | న | ఏతత్ | త్వయి | ఉపపద్యతే | క్షుద్రమ్ | హృదయదౌర్బల్యమ్ | త్యక్త్వా | ఉత్తిష్ఠ | పరన్తప",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "యుద్ధరంగంలో కుప్పకూలిన అర్జునుడికి కృష్ణుడు ఇచ్చిన మొదటి తీవ్రమైన మందలింపు ఇది — గీతోపదేశపు నిజమైన ఆరంభం. కృష్ణుడు ఇక్కడ సున్నితంగా బుజ్జగించడు; సూటిగా 'ఇది నీకు తగదు' అని అంటాడు. అర్జునుని దుఃఖాన్ని కరుణతో కాక 'క్షుద్రమ్' — అల్పమైనది అని పిలవడం గమనార్హం. వ్యక్తి తన స్వభావానికీ శక్తికీ తగని బలహీనతలో పడినప్పుడు, దాన్ని సున్నితంగా సమర్థించడం కన్నా నిర్భయంగా ఎత్తిచూపడమే నిజమైన స్నేహమని ఈ ఘట్టం చూపుతుంది — గీత మొత్తం ఈ ఒక్క పిలుపు నుండే ఆరంభమవుతుంది.",
     "en": "Krishna's first sharp rebuke to Arjuna, who has collapsed on the battlefield — the true beginning of the Gita's teaching. Krishna does not coddle him here; he says plainly, 'this does not befit you.' Notably, he calls Arjuna's grief not something to be nursed with sympathy but 'kṣudram' — petty, unworthy. When a person falls into a weakness beneath their own nature and capacity, fearlessly pointing it out — rather than gently indulging it — is true friendship. The entire Gita begins from this single call to rise."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

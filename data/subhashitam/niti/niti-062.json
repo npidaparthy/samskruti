@@ -2,7 +2,6 @@
   "id": "niti-062",
   "tags": [
     "niti",
-    "chanakya",
     "durjana-sanga"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "సుభాషిత సంప్రదాయము",
     "name_en": "Subhashita tradition",
-    "chapter": "widely quoted maxim"
+    "chapter": "widely quoted maxim",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "దూరస్థః | అపి | న | దూరస్థః | యః | యస్య | మనసి | స్థితః | యః | యస్య | హృదయే | న | అస్తి | సమీపస్థః | అపి | దూరతః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "సాన్నిహిత్యాన్ని భౌతికదూరంతో కాక భావోద్వేగపరమైన సాన్నిహిత్యంతో నిర్వచించే హృద్యమైన శ్లోకం. ఎంతదూరంలో ఉన్నా మనసులో నిలిచిన బంధువూ, స్నేహితుడూ దగ్గరే; పక్కనే ఉన్నా హృదయాన్ని తాకని వ్యక్తి దూరమే. ఈ సూత్రం ఆధునిక దూరవిద్య, దూరసంబంధాలకూ వర్తిస్తుంది — నిజమైన అనుబంధం భౌతిక సామీప్యంపై కాక మానసిక అనుసంధానంపై ఆధారపడి ఉంటుందని చాటుతూ.",
     "en": "A heartfelt verse defining closeness not by physical distance but by emotional intimacy. A friend or kin who dwells in the mind remains close however far away; one who fails to touch the heart remains distant however near. This principle applies equally to modern long-distance relationships — declaring that true connection depends on mental and emotional bonding, not physical proximity."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

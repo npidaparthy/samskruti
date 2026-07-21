@@ -2,7 +2,6 @@
   "id": "dharma-047",
   "tags": [
     "dharma",
-    "gita",
     "daivi-sampat"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (దైవాసురసంపద్విభాగయోగము)",
     "name_en": "Srimad Bhagavad Gita (Daivasura Sampad Vibhaga Yoga)",
-    "chapter": "16.1"
+    "chapter": "16.1",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "అభయమ్ | సత్త్వసంశుద్ధిః | జ్ఞానయోగవ్యవస్థితిః | దానమ్ | దమః | చ | యజ్ఞః | చ | స్వాధ్యాయః | తపః | ఆర్జవమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "గీత పదహారవ అధ్యాయం మొదలుపెడుతూ దైవీసంపద జాబితాను చిత్రించే శ్లోకమిది — 'అభయమ్' అనే ఒక్క పదంతో ఆరంభించడం ప్రత్యేకంగా గమనించదగినది. మిగతా అన్ని సద్గుణాలకూ — దానం, తపస్సు, జ్ఞానం — పునాది భయరాహిత్యమే అని ఈ క్రమం సూచిస్తుంది. భయపడేవాడు దానం చేయడు, సత్యం పలకడు, సరళంగా ఉండలేడు. అభయం లేకుండా మిగతా సద్గుణాలు నిలవలేవన్న ఈ నిర్మాణం, ధైర్యమే సకల సద్గుణాలకు తొలిమెట్టు అని చాటుతుంది.",
     "en": "This verse opens the Gita's sixteenth chapter with the list of divine qualities — and it is notable that the list opens with a single word: 'abhayam', fearlessness. This sequencing suggests that fearlessness is the foundation on which every other virtue — charity, austerity, knowledge — rests. One who is afraid cannot give freely, cannot speak the truth, cannot remain upright. This structure, where the remaining virtues cannot stand without fearlessness, declares courage to be the very first step of every virtue."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

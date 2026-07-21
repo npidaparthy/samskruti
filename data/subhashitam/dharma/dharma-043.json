@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "కౌటిల్యుని అర్థశాస్త్రము",
     "name_en": "Kautilya's Arthashastra",
-    "chapter": "1.19.34"
+    "chapter": "1.19.34",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "ప్రజాసుఖే | సుఖమ్ | రాజ్ఞః | ప్రజానామ్ | చ | హితే | హితమ్ | న | ఆత్మప్రియమ్ | హితమ్ | రాజ్ఞః | ప్రజానామ్ | తు | హితమ్ | ప్రియమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "కౌటిల్యుని రాజనీతిశాస్త్రంలో పరిపాలననైతికతకు మూలసూత్రంగా నిలిచే శ్లోకం ఇది. రాజు వ్యక్తిగత ప్రాధాన్యతలనూ ప్రజాహితాన్నీ ఒకటిగా చేసే ఈ నిర్వచనం, పాలకుని అస్తిత్వాన్నే పునర్నిర్వచిస్తుంది — అతని సుఖం అతనిదే కాదు, ప్రజలదే. ఇది ఆధునిక ప్రజాస్వామ్యానికి కూడా మార్గదర్శకమైన సూత్రం — ప్రభుత్వం అధికారంలో ఉన్నవారి అభిరుచులకు కాక పౌరుల సంక్షేమానికే జవాబుదారీగా ఉండాలన్న సిద్ధాంతానికి రెండువేల సంవత్సరాల ముందు కౌటిల్యుడు ఇచ్చిన నిర్వచనం ఇది.",
     "en": "This verse stands as the founding principle of governance ethics in Kautilya's political science. By fusing the king's personal priorities with the welfare of the people, this definition redefines the very existence of a ruler — his happiness is not his own, but the people's. This principle guides modern democracy as well — Kautilya's definition, given two thousand years before the doctrine that government must answer to the welfare of citizens rather than the preferences of those in power."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -2,7 +2,6 @@
   "id": "vairagya-038",
   "tags": [
     "vairagya",
-    "gita",
     "sarira-nashvara"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.18"
+    "chapter": "2.18",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "అన్తవన్తః | ఇమే | దేహాః | నిత్యస్య | ఉక్తాః | శరీరిణః | అనాశినః | అప్రమేయస్య | తస్మాత్ | యుధ్యస్వ | భారత",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఆత్మనిత్యత్వం, దేహానిత్యత్వం అనే రెండు వాస్తవాలను పక్కపక్కనే ఉంచి, వాటి నుండి ఒక ఆచరణాత్మక నిర్ణయానికి చేరుకునే శ్లోకం — 'యుధ్యస్వ', యుద్ధం చెయ్యి. ఆత్మ నశించదు కనుక దేహాన్ని కోల్పోతానన్న భయం అనవసరమని, దేహం అలాగే నశించేది కనుక దానిని కాపాడుకోవడం కోసం కర్తవ్యాన్ని విడవడం అవివేకమని కృష్ణుడు తర్కబద్ధంగా చూపిస్తాడు. తాత్త్వికసత్యాన్ని కేవలం చర్చకే పరిమితం చేయకుండా, తక్షణకర్తవ్యనిర్వహణకు ఆధారంగా మలచడం గీత ప్రత్యేకత — జ్ఞానం ఆచరణలో పరిణమించాలన్న సూత్రానికి ఇది మంచి ఉదాహరణ.",
     "en": "This verse places the eternity of the Self and the transience of the body side by side and arrives at a practical conclusion — 'yudhyasva', fight. Krishna reasons that since the Self cannot perish, there is no need to fear losing the body; and since the body is bound to perish anyway, abandoning one's duty merely to preserve it is folly. Rather than confining philosophical truth to mere discussion, the Gita turns it into grounds for immediate duty — a fine example of the principle that knowledge must ripen into action."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

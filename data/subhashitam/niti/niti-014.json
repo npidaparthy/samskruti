@@ -14,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "చాణక్య నీతి",
-    "name_en": "Cāṇakya Nīti"
+    "name_en": "Cāṇakya Nīti",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "సుఖార్థినః | కుతః | విద్యా | విద్యార్థినః | కుతః | సుఖమ్ | సుఖార్థీ | వా | త్యజేత్ | విద్యాం | విద్యార్థీ | వా | త్యజేత్ | సుఖమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "విద్యాభ్యాసానికి సుఖత్యాగం అవసరం. సుఖంగా ఉండాలంటే కష్టపడి నేర్చుకోవాలనే ఇచ్ఛ తగ్గుతుంది. ఈ రెండూ ఒకే సమయంలో సాధ్యం కావు — ఒకదాన్ని ఎంచుకోవాలి. గొప్ప విద్వాంసులందరూ తమ యౌవనంలో సుఖాలను త్యజించారు.",
     "en": "This verse captures a fundamental trade-off in life: deep learning demands sacrifice of immediate comfort. One cannot pursue both equally — a choice must be made. All great scholars have given up ease in their formative years. This is not discouragement but clarity: know what you are choosing and what you are giving up."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

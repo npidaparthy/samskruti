@@ -2,7 +2,6 @@
   "id": "karma-002",
   "tags": [
     "karma",
-    "gita",
     "dharma",
     "avatara"
   ],
@@ -15,7 +14,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత",
     "name_en": "Bhagavad Gītā",
-    "chapter": "4.7 (Kṛṣṇa to Arjuna)"
+    "chapter": "4.7 (Kṛṣṇa to Arjuna)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యదా యదా | హి | ధర్మస్య | గ్లానిః | భవతి | భారత | అభ్యుత్థానమ్ | అధర్మస్య | తదా | ఆత్మానమ్ | సృజామి | అహమ్",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "అవతార రహస్యాన్ని శ్రీకృష్ణుడు వివరిస్తున్న ఈ శ్లోకం 'పరిత్రాణాయ సాధూనాం' శ్లోకానికి (4.8) ముందు వస్తుంది. ధర్మ పతనం ఒక కొలమానం — అది జరిగినప్పుడు దైవావతరణ అనివార్యం. ఇది కేవలం భూత-భవిష్యత్తులకు సంబంధించినది కాదు; ప్రతి యుగంలోనూ, ప్రతి హృదయంలోనూ ఈ పునరావతరణ జరుగుతూనే ఉంటుంది.",
     "en": "This verse precedes the famous 'paritrāṇāya sādhūnām' (4.8) verse. Kṛṣṇa gives the cosmic law of avatāra: when dharma declines, divine manifestation follows. This is not a historical promise alone — each age, each human heart, experiences this cycle of decline and renewal. The divine responds to the sincerity of human aspiration."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

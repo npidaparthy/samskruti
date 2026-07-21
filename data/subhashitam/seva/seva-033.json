@@ -2,7 +2,6 @@
   "id": "seva-033",
   "tags": [
     "seva",
-    "hitopadesha",
     "sahayata"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "హితోపదేశము (మిత్రలాభః)",
     "name_en": "Hitopadesha (Mitralabha)",
-    "chapter": "Mitralabha"
+    "chapter": "Mitralabha",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
   },
   "padavibhagam": {
     "te": "ఆపదర్థే | ధనమ్ | రక్షేత్ | దారాన్ | రక్షేత్ | ధనైః | అపి | ఆత్మానమ్ | సతతమ్ | రక్షేత్ | దారైః | అపి | ధనైః | అపి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ప్రాధాన్యక్రమాన్ని అత్యంత స్పష్టంగా నిర్దేశించే హితోపదేశపు ఆచరణాత్మక సూత్రం. ధనం కుటుంబం కోసమే, కుటుంబం కూడా చివరకు తన ఆత్మ (విలువలు, ధర్మం) కోసమేనని ఈ క్రమం చెబుతుంది. ఏదైనా త్యాగం చేయవలసి వస్తే మొదట ధనాన్ని, తర్వాత అవసరమైతే కుటుంబసౌకర్యాలనూ వదులుకోవచ్చు — కానీ తన ఆత్మగౌరవాన్నీ, ధర్మాన్నీ మాత్రం ఏ పరిస్థితిలోనూ వదులుకోకూడదని ఈ శ్లోకపు అంతిమ సందేశం. జీవితంలో దేనికి ఎంత విలువ ఇవ్వాలో నిర్ణయించుకోవడానికి ఇది శాశ్వతమైన కొలబద్ద.",
     "en": "A Hitopadesha principle setting out priorities with striking clarity. Wealth exists for the sake of family, and even family ultimately exists for the sake of one's own self — one's values, one's dharma. If any sacrifice must be made, wealth goes first, and if necessary even family comforts — but one's self-respect and dharma must never be surrendered under any circumstance. This remains a lasting yardstick for deciding what deserves what priority in life."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

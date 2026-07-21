@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "తైత్తిరీయోపనిషత్ (భృగువల్లి)",
     "name_en": "Taittiriya Upanishad (Bhrigu Valli)",
-    "chapter": "3.2"
+    "chapter": "3.2",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "అన్నమ్ | బ్రహ్మ | ఇతి | వ్యజానాత్ | అన్నాత్ | హి | ఏవ | ఖలు | ఇమాని | భూతాని | జాయన్తే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "తండ్రి వరుణుని వద్దకు వెళ్ళి బ్రహ్మజ్ఞానం అడిగిన భృగువుకు, తపస్సు చేయమని మాత్రమే సలహా ఇచ్చి, తానే స్వానుభవంతో సత్యాన్ని కనుక్కోమని పంపిస్తాడు తండ్రి. తపస్సు తర్వాత భృగువు తొలిసారి తెలుసుకున్న సత్యం — అన్నమే బ్రహ్మం. ఇది కేవలం ఆహారాన్ని దైవంగా భావించమని కాదు — జీవుల మనుగడకు మూలాధారమైనదాన్ని గౌరవించమని, ఆహారోత్పత్తిలో నిమగ్నమైన ప్రతి చేతినీ, ప్రతి రైతునూ గౌరవించమని విస్తరించే బోధ. అన్నదానాన్ని అత్యున్నత సేవగా భారతీయ సంస్కృతి భావించడానికి ఈ ఉపనిషద్వాక్యమే మూలం.",
     "en": "When Bhrigu approached his father Varuna seeking knowledge of Brahman, his father only advised austerity and sent him to discover the truth through his own experience. The first truth Bhrigu discovered after his tapas was that food itself is Brahman. This is not merely a call to regard food as divine — it extends into reverence for whatever sustains the life of beings, honouring every hand and every farmer engaged in producing it. This Upanishadic statement is the root of Indian culture's regard for feeding others as among the highest forms of service."
-  }
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
 }

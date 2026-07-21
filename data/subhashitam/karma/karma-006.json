@@ -4,8 +4,7 @@
     "karma",
     "atma",
     "bandhu",
-    "ripu",
-    "gita"
+    "ripu"
   ],
   "shlokam": {
     "te": "ఉద్ధరేదాత్మనాత్మానం నాత్మానమవసాదయేత్ ।\nఆత్మైవ హ్యాత్మనో బన్ధురాత్మైవ రిపురాత్మనః ॥",
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 6.5",
-    "name_en": "Bhagavad Gītā 6.5"
+    "name_en": "Bhagavad Gītā 6.5",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "ఉద్ధరేత్ | ఆత్మనా | ఆత్మానం | న | ఆత్మానం | అవసాదయేత్ | ఆత్మా | ఏవ | హి | ఆత్మనః | బన్ధుః | ఆత్మా | ఏవ | రిపుః | ఆత్మనః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకంలో ఆత్మోద్ధరణ యొక్క రహస్యం ఉంది. బాహ్య శత్రువుల గురించి మనం ఆందోళన పడుతాం — కానీ అసలు శత్రువు అంతరంగంలోనే ఉన్నాడు. అదే విధంగా అసలు మిత్రుడు కూడా లోపలే ఉన్నాడు. సంకల్పం, ఆత్మజ్ఞానం, నిష్ఠ ద్వారా మనిషి తన ఉత్కర్షను సాధించగలడు.",
     "en": "This verse contains the secret of self-development. We worry about external enemies, but the real enemy lives within — in the form of weakness, delusion, and lack of self-discipline. Similarly, the greatest ally is also within — one's own will, clarity, and determination. No one else can uplift or degrade us as completely as we do ourselves. This is Kṛṣṇa's call to radical personal responsibility."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

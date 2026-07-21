@@ -2,7 +2,6 @@
   "id": "bhakti-028",
   "tags": [
     "bhakti",
-    "gita",
     "sadrisha"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (భక్తియోగము)",
     "name_en": "Srimad Bhagavad Gita (Bhakti Yoga)",
-    "chapter": "9.29"
+    "chapter": "9.29",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "సమః | అహమ్ | సర్వభూతేషు | న | మే | ద్వేష్యః | అస్తి | న | ప్రియః | యే | భజన్తి | తు | మామ్ | భక్త్యా | మయి | తే | తేషు | చ | అపి | అహమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "నిష్పక్షపాతమైన సమదృష్టికీ, భక్తుని పట్ల ప్రత్యేక సాన్నిహిత్యానికీ మధ్య వైరుధ్యం లేదని ఈ శ్లోకం స్పష్టం చేస్తుంది. సూర్యుడు అందరిపైనా సమానంగా వెలుతురు కురిపిస్తాడు — కానీ కిటికీ తెరిచినవాడి గదిలో మాత్రమే ఆ వెలుతురు నిండుతుంది. దేవుని సమత్వం మారదు; భక్తుని తలుపు తెరవడమే అతని అనుభవాన్ని మారుస్తుంది. కనుక భగవంతుడు కొందరిని ప్రేమించి కొందరిని ద్వేషించడు — భక్తుడే తన హృదయద్వారాన్ని తెరిచి ఆ సాన్నిధ్యాన్ని అనుభవంలోకి తెచ్చుకుంటాడు.",
     "en": "This verse resolves the apparent tension between impartial equanimity and special closeness to the devotee. The sun shines equally on everyone — yet its light fills only the room whose window has been opened. God's equality does not change; it is the devotee opening the door that changes his own experience of it. God does not love some and hate others; rather, the devotee opens the door of his own heart and brings that presence into felt experience."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

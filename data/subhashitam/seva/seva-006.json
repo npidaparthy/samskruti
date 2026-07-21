@@ -4,8 +4,7 @@
     "seva",
     "matru",
     "pitru",
-    "guru",
-    "upanishad"
+    "guru"
   ],
   "shlokam": {
     "te": "మాతృదేవో భవ పితృదేవో భవ ఆచార్యదేవో భవ అతిథిదేవో భవ ।",
@@ -15,7 +14,10 @@
   "chandaH": "గద్య (Gadya) — prose form from Upaniṣadic teaching",
   "granthaH": {
     "name_te": "తైత్తిరీయోపనిషత్తు — శిక్షావల్లి 1.11.2",
-    "name_en": "Taittirīya Upaniṣad — Śikṣāvallī 1.11.2"
+    "name_en": "Taittirīya Upaniṣad — Śikṣāvallī 1.11.2",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "మాతృదేవః | భవ | పితృదేవః | భవ | ఆచార్యదేవః | భవ | అతిథిదేవః | భవ",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "తైత్తిరీయోపనిషత్తులో గురువు శిష్యుడికి విద్యారంభంలో ఇచ్చిన ఉపదేశం ఇది. ఈ నాలుగు వాక్యాలు ఒక్కొక్కటి మన జీవన విలువలను ప్రతిబింబిస్తాయి — కుటుంబ (మాత, పిత), విద్య (ఆచార్య), సమాజ (అతిథి) సేవ. ప్రతి వ్యక్తిలో దైవత్వాన్ని చూడగలిగే దృష్టి ఇందులో ఉంది.",
     "en": "This is the graduation counsel given by the teacher to the student in the Taittirīya Upaniṣad. Each of the four instructions represents a sphere of life — family (mother, father), knowledge (teacher), and society (guest). The common thread is seeing the divine in every person you serve. This is not merely ritual respect but a complete philosophy of service: treat every person in your care as a manifestation of the sacred."
-  }
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
 }

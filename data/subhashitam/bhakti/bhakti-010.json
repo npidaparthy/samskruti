@@ -3,7 +3,6 @@
   "tags": [
     "bhakti",
     "sarvasya-caham",
-    "gita",
     "omnipresence",
     "hridaya"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 15.15",
-    "name_en": "Bhagavad Gītā 15.15"
+    "name_en": "Bhagavad Gītā 15.15",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "సర్వస్య | చ | అహం | హృది | సన్నివిష్టః | మత్తః | స్మృతిః | జ్ఞానం | అపోహనం | చ | వేదైః | చ | సర్వైః | అహం | ఏవ | వేద్యః | వేదాన్త-కృత్ | వేద-విత్ | ఏవ | చ | అహం",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "గీతలో 15వ అధ్యాయంలో 'పురుషోత్తమ యోగం' లో ఈ శ్లోకం వస్తుంది. 'అహం హృది సన్నివిష్టః' — నేను హృదయంలో ఉన్నాను — ఇది కేవలం భక్తికి కాదు, జ్ఞానానికి కూడా మూలం. స్మృతి, జ్ఞానం, అపోహనం (విస్మరణ) — అన్నీ భగవంతుని వలన. వేద అధ్యయనం చేస్తున్నప్పుడు గుర్తుండాలి — వేదాలు కృష్ణుని వైపే చూపిస్తాయి. 'వేదాన్తకృత్' అన్న పదం కృష్ణుడే వేదాంతానికి మూలం అని చెప్తుంది. ఇది భక్తి, జ్ఞానాలు రెండూ ఒకే మూల సత్యం వైపు నడిపించే వాక్యం.",
     "en": "From the fifteenth chapter of the Gītā (the Puruṣottama Yoga), this verse declares Kṛṣṇa's universal presence and omniscience. Seated in every heart, He is the source of each person's memory, knowledge, and forgetting — cognitive functions themselves flow from the Divine. The verse then makes a bold claim about the Vedic tradition: the entire corpus of Vedas has one goal — the knowledge of this one Self. Kṛṣṇa claims to be both the composer of Vedānta and its ultimate subject matter. For the bhakta, this is deeply reassuring: the Divine is not distant but present in the very cognitive faculty by which we seek It."
-  }
+  },
+  "chanda_key": "trishtubh",
+  "chanda_sa": "त्रिष्टुप्",
+  "chanda_te": "త్రిష్టుప్"
 }

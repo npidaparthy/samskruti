@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
     "name_en": "Bhaja Govindam (Adi Shankaracharya)",
-    "chapter": "verse 22"
+    "chapter": "verse 22",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "సురమన్దిర | తరుమూల | నివాసః | శయ్యా | భూతలమ్ | అజినమ్ | వాసః | సర్వపరిగ్రహ | భోగత్యాగః | కస్య | సుఖమ్ | న | కరోతి | విరాగః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "సన్యాసజీవితపు కనీస అవసరాలను వర్ణిస్తూ, వాటిలోనే దాగిన సుఖాన్ని ప్రశ్నరూపంలో బయటపెట్టే శ్లోకం. లోకం భావించే సుఖం సముపార్జనలో ఉంటుంది; ఇక్కడ శంకరులు దానికి పూర్తి వ్యతిరేకమైన చిత్రం చూపుతారు — ఏమీ లేకపోవడంలోనే ఉండే స్వేచ్ఛ. వస్తువులు కాపాడుకోవలసిన బాధ్యత లేనప్పుడు మనసుకు లభించే తేలికదనమే ఈ ప్రశ్నలోని రహస్యం. కలిగి ఉండటమే సుఖం అనుకునే ఆధునిక ధోరణికి ఇది ఒక ప్రాచీన ప్రతి-ప్రతిపాదన.",
     "en": "Describing the barest necessities of ascetic life, the verse springs its point as a question — happiness hiding precisely inside that lack. The world imagines happiness lies in accumulation; Shankara here paints the exact opposite picture — the freedom found in owning nothing at all. The lightness a mind gains once it has nothing to protect is the secret behind this rhetorical question, an ancient counter-proposal to the modern equation of possession with joy."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

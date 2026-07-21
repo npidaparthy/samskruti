@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "వ్యాస వచనమ్ (పద్మపురాణమ్ అని ఉద్ధృతమైనది)",
     "name_en": "Vyāsa Vacana (cited in Padma Purāṇa)",
-    "chapter": ""
+    "chapter": "",
+    "grantha": "Purāṇa",
+    "grantha_te": "పురాణమ్",
+    "grantha_sa": "पुराणम्"
   },
   "padavibhagam": {
     "te": "అష్టాదశ | పురాణేషు | వ్యాసస్య | వచనద్వయమ్ | పరోపకారః | పుణ్యాయ | పాపాయ | పరపీడనమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "అష్టాదశ పురాణాలలో లక్షల శ్లోకాలు ఉన్నాయి. వ్యాసుడు వాటన్నింటి సారాన్ని రెండు వాక్యాలలో ఇచ్చాడు: ఇతరులకు సహాయం చేయడమే ధర్మం — ఇతరులను హింసించడమే అధర్మం. ఇంత సరళమైన, సార్వజనీనమైన నిర్వచనం మరొకటి లేదు.",
     "en": "The eighteen Purāṇas together contain hundreds of thousands of verses. Vyāsa distils their entire wisdom into two statements: helping others is dharma; harming others is adharma. No simpler or more universal definition of righteousness has ever been given."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "దానమ్ | ప్రియవాక్సహితమ్ | జ్ఞానమ్ | అగర్వమ్ | క్షమాన్వితమ్ | శౌర్యమ్ | విత్తమ్ | త్యాగసమేతమ్ | దుర్లభమ్ | ఏతత్ | చతుష్టయమ్ | లోకే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "దానం, జ్ఞానం, శౌర్యం, సంపద — ఇవి విడివిడిగా అరుదేమీ కాదు; అరుదైనది వాటి జోడింపు. దానం చేస్తూ మాటతో గుచ్చేవారు, పాండిత్యంతో పొగరెక్కినవారు, బలం చేతికందగానే కరుణ మరిచేవారు, సిరి పెరిగే కొద్దీ చేయి మూసుకునేవారు — లోకంలో వీరే ఎక్కువ. ప్రతి శక్తికీ దాని వినయమే అలంకారమనీ, గుణం విలువ దాని జతపైనే ఆధారపడుతుందనీ చెప్పే ఈ శ్లోకం సద్గుణాలకూ ఒక 'నాణ్యతా పరీక్ష' పెడుతుంది.",
     "en": "Charity, learning, valour, wealth — none of these alone is rare; what is rare is the pairing. Givers who wound with their words, scholars swollen with pride, the strong who forget mercy the moment power arrives, the rich whose fists close as fortunes grow — these fill the world. Each strength is adorned only by its own humility, and a virtue's worth depends on what it is coupled with — a quality-test applied to the virtues themselves."
-  }
+  },
+  "chanda_key": "arya",
+  "chanda_sa": "आर्या",
+  "chanda_te": "ఆర్యా"
 }

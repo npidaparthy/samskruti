@@ -15,7 +15,10 @@
   "granthaH": {
     "name_te": "వాల్మీకి రామాయణమ్ — యుద్ధకాణ్డమ్",
     "name_en": "Vālmīki Rāmāyaṇa — Yuddha Kāṇḍa",
-    "chapter": "6.124.17 (Rāma to Lakṣmaṇa)"
+    "chapter": "6.124.17 (Rāma to Lakṣmaṇa)",
+    "grantha": "Rāmāyaṇa",
+    "grantha_te": "రామాయణమ్",
+    "grantha_sa": "रामायणम्"
   },
   "padavibhagam": {
     "te": "జననీ | జన్మభూమిః | చ | స్వర్గాత్ | అపి | గరీయసీ",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "లంకను జయించి, సీతమ్మను తిరిగి పొందిన తర్వాత లక్ష్మణుడు లంకలో నివసిద్దామని సూచించగా, రాముడు ఈ మాటలు చెప్పాడు. స్వర్ణమయమైన లంక కంటే కూడా మన తల్లి, మన జన్మభూమి గొప్పవని రాముడు ప్రకటించాడు. ఇది దేశభక్తికి, మాతృభావానికి పరాకాష్ఠ.",
     "en": "After conquering Lanka and rescuing Sītā, when Lakṣmaṇa suggested settling in the golden city of Lanka, Rāma spoke these words. Even the most magnificent foreign land cannot compare to one's mother and motherland. This remains the most powerful expression of patriotism and filial devotion in all of Sanskrit literature."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

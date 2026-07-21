@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "గురుస్తుతి సంప్రదాయము",
     "name_en": "Traditional guru-stuti verse",
-    "chapter": "widely quoted invocation"
+    "chapter": "widely quoted invocation",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "అజ్ఞానతిమిరాన్ధస్య | జ్ఞానాంజనశలాకయా | చక్షుః | ఉన్మీలితమ్ | యేన | తస్మై | శ్రీగురవే | నమః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "గురువందనానికి అత్యంత ప్రసిద్ధమైన శ్లోకాలలో ఒకటి — ప్రాచీన వైద్యవిధానంలో కంటిలోని పొర తొలగించడానికి వాడే అంజనశలాక ఉపమానంగా వాడబడింది. అజ్ఞానం అంధత్వంతో పోల్చబడింది — పుట్టుకతో వచ్చిన అంధత్వం కాదు, తెలియకపోవడం వల్ల వచ్చిన అంధత్వం, నయం చేయగలిగినది. గురువు ఆ శస్త్రచికిత్స చేసే వైద్యుడు — నొప్పి కలిగించే ప్రక్రియైనా, దాని ఫలితం దృష్టిని ప్రసాదించడం. జ్ఞానబోధను ఒక శస్త్రచికిత్సగా, గురువును వైద్యునిగా చిత్రించడంలో బోధనప్రక్రియ ఎంత శక్తిమంతమైనదో, ఎంత అవసరమైనదో ఈ ఉపమానం చెబుతుంది.",
     "en": "One of the most celebrated verses of homage to a teacher — drawing its image from the ancient medical practice of using a collyrium-rod to remove a film from the eye. Ignorance is compared to blindness — not blindness from birth, but blindness from not knowing, curable blindness. The teacher is the physician performing that procedure — a process that may cause discomfort, yet whose result is the gift of sight. Picturing the imparting of knowledge as surgery and the teacher as physician conveys just how powerful, and how necessary, the act of teaching truly is."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

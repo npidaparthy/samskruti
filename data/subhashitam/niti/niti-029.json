@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Chanakya Niti",
-    "chapter": "attributed maxim"
+    "chapter": "attributed maxim",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "కాకచేష్టా | బకోధ్యానమ్ | శ్వాననిద్రా | తథా | ఏవ | చ | అల్పాహారీ | గృహత్యాగీ | విద్యార్థీ | పంచలక్షణమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "చాణక్యుడు విద్యార్జనను ఒక తపస్సుగా చిత్రించాడు. కాకి ప్రతి అవకాశాన్నీ గమనిస్తుంది; కొంగ చేపపైనే దృష్టి నిలిపినట్లు లక్ష్యంపై ఏకాగ్రత ఉండాలి; కుక్కలా చిన్న అలికిడికే మేల్కొనే జాగరూకత కావాలి; అతి భోజనం బద్ధకాన్ని పెంచుతుంది; సుఖాల మోహం విడువనిదే కొత్తది నేర్వలేము. ఈ ఐదూ నేటి విద్యార్థులకూ, ఏ రంగంలోనైనా నైపుణ్యం సాధించాలనుకునేవారికీ వర్తించే సూత్రాలు.",
     "en": "Chanakya paints learning as a discipline akin to tapas. The crow misses no opportunity; the crane fixes its gaze on the fish alone — such must be the student's focus; the dog wakes at the faintest sound — such must be their alertness; heavy eating breeds sloth; and without letting go of comforts, nothing new is learned. These five apply as much to any modern learner or craftsman as to the ancient student."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

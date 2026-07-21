@@ -14,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "పద్మపురాణం / సుభాషిత సంప్రదాయం",
-    "name_en": "Padma Purāṇa / Subhāṣita tradition"
+    "name_en": "Padma Purāṇa / Subhāṣita tradition",
+    "grantha": "Purāṇa",
+    "grantha_te": "పురాణమ్",
+    "grantha_sa": "पुराणम्"
   },
   "padavibhagam": {
     "te": "పరోపకారః | పుణ్యాయ | పాపాయ | పరపీడనమ్ | ఇతి | తే | సంక్షేపేణ | ప్రోక్తం | లక్షణం | పుణ్యపాపయోః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ధర్మ-అధర్మాల నిర్వచనాన్ని ఇంత సరళంగా చెప్పడం అరుదు. సంపూర్ణ శాస్త్రాలను పరిశీలించినా ఈ ఒక్క వాక్యంలో సారం ఉంది — పరోపకారం పుణ్యం, పరపీడనం పాపం. ఇది వ్యక్తి స్వయంగా నిర్ణయించుకోగలిగేంత సరళం.",
     "en": "Rarely is the definition of merit and sin stated so plainly. The entire corpus of dharmaśāstra can be distilled into this one verse — what benefits others is virtue, what harms others is sin. This formulation requires no priest or scripture to interpret: every individual can apply it directly in daily life. It is ethics at its most universal."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

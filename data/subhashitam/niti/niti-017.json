@@ -4,7 +4,6 @@
     "niti",
     "vasudhaiva-kutumbakam",
     "udara",
-    "mahabharata",
     "pancatantra"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "మహోపనిషత్ / పంచతంత్రం",
-    "name_en": "Mahopaniṣat / Pañcatantra"
+    "name_en": "Mahopaniṣat / Pañcatantra",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
   },
   "padavibhagam": {
     "te": "అయం | నిజః | పరః | వా | ఇతి | గణనా | లఘు-చేతసాం | ఉదార-చరితానాం | తు | వసుధా | ఏవ | కుటుంబకం",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ సుభాషితం భారతీయ సనాతన సంస్కృతిలో అత్యంత ప్రసిద్ధమైన వాక్యం — 'వసుధైవ కుటుంబకం'. భూమి మొత్తం ఒకే కుటుంబం అన్న భావన సంకుచితత్వాన్ని తిరస్కరిస్తుంది. జాతి, మతం, ప్రాంతం అనే విభేదాలు లఘు మనసుల సృష్టి; ఉదార చరిత్రులు సర్వుల హితాన్ని తమ బంధువుల హితంగా భావిస్తారు. నేటి ప్రపంచంలో అంతర్జాతీయ సంబంధాలకు, సార్వత్రిక సోదరత్వానికి ఇది పునాది సూత్రం.",
     "en": "This verse contains one of the most celebrated phrases of Indian civilization — 'vasudhaiva kuṭumbakam' — the whole world is one family. It draws a sharp contrast between the small-minded who divide humanity into 'us' and 'them,' and the noble-hearted who see all beings as kin. This is not naive universalism but a moral aspiration rooted in the recognition of shared humanity. The verse underpins India's civilizational commitment to universal well-being and has resonated in global forums as a call for international solidarity."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

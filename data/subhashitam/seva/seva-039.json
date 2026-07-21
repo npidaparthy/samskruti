@@ -2,7 +2,6 @@
   "id": "seva-039",
   "tags": [
     "seva",
-    "hitopadesha",
     "vidya-artha"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "అనభ్యాసే | విషమ్ | విద్యా | అజీర్ణే | భోజనమ్ | విషమ్ | దరిద్రస్య | విషమ్ | సభా | వృద్ధస్య | తరుణీ | విషమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "నాలుగు అసంగతమైన జతలను ఏకరువు పెట్టి, ప్రతిదానికీ 'విషం' అనే బిరుదు ఇచ్చే వ్యావహారిక వివేకసూత్రం. ఒక్కొక్క ఉదాహరణా వేరువేరు రంగాన్ని తాకుతుంది — విద్యలో అభ్యాసం లేకపోతే ఆ జ్ఞానం ఉపయోగపడదు, హానికరమే కావచ్చు; జీర్ణం కాకముందే తినడం ఆరోగ్యానికి చేటు; తనకు తగని స్థలంలో అడుగుపెట్టడం ఆత్మగౌరవానికి భంగం; వయసుకు తగని బంధాలు అశాంతికి మూలం. వేటినీ 'విషం'గా చెప్పడంలో — ఇవి తక్షణం కాకపోయినా, నెమ్మదిగా విషతుల్యమైన పరిణామాలకు దారితీస్తాయని హెచ్చరిక ఇమిడి ఉంది.",
     "en": "A practical wisdom-verse naming four seemingly unrelated pairs, awarding each the title 'poison'. Each example touches a different sphere — learning without practice becomes useless, even harmful; eating before the last meal is digested harms health; stepping into a place unsuited to one's standing wounds self-respect; bonds unsuited to one's age become a source of unrest. Calling each 'poison' carries the warning that these, though not immediately fatal, lead gradually to poisonous consequences."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

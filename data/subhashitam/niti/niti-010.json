@@ -16,7 +16,10 @@
   "granthaH": {
     "name_te": "సుభాషితరత్నభాండాగారమ్",
     "name_en": "Subhāṣita Ratna Bhaṇḍāgāra",
-    "chapter": ""
+    "chapter": "",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "కావ్యశాస్త్రవినోదేన | కాలః | గచ్ఛతి | ధీమతామ్ | వ్యసనేన | చ | మూర్ఖాణామ్ | నిద్రయా | కలహేన | వా",
@@ -33,5 +36,8 @@
   "tatparyam": {
     "te": "ఒక్కరి కాలం ఎలా గడుపుతున్నారో అది వారి వ్యక్తిత్వాన్ని ప్రతిబింబిస్తుంది. కావ్యము మరియు శాస్త్రాభ్యాసం కేవలం వినోదం మాత్రమే కాదు — అవి జ్ఞానాన్ని పెంచి, మనసును సుసంపన్నం చేస్తాయి. ఇది 'leisure time' ఎలా వినియోగించాలి అనే విషయంలో శాశ్వతమైన మార్గదర్శనం.",
     "en": "How one spends time is a reflection of one's character. Study and appreciation of poetry and knowledge is not mere pastime — it enriches the mind and sharpens wisdom. This verse offers perennial guidance on the use of leisure: the wise invest it; the foolish squander it."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

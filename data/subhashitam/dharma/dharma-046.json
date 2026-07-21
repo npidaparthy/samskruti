@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (శ్రద్ధాత్రయవిభాగయోగము)",
     "name_en": "Srimad Bhagavad Gita (Shraddhatraya Vibhaga Yoga)",
-    "chapter": "17.15"
+    "chapter": "17.15",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "తథా | చతుర్విధమ్ | వాచః | తపః | పరమమ్ | ఉచ్యతే | అనుద్వేగకరమ్ | వాక్యమ్ | సత్యమ్ | ప్రియహితమ్ | చ | యత్ | స్వాధ్యాయాభ్యసనమ్ | చ | ఏవ | వాఙ్మయమ్ | తపః | ఉచ్యతే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "వాక్తపస్సుకు గీత నిర్దేశించిన నాలుగు లక్షణాలు అత్యంత ఆచరణాత్మకమైనవి. 'అనుద్వేగకరమ్' అంటే వినేవారిని కలవరపెట్టనిది; 'సత్యమ్' వాస్తవమైనది; 'ప్రియహితమ్' వినడానికి ఇంపైనదీ, వినేవారికి మేలు చేసేదీ కూడా. ఈ మూడు గుణాలూ ఒకేసారి కుదరడం అరుదు — నిజం చెప్పడం ప్రియంగా ఉండాలంటే నేర్పు కావాలి. నాలుగవది స్వాధ్యాయం — నిత్యమూ చదవడం, పఠించడం. మాట్లాడటమే కాక ఎప్పుడూ నేర్చుకుంటూ ఉండటం కూడా వాక్తపస్సులో భాగమని చేర్చడం ప్రత్యేకత — నోటికి కేవలం మాట్లాడటం మాత్రమే కాదు, జ్ఞానాన్ని స్వీకరించే బాధ్యత కూడా ఉందని గుర్తుచేస్తూ.",
     "en": "The four qualities the Gita sets for the austerity of speech are thoroughly practical. 'Anudvegakaram' means causing no disturbance to the listener; 'satyam' means truthful; 'priyahitam' means both pleasant to hear and genuinely beneficial to the listener. Combining all three at once is rare — speaking truth pleasantly demands real skill. The fourth is svadhyaya — regular study and recitation. Including this alongside speech is distinctive — a reminder that the mouth's duty is not only to speak but also to keep receiving knowledge."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -15,7 +15,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీ శంకరాచార్య (పూజా సమర్పణ శ్లోకం)",
-    "name_en": "Ādi Śaṅkarācārya (Pūjā samarpaṇa śloka)"
+    "name_en": "Ādi Śaṅkarācārya (Pūjā samarpaṇa śloka)",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "త్వదీయం | వస్తు | గోవిన్ద | తుభ్యం | ఏవ | సమర్పయే | గృహాణ | సు-ముఖః | భూత్వా | ప్రసీద | పరమ-ఈశ్వర",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "ఈ శంకరాచార్య సమర్పణ శ్లోకం పూజ ముగింపులో చదివే వాక్యం. అత్యంత సుందరమైన భావం ఏమిటంటే — 'త్వదీయం వస్తు' — నీ వస్తువులే నీకు సమర్పిస్తున్నాను. నేను ఇచ్చేదేమీ నేనివ్వడం లేదు — అన్నీ నీవే ఇచ్చావు, నీవే ఇప్పుడు నీ వస్తువులు తిరిగి స్వీకరిస్తున్నావు. ఈ భావంలో అహంకారం పూర్తిగా తొలగిపోతుంది. దాత అనే భావం పోతుంది — కేవలం ఒక మాధ్యమం మాత్రమే మిగులుతుంది. ఇదే నిజమైన సమర్పణ.",
     "en": "This śamarpaṇa śloka by Śaṅkarācārya captures the purest spirit of offering in bhakti. The key phrase is 'tvadīyam vastu' — 'what is Yours.' The devotee is not giving anything from their own possession; they are returning to the Divine what the Divine already gave. This insight dissolves the ego entirely: there is no generous donor, no independent giver — only the Divine receiving back its own creation. The prayer then asks Govinda to receive it 'with a pleased face' (sumukhaḥ) — the devotee's only concern is the Lord's delight. This is the culmination of pūjā as a practice of selflessness."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

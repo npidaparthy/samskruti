@@ -3,7 +3,6 @@
   "tags": [
     "vairagya",
     "jatasya-dhruvo",
-    "gita",
     "mortality",
     "death"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 2.27",
-    "name_en": "Bhagavad Gītā 2.27"
+    "name_en": "Bhagavad Gītā 2.27",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "జాతస్య | హి | ధ్రువః | మృత్యుః | ధ్రువం | జన్మ | మృతస్య | చ | తస్మాత్ | అపరిహార్యే | అర్థే | న | త్వం | శోచితుం | అర్హసి",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "భగవద్గీతలో అర్జునుని శోకాన్ని తొలగించడానికి కృష్ణుడు ఇచ్చిన తార్కిక సమాధానమిది. 'ధ్రువో మృత్యుః' — మృత్యువు నిశ్చితం; 'ధ్రువం జన్మ' — పునర్జన్మ నిశ్చితం. ఇవి సత్యాలు, వాటి పట్ల శోకించడం అవివేకం. 'అపరిహార్య అర్థం' — తప్పించుకోలేని విషయం — గురించి శోకించడం ఫలం ఇవ్వదు. ఈ దృష్టికోణం వైరాగ్యానికి పునాది — మృత్యుభయం తగ్గాలంటే మృత్యు సత్యాన్ని ఆమోదించాలి.",
     "en": "This verse from the Gītā (2.27) is Kṛṣṇa's logical argument against grief. The reasoning is clear: death is certain for the born (no exception exists); birth is certain for the dead (the cycle continues). Both are inescapable, universal, and without exceptions. Since grief over the inevitable accomplishes nothing and changes nothing, it is irrational. 'Aparihārye arthe' — in a matter that cannot be helped — grief is both useless and unworthy. This teaching is not cold but liberating: accepting the inevitability of death removes the existential dread that underlies so much of human suffering, allowing one to live more fully in the present."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

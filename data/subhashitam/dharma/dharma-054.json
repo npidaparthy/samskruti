@@ -2,7 +2,6 @@
   "id": "dharma-054",
   "tags": [
     "dharma",
-    "gita",
     "yajna-vidhi"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "4.24"
+    "chapter": "4.24",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "బ్రహ్మార్పణమ్ | బ్రహ్మ | హవిః | బ్రహ్మాగ్నౌ | బ్రహ్మణా | హుతమ్ | బ్రహ్మ | ఏవ | తేన | గన్తవ్యమ్ | బ్రహ్మకర్మసమాధినా",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "యజ్ఞంలోని ప్రతి అంశాన్నీ — అర్పించేవాడు, అర్పించేది, అర్పించే స్థలం, ఆ చర్య — అన్నింటినీ బ్రహ్మంగానే చూసే ఏకమయదర్శనాన్ని చాటే గంభీరమైన శ్లోకం. 'బ్రహ్మ' అనే పదాన్ని ఐదుసార్లు పునరావృతం చేయడం కేవలం శైలీగతం కాదు — ద్వైతభావం పూర్తిగా కరిగిపోయే స్థితిని చూపే భాషాప్రయోగం. కర్తా, కర్మా, సాధనమూ, ఫలమూ అన్నీ ఒకే తత్త్వమని గ్రహించినప్పుడు, కర్మ చేస్తున్నా అది బంధించదు — అదే బ్రహ్మసాక్షాత్కారానికి మార్గమవుతుంది. అద్వైతదర్శనం, కర్మయోగం రెండూ ఏకమయ్యే అపూర్వ సంగమమిది.",
     "en": "A profound verse expressing a vision of oneness in which every element of the sacrifice — the offerer, the offering, the place of offering, the very act — is seen as Brahman itself. Repeating the word 'brahma' five times is not mere stylistic device but linguistic expression of the state in which duality dissolves entirely. When doer, deed, means, and fruit are all grasped as the same reality, action performed does not bind — it becomes itself the path to realising Brahman. A rare confluence where Advaita and karma yoga become one."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

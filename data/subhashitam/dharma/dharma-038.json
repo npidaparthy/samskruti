@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "ధర్మశాస్త్ర సంప్రదాయము",
     "name_en": "Dharmashastra tradition",
-    "chapter": "widely quoted maxim"
+    "chapter": "widely quoted maxim",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "యత్ | యత్ | ఆచరతి | శిష్టః | శిష్టః | తత్ | ప్రమాణమ్ | సదాచారః | పరః | ధర్మః | శ్రుతిస్మృత్యుద్భవః | హి | సః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ధర్మనిర్ణయంలో గ్రంథప్రమాణం ఒక్కటే సరిపోదు, జీవించే ఆచరణ కూడా ప్రమాణమేనని ధర్మశాస్త్రం ఇచ్చిన కీలక సూత్రం ఇది. కొత్త పరిస్థితులకు శాస్త్రవాక్యం స్పష్టంగా లేనప్పుడు, సచ్ఛీలురైన పెద్దలు ఆచరించే విధానమే మార్గదర్శకం అవుతుంది — ఎందుకంటే వారి ఆచరణలో శ్రుతిస్మృతుల స్ఫూర్తి ఇప్పటికే ఇంకిపోయి ఉంటుంది. దీనివల్లే ధర్మం స్తంభించిన శాసనం కాకుండా, కాలానుగుణంగా జీవించే సంప్రదాయమవుతుంది — శిష్టాచారమే దాని ప్రాణం.",
     "en": "A key axiom of dharmashastra: scriptural text alone cannot settle every question of right conduct — living practice is itself a valid proof. When explicit scripture is silent on a new situation, the conduct of virtuous, cultured elders becomes the guide — for the spirit of the Vedas and Smritis has already been absorbed into their practice. This is why dharma remains a living tradition rather than a frozen statute, kept alive precisely through the conduct of the good."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

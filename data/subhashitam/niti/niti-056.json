@@ -2,7 +2,6 @@
   "id": "niti-056",
   "tags": [
     "niti",
-    "chanakya",
     "mrga-simha"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Chanakya Niti",
-    "chapter": "3.16"
+    "chapter": "3.16",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "ఏకః | అపి | గుణవాన్ | పుత్రః | నిర్గుణేన | శతేన | కిమ్ | ఏకః | చన్ద్రః | తమః | హన్తి | న | చ | తారాగణః | అపి | చ",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "గుణాత్మకతనూ, పరిమాణాత్మకతనూ ఎదుర్కొనే చిత్రమైన ఉపమానం — చంద్రుడు, నక్షత్రాలు. ఆకాశంలో లెక్కలేనన్ని నక్షత్రాలున్నా చీకటిని పోగొట్టేది ఒక్క చంద్రుడే; అలాగే వందమంది సాధారణులకన్నా ఒక్క గుణవంతుడైన సంతానం కుటుంబానికీ, సమాజానికీ ఎక్కువ వెలుగు తెస్తాడు. సంఖ్య ముఖ్యం కాదు, గుణమే ముఖ్యమన్న ఈ సూత్రం — పిల్లల పెంపకంలోనూ, బృందనిర్మాణంలోనూ, ఏ రంగంలోనైనా — నాణ్యత పరిమాణాన్ని మించిపోతుందని చాటుతుంది.",
     "en": "A striking image contrasting quality with quantity — the moon and the stars. However countless the stars in the sky, it is the single moon that dispels the darkness; likewise, one virtuous child brings more light to a family and society than a hundred ordinary ones. This principle — that quality matters, not number — holds true in raising children, in building teams, in any field: quality always outweighs quantity."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

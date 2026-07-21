@@ -2,7 +2,6 @@
   "id": "vairagya-034",
   "tags": [
     "vairagya",
-    "gita",
     "sthitaprajna"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.56"
+    "chapter": "2.56",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "దుఃఖేషు | అనుద్విగ్నమనాః | సుఖేషు | విగతస్పృహః | వీతరాగభయక్రోధః | స్థితధీః | మునిః | ఉచ్యతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "స్థితప్రజ్ఞుని లక్షణాలను వర్ణించే గీతలోని ప్రసిద్ధ శ్లోకాల ఆరంభం ఇది. ఇక్కడ మూడు జతలు గమనార్హం — దుఃఖంలో కలత లేకపోవడం, సుఖంలో దాహం లేకపోవడం, రాగభయక్రోధాల నుండి విముక్తి. మూడూ ఒకే సత్యానికి వేర్వేరు కోణాలు: బాహ్యస్థితి మారినా లోపలి స్థిరత్వం చెదరకపోవడం. ఇది భావరహిత జడత్వం కాదు — అనుభూతులు వస్తాయి, పోతాయి, కానీ అంతర్గత కేంద్రం చెదరదు. ఇలాంటి స్థిరత్వమే వైరాగ్యానికి ఆచరణరూపమని గీత చూపుతుంది.",
     "en": "This opens the Gita's celebrated description of the sthitaprajna, the one of steady wisdom. Note the three pairs — undisturbed amid sorrow, unthirsting amid pleasure, freed from passion, fear and anger. All three are facets of one truth: inner steadiness that does not waver however outer circumstance shifts. This is not emotionless numbness — feelings still arise and pass, but the inner centre does not move. Such steadiness, the Gita shows, is what detachment looks like when actually lived."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

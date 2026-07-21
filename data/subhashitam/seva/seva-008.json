@@ -3,7 +3,6 @@
   "tags": [
     "seva",
     "saha-nau-bhunaktu",
-    "taittiriya",
     "shanti",
     "together"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "వేద శాంతి పాఠం (Vedic śānti pāṭha) — prose rhythm",
   "granthaH": {
     "name_te": "తైత్తిరీయోపనిషత్ శాంతిపాఠం",
-    "name_en": "Taittirīya Upaniṣad Śānti pāṭha"
+    "name_en": "Taittirīya Upaniṣad Śānti pāṭha",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "సహ | నౌ | భునక్తు | సహ | నౌ | విరక్తు | సహ | వీర్యం | కరవావహై | తేజస్వినౌ | అధీతం | అస్తు | మా | విద్విషావహై",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "తైత్తిరీయోపనిషత్ శాంతిపాఠం గురు-శిష్య బంధానికి ఒక అద్భుతమైన ప్రార్థన. 'నౌ' అంటే మనమిద్దరు — గురువు మరియు శిష్యుడు. ఈ ప్రార్థన ఒంటరి వ్యక్తి ప్రార్థన కాదు, జంటగా, కలిసి జరిపే ప్రార్థన. సహ భోజనం, సహ రక్షణ, సహ వీర్యం — ప్రతిది కలిసి. చివరి వాక్యం — 'మా విద్విషావహై' — మనమిద్దరు ద్వేషించుకోకుండా ఉందుగాక — ఇది ఒక అత్యున్నతమైన కోరిక. ఆధ్యాత్మిక సేవలో పారస్పరిక ప్రేమ, సహనం ముఖ్యం.",
     "en": "This śānti pāṭha from the Taittirīya Upaniṣad is a shared prayer between teacher and student — 'nau' means 'us two.' In a tradition where the guru-śiṣya relationship is sacred, this prayer reflects that the spiritual journey is not solitary but relational. The prayer covers four dimensions of their shared life: nourishment, protection, effort in learning, and the radiance of their studies. The final petition — 'may we never hate each other' — is the most intimate: it acknowledges that even in the closeness of the guru-student bond, friction can arise, and prays for its prevention. It is the foundation of all true satsaṅga and seva."
-  }
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
 }

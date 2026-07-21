@@ -2,7 +2,6 @@
   "id": "karma-020",
   "tags": [
     "karma",
-    "gita",
     "samatva"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.38"
+    "chapter": "2.38",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "సుఖదుఃఖే | సమే | కృత్వా | లాభాలాభౌ | జయాజయౌ | తతః | యుద్ధాయ | యుజ్యస్వ | న | ఏవమ్ | పాపమ్ | అవాప్స్యసి",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "మూడు జతల ద్వంద్వాలు — సుఖదుఃఖాలు, లాభనష్టాలు, జయాపజయాలు — వీటిని సమం చేసుకున్నాక పోరాడమన్నది క్రమం గమనించదగినది: ముందు సమత్వం, తరువాత కార్యాచరణ. ఫలితాల లెక్కల నుండి విడుదలైన మనసుతో చేసిన కర్మ ఎంత ఘోరమైనదైనా బంధించదన్నది ఇక్కడి సూక్ష్మం. కర్తవ్యం నిర్ణయమయ్యాక ఫలితభయంతో వెనుకాడటమే అసలైన పాపమని, సమబుద్ధితో రంగంలోకి దిగడమే పుణ్యమని — ప్రతి కార్యసాధకుడూ గుర్తుంచుకోవలసిన యుద్ధసూత్రం.",
     "en": "Note the order in the three balanced pairs — pleasure-pain, gain-loss, victory-defeat: first the equanimity, then the engagement. Action performed by a mind released from the arithmetic of outcomes does not bind, however fierce the action. Once duty is clear, shrinking back out of fear of results is the real sin; entering the field with an even mind is the merit — a battle-rule for everyone with hard work before them."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -2,7 +2,6 @@
   "id": "karma-014",
   "tags": [
     "karma",
-    "gita",
     "samatva"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.48"
+    "chapter": "2.48",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యోగస్థః | కురు | కర్మాణి | సంగమ్ | త్యక్త్వా | ధనంజయ | సిద్ధ్యసిద్ధ్యోః | సమః | భూత్వా | సమత్వమ్ | యోగః | ఉచ్యతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "యోగానికి గీత ఇచ్చిన అతి సరళమైన నిర్వచనం — 'సమత్వం యోగ ఉచ్యతే'. ఆసనమో ప్రాణాయామమో కాదు; జయాపజయాల ఊగిసలాటలో చెదరని మనఃస్థితి. ఫలితాన్ని అంటిపెట్టుకున్న మనసు పని జరుగుతుండగానే భయంతో, జరిగాక గర్వంతోనో నిరాశతోనో కలుషితమవుతుంది; సమచిత్తుడు మాత్రమే పూర్తి శక్తితో పనిచేయగలడు. యుద్ధభూమి మధ్యలో చెప్పిన ఈ మాట పరీక్షాహాలు నుండి కార్యాలయం వరకు ప్రతి రంగానికీ వర్తించే కార్యసూత్రం.",
     "en": "The Gita's simplest definition of yoga — 'samatvaṃ yoga ucyate', evenness is yoga. Not posture, not breath — a mind that does not wobble between triumph and defeat. A mind clutching at results is corrupted by anxiety while working and by pride or despair after; only the even-minded can act at full strength. Spoken mid-battlefield, it remains the working principle for every arena from the examination hall to the office."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

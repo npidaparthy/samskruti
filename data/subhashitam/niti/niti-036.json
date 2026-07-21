@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి నీతిశతకము",
     "name_en": "Bhartrhari's Niti Shataka",
-    "chapter": "verse 19"
+    "chapter": "verse 19",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "కేయూరాః | న | విభూషయన్తి | పురుషమ్ | హారాః | న | చన్ద్రోజ్జ్వలాః | న | స్నానమ్ | న | విలేపనమ్ | న | కుసుమమ్ | న | అలంకృతాః | మూర్ధజాః | వాణీ | ఏకా | సమలంకరోతి | పురుషమ్ | యా | సంస్కృతా | ధార్యతే | క్షీయన్తే | ఖలు | భూషణాని | సతతమ్ | వాగ్భూషణమ్ | భూషణమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఆరు అలంకారాలను వరుసగా తిరస్కరించి, ఏడవదైన వాక్కును సింహాసనంపై నిలిపిన శ్లోకం. బంగారు నగలు దేహాన్ని కప్పుతాయి; సంస్కృతమైన మాట వ్యక్తిత్వాన్ని వెలిగిస్తుంది. నోరు తెరిచిన క్షణంలో మనిషి తన నిజమైన అలంకారాన్నో వికారాన్నో ప్రదర్శిస్తాడు. 'సంస్కృతా ధార్యతే' అన్న పదాలు గమనార్హం — వాక్సంస్కారం ఒకసారి సాధించేది కాదు, నిత్యం ధరించవలసినది. తరిగిపోని ఏకైక ఆభరణంపై పెట్టుబడి పెట్టమన్నది భర్తృహరి సలహా.",
     "en": "Six adornments dismissed one by one, and a seventh — speech — set on the throne. Gold covers the body; cultivated speech illuminates the person. The moment the mouth opens, a man displays his true ornament or his true deformity. Note 'saṃskṛtā dhāryate' — refinement of speech is not achieved once but worn daily. Invest, says Bhartrhari, in the one ornament that never wears out."
-  }
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
 }

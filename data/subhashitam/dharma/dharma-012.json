@@ -14,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "గురు స్తోత్రం (స్కాన్ద పురాణం)",
-    "name_en": "Guru Stotram (Skānda Purāṇa)"
+    "name_en": "Guru Stotram (Skānda Purāṇa)",
+    "grantha": "Purāṇa",
+    "grantha_te": "పురాణమ్",
+    "grantha_sa": "पुराणम्"
   },
   "padavibhagam": {
     "te": "గురుః | బ్రహ్మా | గురుః | విష్ణుః | గురుః | దేవః | మహేశ్వరః | గురుః | సాక్షాత్ | పరబ్రహ్మ | తస్మై | శ్రీ | గురవే | నమః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకం గురువు యొక్క మహత్త్వాన్ని అత్యున్నత స్థాయిలో వర్ణిస్తుంది. సృష్టి, స్థితి, లయాలకు కారణమైన త్రిమూర్తులతో గురువును సమానంగా చెప్పడం — గురు-శిష్య సంబంధం యొక్క పావిత్ర్యాన్ని తెలుపుతుంది. జ్ఞానం ప్రసాదించే గురువు దైవ స్వరూపుడే.",
     "en": "This verse elevates the guru to the highest spiritual status by identifying them with the entire Trinity — Brahma who creates, Viṣṇu who sustains, and Śiva who transforms. The guru facilitates all three processes in a disciple's life: creating understanding, sustaining practice, and dissolving ignorance. To call the guru Parabrahma is to recognise that true knowledge is itself divine."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

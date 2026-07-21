@@ -2,7 +2,6 @@
   "id": "vairagya-044",
   "tags": [
     "vairagya",
-    "gita",
     "atma-samyama"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (ఆత్మసంయమయోగము)",
     "name_en": "Srimad Bhagavad Gita (Dhyana Yoga)",
-    "chapter": "6.25"
+    "chapter": "6.25",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "శనైః | శనైః | ఉపరమేత్ | బుద్ధ్యా | ధృతిగృహీతయా | ఆత్మసంస్థమ్ | మనః | కృత్వా | న | కించిత్ | అపి | చిన్తయేత్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ధ్యానసాధనకు గీత ఇచ్చిన ఆచరణాత్మక సూత్రం — 'శనైః శనైః', మెల్లమెల్లగా. మనసును ఒక్కసారిగా అణచివేయమని కాదు, క్రమంగా, సహనంతో స్థిరపరచమని ఈ శ్లోకం సూచిస్తుంది. తొందరపాటుతో సాధన చేసేవారు తరచూ నిరాశచెంది వదిలేస్తారు; క్రమానుగతమైన, స్థిరమైన అభ్యాసమే శాశ్వతమైన ఫలితాన్నిస్తుందని ఈ శ్లోకం బోధిస్తుంది. ఏ నైపుణ్యాన్నైనా — ధ్యానాన్నే కాదు, ఏ కొత్త అలవాటునైనా — క్రమక్రమంగా, ఓపికతో పెంపొందించుకోవాలన్న సార్వత్రిక సూత్రానికి ఇది ఆధ్యాత్మిక ప్రాతినిధ్యం.",
     "en": "The Gita's practical principle for meditation practice — 'śanaiḥ śanaiḥ', gradually, little by little. This verse suggests not suppressing the mind all at once, but steadying it gradually, with patience. Those who practise in haste often grow discouraged and give up; steady, gradual practice, this verse teaches, is what yields lasting results. This is the spiritual counterpart to the universal principle that any skill — not just meditation, but any new habit — must be built gradually and with patience."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

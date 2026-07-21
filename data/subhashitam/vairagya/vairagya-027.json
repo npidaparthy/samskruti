@@ -2,8 +2,7 @@
   "id": "vairagya-027",
   "tags": [
     "vairagya",
-    "yauvana",
-    "bhajagovindam"
+    "yauvana"
   ],
   "shlokam": {
     "te": "యావద్విత్తోపార్జనసక్తః\nతావన్నిజపరివారో రక్తః ।\nపశ్చాజ్జీవతి జర్జరదేహే\nవార్తాం కోఽపి న పృచ్ఛతి గేహే ॥",
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
     "name_en": "Bhaja Govindam (Adi Shankaracharya)",
-    "chapter": "verse 18"
+    "chapter": "verse 18",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "యావత్ | విత్తోపార్జనసక్తః | తావత్ | నిజపరివారః | రక్తః | పశ్చాత్ | జీవతి | జర్జరదేహే | వార్తామ్ | కః | అపి | న | పృచ్ఛతి | గేహే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "కుటుంబప్రేమపై కటువైన వాస్తవాన్ని ఎత్తిచూపే శంకరుని శ్లోకమిది — ఇష్టం మనిషిపైనా, లేక అతని ఉపయోగం మీదనా అని ప్రశ్నించమంటుంది. సంపాదన ఆగిన మరుక్షణం ఆదరణా ఆగిపోతే, అది వ్యక్తిపై ప్రేమ కాదు, అతని సంపాదనపై ఆధారపడిన లావాదేవీ మాత్రమే. ఈ కఠోరసత్యాన్ని ముందే గుర్తించినవాడు తన అస్తిత్వాన్ని కుటుంబపు గుర్తింపుపైనో, సంపాదనశక్తిపైనో కాక శాశ్వతమైన దానిపై నిలుపుకుంటాడు — వైరాగ్యశతకమూ భజగోవిందమూ పదేపదే చెప్పే ఈ హెచ్చరికకు మూలం అదే.",
     "en": "Shankara's stark verse on family affection asks a piercing question: is the love for the person, or for his usefulness? If devotion halts the moment earning stops, it was never love for the individual — only a transaction riding on his income. One who recognises this harsh truth early anchors his sense of self not in family regard or earning power but in something enduring — the same warning that echoes throughout both the Vairagya Shataka and the Bhaja Govindam."
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

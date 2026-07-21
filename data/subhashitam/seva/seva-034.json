@@ -2,7 +2,6 @@
   "id": "seva-034",
   "tags": [
     "seva",
-    "gita",
     "sthula-vibhuti"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (విభూతియోగము)",
     "name_en": "Srimad Bhagavad Gita (Vibhuti Yoga)",
-    "chapter": "10.41"
+    "chapter": "10.41",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యత్ | యత్ | విభూతిమత్ | సత్త్వమ్ | శ్రీమత్ | ఊర్జితమ్ | ఏవ | వా | తత్ | తత్ | ఏవ | అవగచ్ఛ | త్వమ్ | మమ | తేజః | అంశసంభవమ్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "విభూతియోగం మొత్తానికి ముగింపు సూత్రంగా నిలిచే శ్లోకం ఇది — వ్యక్తిగతంగా ఏకరువు పెట్టిన అనేక విభూతుల జాబితా తర్వాత, ఒక సార్వత్రిక సూత్రాన్ని ప్రకటిస్తుంది: ఎక్కడ వైభవం, సౌందర్యం, శక్తి కనిపించినా అది భగవత్తేజస్సులోని అంశమే. ఈ దృష్టి కలిగినవాడు ఏ గొప్పదనాన్ని చూసినా అసూయపడడు, భయపడడు — దానిలో దైవత్వాన్నే దర్శిస్తాడు. ప్రపంచంలోని ప్రతి శ్రేష్ఠతనూ దైవానికి దూరమైనదిగా కాక దైవానికి దగ్గరైనదిగా చూడగలగడమే ఈ శ్లోకం ఇచ్చే విస్తృతదృష్టి.",
     "en": "This verse serves as the closing principle of the entire Vibhuti Yoga chapter — after listing many individual manifestations, it declares a universal rule: wherever glory, beauty, or power is found, it is a fragment of the divine splendour itself. One who holds this vision neither envies nor fears any greatness they encounter — they see divinity within it. Seeing every excellence in the world as drawn near to the divine, rather than distant from it, is the expansive vision this verse offers."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

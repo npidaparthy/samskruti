@@ -3,7 +3,6 @@
   "tags": [
     "bhakti",
     "patram-pushpam",
-    "gita",
     "offering",
     "puja"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 9.26",
-    "name_en": "Bhagavad Gītā 9.26"
+    "name_en": "Bhagavad Gītā 9.26",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "పత్రం | పుష్పం | ఫలం | తోయం | యః | మే | భక్త్యా | ప్రయచ్ఛతి | తత్ | అహం | భక్తి-ఉపహృతం | అశ్నామి | ప్రయత-ఆత్మనః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "గీతలో ఇది భక్తి మార్గానికి అత్యంత ప్రోత్సాహకరమైన వాక్యం. కృష్ణుడు ఏం చెప్తున్నాడంటే — అర్పించే వస్తువు విలువ ముఖ్యం కాదు, అర్పించే భక్తి ముఖ్యం. పత్రం (ఆకు), పుష్పం (పువ్వు), ఫలం (పండు), తోయం (నీళ్ళు) — ఇవి అత్యంత సాధారణమైన, నిరుపేదలు కూడా ఇవ్వగలిగిన వస్తువులు. 'ప్రయతాత్మనః' — పవిత్ర ఆత్మ — ఇది అర్పణ విలువకు కాదు, అర్పించేవారి శుద్ధత భక్తికి. ఏ పేదరికంలోనూ భక్తి సాధన సాధ్యం — ఇది ఈ శ్లోకం ఇచ్చే ఒక గొప్ప ఓదార్పు.",
     "en": "Bhagavad Gītā 9.26 is one of the most beloved verses in the Gītā's bhakti teaching. The four items listed — leaf, flower, fruit, water — are the simplest and most widely available things on earth. The wealthiest and the poorest person alike can offer these. Kṛṣṇa's point is that the criterion for divine acceptance is not the monetary value of the offering but the quality of the devotion behind it ('bhaktyā') and the purity of the heart ('prayatātmanaḥ'). This verse demolishes any economic or social barrier to spiritual life: every person, regardless of station, can offer and be received by the Divine."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

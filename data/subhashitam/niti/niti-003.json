@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "హితోపదేశః",
     "name_en": "Hitopadeśa",
-    "chapter": "Mitralābha"
+    "chapter": "Mitralābha",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
   },
   "padavibhagam": {
     "te": "ఆలస్యమ్ | హి | మనుష్యాణామ్ | శరీరస్థః | మహారిపుః | న | అస్తి | ఉద్యమసమః | బన్ధుః | కృత్వా | యమ్ | న | అవసీదతి",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "బాహ్య శత్రువులకన్నా అంతర్గత శత్రువైన సోమరితనం మరింత ప్రమాదకరమైనది. ఇది మనిషిని లోపలి నుండే నాశనం చేస్తుంది. కానీ పరిశ్రమ అనే మిత్రుడు సదా రక్షిస్తాడు. పురుషార్థానికి పరిశ్రమే పునాది అని ఈ శ్లోకం బోధిస్తుంది.",
     "en": "External enemies are less dangerous than the internal enemy of laziness, which destroys from within. Effort, however, is the most faithful companion — it never abandons those who embrace it. This verse underscores that sustained effort (udyama) is the very foundation of all human achievement."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

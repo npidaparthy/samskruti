@@ -2,7 +2,6 @@
   "id": "vairagya-043",
   "tags": [
     "vairagya",
-    "gita",
     "svarupa-sthiti"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "5.19"
+    "chapter": "5.19",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "ఇహ | ఏవ | తైః | జితః | సర్గః | యేషామ్ | సామ్యే | స్థితమ్ | మనః | నిర్దోషమ్ | హి | సమమ్ | బ్రహ్మ | తస్మాత్ | బ్రహ్మణి | తే | స్థితాః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "మోక్షం మరణానంతరం సాధించవలసిన దూరమైన లక్ష్యం కాదని, ఇక్కడే ఇప్పుడే సాధించగలిగేదని చాటే గీత శ్లోకం. 'ఇహైవ' — ఈ జన్మలోనే — అన్న పదం స్పష్టం చేస్తుంది. మనసు సమత్వాన్ని పొందిన క్షణంలోనే, బ్రహ్మస్వరూపమైన సమత్వంతో అనుసంధానమవుతుందని, అదే జీవన్ముక్తి అని ఈ శ్లోకం చెబుతుంది. బ్రహ్మం 'నిర్దోషమ్', 'సమమ్' అనే రెండు గుణాలతో నిర్వచించబడటం విశేషం — దోషరహితత్వమూ, సమత్వమూ కలిగిన మనసే బ్రహ్మస్వరూపానికి అద్దం పడుతుందని చాటుతూ.",
     "en": "A Gita verse declaring that liberation is not a distant goal to be reached after death but something attainable here and now. The word 'ihaiva' — right here, in this very life — makes this explicit. The verse holds that the moment the mind attains equanimity, it connects with the equanimity that is the very nature of Brahman, and that itself is jivanmukti, liberation while living. It is notable that Brahman is defined by two qualities — 'nirdoṣam' and 'samam', flawless and equal — declaring that a mind free of flaw and holding equanimity is itself a mirror of Brahman's nature."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

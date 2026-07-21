@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత సంప్రదాయము",
     "name_en": "Subhashita tradition",
-    "chapter": "widely quoted maxim"
+    "chapter": "widely quoted maxim",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "అయమ్ | ఆత్మా | నదీతీరే | యథా | వృక్షః | న | తిష్ఠతి | పతన్తమ్ | ఉపకారాయ | తథా | జీవితమ్ | ఆత్మనః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "నదీతీరపు చెట్టు కోతకు లోనై ఎప్పుడో ఒకప్పుడు కూలిపోవడం ఖాయమన్న ప్రకృతిసత్యంతో, మానవ దేహపు అనిత్యత్వాన్ని పోల్చే శ్లోకం. దేహం శాశ్వతం కాదని తెలిసినప్పుడు రెండు ఎంపికలు మిగులుతాయి — వృథాగా వేచి ఉండటం, లేదా పడిపోకముందే దానిని సద్వినియోగం చేసుకోవడం. వైరాగ్యానికీ సేవకూ మధ్య వారధిగా నిలిచే ఈ శ్లోకం, దేహాశాశ్వతత్వాన్ని నిరాశకు కాక సేవాప్రేరణకు మార్చుకోమని బోధిస్తుంది — మిగిలిన సమయాన్ని అర్థవంతంగా వాడుకోవడమే వివేకమని.",
     "en": "This verse compares the impermanence of the human body to the natural certainty that a tree on an eroding riverbank will eventually fall. Once one knows the body is not permanent, two choices remain — to wait uselessly, or to put it to good use before it falls. Serving as a bridge between renunciation and service, this verse teaches that the body's impermanence should become not a cause for despair but a spur to service — using the time remaining meaningfully is what wisdom means here."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -15,7 +15,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "ఈశావాస్యోపనిషత్ 1",
-    "name_en": "Īśāvāsya Upaniṣad 1"
+    "name_en": "Īśāvāsya Upaniṣad 1",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "ఈశ-ఆవాస్యం | ఇదం | సర్వం | యత్-కిఞ్చ | జగత్యాం | జగత్ | తేన | త్యక్తేన | భుఞ్జీథాః | మా | గృధః | కస్య-స్విత్ | ధనం",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "ఈశావాస్యోపనిషత్ మొదటి శ్లోకం ఒక విశ్వ దృష్టిని ఇస్తుంది. సర్వం ఈశ్వరావాస్యం — ప్రతి వస్తువు, ప్రతి జీవి దైవంతో నిండినది. ఈ దృష్టి ఉంటే సేవ, ప్రేమ స్వాభావికంగా వస్తాయి. 'త్యక్తేన భుఞ్జీథాః' అన్న సూత్రం — అనుభవించు, కానీ అంటుకొనేలా కాదు; ఆనందించు, కానీ ఆసక్తి పెట్టుకోవద్దు. ఇది భోగాన్ని నిరాకరించడం కాదు — శుద్ధమైన భోగం. ఈ వాక్యం గాంధీజీకి జీవిత మూలమంత్రం.",
     "en": "The opening verse of the Īśāvāsya Upaniṣad establishes a total worldview in three clauses. First, the entire universe is pervaded by the Lord — this is the non-dual recognition that the sacred is not confined to temples but fills all existence. Second, 'enjoy through renunciation' (tyaktena bhuñjīthāḥ) — this does not demand asceticism but a spirit of trusteeship: use and enjoy what life offers without possessiveness. Third, do not covet — contentment with what one has, and non-interference with others'. Mahatma Gandhi called this single verse a complete summary of all ethics."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

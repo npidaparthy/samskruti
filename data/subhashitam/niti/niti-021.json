@@ -4,7 +4,6 @@
     "niti",
     "janani",
     "janmabhumish",
-    "ramayana",
     "deshabhakti"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — ardhavākya (half-verse)",
   "granthaH": {
     "name_te": "వాల్మీకి రామాయణం యుద్ధకాండ 6.124.17",
-    "name_en": "Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa 6.124.17"
+    "name_en": "Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa 6.124.17",
+    "grantha": "Rāmāyaṇa",
+    "grantha_te": "రామాయణమ్",
+    "grantha_sa": "रामायणम्"
   },
   "padavibhagam": {
     "te": "జననీ | జన్మభూమిః | చ | స్వర్గాత్ | అపి | గరీయసీ",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "లంకను జయించిన తరువాత విభీషణుడు శ్రీరాముడిని అక్కడే ఉండమని కోరినప్పుడు, రాముడు ఈ మాటలు పలికారు. సర్వ సమృద్ధులతో కూడిన లంక కంటే తన అయోధ్య గొప్పదని రాముడు స్పష్టం చేశారు. తల్లి పట్ల గౌరవం, జన్మభూమి పట్ల ప్రేమ — ఇవి భారతీయ సంస్కృతిలో అత్యున్నత విలువలు. ఈ వాక్యం దేశభక్తికి, మాతృ భక్తికి సర్వోత్తమ నిర్వచనంగా నిలిచింది.",
     "en": "These words were spoken by Rāma after the victory over Laṅkā, when Vibhīṣaṇa invited him to stay. Rāma declined, declaring that even the golden Laṅkā is inferior to his native Ayodhyā. The verse elevates two relationships — mother and motherland — above even the celestial realms, affirming that earthly bonds of love and belonging carry a spiritual weight beyond material paradise. This verse became one of the most quoted expressions of patriotism and filial devotion in Indian culture."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

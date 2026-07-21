@@ -15,7 +15,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter",
   "granthaH": {
     "name_te": "ఈశావాస్యోపనిషత్ శాంతిపాఠం / బృహదారణ్యకోపనిషత్ శాంతిపాఠం",
-    "name_en": "Īśāvāsya Upaniṣad Śānti pāṭha / Bṛhadāraṇyaka Upaniṣad Śānti pāṭha"
+    "name_en": "Īśāvāsya Upaniṣad Śānti pāṭha / Bṛhadāraṇyaka Upaniṣad Śānti pāṭha",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
   },
   "padavibhagam": {
     "te": "పూర్ణం | అదః | పూర్ణం | ఇదం | పూర్ణాత్ | పూర్ణం | ఉదచ్యతే | పూర్ణస్య | పూర్ణం | ఆదాయ | పూర్ణం | ఏవ | అవశిష్యతే",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "ఈ శాంతిపాఠం గణిత శాస్త్రం, తత్త్వశాస్త్రం, ఆధ్యాత్మిక శాస్త్రం మూడూ కలిసిన అద్భుత వాక్యం. 'అదః' అంటే నిర్గుణ బ్రహ్మ — పూర్ణమైనది. 'ఇదం' అంటే సగుణ జగత్తు — అదీ పూర్ణమైనదే. జగత్తు బ్రహ్మ నుండి వచ్చింది — కానీ బ్రహ్మ తగ్గిపోలేదు. అనంతం నుండి అనంతాన్ని తీసినా అనంతమే ఉంటుంది — ఇది గణిత సత్యం కూడా. ఈ వాక్యం అద్వైత సిద్ధాంతానికి పరాకాష్ఠ — ఏకం సత్, అనేక రూపాలు.",
     "en": "This śānti pāṭha from the Īśāvāsya and Bṛhadāraṇyaka Upaniṣads is a paradox that resolves into the highest truth. 'That' (adaḥ) is Brahman — infinite, full. 'This' (idam) is the manifest universe — also full, because it proceeds from Brahman without diminishing it. Mathematically, infinity minus infinity equals infinity — which is exactly what the verse states: take the full from the full, and the full alone remains. This is the Advaitic insight that creation is not a diminishment of the Absolute but its expression — the world is not separate from Brahman but is Brahman appearing as multiplicity."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

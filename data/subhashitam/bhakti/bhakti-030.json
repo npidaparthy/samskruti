@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "హనుమద్వచనము (భక్తిసంప్రదాయము)",
     "name_en": "Attributed to Hanuman (bhakti tradition)",
-    "chapter": "traditional verse"
+    "chapter": "traditional verse",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
   },
   "padavibhagam": {
     "te": "దేహబుద్ధ్యా | తు | దాసః | అహమ్ | జీవబుద్ధ్యా | త్వదంశకః | ఆత్మబుద్ధ్యా | త్వమ్ | ఏవ | అహమ్ | ఇతి | మే | నిశ్చితా | మతిః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "హనుమంతునికి ఆపాదించే ఈ శ్లోకం భక్తిమార్గంలోని మూడు అవగాహనాస్థాయిలనూ ఒకే వాక్యంలో ఇముడుస్తుంది — దాస్యభావం, అంశభావం, ఐక్యభావం. వేటినీ తిరస్కరించకుండా మూడింటినీ ఒకేసారి అంగీకరించడంలోనే ఈ శ్లోకపు గొప్పతనం ఉంది: శరీరస్థాయిలో సేవకుడిగా వినమ్రత, జీవస్థాయిలో అంశం అనే బంధుత్వం, ఆత్మస్థాయిలో పరిపూర్ణ అద్వైతం. ద్వైతమూ అద్వైతమూ పరస్పర విరుద్ధాలు కావని, భక్తుని పరిణతి పెరిగే కొద్దీ అవి ఒకదానిలోకి ఒకటి ఐక్యమవుతాయని చూపే ఈ శ్లోకం భక్తిదర్శనానికి సమన్వయ సూత్రం.",
     "en": "Attributed to Hanuman, this verse folds three levels of understanding in the bhakti path into a single statement — servanthood, partial identity, and complete oneness. Its greatness lies in affirming all three at once rather than choosing between them: humility as servant at the level of the body, kinship as a part of the divine at the level of the soul, and total non-duality at the level of the Self. It shows that dualism and non-dualism are not opposites but stages that merge into one another as a devotee's understanding deepens — a reconciling principle for the whole vision of devotion."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

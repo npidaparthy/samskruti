@@ -2,7 +2,6 @@
   "id": "dharma-051",
   "tags": [
     "dharma",
-    "gita",
     "sarva-yajna"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానకర్మసంన్యాసయోగము)",
     "name_en": "Srimad Bhagavad Gita (Jnana Karma Sannyasa Yoga)",
-    "chapter": "4.33"
+    "chapter": "4.33",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "శ్రేయాన్ | ద్రవ్యమయాత్ | యజ్ఞాత్ | జ్ఞానయజ్ఞః | పరన్తప | సర్వమ్ | కర్మ | అఖిలమ్ | పార్థ | జ్ఞానే | పరిసమాప్యతే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "అనేక రకాల యజ్ఞాలను వివరించిన తర్వాత, గీత వాటన్నింటి కన్నా జ్ఞానయజ్ఞాన్ని అత్యున్నత స్థానంలో నిలుపుతుంది. ద్రవ్యయజ్ఞం బాహ్యవస్తువులతో చేసేది, పరిమితమైనది; జ్ఞానయజ్ఞం అంతర్గతమైనది, శాశ్వతమైనది. 'సర్వం కర్మాఖిలం జ్ఞానే పరిసమాప్యతే' అన్న వాక్యం లోతైనది — ఏ కర్మ చేసినా, చివరకు అది జ్ఞానోదయానికే దారి తీయాలని, జ్ఞానమే అన్ని సాధనల అంతిమగమ్యమని చెబుతుంది. కర్మ మార్గం, భక్తి మార్గం — ఏది అనుసరించినా అన్నీ చివరకు జ్ఞానంలోనే పరిపూర్ణత చెందుతాయని ఈ శ్లోకం సూచిస్తుంది.",
     "en": "After describing many types of sacrifice, the Gita places the sacrifice of knowledge above all of them. Material sacrifice works with external objects and is limited; the sacrifice of knowledge is internal and lasting. The line 'sarvaṃ karmākhilaṃ jñāne parisamāpyate' is profound — whatever action is performed, it must ultimately lead to the dawning of knowledge, for knowledge is the final destination of every practice. Whether one follows the path of action or the path of devotion, this verse suggests, all paths find their fulfilment in knowledge."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

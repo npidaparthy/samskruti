@@ -2,7 +2,6 @@
   "id": "karma-001",
   "tags": [
     "karma",
-    "gita",
     "adhikara",
     "phala"
   ],
@@ -15,7 +14,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత",
     "name_en": "Bhagavad Gītā",
-    "chapter": "2.47 (Kṛṣṇa to Arjuna)"
+    "chapter": "2.47 (Kṛṣṇa to Arjuna)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "కర్మణి | ఏవ | అధికారః | తే | మా | ఫలేషు | కదాచన | మా | కర్మఫలహేతుః | భూః | మా | తే | సఙ్గః | అస్తు | అకర్మణి",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "భగవద్గీత యొక్క సారాంశమైన ఈ శ్లోకం కర్మయోగాన్ని ప్రతిపాదిస్తుంది. ఫలితం నిన్ను నడిపించకూడదు — కర్మ నిన్ను నడిపించాలి. ఫలాపేక్ష లేకుండా నిష్ఠగా పని చేయడమే 'నిష్కామ కర్మ'. ఈ సిద్ధాంతం ఆధునిక మేనేజ్‌మెంట్ శాస్త్రంలో 'intrinsic motivation' అనే భావనతో సమానం.",
     "en": "This verse — the heart of the Bhagavad Gītā — defines karma yoga: perform your duty without being enslaved to outcomes. When the result does not drive you, the work itself becomes pure. This is 'niṣkāma karma' (desireless action). Modern management science echoes this as 'intrinsic motivation' — doing what is right, regardless of reward."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

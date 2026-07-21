@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మనుస్మృతి",
     "name_en": "Manusmriti",
-    "chapter": "2.121"
+    "chapter": "2.121",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "అభివాదనశీలస్య | నిత్యమ్ | వృద్ధోపసేవినః | చత్వారి | తస్య | వర్ధన్తే | ఆయుః | విద్యా | యశః | బలమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "వినయం కేవలం సంస్కారం కాదు — అది వృద్ధికి మార్గం అని మనువు చెబుతున్నాడు. పెద్దల అనుభవం ముందు తలవంచినవాడు వారి జ్ఞానాన్నీ, ఆశీస్సులనూ పొందుతాడు; అహంకారి ఆ ద్వారాన్ని తానే మూసుకుంటాడు. నమస్కారం చేసేవాడు చిన్నవాడు కాడు — పెరిగేవాడు అన్నది ఈ శ్లోక సారం.",
     "en": "Humility, Manu says, is not mere etiquette — it is a path of growth. One who bows before the experience of elders receives their knowledge and their blessing; the arrogant close that door on themselves. The one who bows is not diminished — he is the one who grows."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

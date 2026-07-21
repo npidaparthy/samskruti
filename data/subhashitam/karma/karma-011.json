@@ -4,7 +4,6 @@
     "karma",
     "sarvarambhah",
     "dosha",
-    "gita",
     "imperfection"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 18.48",
-    "name_en": "Bhagavad Gītā 18.48"
+    "name_en": "Bhagavad Gītā 18.48",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "సహజం | కర్మ | కౌన్తేయ | స-దోషం | అపి | న | త్యజేత్ | సర్వ-ఆరమ్భాః | హి | దోషేణ | ధూమేన | అగ్నిః | ఇవ | ఆవృతాః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకం పరిపూర్ణత కోసం కర్మను వదిలిపెట్టే ధోరణిని ఖండిస్తుంది. ఈ లోకంలో ఏ కార్యమూ పూర్తి నిర్దోషంగా ఉండదు — అగ్నికి పొగ ఉన్నట్లు. కానీ అగ్ని తాపం ఇస్తుంది, వంట చేస్తుంది — పొగ ఉన్నా దాని పని చేస్తుంది. అదే విధంగా మన సహజ కర్మ — అందులో లోపాలున్నా పాటిస్తే జీవితం సాగుతుంది. పరిపూర్ణత కాదు, నిరంతర సాధన ముఖ్యమైనది. స్వధర్మాన్ని పాటించడమే గీత ఉపదేశం.",
     "en": "This verse from the Gītā's final chapter addresses the tendency to abandon duty because it seems imperfect or involves unavoidable flaws. Kṛṣṇa uses the brilliant simile of fire and smoke: fire's essence is heat and light, but it always comes with smoke. Similarly, every undertaking involves some imperfection — some harm, some compromise, some limitation. The key is not to wait for perfect conditions but to fulfil one's innate duty (sahaja karma) despite its imperfections. This is realistic wisdom: demanding perfection as a condition for action leads only to paralysis."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

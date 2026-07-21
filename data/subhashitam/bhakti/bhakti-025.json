@@ -2,7 +2,6 @@
   "id": "bhakti-025",
   "tags": [
     "bhakti",
-    "gita",
     "buddhiyoga"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (విభూతియోగము)",
     "name_en": "Srimad Bhagavad Gita (Vibhuti Yoga)",
-    "chapter": "10.10"
+    "chapter": "10.10",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "తేషామ్ | సతతయుక్తానామ్ | భజతామ్ | ప్రీతిపూర్వకమ్ | దదామి | బుద్ధియోగమ్ | తమ్ | యేన | మామ్ | ఉపయాన్తి | తే",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "ఆధ్యాత్మిక మార్గంలో అపూర్వమైన మలుపు చూపే శ్లోకం — ఒక దశ దాటాక సాధకుని ప్రయత్నానికి భగవదనుగ్రహమే తోడై నడిపిస్తుంది. కావలసిన అర్హతలు రెండే: నిరంతర స్మరణ ('సతతయుక్తానాం'), ప్రేమతో చేసే భజన ('ప్రీతిపూర్వకమ్') — పాండిత్యం కాదు. ప్రేమతో వెతికేవానికి దారి చూపే బాధ్యతను గమ్యమే తీసుకుంటుంది; భక్తుడు వేసే ఒక్కొక్క అడుగుకూ భగవంతుడు పది అడుగులు ఎదురు వస్తాడన్న భక్తిసంప్రదాయపు విశ్వాసానికి ఇదే గీతాప్రమాణం.",
     "en": "A verse that marks a remarkable turn on the spiritual path — beyond a certain point, the seeker's effort is met and carried by grace itself. Only two qualifications are named: constant remembrance ('satatayuktānām') and worship offered in love ('prītipūrvakam') — scholarship is not among them. For one who seeks with love, the destination itself assumes the duty of showing the way; this is the Gita's own warrant for the bhakti tradition's faith that for every step the devotee takes, the Lord takes ten steps forward."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

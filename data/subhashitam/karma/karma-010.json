@@ -3,7 +3,6 @@
   "tags": [
     "karma",
     "buddhiyukta",
-    "gita",
     "nishkama",
     "yoga"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 2.50",
-    "name_en": "Bhagavad Gītā 2.50"
+    "name_en": "Bhagavad Gītā 2.50",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "బుద్ధి-యుక్తః | జహాతి | ఇహ | ఉభే | సు-కృత | దుష్కృతే | తస్మాత్ | యోగాయ | యుజ్యస్వ | యోగః | కర్మసు | కౌశలం",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకంలో 'యోగః కర్మసు కౌశలం' అన్న నిర్వచనం అత్యంత ప్రసిద్ధమైనది. యోగం కేవలం ఆసనాలు కాదు — కర్మలలో ఒక దక్షత, ఒక నేర్పు. సమబుద్ధితో చేసే కర్మ పుణ్య-పాప బంధాలను కలిగించదు. ఫలాసక్తి లేకుండా చేసే కర్మ సంసారాన్ని పెంచదు — ముక్తికి దారి తీస్తుంది. 'బుద్ధియోగ' అన్నది గీత యొక్క ముఖ్య సాధన — సమబుద్ధితో, ప్రశాంతంగా, ఫలాపేక్ష లేకుండా చేయడం.",
     "en": "The phrase 'yogaḥ karmasu kauśalam' — yoga is skill in action — is among the most celebrated definitions in the Gītā. This skill is not mere technical proficiency but the inner art of acting from a place of equanimity, without ego-investment in outcomes. The 'buddhi-yukta' person — one united with wisdom — transcends the merit-and-sin framework entirely, because such a person neither covets good results nor dreads bad ones. The verse thus points to karma yoga as a complete path to liberation, not through withdrawal from action but through the transformation of the actor's inner state."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

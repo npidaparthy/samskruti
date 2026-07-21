@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మహాభారతము (స్వర్గారోహణపర్వము)",
     "name_en": "Mahabharata (Svargarohana Parva)",
-    "chapter": "18.5.49 — Vyasa's closing cry"
+    "chapter": "18.5.49 — Vyasa's closing cry",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
   },
   "padavibhagam": {
     "te": "ఊర్ధ్వబాహుః | విరౌమి | ఏషః | న | చ | కశ్చిత్ | శృణోతి | మే | ధర్మాత్ | అర్థః | చ | కామః | చ | సః | కిమర్థమ్ | న | సేవ్యతే",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "లక్ష శ్లోకాల మహాభారతాన్ని ముగిస్తూ వ్యాసమహర్షి పలికిన ఆవేదన ఇది. మనుషులు అర్థకామాల వెంట పరుగెడతారు; కానీ వాటికి స్థిరమైన పునాది ధర్మమే అన్న సత్యాన్ని వినరు. అధర్మంతో వచ్చిన సంపదా సుఖమూ నిలవవు అన్నది భారతం మొత్తం చెప్పిన కథ. వేల సంవత్సరాల తర్వాత కూడా ఈ మొర అలాగే ఉంది — వినేవారు నేటికీ అరుదే.",
     "en": "This is Vyasa's anguished cry as he closes the hundred-thousand-verse Mahabharata. People chase wealth and pleasure, but will not hear the truth that dharma alone is their lasting foundation. Riches and joys gained through adharma do not endure — that is the story the entire epic tells. Millennia later the cry still stands, and listeners remain as rare as ever."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

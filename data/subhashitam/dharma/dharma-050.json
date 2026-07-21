@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మనుస్మృతి",
     "name_en": "Manusmriti",
-    "chapter": "1.108"
+    "chapter": "1.108",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "ఆచారః | పరమః | ధర్మః | శ్రుత్యుక్తః | స్మార్తః | ఏవ | చ | తస్మాత్ | అస్మిన్ | సదా | యుక్తః | నిత్యమ్ | స్యాత్ | ఆత్మవాన్ | ద్విజః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ధర్మశాస్త్రానికి పునాదిగా నిలిచే మనువాక్యం ఇది — గ్రంథాలలో చెప్పిన సూత్రాల కన్నా, నిత్యజీవితంలో పాటించే ఆచారమే అంతిమ ప్రమాణమని ప్రకటించడం. వేదాలూ స్మృతులూ రెండూ ఏకగ్రీవంగా ఆచారాన్ని ఉన్నత స్థానంలో నిలుపుతాయని చెప్పడంలో — సిద్ధాంతాలు ఎంత గొప్పవైనా, అవి ఆచరణలోకి రాకపోతే నిష్ప్రయోజనమని సూచన దాగి ఉంది. తెలిసినదాన్ని ఎంత చెప్పగలమన్నది కాదు, ఎంత జీవించగలమన్నదే అసలైన కొలబద్ద అని ఈ శ్లోకం చాటుతుంది — జ్ఞానానికీ ఆచరణకూ మధ్య వారధిగా నిలిచే సూత్రం ఇది.",
     "en": "This statement by Manu stands as a foundation of dharmashastra — declaring that lived, daily conduct is the ultimate authority, above even the principles set down in texts. That both the Vedas and the Smritis unanimously place conduct at the highest level carries a quiet suggestion — however great a doctrine may be, it is useless if never translated into practice. This verse holds that the true measure is not how much one can recite of what one knows, but how much one can live — a bridge between knowledge and practice."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

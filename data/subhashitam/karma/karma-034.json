@@ -2,7 +2,6 @@
   "id": "karma-034",
   "tags": [
     "karma",
-    "gita",
     "traigunya"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
     "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
-    "chapter": "2.45"
+    "chapter": "2.45",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "త్రైగుణ్యవిషయాః | వేదాః | నిస్త్రైగుణ్యః | భవ | అర్జున | నిర్ద్వన్ద్వః | నిత్యసత్త్వస్థః | నిర్యోగక్షేమః | ఆత్మవాన్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "కర్మకాండలో మునిగిపోయే వేదాధ్యయనాన్ని దాటి, గుణాతీతస్థితికి చేరమని కృష్ణుడు ఇచ్చిన తొలి పిలుపు ఇది. వేదాలు లోకవ్యవహారాన్ని — స్వర్గం, ఫలం, కర్మకాండ — నిర్దేశిస్తాయి; ఇవన్నీ త్రిగుణాల పరిధిలోనే ఉంటాయి. కానీ నిజమైన సాధకుడు ఆ పరిధిని దాటి ముందుకు సాగాలని ఈ శ్లోకం సూచిస్తుంది. 'నిర్యోగక్షేమః' అన్న పదం విశేషమైనది — దేనినీ కొత్తగా సంపాదించాలన్న ఆత్రుత లేకుండా, ఉన్నదాన్ని కాపాడుకోవాలన్న భయమూ లేకుండా జీవించగలగడమే నిజమైన ఆత్మనిష్ఠ అని చెబుతుంది.",
     "en": "This is Krishna's first call to move beyond Vedic study steeped in ritual action toward transcending the gunas altogether. The Vedas govern worldly matters — heaven, reward, ritual — all within the domain of the three gunas. But the true seeker, this verse suggests, must move beyond that domain. The word 'niryogakṣemaḥ' is notable — living without the eagerness to acquire something new and without the fear of losing what one has is what true self-possession means."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

@@ -2,7 +2,6 @@
   "id": "karma-018",
   "tags": [
     "karma",
-    "gita",
     "manas"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (ఆత్మసంయమయోగము)",
     "name_en": "Srimad Bhagavad Gita (Dhyana Yoga)",
-    "chapter": "6.6"
+    "chapter": "6.6",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "బన్ధుః | ఆత్మా | ఆత్మనః | తస్య | యేన | ఆత్మా | ఏవ | ఆత్మనా | జితః | అనాత్మనః | తు | శత్రుత్వే | వర్తేత | ఆత్మా | ఏవ | శత్రువత్",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "జీవితంలోని అతి పెద్ద యుద్ధం బయటివారితో కాదు — లోపలి మనసుతో అని గీత తేల్చిచెప్పిన శ్లోకం. ఒకే మనసు: సాధన చేసినవానికి అది గుర్రంలా స్వారీకి లొంగుతుంది; విడిచిపెట్టినవానికి అదే మనసు వ్యసనాల వైపు, భయాల వైపు ఈడ్చుకుపోయే శత్రువవుతుంది. బాహ్యశత్రువును ఒకసారి గెలిస్తే చాలు; అంతఃశత్రువుతో సంధి నిత్యసాధనతోనే. మిత్రుడూ శత్రువూ ఇద్దరూ మనలోనే ఉన్నారన్న ఈ ఎరుకే ఆత్మసంయమానికి మొదటి మెట్టు.",
     "en": "Life's greatest war, the Gita declares, is not with anyone outside — it is with the mind within. The same mind: disciplined, it serves like a well-broken horse; neglected, it becomes the enemy dragging one toward addictions and fears. An external foe need be defeated once; the truce with the inner one is kept only by daily practice. Both the friend and the enemy live within us — knowing this is the first step of self-mastery."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

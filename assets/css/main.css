@@ -1621,6 +1621,26 @@ body.parayanam-mode .bottom-nav-back { display: none; }
   background: var(--c-primary); color: #fff; border-color: var(--c-primary);
 }
 .sub-count { font-size: 0.78rem; color: var(--c-text-muted); white-space: nowrap; }
+/* Chandas educational panel */
+.chanda-panel {
+  margin: 0.75rem 1rem 0; padding: 0.85rem 1rem;
+  background: var(--c-surface2); border: 1px solid var(--c-border);
+  border-left: 3px solid var(--c-primary); border-radius: 8px;
+}
+.chanda-panel-head { font-weight: 600; font-size: 0.95rem; color: var(--c-text); }
+.chanda-class {
+  font-size: 0.68rem; font-weight: 500; color: var(--c-primary);
+  border: 1px solid var(--c-primary); border-radius: 10px;
+  padding: 1px 8px; margin-left: 6px; vertical-align: middle;
+}
+.chanda-sutra {
+  margin-top: 0.5rem; font-size: 0.95rem; line-height: 1.6;
+  color: var(--c-text); font-style: italic;
+}
+.chanda-facts { display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; margin-top: 0.5rem; }
+.chanda-fact { font-size: 0.8rem; color: var(--c-text-muted); }
+.chanda-fact b { color: var(--c-text); font-weight: 600; }
+.chanda-note { margin-top: 0.5rem; font-size: 0.82rem; color: var(--c-text-muted); line-height: 1.5; }
 .sub-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));

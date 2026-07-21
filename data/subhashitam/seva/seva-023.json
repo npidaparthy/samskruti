@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "మనుస్మృతి",
     "name_en": "Manusmriti",
-    "chapter": "traditional citation"
+    "chapter": "traditional citation",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
   },
   "padavibhagam": {
     "te": "సర్వేషామ్ | ఏవ | దానానామ్ | బ్రహ్మదానమ్ | విశిష్యతే | తోయాన్నవస్త్రధాన్యానామ్ | దానాత్ | తు | బహుపుణ్యదమ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "దానాలలో స్థాయిక్రమాన్ని నిర్దేశించే ఈ శ్లోకంలో విద్యాదానం అగ్రస్థానంలో నిలుస్తుంది — ఎందుకంటే భౌతికదానాలు తాత్కాలిక అవసరాన్ని తీరుస్తాయి, విద్యాదానం జీవితకాల సాధనమిస్తుంది. ఆకలి తీర్చే అన్నం మరుసటిరోజుకు మళ్ళీ కావాలి; నేర్పిన విద్య జీవితాంతం ఉపయోగపడుతుంది, తరాలకు అందించబడుతుంది కూడా. 'చేపను ఇవ్వడం కాదు, చేప పట్టడం నేర్పడం' అనే ఆధునిక నానుడికి వేల ఏళ్ళ ముందే భారతీయ ధర్మశాస్త్రం ఇచ్చిన ప్రాతినిధ్యం ఇది.",
     "en": "In this hierarchy of gifts, the gift of knowledge stands at the summit — because material gifts meet a temporary need, while the gift of learning provides a tool for a lifetime. Food that satisfies hunger must be given again the next day; knowledge once imparted serves for a lifetime and can even be passed on to future generations. This is dharmashastra's representation, millennia ahead of the modern saying, of teaching a person to fish rather than merely giving them a fish."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

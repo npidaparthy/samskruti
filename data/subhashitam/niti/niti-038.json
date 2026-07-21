@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి నీతిశతకము",
     "name_en": "Bhartrhari's Niti Shataka",
-    "chapter": "verse 5"
+    "chapter": "verse 5",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "లభేత | సికతాసు | తైలమ్ | అపి | యత్నతః | పీడయన్ | పిబేత్ | చ | మృగతృష్ణికాసు | సలిలమ్ | పిపాసార్దితః | కదాచిత్ | అపి | పర్యటన్ | శశవిషాణమ్ | ఆసాదయేత్ | న | తు | ప్రతినివిష్ట | మూర్ఖజనచిత్తమ్ | ఆరాధయేత్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "మూడు అసంభవాలను 'సాధ్యమే' అని ఒప్పుకుని, నాలుగవదాన్ని మాత్రం అసాధ్యమని తేల్చే భర్తృహరి వ్యంగ్యశైలి ఇక్కడ శిఖరస్థాయిలో ఉంది. కీలకపదం 'ప్రతినివిష్ట' — తెలియనివాడు కాదు, తెలుసుకోనని భీష్మించుకున్నవాడు. అజ్ఞానికి నేర్పవచ్చు; తనకు అన్నీ తెలుసనుకున్న మొండివాడికి మాత్రం ఏ తర్కమూ చేరదు. అలాంటివారితో వాదనలో గెలవాలనుకోవడం శక్తి వృథా అనీ, మౌనంగా తప్పుకోవడమే వివేకమనీ ఈ శ్లోకపు ఆచరణ పాఠం.",
     "en": "Bhartrhari's irony at its peak — three impossibilities graciously conceded as 'possible', so that the fourth may stand alone as truly hopeless. The key word is 'pratiniviṣṭa' — not the ignorant man, but the one entrenched in refusal to know. The unlearned can be taught; the stubborn man convinced of his own omniscience is beyond the reach of any logic. The practical lesson: winning an argument with such a person is wasted strength — the wise quietly step aside."
-  }
+  },
+  "chanda_key": "prithvi",
+  "chanda_sa": "पृथ्वी",
+  "chanda_te": "పృథ్వీ"
 }

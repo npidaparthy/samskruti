@@ -3,7 +3,6 @@
   "tags": [
     "karma",
     "yatkaroshi",
-    "gita",
     "arpana",
     "surrender"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 9.27",
-    "name_en": "Bhagavad Gītā 9.27"
+    "name_en": "Bhagavad Gītā 9.27",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యత్ | కరోషి | యత్ | అశ్నాసి | యత్ | జుహోషి | దదాసి | యత్ | యత్ | తపస్యసి | కౌన్తేయ | తత్ | కురుష్వ | మత్-అర్పణం",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "భగవద్గీతలో భక్తి యోగానికి ఇదొక శిఖరం. ప్రతి చర్యను — తినడం, పని చేయడం, యజ్ఞం, దానం, తపస్సు — ఒక అర్పణగా మార్చాలి. 'మదర్పణం' అన్న పదం రోజువారీ జీవితాన్నే సాధనగా మార్చే రహస్యం. ఏ పని అయినా భగవంతుడికి అర్పిస్తే అహంకారం తగ్గుతుంది, ఫలాపేక్ష పోతుంది. ఇది కర్మ యోగం మరియు భక్తి యోగం రెండింటి సమ్మేళనం. ఆధునిక జీవితంలో ప్రతి పనిలో దివ్యత్వాన్ని చూడటానికి ఈ వాక్యం మార్గదర్శకం.",
     "en": "This verse from the Gītā (9.27) is a master key to transforming all of life into worship. Rather than confining spiritual practice to designated times of prayer or ritual, Kṛṣṇa instructs Arjuna to offer everything — eating, working, sacrificing, giving, practising austerities — as an offering to the Divine. The principle of 'madārpaṇam' — offered to Me — is the alchemy that converts the mundane into the sacred. It is the meeting point of karma yoga (action) and bhakti yoga (devotion). Nothing is excluded: even the act of eating becomes prasāda when done with this spirit of offering."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

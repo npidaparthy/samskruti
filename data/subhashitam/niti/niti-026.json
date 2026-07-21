@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "పంచతన్త్రము (మిత్రలాభః)",
     "name_en": "Panchatantra (Mitralabha)",
-    "chapter": "Mitralabha 1.361 (also Hitopadesha)"
+    "chapter": "Mitralabha 1.361 (also Hitopadesha)",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
   },
   "padavibhagam": {
     "te": "ఉద్యోగినమ్ | పురుషసింహమ్ | ఉపైతి | లక్ష్మీః | దైవేన | దేయమ్ | ఇతి | కాపురుషాః | వదన్తి | దైవమ్ | నిహత్య | కురు | పౌరుషమ్ | ఆత్మశక్త్యా | యత్నే | కృతే | యది | న | సిధ్యతి | కః | అత్ర | దోషః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ శ్లోకం పురుషప్రయత్నానికి పంచతన్త్రం ఇచ్చిన అత్యుత్తమ నిర్వచనం. దైవం మీద భారం వేసి కూర్చోవడం అలసత్వానికి ముసుగు మాత్రమే. కర్తవ్యం మనది, ఫలితం అనేక అంశాలపై ఆధారపడుతుంది — కానీ ప్రయత్నించి విఫలమైనవాడు నిందార్హుడు కాడు; ప్రయత్నించనివాడే. లక్ష్మి కదిలేవాడినే వరిస్తుంది అన్నది ఇక్కడి సూత్రం.",
     "en": "This is the Panchatantra's finest statement on human effort. Leaning on fate is merely a mask for laziness. Effort is ours; the outcome depends on many factors — but the one who tries and fails deserves no blame; only the one who never tries does. Fortune, the verse insists, favours those in motion."
-  }
+  },
+  "chanda_key": "vasantatilaka",
+  "chanda_sa": "वसन्ततिलका",
+  "chanda_te": "వసన్తతిలకా"
 }

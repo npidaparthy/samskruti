@@ -15,7 +15,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Cāṇakya Nīti",
-    "chapter": "Chapter 1"
+    "chapter": "Chapter 1",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "పృథివ్యామ్ | త్రీణి | రత్నాని | జలమ్ | అన్నమ్ | సుభాషితమ్ | మూఢైః | పాషాణఖణ్డేషు | రత్నసంజ్ఞా | విధీయతే",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "జీవనానికి అత్యవసరమైనవి — జలం, అన్నం — మరియు జీవితాన్ని సుసంపన్నం చేసే సుభాషితం ఇవే నిజమైన రత్నాలు. భౌతిక వస్తువులను విలువైనవిగా భావించి, ఈ మూల అవసరాలను నిర్లక్ష్యం చేయడం అజ్ఞానమని చాణక్యుడు హెచ్చరిస్తున్నాడు. ఇందులో 'సుభాషితం' ను రత్నంగా చేర్చడం విశేషం — మంచి మాట, జ్ఞానం కూడా మనిషికి అంతే అవసరమని భావన.",
     "en": "Water and food sustain life; good speech (subhāṣitam) enriches it. Cāṇakya places wisdom alongside the most basic necessities of life, arguing that knowledge and good counsel are as indispensable as food and water. The irony — that people call gemstones 'precious' while ignoring what truly sustains them — is a timeless observation about misplaced values."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

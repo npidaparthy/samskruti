@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "నిర్వ్యాజమ్ | నయనమ్ | ముఖమ్ | చ | మధురమ్ | నాభీసరః | నిర్మలమ్ | వాచః | మధురాక్షరాః | చ | మధురమ్ | జ్ఞానమ్ | చ | యస్యాః | సదా | సా | నారీ | సకలేషు | దుర్లభతమా | రత్నమ్ | యథా | భూతలే | సర్వమ్ | కాంచనమ్ | ఏవ | న | ఇతి | వచనమ్ | మిథ్యా | ఇతి | యుక్తమ్ | భువి",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "బాహ్యసౌందర్యానికీ అంతర్గత గుణానికీ మధ్య వ్యత్యాసాన్ని చూపే శ్లోకం — నిజమైన అరుదైన సౌందర్యం రూపంలో మాత్రమే కాదు, స్వభావంలో కూడా ఉండాలని. కంటిలో కపటం లేకపోవడం, మాటలో మధురత్వం, జ్ఞానంలో మృదుత్వం — ఇవన్నీ లోపలి నుండి వ్యక్తమయ్యే గుణాలు, పైపై అలంకారం కాదు. చివరి పంక్తిలోని 'సర్వం కాంచనమేవ న' అన్న లోకోక్తి — అందమైనదంతా అమూల్యం కాదు, అమూల్యమైనదేదో అరుదుగా దొరుకుతుంది అన్న సందేశాన్ని బలపరుస్తుంది.",
     "en": "A verse distinguishing outer beauty from inner virtue — insisting that true rarity of beauty must live in nature, not just in form. Guilelessness in the eye, sweetness in speech, gentleness in knowledge — these are qualities expressed from within, not mere outward ornament. The closing proverb, 'not all that glitters is gold,' reinforces the message: not everything beautiful is precious, and what is truly precious is rarely found."
-  }
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
 }

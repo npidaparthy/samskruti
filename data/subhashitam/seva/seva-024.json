@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "సుభాషిత రత్నభాండాగారము",
     "name_en": "Subhashita Ratnabhandagara",
-    "chapter": "traditional subhashitam"
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "వృక్షాః | సజ్జనవత్ | ప్రాయః | లోకోపకృతిహేతవః | భవన్తి | ఛాయయా | క్వాపి | ఫలైః | పుష్పైః | అథ | అపి | వా",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "సజ్జనుల స్వభావాన్ని చెట్లతో పోల్చే ఈ ఉపమానంలోని లోతు — ప్రతి చెట్టూ ఒకేలా ఉపయోగపడదు, కానీ ప్రతి చెట్టూ ఏదో ఒక రూపంలో లోకానికి ఇస్తూనే ఉంటుంది. అలాగే సజ్జనులు కూడా ఒకే మూసలో సేవ చేయరు — ఒకరు జ్ఞానంతో, మరొకరు ధనసహాయంతో, ఇంకొకరు కేవలం తమ ఉనికితోనే సాంత్వననిస్తారు. ప్రతి వ్యక్తీ తనదైన రీతిలో లోకానికి ఉపయోగపడగలడని, సేవకు ఒకే మూస అవసరం లేదని ఈ శ్లోకం సున్నితంగా బోధిస్తుంది.",
     "en": "The depth of this comparison between the good and trees lies here — not every tree serves the same way, yet every tree gives something to the world in some form. Likewise, the virtuous do not serve in a single mould either — one through wisdom, another through material help, yet another simply through their comforting presence. Every person can be of use to the world in their own particular way; service, this verse gently teaches, needs no single template."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

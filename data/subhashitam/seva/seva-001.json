@@ -15,7 +15,10 @@
   "granthaH": {
     "name_te": "పురాణోక్తమ్ / భర్తృహరి నీతిశతకమ్",
     "name_en": "Nītiśataka (attr. Bhartṛhari) / Purāṇa tradition",
-    "chapter": ""
+    "chapter": "",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "పరహితమ్ | యస్య | మనసః | ప్రవృత్తయః | పరహితే | యస్య | రతమ్ | మనః | నిశమ్ | సః | సకలస్య | జగతః | ప్రియః | భవేత్ | పరహితాసక్తమనాః | స్వయమ్ | హరిః",
@@ -32,5 +35,8 @@
   "tatparyam": {
     "te": "పరసేవయే ప్రభుసేవ — ఇది ఈ శ్లోకం యొక్క సారం. ఇతరుల మేలు కోసం జీవించే వ్యక్తి మాత్రమే లోకప్రియుడు కాగలడు. ముఖ్యంగా — 'హరి కూడా పరహితాసక్తమనాః' అని చెప్పడం విశేషం. దైవం పరోపకారిని ఇష్టపడతాడు, ఎందుకంటే దైవం తానే పరోపకారిణి.",
     "en": "Service to others is service to the divine — that is the essence of this verse. The person whose very thought-current flows toward others' welfare becomes universally beloved. The deepest insight here: 'Hari himself has a heart devoted to others.' The divine loves the servant of humanity because the divine is the supreme servant. This is the theology behind seva (service) as a path to God."
-  }
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
 }

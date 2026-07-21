@@ -14,7 +14,10 @@
   "chandaH": "ఆర్యా (Āryā) — syllabic metre with 12+18 morae",
   "granthaH": {
     "name_te": "భర్తృహరి నీతిశతకం",
-    "name_en": "Bhartṛhari — Nītiśataka"
+    "name_en": "Bhartṛhari — Nītiśataka",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "దానం | భోగః | నాశః | తిస్రః | గతయః | భవన్తి | విత్తస్య | యః | న | దదాతి | న | భుఙ్క్తే | తస్య | తృతీయా | గతిః | భవతి",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "ధనాన్ని దానంలోనో, సద్వినియోగంలోనో వాడని వ్యక్తి చివరకు పోగొట్టుకుంటాడు — చోరీ ద్వారా, పన్ను ద్వారా, లేదా వృద్ధాప్యంలో. ఈ శ్లోకం కార్పణ్యాన్ని విమర్శిస్తూ దానం, భోగం రెండింటిలోనూ సంతులనం ఉండాలని చెప్తుంది.",
     "en": "Wealth that is neither given nor enjoyed will inevitably be lost — through theft, taxation, or time. Bhartṛhari's wit is in saying that the miser, who thinks they are saving, is actually choosing the worst outcome: loss without joy or merit. This verse encourages both generosity and wholesome enjoyment over hoarding."
-  }
+  },
+  "chanda_key": "arya",
+  "chanda_sa": "आर्या",
+  "chanda_te": "ఆర్యా"
 }

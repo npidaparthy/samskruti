@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "చాణక్యనీతి",
     "name_en": "Chanakya Niti",
-    "chapter": "3.17 (moved from niti tradition, karma emphasis)"
+    "chapter": "3.17 (moved from niti tradition, karma emphasis)",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
   },
   "padavibhagam": {
     "te": "మాతా | శత్రుః | పితా | వైరీ | యేన | బాలః | న | పాఠితః | న | శోభతే | సభామధ్యే | హంసమధ్యే | బకః | యథా",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "విద్యను అందించడం తల్లిదండ్రుల ఐచ్ఛిక దాతృత్వం కాదని, అది వారి మౌలిక కర్తవ్యమని ఖచ్చితంగా చెప్పే శ్లోకం. ఆ కర్తవ్యాన్ని నిర్లక్ష్యం చేసినవారిని 'శత్రువు', 'వైరి' అనే కఠినపదాలతో వర్ణించడం చాణక్యుని తీవ్రతను చూపుతుంది — ఎందుకంటే ఆ నిర్లక్ష్యఫలితం జీవితాంతం అనుభవించేది బిడ్డే. చదువులేని వ్యక్తి పండితసభలో ఇమడలేకపోవడాన్ని హంసలమధ్య కొంగగా చిత్రించిన ఉపమానం, పిల్లల భవిష్యత్తుకు తల్లిదండ్రుల కర్తవ్యనిర్వహణే పునాది అని కర్మసూత్రంగా నిలుస్తుంది.",
     "en": "A verse that insists education is not an optional generosity from parents but their fundamental duty. Calling those who neglect it 'enemy' and 'foe' shows Chanakya's severity — because it is the child who lives out the consequences of that neglect for a lifetime. The image of the uneducated person unable to hold their own in a learned assembly, like a crane among swans, stands as a karma-principle: the foundation of a child's future is the parents' fulfilment of their own duty."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

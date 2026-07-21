@@ -2,7 +2,6 @@
   "id": "karma-017",
   "tags": [
     "karma",
-    "gita",
     "asakti"
   ],
   "shlokam": {
@@ -14,7 +13,10 @@
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
     "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
-    "chapter": "3.19"
+    "chapter": "3.19",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "తస్మాత్ | అసక్తః | సతతమ్ | కార్యమ్ | కర్మ | సమాచర | అసక్తః | హి | ఆచరన్ | కర్మ | పరమ్ | ఆప్నోతి | పూరుషః",
@@ -31,5 +33,8 @@
   "tatparyam": {
     "te": "మోక్షానికి కర్మత్యాగం అవసరమన్న భావనను గీత ఇక్కడ తలకిందులు చేస్తుంది — విడువవలసినది కర్మ కాదు, ఆసక్తి. 'కార్యం కర్మ' అన్న పదం కీలకం: ఇష్టమైన పని కాదు, చేయవలసిన పని. అడవికి పారిపోయిన సన్యాసికీ ఫలాసక్తి వదలకపోవచ్చు; సంసారంలో ఉంటూనే అనాసక్తుడైనవాడు ముక్తుడే. కర్తవ్యనిర్వహణే — అంటిపెట్టుకోకుండా చేసినప్పుడు — పరమప్రాప్తికి రాజమార్గమన్నది కర్మయోగపు కేంద్రసూత్రం.",
     "en": "The Gita here overturns the notion that liberation requires abandoning work — what must be abandoned is attachment, not action. The phrase 'kāryaṃ karma' is the key: not the work one likes, but the work that ought to be done. A renunciant fled to the forest may still cling to results; one who lives in the world unattached is already free. Duty itself, done without clinging, is the royal road to the supreme — the central axiom of karma yoga."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

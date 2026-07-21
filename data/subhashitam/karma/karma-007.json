@@ -4,8 +4,7 @@
     "karma",
     "yoga",
     "ahara",
-    "vihara",
-    "gita"
+    "vihara"
   ],
   "shlokam": {
     "te": "యుక్తాహారవిహారస్య యుక్తచేష్టస్య కర్మసు ।\nయుక్తస్వప్నావబోధస్య యోగో భవతి దుఃఖహా ॥",
@@ -15,7 +14,10 @@
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 6.17",
-    "name_en": "Bhagavad Gītā 6.17"
+    "name_en": "Bhagavad Gītā 6.17",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
   },
   "padavibhagam": {
     "te": "యుక్త-ఆహార-విహారస్య | యుక్త-చేష్టస్య | కర్మసు | యుక్త-స్వప్న-అవబోధస్య | యోగః | భవతి | దుఃఖహా",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "శ్రీకృష్ణుడు ధ్యానయోగాన్ని వివరిస్తూ ముందు జీవనశైలి యొక్క నియమాన్ని చెప్పాడు. మితమైన ఆహారం, మితమైన కదలికలు, మితమైన నిద్ర — ఇవి యోగసాధనకు పునాది. అతిగా తినడం, అతి విశ్రాంతి, అతి జాగరణ — ఇవి యోగానికి అడ్డంకులు. 'యుక్త' అంటే అతిశయం కాదు, లోపం కాదు — సరైన మోతాదు.",
     "en": "Before describing meditation, Kṛṣṇa establishes the foundation: a disciplined lifestyle. Regulated food, moderate movement, and balanced sleep are the prerequisites for yoga, not optional add-ons. 'Yukta' means neither excess nor deficiency but the right measure. This verse is a reminder that yoga is not just a practice on the mat — it is a way of ordering one's entire life to make deep practice possible."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }

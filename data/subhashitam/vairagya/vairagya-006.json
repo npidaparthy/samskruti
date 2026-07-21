@@ -3,7 +3,6 @@
   "tags": [
     "vairagya",
     "artham-anartham",
-    "bhaja-govindam",
     "shankaracharya",
     "wealth"
   ],
@@ -15,7 +14,10 @@
   "chandaH": "భజగోవిందం మాత్రావృత్తం (Bhaja Govindam — mātrāvṛtta)",
   "granthaH": {
     "name_te": "శ్రీ శంకరాచార్య రచిత భజగోవిందం వ.27",
-    "name_en": "Ādi Śaṅkarācārya, Bhaja Govindam, verse 27"
+    "name_en": "Ādi Śaṅkarācārya, Bhaja Govindam, verse 27",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "అర్థం | అనర్థం | భావయ | నిత్యం | న | అస్తి | తతః | సుఖ-లేశః | సత్యం | పుత్రాత్ | అపి | ధన-భాజాం | భీతిః | సర్వత్ర | ఏషా | విహితా | రీతిః",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "శంకరాచార్యుల భజగోవిందంలో ఈ వాక్యం ధనంపై వైరాగ్యాన్ని పెంపొందిస్తుంది. ధనం కలిగించే భయాలు: దొంగల భయం, రాజు భయం, బంధువుల భయం, తమ కుమారుల భయం కూడా. ఇంత భయంతో నిండిన ధనం సుఖాన్ని ఇవ్వగలదా? ఇది ధనాన్ని తిరస్కరించమని చెప్పడం కాదు — ధనంపై ఆసక్తిని తగ్గించమని చెప్పడం. నిజమైన సుఖం గోవిందుని స్మరణలో ఉంది, ధన సంచయంలో కాదు.",
     "en": "Śaṅkarācārya in this verse from Bhaja Govindam (v.27) exposes wealth as a source not of happiness but of anxiety. The wealthy person fears thieves, kings, and even family members — including their own children who may covet the inheritance. The verse does not advocate poverty but challenges the assumption that wealth = happiness. 'Sukha-leśaḥ' — even a fraction of happiness — is denied. This is Śaṅkara's characteristic sharp-edged analysis: follow wealth where it leads and you find only fear, suspicion, and eventually the misery of loss. The alternative he proposes is Govinda — the Divine — as the only true source of lasting peace."
-  }
+  },
+  "chanda_key": "matra-misc",
+  "chanda_sa": "पदकुलकम्",
+  "chanda_te": "పదకులకమ్"
 }

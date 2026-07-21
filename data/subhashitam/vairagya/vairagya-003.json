@@ -14,7 +14,10 @@
   "chandaH": "మాత్రాసమక (Mātrāsamaka) — 16 morae per quarter",
   "granthaH": {
     "name_te": "భజ గోవిన్దం — ఆది శంకరాచార్య (20వ శ్లోకం)",
-    "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 20)"
+    "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 20)",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
   },
   "padavibhagam": {
     "te": "దినం | అపి | రజనీ | సాయం | ప్రాతః | శిశిర-వసన్తౌ | పునః | ఆయాతః | కాలః | క్రీడతి | గచ్ఛతి | ఆయుః | తత్ | అపి | న | ముఞ్చతి | ఆశా-వాయుః",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "సమయం నిరంతరం గడిచిపోతోంది. ప్రతి రాత్రి, ప్రతి ఋతువు మార్పు — ఆయుష్షు తగ్గిపోతోందని సూచిస్తుంది. కానీ మనిషి కోరికలు మాత్రం తగ్గడం లేదు. ఇది శంకర ఆచార్యుల చాలా ముఖ్యమైన వ్యాఖ్య — కాలం యొక్క నిర్దయత్వాన్ని, మానవ కోరికల దృఢత్వాన్ని విచారంగా వర్ణిస్తుంది.",
     "en": "The cycles of time are relentless: each day and season marks the passing of life. Yet while time depletes our years, desire never weakens. This is Śaṅkara's poignant observation — time is indifferent and inexorable, yet the human heart clings as stubbornly as ever. The verse invites reflection: while life is being consumed by time's play, are we still holding on to desires that will outlast us?"
-  }
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
 }

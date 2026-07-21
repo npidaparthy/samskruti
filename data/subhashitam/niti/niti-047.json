@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "భర్తృహరి నీతిశతకము",
     "name_en": "Bhartrhari's Niti Shataka",
-    "chapter": "verse 78"
+    "chapter": "verse 78",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
   },
   "padavibhagam": {
     "te": "తృష్ణామ్ | ఛిన్ధి | భజ | క్షమామ్ | జహి | మదమ్ | పాపే | రతిమ్ | మా | కృథాః | సత్యమ్ | బ్రూహి | అనుయాహి | సాధుపదవీమ్ | సేవస్వ | విద్వజ్జనమ్ | మాన్యాన్ | మానయ | విద్విషః | అపి | అనునయ | ప్రచ్ఛాదయ | ఆత్మగుణాన్ | కీర్తిమ్ | పాలయ | దుఃఖితేషు | కురు | దామ్ | చిత్తే | దయామ్ | ఆతతామ్",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "పదమూడు ఆదేశాలను ఒకే శ్లోకంలో కూర్చిన సంపూర్ణ నైతిక ప్రవర్తనావళి ఇది — భర్తృహరి నీతిశతకపు ముగింపు దగ్గర వచ్చే జీవనసూత్రాల సంకలనం. ఇందులో ఒక సూక్ష్మమైన సూచన ప్రత్యేకంగా నిలుస్తుంది — 'ఆత్మగుణాన్ ప్రచ్ఛాదయ', తన సద్గుణాలను దాచిపెట్టు. మంచి పనులను ప్రచారం చేసుకోకుండా, నిశ్శబ్దంగా ఆచరించడమే నిజమైన ఔన్నత్యమని ఈ ఒక్క సూచన చెబుతుంది. కోరికల నియంత్రణ నుండి కరుణావిస్తరణ వరకూ — వ్యక్తిగత క్రమశిక్షణతో మొదలై సామాజిక బాధ్యతతో ముగిసే ఈ జాబితా, జీవితాన్ని నడిపేందుకు ఒక సమగ్ర ప్రవర్తనాదర్శంగా నిలుస్తుంది.",
     "en": "Thirteen instructions gathered into a single verse — a comprehensive code of conduct near the close of Bhartrhari's Niti Shataka. One subtle instruction stands out — 'ātmaguṇān pracchādaya', conceal your own virtues. This single line teaches that practising good silently, without advertising it, is true nobility. From controlling desire to extending compassion — beginning with personal discipline and ending in social responsibility — this list stands as a complete code of conduct for living."
-  }
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
 }

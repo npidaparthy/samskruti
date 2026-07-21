@@ -4,7 +4,6 @@
     "niti",
     "vidya",
     "achora-harya",
-    "subhashita",
     "jnana"
   ],
   "shlokam": {
@@ -15,7 +14,10 @@
   "chandaH": "ఇంద్రవజ్ర / ఉపేంద్రవజ్ర (Indravajrā/Upendravajrā) — 11 syllables per quarter",
   "granthaH": {
     "name_te": "సుభాషిత సంగ్రహం",
-    "name_en": "Subhāṣita tradition"
+    "name_en": "Subhāṣita tradition",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
   },
   "padavibhagam": {
     "te": "న | చోర-హార్యం | న | చ | రాజ-హార్యం | న | భ్రాతృ-భాజ్యం | న | చ | భార-కారి | వ్యయే కృతే | వర్ధతే | ఏవ | నిత్యం | విద్యా-ధనం | సర్వ-ధన-ప్రధానం",
@@ -32,5 +34,8 @@
   "tatparyam": {
     "te": "ఈ సుభాషితం విద్య యొక్క అద్వితీయ స్వభావాన్ని నాలుగు విధాలుగా వర్ణిస్తుంది. భౌతిక సంపద ఎప్పటికైనా పోతుంది — దొంగలకు, రాజుకు, విభాగానికి, భారానికి. కానీ జ్ఞానం ఇవేమీ కాదు. మరీ విశేషం ఏమిటంటే — ఇతరులకు పంచిన కొద్దీ అది పెరుగుతుంది. గురువు శిష్యులకు నేర్పించిన జ్ఞానం తగ్గిపోదు — రెండింతలవుతుంది. కాబట్టి విద్య అన్నిటికంటే గొప్ప సంపద అని ఈ శ్లోకం నిరూపిస్తుంది.",
     "en": "This subhāṣita extols knowledge with a fourfold argument comparing it to material wealth. Material wealth is vulnerable — it can be stolen, confiscated, diluted by partition, and it weighs you down. Knowledge is immune to all four. Most strikingly, the verse observes that knowledge actually grows when shared — the teacher does not lose knowledge by teaching; the whole is multiplied. This makes knowledge not just the safest but the most productive wealth. The verse has been an enduring inspiration for the Indian emphasis on education as the highest inheritance a parent can give a child."
-  }
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
 }

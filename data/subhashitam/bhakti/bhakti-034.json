@@ -14,7 +14,10 @@
   "granthaH": {
     "name_te": "విష్ణుపురాణము",
     "name_en": "Vishnu Purana",
-    "chapter": "traditional citation"
+    "chapter": "traditional citation",
+    "grantha": "Purāṇa",
+    "grantha_te": "పురాణమ్",
+    "grantha_sa": "पुराणम्"
   },
   "padavibhagam": {
     "te": "యథా | హి | ఏకేన | చక్రేణ | న | రథస్య | గతిః | భవేత్ | ఏవమ్ | భక్త్యా | వినా | జ్ఞానమ్ | న | సిద్ధ్యతి | కదాచన",
@@ -31,5 +34,8 @@
   "tatparyam": {
     "te": "జ్ఞానానికీ భక్తికీ మధ్య అవిభాజ్యమైన బంధాన్ని రథచక్రాల ఉపమానంతో చూపే శ్లోకం. ఒంటరి చక్రం ఎంత దృఢమైనదైనా రథాన్ని ముందుకు నడపలేదు — రెండో చక్రం అవసరమే. అలాగే మేధో పాండిత్యంతో కూడిన జ్ఞానం ఎంత లోతైనదైనా, హృదయపూర్వక భక్తి లేకుంటే అది కేవలం సిద్ధాంతంగానే మిగిలిపోతుంది, ముక్తికి దారితీయదు. తల మాత్రమే కాదు, హృదయమూ కలిస్తేనే సాధన సంపూర్ణమవుతుందన్న ఈ సూత్రం, జ్ఞానమార్గమూ భక్తిమార్గమూ పరస్పర పూరకాలని చెప్పే భారతీయ దర్శనానికి ప్రతినిధి.",
     "en": "The image of the two wheels of a chariot captures the inseparable bond between knowledge and devotion. A single wheel, however strong, cannot move the chariot forward — the second wheel is equally necessary. Likewise, however deep the intellectual knowledge, without heartfelt devotion it remains mere theory, never leading to liberation. Only when head and heart move together does the practice become whole — this axiom represents Indian thought's conviction that the paths of knowledge and devotion complete each other."
-  }
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
 }
