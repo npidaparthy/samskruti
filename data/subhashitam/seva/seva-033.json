@@ -1,10 +1,14 @@
 {
   "id": "seva-033",
-  "tags": ["seva", "hitopadesha", "sahayata"],
+  "tags": [
+    "seva",
+    "hitopadesha",
+    "sahayata"
+  ],
   "shlokam": {
     "te": "ఆపదర్థే ధనం రక్షేద్దారాన్రక్షేద్ధనైరపి ।\nఆత్మానం సతతం రక్షేద్దారైరపి ధనైరపి ॥",
     "sa": "आपदर्थे धनं रक्षेद्दारान्रक्षेद्धनैरपि ।\nआत्मानं सततं रक्षेद्दारैरपि धनैरपि ॥",
-    "iast": "āpadarthe dhanaṃ rakṣed dārān rakṣed dhanair api |\nātmānaṃ satataṃ rakṣed dārair api dhanair api ||"
+    "iast": "āpadarthe dhanaṃ rakṣeddārānrakṣeddhanairapi ।\nātmānaṃ satataṃ rakṣeddārairapi dhanairapi ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

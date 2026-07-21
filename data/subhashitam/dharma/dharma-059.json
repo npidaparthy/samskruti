@@ -1,10 +1,14 @@
 {
   "id": "dharma-059",
-  "tags": ["dharma", "gita", "kaama-krodha-tridvara"],
+  "tags": [
+    "dharma",
+    "gita",
+    "kaama-krodha-tridvara"
+  ],
   "shlokam": {
     "te": "త్రివిధం నరకస్యేదం ద్వారం నాశనమాత్మనః ।\nకామః క్రోధస్తథా లోభస్తస్మాదేతత్త్రయం త్యజేత్ ॥",
     "sa": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥",
-    "iast": "trividhaṃ narakasyedaṃ dvāraṃ nāśanam ātmanaḥ |\nkāmaḥ krodhas tathā lobhas tasmād etat trayaṃ tyajet ||"
+    "iast": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ ।\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

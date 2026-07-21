@@ -1,10 +1,14 @@
 {
   "id": "bhakti-025",
-  "tags": ["bhakti", "gita", "buddhiyoga"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "buddhiyoga"
+  ],
   "shlokam": {
     "te": "తేషాం సతతయుక్తానాం భజతాం ప్రీతిపూర్వకమ్ ।\nదదామి బుద్ధియోగం తం యేన మాముపయాన్తి తే ॥",
     "sa": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् ।\nददामि बुद्धियोगं तं येन मामुपयान्ति ते ॥",
-    "iast": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam |\ndadāmi buddhiyogaṃ taṃ yena mām upayānti te ||"
+    "iast": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam ।\ndadāmi buddhiyogaṃ taṃ yena māmupayānti te ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

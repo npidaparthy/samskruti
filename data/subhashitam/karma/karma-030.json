@@ -1,10 +1,14 @@
 {
   "id": "karma-030",
-  "tags": ["karma", "gita", "arjuna-vishada"],
+  "tags": [
+    "karma",
+    "gita",
+    "arjuna-vishada"
+  ],
   "shlokam": {
     "te": "క్లైబ్యం మా స్మ గమః పార్థ నైతత్త్వయ్యుపపద్యతే ।\nక్షుద్రం హృదయదౌర్బల్యం త్యక్త్వోత్తిష్ఠ పరన్తప ॥",
     "sa": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते ।\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥",
-    "iast": "klaibyaṃ mā sma gamaḥ pārtha naitat tvayy upapadyate |\nkṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa ||"
+    "iast": "klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate ।\nkṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

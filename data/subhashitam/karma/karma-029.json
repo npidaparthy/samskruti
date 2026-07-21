@@ -1,10 +1,14 @@
 {
   "id": "karma-029",
-  "tags": ["karma", "gita", "guna"],
+  "tags": [
+    "karma",
+    "gita",
+    "guna"
+  ],
   "shlokam": {
-    "te": "ప్రకృతేః క్రియమాణాని గుణైః కర్మాణి సర్వశః ।\nఅహంకారవిమూఢాత్మా కర్తాహమితి మన్యతే ॥",
+    "te": "ప్రకృతేః క్రియమాణాని గుణైః కర్మాణి సర్వశః ।\nఅహఙ్కారవిమూఢాత్మా కర్తాహమితి మన్యతే ॥",
     "sa": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते ॥",
-    "iast": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ |\nahaṅkāravimūḍhātmā kartāham iti manyate ||"
+    "iast": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ ।\nahaṅkāravimūḍhātmā kartāhamiti manyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

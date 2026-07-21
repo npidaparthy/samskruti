@@ -1,10 +1,14 @@
 {
   "id": "seva-024",
-  "tags": ["seva", "sadhu", "sangama"],
+  "tags": [
+    "seva",
+    "sadhu",
+    "sangama"
+  ],
   "shlokam": {
     "te": "వృక్షాః సజ్జనవత్ ప్రాయో లోకోపకృతిహేతవః ।\nభవన్తి ఛాయయా క్వాపి ఫలైః పుష్పైరథాపి వా ॥",
     "sa": "वृक्षाः सज्जनवत् प्रायो लोकोपकृतिहेतवः ।\nभवन्ति छायया क्वापि फलैः पुष्पैरथापि वा ॥",
-    "iast": "vṛkṣāḥ sajjanavat prāyo lokopakṛtihetavaḥ |\nbhavanti chāyayā kvāpi phalaiḥ puṣpair athāpi vā ||"
+    "iast": "vṛkṣāḥ sajjanavat prāyo lokopakṛtihetavaḥ ।\nbhavanti chāyayā kvāpi phalaiḥ puṣpairathāpi vā ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

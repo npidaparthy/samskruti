@@ -1,10 +1,14 @@
 {
   "id": "niti-027",
-  "tags": ["niti", "kala", "ayushu"],
+  "tags": [
+    "niti",
+    "kala",
+    "ayushu"
+  ],
   "shlokam": {
     "te": "ఆయుషః క్షణ ఏకోఽపి న లభ్యః స్వర్ణకోటిభిః ।\nస చేన్నిరర్థకం నీతః కా ను హానిస్తతోఽధికా ॥",
     "sa": "आयुषः क्षण एकोऽपि न लभ्यः स्वर्णकोटिभिः ।\nस चेन्निरर्थकं नीतः का नु हानिस्ततोऽधिका ॥",
-    "iast": "āyuṣaḥ kṣaṇa eko'pi na labhyaḥ svarṇakoṭibhiḥ |\nsa cen nirarthakaṃ nītaḥ kā nu hānis tato'dhikā ||"
+    "iast": "āyuṣaḥ kṣaṇa eko'pi na labhyaḥ svarṇakoṭibhiḥ ।\nsa cennirarthakaṃ nītaḥ kā nu hānistato'dhikā ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

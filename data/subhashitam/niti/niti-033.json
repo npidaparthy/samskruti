@@ -1,10 +1,14 @@
 {
   "id": "niti-033",
-  "tags": ["niti", "sanga", "guna"],
+  "tags": [
+    "niti",
+    "sanga",
+    "guna"
+  ],
   "shlokam": {
     "te": "గుణా గుణజ్ఞేషు గుణా భవన్తి\nతే నిర్గుణం ప్రాప్య భవన్తి దోషాః ।\nఆస్వాద్యతోయాః ప్రభవన్తి నద్యః\nసముద్రమాసాద్య భవన్త్యపేయాః ॥",
     "sa": "गुणा गुणज्ञेषु गुणा भवन्ति\nते निर्गुणं प्राप्य भवन्ति दोषाः ।\nआस्वाद्यतोयाः प्रभवन्ति नद्यः\nसमुद्रमासाद्य भवन्त्यपेयाः ॥",
-    "iast": "guṇā guṇajñeṣu guṇā bhavanti\nte nirguṇaṃ prāpya bhavanti doṣāḥ |\nāsvādyatoyāḥ prabhavanti nadyaḥ\nsamudram āsādya bhavanty apeyāḥ ||"
+    "iast": "guṇā guṇajñeṣu guṇā bhavanti\nte nirguṇaṃ prāpya bhavanti doṣāḥ ।\nāsvādyatoyāḥ prabhavanti nadyaḥ\nsamudramāsādya bhavantyapeyāḥ ॥"
   },
   "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
   "granthaH": {

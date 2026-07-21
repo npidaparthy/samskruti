@@ -1,10 +1,14 @@
 {
   "id": "niti-052",
-  "tags": ["niti", "buddhi", "prayatna"],
+  "tags": [
+    "niti",
+    "buddhi",
+    "prayatna"
+  ],
   "shlokam": {
     "te": "తైలాద్రక్షేత్ జలాద్రక్షేత్ రక్షేచ్ఛిథిలబన్ధనాత్ ।\nమూర్ఖహస్తే న దాతవ్యం ఏవం వదతి పుస్తకమ్ ॥",
     "sa": "तैलाद्रक्षेत् जलाद्रक्षेत् रक्षेच्छिथिलबन्धनात् ।\nमूर्खहस्ते न दातव्यं एवं वदति पुस्तकम् ॥",
-    "iast": "tailād rakṣet jalād rakṣet rakṣec chithilabandhanāt |\nmūrkhahaste na dātavyam evaṃ vadati pustakam ||"
+    "iast": "tailādrakṣet jalādrakṣet rakṣecchithilabandhanāt ।\nmūrkhahaste na dātavyaṃ evaṃ vadati pustakam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

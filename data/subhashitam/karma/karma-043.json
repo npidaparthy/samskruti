@@ -1,10 +1,14 @@
 {
   "id": "karma-043",
-  "tags": ["karma", "gita", "moksha-karma"],
+  "tags": [
+    "karma",
+    "gita",
+    "moksha-karma"
+  ],
   "shlokam": {
-    "te": "నియతస్య తు సంన్యాసః కర్మణో నోపపద్యతే ।\nమోహాత్తస్య పరిత్యాగస్తామసః పరికీర్తితః ॥",
+    "te": "నియతస్య తు సన్న్యాసః కర్మణో నోపపద్యతే ।\nమోహాత్తస్య పరిత్యాగస్తామసః పరికీర్తితః ॥",
     "sa": "नियतस्य तु सन्न्यासः कर्मणो नोपपद्यते ।\nमोहात्तस्य परित्यागस्तामसः परिकीर्तितः ॥",
-    "iast": "niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate |\nmohāt tasya parityāgas tāmasaḥ parikīrtitaḥ ||"
+    "iast": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate ।\nmohāttasya parityāgastāmasaḥ parikīrtitaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

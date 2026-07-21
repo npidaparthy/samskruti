@@ -1,10 +1,14 @@
 {
   "id": "dharma-047",
-  "tags": ["dharma", "gita", "daivi-sampat"],
+  "tags": [
+    "dharma",
+    "gita",
+    "daivi-sampat"
+  ],
   "shlokam": {
     "te": "అభయం సత్త్వసంశుద్ధిర్జ్ఞానయోగవ్యవస్థితిః ।\nదానం దమశ్చ యజ్ఞశ్చ స్వాధ్యాయస్తప ఆర్జవమ్ ॥",
     "sa": "अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः ।\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ॥",
-    "iast": "abhayaṃ sattvasaṃśuddhir jñānayogavyavasthitiḥ |\ndānaṃ damaś ca yajñaś ca svādhyāyas tapa ārjavam ||"
+    "iast": "abhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ ।\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

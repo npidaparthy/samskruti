@@ -1,10 +1,15 @@
 {
   "id": "niti-008",
-  "tags": ["niti", "vakyam", "satya", "priya"],
+  "tags": [
+    "niti",
+    "vakyam",
+    "satya",
+    "priya"
+  ],
   "shlokam": {
     "te": "సత్యం బ్రూయాత్ ప్రియం బ్రూయాత్ న బ్రూయాత్ సత్యమప్రియమ్ ।\nప్రియం చ నానృతం బ్రూయాత్ ఏష ధర్మః సనాతనః ॥",
     "sa": "सत्यं ब्रूयात् प्रियं ब्रूयात् न ब्रूयात् सत्यमप्रियम् ।\nप्रियं च नानृतं ब्रूयात् एष धर्मः सनातनः ॥",
-    "iast": "satyaṃ brūyāt priyaṃ brūyāt na brūyāt satyamapriyam |\npriyaṃ ca nānṛtaṃ brūyāt eṣa dharmaḥ sanātanaḥ ||"
+    "iast": "satyaṃ brūyāt priyaṃ brūyāt na brūyāt satyamapriyam ।\npriyaṃ ca nānṛtaṃ brūyāt eṣa dharmaḥ sanātanaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

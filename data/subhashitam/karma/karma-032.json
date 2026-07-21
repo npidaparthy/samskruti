@@ -1,10 +1,14 @@
 {
   "id": "karma-032",
-  "tags": ["karma", "gita", "sanga"],
+  "tags": [
+    "karma",
+    "gita",
+    "sanga"
+  ],
   "shlokam": {
     "te": "సఙ్గం త్యక్త్వా ఫలం చైవ కర్తా త్రిగుణసంశ్రయః ।\nభక్త్యా భావం విశుద్ధాత్మా వికర్మణ్యపి కర్మసు ॥",
     "sa": "सङ्गं त्यक्त्वा फलं चैव कर्ता त्रिगुणसंश्रयः ।\nभक्त्या भावं विशुद्धात्मा विकर्मण्यपि कर्मसु ॥",
-    "iast": "saṅgaṃ tyaktvā phalaṃ caiva kartā triguṇasaṃśrayaḥ |\nbhaktyā bhāvaṃ viśuddhātmā vikarmaṇy api karmasu ||"
+    "iast": "saṅgaṃ tyaktvā phalaṃ caiva kartā triguṇasaṃśrayaḥ ।\nbhaktyā bhāvaṃ viśuddhātmā vikarmaṇyapi karmasu ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

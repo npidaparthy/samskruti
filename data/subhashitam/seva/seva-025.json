@@ -1,10 +1,14 @@
 {
   "id": "seva-025",
-  "tags": ["seva", "sarira", "punya"],
+  "tags": [
+    "seva",
+    "sarira",
+    "punya"
+  ],
   "shlokam": {
     "te": "అయమాత్మా నదీతీరే యథా వృక్షో న తిష్ఠతి ।\nపతన్తముపకారాయ తథా జీవితమాత్మనః ॥",
     "sa": "अयमात्मा नदीतीरे यथा वृक्षो न तिष्ठति ।\nपतन्तमुपकाराय तथा जीवितमात्मनः ॥",
-    "iast": "ayam ātmā nadītīre yathā vṛkṣo na tiṣṭhati |\npatantam upakārāya tathā jīvitam ātmanaḥ ||"
+    "iast": "ayamātmā nadītīre yathā vṛkṣo na tiṣṭhati ।\npatantamupakārāya tathā jīvitamātmanaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

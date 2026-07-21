@@ -1,10 +1,14 @@
 {
   "id": "karma-019",
-  "tags": ["karma", "gita", "svadharma"],
+  "tags": [
+    "karma",
+    "gita",
+    "svadharma"
+  ],
   "shlokam": {
     "te": "యతః ప్రవృత్తిర్భూతానాం యేన సర్వమిదం తతమ్ ।\nస్వకర్మణా తమభ్యర్చ్య సిద్ధిం విన్దతి మానవః ॥",
     "sa": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ॥",
-    "iast": "yataḥ pravṛttir bhūtānāṃ yena sarvam idaṃ tatam |\nsvakarmaṇā tam abhyarcya siddhiṃ vindati mānavaḥ ||"
+    "iast": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam ।\nsvakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "niti-004",
-  "tags": ["niti", "vidya", "jnana"],
+  "tags": [
+    "niti",
+    "vidya",
+    "jnana"
+  ],
   "shlokam": {
     "te": "న చోరహార్యం న చ రాజహార్యం న భ్రాతృభాజ్యం న చ భారకారి ।\nవ్యయే కృతే వర్ధత ఏవ నిత్యం విద్యాధనం సర్వధనప్రధానమ్ ॥",
     "sa": "न चोरहार्यं न च राजहार्यं न भ्रातृभाज्यं न च भारकारि ।\nव्यये कृते वर्धत एव नित्यं विद्याधनं सर्वधनप्रधानम् ॥",
-    "iast": "na corahāryaṃ na ca rājahāryaṃ na bhrātṛbhājyaṃ na ca bhārakāri |\nvyaye kṛte vardhata eva nityaṃ vidyādhanaṃ sarvadhana pradhānam ||"
+    "iast": "na corahāryaṃ na ca rājahāryaṃ na bhrātṛbhājyaṃ na ca bhārakāri ।\nvyaye kṛte vardhata eva nityaṃ vidyādhanaṃ sarvadhanapradhānam ॥"
   },
   "chandaH": "ఇంద్రవజ్ర (Indravajrā) — 11 syllables per quarter",
   "granthaH": {

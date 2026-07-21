@@ -1,10 +1,14 @@
 {
   "id": "bhakti-020",
-  "tags": ["bhakti", "gita", "abhaya"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "abhaya"
+  ],
   "shlokam": {
     "te": "క్షిప్రం భవతి ధర్మాత్మా శశ్వచ్ఛాన్తిం నిగచ్ఛతి ।\nకౌన్తేయ ప్రతిజానీహి న మే భక్తః ప్రణశ్యతి ॥",
     "sa": "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति ।\nकौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ॥",
-    "iast": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati |\nkaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||"
+    "iast": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati ।\nkaunteya pratijānīhi na me bhaktaḥ praṇaśyati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

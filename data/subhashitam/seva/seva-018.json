@@ -1,10 +1,14 @@
 {
   "id": "seva-018",
-  "tags": ["seva", "paropakara", "raksha"],
+  "tags": [
+    "seva",
+    "paropakara",
+    "raksha"
+  ],
   "shlokam": {
     "te": "పరోపకరణం యేషాం జాగర్తి హృదయే సతామ్ ।\nనశ్యన్తి విపదస్తేషాం సమ్పదః స్యుః పదే పదే ॥",
     "sa": "परोपकरणं येषां जागर्ति हृदये सताम् ।\nनश्यन्ति विपदस्तेषां सम्पदः स्युः पदे पदे ॥",
-    "iast": "paropakaraṇaṃ yeṣāṃ jāgarti hṛdaye satām |\nnaśyanti vipadas teṣāṃ sampadaḥ syuḥ pade pade ||"
+    "iast": "paropakaraṇaṃ yeṣāṃ jāgarti hṛdaye satām ।\nnaśyanti vipadasteṣāṃ sampadaḥ syuḥ pade pade ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

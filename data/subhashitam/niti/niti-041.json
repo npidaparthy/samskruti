@@ -1,10 +1,14 @@
 {
   "id": "niti-041",
-  "tags": ["niti", "murkha", "lakshana"],
+  "tags": [
+    "niti",
+    "murkha",
+    "lakshana"
+  ],
   "shlokam": {
-    "te": "మూర్ఖస్య పంచ చిహ్నాని గర్వో దుర్వచనం తథా ।\nక్రోధశ్చ దృఢవాదశ్చ పరవాక్యేష్వనాదరః ॥",
+    "te": "మూర్ఖస్య పఞ్చ చిహ్నాని గర్వో దుర్వచనం తథా ।\nక్రోధశ్చ దృఢవాదశ్చ పరవాక్యేష్వనాదరః ॥",
     "sa": "मूर्खस्य पञ्च चिह्नानि गर्वो दुर्वचनं तथा ।\nक्रोधश्च दृढवादश्च परवाक्येष्वनादरः ॥",
-    "iast": "mūrkhasya pañca cihnāni garvo durvacanaṃ tathā |\nkrodhaś ca dṛḍhavādaś ca paravākyeṣv anādaraḥ ||"
+    "iast": "mūrkhasya pañca cihnāni garvo durvacanaṃ tathā ।\nkrodhaśca dṛḍhavādaśca paravākyeṣvanādaraḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

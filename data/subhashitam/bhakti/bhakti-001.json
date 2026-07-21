@@ -1,35 +1,33 @@
 {
   "id": "bhakti-001",
-  "tags": ["bhakti", "tvameva", "sharanagati", "stuti"],
-
+  "tags": [
+    "bhakti",
+    "tvameva",
+    "sharanagati",
+    "stuti"
+  ],
   "shlokam": {
     "te": "త్వమేవ మాతా చ పితా త్వమేవ త్వమేవ బన్ధుశ్చ సఖా త్వమేవ ।\nత్వమేవ విద్యా ద్రవిణం త్వమేవ త్వమేవ సర్వం మమ దేవదేవ ॥",
     "sa": "त्वमेव माता च पिता त्वमेव त्वमेव बन्धुश्च सखा त्वमेव ।\nत्वमेव विद्या द्रविणं त्वमेव त्वमेव सर्वं मम देवदेव ॥",
-    "iast": "tvam eva mātā ca pitā tvam eva tvam eva bandhuś ca sakhā tvam eva |\ntvam eva vidyā draviṇaṃ tvam eva tvam eva sarvaṃ mama devadeva ||"
+    "iast": "tvameva mātā ca pitā tvameva tvameva bandhuśca sakhā tvameva ।\ntvameva vidyā draviṇaṃ tvameva tvameva sarvaṃ mama devadeva ॥"
   },
-
   "chandaH": "ఇన్ద్రవజ్ర (Indravajrā) — 11 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "పాండవగీత / స్తుతి సంప్రదాయం",
     "name_en": "Pāṇḍava Gīta / traditional devotional stuti"
   },
-
   "padavibhagam": {
     "te": "త్వమేవ | మాతా | చ | పితా | త్వమేవ | త్వమేవ | బన్ధుః | చ | సఖా | త్వమేవ | త్వమేవ | విద్యా | ద్రవిణం | త్వమేవ | త్వమేవ | సర్వం | మమ | దేవదేవ",
     "en": "tvam+eva | mātā | ca | pitā | tvam+eva | tvam+eva | bandhuḥ | ca | sakhā | tvam+eva | tvam+eva | vidyā | draviṇam | tvam+eva | tvam+eva | sarvam | mama | devadeva"
   },
-
   "anvayam": {
     "te": "దేవదేవ! త్వమేవ మాతా చ పితా (నీవే అమ్మ, నీవే నాన్న); త్వమేవ బన్ధుః చ సఖా (నీవే బంధువు, నీవే మిత్రుడు); త్వమేవ విద్యా (నీవే విద్య), ద్రవిణం త్వమేవ (నీవే సంపద); మమ సర్వం త్వమేవ (నాకు నీవే సర్వస్వం).",
     "en": "devadeva (O God of gods)! tvam eva mātā ca pitā (you alone are mother and father); tvam eva bandhuḥ ca sakhā (you alone are kin and friend); tvam eva vidyā (you alone are knowledge), draviṇam tvam eva (you alone are wealth); mama sarvam tvam eva (you alone are everything to me)."
   },
-
   "meaning": {
     "te": "దేవదేవా! నీవే నాకు అమ్మ, నీవే నాన్న; నీవే బంధువు, నీవే మిత్రుడు; నీవే విద్య, నీవే సంపద; నాకు నీవే సర్వస్వం.",
     "en": "O God of gods! You alone are my mother, you alone are my father; you alone are my kin, you alone are my friend; you alone are my knowledge, you alone are my wealth; you alone are everything to me."
   },
-
   "tatparyam": {
     "te": "ఈ శ్లోకం పూర్ణ శరణాగతి యొక్క అభివ్యక్తి. మాత, పిత, బంధు, సఖ, విద్య, ద్రవిణం — జీవితంలో మనిషికి అవసరమైన ప్రతి ఆధారమూ భగవంతుని యందే ఉన్నదని భక్తుడు అనుభవిస్తాడు. ఈ అనుభవం చేరుకున్నప్పుడు బాహ్య ఆసరాల వెంట పరుగెత్తే అవసరం పోతుంది.",
     "en": "This verse is the expression of total surrender (pūrṇa śaraṇāgati). The devotee recognises that every support life offers — mother, father, kin, friend, learning, and wealth — is ultimately the divine in different forms. When this recognition is complete, the restless search for external support ceases. 'Tvam eva' repeated five times is not mere repetition — it is the progressive deepening of that recognition in each domain of life."

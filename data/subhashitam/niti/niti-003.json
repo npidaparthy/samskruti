@@ -1,10 +1,14 @@
 {
   "id": "niti-003",
-  "tags": ["niti", "alasya", "purushartha"],
+  "tags": [
+    "niti",
+    "alasya",
+    "purushartha"
+  ],
   "shlokam": {
     "te": "ఆలస్యం హి మనుష్యాణాం శరీరస్థో మహారిపుః ।\nనాస్త్యుద్యమసమో బన్ధుః కృత్వా యం నావసీదతి ॥",
     "sa": "आलस्यं हि मनुष्याणां शरीरस्थो महारिपुः ।\nनास्त्युद्यमसमो बन्धुः कृत्वा यं नावसीदति ॥",
-    "iast": "ālasyaṃ hi manuṣyāṇāṃ śarīrastho mahāripuḥ |\nnāstyudyamasamo bandhuḥ kṛtvā yaṃ nāvasīdati ||"
+    "iast": "ālasyaṃ hi manuṣyāṇāṃ śarīrastho mahāripuḥ ।\nnāstyudyamasamo bandhuḥ kṛtvā yaṃ nāvasīdati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter",
   "granthaH": {

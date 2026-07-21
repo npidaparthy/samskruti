@@ -1,10 +1,14 @@
 {
   "id": "seva-040",
-  "tags": ["seva", "gita", "bhuta-bhavana"],
+  "tags": [
+    "seva",
+    "gita",
+    "bhuta-bhavana"
+  ],
   "shlokam": {
     "te": "అపరే నియతాహారాః ప్రాణాన్ప్రాణేషు జుహ్వతి ।\nసర్వేఽప్యేతే యజ్ఞవిదో యజ్ఞక్షపితకల్మషాః ॥",
     "sa": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति ।\nसर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ॥",
-    "iast": "apare niyatāhārāḥ prāṇān prāṇeṣu juhvati |\nsarve'py ete yajñavido yajñakṣapitakalmaṣāḥ ||"
+    "iast": "apare niyatāhārāḥ prāṇānprāṇeṣu juhvati ।\nsarve'pyete yajñavido yajñakṣapitakalmaṣāḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

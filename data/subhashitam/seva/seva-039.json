@@ -1,10 +1,14 @@
 {
   "id": "seva-039",
-  "tags": ["seva", "hitopadesha", "vidya-artha"],
+  "tags": [
+    "seva",
+    "hitopadesha",
+    "vidya-artha"
+  ],
   "shlokam": {
     "te": "అనభ్యాసే విషం విద్యా అజీర్ణే భోజనం విషమ్ ।\nదరిద్రస్య విషం సభా వృద్ధస్య తరుణీ విషమ్ ॥",
     "sa": "अनभ्यासे विषं विद्या अजीर्णे भोजनं विषम् ।\nदरिद्रस्य विषं सभा वृद्धस्य तरुणी विषम् ॥",
-    "iast": "anabhyāse viṣaṃ vidyā ajīrṇe bhojanaṃ viṣam |\ndaridrasya viṣaṃ sabhā vṛddhasya taruṇī viṣam ||"
+    "iast": "anabhyāse viṣaṃ vidyā ajīrṇe bhojanaṃ viṣam ।\ndaridrasya viṣaṃ sabhā vṛddhasya taruṇī viṣam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

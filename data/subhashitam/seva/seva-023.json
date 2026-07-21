@@ -1,10 +1,14 @@
 {
   "id": "seva-023",
-  "tags": ["seva", "vidya", "dana"],
+  "tags": [
+    "seva",
+    "vidya",
+    "dana"
+  ],
   "shlokam": {
     "te": "సర్వేషామేవ దానానాం బ్రహ్మదానం విశిష్యతే ।\nతోయాన్నవస్త్రధాన్యానాం దానాత్తు బహుపుణ్యదమ్ ॥",
     "sa": "सर्वेषामेव दानानां ब्रह्मदानं विशिष्यते ।\nतोयान्नवस्त्रधान्यानां दानात्तु बहुपुण्यदम् ॥",
-    "iast": "sarveṣām eva dānānāṃ brahmadānaṃ viśiṣyate |\ntoyānnavastradhānyānāṃ dānāt tu bahupuṇyadam ||"
+    "iast": "sarveṣāmeva dānānāṃ brahmadānaṃ viśiṣyate ।\ntoyānnavastradhānyānāṃ dānāttu bahupuṇyadam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

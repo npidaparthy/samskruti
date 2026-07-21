@@ -1,10 +1,14 @@
 {
   "id": "vairagya-042",
-  "tags": ["vairagya", "gita", "avinashi"],
+  "tags": [
+    "vairagya",
+    "gita",
+    "avinashi"
+  ],
   "shlokam": {
     "te": "అవినాశి తు తద్విద్ధి యేన సర్వమిదం తతమ్ ।\nవినాశమవ్యయస్యాస్య న కశ్చిత్కర్తుమర్హతి ॥",
     "sa": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।\nविनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ॥",
-    "iast": "avināśi tu tad viddhi yena sarvam idaṃ tatam |\nvināśam avyayasyāsya na kaścit kartum arhati ||"
+    "iast": "avināśi tu tadviddhi yena sarvamidaṃ tatam ।\nvināśamavyayasyāsya na kaścitkartumarhati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

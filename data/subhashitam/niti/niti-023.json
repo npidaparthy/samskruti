@@ -1,35 +1,34 @@
 {
   "id": "niti-023",
-  "tags": ["niti", "pratikula", "parasya", "mahabharata", "golden-rule"],
-
+  "tags": [
+    "niti",
+    "pratikula",
+    "parasya",
+    "mahabharata",
+    "golden-rule"
+  ],
   "shlokam": {
     "te": "ఆత్మనః ప్రతికూలాని పరేషాం న సమాచరేత్ ।",
     "sa": "आत्मनः प्रतिकूलानि परेषां न समाचरेत् ।",
-    "iast": "ātmanaḥ pratikūlāni pareṣāṃ na samācaret |"
+    "iast": "ātmanaḥ pratikūlāni pareṣāṃ na samācaret ।"
   },
-
   "chandaH": "సూక్తి (Sūkti) — single half-verse",
-
   "granthaH": {
     "name_te": "మహాభారతం అనుశాసన పర్వం 113.8",
     "name_en": "Mahābhārata, Anuśāsana Parva 113.8"
   },
-
   "padavibhagam": {
     "te": "ఆత్మనః | ప్రతికూలాని | పరేషాం | న | సమాచరేత్",
     "en": "ātmanaḥ | pratikūlāni | pareṣām | na | samācaret"
   },
-
   "anvayam": {
     "te": "ఆత్మనః (తనకు) ప్రతికూలాని (అనిష్టమైనవి) పరేషాం న సమాచరేత్ (ఇతరులకు చేయకూడదు).",
     "en": "ātmanaḥ (to oneself) pratikūlāni (what is disagreeable / adverse) pareṣām (to others) na samācaret (one should not do)."
   },
-
   "meaning": {
     "te": "తనకు ఇష్టం లేనివి — ఇతరులకు కూడా చేయకూడదు.",
     "en": "What one finds disagreeable for oneself, one should not do to others."
   },
-
   "tatparyam": {
     "te": "ఈ వాక్యం 'స్వర్ణ నియమం' లేదా Golden Rule యొక్క సంస్కృత రూపం. ప్రపంచంలోని అన్ని నైతిక వ్యవస్థలలో ఈ సూత్రం ఏదో ఒక రూపంలో కనిపిస్తుంది. మహాభారతంలో ఇది ధర్మ సారం వంటిది — ఇతరులతో ఏ విధంగా ప్రవర్తించాలో అర్థం చేసుకోవడానికి ఒక్క ప్రశ్న చాలు: 'నాకు ఇది ఇష్టమా?' ఈ నిరాడంబరమైన సూత్రం పాటిస్తే సమాజంలో హింస, అన్యాయం ఉండవు.",
     "en": "This verse is the Sanskrit expression of the universal Golden Rule — 'do not do unto others what you would not wish for yourself.' The Mahābhārata explicitly frames it as the essence (sāra) of dharma when Yudhiṣṭhira is asked to summarize right conduct in a single sentence. The same principle appears in Christianity, Islam, Judaism, Buddhism, and Confucianism, suggesting it is a universal moral intuition. Its simplicity belies its profundity: a single reflective question — 'would I want this done to me?' — is sufficient guide for all ethical conduct."

@@ -1,10 +1,14 @@
 {
   "id": "niti-059",
-  "tags": ["niti", "chanakya", "vishesha-guna"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "vishesha-guna"
+  ],
   "shlokam": {
     "te": "అనేకసంశయోచ్ఛేది పరోక్షార్థస్య దర్శకమ్ ।\nసర్వస్య లోచనం శాస్త్రం యస్య నాస్త్యన్ధ ఏవ సః ॥",
     "sa": "अनेकसंशयोच्छेदि परोक्षार्थस्य दर्शकम् ।\nसर्वस्य लोचनं शास्त्रं यस्य नास्त्यन्ध एव सः ॥",
-    "iast": "anekasaṃśayocchedi parokṣārthasya darśakam |\nsarvasya locanaṃ śāstraṃ yasya nāsty andha eva saḥ ||"
+    "iast": "anekasaṃśayocchedi parokṣārthasya darśakam ।\nsarvasya locanaṃ śāstraṃ yasya nāstyandha eva saḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

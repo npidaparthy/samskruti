@@ -1,10 +1,14 @@
 {
   "id": "niti-051",
-  "tags": ["niti", "arogya", "yatna"],
+  "tags": [
+    "niti",
+    "arogya",
+    "yatna"
+  ],
   "shlokam": {
     "te": "అర్థనాశం మనస్తాపం గృహిణీ చరితాని చ ।\nవాక్పారుష్యం చాధమానాం మతిమాన్న ప్రకాశయేత్ ॥",
     "sa": "अर्थनाशं मनस्तापं गृहिणी चरितानि च ।\nवाक्पारुष्यं चाधमानां मतिमान्न प्रकाशयेत् ॥",
-    "iast": "arthanāśaṃ manastāpaṃ gṛhiṇī caritāni ca |\nvākpāruṣyaṃ cādhamānāṃ matimān na prakāśayet ||"
+    "iast": "arthanāśaṃ manastāpaṃ gṛhiṇī caritāni ca ।\nvākpāruṣyaṃ cādhamānāṃ matimānna prakāśayet ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

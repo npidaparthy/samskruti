@@ -1,10 +1,15 @@
 {
   "id": "dharma-005",
-  "tags": ["dharma", "shanti", "sarve", "mangala"],
+  "tags": [
+    "dharma",
+    "shanti",
+    "sarve",
+    "mangala"
+  ],
   "shlokam": {
     "te": "సర్వే భవన్తు సుఖినః సర్వే సన్తు నిరామయాః ।\nసర్వే భద్రాణి పశ్యన్తు మా కశ్చిత్ దుఃఖభాగ్భవేత్ ॥",
     "sa": "सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः ।\nसर्वे भद्राणि पश्यन्तु मा कश्चित् दुःखभाग्भवेत् ॥",
-    "iast": "sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ |\nsarve bhadrāṇi paśyantu mā kaścit duḥkhabhāgbhavet ||"
+    "iast": "sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ ।\nsarve bhadrāṇi paśyantu mā kaścit duḥkhabhāgbhavet ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

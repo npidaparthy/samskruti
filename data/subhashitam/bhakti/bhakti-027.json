@@ -1,10 +1,14 @@
 {
   "id": "bhakti-027",
-  "tags": ["bhakti", "gita", "priya-jnani"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "priya-jnani"
+  ],
   "shlokam": {
     "te": "ప్రియో హి జ్ఞానినోఽత్యర్థమహం స చ మమ ప్రియః ।\nఉదారాః సర్వ ఏవైతే జ్ఞానీ త్వాత్మైవ మే మతమ్ ॥",
     "sa": "प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ।\nउदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् ॥",
-    "iast": "priyo hi jñānino'tyartham ahaṃ sa ca mama priyaḥ |\nudārāḥ sarva evaite jñānī tv ātmaiva me matam ||"
+    "iast": "priyo hi jñānino'tyarthamahaṃ sa ca mama priyaḥ ।\nudārāḥ sarva evaite jñānī tvātmaiva me matam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

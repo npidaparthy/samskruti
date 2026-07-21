@@ -1,10 +1,14 @@
 {
   "id": "bhakti-033",
-  "tags": ["bhakti", "narada", "lakshana"],
+  "tags": [
+    "bhakti",
+    "narada",
+    "lakshana"
+  ],
   "shlokam": {
-    "te": "యల్లబ్ధ్వా న కించిద్వాంఛతి న శోచతి న ద్వేష్టి న రమతే ॥\nనోత్సాహీ భవతి ॥",
+    "te": "యల్లబ్ధ్వా న కిఞ్చిద్వాఞ్ఛతి న శోచతి న ద్వేష్టి న రమతే ॥\nనోత్సాహీ భవతి ॥",
     "sa": "यल्लब्ध्वा न किञ्चिद्वाञ्छति न शोचति न द्वेष्टि न रमते ॥\nनोत्साही भवति ॥",
-    "iast": "yal labdhvā na kiñcid vāñchati na śocati na dveṣṭi na ramate ||\nnotsāhī bhavati ||"
+    "iast": "yallabdhvā na kiñcidvāñchati na śocati na dveṣṭi na ramate ॥\nnotsāhī bhavati ॥"
   },
   "chandaH": "సూత్రగద్యము (sūtra prose)",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "vairagya-041",
-  "tags": ["vairagya", "gita", "prakruti-guna"],
+  "tags": [
+    "vairagya",
+    "gita",
+    "prakruti-guna"
+  ],
   "shlokam": {
     "te": "సర్వభూతాని కౌన్తేయ ప్రకృతిం యాన్తి మామికామ్ ।\nకల్పక్షయే పునస్తాని కల్పాదౌ విసృజామ్యహమ్ ॥",
     "sa": "सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् ।\nकल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ॥",
-    "iast": "sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām |\nkalpakṣaye punas tāni kalpādau visṛjāmy aham ||"
+    "iast": "sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām ।\nkalpakṣaye punastāni kalpādau visṛjāmyaham ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

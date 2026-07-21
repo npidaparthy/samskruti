@@ -1,10 +1,14 @@
 {
   "id": "bhakti-017",
-  "tags": ["bhakti", "mukundamala", "smarana"],
+  "tags": [
+    "bhakti",
+    "mukundamala",
+    "smarana"
+  ],
   "shlokam": {
-    "te": "కృష్ణ త్వదీయపదపంకజపంజరాన్తం\nఅద్యైవ మే విశతు మానసరాజహంసః ।\nప్రాణప్రయాణసమయే కఫవాతపిత్తైః\nకంఠావరోధనవిధౌ స్మరణం కుతస్తే ॥",
+    "te": "కృష్ణ త్వదీయపదపఙ్కజపఞ్జరాన్తం\nఅద్యైవ మే విశతు మానసరాజహంసః ।\nప్రాణప్రయాణసమయే కఫవాతపిత్తైః\nకణ్ఠావరోధనవిధౌ స్మరణం కుతస్తే ॥",
     "sa": "कृष्ण त्वदीयपदपङ्कजपञ्जरान्तं\nअद्यैव मे विशतु मानसराजहंसः ।\nप्राणप्रयाणसमये कफवातपित्तैः\nकण्ठावरोधनविधौ स्मरणं कुतस्ते ॥",
-    "iast": "kṛṣṇa tvadīyapadapaṅkajapañjarāntaṃ\nadyaiva me viśatu mānasarājahaṃsaḥ |\nprāṇaprayāṇasamaye kaphavātapittaiḥ\nkaṇṭhāvarodhanavidhau smaraṇaṃ kutas te ||"
+    "iast": "kṛṣṇa tvadīyapadapaṅkajapañjarāntaṃ\nadyaiva me viśatu mānasarājahaṃsaḥ ।\nprāṇaprayāṇasamaye kaphavātapittaiḥ\nkaṇṭhāvarodhanavidhau smaraṇaṃ kutaste ॥"
   },
   "chandaH": "వసన్తతిలకా (Vasantatilakā) — 14 syllables per quarter, 4 quarters",
   "granthaH": {

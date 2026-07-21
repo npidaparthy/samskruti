@@ -1,10 +1,14 @@
 {
   "id": "dharma-055",
-  "tags": ["dharma", "manusmriti", "sthree-samman"],
+  "tags": [
+    "dharma",
+    "manusmriti",
+    "sthree-samman"
+  ],
   "shlokam": {
-    "te": "సంతుష్టో భార్యయా భర్తా భర్త్రా భార్యా తథైవ చ ।\nయస్మిన్నేవ కులే నిత్యం కల్యాణం తత్ర వై ధ్రువమ్ ॥",
+    "te": "సన్తుష్టో భార్యయా భర్తా భర్త్రా భార్యా తథైవ చ ।\nయస్మిన్నేవ కులే నిత్యం కల్యాణం తత్ర వై ధ్రువమ్ ॥",
     "sa": "सन्तुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च ।\nयस्मिन्नेव कुले नित्यं कल्याणं तत्र वै ध्रुवम् ॥",
-    "iast": "santuṣṭo bhāryayā bhartā bhartrā bhāryā tathaiva ca |\nyasminn eva kule nityaṃ kalyāṇaṃ tatra vai dhruvam ||"
+    "iast": "santuṣṭo bhāryayā bhartā bhartrā bhāryā tathaiva ca ।\nyasminneva kule nityaṃ kalyāṇaṃ tatra vai dhruvam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,15 @@
 {
   "id": "niti-032",
-  "tags": ["niti", "vidya", "satya", "tyaga"],
+  "tags": [
+    "niti",
+    "vidya",
+    "satya",
+    "tyaga"
+  ],
   "shlokam": {
     "te": "నాస్తి విద్యాసమం చక్షుర్నాస్తి సత్యసమం తపః ।\nనాస్తి రాగసమం దుఃఖం నాస్తి త్యాగసమం సుఖమ్ ॥",
     "sa": "नास्ति विद्यासमं चक्षुर्नास्ति सत्यसमं तपः ।\nनास्ति रागसमं दुःखं नास्ति त्यागसमं सुखम् ॥",
-    "iast": "nāsti vidyāsamaṃ cakṣur nāsti satyasamaṃ tapaḥ |\nnāsti rāgasamaṃ duḥkhaṃ nāsti tyāgasamaṃ sukham ||"
+    "iast": "nāsti vidyāsamaṃ cakṣurnāsti satyasamaṃ tapaḥ ।\nnāsti rāgasamaṃ duḥkhaṃ nāsti tyāgasamaṃ sukham ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

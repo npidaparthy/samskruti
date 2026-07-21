@@ -1,10 +1,15 @@
 {
   "id": "niti-002",
-  "tags": ["niti", "seva", "nature", "paropakara"],
+  "tags": [
+    "niti",
+    "seva",
+    "nature",
+    "paropakara"
+  ],
   "shlokam": {
     "te": "పరోపకారాయ ఫలన్తి వృక్షాః పరోపకారాయ వహన్తి నద్యః ।\nపరోపకారాయ దుహన్తి గావః పరోపకారార్థమిదం శరీరమ్ ॥",
     "sa": "परोपकाराय फलन्ति वृक्षाः परोपकाराय वहन्ति नद्यः ।\nपरोपकाराय दुहन्ति गावः परोपकारार्थमिदं शरीरम् ॥",
-    "iast": "paropakārāya phalanti vṛkṣāḥ paropakārāya vahanti nadyaḥ |\nparopakārāya duhanti gāvaḥ paropakārārthamidaṃ śarīram ||"
+    "iast": "paropakārāya phalanti vṛkṣāḥ paropakārāya vahanti nadyaḥ ।\nparopakārāya duhanti gāvaḥ paropakārārthamidaṃ śarīram ॥"
   },
   "chandaH": "ఇంద్రవజ్ర / వసన్తతిలక (Vasantatilakā) — 14 syllables per quarter",
   "granthaH": {

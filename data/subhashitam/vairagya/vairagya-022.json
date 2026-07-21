@@ -1,10 +1,14 @@
 {
   "id": "vairagya-022",
-  "tags": ["vairagya", "sadhana", "bhakti"],
+  "tags": [
+    "vairagya",
+    "sadhana",
+    "bhakti"
+  ],
   "shlokam": {
-    "te": "గేయం గీతానామసహస్రం\nధ్యేయం శ్రీపతిరూపమజస్రమ్ ।\nనేయం సజ్జనసంగే చిత్తం\nదేయం దీనజనాయ చ విత్తమ్ ॥",
+    "te": "గేయం గీతానామసహస్రం\nధ్యేయం శ్రీపతిరూపమజస్రమ్ ।\nనేయం సజ్జనసఙ్గే చిత్తం\nదేయం దీనజనాయ చ విత్తమ్ ॥",
     "sa": "गेयं गीतानामसहस्रं\nध्येयं श्रीपतिरूपमजस्रम् ।\nनेयं सज्जनसङ्गे चित्तं\nदेयं दीनजनाय च वित्तम् ॥",
-    "iast": "geyaṃ gītānāmasahasraṃ\ndhyeyaṃ śrīpatirūpam ajasram |\nneyaṃ sajjanasaṅge cittaṃ\ndeyaṃ dīnajanāya ca vittam ||"
+    "iast": "geyaṃ gītānāmasahasraṃ\ndhyeyaṃ śrīpatirūpamajasram ।\nneyaṃ sajjanasaṅge cittaṃ\ndeyaṃ dīnajanāya ca vittam ॥"
   },
   "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
   "granthaH": {

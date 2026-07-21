@@ -1,10 +1,14 @@
 {
   "id": "niti-054",
-  "tags": ["niti", "chanakya", "grihastha"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "grihastha"
+  ],
   "shlokam": {
     "te": "త్యజ దుర్జనసంసర్గం భజ సాధుసమాగమమ్ ।\nకురు పుణ్యమహోరాత్రం స్మర నిత్యమనిత్యతామ్ ॥",
     "sa": "त्यज दुर्जनसंसर्गं भज साधुसमागमम् ।\nकुरु पुण्यमहोरात्रं स्मर नित्यमनित्यताम् ॥",
-    "iast": "tyaja durjanasaṃsargaṃ bhaja sādhusamāgamam |\nkuru puṇyam ahorātraṃ smara nityam anityatām ||"
+    "iast": "tyaja durjanasaṃsargaṃ bhaja sādhusamāgamam ।\nkuru puṇyamahorātraṃ smara nityamanityatām ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

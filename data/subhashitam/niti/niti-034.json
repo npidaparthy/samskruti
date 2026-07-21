@@ -1,10 +1,14 @@
 {
   "id": "niti-034",
-  "tags": ["niti", "satya", "hitavachana"],
+  "tags": [
+    "niti",
+    "satya",
+    "hitavachana"
+  ],
   "shlokam": {
     "te": "సులభాః పురుషా రాజన్ సతతం ప్రియవాదినః ।\nఅప్రియస్య చ పథ్యస్య వక్తా శ్రోతా చ దుర్లభః ॥",
     "sa": "सुलभाः पुरुषा राजन् सततं प्रियवादिनः ।\nअप्रियस्य च पथ्यस्य वक्ता श्रोता च दुर्लभः ॥",
-    "iast": "sulabhāḥ puruṣā rājan satataṃ priyavādinaḥ |\napriyasya ca pathyasya vaktā śrotā ca durlabhaḥ ||"
+    "iast": "sulabhāḥ puruṣā rājan satataṃ priyavādinaḥ ।\napriyasya ca pathyasya vaktā śrotā ca durlabhaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

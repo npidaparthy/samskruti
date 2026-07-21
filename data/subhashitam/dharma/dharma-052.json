@@ -1,10 +1,14 @@
 {
   "id": "dharma-052",
-  "tags": ["dharma", "gita", "shraddha-triguna"],
+  "tags": [
+    "dharma",
+    "gita",
+    "shraddha-triguna"
+  ],
   "shlokam": {
     "te": "సత్త్వానురూపా సర్వస్య శ్రద్ధా భవతి భారత ।\nశ్రద్ధామయోఽయం పురుషో యో యచ్ఛ్రద్ధః స ఏవ సః ॥",
     "sa": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत ।\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ॥",
-    "iast": "sattvānurūpā sarvasya śraddhā bhavati bhārata |\nśraddhāmayo'yaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ||"
+    "iast": "sattvānurūpā sarvasya śraddhā bhavati bhārata ।\nśraddhāmayo'yaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

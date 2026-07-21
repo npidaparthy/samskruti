@@ -1,10 +1,15 @@
 {
   "id": "dharma-002",
-  "tags": ["dharma", "nari", "strī", "grha"],
+  "tags": [
+    "dharma",
+    "nari",
+    "strī",
+    "grha"
+  ],
   "shlokam": {
     "te": "యత్ర నార్యస్తు పూజ్యన్తే రమన్తే తత్ర దేవతాః ।\nయత్రైతాస్తు న పూజ్యన్తే సర్వాస్తత్రాఫలాః క్రియాః ॥",
     "sa": "यत्र नार्यस्तु पूज्यन्ते रमन्ते तत्र देवताः ।\nयत्रैतास्तु न पूज्यन्ते सर्वास्तत्राफलाः क्रियाः ॥",
-    "iast": "yatra nāryastu pūjyante ramante tatra devatāḥ |\nyatraitāstu na pūjyante sarvāstatrāphalāḥ kriyāḥ ||"
+    "iast": "yatra nāryastu pūjyante ramante tatra devatāḥ ।\nyatraitāstu na pūjyante sarvāstatrāphalāḥ kriyāḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

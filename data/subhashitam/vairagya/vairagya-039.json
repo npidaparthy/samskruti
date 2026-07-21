@@ -1,10 +1,14 @@
 {
   "id": "vairagya-039",
-  "tags": ["vairagya", "bhartrhari", "sharira-jara"],
+  "tags": [
+    "vairagya",
+    "bhartrhari",
+    "sharira-jara"
+  ],
   "shlokam": {
-    "te": "వలీభిర్ముఖమాక్రాన్తం పలితేనాంకితం శిరః ।\nగాత్రాణి శిథిలాయన్తే తృష్ణైకా తరుణాయతే ॥",
+    "te": "వలీభిర్ముఖమాక్రాన్తం పలితేనాఙ్కితం శిరః ।\nగాత్రాణి శిథిలాయన్తే తృష్ణైకా తరుణాయతే ॥",
     "sa": "वलीभिर्मुखमाक्रान्तं पलितेनाङ्कितं शिरः ।\nगात्राणि शिथिलायन्ते तृष्णैका तरुणायते ॥",
-    "iast": "valībhir mukham ākrāntaṃ palitenāṅkitaṃ śiraḥ |\ngātrāṇi śithilāyante tṛṣṇaikā taruṇāyate ||"
+    "iast": "valībhirmukhamākrāntaṃ palitenāṅkitaṃ śiraḥ ।\ngātrāṇi śithilāyante tṛṣṇaikā taruṇāyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "dharma-045",
-  "tags": ["dharma", "gita", "sattva-guna"],
+  "tags": [
+    "dharma",
+    "gita",
+    "sattva-guna"
+  ],
   "shlokam": {
     "te": "యజ్ఞశిష్టాశినః సన్తో ముచ్యన్తే సర్వకిల్బిషైః ।\nభుఞ్జతే తే త్వఘం పాపా యే పచన్త్యాత్మకారణాత్ ॥",
     "sa": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥",
-    "iast": "yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ |\nbhuñjate te tv aghaṃ pāpā ye pacanty ātmakāraṇāt ||"
+    "iast": "yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ ।\nbhuñjate te tvaghaṃ pāpā ye pacantyātmakāraṇāt ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "vairagya-037",
-  "tags": ["vairagya", "gita", "trigunatita"],
+  "tags": [
+    "vairagya",
+    "gita",
+    "trigunatita"
+  ],
   "shlokam": {
     "te": "నాన్యం గుణేభ్యః కర్తారం యదా ద్రష్టానుపశ్యతి ।\nగుణేభ్యశ్చ పరం వేత్తి మద్భావం సోఽధిగచ్ఛతి ॥",
     "sa": "नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति ।\nगुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति ॥",
-    "iast": "nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati |\nguṇebhyaś ca paraṃ vetti madbhāvaṃ so'dhigacchati ||"
+    "iast": "nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati ।\nguṇebhyaśca paraṃ vetti madbhāvaṃ so'dhigacchati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

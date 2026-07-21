@@ -1,10 +1,14 @@
 {
   "id": "vairagya-030",
-  "tags": ["vairagya", "kama", "krodha"],
+  "tags": [
+    "vairagya",
+    "kama",
+    "krodha"
+  ],
   "shlokam": {
     "te": "కామం క్రోధం లోభం మోహం\nత్యక్త్వాత్మానం భావయ కోఽహమ్ ।\nఆత్మజ్ఞానవిహీనా మూఢాః\nతే పచ్యన్తే నరకనిగూఢాః ॥",
     "sa": "कामं क्रोधं लोभं मोहं\nत्यक्त्वात्मानं भावय कोऽहम् ।\nआत्मज्ञानविहीना मूढाः\nते पच्यन्ते नरकनिगूढाः ॥",
-    "iast": "kāmaṃ krodhaṃ lobhaṃ mohaṃ\ntyaktvātmānaṃ bhāvaya ko'ham |\nātmajñānavihīnā mūḍhāḥ\nte pacyante narakanigūḍhāḥ ||"
+    "iast": "kāmaṃ krodhaṃ lobhaṃ mohaṃ\ntyaktvātmānaṃ bhāvaya ko'ham ।\nātmajñānavihīnā mūḍhāḥ\nte pacyante narakanigūḍhāḥ ॥"
   },
   "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
   "granthaH": {

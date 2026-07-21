@@ -1,10 +1,14 @@
 {
   "id": "vairagya-026",
-  "tags": ["vairagya", "dehabhrama", "bhajagovindam"],
+  "tags": [
+    "vairagya",
+    "dehabhrama",
+    "bhajagovindam"
+  ],
   "shlokam": {
     "te": "నారీస్తనభర నాభీదేశం\nదృష్ట్వా మా గా మోహావేశమ్ ।\nఏతన్మాంసావసాదివికారం\nమనసి విచిన్తయ వారం వారమ్ ॥",
     "sa": "नारीस्तनभर नाभीदेशं\nदृष्ट्वा मा गा मोहावेशम् ।\nएतन्मांसावसादिविकारं\nमनसि विचिन्तय वारं वारम् ॥",
-    "iast": "nārīstanabhara nābhīdeśaṃ\ndṛṣṭvā mā gā mohāveśam |\netan māṃsāvasādivikāraṃ\nmanasi vicintaya vāraṃ vāram ||"
+    "iast": "nārīstanabhara nābhīdeśaṃ\ndṛṣṭvā mā gā mohāveśam ।\netanmāṃsāvasādivikāraṃ\nmanasi vicintaya vāraṃ vāram ॥"
   },
   "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
   "granthaH": {

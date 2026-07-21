@@ -1,35 +1,34 @@
 {
   "id": "niti-024",
-  "tags": ["niti", "shreyansi", "vighna", "subhashita", "udyoga"],
-
+  "tags": [
+    "niti",
+    "shreyansi",
+    "vighna",
+    "subhashita",
+    "udyoga"
+  ],
   "shlokam": {
-    "te": "శ్రేయాంసి బహువిఘ్నాని భవన్తి మహతామపి ।\nదైవాయత్తం ఫలం తేషాం కర్మాయత్తం తు పౌరుషం ॥",
+    "te": "శ్రేయాంసి బహువిఘ్నాని భవన్తి మహతామపి ।\nదైవాయత్తం ఫలం తేషాం కర్మాయత్తం తు పౌరుషమ్ ॥",
     "sa": "श्रेयांसि बहुविघ्नानि भवन्ति महतामपि ।\nदैवायत्तं फलं तेषां कर्मायत्तं तु पौरुषम् ॥",
-    "iast": "śreyāṃsi bahuvighnāni bhavanti mahatāmapi |\ndaivāyattaṃ phalaṃ teṣāṃ karmāyattaṃ tu pauruṣam ||"
+    "iast": "śreyāṃsi bahuvighnāni bhavanti mahatāmapi ।\ndaivāyattaṃ phalaṃ teṣāṃ karmāyattaṃ tu pauruṣam ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "సుభాషిత సంగ్రహం",
     "name_en": "Subhāṣita tradition"
   },
-
   "padavibhagam": {
     "te": "శ్రేయాంసి | బహు-విఘ్నాని | భవన్తి | మహతాం | అపి | దైవ-ఆయత్తం | ఫలం | తేషాం | కర్మ-ఆయత్తం | తు | పౌరుషం",
     "en": "śreyāṃsi | bahu-vighnāni | bhavanti | mahatām | api | daiva-āyattam | phalam | teṣām | karma-āyattam | tu | pauruṣam"
   },
-
   "anvayam": {
     "te": "శ్రేయాంసి (శ్రేష్ఠమైన కార్యాలు) మహతాం అపి (మహాపురుషులకైనా సరే) బహువిఘ్నాని భవన్తి (అనేక అవరోధాలతో వస్తాయి). తేషాం ఫలం దైవాయత్తం (వాటి ఫలం దైవాధీనం); తు పౌరుషం కర్మాయత్తం (కానీ పురుషప్రయత్నం కర్మాధీనం).",
     "en": "śreyāṃsi (noble/great undertakings) mahatām api (even for the great) bahu-vighnāni bhavanti (come with many obstacles). teṣāṃ phalam daivāyattam (the fruit of those is in fate's hands); tu pauruṣam karmāyattam (but the effort/heroism is in our own hands)."
   },
-
   "meaning": {
     "te": "మహత్తర కార్యాలు మహాపురుషులకు కూడా అనేక అడ్డంకులతో వస్తాయి. ఫలం దైవం నిర్ణయిస్తుంది — కానీ పురుషప్రయత్నం మన చేతిలోనే ఉంది.",
     "en": "Noble undertakings come with many obstacles, even for the great. The fruit is in fate's hands, but the effort and heroism are in one's own hands."
   },
-
   "tatparyam": {
     "te": "ఈ సుభాషితం నైరాశ్యాన్ని తొలగించే ప్రేరణాత్మకమైన వాక్యం. గొప్ప కార్యం చేపట్టినప్పుడు అడ్డంకులు వస్తాయని మొదట చెప్పి, అది సాధారణం అని హామీ ఇస్తుంది. ఫలం అదృష్టాధీనం — అది మన చేతిలో లేదు. కానీ ప్రయత్నం, పట్టుదల, పురుషకారం మన చేతిలోనే ఉన్నాయి. కాబట్టి ఫలాపేక్ష లేకుండా, అడ్డంకులకు ఓడిపోకుండా, నిరంతర ప్రయత్నం చేయడమే ధీరుని లక్షణం అని ఈ శ్లోకం చెప్తుంది.",
     "en": "This verse is a motivational teaching about persistence in the face of adversity. The first line reassures the aspirant that obstacles are normal — even the greatest individuals face them in their noblest endeavors. The second line draws a crucial distinction: the fruit belongs to providence, but the heroic effort belongs entirely to us. This resonates with the Gītā's teaching of nishkāma karma — act without attachment to outcomes. The verse encourages undaunted action, reminding us that giving up is the only true failure."

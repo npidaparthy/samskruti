@@ -1,10 +1,14 @@
 {
   "id": "dharma-048",
-  "tags": ["dharma", "gita", "sattvika-bhojana"],
+  "tags": [
+    "dharma",
+    "gita",
+    "sattvika-bhojana"
+  ],
   "shlokam": {
     "te": "ఆయుఃసత్త్వబలారోగ్యసుఖప్రీతివివర్ధనాః ।\nరస్యాః స్నిగ్ధాః స్థిరా హృద్యా ఆహారాః సాత్త్వికప్రియాః ॥",
     "sa": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः ।\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ॥",
-    "iast": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ |\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||"
+    "iast": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ ।\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

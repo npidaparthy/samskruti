@@ -1,10 +1,14 @@
 {
   "id": "dharma-032",
-  "tags": ["dharma", "nyaya", "matsya"],
+  "tags": [
+    "dharma",
+    "nyaya",
+    "matsya"
+  ],
   "shlokam": {
     "te": "మాత్స్యన్యాయమవర్తయత్ ॥\nయత్రాయం న స్యాత్ రాజా జగతి పురుషాదాన్\nశృణు స నా నామ్నా జ్యాయాన్ కశ్చిత్ కనీయాంసమాదత్తే ॥",
     "sa": "मात्स्यन्यायमवर्तयत् ॥\nयत्रायं न स्यात् राजा जगति पुरुषादान्\nशृणु स ना नाम्ना ज्यायान् कश्चित् कनीयांसमादत्ते ॥",
-    "iast": "mātsyanyāyam avartayat ||\nyatrāyaṃ na syāt rājā jagati puruṣādān\nśṛṇu sa nā nāmnā jyāyān kaścit kanīyāṃsam ādatte ||"
+    "iast": "mātsyanyāyamavartayat ॥\nyatrāyaṃ na syāt rājā jagati puruṣādān\nśṛṇu sa nā nāmnā jyāyān kaścit kanīyāṃsamādatte ॥"
   },
   "chandaH": "మిశ్రిత గద్యపద్యము (mixed prose-verse, epic style)",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "seva-019",
-  "tags": ["seva", "sadhutva", "kshama"],
+  "tags": [
+    "seva",
+    "sadhutva",
+    "kshama"
+  ],
   "shlokam": {
     "te": "ఉపకారిషు యః సాధుః సాధుత్వే తస్య కో గుణః ।\nఅపకారిషు యః సాధుః స సాధుః సద్భిరుచ్యతే ॥",
     "sa": "उपकारिषु यः साधुः साधुत्वे तस्य को गुणः ।\nअपकारिषु यः साधुः स साधुः सद्भिरुच्यते ॥",
-    "iast": "upakāriṣu yaḥ sādhuḥ sādhutve tasya ko guṇaḥ |\napakāriṣu yaḥ sādhuḥ sa sādhuḥ sadbhir ucyate ||"
+    "iast": "upakāriṣu yaḥ sādhuḥ sādhutve tasya ko guṇaḥ ।\napakāriṣu yaḥ sādhuḥ sa sādhuḥ sadbhirucyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

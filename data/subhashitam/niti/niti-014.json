@@ -1,35 +1,33 @@
 {
   "id": "niti-014",
-  "tags": ["niti", "vidya", "sukha", "tyaga"],
-
+  "tags": [
+    "niti",
+    "vidya",
+    "sukha",
+    "tyaga"
+  ],
   "shlokam": {
     "te": "సుఖార్థినః కుతో విద్యా విద్యార్థినః కుతో సుఖమ్ ।\nసుఖార్థీ వా త్యజేద్విద్యాం విద్యార్థీ వా త్యజేత్ సుఖమ్ ॥",
     "sa": "सुखार्थिनः कुतो विद्या विद्यार्थिनः कुतो सुखम् ।\nसुखार्थी वा त्यजेद्विद्यां विद्यार्थी वा त्यजेत् सुखम् ॥",
-    "iast": "sukhārthinaḥ kuto vidyā vidyārthinaḥ kuto sukham |\nsukhārthī vā tyajed vidyāṃ vidyārthī vā tyajet sukham ||"
+    "iast": "sukhārthinaḥ kuto vidyā vidyārthinaḥ kuto sukham ।\nsukhārthī vā tyajedvidyāṃ vidyārthī vā tyajet sukham ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "చాణక్య నీతి",
     "name_en": "Cāṇakya Nīti"
   },
-
   "padavibhagam": {
     "te": "సుఖార్థినః | కుతః | విద్యా | విద్యార్థినః | కుతః | సుఖమ్ | సుఖార్థీ | వా | త్యజేత్ | విద్యాం | విద్యార్థీ | వా | త్యజేత్ | సుఖమ్",
     "en": "sukhārthinaḥ | kutaḥ | vidyā | vidyārthinaḥ | kutaḥ | sukham | sukhārthī | vā | tyajet | vidyām | vidyārthī | vā | tyajet | sukham"
   },
-
   "anvayam": {
     "te": "సుఖార్థినః విద్యా కుతః? విద్యార్థినః సుఖం కుతః? సుఖార్థీ విద్యాం త్యజేత్; విద్యార్థీ సుఖం త్యజేత్ — ఒకటి కావాలంటే మరొకటి వదులుకోవాలి.",
     "en": "sukhārthinaḥ (for one who seeks pleasure) vidyā kutaḥ (where is learning)? vidyārthinaḥ (for one who seeks learning) sukham kutaḥ (where is pleasure)? sukhārthī (the pleasure-seeker) vidyām tyajet (should give up learning); vidyārthī (the seeker of knowledge) sukham tyajet (should give up comfort)."
   },
-
   "meaning": {
     "te": "సుఖం కావాలంటే విద్య ఎక్కడ? విద్య కావాలంటే సుఖం ఎక్కడ? సుఖాన్ని కోరేవాడు విద్యను విడిచిపెడతాడు; విద్యను కోరేవాడు సుఖాన్ని విడిచిపెట్టాలి.",
     "en": "Where is learning for one who seeks comfort? Where is comfort for one who seeks learning? The one who seeks pleasure will give up study; the one who seeks knowledge must give up comfort."
   },
-
   "tatparyam": {
     "te": "విద్యాభ్యాసానికి సుఖత్యాగం అవసరం. సుఖంగా ఉండాలంటే కష్టపడి నేర్చుకోవాలనే ఇచ్ఛ తగ్గుతుంది. ఈ రెండూ ఒకే సమయంలో సాధ్యం కావు — ఒకదాన్ని ఎంచుకోవాలి. గొప్ప విద్వాంసులందరూ తమ యౌవనంలో సుఖాలను త్యజించారు.",
     "en": "This verse captures a fundamental trade-off in life: deep learning demands sacrifice of immediate comfort. One cannot pursue both equally — a choice must be made. All great scholars have given up ease in their formative years. This is not discouragement but clarity: know what you are choosing and what you are giving up."

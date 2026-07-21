@@ -1,10 +1,14 @@
 {
   "id": "seva-029",
-  "tags": ["seva", "manavata", "sahayata"],
+  "tags": [
+    "seva",
+    "manavata",
+    "sahayata"
+  ],
   "shlokam": {
     "te": "పరస్పరం భావయన్తః శ్రేయః పరమవాప్స్యథ ।\nఇష్టాన్భోగాన్హి వో దేవా దాస్యన్తే యజ్ఞభావితాః ॥",
     "sa": "परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ।\nइष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ॥",
-    "iast": "parasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha |\niṣṭān bhogān hi vo devā dāsyante yajñabhāvitāḥ ||"
+    "iast": "parasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha ।\niṣṭānbhogānhi vo devā dāsyante yajñabhāvitāḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

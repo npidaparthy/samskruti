@@ -1,35 +1,33 @@
 {
   "id": "vairagya-001",
-  "tags": ["vairagya", "bhaja-govindam", "shankara", "maya"],
-
+  "tags": [
+    "vairagya",
+    "bhaja-govindam",
+    "shankara",
+    "maya"
+  ],
   "shlokam": {
-    "te": "భజ గోవిన్దం భజ గోవిన్దం గోవిన్దం భజ మూఢమతే ।\nసంప్రాప్తే సన్నిహితే కాలే నహి నహి రక్షతి డుకృఞ్ కరణే ॥",
-    "sa": "भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते ।\nसंप्राप्ते सन्निहिते काले नहि नहि रक्षति डुकृञ् करणे ॥",
-    "iast": "bhaja govindaṃ bhaja govindaṃ govindaṃ bhaja mūḍhamate |\nsaṃprāpte sannihite kāle nahi nahi rakṣati ḍukṛñ karaṇe ||"
+    "te": "భజ గోవిన్దం భజ గోవిన్దం గోవిన్దం భజ మూఢమతే ।\nసమ్ప్రాప్తే సన్నిహితే కాలే నహి నహి రక్షతి డుకృఞ్ కరణే ॥",
+    "sa": "भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते ।\nसम्प्राप्ते सन्निहिते काले नहि नहि रक्षति डुकृञ् करणे ॥",
+    "iast": "bhaja govindaṃ bhaja govindaṃ govindaṃ bhaja mūḍhamate ।\nsamprāpte sannihite kāle nahi nahi rakṣati ḍukṛñ karaṇe ॥"
   },
-
   "chandaH": "మాత్రాసమక (Mātrāsamaka) — 16 morae per quarter",
-
   "granthaH": {
     "name_te": "భజ గోవిన్దం — ఆది శంకరాచార్య (1వ శ్లోకం)",
     "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 1)"
   },
-
   "padavibhagam": {
     "te": "భజ | గోవిన్దం | భజ | గోవిన్దం | గోవిన్దం | భజ | మూఢమతే | సంప్రాప్తే | సన్నిహితే | కాలే | న | హి | న | హి | రక్షతి | డుకృఞ్ | కరణే",
     "en": "bhaja | govindam | bhaja | govindam | govindam | bhaja | mūḍha-mate | saṃprāpte | sannihite | kāle | na | hi | na | hi | rakṣati | ḍukṛñ | karaṇe"
   },
-
   "anvayam": {
     "te": "మూఢమతే! గోవిన్దం భజ, గోవిన్దం భజ, గోవిన్దం భజ; కాలే సంప్రాప్తే సన్నిహితే (అంతిమ సమయం దగ్గర పడినప్పుడు) డుకృఞ్ కరణే (వ్యాకరణ నియమాలు) న హి న హి రక్షతి.",
     "en": "mūḍha-mate (O fool)! bhaja govindam (worship Govinda), bhaja govindam, bhaja govindam; kāle saṃprāpte sannihite (when the appointed time of death arrives) ḍukṛñ karaṇe (grammar rules — representing worldly pursuits) na hi na hi rakṣati (will not save you, will not save you)."
   },
-
   "meaning": {
     "te": "ఓ మూఢుడా! గోవిన్దుని భజించు, గోవిన్దుని భజించు, గోవిన్దుని భజించు. అంత్య సమయం వచ్చినప్పుడు వ్యాకరణ నియమాలు నిన్ను రక్షించవు.",
     "en": "O fool! Worship Govinda, worship Govinda, worship Govinda. When the final hour arrives, grammatical rules (worldly learning without devotion) will certainly not save you."
   },
-
   "tatparyam": {
     "te": "ఆది శంకరాచార్యులు వారణాసిలో ఒక వృద్ధ పండితుడు వ్యాకరణ సూత్రాలు చదువుతూ ఉండగా ఈ పాటను ఆశువుగా పాడారని చెప్తారు. 'డుకృఞ్ కరణే' అనేది 'కర్' ధాతువు యొక్క వ్యాకరణ సంకేతం — ఇది బాహ్య జ్ఞానానికి ప్రతీక. అంత్యకాలంలో కేవలం భగవద్భక్తి మాత్రమే శరణు.",
     "en": "Tradition holds that Śaṅkara composed this song spontaneously upon seeing an elderly scholar memorising grammar rules on the banks of the Gaṅgā in Vārāṇasī. 'ḍukṛñ karaṇe' is a grammatical code for the root 'kṛ' (to do) — here it represents all worldly pursuits and intellectual achievement. The verse is a piercing reminder that no external accomplishment can substitute for inner turning toward the divine when death approaches."

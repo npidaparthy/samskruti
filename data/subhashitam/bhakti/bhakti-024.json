@@ -1,10 +1,14 @@
 {
   "id": "bhakti-024",
-  "tags": ["bhakti", "gita", "sarvatra-darshana"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "sarvatra-darshana"
+  ],
   "shlokam": {
     "te": "యో మాం పశ్యతి సర్వత్ర సర్వం చ మయి పశ్యతి ।\nతస్యాహం న ప్రణశ్యామి స చ మే న ప్రణశ్యతి ॥",
     "sa": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति ।\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति ॥",
-    "iast": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati |\ntasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ||"
+    "iast": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati ।\ntasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

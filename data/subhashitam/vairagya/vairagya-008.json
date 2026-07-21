@@ -1,35 +1,34 @@
 {
   "id": "vairagya-008",
-  "tags": ["vairagya", "nalini-dala", "bhaja-govindam", "shankaracharya", "impermanence"],
-
+  "tags": [
+    "vairagya",
+    "nalini-dala",
+    "bhaja-govindam",
+    "shankaracharya",
+    "impermanence"
+  ],
   "shlokam": {
-    "te": "నళినీదలగతజలమతితరలం తద్వజ్జీవితమతిశయచపలం ।\nవిద్ధి వ్యాధ్యభిమానగ్రస్తం లోకం శోకహతం చ సమస్తం ॥",
+    "te": "నలినీదలగతజలమతితరలం తద్వజ్జీవితమతిశయచపలమ్ ।\nవిద్ధి వ్యాధ్యభిమానగ్రస్తం లోకం శోకహతం చ సమస్తమ్ ॥",
     "sa": "नलिनीदलगतजलमतितरलं तद्वज्जीवितमतिशयचपलम् ।\nविद्धि व्याध्यभिमानग्रस्तं लोकं शोकहतं च समस्तम् ॥",
-    "iast": "nalinīdalagatajalamatiṭaralam tadvajjīvitamatiśayacapalam |\nviddhi vyādhyabhimānagrastaṃ lokaṃ śokahatam ca samastam ||"
+    "iast": "nalinīdalagatajalamatitaralaṃ tadvajjīvitamatiśayacapalam ।\nviddhi vyādhyabhimānagrastaṃ lokaṃ śokahataṃ ca samastam ॥"
   },
-
   "chandaH": "భజగోవిందం మాత్రావృత్తం (Bhaja Govindam — mātrāvṛtta)",
-
   "granthaH": {
     "name_te": "శ్రీ శంకరాచార్య రచిత భజగోవిందం వ.4",
     "name_en": "Ādi Śaṅkarācārya, Bhaja Govindam, verse 4"
   },
-
   "padavibhagam": {
     "te": "నళినీ-దల-గత-జలం | అతి-తరలం | తద్వత్ | జీవితం | అతిశయ-చపలం | విద్ధి | వ్యాధి-అభిమాన-గ్రస్తం | లోకం | శోక-హతం | చ | సమస్తం",
     "en": "nalinī-dala-gata-jalam | ati-taralam | tadvat | jīvitam | atiśaya-capalam | viddhi | vyādhi-abhimāna-grastam | lokam | śoka-hatam | ca | samastam"
   },
-
   "anvayam": {
     "te": "నళినీదలగతజలం అతితరలం (తామరాకుపై నీటి చుక్క మిక్కిలి అస్థిరమైనది); తద్వత్ జీవితం అతిశయచపలం (అలాగే జీవితం అత్యంత చంచలమైనది). సమస్తం లోకం వ్యాధ్యభిమానగ్రస్తం శోకహతం చ (ఈ సమస్త లోకం వ్యాధి, అహంకారం, శోకంతో పీడింపబడుతున్నది) విద్ధి (తెలుసుకో).",
     "en": "nalinīdala-gata-jalam ati-taralam (water on a lotus leaf is extremely trembling/unstable); tadvat jīvitam atiśaya-capalam (similarly life is exceedingly fickle). samastam lokam vyādhi-abhimāna-grastam śoka-hatam ca (know that all this world is afflicted by disease, pride, and sorrow) viddhi (know this)."
   },
-
   "meaning": {
     "te": "తామరాకుపై నీటి చుక్కలాగ జీవితం మిక్కిలి అస్థిరమైనది. ఈ లోకం మొత్తం వ్యాధి, అహంకారం, శోకంతో పీడింపబడుతున్నదని తెలుసుకో.",
     "en": "Life is as trembling and unstable as a water drop on a lotus leaf. Know that all this world is seized by disease, pride, and sorrow."
   },
-
   "tatparyam": {
     "te": "శంకరాచార్యులు తామరాకుపై నీటి చుక్కను ఉపమానంగా తీసుకున్నారు — ఇది అద్భుతమైన కవిత్వం. తామరాకు సారం నీటిని అంటుకోనివ్వదు; ఆ నీటి చుక్క ఒక్క గాలికి పడిపోతుంది. అదే విధంగా జీవితం అతి చంచలం — ఏ క్షణమైనా ముగిసిపోవచ్చు. ఈ అనిత్యత గుర్తుచేసి, వ్యాధి, అభిమానం, శోకంతో నిండిన లోకంలో గోవిందుని నామస్మరణే శరణ్యం అని శంకరుడు చెప్తున్నాడు.",
     "en": "Śaṅkarācārya's lotus-leaf water-drop simile is one of Sanskrit poetry's most elegant images of impermanence. The water on a lotus leaf does not adhere — the lotus leaf's waxy surface repels it — and a single breath of wind sends it flying. Life, the verse says, is even more fickle than this. The second part identifies the three afflictions that characterize worldly existence: vyādhi (disease — the body's vulnerability), abhimāna (ego/pride — the mind's delusion), and śoka (grief — the heart's pain). Knowing this, Śaṅkara urges the devotee toward Govinda — the one stable reality."

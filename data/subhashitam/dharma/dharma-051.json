@@ -1,10 +1,14 @@
 {
   "id": "dharma-051",
-  "tags": ["dharma", "gita", "sarva-yajna"],
+  "tags": [
+    "dharma",
+    "gita",
+    "sarva-yajna"
+  ],
   "shlokam": {
     "te": "శ్రేయాన్ద్రవ్యమయాద్యజ్ఞాజ్జ్ఞానయజ్ఞః పరన్తప ।\nసర్వం కర్మాఖిలం పార్థ జ్ఞానే పరిసమాప్యతే ॥",
     "sa": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप ।\nसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ॥",
-    "iast": "śreyān dravyamayād yajñāj jñānayajñaḥ parantapa |\nsarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate ||"
+    "iast": "śreyāndravyamayādyajñājjñānayajñaḥ parantapa ।\nsarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "dharma-024",
-  "tags": ["dharma", "bandhutva", "satya"],
+  "tags": [
+    "dharma",
+    "bandhutva",
+    "satya"
+  ],
   "shlokam": {
     "te": "సత్యం మాతా పితా జ్ఞానం ధర్మో భ్రాతా దయా సఖా ।\nశాన్తిః పత్నీ క్షమా పుత్రః షడేతే మమ బాన్ధవాః ॥",
     "sa": "सत्यं माता पिता ज्ञानं धर्मो भ्राता दया सखा ।\nशान्तिः पत्नी क्षमा पुत्रः षडेते मम बान्धवाः ॥",
-    "iast": "satyaṃ mātā pitā jñānaṃ dharmo bhrātā dayā sakhā |\nśāntiḥ patnī kṣamā putraḥ ṣaḍete mama bāndhavāḥ ||"
+    "iast": "satyaṃ mātā pitā jñānaṃ dharmo bhrātā dayā sakhā ।\nśāntiḥ patnī kṣamā putraḥ ṣaḍete mama bāndhavāḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

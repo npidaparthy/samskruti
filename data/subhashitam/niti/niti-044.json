@@ -1,10 +1,14 @@
 {
   "id": "niti-044",
-  "tags": ["niti", "shatru", "buddhi"],
+  "tags": [
+    "niti",
+    "shatru",
+    "buddhi"
+  ],
   "shlokam": {
     "te": "బుద్ధిర్యస్య బలం తస్య నిర్బుద్ధేస్తు కుతో బలమ్ ।\nవనే సింహో మదోన్మత్తః శశకేన నిపాతితః ॥",
     "sa": "बुद्धिर्यस्य बलं तस्य निर्बुद्धेस्तु कुतो बलम् ।\nवने सिंहो मदोन्मत्तः शशकेन निपातितः ॥",
-    "iast": "buddhir yasya balaṃ tasya nirbuddhes tu kuto balam |\nvane siṃho madonmattaḥ śaśakena nipātitaḥ ||"
+    "iast": "buddhiryasya balaṃ tasya nirbuddhestu kuto balam ।\nvane siṃho madonmattaḥ śaśakena nipātitaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

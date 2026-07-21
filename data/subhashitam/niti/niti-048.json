@@ -1,10 +1,14 @@
 {
   "id": "niti-048",
-  "tags": ["niti", "shishtachara", "buddhi"],
+  "tags": [
+    "niti",
+    "shishtachara",
+    "buddhi"
+  ],
   "shlokam": {
     "te": "అవిశ్వస్తో విశ్వాససం అతి విశ్వాససం త్యజేత్ ।\nవిశ్వాసాద్భయముత్పన్నం మూలాన్యపి నికృన్తతి ॥",
     "sa": "अविश्वस्तो विश्वाससं अति विश्वाससं त्यजेत् ।\nविश्वासाद्भयमुत्पन्नं मूलान्यपि निकृन्तति ॥",
-    "iast": "aviśvasto viśvāsasaṃ ati viśvāsasaṃ tyajet |\nviśvāsād bhayam utpannaṃ mūlāny api nikṛntati ||"
+    "iast": "aviśvasto viśvāsasaṃ ati viśvāsasaṃ tyajet ।\nviśvāsādbhayamutpannaṃ mūlānyapi nikṛntati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

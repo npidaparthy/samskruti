@@ -1,10 +1,14 @@
 {
   "id": "karma-028",
-  "tags": ["karma", "gita", "ishvara-arpana"],
+  "tags": [
+    "karma",
+    "gita",
+    "ishvara-arpana"
+  ],
   "shlokam": {
-    "te": "సర్వకర్మాణి మనసా సంన్యస్యాస్తే సుఖం వశీ ।\nనవద్వారే పురే దేహీ నైవ కుర్వన్న కారయన్ ॥",
-    "sa": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।\nनवद्वारे पुरे देही नैव कुर्वन्न कारयन् ॥",
-    "iast": "sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī |\nnavadvāre pure dehī naiva kurvan na kārayan ||"
+    "te": "సర్వకర్మాణి మనసా సన్న్యస్యాస్తే సుఖం వశీ ।\nనవద్వారే పురే దేహీ నైవ కుర్వన్న కారయన్ ॥",
+    "sa": "सर्वकर्माणि मनसा सन्न्यस्यास्ते सुखं वशी ।\nनवद्वारे पुरे देही नैव कुर्वन्न कारयन् ॥",
+    "iast": "sarvakarmāṇi manasā sannyasyāste sukhaṃ vaśī ।\nnavadvāre pure dehī naiva kurvanna kārayan ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "niti-062",
-  "tags": ["niti", "chanakya", "durjana-sanga"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "durjana-sanga"
+  ],
   "shlokam": {
     "te": "దూరస్థోఽపి న దూరస్థో యో యస్య మనసి స్థితః ।\nయో యస్య హృదయే నాస్తి సమీపస్థోఽపి దూరతః ॥",
     "sa": "दूरस्थोऽपि न दूरस्थो यो यस्य मनसि स्थितः ।\nयो यस्य हृदये नास्ति समीपस्थोऽपि दूरतः ॥",
-    "iast": "dūrastho'pi na dūrastho yo yasya manasi sthitaḥ |\nyo yasya hṛdaye nāsti samīpastho'pi dūrataḥ ||"
+    "iast": "dūrastho'pi na dūrastho yo yasya manasi sthitaḥ ।\nyo yasya hṛdaye nāsti samīpastho'pi dūrataḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

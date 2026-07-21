@@ -1,10 +1,14 @@
 {
   "id": "karma-022",
-  "tags": ["karma", "udyoga", "daiva"],
+  "tags": [
+    "karma",
+    "udyoga",
+    "daiva"
+  ],
   "shlokam": {
     "te": "ఉద్యమః సాహసం ధైర్యం బుద్ధిః శక్తిః పరాక్రమః ।\nషడేతే యత్ర వర్తన్తే తత్ర దేవః సహాయకృత్ ॥",
     "sa": "उद्यमः साहसं धैर्यं बुद्धिः शक्तिः पराक्रमः ।\nषडेते यत्र वर्तन्ते तत्र देवः सहायकृत् ॥",
-    "iast": "udyamaḥ sāhasaṃ dhairyaṃ buddhiḥ śaktiḥ parākramaḥ |\nṣaḍete yatra vartante tatra devaḥ sahāyakṛt ||"
+    "iast": "udyamaḥ sāhasaṃ dhairyaṃ buddhiḥ śaktiḥ parākramaḥ ।\nṣaḍete yatra vartante tatra devaḥ sahāyakṛt ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

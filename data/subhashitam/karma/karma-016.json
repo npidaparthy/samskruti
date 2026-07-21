@@ -1,10 +1,14 @@
 {
   "id": "karma-016",
-  "tags": ["karma", "gita", "nayakatva"],
+  "tags": [
+    "karma",
+    "gita",
+    "nayakatva"
+  ],
   "shlokam": {
     "te": "యద్యదాచరతి శ్రేష్ఠస్తత్తదేవేతరో జనః ।\nస యత్ప్రమాణం కురుతే లోకస్తదనువర్తతే ॥",
     "sa": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥",
-    "iast": "yad yad ācarati śreṣṭhas tat tad evetaro janaḥ |\nsa yat pramāṇaṃ kurute lokas tad anuvartate ||"
+    "iast": "yadyadācarati śreṣṭhastattadevetaro janaḥ ।\nsa yatpramāṇaṃ kurute lokastadanuvartate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

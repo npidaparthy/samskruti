@@ -1,35 +1,32 @@
 {
   "id": "niti-012",
-  "tags": ["niti", "guna", "viveka"],
-
+  "tags": [
+    "niti",
+    "guna",
+    "viveka"
+  ],
   "shlokam": {
-    "te": "కాకః కృష్ణః పికః కృష్ణః కో భేదః పికకాకయోః ।\nవసన్తకాలే సంప్రాప్తే కాకః కాకః పికః పికః ॥",
-    "sa": "काकः कृष्णः पिकः कृष्णः को भेदः पिककाकयोः ।\nवसन्तकाले संप्राप्ते काकः काकः पिकः पिकः ॥",
-    "iast": "kākaḥ kṛṣṇaḥ pikaḥ kṛṣṇaḥ ko bhedaḥ pikakākayoḥ |\nvasantakāle saṃprāpte kākaḥ kākaḥ pikaḥ pikaḥ ||"
+    "te": "కాకః కృష్ణః పికః కృష్ణః కో భేదః పికకాకయోః ।\nవసన్తకాలే సమ్ప్రాప్తే కాకః కాకః పికః పికః ॥",
+    "sa": "काकः कृष्णः पिकः कृष्णः को भेदः पिककाकयोः ।\nवसन्तकाले सम्प्राप्ते काकः काकः पिकः पिकः ॥",
+    "iast": "kākaḥ kṛṣṇaḥ pikaḥ kṛṣṇaḥ ko bhedaḥ pikakākayoḥ ।\nvasantakāle samprāpte kākaḥ kākaḥ pikaḥ pikaḥ ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "సుభాషిత సంప్రదాయం",
     "name_en": "Subhāṣita tradition"
   },
-
   "padavibhagam": {
     "te": "కాకః | కృష్ణః | పికః | కృష్ణః | కః | భేదః | పిక-కాకయోః | వసన్తకాలే | సంప్రాప్తే | కాకః | కాకః | పికః | పికః",
     "en": "kākaḥ | kṛṣṇaḥ | pikaḥ | kṛṣṇaḥ | kaḥ | bhedaḥ | pika-kākayoḥ | vasantakāle | saṃprāpte | kākaḥ | kākaḥ | pikaḥ | pikaḥ"
   },
-
   "anvayam": {
     "te": "కాకః కృష్ణః (అగును), పికః (కోయిల) అపి కృష్ణః (అగును); పికకాకయోః కః భేదః? వసన్తకాలే సంప్రాప్తే కాకః కాకః (ఏవ భవతి), పికః పికః (ఏవ భవతి) — స్వర-భేదేన జ్ఞాయతే.",
     "en": "kākaḥ (crow) kṛṣṇaḥ (is black), pikaḥ (cuckoo) api kṛṣṇaḥ (is also black); kaḥ bhedaḥ (what difference) pikakākayoḥ (between cuckoo and crow)? vasantakāle (in spring) saṃprāpte (having arrived), kākaḥ kākaḥ (crow remains a crow), pikaḥ pikaḥ (cuckoo is the cuckoo) — known by the quality of their voice."
   },
-
   "meaning": {
     "te": "కాకి కృష్ణంగా ఉంటుంది, కోయిల కూడా కృష్ణంగా ఉంటుంది — వాటి మధ్య తేడా ఏమిటి? వసంత కాలం రాగానే తేలిపోతుంది — కాకి కాకి అవుతుంది, కోయిల కోయిల అవుతుంది. గుణం బయటపడుతుంది.",
     "en": "The crow is black, the cuckoo is also black — what is the difference? When spring arrives, the difference becomes clear through their voices: the crow caws, the cuckoo sings. True quality reveals itself in due time."
   },
-
   "tatparyam": {
     "te": "రూపం వల్ల మనుష్యుని గుణం తెలియదు. అదే విధంగా కాకి, కోయిల రెండూ నల్లగా ఉంటాయి. వసంతకాలం వచ్చినప్పుడు కోయిల తన మధుర స్వరంతో తనను తాను వేరుపరుస్తుంది. పరీక్ష వేళలో నిజమైన గుణం వ్యక్తమవుతుంది.",
     "en": "Outward appearance does not reveal inner quality. Both the crow and the cuckoo are black, indistinguishable at first glance. But when spring comes, each reveals its nature through its voice. This verse teaches that character shows itself in times of trial, not in ordinary circumstances."

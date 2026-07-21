@@ -1,10 +1,14 @@
 {
   "id": "vairagya-045",
-  "tags": ["vairagya", "gita", "vishaya-vinivartana"],
+  "tags": [
+    "vairagya",
+    "gita",
+    "vishaya-vinivartana"
+  ],
   "shlokam": {
     "te": "విషయా వినివర్తన్తే నిరాహారస్య దేహినః ।\nరసవర్జం రసోఽప్యస్య పరం దృష్ట్వా నివర్తతే ॥",
     "sa": "विषया विनिवर्तन्ते निराहारस्य देहिनः ।\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ॥",
-    "iast": "viṣayā vinivartante nirāhārasya dehinaḥ |\nrasavarjaṃ raso'py asya paraṃ dṛṣṭvā nivartate ||"
+    "iast": "viṣayā vinivartante nirāhārasya dehinaḥ ।\nrasavarjaṃ raso'pyasya paraṃ dṛṣṭvā nivartate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

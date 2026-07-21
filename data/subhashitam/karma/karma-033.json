@@ -1,10 +1,14 @@
 {
   "id": "karma-033",
-  "tags": ["karma", "hitopadesha", "udyama"],
+  "tags": [
+    "karma",
+    "hitopadesha",
+    "udyama"
+  ],
   "shlokam": {
     "te": "యథా హ్యేకేన చక్రేణ న రథస్య గతిర్భవేత్ ।\nఏవం పురుషకారేణ వినా దైవం న సిధ్యతి ॥",
     "sa": "यथा ह्येकेन चक्रेण न रथस्य गतिर्भवेत् ।\nएवं पुरुषकारेण विना दैवं न सिध्यति ॥",
-    "iast": "yathā hy ekena cakreṇa na rathasya gatir bhavet |\nevaṃ puruṣakāreṇa vinā daivaṃ na siddhyati ||"
+    "iast": "yathā hyekena cakreṇa na rathasya gatirbhavet ।\nevaṃ puruṣakāreṇa vinā daivaṃ na sidhyati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

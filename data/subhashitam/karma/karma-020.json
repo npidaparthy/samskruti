@@ -1,10 +1,14 @@
 {
   "id": "karma-020",
-  "tags": ["karma", "gita", "samatva"],
+  "tags": [
+    "karma",
+    "gita",
+    "samatva"
+  ],
   "shlokam": {
     "te": "సుఖదుఃఖే సమే కృత్వా లాభాలాభౌ జయాజయౌ ।\nతతో యుద్ధాయ యుజ్యస్వ నైవం పాపమవాప్స్యసి ॥",
     "sa": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ ।\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥",
-    "iast": "sukhaduḥkhe same kṛtvā lābhālābhau jayājayau |\ntato yuddhāya yujyasva naivaṃ pāpam avāpsyasi ||"
+    "iast": "sukhaduḥkhe same kṛtvā lābhālābhau jayājayau ।\ntato yuddhāya yujyasva naivaṃ pāpamavāpsyasi ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

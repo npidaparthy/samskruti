@@ -1,10 +1,14 @@
 {
   "id": "niti-053",
-  "tags": ["niti", "chanakya", "raksha"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "raksha"
+  ],
   "shlokam": {
     "te": "త్యజేదేకం కులస్యార్థే గ్రామస్యార్థే కులం త్యజేత్ ।\nగ్రామం జనపదస్యార్థే ఆత్మార్థే పృథివీం త్యజేత్ ॥",
     "sa": "त्यजेदेकं कुलस्यार्थे ग्रामस्यार्थे कुलं त्यजेत् ।\nग्रामं जनपदस्यार्थे आत्मार्थे पृथिवीं त्यजेत् ॥",
-    "iast": "tyajed ekaṃ kulasyārthe grāmasyārthe kulaṃ tyajet |\ngrāmaṃ janapadasyārthe ātmārthe pṛthivīṃ tyajet ||"
+    "iast": "tyajedekaṃ kulasyārthe grāmasyārthe kulaṃ tyajet ।\ngrāmaṃ janapadasyārthe ātmārthe pṛthivīṃ tyajet ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "niti-031",
-  "tags": ["niti", "vidya", "vidvan"],
+  "tags": [
+    "niti",
+    "vidya",
+    "vidvan"
+  ],
   "shlokam": {
     "te": "విద్వత్త్వం చ నృపత్వం చ నైవ తుల్యం కదాచన ।\nస్వదేశే పూజ్యతే రాజా విద్వాన్ సర్వత్ర పూజ్యతే ॥",
     "sa": "विद्वत्त्वं च नृपत्वं च नैव तुल्यं कदाचन ।\nस्वदेशे पूज्यते राजा विद्वान् सर्वत्र पूज्यते ॥",
-    "iast": "vidvattvaṃ ca nṛpatvaṃ ca naiva tulyaṃ kadācana |\nsvadeśe pūjyate rājā vidvān sarvatra pūjyate ||"
+    "iast": "vidvattvaṃ ca nṛpatvaṃ ca naiva tulyaṃ kadācana ।\nsvadeśe pūjyate rājā vidvān sarvatra pūjyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

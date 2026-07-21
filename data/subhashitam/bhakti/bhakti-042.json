@@ -1,10 +1,14 @@
 {
   "id": "bhakti-042",
-  "tags": ["bhakti", "gita", "chaturvidha-bhakta"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "chaturvidha-bhakta"
+  ],
   "shlokam": {
     "te": "చతుర్విధా భజన్తే మాం జనాః సుకృతినోఽర్జున ।\nఆర్తో జిజ్ఞాసురర్థార్థీ జ్ఞానీ చ భరతర్షభ ॥",
     "sa": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन ।\nआर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ॥",
-    "iast": "caturvidhā bhajante māṃ janāḥ sukṛtino'rjuna |\nārto jijñāsur arthārthī jñānī ca bharatarṣabha ||"
+    "iast": "caturvidhā bhajante māṃ janāḥ sukṛtino'rjuna ।\nārto jijñāsurarthārthī jñānī ca bharatarṣabha ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

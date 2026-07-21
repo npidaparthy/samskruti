@@ -1,10 +1,15 @@
 {
   "id": "karma-003",
-  "tags": ["karma", "jnana", "gita", "tatvam"],
+  "tags": [
+    "karma",
+    "jnana",
+    "gita",
+    "tatvam"
+  ],
   "shlokam": {
     "te": "న హి జ్ఞానేన సదృశం పవిత్రమిహ విద్యతే ।\nతత్స్వయం యోగసంసిద్ధః కాలేనాత్మని విన్దతి ॥",
     "sa": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥",
-    "iast": "na hi jñānena sadṛśaṃ pavitramihā vidyate |\ntatsvayaṃ yogasaṃsiddhaḥ kālenātmani vindati ||"
+    "iast": "na hi jñānena sadṛśaṃ pavitramiha vidyate ।\ntatsvayaṃ yogasaṃsiddhaḥ kālenātmani vindati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

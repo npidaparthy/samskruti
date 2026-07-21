@@ -1,35 +1,34 @@
 {
   "id": "vairagya-011",
-  "tags": ["vairagya", "na-jayate", "gita", "atma", "immortal"],
-
+  "tags": [
+    "vairagya",
+    "na-jayate",
+    "gita",
+    "atma",
+    "immortal"
+  ],
   "shlokam": {
-    "te": "న జాయతే మ్రియతే వా కదాచిన్నాయం భూత్వా భవితా వా న భూయః ।\nఅజో నిత్యః శాశ్వతోఽయం పురాణో న హన్యతే హన్యమానే శరీరే ॥",
+    "te": "న జాయతే మ్రియతే వా కదాచిన్నాయం భూత్వా భవితావా న భూయః ।\nఅజో నిత్యః శాశ్వతోఽయం పురాణో న హన్యతే హన్యమానే శరీరే ॥",
     "sa": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भवितावा न भूयः ।\nअजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ॥",
-    "iast": "na jāyate mriyate vā kadācinnāyaṃ bhūtvā bhavitā vā na bhūyaḥ |\najo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ||"
+    "iast": "na jāyate mriyate vā kadācinnāyaṃ bhūtvā bhavitāvā na bhūyaḥ ।\najo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre ॥"
   },
-
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 2.20",
     "name_en": "Bhagavad Gītā 2.20"
   },
-
   "padavibhagam": {
     "te": "న | జాయతే | మ్రియతే | వా | కదాచిత్ | న | అయం | భూత్వా | భవితా | వా | న | భూయః | అజః | నిత్యః | శాశ్వతః | అయం | పురాణః | న | హన్యతే | హన్యమానే | శరీరే",
     "en": "na | jāyate | mriyate | vā | kadācit | na | ayam | bhūtvā | bhavitā | vā | na | bhūyaḥ | ajaḥ | nityaḥ | śāśvataḥ | ayam | purāṇaḥ | na | hanyate | hanyamāne | śarīre"
   },
-
   "anvayam": {
     "te": "అయం కదాచిత్ న జాయతే, వా మ్రియతే (ఇది ఏ కాలంలోనూ పుట్టదు లేదా చనిపోదు); భూత్వా న భూయః భవితా వా (పుట్టినతర్వాత మళ్లీ పుట్టేది కూడా కాదు). అయం అజః నిత్యః శాశ్వతః పురాణః (ఇది పుట్టుక లేనిది, నిత్యమైనది, శాశ్వతమైనది, పురాతనమైనది); శరీరే హన్యమానే న హన్యతే (శరీరం చంపబడినా ఇది చంపబడదు).",
     "en": "ayam kadācit na jāyate, vā mriyate (this — the ātman — is never born nor does it die at any time); bhūtvā na bhūyaḥ bhavitā vā (having come into being, it does not cease to be again). ayam ajaḥ nityaḥ śāśvataḥ purāṇaḥ (this is unborn, eternal, ever-existing, primeval); śarīre hanyamāne na hanyate (it is not slain when the body is slain)."
   },
-
   "meaning": {
     "te": "ఆత్మ ఏ కాలంలోనూ పుట్టదు, చనిపోదు. పుట్టుక లేనిది, నిత్యమైనది, శాశ్వతమైనది, పురాతనమైనది. శరీరం చంపబడినా ఇది చంపబడదు.",
     "en": "The soul is never born nor does it die at any time. Unborn, eternal, ever-existing, and primeval — it is not slain when the body is slain."
   },
-
   "tatparyam": {
     "te": "భగవద్గీతలో ఆత్మ స్వభావాన్ని వర్ణించే శ్లోకాలలో ఇది అత్యంత సంపూర్ణమైనది. 'అజః' (పుట్టుక లేనిది), 'నిత్యః' (నిత్యమైనది), 'శాశ్వతః' (శాశ్వతమైనది), 'పురాణః' (పురాతనమైనది) — ఈ నాలుగు విశేషణాలు ఆత్మ నిర్నిరంజన స్వభావాన్ని నిర్ద్వంద్వంగా చెప్తున్నాయి. శరీరం నాశనమవుతుంది — ఆత్మ నాశనమవ్వదు. మృత్యువు శరీరానికి మాత్రమే, ఆత్మకు కాదు. ఈ జ్ఞానంతో బ్రతికేవాడు మృత్యుభయం నుండి, శోకం నుండి విముక్తుడవుతాడు.",
     "en": "Bhagavad Gītā 2.20 is the most comprehensive single verse on the nature of the ātman. Four epithets are used: aja (unborn — it precedes all birth), nitya (eternal — it continues beyond all death), śāśvata (ever-existing — it is always present), purāṇa (primeval/ancient — it is the oldest reality). The verse addresses the deepest human fear — the fear of death — by revealing that what we essentially are cannot die. This is not consolation but a philosophical claim with practical consequence: one who has internalized this teaching is freed from the dread of death and can live with extraordinary courage and equanimity."

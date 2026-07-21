@@ -1,10 +1,14 @@
 {
   "id": "bhakti-022",
-  "tags": ["bhakti", "gita", "jnana"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "jnana"
+  ],
   "shlokam": {
     "te": "బహూనాం జన్మనామన్తే జ్ఞానవాన్మాం ప్రపద్యతే ।\nవాసుదేవః సర్వమితి స మహాత్మా సుదుర్లభః ॥",
     "sa": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते ।\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः ॥",
-    "iast": "bahūnāṃ janmanām ante jñānavān māṃ prapadyate |\nvāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ ||"
+    "iast": "bahūnāṃ janmanāmante jñānavānmāṃ prapadyate ।\nvāsudevaḥ sarvamiti sa mahātmā sudurlabhaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

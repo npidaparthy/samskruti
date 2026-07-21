@@ -1,10 +1,14 @@
 {
   "id": "karma-017",
-  "tags": ["karma", "gita", "asakti"],
+  "tags": [
+    "karma",
+    "gita",
+    "asakti"
+  ],
   "shlokam": {
     "te": "తస్మాదసక్తః సతతం కార్యం కర్మ సమాచర ।\nఅసక్తో హ్యాచరన్కర్మ పరమాప్నోతి పూరుషః ॥",
     "sa": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥",
-    "iast": "tasmād asaktaḥ satataṃ kāryaṃ karma samācara |\nasakto hy ācaran karma param āpnoti pūruṣaḥ ||"
+    "iast": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara ।\nasakto hyācarankarma paramāpnoti pūruṣaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

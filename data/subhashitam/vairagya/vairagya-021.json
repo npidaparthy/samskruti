@@ -1,10 +1,14 @@
 {
   "id": "vairagya-021",
-  "tags": ["vairagya", "jara", "asha"],
+  "tags": [
+    "vairagya",
+    "jara",
+    "asha"
+  ],
   "shlokam": {
-    "te": "అంగం గలితం పలితం ముండం\nదశనవిహీనం జాతం తుండమ్ ।\nవృద్ధో యాతి గృహీత్వా దండం\nతదపి న ముంచత్యాశాపిండమ్ ॥",
+    "te": "అఙ్గం గలితం పలితం ముణ్డం\nదశనవిహీనం జాతం తుణ్డమ్ ।\nవృద్ధో యాతి గృహీత్వా దణ్డం\nతదపి న ముఞ్చత్యాశాపిణ్డమ్ ॥",
     "sa": "अङ्गं गलितं पलितं मुण्डं\nदशनविहीनं जातं तुण्डम् ।\nवृद्धो याति गृहीत्वा दण्डं\nतदपि न मुञ्चत्याशापिण्डम् ॥",
-    "iast": "aṅgaṃ galitaṃ palitaṃ muṇḍaṃ\ndaśanavihīnaṃ jātaṃ tuṇḍam |\nvṛddho yāti gṛhītvā daṇḍaṃ\ntad api na muñcaty āśāpiṇḍam ||"
+    "iast": "aṅgaṃ galitaṃ palitaṃ muṇḍaṃ\ndaśanavihīnaṃ jātaṃ tuṇḍam ।\nvṛddho yāti gṛhītvā daṇḍaṃ\ntadapi na muñcatyāśāpiṇḍam ॥"
   },
   "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
   "granthaH": {

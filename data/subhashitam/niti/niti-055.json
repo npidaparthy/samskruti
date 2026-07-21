@@ -1,10 +1,14 @@
 {
   "id": "niti-055",
-  "tags": ["niti", "chanakya", "raja-vidvan"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "raja-vidvan"
+  ],
   "shlokam": {
-    "te": "ధనధాన్యప్రయోగేషు విద్యాసంగ్రహణేషు చ ।\nఆహారే వ్యవహారే చ త్యక్తలజ్జః సుఖీ భవేత్ ॥",
+    "te": "ధనధాన్యప్రయోగేషు విద్యాసఙ్గ్రహణేషు చ ।\nఆహారే వ్యవహారే చ త్యక్తలజ్జః సుఖీ భవేత్ ॥",
     "sa": "धनधान्यप्रयोगेषु विद्यासङ्ग्रहणेषु च ।\nआहारे व्यवहारे च त्यक्तलज्जः सुखी भवेत् ॥",
-    "iast": "dhanadhānyaprayogeṣu vidyāsaṅgrahaṇeṣu ca |\nāhāre vyavahāre ca tyaktalajjaḥ sukhī bhavet ||"
+    "iast": "dhanadhānyaprayogeṣu vidyāsaṅgrahaṇeṣu ca ।\nāhāre vyavahāre ca tyaktalajjaḥ sukhī bhavet ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

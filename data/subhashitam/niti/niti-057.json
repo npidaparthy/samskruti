@@ -1,10 +1,14 @@
 {
   "id": "niti-057",
-  "tags": ["niti", "chanakya", "vishvasa"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "vishvasa"
+  ],
   "shlokam": {
     "te": "పరోక్షే కార్యహన్తారం ప్రత్యక్షే ప్రియవాదినమ్ ।\nవర్జయేత్తాదృశం మిత్రం విషకుమ్భం పయోముఖమ్ ॥",
     "sa": "परोक्षे कार्यहन्तारं प्रत्यक्षे प्रियवादिनम् ।\nवर्जयेत्तादृशं मित्रं विषकुम्भं पयोमुखम् ॥",
-    "iast": "parokṣe kāryahantāraṃ pratyakṣe priyavādinam |\nvarjayet tādṛśaṃ mitraṃ viṣakumbhaṃ payomukham ||"
+    "iast": "parokṣe kāryahantāraṃ pratyakṣe priyavādinam ।\nvarjayettādṛśaṃ mitraṃ viṣakumbhaṃ payomukham ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

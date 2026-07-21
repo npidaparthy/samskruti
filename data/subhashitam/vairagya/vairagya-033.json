@@ -1,10 +1,14 @@
 {
   "id": "vairagya-033",
-  "tags": ["vairagya", "kaya", "chapala"],
+  "tags": [
+    "vairagya",
+    "kaya",
+    "chapala"
+  ],
   "shlokam": {
     "te": "క్షణం చిత్తం క్షణం విత్తం క్షణం జీవితమావయోః ।\nయమస్య కరుణా నాస్తి ధర్మస్య త్వరితా గతిః ॥",
     "sa": "क्षणं चित्तं क्षणं वित्तं क्षणं जीवितमावयोः ।\nयमस्य करुणा नास्ति धर्मस्य त्वरिता गतिः ॥",
-    "iast": "kṣaṇaṃ cittaṃ kṣaṇaṃ vittaṃ kṣaṇaṃ jīvitam āvayoḥ |\nyamasya karuṇā nāsti dharmasya tvaritā gatiḥ ||"
+    "iast": "kṣaṇaṃ cittaṃ kṣaṇaṃ vittaṃ kṣaṇaṃ jīvitamāvayoḥ ।\nyamasya karuṇā nāsti dharmasya tvaritā gatiḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

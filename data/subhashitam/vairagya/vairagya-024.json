@@ -1,10 +1,14 @@
 {
   "id": "vairagya-024",
-  "tags": ["vairagya", "samatva", "amrtatva"],
+  "tags": [
+    "vairagya",
+    "samatva",
+    "amrtatva"
+  ],
   "shlokam": {
     "te": "యం హి న వ్యథయన్త్యేతే పురుషం పురుషర్షభ ।\nసమదుఃఖసుఖం ధీరం సోఽమృతత్వాయ కల్పతే ॥",
     "sa": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ ।\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ॥",
-    "iast": "yaṃ hi na vyathayanty ete puruṣaṃ puruṣarṣabha |\nsamaduḥkhasukhaṃ dhīraṃ so'mṛtatvāya kalpate ||"
+    "iast": "yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha ।\nsamaduḥkhasukhaṃ dhīraṃ so'mṛtatvāya kalpate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

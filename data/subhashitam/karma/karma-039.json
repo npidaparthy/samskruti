@@ -1,10 +1,14 @@
 {
   "id": "karma-039",
-  "tags": ["karma", "gita", "shraddhavan-karma"],
+  "tags": [
+    "karma",
+    "gita",
+    "shraddhavan-karma"
+  ],
   "shlokam": {
     "te": "అజ్ఞశ్చాశ్రద్దధానశ్చ సంశయాత్మా వినశ్యతి ।\nనాయం లోకోఽస్తి న పరో న సుఖం సంశయాత్మనః ॥",
     "sa": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति ।\nनायं लोकोऽस्ति न परो न सुखं संशयात्मनः ॥",
-    "iast": "ajñaś cāśraddadhānaś ca saṃśayātmā vinaśyati |\nnāyaṃ loko'sti na paro na sukhaṃ saṃśayātmanaḥ ||"
+    "iast": "ajñaścāśraddadhānaśca saṃśayātmā vinaśyati ।\nnāyaṃ loko'sti na paro na sukhaṃ saṃśayātmanaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

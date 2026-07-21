@@ -1,35 +1,34 @@
 {
   "id": "dharma-015",
-  "tags": ["dharma", "svadharma", "nidhana", "gita", "duty"],
-
+  "tags": [
+    "dharma",
+    "svadharma",
+    "nidhana",
+    "gita",
+    "duty"
+  ],
   "shlokam": {
     "te": "శ్రేయాన్స్వధర్మో విగుణః పరధర్మాత్స్వనుష్ఠితాత్ ।\nస్వధర్మే నిధనం శ్రేయః పరధర్మో భయావహః ॥",
     "sa": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥",
-    "iast": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt |\nsvadharmenidhanaṃ śreyaḥ paradharmo bhayāvahaḥ ||"
+    "iast": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt ।\nsvadharme nidhanaṃ śreyaḥ paradharmo bhayāvahaḥ ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 3.35",
     "name_en": "Bhagavad Gītā 3.35"
   },
-
   "padavibhagam": {
     "te": "శ్రేయాన్ | స్వధర్మః | విగుణః | పరధర్మాత్ | స్వ-అనుష్ఠితాత్ | స్వధర్మే | నిధనం | శ్రేయః | పరధర్మః | భయావహః",
     "en": "śreyān | svadharmaḥ | viguṇaḥ | paradharmāt | sva-anuṣṭhitāt | svadharmē | nidhanaṃ | śreyaḥ | paradharmaḥ | bhayāvahaḥ"
   },
-
   "anvayam": {
     "te": "స్వనుష్ఠితాత్ పరధర్మాత్ (బాగా ఆచరించిన పరధర్మం కంటె) విగుణః స్వధర్మః శ్రేయాన్ (లోపభూయిష్ఠమైన స్వధర్మం శ్రేష్ఠమైనది). స్వధర్మే నిధనం శ్రేయః (స్వధర్మంలో మరణం శ్రేయసం); పరధర్మః భయావహః (పరధర్మం భయకరం).",
     "en": "sva-anuṣṭhitāt paradharmāt (than another's duty well performed) svadharmaḥ viguṇaḥ śreyān (one's own duty imperfectly performed is better). svadharme nidhanam śreyaḥ (better to die in one's own duty); paradharmaḥ bhayāvahaḥ (another's duty is fraught with danger)."
   },
-
   "meaning": {
     "te": "బాగా ఆచరించిన పరధర్మం కంటె లోపభూయిష్ఠమైన స్వధర్మం శ్రేష్ఠం. స్వధర్మంలో మరణం మేలు — పరధర్మం భయకరం.",
     "en": "Better is one's own duty imperfectly performed than the duty of another done well. Better is death in one's own duty — another's duty is full of danger."
   },
-
   "tatparyam": {
     "te": "భగవద్గీతలో ఈ శ్లోకం స్వధర్మ సిద్ధాంతానికి మూలం. ప్రతి వ్యక్తికి సహజంగా ఒక ధర్మం ఉంటుంది — ఆ ధర్మాన్ని ఆచరించడంలో నైపుణ్యం లేకపోయినా అది ఇతరుల ధర్మాన్ని అనుసరించడం కంటే మేలు. 'విగుణ' అంటే లోపభూయిష్ఠమైన అని అర్థం — అయినప్పటికీ స్వధర్మం శ్రేయస్కరం. ఎందుకంటే పరధర్మం అనుసరించడం ఒక ఆత్మవంచన — ఆ ధర్మం మన స్వభావానికి సహజం కాదు. స్వీయ సత్యంతో జీవించడమే ముక్తికి మార్గం.",
     "en": "This verse from the Bhagavad Gītā (3.35) establishes the principle of svadharma — one's own duty corresponding to one's nature, station, and circumstance. Even if one performs svadharma imperfectly, it is preferable to excelling at another's dharma. The key insight is that living authentically according to one's own nature is spiritually safer than imitation, however accomplished. 'Paradharma' carries danger because it involves living a borrowed identity, out of alignment with one's true self. This teaching is not rigid social determinism but an invitation to deep self-knowledge."

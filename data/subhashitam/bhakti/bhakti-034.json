@@ -1,10 +1,14 @@
 {
   "id": "bhakti-034",
-  "tags": ["bhakti", "vishnu-purana", "seva"],
+  "tags": [
+    "bhakti",
+    "vishnu-purana",
+    "seva"
+  ],
   "shlokam": {
     "te": "యథా హ్యేకేన చక్రేణ న రథస్య గతిర్భవేత్ ।\nఏవం భక్త్యా వినా జ్ఞానం న సిద్ధ్యతి కదాచన ॥",
     "sa": "यथा ह्येकेन चक्रेण न रथस्य गतिर्भवेत् ।\nएवं भक्त्या विना ज्ञानं न सिद्ध्यति कदाचन ॥",
-    "iast": "yathā hy ekena cakreṇa na rathasya gatir bhavet |\nevaṃ bhaktyā vinā jñānaṃ na siddhyati kadācana ||"
+    "iast": "yathā hyekena cakreṇa na rathasya gatirbhavet ।\nevaṃ bhaktyā vinā jñānaṃ na siddhyati kadācana ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

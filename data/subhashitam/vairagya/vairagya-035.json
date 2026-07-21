@@ -1,10 +1,14 @@
 {
   "id": "vairagya-035",
-  "tags": ["vairagya", "gita", "kama-krodha"],
+  "tags": [
+    "vairagya",
+    "gita",
+    "kama-krodha"
+  ],
   "shlokam": {
-    "te": "ధ్యాయతో విషయాన్పుంసః సంగస్తేషూపజాయతే ।\nసంగాత్సంజాయతే కామః కామాత్క్రోధోఽభిజాయతే ॥",
+    "te": "ధ్యాయతో విషయాన్పుంసః సఙ్గస్తేషూపజాయతే ।\nసఙ్గాత్సఞ్జాయతే కామః కామాత్క్రోధోఽభిజాయతే ॥",
     "sa": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ॥",
-    "iast": "dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate |\nsaṅgāt sañjāyate kāmaḥ kāmāt krodho'bhijāyate ||"
+    "iast": "dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate ।\nsaṅgātsañjāyate kāmaḥ kāmātkrodho'bhijāyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "vairagya-028",
-  "tags": ["vairagya", "shishya", "guru"],
+  "tags": [
+    "vairagya",
+    "shishya",
+    "guru"
+  ],
   "shlokam": {
     "te": "గురుచరణామ్బుజనిర్భరభక్తః\nసంసారాదచిరాద్భవ ముక్తః ।\nసేన్ద్రియమానసనియమాదేవం\nద్రక్ష్యసి నిజహృదయస్థం దేవమ్ ॥",
     "sa": "गुरुचरणाम्बुजनिर्भरभक्तः\nसंसारादचिराद्भव मुक्तः ।\nसेन्द्रियमानसनियमादेवं\nद्रक्ष्यसि निजहृदयस्थं देवम् ॥",
-    "iast": "gurucaraṇāmbujanirbharabhaktaḥ\nsaṃsārād acirād bhava muktaḥ |\nsendriyamānasaniyamād evaṃ\ndrakṣyasi nijahṛdayasthaṃ devam ||"
+    "iast": "gurucaraṇāmbujanirbharabhaktaḥ\nsaṃsārādacirādbhava muktaḥ ।\nsendriyamānasaniyamādevaṃ\ndrakṣyasi nijahṛdayasthaṃ devam ॥"
   },
   "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
   "granthaH": {

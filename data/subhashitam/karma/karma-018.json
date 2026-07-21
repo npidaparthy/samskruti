@@ -1,10 +1,14 @@
 {
   "id": "karma-018",
-  "tags": ["karma", "gita", "manas"],
+  "tags": [
+    "karma",
+    "gita",
+    "manas"
+  ],
   "shlokam": {
     "te": "బన్ధురాత్మాత్మనస్తస్య యేనాత్మైవాత్మనా జితః ।\nఅనాత్మనస్తు శత్రుత్వే వర్తేతాత్మైవ శత్రువత్ ॥",
     "sa": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥",
-    "iast": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ |\nanātmanas tu śatrutve vartetātmaiva śatruvat ||"
+    "iast": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ ।\nanātmanastu śatrutve vartetātmaiva śatruvat ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

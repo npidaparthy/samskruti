@@ -1,10 +1,15 @@
 {
   "id": "karma-004",
-  "tags": ["karma", "vinasha", "kala", "buddhi"],
+  "tags": [
+    "karma",
+    "vinasha",
+    "kala",
+    "buddhi"
+  ],
   "shlokam": {
     "te": "వినాశకాలే విపరీతబుద్ధిః ।",
     "sa": "विनाशकाले विपरीतबुद्धिः ।",
-    "iast": "vināśakāle viparītabuddhiḥ |"
+    "iast": "vināśakāle viparītabuddhiḥ ।"
   },
   "chandaH": "సూత్రపదమ్ / లోకోక్తి (aphorism)",
   "granthaH": {

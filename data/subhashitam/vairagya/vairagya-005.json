@@ -1,35 +1,33 @@
 {
   "id": "vairagya-005",
-  "tags": ["vairagya", "samsara", "moha", "viveka"],
-
+  "tags": [
+    "vairagya",
+    "samsara",
+    "moha",
+    "viveka"
+  ],
   "shlokam": {
     "te": "కా తే కాన్తా కస్తే పుత్రః సంసారోఽయమతీవ విచిత్రః ।\nకస్య త్వం కః కుత ఆయాతః తత్త్వం చిన్తయ తదిహ భ్రాతః ॥",
     "sa": "का ते कान्ता कस्ते पुत्रः संसारोऽयमतीव विचित्रः ।\nकस्य त्वं कः कुत आयातः तत्त्वं चिन्तय तदिह भ्रातः ॥",
-    "iast": "kā te kāntā kas te putraḥ saṃsāro'yam atīva vicitraḥ |\nkasya tvaṃ kaḥ kuta āyātaḥ tattvaṃ cintaya tadiha bhrātaḥ ||"
+    "iast": "kā te kāntā kaste putraḥ saṃsāro'yamatīva vicitraḥ ।\nkasya tvaṃ kaḥ kuta āyātaḥ tattvaṃ cintaya tadiha bhrātaḥ ॥"
   },
-
   "chandaH": "మాత్రాసమక (Mātrāsamaka) — 16 morae per quarter",
-
   "granthaH": {
     "name_te": "భజ గోవిన్దం — ఆది శంకరాచార్య (14వ శ్లోకం)",
     "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 14)"
   },
-
   "padavibhagam": {
     "te": "కా | తే | కాన్తా | కః | తే | పుత్రః | సంసారః | అయం | అతీవ | విచిత్రః | కస్య | త్వం | కః | కుతః | ఆయాతః | తత్త్వం | చిన్తయ | తత్ | ఇహ | భ్రాతః",
     "en": "kā | te | kāntā | kaḥ | te | putraḥ | saṃsāraḥ | ayam | atīva | vicitraḥ | kasya | tvam | kaḥ | kutaḥ | āyātaḥ | tattvam | cintaya | tat | iha | bhrātaḥ"
   },
-
   "anvayam": {
     "te": "తే కాన్తా కా (నీ భార్య ఎవరు)? తే పుత్రః కః (నీ కొడుకు ఎవరు)? అయం సంసారః అతీవ విచిత్రః (ఈ సంసారం చాలా విచిత్రమైనది). త్వం కస్య (నీవు ఎవరివి)? కః (నీవు ఎవరు)? కుతః ఆయాతః (ఎక్కడ నుండి వచ్చావు)? భ్రాతః! ఇహ తత్ తత్త్వం చిన్తయ (సోదరా! ఇక్కడ ఆ తత్త్వాన్ని చింతించు).",
     "en": "kā te kāntā (who is your wife)? kaḥ te putraḥ (who is your son)? ayam saṃsāraḥ atīva vicitraḥ (this world is exceedingly wondrous/strange). kasya tvam (whose are you)? kaḥ (who are you)? kutaḥ āyātaḥ (from where have you come)? bhrātaḥ (O brother)! iha tat tattvam cintaya (here and now, contemplate that truth)."
   },
-
   "meaning": {
     "te": "నీ భార్య ఎవరు? నీ కొడుకు ఎవరు? ఈ సంసారం చాలా విచిత్రమైనది. నీవు ఎవరివి? నీవు ఎవరు? ఎక్కడ నుండి వచ్చావు? సోదరా! ఇక్కడే ఆ తత్త్వాన్ని చింతించు.",
     "en": "Who is your wife? Who is your son? This saṃsāra is exceedingly wondrous. Whose are you? Who are you? From where have you come? O brother! Contemplate that truth right here, right now."
   },
-
   "tatparyam": {
     "te": "శంకరాచార్యులు నేరుగా మనిషి యొక్క ఆత్మీయ సంబంధాలను ప్రశ్నిస్తారు. 'నీ భార్య ఎవరు? నీ పుత్రుడు ఎవరు?' — ఇవి తక్కువ చేయడానికి కాదు. వారి నిజ స్వభావం అర్థం చేసుకోవడానికి. 'నేను ఎవరు?' అనే ప్రశ్నలో అన్ని ఆధ్యాత్మిక సాధనలు మొదలవుతాయి. ఈ శ్లోకం వైరాగ్యానికి మరియు ఆత్మ విచారానికి ద్వారం.",
     "en": "Śaṅkara directly questions the attachments that define most human lives — wife, son, family. This is not dismissal of these relationships but an invitation to examine their true nature. Who are they, really, in the context of the eternal? And crucially — who are you? From where did you come? These questions are the beginning of all genuine spiritual inquiry. 'Tadiha bhrātaḥ' — right here, right now, O brother — the inquiry cannot be postponed."

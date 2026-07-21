@@ -1,10 +1,15 @@
 {
   "id": "seva-003",
-  "tags": ["seva", "lokasangraha", "gita", "karma"],
+  "tags": [
+    "seva",
+    "lokasangraha",
+    "gita",
+    "karma"
+  ],
   "shlokam": {
-    "te": "లోకసంగ్రహమేవాపి సంపశ్యన్ కర్తుమర్హసి ।",
-    "sa": "लोकसंग्रहमेवापि सम्पश्यन् कर्तुमर्हसि ।",
-    "iast": "lokasaṃgrahamevāpi sampaśyan kartumarhasi |"
+    "te": "లోకసఙ్గ్రహమేవాపి సమ్పశ్యన్ కర్తుమర్హసి ।",
+    "sa": "लोकसङ्ग्रहमेवापि सम्पश्यन् कर्तुमर्हसि ।",
+    "iast": "lokasaṅgrahamevāpi sampaśyan kartumarhasi ।"
   },
   "chandaH": "అనుష్టుప్ అర్ధభాగమ్ (Anuṣṭup, half-verse)",
   "granthaH": {

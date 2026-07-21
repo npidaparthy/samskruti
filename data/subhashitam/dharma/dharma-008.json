@@ -1,10 +1,15 @@
 {
   "id": "dharma-008",
-  "tags": ["dharma", "sahana", "guru", "shanti"],
+  "tags": [
+    "dharma",
+    "sahana",
+    "guru",
+    "shanti"
+  ],
   "shlokam": {
     "te": "సహనావవతు సహ నౌ భునక్తు సహ వీర్యం కరవావహై ।\nతేజస్వినావధీతమస్తు మా విద్విషావహై ॥\nఓం శాన్తిః శాన్తిః శాన్తిః ॥",
     "sa": "सहनाववतु सह नौ भुनक्तु सह वीर्यं करवावहै ।\nतेजस्विनावधीतमस्तु मा विद्विषावहै ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
-    "iast": "sahanāvavatu saha nau bhanaktu saha vīryaṃ karavāvahai |\ntejasvinavadhītamastu mā vidviṣāvahai ||\noṃ śāntiḥ śāntiḥ śāntiḥ ||"
+    "iast": "sahanāvavatu saha nau bhunaktu saha vīryaṃ karavāvahai ।\ntejasvināvadhītamastu mā vidviṣāvahai ॥\noṃ śāntiḥ śāntiḥ śāntiḥ ॥"
   },
   "chandaH": "గాయత్రీ (Gāyatrī) — anuṣṭup variant, peace chant",
   "granthaH": {

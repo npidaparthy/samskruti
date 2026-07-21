@@ -1,10 +1,15 @@
 {
   "id": "niti-010",
-  "tags": ["niti", "kavi", "sahitya", "ananda"],
+  "tags": [
+    "niti",
+    "kavi",
+    "sahitya",
+    "ananda"
+  ],
   "shlokam": {
     "te": "కావ్యశాస్త్రవినోదేన కాలో గచ్ఛతి ధీమతామ్ ।\nవ్యసనేన చ మూర్ఖాణాం నిద్రయా కలహేన వా ॥",
     "sa": "काव्यशास्त्रविनोदेन कालो गच्छति धीमताम् ।\nव्यसनेन च मूर्खाणां निद्रया कलहेन वा ॥",
-    "iast": "kāvyaśāstravinodena kālo gacchati dhīmatām |\nvyasanena ca mūrkhāṇāṃ nidrayā kalahena vā ||"
+    "iast": "kāvyaśāstravinodena kālo gacchati dhīmatām ।\nvyasanena ca mūrkhāṇāṃ nidrayā kalahena vā ॥"
   },
   "chandahs": "అనుష్టుప్ (Anuṣṭup)",
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",

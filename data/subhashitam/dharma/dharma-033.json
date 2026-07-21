@@ -1,10 +1,14 @@
 {
   "id": "dharma-033",
-  "tags": ["dharma", "kutumba", "sneha"],
+  "tags": [
+    "dharma",
+    "kutumba",
+    "sneha"
+  ],
   "shlokam": {
     "te": "ఏకోదరసముద్భూతా ఏకనక్షత్రజాతకాః ।\nన భవన్తి సమాః శీలే యథా బదరికణ్టకాః ॥",
     "sa": "एकोदरसमुद्भूता एकनक्षत्रजातकाः ।\nन भवन्ति समाः शीले यथा बदरिकण्टकाः ॥",
-    "iast": "ekodarasamudbhūtā ekanakṣatrajātakāḥ |\nna bhavanti samāḥ śīle yathā badarikaṇṭakāḥ ||"
+    "iast": "ekodarasamudbhūtā ekanakṣatrajātakāḥ ।\nna bhavanti samāḥ śīle yathā badarikaṇṭakāḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

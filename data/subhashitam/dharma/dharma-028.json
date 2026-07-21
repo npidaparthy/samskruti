@@ -1,10 +1,14 @@
 {
   "id": "dharma-028",
-  "tags": ["dharma", "adharma", "vinasha"],
+  "tags": [
+    "dharma",
+    "adharma",
+    "vinasha"
+  ],
   "shlokam": {
     "te": "అధర్మేణైధతే తావత్ తతో భద్రాణి పశ్యతి ।\nతతః సపత్నాన్ జయతి సమూలస్తు వినశ్యతి ॥",
     "sa": "अधर्मेणैधते तावत् ततो भद्राणि पश्यति ।\nततः सपत्नान् जयति समूलस्तु विनश्यति ॥",
-    "iast": "adharmeṇaidhate tāvat tato bhadrāṇi paśyati |\ntataḥ sapatnān jayati samūlas tu vinaśyati ||"
+    "iast": "adharmeṇaidhate tāvat tato bhadrāṇi paśyati ।\ntataḥ sapatnān jayati samūlastu vinaśyati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

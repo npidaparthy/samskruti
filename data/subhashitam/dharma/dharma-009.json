@@ -1,35 +1,32 @@
 {
   "id": "dharma-009",
-  "tags": ["dharma", "satya", "upanishad"],
-
+  "tags": [
+    "dharma",
+    "satya",
+    "upanishad"
+  ],
   "shlokam": {
     "te": "సత్యమేవ జయతే నానృతం సత్యేన పన్థా వితతో దేవయానః ।\nయేనాక్రమన్త్యృషయో హ్యాప్తకామా యత్ర తత్ సత్యస్య పరమం నిధానమ్ ॥",
     "sa": "सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः ।\nयेनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत् सत्यस्य परमं निधानम् ॥",
-    "iast": "satyameva jayate nānṛtaṃ satyena panthā vitato devayānaḥ |\nyenākramantyṛṣayo hyāptakāmā yatra tat satyasya paramaṃ nidhānam ||"
+    "iast": "satyameva jayate nānṛtaṃ satyena panthā vitato devayānaḥ ।\nyenākramantyṛṣayo hyāptakāmā yatra tat satyasya paramaṃ nidhānam ॥"
   },
-
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "ముండకోపనిషత్తు 3.1.6",
     "name_en": "Muṇḍaka Upaniṣad 3.1.6"
   },
-
   "padavibhagam": {
     "te": "సత్యమేవ | జయతే | న | అనృతం | సత్యేన | పన్థాః | వితతః | దేవయానః | యేన | ఆక్రమన్తి | ఋషయః | హి | ఆప్తకామాః | యత్ర | తత్ | సత్యస్య | పరమం | నిధానమ్",
     "en": "satyam+eva | jayate | na | anṛtam | satyena | panthāḥ | vitataḥ | devayānaḥ | yena | ākramanti | ṛṣayaḥ | hi | āptakāmāḥ | yatra | tat | satyasya | paramam | nidhānam"
   },
-
   "anvayam": {
     "te": "సత్యమేవ జయతే — అనృతం న (జయతే); సత్యేన దేవయానః పన్థాః వితతః; యేన ఆప్తకామాః ఋషయః ఆక్రమన్తి; యత్ర సత్యస్య పరమం నిధానం (తత్).",
     "en": "satyam eva (truth alone) jayate (wins) — anṛtam na (not falsehood); satyena (by truth) devayānaḥ panthāḥ (the path to the divine) vitataḥ (is spread); yena (by which) āptakāmāḥ ṛṣayaḥ (the fulfilled sages) ākramanti (ascend); yatra (where) satyasya (truth's) paramam nidhānam (supreme treasure abides)."
   },
-
   "meaning": {
     "te": "సత్యమే జయిస్తుంది, అసత్యం కాదు. సత్యం ద్వారానే దైవిక మార్గం విస్తరిస్తుంది. ఆ మార్గంలో కోరికలు తీరిన ఋషులు నడిచారు. అక్కడే సత్యానికి పరమ నిధానం ఉంది.",
     "en": "Truth alone triumphs, not falsehood. The divine path is laid out through truth. Along that path, the sages whose wishes are fulfilled have walked. There alone lies the supreme treasure of truth."
   },
-
   "tatparyam": {
     "te": "ఈ వాక్యం భారత గణతంత్రం యొక్క జాతీయ నినాదంగా స్వీకరింపబడింది. ముండక ఉపనిషత్తు జ్ఞాన మార్గాన్ని వివరిస్తుంది — సత్యం కేవలం నైతిక విలువ కాదు, అది మోక్షానికి వాహనం. అసత్యం తాత్కాలికంగా విజయిస్తున్నట్లు కనిపించినా, చివరకు సత్యమే నిలిచిపోతుంది.",
     "en": "This verse, adopted as India's national motto, comes from the Muṇḍaka Upaniṣad's teaching on the path of knowledge. Truth is not merely an ethical virtue here — it is the vehicle of liberation. Falsehood may appear to triumph temporarily, but in the ultimate reckoning, only truth stands. The sages walked this path and reached fulfilment — the verse is both a declaration and an invitation."

@@ -1,35 +1,34 @@
 {
   "id": "bhakti-008",
-  "tags": ["bhakti", "patram-pushpam", "gita", "offering", "puja"],
-
+  "tags": [
+    "bhakti",
+    "patram-pushpam",
+    "gita",
+    "offering",
+    "puja"
+  ],
   "shlokam": {
     "te": "పత్రం పుష్పం ఫలం తోయం యో మే భక్త్యా ప్రయచ్ఛతి ।\nతదహం భక్త్యుపహృతమశ్నామి ప్రయతాత్మనః ॥",
     "sa": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥",
-    "iast": "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati |\ntadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ ||"
+    "iast": "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati ।\ntadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 9.26",
     "name_en": "Bhagavad Gītā 9.26"
   },
-
   "padavibhagam": {
     "te": "పత్రం | పుష్పం | ఫలం | తోయం | యః | మే | భక్త్యా | ప్రయచ్ఛతి | తత్ | అహం | భక్తి-ఉపహృతం | అశ్నామి | ప్రయత-ఆత్మనః",
     "en": "patram | puṣpam | phalam | toyam | yaḥ | me | bhaktyā | prayacchati | tat | aham | bhakti-upahṛtam | aśnāmi | prayata-ātmanaḥ"
   },
-
   "anvayam": {
     "te": "యః మే పత్రం పుష్పం ఫలం తోయం భక్త్యా ప్రయచ్ఛతి (ఎవడైతే నాకు భక్తితో ఆకు, పువ్వు, పండు, నీళ్ళు సమర్పిస్తాడో); అహం ప్రయతాత్మనః తత్ భక్త్యుపహృతం అశ్నామి (నేను పవిత్రమైన ఆత్మ కలిగిన అతనికి అర్పించబడిన ఆ భక్తి-ఉపహారాన్ని స్వీకరిస్తాను).",
     "en": "yaḥ me patram puṣpam phalam toyam bhaktyā prayacchati (whoever offers Me with devotion a leaf, flower, fruit, or water); aham prayatātmanaḥ tat bhaktyupahṛtam aśnāmi (I accept that — offered by the pure-hearted one — as a devotional offering)."
   },
-
   "meaning": {
     "te": "ఎవడైతే నాకు భక్తితో ఆకు, పువ్వు, పండు, నీళ్ళు సమర్పిస్తాడో — పవిత్రమైన హృదయంతో అర్పించబడిన ఆ భక్తి ఉపహారాన్ని నేను స్వీకరిస్తాను.",
     "en": "Whoever offers Me with devotion a leaf, flower, fruit, or water — I accept that devotional offering from the pure-hearted one."
   },
-
   "tatparyam": {
     "te": "గీతలో ఇది భక్తి మార్గానికి అత్యంత ప్రోత్సాహకరమైన వాక్యం. కృష్ణుడు ఏం చెప్తున్నాడంటే — అర్పించే వస్తువు విలువ ముఖ్యం కాదు, అర్పించే భక్తి ముఖ్యం. పత్రం (ఆకు), పుష్పం (పువ్వు), ఫలం (పండు), తోయం (నీళ్ళు) — ఇవి అత్యంత సాధారణమైన, నిరుపేదలు కూడా ఇవ్వగలిగిన వస్తువులు. 'ప్రయతాత్మనః' — పవిత్ర ఆత్మ — ఇది అర్పణ విలువకు కాదు, అర్పించేవారి శుద్ధత భక్తికి. ఏ పేదరికంలోనూ భక్తి సాధన సాధ్యం — ఇది ఈ శ్లోకం ఇచ్చే ఒక గొప్ప ఓదార్పు.",
     "en": "Bhagavad Gītā 9.26 is one of the most beloved verses in the Gītā's bhakti teaching. The four items listed — leaf, flower, fruit, water — are the simplest and most widely available things on earth. The wealthiest and the poorest person alike can offer these. Kṛṣṇa's point is that the criterion for divine acceptance is not the monetary value of the offering but the quality of the devotion behind it ('bhaktyā') and the purity of the heart ('prayatātmanaḥ'). This verse demolishes any economic or social barrier to spiritual life: every person, regardless of station, can offer and be received by the Divine."

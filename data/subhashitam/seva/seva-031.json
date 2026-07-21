@@ -1,10 +1,14 @@
 {
   "id": "seva-031",
-  "tags": ["seva", "vipra", "dharma"],
+  "tags": [
+    "seva",
+    "vipra",
+    "dharma"
+  ],
   "shlokam": {
     "te": "అభయం సర్వభూతేభ్యో దదాతి యది జీవతి ।\nసర్వదానేషు తద్దానం సర్వధర్మేషు చోత్తమమ్ ॥",
     "sa": "अभयं सर्वभूतेभ्यो ददाति यदि जीवति ।\nसर्वदानेषु तद्दानं सर्वधर्मेषु चोत्तमम् ॥",
-    "iast": "abhayaṃ sarvabhūtebhyo dadāti yadi jīvati |\nsarvadāneṣu tad dānaṃ sarvadharmeṣu cottamam ||"
+    "iast": "abhayaṃ sarvabhūtebhyo dadāti yadi jīvati ।\nsarvadāneṣu taddānaṃ sarvadharmeṣu cottamam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

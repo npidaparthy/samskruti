@@ -1,35 +1,34 @@
 {
   "id": "bhakti-010",
-  "tags": ["bhakti", "sarvasya-caham", "gita", "omnipresence", "hridaya"],
-
+  "tags": [
+    "bhakti",
+    "sarvasya-caham",
+    "gita",
+    "omnipresence",
+    "hridaya"
+  ],
   "shlokam": {
     "te": "సర్వస్య చాహం హృది సన్నివిష్టో మత్తః స్మృతిర్జ్ఞానమపోహనం చ ।\nవేదైశ్చ సర్వైరహమేవ వేద్యో వేదాన్తకృద్వేదవిదేవ చాహమ్ ॥",
     "sa": "सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनं च ।\nवेदैश्च सर्वैरहमेव वेद्यो वेदान्तकृद्वेदविदेव चाहम् ॥",
-    "iast": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanam ca |\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||"
+    "iast": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanaṃ ca ।\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ॥"
   },
-
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 15.15",
     "name_en": "Bhagavad Gītā 15.15"
   },
-
   "padavibhagam": {
     "te": "సర్వస్య | చ | అహం | హృది | సన్నివిష్టః | మత్తః | స్మృతిః | జ్ఞానం | అపోహనం | చ | వేదైః | చ | సర్వైః | అహం | ఏవ | వేద్యః | వేదాన్త-కృత్ | వేద-విత్ | ఏవ | చ | అహం",
     "en": "sarvasya | ca | aham | hṛdi | sanniviṣṭaḥ | mattaḥ | smṛtiḥ | jñānam | apohanam | ca | vedaiḥ | ca | sarvaiḥ | aham | eva | vedyaḥ | vedānta-kṛt | veda-vit | eva | ca | aham"
   },
-
   "anvayam": {
     "te": "అహం సర్వస్య హృది సన్నివిష్టః (నేను అందరి హృదయంలో ప్రవేశించి ఉన్నాను); మత్తః స్మృతిః జ్ఞానం అపోహనం చ (నా నుండే స్మృతి, జ్ఞానం, విస్మరణ కలుగుతున్నాయి). సర్వైః వేదైః చ అహం ఏవ వేద్యః (సమస్త వేదాల ద్వారా నన్నే తెలుసుకోవాలి); అహం వేదాన్తకృత్ వేదవిత్ ఏవ చ (నేనే వేదాంత రచించినవాడిని, వేదాలు తెలిసినవాడిని).",
     "en": "aham sarvasya hṛdi sanniviṣṭaḥ (I am seated in the heart of all); mattaḥ smṛtiḥ jñānam apohanam ca (from Me come memory, knowledge, and their loss). sarvaiḥ vedaiḥ ca aham eva vedyaḥ (through all the Vedas I alone am to be known); aham vedāntakṛt vedavit eva ca (I am the author of Vedānta and the knower of the Vedas)."
   },
-
   "meaning": {
     "te": "నేను అందరి హృదయంలో వసిస్తున్నాను; నా నుండే స్మృతి, జ్ఞానం, మరపు కలుగుతున్నాయి. సమస్త వేదాల ద్వారా నన్నే తెలుసుకోవాలి; నేనే వేదాంత కర్తను, వేదవేత్తను.",
     "en": "I am seated in the heart of all; from Me come memory, knowledge, and their removal. Through all the Vedas I alone am to be known; I am the author of Vedānta and the knower of the Vedas."
   },
-
   "tatparyam": {
     "te": "గీతలో 15వ అధ్యాయంలో 'పురుషోత్తమ యోగం' లో ఈ శ్లోకం వస్తుంది. 'అహం హృది సన్నివిష్టః' — నేను హృదయంలో ఉన్నాను — ఇది కేవలం భక్తికి కాదు, జ్ఞానానికి కూడా మూలం. స్మృతి, జ్ఞానం, అపోహనం (విస్మరణ) — అన్నీ భగవంతుని వలన. వేద అధ్యయనం చేస్తున్నప్పుడు గుర్తుండాలి — వేదాలు కృష్ణుని వైపే చూపిస్తాయి. 'వేదాన్తకృత్' అన్న పదం కృష్ణుడే వేదాంతానికి మూలం అని చెప్తుంది. ఇది భక్తి, జ్ఞానాలు రెండూ ఒకే మూల సత్యం వైపు నడిపించే వాక్యం.",
     "en": "From the fifteenth chapter of the Gītā (the Puruṣottama Yoga), this verse declares Kṛṣṇa's universal presence and omniscience. Seated in every heart, He is the source of each person's memory, knowledge, and forgetting — cognitive functions themselves flow from the Divine. The verse then makes a bold claim about the Vedic tradition: the entire corpus of Vedas has one goal — the knowledge of this one Self. Kṛṣṇa claims to be both the composer of Vedānta and its ultimate subject matter. For the bhakta, this is deeply reassuring: the Divine is not distant but present in the very cognitive faculty by which we seek It."

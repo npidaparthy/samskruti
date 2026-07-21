@@ -1,10 +1,14 @@
 {
   "id": "dharma-061",
-  "tags": ["dharma", "gita", "purushottama-yoga"],
+  "tags": [
+    "dharma",
+    "gita",
+    "purushottama-yoga"
+  ],
   "shlokam": {
     "te": "యస్మాత్క్షరమతీతోఽహమక్షరాదపి చోత్తమః ।\nఅతోఽస్మి లోకే వేదే చ ప్రథితః పురుషోత్తమః ॥",
     "sa": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः ।\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ॥",
-    "iast": "yasmāt kṣaram atīto'ham akṣarād api cottamaḥ |\nato'smi loke vede ca prathitaḥ puruṣottamaḥ ||"
+    "iast": "yasmātkṣaramatīto'hamakṣarādapi cottamaḥ ।\nato'smi loke vede ca prathitaḥ puruṣottamaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

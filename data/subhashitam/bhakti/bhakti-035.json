@@ -1,10 +1,14 @@
 {
   "id": "bhakti-035",
-  "tags": ["bhakti", "shiva", "shivananda"],
+  "tags": [
+    "bhakti",
+    "shiva",
+    "shivananda"
+  ],
   "shlokam": {
     "te": "కరచరణకృతం వాక్కాయజం కర్మజం వా\nశ్రవణనయనజం వా మానసం వాపరాధమ్ ।\nవిహితమవిహితం వా సర్వమేతత్క్షమస్వ\nజయ జయ కరుణాబ్ధే శ్రీమహాదేవ శమ్భో ॥",
     "sa": "करचरणकृतं वाक्कायजं कर्मजं वा\nश्रवणनयनजं वा मानसं वापराधम् ।\nविहितमविहितं वा सर्वमेतत्क्षमस्व\nजय जय करुणाब्धे श्रीमहादेव शम्भो ॥",
-    "iast": "karacaraṇakṛtaṃ vākkāyajaṃ karmajaṃ vā\nśravaṇanayanajaṃ vā mānasaṃ vāparādham |\nvihitam avihitaṃ vā sarvam etat kṣamasva\njaya jaya karuṇābdhe śrīmahādeva śambho ||"
+    "iast": "karacaraṇakṛtaṃ vākkāyajaṃ karmajaṃ vā\nśravaṇanayanajaṃ vā mānasaṃ vāparādham ।\nvihitamavihitaṃ vā sarvametatkṣamasva\njaya jaya karuṇābdhe śrīmahādeva śambho ॥"
   },
   "chandaH": "మాలిని (Mālinī) — 15 syllables per quarter, 4 quarters",
   "granthaH": {

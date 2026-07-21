@@ -1,10 +1,14 @@
 {
   "id": "dharma-026",
-  "tags": ["dharma", "pratishtha", "veda"],
+  "tags": [
+    "dharma",
+    "pratishtha",
+    "veda"
+  ],
   "shlokam": {
     "te": "ధర్మో విశ్వస్య జగతః ప్రతిష్ఠా ।\nలోకే ధర్మిష్ఠం ప్రజా ఉపసర్పన్తి ।\nధర్మేణ పాపమపనుదతి ।\nధర్మే సర్వం ప్రతిష్ఠితమ్ ।\nతస్మాద్ధర్మం పరమం వదన్తి ॥",
     "sa": "धर्मो विश्वस्य जगतः प्रतिष्ठा ।\nलोके धर्मिष्ठं प्रजा उपसर्पन्ति ।\nधर्मेण पापमपनुदति ।\nधर्मे सर्वं प्रतिष्ठितम् ।\nतस्माद्धर्मं परमं वदन्ति ॥",
-    "iast": "dharmo viśvasya jagataḥ pratiṣṭhā |\nloke dharmiṣṭhaṃ prajā upasarpanti |\ndharmeṇa pāpam apanudati |\ndharme sarvaṃ pratiṣṭhitam |\ntasmād dharmaṃ paramaṃ vadanti ||"
+    "iast": "dharmo viśvasya jagataḥ pratiṣṭhā ।\nloke dharmiṣṭhaṃ prajā upasarpanti ।\ndharmeṇa pāpamapanudati ।\ndharme sarvaṃ pratiṣṭhitam ।\ntasmāddharmaṃ paramaṃ vadanti ॥"
   },
   "chandaH": "వైదిక గద్యము (Vedic prose)",
   "granthaH": {

@@ -1,10 +1,15 @@
 {
   "id": "seva-002",
-  "tags": ["seva", "ahimsa", "atithi", "grihasta"],
+  "tags": [
+    "seva",
+    "ahimsa",
+    "atithi",
+    "grihasta"
+  ],
   "shlokam": {
     "te": "అతిథిదేవో భవ ।\nమాతృదేవో భవ ।\nపితృదేవో భవ ।\nఆచార్యదేవో భవ ॥",
     "sa": "अतिथिदेवो भव ।\nमातृदेवो भव ।\nपितृदेवो भव ।\nआचार्यदेवो भव ॥",
-    "iast": "atithidevo bhava |\nmātṛdevo bhava |\npitṛdevo bhava |\nācāryadevo bhava ||"
+    "iast": "atithidevo bhava ।\nmātṛdevo bhava ।\npitṛdevo bhava ।\nācāryadevo bhava ॥"
   },
   "chandaH": "సూత్రపాదమ్ — అనుశాసన రూపమ్ (imperative aphorisms)",
   "granthaH": {

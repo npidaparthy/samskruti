@@ -1,10 +1,15 @@
 {
   "id": "dharma-007",
-  "tags": ["dharma", "uttishtha", "jagrata", "veda"],
+  "tags": [
+    "dharma",
+    "uttishtha",
+    "jagrata",
+    "veda"
+  ],
   "shlokam": {
     "te": "ఉత్తిష్ఠత జాగ్రత ప్రాప్య వరాన్నిబోధత ।\nక్షురస్య ధారా నిశితా దురత్యయా దుర్గం పథస్తత్కవయో వదన్తి ॥",
     "sa": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत ।\nक्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ॥",
-    "iast": "uttiṣṭhata jāgrata prāpya varānnibodhata |\nkṣurasya dhārā niśitā duratyayā durgaṃ pathastatkavayo vadanti ||"
+    "iast": "uttiṣṭhata jāgrata prāpya varānnibodhata ।\nkṣurasya dhārā niśitā duratyayā durgaṃ pathastatkavayo vadanti ॥"
   },
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
   "granthaH": {

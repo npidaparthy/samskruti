@@ -1,10 +1,14 @@
 {
   "id": "bhakti-039",
-  "tags": ["bhakti", "gita", "brahmi-sthiti"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "brahmi-sthiti"
+  ],
   "shlokam": {
-    "te": "బ్రహ్మభూతః ప్రసన్నాత్మా న శోచతి న కాంక్షతి ।\nసమః సర్వేషు భూతేషు మద్భక్తిం లభతే పరామ్ ॥",
+    "te": "బ్రహ్మభూతః ప్రసన్నాత్మా న శోచతి న కాఙ్క్షతి ।\nసమః సర్వేషు భూతేషు మద్భక్తిం లభతే పరామ్ ॥",
     "sa": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥",
-    "iast": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati |\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām ||"
+    "iast": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati ।\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "karma-026",
-  "tags": ["karma", "gita", "annam"],
+  "tags": [
+    "karma",
+    "gita",
+    "annam"
+  ],
   "shlokam": {
     "te": "అన్నాద్భవన్తి భూతాని పర్జన్యాదన్నసమ్భవః ।\nయజ్ఞాద్భవతి పర్జన్యో యజ్ఞః కర్మసముద్భవః ॥",
     "sa": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥",
-    "iast": "annād bhavanti bhūtāni parjanyād annasambhavaḥ |\nyajñād bhavati parjanyo yajñaḥ karmasamudbhavaḥ ||"
+    "iast": "annādbhavanti bhūtāni parjanyādannasambhavaḥ ।\nyajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

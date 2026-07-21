@@ -1,10 +1,14 @@
 {
   "id": "bhakti-031",
-  "tags": ["bhakti", "bhagavatam", "prahlada"],
+  "tags": [
+    "bhakti",
+    "bhagavatam",
+    "prahlada"
+  ],
   "shlokam": {
     "te": "శ్రవణం కీర్తనం విష్ణోః స్మరణం పాదసేవనమ్ ।\nఅర్చనం వన్దనం దాస్యం సఖ్యమాత్మనివేదనమ్ ॥",
     "sa": "श्रवणं कीर्तनं विष्णोः स्मरणं पादसेवनम् ।\nअर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् ॥",
-    "iast": "śravaṇaṃ kīrtanaṃ viṣṇoḥ smaraṇaṃ pādasevanam |\narcanaṃ vandanaṃ dāsyaṃ sakhyam ātmanivedanam ||"
+    "iast": "śravaṇaṃ kīrtanaṃ viṣṇoḥ smaraṇaṃ pādasevanam ।\narcanaṃ vandanaṃ dāsyaṃ sakhyamātmanivedanam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

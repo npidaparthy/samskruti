@@ -1,10 +1,14 @@
 {
   "id": "seva-021",
-  "tags": ["seva", "mahatma", "hridaya"],
+  "tags": [
+    "seva",
+    "mahatma",
+    "hridaya"
+  ],
   "shlokam": {
     "te": "వజ్రాదపి కఠోరాణి మృదూని కుసుమాదపి ।\nలోకోత్తరాణాం చేతాంసి కో హి విజ్ఞాతుమర్హతి ॥",
     "sa": "वज्रादपि कठोराणि मृदूनि कुसुमादपि ।\nलोकोत्तराणां चेतांसि को हि विज्ञातुमर्हति ॥",
-    "iast": "vajrād api kaṭhorāṇi mṛdūni kusumād api |\nlokottarāṇāṃ cetāṃsi ko hi vijñātum arhati ||"
+    "iast": "vajrādapi kaṭhorāṇi mṛdūni kusumādapi ।\nlokottarāṇāṃ cetāṃsi ko hi vijñātumarhati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

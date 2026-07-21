@@ -1,10 +1,14 @@
 {
   "id": "karma-024",
-  "tags": ["karma", "prarabdha", "purushakara"],
+  "tags": [
+    "karma",
+    "prarabdha",
+    "purushakara"
+  ],
   "shlokam": {
     "te": "మాతా శత్రుః పితా వైరీ యేన బాలో న పాఠితః ।\nన శోభతే సభామధ్యే హంసమధ్యే బకో యథా ॥",
     "sa": "माता शत्रुः पिता वैरी येन बालो न पाठितः ।\nन शोभते सभामध्ये हंसमध्ये बको यथा ॥",
-    "iast": "mātā śatruḥ pitā vairī yena bālo na pāṭhitaḥ |\nna śobhate sabhāmadhye haṃsamadhye bako yathā ||"
+    "iast": "mātā śatruḥ pitā vairī yena bālo na pāṭhitaḥ ।\nna śobhate sabhāmadhye haṃsamadhye bako yathā ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

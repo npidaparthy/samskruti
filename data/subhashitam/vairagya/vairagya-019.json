@@ -1,10 +1,14 @@
 {
   "id": "vairagya-019",
-  "tags": ["vairagya", "santosha", "dhana"],
+  "tags": [
+    "vairagya",
+    "santosha",
+    "dhana"
+  ],
   "shlokam": {
     "te": "మూఢ జహీహి ధనాగమతృష్ణాం\nకురు సద్బుద్ధిం మనసి వితృష్ణామ్ ।\nయల్లభసే నిజకర్మోపాత్తం\nవిత్తం తేన వినోదయ చిత్తమ్ ॥",
     "sa": "मूढ जहीहि धनागमतृष्णां\nकुरु सद्बुद्धिं मनसि वितृष्णाम् ।\nयल्लभसे निजकर्मोपात्तं\nवित्तं तेन विनोदय चित्तम् ॥",
-    "iast": "mūḍha jahīhi dhanāgamatṛṣṇāṃ\nkuru sadbuddhiṃ manasi vitṛṣṇām |\nyal labhase nijakarmopāttaṃ\nvittaṃ tena vinodaya cittam ||"
+    "iast": "mūḍha jahīhi dhanāgamatṛṣṇāṃ\nkuru sadbuddhiṃ manasi vitṛṣṇām ।\nyallabhase nijakarmopāttaṃ\nvittaṃ tena vinodaya cittam ॥"
   },
   "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
   "granthaH": {

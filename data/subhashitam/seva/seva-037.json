@@ -1,10 +1,14 @@
 {
   "id": "seva-037",
-  "tags": ["seva", "gita", "adhikara-svabhava"],
+  "tags": [
+    "seva",
+    "gita",
+    "adhikara-svabhava"
+  ],
   "shlokam": {
     "te": "ఇన్ద్రియస్యేన్ద్రియస్యార్థే రాగద్వేషౌ వ్యవస్థితౌ ।\nతయోర్న వశమాగచ్ఛేత్తౌ హ్యస్య పరిపన్థినౌ ॥",
     "sa": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।\nतयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥",
-    "iast": "indriyasyendriyasyārthe rāgadveṣau vyavasthitau |\ntayor na vaśam āgacchet tau hy asya paripanthinau ||"
+    "iast": "indriyasyendriyasyārthe rāgadveṣau vyavasthitau ।\ntayorna vaśamāgacchettau hyasya paripanthinau ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

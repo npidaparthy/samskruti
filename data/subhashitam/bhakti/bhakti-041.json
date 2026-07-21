@@ -1,10 +1,14 @@
 {
   "id": "bhakti-041",
-  "tags": ["bhakti", "gita", "bhakti-visesha"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "bhakti-visesha"
+  ],
   "shlokam": {
-    "te": "మయి సర్వాణి కర్మాణి సంన్యస్యాధ్యాత్మచేతసా ।\nనిరాశీర్నిర్మమో భూత్వా యుధ్యస్వ విగతజ్వరః ॥",
-    "sa": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥",
-    "iast": "mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā |\nnirāśīr nirmamo bhūtvā yudhyasva vigatajvaraḥ ||"
+    "te": "మయి సర్వాణి కర్మాణి సన్న్యస్యాధ్యాత్మచేతసా ।\nనిరాశీర్నిర్మమో భూత్వా యుధ్యస్వ విగతజ్వరః ॥",
+    "sa": "मयि सर्वाणि कर्माणि सन्न्यस्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥",
+    "iast": "mayi sarvāṇi karmāṇi sannyasyādhyātmacetasā ।\nnirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

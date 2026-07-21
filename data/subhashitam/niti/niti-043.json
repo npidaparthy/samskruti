@@ -1,10 +1,14 @@
 {
   "id": "niti-043",
-  "tags": ["niti", "mitra", "pariksha"],
+  "tags": [
+    "niti",
+    "mitra",
+    "pariksha"
+  ],
   "shlokam": {
     "te": "పరీక్ష్య లోకతత్త్వాని పరీక్ష్య గురులాఘవమ్ ।\nశక్యాశక్యే చ కృత్యాని కుర్యాద్యో నావసీదతి ॥",
     "sa": "परीक्ष्य लोकतत्त्वानि परीक्ष्य गुरुलाघवम् ।\nशक्याशक्ये च कृत्यानि कुर्याद्यो नावसीदति ॥",
-    "iast": "parīkṣya lokatattvāni parīkṣya gurulāghavam |\nśakyāśakye ca kṛtyāni kuryād yo nāvasīdati ||"
+    "iast": "parīkṣya lokatattvāni parīkṣya gurulāghavam ।\nśakyāśakye ca kṛtyāni kuryādyo nāvasīdati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

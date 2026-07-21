@@ -1,35 +1,33 @@
 {
   "id": "bhakti-002",
-  "tags": ["bhakti", "sharanagati", "gita", "moksha"],
-
+  "tags": [
+    "bhakti",
+    "sharanagati",
+    "gita",
+    "moksha"
+  ],
   "shlokam": {
     "te": "సర్వధర్మాన్ పరిత్యజ్య మామేకం శరణం వ్రజ ।\nఅహం త్వా సర్వపాపేభ్యో మోక్షయిష్యామి మా శుచః ॥",
     "sa": "सर्वधर्मान् परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥",
-    "iast": "sarvadharmān parityajya māmekaṃ śaraṇaṃ vraja |\nahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ ||"
+    "iast": "sarvadharmān parityajya māmekaṃ śaraṇaṃ vraja ।\nahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 18.66",
     "name_en": "Bhagavad Gītā 18.66"
   },
-
   "padavibhagam": {
     "te": "సర్వధర్మాన్ | పరిత్యజ్య | మాం | ఏకం | శరణం | వ్రజ | అహం | త్వా | సర్వపాపేభ్యః | మోక్షయిష్యామి | మా | శుచః",
     "en": "sarvadharmān | parityajya | mām | ekam | śaraṇam | vraja | aham | tvā | sarvapāpebhyaḥ | mokṣayiṣyāmi | mā | śucaḥ"
   },
-
   "anvayam": {
     "te": "సర్వధర్మాన్ పరిత్యజ్య (అన్ని ధర్మాలను విడిచి), మాం ఏకం శరణం వ్రజ (నన్ను ఒక్కడినే శరణు పొందు); అహం త్వా సర్వపాపేభ్యః మోక్షయిష్యామి (నేను నిన్ను అన్ని పాపముల నుండి విముక్తుని చేస్తాను); మా శుచః (శోకపడకు).",
     "en": "sarvadharmān parityajya (abandoning all forms of dharma), mām ekam śaraṇam vraja (take refuge in me alone); aham tvā sarvapāpebhyaḥ mokṣayiṣyāmi (I will liberate you from all sins); mā śucaḥ (do not grieve)."
   },
-
   "meaning": {
     "te": "అన్ని ధర్మాలను వదలి నన్ను ఒక్కడినే శరణు పొందు. నేను నిన్ను అన్ని పాపముల నుండి విముక్తుని చేస్తాను — శోకపడకు.",
     "en": "Give up all forms of dharma and take refuge in me alone. I will liberate you from all sins — do not grieve."
   },
-
   "tatparyam": {
     "te": "ఇది గీత యొక్క చరమ శ్లోకం (charama śloka) — కృష్ణుని చివరి వాగ్దానం. 'సర్వధర్మాన్ పరిత్యజ్య' అంటే అన్ని ధర్మాలను వదలడం కాదు — అన్ని ధర్మాల ఫలాపేక్షను వదలి, కేవలం భగవంతుని శరణు పొందడం. ఇది విశ్రాంతి శ్లోకం — 'మా శుచః' అనే చివరి మాట ప్రతి భక్తుని మనసులో స్థిరపడాలి.",
     "en": "This is the charama-śloka of the Gītā — Kṛṣṇa's ultimate promise. 'Sarvadharmān parityajya' does not mean abandoning all ethical duties; it means surrendering the fruits of all religious effort and taking refuge in the divine alone. This is the culmination of the Gītā's teaching: after all the paths of karma, jñāna, and bhakti have been described, Kṛṣṇa distils everything into one imperative — surrender. 'Mā śucaḥ' (do not grieve) is the divine assurance that this surrender is safe."

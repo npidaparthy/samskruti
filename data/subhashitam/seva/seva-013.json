@@ -1,10 +1,14 @@
 {
   "id": "seva-013",
-  "tags": ["seva", "dana", "veda"],
+  "tags": [
+    "seva",
+    "dana",
+    "veda"
+  ],
   "shlokam": {
     "te": "శతహస్త సమాహర సహస్రహస్త సం కిర ॥",
     "sa": "शतहस्त समाहर सहस्रहस्त सं किर ॥",
-    "iast": "śatahasta samāhara sahasrahasta saṃ kira ||"
+    "iast": "śatahasta samāhara sahasrahasta saṃ kira ॥"
   },
   "chandaH": "వైదిక మన్త్రము (Vedic mantra)",
   "granthaH": {

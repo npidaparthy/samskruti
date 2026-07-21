@@ -1,10 +1,14 @@
 {
   "id": "niti-040",
-  "tags": ["niti", "dhana", "duhkha"],
+  "tags": [
+    "niti",
+    "dhana",
+    "duhkha"
+  ],
   "shlokam": {
     "te": "అర్థానామర్జనే దుఃఖమర్జితానాం చ రక్షణే ।\nఆయే దుఃఖం వ్యయే దుఃఖం ధిగర్థాః కష్టసంశ్రయాః ॥",
     "sa": "अर्थानामर्जने दुःखमर्जितानां च रक्षणे ।\nआये दुःखं व्यये दुःखं धिगर्थाः कष्टसंश्रयाः ॥",
-    "iast": "arthānām arjane duḥkham arjitānāṃ ca rakṣaṇe |\nāye duḥkhaṃ vyaye duḥkhaṃ dhig arthāḥ kaṣṭasaṃśrayāḥ ||"
+    "iast": "arthānāmarjane duḥkhamarjitānāṃ ca rakṣaṇe ।\nāye duḥkhaṃ vyaye duḥkhaṃ dhigarthāḥ kaṣṭasaṃśrayāḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

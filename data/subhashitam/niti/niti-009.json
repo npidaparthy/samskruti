@@ -1,10 +1,15 @@
 {
   "id": "niti-009",
-  "tags": ["niti", "vasudhaiva", "kutumbakam", "universality"],
+  "tags": [
+    "niti",
+    "vasudhaiva",
+    "kutumbakam",
+    "universality"
+  ],
   "shlokam": {
     "te": "అయం నిజః పరో వేతి గణనా లఘుచేతసామ్ ।\nఉదారచరితానాం తు వసుధైవ కుటుమ్బకమ్ ॥",
     "sa": "अयं निजः परो वेति गणना लघुचेतसाम् ।\nउदारचरितानां तु वसुधैव कुटुम्बकम् ॥",
-    "iast": "ayaṃ nijaḥ paro veti gaṇanā laghucetasām |\nudāracaritānāṃ tu vasudhaiva kuṭumbakam ||"
+    "iast": "ayaṃ nijaḥ paro veti gaṇanā laghucetasām ।\nudāracaritānāṃ tu vasudhaiva kuṭumbakam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

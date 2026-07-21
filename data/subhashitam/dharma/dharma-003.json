@@ -1,10 +1,15 @@
 {
   "id": "dharma-003",
-  "tags": ["dharma", "ratna", "prithvi", "trishta"],
+  "tags": [
+    "dharma",
+    "ratna",
+    "prithvi",
+    "trishta"
+  ],
   "shlokam": {
-    "te": "పృథివ్యాం త్రీణి రత్నాని జలమన్నం సుభాషితమ్ ।\nమూఢైః పాషాణఖణ్డేషు రత్నసంజ్ఞా విధీయతే ॥",
-    "sa": "पृथिव्यां त्रीणि रत्नानि जलमन्नं सुभाषितम् ।\nमूढैः पाषाणखण्डेषु रत्नसंज्ञा विधीयते ॥",
-    "iast": "pṛthivyāṃ trīṇi ratnāni jalamannaṃ subhāṣitam |\nmūḍhaiḥ pāṣāṇakhaṇḍeṣu ratna saṃjñā vidhīyate ||"
+    "te": "పృథివ్యాం త్రీణి రత్నాని జలమన్నం సుభాషితమ్ ।\nమూఢైః పాషాణఖణ్డేషు రత్నసఞ్జ్ఞా విధీయతే ॥",
+    "sa": "पृथिव्यां त्रीणि रत्नानि जलमन्नं सुभाषितम् ।\nमूढैः पाषाणखण्डेषु रत्नसञ्ज्ञा विधीयते ॥",
+    "iast": "pṛthivyāṃ trīṇi ratnāni jalamannaṃ subhāṣitam ।\nmūḍhaiḥ pāṣāṇakhaṇḍeṣu ratnasañjñā vidhīyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

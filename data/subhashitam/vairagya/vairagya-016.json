@@ -1,10 +1,14 @@
 {
   "id": "vairagya-016",
-  "tags": ["vairagya", "trishna", "kala"],
+  "tags": [
+    "vairagya",
+    "trishna",
+    "kala"
+  ],
   "shlokam": {
     "te": "భోగా న భుక్తా వయమేవ భుక్తాః\nతపో న తప్తం వయమేవ తప్తాః ।\nకాలో న యాతో వయమేవ యాతాః\nతృష్ణా న జీర్ణా వయమేవ జీర్ణాః ॥",
     "sa": "भोगा न भुक्ता वयमेव भुक्ताः\nतपो न तप्तं वयमेव तप्ताः ।\nकालो न यातो वयमेव याताः\nतृष्णा न जीर्णा वयमेव जीर्णाः ॥",
-    "iast": "bhogā na bhuktā vayam eva bhuktāḥ\ntapo na taptaṃ vayam eva taptāḥ |\nkālo na yāto vayam eva yātāḥ\ntṛṣṇā na jīrṇā vayam eva jīrṇāḥ ||"
+    "iast": "bhogā na bhuktā vayameva bhuktāḥ\ntapo na taptaṃ vayameva taptāḥ ।\nkālo na yāto vayameva yātāḥ\ntṛṣṇā na jīrṇā vayameva jīrṇāḥ ॥"
   },
   "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
   "granthaH": {

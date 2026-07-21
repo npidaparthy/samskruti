@@ -1,35 +1,34 @@
 {
   "id": "niti-016",
-  "tags": ["niti", "vidya", "vinaya", "shobha", "hitopadesha"],
-
+  "tags": [
+    "niti",
+    "vidya",
+    "vinaya",
+    "shobha",
+    "hitopadesha"
+  ],
   "shlokam": {
     "te": "విద్యా వినయేన శోభతే ।",
     "sa": "विद्या विनयेन शोभते ।",
-    "iast": "vidyā vinayena śobhate |"
+    "iast": "vidyā vinayena śobhate ।"
   },
-
   "chandaH": "సూక్తి (Sūkti) — prose aphorism",
-
   "granthaH": {
     "name_te": "హితోపదేశః",
     "name_en": "Hitopadeśa"
   },
-
   "padavibhagam": {
     "te": "విద్యా | వినయేన | శోభతే",
     "en": "vidyā | vinayena | śobhate"
   },
-
   "anvayam": {
     "te": "విద్యా వినయేన శోభతే — విద్య వినయంతో శోభిస్తుంది.",
     "en": "vidyā (knowledge/learning) vinayena (by humility/modesty) śobhate (shines / becomes beautiful)."
   },
-
   "meaning": {
     "te": "విద్య వినయంతో (వినమ్రతతో) మాత్రమే శోభిస్తుంది — గర్వంతో కాదు.",
     "en": "Knowledge shines only when accompanied by humility — not by arrogance."
   },
-
   "tatparyam": {
     "te": "విద్య మనిషికి జ్ఞానాన్ని ఇస్తుంది, కానీ జ్ఞానం వినయం లేకుండా అహంకారంగా మారుతుంది. హితోపదేశం చెప్పే సూత్రం ఏమిటంటే — నిజమైన పాండిత్యం ఎల్లప్పుడూ వినమ్రతను పెంపొందిస్తుంది. 'విద్యా దదాతి వినయం' అని ఉన్నది — అనగా విద్య వినయాన్ని ఇస్తుంది; ఆ వినయమే విద్యను మరింత ప్రకాశింపజేస్తుంది. ఇది గురువు శిష్యులకు ఇచ్చిన అతి ముఖ్యమైన జీవిత సత్యం.",
     "en": "Knowledge alone does not make a person great — it is humility that allows knowledge to truly shine. The Hitopadeśa teaching is that genuine learning always produces modesty, because the more one knows, the more one realizes how little one knows. 'Vidyā dadāti vinayam' — knowledge gives humility — and this humility in turn becomes the ornament that makes the learned person truly respected. Arrogance destroys the beauty of learning the way clouds hide the sun."

@@ -1,10 +1,14 @@
 {
   "id": "karma-035",
-  "tags": ["karma", "gita", "trividha-karta"],
+  "tags": [
+    "karma",
+    "gita",
+    "trividha-karta"
+  ],
   "shlokam": {
-    "te": "అనిష్టమిష్టం మిశ్రం చ త్రివిధం కర్మణః ఫలమ్ ।\nభవత్యత్యాగినాం ప్రేత్య న తు సంన్యాసినాం క్వచిత్ ॥",
-    "sa": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् ।\nभवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ॥",
-    "iast": "aniṣṭam iṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam |\nbhavaty atyāgināṃ pretya na tu saṃnyāsināṃ kvacit ||"
+    "te": "అనిష్టమిష్టం మిశ్రం చ త్రివిధం కర్మణః ఫలమ్ ।\nభవత్యత్యాగినాం ప్రేత్య న తు సన్న్యాసినాం క్వచిత్ ॥",
+    "sa": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् ।\nभवत्यत्यागिनां प्रेत्य न तु सन्न्यासिनां क्वचित् ॥",
+    "iast": "aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam ।\nbhavatyatyāgināṃ pretya na tu sannyāsināṃ kvacit ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

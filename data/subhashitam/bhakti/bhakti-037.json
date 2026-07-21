@@ -1,10 +1,14 @@
 {
   "id": "bhakti-037",
-  "tags": ["bhakti", "gita", "bhaktih-shreyasi"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "bhaktih-shreyasi"
+  ],
   "shlokam": {
     "te": "క్లేశోఽధికతరస్తేషామవ్యక్తాసక్తచేతసామ్ ।\nఅవ్యక్తా హి గతిర్దుఃఖం దేహవద్భిరవాప్యతే ॥",
     "sa": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ।\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ॥",
-    "iast": "kleśo'dhikataras teṣām avyaktāsaktacetasām |\navyaktā hi gatir duḥkhaṃ dehavadbhir avāpyate ||"
+    "iast": "kleśo'dhikatarasteṣāmavyaktāsaktacetasām ।\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "niti-064",
-  "tags": ["niti", "chanakya", "purusha-lakshana"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "purusha-lakshana"
+  ],
   "shlokam": {
-    "te": "యస్య నాస్తి స్వయం ప్రజ్ఞా బుద్ధిర్వా బుద్ధిమత్సఖా ।\nసందేహాత్మా వినశ్యేత విచికిత్సాతురో నరః ॥",
+    "te": "యస్య నాస్తి స్వయం ప్రజ్ఞా బుద్ధిర్వా బుద్ధిమత్సఖా ।\nసన్దేహాత్మా వినశ్యేత విచికిత్సాతురో నరః ॥",
     "sa": "यस्य नास्ति स्वयं प्रज्ञा बुद्धिर्वा बुद्धिमत्सखा ।\nसन्देहात्मा विनश्येत विचिकित्सातुरो नरः ॥",
-    "iast": "yasya nāsti svayaṃ prajñā buddhir vā buddhimatsakhā |\nsandehātmā vinaśyeta vicikitsāturo naraḥ ||"
+    "iast": "yasya nāsti svayaṃ prajñā buddhirvā buddhimatsakhā ।\nsandehātmā vinaśyeta vicikitsāturo naraḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

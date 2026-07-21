@@ -1,35 +1,34 @@
 {
   "id": "dharma-016",
-  "tags": ["dharma", "nainam-chhindanti", "atma", "gita", "avinashi"],
-
+  "tags": [
+    "dharma",
+    "nainam-chhindanti",
+    "atma",
+    "gita",
+    "avinashi"
+  ],
   "shlokam": {
     "te": "నైనం ఛిన్దన్తి శస్త్రాణి నైనం దహతి పావకః ।\nన చైనం క్లేదయన్త్యాపో న శోషయతి మారుతః ॥",
     "sa": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥",
-    "iast": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ |\nna cainaṃ kledayantyāpo na śoṣayati mārutaḥ ||"
+    "iast": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ ।\nna cainaṃ kledayantyāpo na śoṣayati mārutaḥ ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 2.23",
     "name_en": "Bhagavad Gītā 2.23"
   },
-
   "padavibhagam": {
     "te": "న | ఏనం | ఛిన్దన్తి | శస్త్రాణి | న | ఏనం | దహతి | పావకః | న | చ | ఏనం | క్లేదయన్తి | ఆపః | న | శోషయతి | మారుతః",
     "en": "na | enam | chindanti | śastrāṇi | na | enam | dahati | pāvakaḥ | na | ca | enam | kledayanti | āpaḥ | na | śoṣayati | mārutaḥ"
   },
-
   "anvayam": {
     "te": "శస్త్రాణి ఏనం న ఛిన్దన్తి (ఆయుధాలు దీన్ని కత్తిరించవు); పావకః ఏనం న దహతి (అగ్ని దీన్ని కాల్చలేదు); ఆపః చ ఏనం న క్లేదయన్తి (నీళ్ళు దీన్ని తడపలేవు); మారుతః న శోషయతి (గాలి దీన్ని ఆరిపోయేలా చేయలేదు).",
     "en": "śastrāṇi enam na chindanti (weapons cannot cut this — the ātman); pāvakaḥ enam na dahati (fire cannot burn it); āpaḥ ca enam na kledayanti (water cannot wet it); mārutaḥ na śoṣayati (wind cannot dry it)."
   },
-
   "meaning": {
     "te": "ఆయుధాలు ఆత్మను కత్తిరించలేవు, అగ్ని కాల్చలేదు, నీళ్ళు తడపలేవు, గాలి ఆరిపోయేలా చేయలేదు.",
     "en": "Weapons cannot cut the soul, fire cannot burn it, water cannot wet it, wind cannot dry it."
   },
-
   "tatparyam": {
     "te": "భగవద్గీతలో కృష్ణుడు అర్జునుడికి ఆత్మ స్వభావాన్ని వివరించే సందర్భంలో ఈ అద్భుతమైన శ్లోకం వస్తుంది. పంచభూతాలు — భూమి, నీరు, అగ్ని, వాయువు, ఆకాశం — ఇవి ఆత్మను స్పృశించలేవు. ఆత్మ అవినాశి, నిత్యం, అజం — ఎప్పుడూ పుట్టదు, చనిపోదు. ఈ జ్ఞానం అర్జునుని శోకాన్ని తొలగించడానికి చెప్పబడింది. జీవన సంక్షోభ సమయాలలో ఈ వాక్యాలు ఒక అద్భుతమైన ఆత్మవిశ్వాసాన్ని ఇస్తాయి.",
     "en": "This celebrated verse from the Bhagavad Gītā (2.23) contains Kṛṣṇa's description of the imperishability of the ātman (soul). The four elements — weapons (representing earth), fire, water, and wind — cannot touch the soul because the soul is beyond all material categories. This teaching was given to Arjuna who was grieving over the prospect of killing his kinsmen in battle. Kṛṣṇa's point is that the soul is never born and never dies; what appears to die is only the body. This verse has brought immeasurable comfort to countless people facing grief, loss, and the fear of death."

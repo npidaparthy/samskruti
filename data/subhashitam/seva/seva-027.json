@@ -1,10 +1,14 @@
 {
   "id": "seva-027",
-  "tags": ["seva", "dharma", "sharira-yatra"],
+  "tags": [
+    "seva",
+    "dharma",
+    "sharira-yatra"
+  ],
   "shlokam": {
     "te": "అన్నం బ్రహ్మేతి వ్యజానాత్ ।\nఅన్నాద్ధ్యేవ ఖల్విమాని భూతాని జాయన్తే ॥",
     "sa": "अन्नं ब्रह्मेति व्यजानात् ।\nअन्नाद्ध्येव खल्विमानि भूतानि जायन्ते ॥",
-    "iast": "annaṃ brahmeti vyajānāt |\nannād dhy eva khalv imāni bhūtāni jāyante ||"
+    "iast": "annaṃ brahmeti vyajānāt ।\nannāddhyeva khalvimāni bhūtāni jāyante ॥"
   },
   "chandaH": "వైదిక గద్యము (Vedic prose)",
   "granthaH": {

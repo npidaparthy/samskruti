@@ -1,10 +1,14 @@
 {
   "id": "niti-030",
-  "tags": ["niti", "vak", "priyavachana"],
+  "tags": [
+    "niti",
+    "vak",
+    "priyavachana"
+  ],
   "shlokam": {
     "te": "ప్రియవాక్యప్రదానేన సర్వే తుష్యన్తి జన్తవః ।\nతస్మాత్తదేవ వక్తవ్యం వచనే కా దరిద్రతా ॥",
     "sa": "प्रियवाक्यप्रदानेन सर्वे तुष्यन्ति जन्तवः ।\nतस्मात्तदेव वक्तव्यं वचने का दरिद्रता ॥",
-    "iast": "priyavākyapradānena sarve tuṣyanti jantavaḥ |\ntasmāt tad eva vaktavyaṃ vacane kā daridratā ||"
+    "iast": "priyavākyapradānena sarve tuṣyanti jantavaḥ ।\ntasmāttadeva vaktavyaṃ vacane kā daridratā ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

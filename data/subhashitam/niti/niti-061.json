@@ -1,10 +1,14 @@
 {
   "id": "niti-061",
-  "tags": ["niti", "chanakya", "desha-kala"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "desha-kala"
+  ],
   "shlokam": {
     "te": "కావ్యశాస్త్రవిహీనస్య సాక్షాత్పశుః పుచ్ఛవిషాణహీనః ।\nతృణం న ఖాదన్నపి జీవమానస్తద్భాగధేయం పరమం పశూనామ్ ॥",
     "sa": "काव्यशास्त्रविहीनस्य साक्षात्पशुः पुच्छविषाणहीनः ।\nतृणं न खादन्नपि जीवमानस्तद्भागधेयं परमं पशूनाम् ॥",
-    "iast": "kāvyaśāstravihīnasya sākṣāt paśuḥ pucchaviṣāṇahīnaḥ |\ntṛṇaṃ na khādann api jīvamānas tadbhāgadheyaṃ paramaṃ paśūnām ||"
+    "iast": "kāvyaśāstravihīnasya sākṣātpaśuḥ pucchaviṣāṇahīnaḥ ।\ntṛṇaṃ na khādannapi jīvamānastadbhāgadheyaṃ paramaṃ paśūnām ॥"
   },
   "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
   "granthaH": {

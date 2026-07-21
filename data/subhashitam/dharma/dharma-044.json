@@ -1,10 +1,14 @@
 {
   "id": "dharma-044",
-  "tags": ["dharma", "kutumba", "grihastha"],
+  "tags": [
+    "dharma",
+    "kutumba",
+    "grihastha"
+  ],
   "shlokam": {
     "te": "యస్మిన్ కుటుమ్బే యుక్తానాం వృద్ధానాం చానువర్తనమ్ ।\nవర్తతే తత్కులం శ్రేష్ఠం విపరీతం వినశ్యతి ॥",
     "sa": "यस्मिन् कुटुम्बे युक्तानां वृद्धानां चानुवर्तनम् ।\nवर्तते तत्कुलं श्रेष्ठं विपरीतं विनश्यति ॥",
-    "iast": "yasmin kuṭumbe yuktānāṃ vṛddhānāṃ cānuvartanam |\nvartate tat kulaṃ śreṣṭhaṃ viparītaṃ vinaśyati ||"
+    "iast": "yasmin kuṭumbe yuktānāṃ vṛddhānāṃ cānuvartanam ।\nvartate tatkulaṃ śreṣṭhaṃ viparītaṃ vinaśyati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

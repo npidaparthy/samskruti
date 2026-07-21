@@ -1,10 +1,14 @@
 {
   "id": "karma-042",
-  "tags": ["karma", "gita", "buddhiyoga-sharanya"],
+  "tags": [
+    "karma",
+    "gita",
+    "buddhiyoga-sharanya"
+  ],
   "shlokam": {
-    "te": "దూరేణ హ్యవరం కర్మ బుద్ధియోగాద్ధనంజయ ।\nబుద్ధౌ శరణమన్విచ్ఛ కృపణాః ఫలహేతవః ॥",
+    "te": "దూరేణ హ్యవరం కర్మ బుద్ధియోగాద్ధనఞ్జయ ।\nబుద్ధౌ శరణమన్విచ్ఛ కృపణాః ఫలహేతవః ॥",
     "sa": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय ।\nबुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ॥",
-    "iast": "dūreṇa hy avaraṃ karma buddhiyogād dhanañjaya |\nbuddhau śaraṇam anviccha kṛpaṇāḥ phalahetavaḥ ||"
+    "iast": "dūreṇa hyavaraṃ karma buddhiyogāddhanañjaya ।\nbuddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

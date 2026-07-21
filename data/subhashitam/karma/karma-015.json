@@ -1,10 +1,14 @@
 {
   "id": "karma-015",
-  "tags": ["karma", "gita", "abhaya"],
+  "tags": [
+    "karma",
+    "gita",
+    "abhaya"
+  ],
   "shlokam": {
     "te": "నేహాభిక్రమనాశోఽస్తి ప్రత్యవాయో న విద్యతే ।\nస్వల్పమప్యస్య ధర్మస్య త్రాయతే మహతో భయాత్ ॥",
     "sa": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥",
-    "iast": "nehābhikramanāśo'sti pratyavāyo na vidyate |\nsvalpam apy asya dharmasya trāyate mahato bhayāt ||"
+    "iast": "nehābhikramanāśo'sti pratyavāyo na vidyate ।\nsvalpamapyasya dharmasya trāyate mahato bhayāt ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

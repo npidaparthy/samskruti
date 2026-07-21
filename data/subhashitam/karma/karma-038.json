@@ -1,10 +1,14 @@
 {
   "id": "karma-038",
-  "tags": ["karma", "hitopadesha", "arambha"],
+  "tags": [
+    "karma",
+    "hitopadesha",
+    "arambha"
+  ],
   "shlokam": {
     "te": "ఆరభ్యతే న ఖలు విఘ్నభయేన నీచైః\nప్రారభ్య విఘ్నవిహతా విరమన్తి మధ్యాః ।\nవిఘ్నైః పునః పునరపి ప్రతిహన్యమానాః\nప్రారబ్ధముత్తమజనా న పరిత్యజన్తి ॥",
     "sa": "आरभ्यते न खलु विघ्नभयेन नीचैः\nप्रारभ्य विघ्नविहता विरमन्ति मध्याः ।\nविघ्नैः पुनः पुनरपि प्रतिहन्यमानाः\nप्रारब्धमुत्तमजना न परित्यजन्ति ॥",
-    "iast": "ārabhyate na khalu vighnabhayena nīcaiḥ\nprārabhya vighnavihatā viramanti madhyāḥ |\nvighnaiḥ punaḥ punar api pratihanyamānāḥ\nprārabdham uttamajanā na parityajanti ||"
+    "iast": "ārabhyate na khalu vighnabhayena nīcaiḥ\nprārabhya vighnavihatā viramanti madhyāḥ ।\nvighnaiḥ punaḥ punarapi pratihanyamānāḥ\nprārabdhamuttamajanā na parityajanti ॥"
   },
   "chandaH": "వసన్తతిలకా (Vasantatilakā) — 14 syllables per quarter, 4 quarters",
   "granthaH": {

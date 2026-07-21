@@ -1,10 +1,15 @@
 {
   "id": "dharma-004",
-  "tags": ["dharma", "janani", "janmabhoomi", "matru"],
+  "tags": [
+    "dharma",
+    "janani",
+    "janmabhoomi",
+    "matru"
+  ],
   "shlokam": {
     "te": "జననీ జన్మభూమిశ్చ స్వర్గాదపి గరీయసీ ।",
     "sa": "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी ।",
-    "iast": "jananī janmabhūmiśca svargādapi garīyasī |"
+    "iast": "jananī janmabhūmiśca svargādapi garīyasī ।"
   },
   "chandaH": "అనుష్టుప్ అర్ధభాగమ్ (half-verse, Anuṣṭup)",
   "granthaH": {

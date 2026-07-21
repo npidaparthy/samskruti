@@ -1,10 +1,14 @@
 {
   "id": "niti-005",
-  "tags": ["niti", "mitra", "pariksha"],
+  "tags": [
+    "niti",
+    "mitra",
+    "pariksha"
+  ],
   "shlokam": {
-    "te": "ఆపత్కాలే తు సంప్రాప్తే యన్మిత్రం మిత్రముచ్యతే ।\nభోజనే వ్యసనే చైవ తద్ధి సత్యం పరీక్ష్యతే ॥",
-    "sa": "आपत्काले तु संप्राप्ते यन्मित्रं मित्रमुच्यते ।\nभोजने व्यसने चैव तद्धि सत्यं परीक्ष्यते ॥",
-    "iast": "āpatkāle tu saṃprāpte yanmitraṃ mitramucyate |\nbhojane vyasane caiva taddhi satyaṃ parīkṣyate ||"
+    "te": "ఆపత్కాలే తు సమ్ప్రాప్తే యన్మిత్రం మిత్రముచ్యతే ।\nభోజనే వ్యసనే చైవ తద్ధి సత్యం పరీక్ష్యతే ॥",
+    "sa": "आपत्काले तु सम्प्राप्ते यन्मित्रं मित्रमुच्यते ।\nभोजने व्यसने चैव तद्धि सत्यं परीक्ष्यते ॥",
+    "iast": "āpatkāle tu samprāpte yanmitraṃ mitramucyate ।\nbhojane vyasane caiva taddhi satyaṃ parīkṣyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

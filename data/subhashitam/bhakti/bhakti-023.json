@@ -1,10 +1,14 @@
 {
   "id": "bhakti-023",
-  "tags": ["bhakti", "narada", "prema"],
+  "tags": [
+    "bhakti",
+    "narada",
+    "prema"
+  ],
   "shlokam": {
     "te": "సా త్వస్మిన్ పరమప్రేమరూపా ॥\nఅమృతస్వరూపా చ ॥\nయల్లబ్ధ్వా పుమాన్ సిద్ధో భవతి\nఅమృతో భవతి తృప్తో భవతి ॥",
     "sa": "सा त्वस्मिन् परमप्रेमरूपा ॥\nअमृतस्वरूपा च ॥\nयल्लब्ध्वा पुमान् सिद्धो भवति\nअमृतो भवति तृप्तो भवति ॥",
-    "iast": "sā tv asmin paramapremarūpā ||\namṛtasvarūpā ca ||\nyal labdhvā pumān siddho bhavati\namṛto bhavati tṛpto bhavati ||"
+    "iast": "sā tvasmin paramapremarūpā ॥\namṛtasvarūpā ca ॥\nyallabdhvā pumān siddho bhavati\namṛto bhavati tṛpto bhavati ॥"
   },
   "chandaH": "సూత్రగద్యము (sūtra prose)",
   "granthaH": {

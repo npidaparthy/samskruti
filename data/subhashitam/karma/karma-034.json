@@ -1,10 +1,14 @@
 {
   "id": "karma-034",
-  "tags": ["karma", "gita", "traigunya"],
+  "tags": [
+    "karma",
+    "gita",
+    "traigunya"
+  ],
   "shlokam": {
     "te": "త్రైగుణ్యవిషయా వేదా నిస్త్రైగుణ్యో భవార్జున ।\nనిర్ద్వన్ద్వో నిత్యసత్త్వస్థో నిర్యోగక్షేమ ఆత్మవాన్ ॥",
     "sa": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन ।\nनिर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् ॥",
-    "iast": "traiguṇyaviṣayā vedā nistraiguṇyo bhavārjuna |\nnirdvandvo nityasattvastho niryogakṣema ātmavān ||"
+    "iast": "traiguṇyaviṣayā vedā nistraiguṇyo bhavārjuna ।\nnirdvandvo nityasattvastho niryogakṣema ātmavān ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

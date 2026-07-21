@@ -1,10 +1,14 @@
 {
   "id": "dharma-025",
-  "tags": ["dharma", "vriksha", "prakruti"],
+  "tags": [
+    "dharma",
+    "vriksha",
+    "prakruti"
+  ],
   "shlokam": {
     "te": "దశకూపసమా వాపీ దశవాపీసమో హ్రదః ।\nదశహ్రదసమః పుత్రో దశపుత్రసమో ద్రుమః ॥",
     "sa": "दशकूपसमा वापी दशवापीसमो ह्रदः ।\nदशह्रदसमः पुत्रो दशपुत्रसमो द्रुमः ॥",
-    "iast": "daśakūpasamā vāpī daśavāpīsamo hradaḥ |\ndaśahradasamaḥ putro daśaputrasamo drumaḥ ||"
+    "iast": "daśakūpasamā vāpī daśavāpīsamo hradaḥ ।\ndaśahradasamaḥ putro daśaputrasamo drumaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

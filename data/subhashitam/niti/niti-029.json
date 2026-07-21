@@ -1,10 +1,14 @@
 {
   "id": "niti-029",
-  "tags": ["niti", "vidya", "vidyarthi"],
+  "tags": [
+    "niti",
+    "vidya",
+    "vidyarthi"
+  ],
   "shlokam": {
-    "te": "కాకచేష్టా బకోధ్యానం శ్వాననిద్రా తథైవ చ ।\nఅల్పాహారీ గృహత్యాగీ విద్యార్థీ పంచలక్షణమ్ ॥",
+    "te": "కాకచేష్టా బకోధ్యానం శ్వాననిద్రా తథైవ చ ।\nఅల్పాహారీ గృహత్యాగీ విద్యార్థీ పఞ్చలక్షణమ్ ॥",
     "sa": "काकचेष्टा बकोध्यानं श्वाननिद्रा तथैव च ।\nअल्पाहारी गृहत्यागी विद्यार्थी पञ्चलक्षणम् ॥",
-    "iast": "kākaceṣṭā bakodhyānaṃ śvānanidrā tathaiva ca |\nalpāhārī gṛhatyāgī vidyārthī pañcalakṣaṇam ||"
+    "iast": "kākaceṣṭā bakodhyānaṃ śvānanidrā tathaiva ca ।\nalpāhārī gṛhatyāgī vidyārthī pañcalakṣaṇam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

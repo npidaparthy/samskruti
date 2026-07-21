@@ -1,10 +1,14 @@
 {
   "id": "vairagya-034",
-  "tags": ["vairagya", "gita", "sthitaprajna"],
+  "tags": [
+    "vairagya",
+    "gita",
+    "sthitaprajna"
+  ],
   "shlokam": {
     "te": "దుఃఖేష్వనుద్విగ్నమనాః సుఖేషు విగతస్పృహః ।\nవీతరాగభయక్రోధః స్థితధీర్మునిరుచ్యతే ॥",
     "sa": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ॥",
-    "iast": "duḥkheṣv anudvignamanāḥ sukheṣu vigataspṛhaḥ |\nvītarāgabhayakrodhaḥ sthitadhīr munir ucyate ||"
+    "iast": "duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ ।\nvītarāgabhayakrodhaḥ sthitadhīrmunirucyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

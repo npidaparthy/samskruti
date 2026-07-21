@@ -1,10 +1,14 @@
 {
   "id": "dharma-036",
-  "tags": ["dharma", "sthiti", "manas"],
+  "tags": [
+    "dharma",
+    "sthiti",
+    "manas"
+  ],
   "shlokam": {
     "te": "మనఏవ మనుష్యాణాం కారణం బన్ధమోక్షయోః ।\nబన్ధాయ విషయాసఙ్గం ముక్త్యై నిర్విషయం స్మృతమ్ ॥",
     "sa": "मनएव मनुष्याणां कारणं बन्धमोक्षयोः ।\nबन्धाय विषयासङ्गं मुक्त्यै निर्विषयं स्मृतम् ॥",
-    "iast": "mana eva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ |\nbandhāya viṣayāsaṅgaṃ muktyai nirviṣayaṃ smṛtam ||"
+    "iast": "manaeva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ ।\nbandhāya viṣayāsaṅgaṃ muktyai nirviṣayaṃ smṛtam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

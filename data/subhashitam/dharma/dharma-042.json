@@ -1,10 +1,14 @@
 {
   "id": "dharma-042",
-  "tags": ["dharma", "guru", "shishya"],
+  "tags": [
+    "dharma",
+    "guru",
+    "shishya"
+  ],
   "shlokam": {
-    "te": "అజ్ఞానతిమిరాన్ధస్య జ్ఞానాంజనశలాకయా ।\nచక్షురున్మీలితం యేన తస్మై శ్రీగురవే నమః ॥",
+    "te": "అజ్ఞానతిమిరాన్ధస్య జ్ఞానాఞ్జనశలాకయా ।\nచక్షురున్మీలితం యేన తస్మై శ్రీగురవే నమః ॥",
     "sa": "अज्ञानतिमिरान्धस्य ज्ञानाञ्जनशलाकया ।\nचक्षुरुन्मीलितं येन तस्मै श्रीगुरवे नमः ॥",
-    "iast": "ajñānatimirāndhasya jñānāñjanaśalākayā |\ncakṣur unmīlitaṃ yena tasmai śrīgurave namaḥ ||"
+    "iast": "ajñānatimirāndhasya jñānāñjanaśalākayā ।\ncakṣurunmīlitaṃ yena tasmai śrīgurave namaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

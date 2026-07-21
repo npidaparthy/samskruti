@@ -1,10 +1,14 @@
 {
   "id": "dharma-043",
-  "tags": ["dharma", "raja", "prajapalana"],
+  "tags": [
+    "dharma",
+    "raja",
+    "prajapalana"
+  ],
   "shlokam": {
     "te": "ప్రజాసుఖే సుఖం రాజ్ఞః ప్రజానాం చ హితే హితమ్ ।\nనాత్మప్రియం హితం రాజ్ఞః ప్రజానాం తు హితం ప్రియమ్ ॥",
     "sa": "प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् ।\nनात्मप्रियं हितं राज्ञः प्रजानां तु हितं प्रियम् ॥",
-    "iast": "prajāsukhe sukhaṃ rājñaḥ prajānāṃ ca hite hitam |\nnātmapriyaṃ hitaṃ rājñaḥ prajānāṃ tu hitaṃ priyam ||"
+    "iast": "prajāsukhe sukhaṃ rājñaḥ prajānāṃ ca hite hitam ।\nnātmapriyaṃ hitaṃ rājñaḥ prajānāṃ tu hitaṃ priyam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "bhakti-016",
-  "tags": ["bhakti", "kunti", "bhagavatam"],
+  "tags": [
+    "bhakti",
+    "kunti",
+    "bhagavatam"
+  ],
   "shlokam": {
-    "te": "త్వయి మేఽనన్యవిషయా మతిర్మధుపతేఽసకృత్ ।\nరతిముద్వహతాదద్ధా గంగేవౌఘముదన్వతి ॥",
+    "te": "త్వయి మేఽనన్యవిషయా మతిర్మధుపతేఽసకృత్ ।\nరతిముద్వహతాదద్ధా గఙ్గేవౌఘముదన్వతి ॥",
     "sa": "त्वयि मेऽनन्यविषया मतिर्मधुपतेऽसकृत् ।\nरतिमुद्वहतादद्धा गङ्गेवौघमुदन्वति ॥",
-    "iast": "tvayi me'nanyaviṣayā matir madhupate'sakṛt |\nratim udvahatād addhā gaṅgevaugham udanvati ||"
+    "iast": "tvayi me'nanyaviṣayā matirmadhupate'sakṛt ।\nratimudvahatādaddhā gaṅgevaughamudanvati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

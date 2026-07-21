@@ -1,10 +1,14 @@
 {
   "id": "dharma-046",
-  "tags": ["dharma", "vak", "bhashana"],
+  "tags": [
+    "dharma",
+    "vak",
+    "bhashana"
+  ],
   "shlokam": {
     "te": "తథా చతుర్విధం వాచస్తపః పరమముచ్యతే ।\nఅనుద్వేగకరం వాక్యం సత్యం ప్రియహితం చ యత్ ।\nస్వాధ్యాయాభ్యసనం చైవ వాఙ్మయం తప ఉచ్యతే ॥",
     "sa": "तथा चतुर्विधं वाचस्तपः परममुच्यते ।\nअनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् ।\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ॥",
-    "iast": "tathā caturvidhaṃ vācas tapaḥ paramam ucyate |\nanudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat |\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||"
+    "iast": "tathā caturvidhaṃ vācastapaḥ paramamucyate ।\nanudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat ।\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter (extended 3 lines)",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "dharma-049",
-  "tags": ["dharma", "kaala", "vinasha"],
+  "tags": [
+    "dharma",
+    "kaala",
+    "vinasha"
+  ],
   "shlokam": {
     "te": "కాలః పచతి భూతాని కాలః సంహరతే ప్రజాః ।\nకాలః సుప్తేషు జాగర్తి కాలో హి దురతిక్రమః ॥",
     "sa": "कालः पचति भूतानि कालः संहरते प्रजाः ।\nकालः सुप्तेषु जागर्ति कालो हि दुरतिक्रमः ॥",
-    "iast": "kālaḥ pacati bhūtāni kālaḥ saṃharate prajāḥ |\nkālaḥ supteṣu jāgarti kālo hi duratikramaḥ ||"
+    "iast": "kālaḥ pacati bhūtāni kālaḥ saṃharate prajāḥ ।\nkālaḥ supteṣu jāgarti kālo hi duratikramaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

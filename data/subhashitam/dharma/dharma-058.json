@@ -1,10 +1,14 @@
 {
   "id": "dharma-058",
-  "tags": ["dharma", "gita", "vibhajana"],
+  "tags": [
+    "dharma",
+    "gita",
+    "vibhajana"
+  ],
   "shlokam": {
     "te": "చాతుర్వర్ణ్యం మయా సృష్టం గుణకర్మవిభాగశః ।\nతస్య కర్తారమపి మాం విద్ధ్యకర్తారమవ్యయమ్ ॥",
     "sa": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥",
-    "iast": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ |\ntasya kartāram api māṃ viddhy akartāram avyayam ||"
+    "iast": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ ।\ntasya kartāramapi māṃ viddhyakartāramavyayam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

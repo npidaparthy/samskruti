@@ -1,10 +1,14 @@
 {
   "id": "seva-034",
-  "tags": ["seva", "gita", "sthula-vibhuti"],
+  "tags": [
+    "seva",
+    "gita",
+    "sthula-vibhuti"
+  ],
   "shlokam": {
-    "te": "యద్యద్విభూతిమత్సత్త్వం శ్రీమదూర్జితమేవ వా ।\nతత్తదేవావగచ్ఛ త్వం మమ తేజోంఽశసంభవమ్ ॥",
+    "te": "యద్యద్విభూతిమత్సత్త్వం శ్రీమదూర్జితమేవ వా ।\nతత్తదేవావగచ్ఛ త్వం మమ తేజోంఽశసమ్భవమ్ ॥",
     "sa": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा ।\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ॥",
-    "iast": "yad yad vibhūtimat sattvaṃ śrīmad ūrjitam eva vā |\ntat tad evāvagaccha tvaṃ mama tejo'ṃśasambhavam ||"
+    "iast": "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā ।\ntattadevāvagaccha tvaṃ mama tejoṃ'śasambhavam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

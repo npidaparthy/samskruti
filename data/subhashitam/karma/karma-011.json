@@ -1,35 +1,34 @@
 {
   "id": "karma-011",
-  "tags": ["karma", "sarvarambhah", "dosha", "gita", "imperfection"],
-
+  "tags": [
+    "karma",
+    "sarvarambhah",
+    "dosha",
+    "gita",
+    "imperfection"
+  ],
   "shlokam": {
     "te": "సహజం కర్మ కౌన్తేయ సదోషమపి న త్యజేత్ ।\nసర్వారమ్భాహి దోషేణ ధూమేనాగ్నిరివావృతాః ॥",
     "sa": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।\nसर्वारम्भाहि दोषेण धूमेनाग्निरिवावृताः ॥",
-    "iast": "sahajaṃ karma kaunteya sadoṣamapi na tyajet |\nsarvārambhāhi doṣeṇa dhūmenāgnirivāvṛtāḥ ||"
+    "iast": "sahajaṃ karma kaunteya sadoṣamapi na tyajet ।\nsarvārambhāhi doṣeṇa dhūmenāgnirivāvṛtāḥ ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 18.48",
     "name_en": "Bhagavad Gītā 18.48"
   },
-
   "padavibhagam": {
     "te": "సహజం | కర్మ | కౌన్తేయ | స-దోషం | అపి | న | త్యజేత్ | సర్వ-ఆరమ్భాః | హి | దోషేణ | ధూమేన | అగ్నిః | ఇవ | ఆవృతాః",
     "en": "sahajam | karma | kaunteya | sa-doṣam | api | na | tyajet | sarva-ārambhāḥ | hi | doṣeṇa | dhūmena | agniḥ | iva | āvṛtāḥ"
   },
-
   "anvayam": {
     "te": "కౌన్తేయ (ఓ కుంతీపుత్రా), సదోషం అపి సహజం కర్మ న త్యజేత్ (దోషముతో ఉన్నా సహజ కర్మను వదలకూడదు). సర్వ ఆరమ్భాః హి దోషేణ ఆవృతాః (అన్ని ఆరంభాలు దోషముతో కప్పబడి ఉంటాయి) అగ్నిః ధూమేన ఇవ (అగ్ని పొగతో కప్పబడినట్లు).",
     "en": "kaunteya (O son of Kuntī), sa-doṣam api sahajam karma na tyajet (one should not abandon one's innate duty even if it has flaws). sarva-ārambhāḥ hi doṣeṇa āvṛtāḥ (all undertakings indeed are enveloped by flaw) agniḥ dhūmena iva (as fire is by smoke)."
   },
-
   "meaning": {
     "te": "ఓ కుంతీపుత్రా! దోషాలు ఉన్నా సహజ కర్మను వదలకూడదు. అగ్ని పొగతో కప్పబడినట్లు అన్ని ఆరంభాలూ దోషాలతో కప్పబడి ఉంటాయి.",
     "en": "O son of Kuntī, one should not abandon one's innate duty, even if it is imperfect. As fire is covered by smoke, all undertakings are covered by imperfection."
   },
-
   "tatparyam": {
     "te": "ఈ శ్లోకం పరిపూర్ణత కోసం కర్మను వదిలిపెట్టే ధోరణిని ఖండిస్తుంది. ఈ లోకంలో ఏ కార్యమూ పూర్తి నిర్దోషంగా ఉండదు — అగ్నికి పొగ ఉన్నట్లు. కానీ అగ్ని తాపం ఇస్తుంది, వంట చేస్తుంది — పొగ ఉన్నా దాని పని చేస్తుంది. అదే విధంగా మన సహజ కర్మ — అందులో లోపాలున్నా పాటిస్తే జీవితం సాగుతుంది. పరిపూర్ణత కాదు, నిరంతర సాధన ముఖ్యమైనది. స్వధర్మాన్ని పాటించడమే గీత ఉపదేశం.",
     "en": "This verse from the Gītā's final chapter addresses the tendency to abandon duty because it seems imperfect or involves unavoidable flaws. Kṛṣṇa uses the brilliant simile of fire and smoke: fire's essence is heat and light, but it always comes with smoke. Similarly, every undertaking involves some imperfection — some harm, some compromise, some limitation. The key is not to wait for perfect conditions but to fulfil one's innate duty (sahaja karma) despite its imperfections. This is realistic wisdom: demanding perfection as a condition for action leads only to paralysis."

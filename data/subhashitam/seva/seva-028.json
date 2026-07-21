@@ -1,10 +1,14 @@
 {
   "id": "seva-028",
-  "tags": ["seva", "dana", "shraddha"],
+  "tags": [
+    "seva",
+    "dana",
+    "shraddha"
+  ],
   "shlokam": {
     "te": "న దేయం క్షుద్రయాచ్ఞాయై న దానం సఫలం లఘు ।\nయద్దానం మహతే దేయం తదేవ ఫలవత్స్మృతమ్ ॥",
     "sa": "न देयं क्षुद्रयाच्ञायै न दानं सफलं लघु ।\nयद्दानं महते देयं तदेव फलवत्स्मृतम् ॥",
-    "iast": "na deyaṃ kṣudrayācñāyai na dānaṃ saphalaṃ laghu |\nyad dānaṃ mahate deyaṃ tad eva phalavat smṛtam ||"
+    "iast": "na deyaṃ kṣudrayācñāyai na dānaṃ saphalaṃ laghu ।\nyaddānaṃ mahate deyaṃ tadeva phalavatsmṛtam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

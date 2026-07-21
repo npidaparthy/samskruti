@@ -1,10 +1,14 @@
 {
   "id": "bhakti-030",
-  "tags": ["bhakti", "hanuman", "dasyabhava"],
+  "tags": [
+    "bhakti",
+    "hanuman",
+    "dasyabhava"
+  ],
   "shlokam": {
     "te": "దేహబుద్ధ్యా తు దాసోఽహం జీవబుద్ధ్యా త్వదంశకః ।\nఆత్మబుద్ధ్యా త్వమేవాహమితి మే నిశ్చితా మతిః ॥",
     "sa": "देहबुद्ध्या तु दासोऽहं जीवबुद्ध्या त्वदंशकः ।\nआत्मबुद्ध्या त्वमेवाहमिति मे निश्चिता मतिः ॥",
-    "iast": "dehabuddhyā tu dāso'haṃ jīvabuddhyā tvadaṃśakaḥ |\nātmabuddhyā tvam evāham iti me niścitā matiḥ ||"
+    "iast": "dehabuddhyā tu dāso'haṃ jīvabuddhyā tvadaṃśakaḥ ।\nātmabuddhyā tvamevāhamiti me niścitā matiḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

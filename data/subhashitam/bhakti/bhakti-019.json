@@ -1,10 +1,14 @@
 {
   "id": "bhakti-019",
-  "tags": ["bhakti", "gita", "kshama"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "kshama"
+  ],
   "shlokam": {
     "te": "అపి చేత్సుదురాచారో భజతే మామనన్యభాక్ ।\nసాధురేవ స మన్తవ్యః సమ్యగ్వ్యవసితో హి సః ॥",
     "sa": "अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।\nसाधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ॥",
-    "iast": "api cet sudurācāro bhajate mām ananyabhāk |\nsādhur eva sa mantavyaḥ samyag vyavasito hi saḥ ||"
+    "iast": "api cetsudurācāro bhajate māmananyabhāk ।\nsādhureva sa mantavyaḥ samyagvyavasito hi saḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "bhakti-036",
-  "tags": ["bhakti", "gita", "sarva-guhyatama"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "sarva-guhyatama"
+  ],
   "shlokam": {
     "te": "సర్వగుహ్యతమం భూయః శృణు మే పరమం వచః ।\nఇష్టోఽసి మే దృఢమితి తతో వక్ష్యామి తే హితమ్ ॥",
     "sa": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः ।\nइष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ॥",
-    "iast": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ |\niṣṭo'si me dṛḍham iti tato vakṣyāmi te hitam ||"
+    "iast": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ ।\niṣṭo'si me dṛḍhamiti tato vakṣyāmi te hitam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

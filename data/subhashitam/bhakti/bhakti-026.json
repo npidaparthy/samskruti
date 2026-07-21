@@ -1,10 +1,14 @@
 {
   "id": "bhakti-026",
-  "tags": ["bhakti", "gita", "bhakta-uttama"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "bhakta-uttama"
+  ],
   "shlokam": {
     "te": "మయ్యేవ మన ఆధత్స్వ మయి బుద్ధిం నివేశయ ।\nనివసిష్యసి మయ్యేవ అత ఊర్ధ్వం న సంశయః ॥",
     "sa": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय ।\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ॥",
-    "iast": "mayy eva mana ādhatsva mayi buddhiṃ niveśaya |\nnivasiṣyasi mayy eva ata ūrdhvaṃ na saṃśayaḥ ||"
+    "iast": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya ।\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

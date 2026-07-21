@@ -1,10 +1,14 @@
 {
   "id": "dharma-050",
-  "tags": ["dharma", "sadachara", "manu"],
+  "tags": [
+    "dharma",
+    "sadachara",
+    "manu"
+  ],
   "shlokam": {
     "te": "ఆచారః పరమో ధర్మః శ్రుత్యుక్తః స్మార్త ఏవ చ ।\nతస్మాదస్మిన్సదా యుక్తో నిత్యం స్యాదాత్మవాన్ద్విజః ॥",
     "sa": "आचारः परमो धर्मः श्रुत्युक्तः स्मार्त एव च ।\nतस्मादस्मिन्सदा युक्तो नित्यं स्यादात्मवान्द्विजः ॥",
-    "iast": "ācāraḥ paramo dharmaḥ śrutyuktaḥ smārta eva ca |\ntasmād asmin sadā yukto nityaṃ syād ātmavān dvijaḥ ||"
+    "iast": "ācāraḥ paramo dharmaḥ śrutyuktaḥ smārta eva ca ।\ntasmādasminsadā yukto nityaṃ syādātmavāndvijaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

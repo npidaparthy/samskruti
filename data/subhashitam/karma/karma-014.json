@@ -1,10 +1,14 @@
 {
   "id": "karma-014",
-  "tags": ["karma", "gita", "samatva"],
+  "tags": [
+    "karma",
+    "gita",
+    "samatva"
+  ],
   "shlokam": {
-    "te": "యోగస్థః కురు కర్మాణి సంగం త్యక్త్వా ధనంజయ ।\nసిద్ధ్యసిద్ధ్యోః సమో భూత్వా సమత్వం యోగ ఉచ్యతే ॥",
+    "te": "యోగస్థః కురు కర్మాణి సఙ్గం త్యక్త్వా ధనఞ్జయ ।\nసిద్ధ్యసిద్ధ్యోః సమో భూత్వా సమత్వం యోగ ఉచ్యతే ॥",
     "sa": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥",
-    "iast": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya |\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||"
+    "iast": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya ।\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

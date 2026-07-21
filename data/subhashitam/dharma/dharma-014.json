@@ -1,35 +1,34 @@
 {
   "id": "dharma-014",
-  "tags": ["dharma", "nari", "pujyante", "manusmriti", "stri-shakti"],
-
+  "tags": [
+    "dharma",
+    "nari",
+    "pujyante",
+    "manusmriti",
+    "stri-shakti"
+  ],
   "shlokam": {
     "te": "యత్ర నార్యస్తు పూజ్యన్తే రమన్తే తత్ర దేవతాః ।\nయత్రైతాస్తు న పూజ్యన్తే సర్వాస్తత్రాఫలాః క్రియాః ॥",
     "sa": "यत्र नार्यस्तु पूज्यन्ते रमन्ते तत्र देवताः ।\nयत्रैतास्तु न पूज्यन्ते सर्वास्तत्राफलाः क्रियाः ॥",
-    "iast": "yatra nāryastu pūjyante ramante tatra devatāḥ |\nyatraitāstu na pūjyante sarvāstatrāphalāḥ kriyāḥ ||"
+    "iast": "yatra nāryastu pūjyante ramante tatra devatāḥ ।\nyatraitāstu na pūjyante sarvāstatrāphalāḥ kriyāḥ ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "మనుస్మృతి 3.56",
     "name_en": "Manusmṛti 3.56"
   },
-
   "padavibhagam": {
     "te": "యత్ర | నార్యః | తు | పూజ్యన్తే | రమన్తే | తత్ర | దేవతాః | యత్ర | ఏతాః | తు | న | పూజ్యన్తే | సర్వాః | తత్ర | అఫలాః | క్రియాః",
     "en": "yatra | nāryaḥ | tu | pūjyante | ramante | tatra | devatāḥ | yatra | etāḥ | tu | na | pūjyante | sarvāḥ | tatra | aphalāḥ | kriyāḥ"
   },
-
   "anvayam": {
     "te": "యత్ర నార్యః పూజ్యన్తే (ఎక్కడ స్త్రీలు గౌరవింపబడతారో) తత్ర దేవతాః రమన్తే (అక్కడ దేవతలు ఆనందిస్తారు). యత్ర ఏతాః న పూజ్యన్తే (ఎక్కడ స్త్రీలు గౌరవింపబడరో) తత్ర సర్వాః క్రియాః అఫలాః (అక్కడ అన్ని కార్యాలూ నిష్ఫలాలు).",
     "en": "yatra nāryaḥ pūjyante (where women are honored) tatra devatāḥ ramante (there the gods rejoice); yatra etāḥ na pūjyante (where they are not honored) tatra sarvāḥ kriyāḥ aphalāḥ (there all actions are fruitless)."
   },
-
   "meaning": {
     "te": "ఎక్కడ స్త్రీలను గౌరవిస్తారో అక్కడ దేవతలు ఆనందిస్తారు. ఎక్కడ గౌరవించరో అక్కడ అన్ని కార్యాలూ నిష్ఫలం.",
     "en": "Where women are honored, the gods are pleased. Where they are not honored, all actions become fruitless."
   },
-
   "tatparyam": {
     "te": "మనుస్మృతిలో ఈ శ్లోకం స్త్రీ గౌరవానికి ఇచ్చిన ప్రాముఖ్యతను చాటుతుంది. స్త్రీ శక్తి లేకుండా ఏ కార్యమూ సిద్ధించదు — ఇది ఒక ఆధ్యాత్మిక సత్యం. శక్తి, లక్ష్మి, సరస్వతి — దేవతలు స్త్రీ రూపంలో ఉన్నారు; వాస్తవ స్త్రీలను అగౌరవపరిస్తే ఆ దేవతలు విముఖులవుతారు. ఒక ఇంట్లో, ఒక సమాజంలో స్త్రీలు సురక్షితంగా, గౌరవంగా ఉన్నారంటే ఆ చోటు సమృద్ధంగా ఉంటుందని సనాతన ధర్మం చెప్తుంది.",
     "en": "This verse from Manusmṛti makes a bold statement about the centrality of women's dignity in any flourishing society. Theologically, the divine is worshipped in female form — Śakti, Lakṣmī, Sarasvatī — and dishonouring actual women is tantamount to dishonouring the divine. Practically, the verse asserts that no family, community, or civilization can prosper if it mistreats women. The fruitlessness of all actions in such a place is total — no ritual, no effort, no enterprise bears fruit. This teaching has been cited across centuries as a scriptural foundation for women's rights."

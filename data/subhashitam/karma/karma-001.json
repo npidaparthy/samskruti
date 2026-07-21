@@ -1,10 +1,15 @@
 {
   "id": "karma-001",
-  "tags": ["karma", "gita", "adhikara", "phala"],
+  "tags": [
+    "karma",
+    "gita",
+    "adhikara",
+    "phala"
+  ],
   "shlokam": {
     "te": "కర్మణ్యేవాధికారస్తే మా ఫలేషు కదాచన ।\nమా కర్మఫలహేతుర్భూర్మా తే సఙ్గోఽస్త్వకర్మణి ॥",
     "sa": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥",
-    "iast": "karmaṇyevādhikāraste mā phaleṣu kadācana |\nmā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi ||"
+    "iast": "karmaṇyevādhikāraste mā phaleṣu kadācana ।\nmā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

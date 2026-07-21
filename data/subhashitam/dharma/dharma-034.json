@@ -1,10 +1,14 @@
 {
   "id": "dharma-034",
-  "tags": ["dharma", "matru", "pitru"],
+  "tags": [
+    "dharma",
+    "matru",
+    "pitru"
+  ],
   "shlokam": {
     "te": "ఉపాధ్యాయాన్దశాచార్య ఆచార్యాణాం శతం పితా ।\nసహస్రం తు పితౄన్మాతా గౌరవేణాతిరిచ్యతే ॥",
     "sa": "उपाध्यायान्दशाचार्य आचार्याणां शतं पिता ।\nसहस्रं तु पितॄन्माता गौरवेणातिरिच्यते ॥",
-    "iast": "upādhyāyān daśācārya ācāryāṇāṃ śataṃ pitā |\nsahasraṃ tu pitṝn mātā gauraveṇātiricyate ||"
+    "iast": "upādhyāyāndaśācārya ācāryāṇāṃ śataṃ pitā ।\nsahasraṃ tu pitṝnmātā gauraveṇātiricyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

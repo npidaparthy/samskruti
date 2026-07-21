@@ -1,10 +1,14 @@
 {
   "id": "niti-060",
-  "tags": ["niti", "chanakya", "vidya-dhana"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "vidya-dhana"
+  ],
   "shlokam": {
     "te": "సుఖస్య దుఃఖస్య న కోఽపి దాతా\nపరో దదాతీతి కుబుద్ధిరేషా ।\nస్వయం కృతం స్వేన ఫలం భునక్తి\nత్యజేహ మోహం జగదీశచిన్తామ్ ॥",
     "sa": "सुखस्य दुःखस्य न कोऽपि दाता\nपरो ददातीति कुबुद्धिरेषा ।\nस्वयं कृतं स्वेन फलं भुनक्ति\nत्यजेह मोहं जगदीशचिन्ताम् ॥",
-    "iast": "sukhasya duḥkhasya na ko'pi dātā\nparo dadātīti kubuddhir eṣā |\nsvayaṃ kṛtaṃ svena phalaṃ bhunakti\ntyajeha mohaṃ jagadīśacintām ||"
+    "iast": "sukhasya duḥkhasya na ko'pi dātā\nparo dadātīti kubuddhireṣā ।\nsvayaṃ kṛtaṃ svena phalaṃ bhunakti\ntyajeha mohaṃ jagadīśacintām ॥"
   },
   "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
   "granthaH": {

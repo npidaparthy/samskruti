@@ -1,10 +1,14 @@
 {
   "id": "niti-056",
-  "tags": ["niti", "chanakya", "mrga-simha"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "mrga-simha"
+  ],
   "shlokam": {
-    "te": "ఏకోఽపి గుణవాన్పుత్రో నిర్గుణేన శతేన కిమ్ ।\nఏకశ్చన్ద్రస్తమో హన్తి న చ తారాగణోఽపి చ ॥",
+    "te": "ఏకోఽపి గుణవాన్పుత్రో నిర్గుణేన శతేన కిమ్ ।\nఏకశ్చన్ద్రస్తమో హన్తి న చ తారాగ ణోఽపి చ ॥",
     "sa": "एकोऽपि गुणवान्पुत्रो निर्गुणेन शतेन किम् ।\nएकश्चन्द्रस्तमो हन्ति न च ताराग णोऽपि च ॥",
-    "iast": "eko'pi guṇavān putro nirguṇena śatena kim |\nekaś candras tamo hanti na ca tārāgaṇo'pi ca ||"
+    "iast": "eko'pi guṇavānputro nirguṇena śatena kim ।\nekaścandrastamo hanti na ca tārāga ṇo'pi ca ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "dharma-021",
-  "tags": ["dharma", "vinaya", "vrddhaseva"],
+  "tags": [
+    "dharma",
+    "vinaya",
+    "vrddhaseva"
+  ],
   "shlokam": {
     "te": "అభివాదనశీలస్య నిత్యం వృద్ధోపసేవినః ।\nచత్వారి తస్య వర్ధన్తే ఆయుర్విద్యా యశో బలమ్ ॥",
     "sa": "अभिवादनशीलस्य नित्यं वृद्धोपसेविनः ।\nचत्वारि तस्य वर्धन्ते आयुर्विद्या यशो बलम् ॥",
-    "iast": "abhivādanaśīlasya nityaṃ vṛddhopasevinaḥ |\ncatvāri tasya vardhante āyur vidyā yaśo balam ||"
+    "iast": "abhivādanaśīlasya nityaṃ vṛddhopasevinaḥ ।\ncatvāri tasya vardhante āyurvidyā yaśo balam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

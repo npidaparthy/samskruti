@@ -1,10 +1,14 @@
 {
   "id": "niti-007",
-  "tags": ["niti", "kshama", "strength"],
+  "tags": [
+    "niti",
+    "kshama",
+    "strength"
+  ],
   "shlokam": {
     "te": "క్షమా బలమశక్తానాం శక్తానాం భూషణం క్షమా ।\nక్షమా వశీకృతే లోకే క్షమయా కిం న సిధ్యతి ॥",
     "sa": "क्षमा बलमशक्तानां शक्तानां भूषणं क्षमा ।\nक्षमा वशीकृते लोके क्षमया किं न सिध्यति ॥",
-    "iast": "kṣamā balamśaktānāṃ śaktānāṃ bhūṣaṇaṃ kṣamā |\nkṣamā vaśīkṛte loke kṣamayā kiṃ na sidhyati ||"
+    "iast": "kṣamā balamaśaktānāṃ śaktānāṃ bhūṣaṇaṃ kṣamā ।\nkṣamā vaśīkṛte loke kṣamayā kiṃ na sidhyati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

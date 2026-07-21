@@ -1,10 +1,14 @@
 {
   "id": "seva-038",
-  "tags": ["seva", "gita", "sarvatra-avastithi"],
+  "tags": [
+    "seva",
+    "gita",
+    "sarvatra-avastithi"
+  ],
   "shlokam": {
-    "te": "విద్యావినయసమ్పన్నే బ్రాహ్మణే గవి హస్తిని ।\nశుని చైవ శ్వపాకే చ పండితాః సమదర్శినః ॥",
+    "te": "విద్యావినయసమ్పన్నే బ్రాహ్మణే గవి హస్తిని ।\nశుని చైవ శ్వపాకే చ పణ్డితాః సమదర్శినః ॥",
     "sa": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥",
-    "iast": "vidyāvinayasampanne brāhmaṇe gavi hastini |\nśuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ ||"
+    "iast": "vidyāvinayasampanne brāhmaṇe gavi hastini ।\nśuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "dharma-030",
-  "tags": ["dharma", "sthairya", "nitya"],
+  "tags": [
+    "dharma",
+    "sthairya",
+    "nitya"
+  ],
   "shlokam": {
     "te": "న జాతు కామాన్న భయాన్న లోభాద్\nధర్మం త్యజేజ్జీవితస్యాపి హేతోః ।\nనిత్యో ధర్మః సుఖదుఃఖే త్వనిత్యే\nజీవో నిత్యో హేతురస్య త్వనిత్యః ॥",
     "sa": "न जातु कामान्न भयान्न लोभाद्\nधर्मं त्यजेज्जीवितस्यापि हेतोः ।\nनित्यो धर्मः सुखदुःखे त्वनित्ये\nजीवो नित्यो हेतुरस्य त्वनित्यः ॥",
-    "iast": "na jātu kāmān na bhayān na lobhād\ndharmaṃ tyajej jīvitasyāpi hetoḥ |\nnityo dharmaḥ sukhaduḥkhe tv anitye\njīvo nityo hetur asya tv anityaḥ ||"
+    "iast": "na jātu kāmānna bhayānna lobhād\ndharmaṃ tyajejjīvitasyāpi hetoḥ ।\nnityo dharmaḥ sukhaduḥkhe tvanitye\njīvo nityo heturasya tvanityaḥ ॥"
   },
   "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
   "granthaH": {

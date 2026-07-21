@@ -1,10 +1,14 @@
 {
   "id": "karma-025",
-  "tags": ["karma", "gita", "sanga-tyaga"],
+  "tags": [
+    "karma",
+    "gita",
+    "sanga-tyaga"
+  ],
   "shlokam": {
-    "te": "బ్రహ్మణ్యాధాయ కర్మాణి సంగం త్యక్త్వా కరోతి యః ।\nలిప్యతే న స పాపేన పద్మపత్రమివామ్భసా ॥",
+    "te": "బ్రహ్మణ్యాధాయ కర్మాణి సఙ్గం త్యక్త్వా కరోతి యః ।\nలిప్యతే న స పాపేన పద్మపత్రమివామ్భసా ॥",
     "sa": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः ।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा ॥",
-    "iast": "brahmaṇy ādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ |\nlipyate na sa pāpena padmapatram ivāmbhasā ||"
+    "iast": "brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ ।\nlipyate na sa pāpena padmapatramivāmbhasā ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

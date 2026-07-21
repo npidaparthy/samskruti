@@ -1,10 +1,14 @@
 {
   "id": "karma-021",
-  "tags": ["karma", "gita", "jnana"],
+  "tags": [
+    "karma",
+    "gita",
+    "jnana"
+  ],
   "shlokam": {
     "te": "కర్మణ్యకర్మ యః పశ్యేదకర్మణి చ కర్మ యః ।\nస బుద్ధిమాన్మనుష్యేషు స యుక్తః కృత్స్నకర్మకృత్ ॥",
     "sa": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः ।\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ॥",
-    "iast": "karmaṇy akarma yaḥ paśyed akarmaṇi ca karma yaḥ |\nsa buddhimān manuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ||"
+    "iast": "karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ ।\nsa buddhimānmanuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

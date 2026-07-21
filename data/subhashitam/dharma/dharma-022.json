@@ -1,10 +1,14 @@
 {
   "id": "dharma-022",
-  "tags": ["dharma", "jaya", "krishna"],
+  "tags": [
+    "dharma",
+    "jaya",
+    "krishna"
+  ],
   "shlokam": {
     "te": "యతః కృష్ణస్తతో ధర్మో యతో ధర్మస్తతో జయః ॥",
     "sa": "यतः कृष्णस्ततो धर्मो यतो धर्मस्ततो जयः ॥",
-    "iast": "yataḥ kṛṣṇas tato dharmo yato dharmas tato jayaḥ ||"
+    "iast": "yataḥ kṛṣṇastato dharmo yato dharmastato jayaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter (half-verse refrain)",
   "granthaH": {

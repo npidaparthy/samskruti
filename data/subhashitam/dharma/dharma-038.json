@@ -1,10 +1,14 @@
 {
   "id": "dharma-038",
-  "tags": ["dharma", "sadachara", "shishtachara"],
+  "tags": [
+    "dharma",
+    "sadachara",
+    "shishtachara"
+  ],
   "shlokam": {
     "te": "యద్యదాచరతి శిష్టః శిష్టస్తత్ప్రమాణమ్ ।\nసదాచారః పరో ధర్మః శ్రుతిస్మృత్యుద్భవో హి సః ॥",
     "sa": "यद्यदाचरति शिष्टः शिष्टस्तत्प्रमाणम् ।\nसदाचारः परो धर्मः श्रुतिस्मृत्युद्भवो हि सः ॥",
-    "iast": "yad yad ācarati śiṣṭaḥ śiṣṭas tat pramāṇam |\nsadācāraḥ paro dharmaḥ śrutismṛtyudbhavo hi saḥ ||"
+    "iast": "yadyadācarati śiṣṭaḥ śiṣṭastatpramāṇam ।\nsadācāraḥ paro dharmaḥ śrutismṛtyudbhavo hi saḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

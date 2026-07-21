@@ -1,35 +1,34 @@
 {
   "id": "niti-025",
-  "tags": ["niti", "vidya", "achora-harya", "subhashita", "jnana"],
-
+  "tags": [
+    "niti",
+    "vidya",
+    "achora-harya",
+    "subhashita",
+    "jnana"
+  ],
   "shlokam": {
-    "te": "న చోరహార్యం న చ రాజహార్యం న భ్రాతృభాజ్యం న చ భారకారి ।\nవ్యయే కృతే వర్ధత ఏవ నిత్యం విద్యాధనం సర్వధనప్రధానమ్ ॥",
+    "te": "న చోరహార్యం న చ రాజహార్యమ్ న భ్రాతృభాజ్యం న చ భారకారి ।\nవ్యయే కృతే వర్ధత ఏవ నిత్యం విద్యాధనం సర్వధనప్రధానమ్ ॥",
     "sa": "न चोरहार्यं न च राजहार्यम् न भ्रातृभाज्यं न च भारकारि ।\nव्यये कृते वर्धत एव नित्यं विद्याधनं सर्वधनप्रधानम् ॥",
-    "iast": "na corahāryaṃ na ca rājahāryam na bhrātṛbhājyaṃ na ca bhārakāri |\nvyaye kṛte vardhata eva nityaṃ vidyādhanam sarvadhanapradhānam ||"
+    "iast": "na corahāryaṃ na ca rājahāryam na bhrātṛbhājyaṃ na ca bhārakāri ।\nvyaye kṛte vardhata eva nityaṃ vidyādhanaṃ sarvadhanapradhānam ॥"
   },
-
   "chandaH": "ఇంద్రవజ్ర / ఉపేంద్రవజ్ర (Indravajrā/Upendravajrā) — 11 syllables per quarter",
-
   "granthaH": {
     "name_te": "సుభాషిత సంగ్రహం",
     "name_en": "Subhāṣita tradition"
   },
-
   "padavibhagam": {
     "te": "న | చోర-హార్యం | న | చ | రాజ-హార్యం | న | భ్రాతృ-భాజ్యం | న | చ | భార-కారి | వ్యయే కృతే | వర్ధతే | ఏవ | నిత్యం | విద్యా-ధనం | సర్వ-ధన-ప్రధానం",
     "en": "na | cora-hāryam | na | ca | rāja-hāryam | na | bhrātṛ-bhājyam | na | ca | bhāra-kāri | vyaye kṛte | vardhate | eva | nityam | vidyā-dhanam | sarva-dhana-pradhānam"
   },
-
   "anvayam": {
     "te": "విద్యాధనం (విద్య అనే సంపద) చోరహార్యం న (దొంగలు దొంగిలించలేరు), రాజహార్యం న చ (రాజులు లాక్కోలేరు), భ్రాతృభాజ్యం న (సోదరులతో పంచాల్సిన అవసరం లేదు), భారకారి న చ (భారం కాదు). వ్యయే కృతే (ఖర్చు చేసిన కొద్దీ) నిత్యం వర్ధతే ఏవ (ఎల్లప్పుడూ పెరుగుతూనే ఉంటుంది). విద్యాధనం సర్వధనప్రధానం (విద్యాసంపద అన్ని సంపదలలో శ్రేష్ఠం).",
     "en": "vidyādhanam (the wealth of knowledge) cora-hāryam na (cannot be stolen by thieves), rāja-hāryam na ca (cannot be seized by kings), bhrātṛ-bhājyam na (need not be divided among brothers), bhāra-kāri na ca (is not a burden). vyaye kṛte (when spent/shared) nityam vardhate eva (it always only grows). vidyādhanam sarva-dhana-pradhānam (knowledge-wealth is the foremost of all wealth)."
   },
-
   "meaning": {
     "te": "విద్య అనే సంపదను దొంగలు తీసుకోలేరు, రాజులు లాక్కోలేరు, సోదరులతో పంచుకోవాల్సిన అవసరం లేదు, అది భారం కాదు. ఖర్చు చేసినకొద్దీ అది పెరుగుతూనే ఉంటుంది — విద్య అన్నిటికంటే గొప్ప సంపద.",
     "en": "Knowledge cannot be stolen by thieves, seized by kings, or divided among brothers, and it is never a burden. The more it is spent (shared), the more it grows — knowledge is the greatest of all wealth."
   },
-
   "tatparyam": {
     "te": "ఈ సుభాషితం విద్య యొక్క అద్వితీయ స్వభావాన్ని నాలుగు విధాలుగా వర్ణిస్తుంది. భౌతిక సంపద ఎప్పటికైనా పోతుంది — దొంగలకు, రాజుకు, విభాగానికి, భారానికి. కానీ జ్ఞానం ఇవేమీ కాదు. మరీ విశేషం ఏమిటంటే — ఇతరులకు పంచిన కొద్దీ అది పెరుగుతుంది. గురువు శిష్యులకు నేర్పించిన జ్ఞానం తగ్గిపోదు — రెండింతలవుతుంది. కాబట్టి విద్య అన్నిటికంటే గొప్ప సంపద అని ఈ శ్లోకం నిరూపిస్తుంది.",
     "en": "This subhāṣita extols knowledge with a fourfold argument comparing it to material wealth. Material wealth is vulnerable — it can be stolen, confiscated, diluted by partition, and it weighs you down. Knowledge is immune to all four. Most strikingly, the verse observes that knowledge actually grows when shared — the teacher does not lose knowledge by teaching; the whole is multiplied. This makes knowledge not just the safest but the most productive wealth. The verse has been an enduring inspiration for the Indian emphasis on education as the highest inheritance a parent can give a child."

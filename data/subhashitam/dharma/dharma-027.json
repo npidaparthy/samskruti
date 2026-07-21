@@ -1,10 +1,14 @@
 {
   "id": "dharma-027",
-  "tags": ["dharma", "dana", "shraddha"],
+  "tags": [
+    "dharma",
+    "dana",
+    "shraddha"
+  ],
   "shlokam": {
     "te": "శ్రద్ధయా దేయమ్ । అశ్రద్ధయాఽదేయమ్ ।\nశ్రియా దేయమ్ । హ్రియా దేయమ్ ।\nభియా దేయమ్ । సంవిదా దేయమ్ ॥",
     "sa": "श्रद्धया देयम् । अश्रद्धयाऽदेयम् ।\nश्रिया देयम् । ह्रिया देयम् ।\nभिया देयम् । संविदा देयम् ॥",
-    "iast": "śraddhayā deyam | aśraddhayā'deyam |\nśriyā deyam | hriyā deyam |\nbhiyā deyam | saṃvidā deyam ||"
+    "iast": "śraddhayā deyam । aśraddhayā'deyam ।\nśriyā deyam । hriyā deyam ।\nbhiyā deyam । saṃvidā deyam ॥"
   },
   "chandaH": "వైదిక గద్యము (Vedic prose)",
   "granthaH": {

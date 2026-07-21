@@ -1,10 +1,14 @@
 {
   "id": "seva-016",
-  "tags": ["seva", "ashraya", "hitopadesha"],
+  "tags": [
+    "seva",
+    "ashraya",
+    "hitopadesha"
+  ],
   "shlokam": {
     "te": "సేవితవ్యో మహావృక్షః ఫలచ్ఛాయాసమన్వితః ।\nయది దైవాత్ఫలం నాస్తి ఛాయా కేన నివార్యతే ॥",
     "sa": "सेवितव्यो महावृक्षः फलच्छायासमन्वितः ।\nयदि दैवात्फलं नास्ति छाया केन निवार्यते ॥",
-    "iast": "sevitavyo mahāvṛkṣaḥ phalacchāyāsamanvitaḥ |\nyadi daivāt phalaṃ nāsti chāyā kena nivāryate ||"
+    "iast": "sevitavyo mahāvṛkṣaḥ phalacchāyāsamanvitaḥ ।\nyadi daivātphalaṃ nāsti chāyā kena nivāryate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

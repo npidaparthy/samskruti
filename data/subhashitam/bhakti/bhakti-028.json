@@ -1,10 +1,14 @@
 {
   "id": "bhakti-028",
-  "tags": ["bhakti", "gita", "sadrisha"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "sadrisha"
+  ],
   "shlokam": {
     "te": "సమోఽహం సర్వభూతేషు న మే ద్వేష్యోఽస్తి న ప్రియః ।\nయే భజన్తి తు మాం భక్త్యా మయి తే తేషు చాప్యహమ్ ॥",
     "sa": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥",
-    "iast": "samo'haṃ sarvabhūteṣu na me dveṣyo'sti na priyaḥ |\nye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham ||"
+    "iast": "samo'haṃ sarvabhūteṣu na me dveṣyo'sti na priyaḥ ।\nye bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

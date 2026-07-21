@@ -1,10 +1,14 @@
 {
   "id": "niti-028",
-  "tags": ["niti", "durjana", "vidya"],
+  "tags": [
+    "niti",
+    "durjana",
+    "vidya"
+  ],
   "shlokam": {
-    "te": "దుర్జనః పరిహర్తవ్యో విద్యయాలంకృతోఽపి సన్ ।\nమణినా భూషితః సర్పః కిమసౌ న భయంకరః ॥",
+    "te": "దుర్జనః పరిహర్తవ్యో విద్యయాలఙ్కృతోఽపి సన్ ।\nమణినా భూషితః సర్పః కిమసౌ న భయఙ్కరః ॥",
     "sa": "दुर्जनः परिहर्तव्यो विद्ययालङ्कृतोऽपि सन् ।\nमणिना भूषितः सर्पः किमसौ न भयङ्करः ॥",
-    "iast": "durjanaḥ parihartavyo vidyayālaṅkṛto'pi san |\nmaṇinā bhūṣitaḥ sarpaḥ kim asau na bhayaṅkaraḥ ||"
+    "iast": "durjanaḥ parihartavyo vidyayālaṅkṛto'pi san ।\nmaṇinā bhūṣitaḥ sarpaḥ kimasau na bhayaṅkaraḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

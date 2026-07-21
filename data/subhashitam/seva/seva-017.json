@@ -1,10 +1,14 @@
 {
   "id": "seva-017",
-  "tags": ["seva", "dana", "durlabha"],
+  "tags": [
+    "seva",
+    "dana",
+    "durlabha"
+  ],
   "shlokam": {
     "te": "దానం ప్రియవాక్సహితం జ్ఞానమగర్వం క్షమాన్వితం శౌర్యమ్ ।\nవిత్తం త్యాగసమేతం దుర్లభమేతచ్చతుష్టయం లోకే ॥",
     "sa": "दानं प्रियवाक्सहितं ज्ञानमगर्वं क्षमान्वितं शौर्यम् ।\nवित्तं त्यागसमेतं दुर्लभमेतच्चतुष्टयं लोके ॥",
-    "iast": "dānaṃ priyavāksahitaṃ jñānam agarvaṃ kṣamānvitaṃ śauryam |\nvittaṃ tyāgasametaṃ durlabham etac catuṣṭayaṃ loke ||"
+    "iast": "dānaṃ priyavāksahitaṃ jñānamagarvaṃ kṣamānvitaṃ śauryam ।\nvittaṃ tyāgasametaṃ durlabhametaccatuṣṭayaṃ loke ॥"
   },
   "chandaH": "ఆర్యా (Āryā) — mātrā metre, 4 quarters",
   "granthaH": {

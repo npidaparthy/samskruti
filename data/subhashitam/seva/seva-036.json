@@ -1,10 +1,14 @@
 {
   "id": "seva-036",
-  "tags": ["seva", "gita", "svadharme-nidhanam"],
+  "tags": [
+    "seva",
+    "gita",
+    "svadharme-nidhanam"
+  ],
   "shlokam": {
     "te": "సదృశం చేష్టతే స్వస్యాః ప్రకృతేర్జ్ఞానవానపి ।\nప్రకృతిం యాన్తి భూతాని నిగ్రహః కిం కరిష్యతి ॥",
     "sa": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।\nप्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥",
-    "iast": "sadṛśaṃ ceṣṭate svasyāḥ prakṛter jñānavān api |\nprakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati ||"
+    "iast": "sadṛśaṃ ceṣṭate svasyāḥ prakṛterjñānavānapi ।\nprakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

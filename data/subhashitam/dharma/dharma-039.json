@@ -1,10 +1,14 @@
 {
   "id": "dharma-039",
-  "tags": ["dharma", "samvibhaga", "isha"],
+  "tags": [
+    "dharma",
+    "samvibhaga",
+    "isha"
+  ],
   "shlokam": {
     "te": "తేన త్యక్తేన భుఞ్జీథా మా గృధః కస్యస్విద్ధనమ్ ॥",
     "sa": "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥",
-    "iast": "tena tyaktena bhuñjīthā mā gṛdhaḥ kasyasvid dhanam ||"
+    "iast": "tena tyaktena bhuñjīthā mā gṛdhaḥ kasyasviddhanam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter (half verse)",
   "granthaH": {

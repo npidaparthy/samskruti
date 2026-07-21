@@ -1,10 +1,14 @@
 {
   "id": "niti-039",
-  "tags": ["niti", "vinaya", "garva"],
+  "tags": [
+    "niti",
+    "vinaya",
+    "garva"
+  ],
   "shlokam": {
     "te": "సమ్పూర్ణకుమ్భో న కరోతి శబ్దం\nఅర్ధో ఘటో ఘోషముపైతి నూనమ్ ।\nవిద్వాన్ కులీనో న కరోతి గర్వం\nజల్పన్తి మూఢాస్తు గుణైర్విహీనాః ॥",
     "sa": "सम्पूर्णकुम्भो न करोति शब्दं\nअर्धो घटो घोषमुपैति नूनम् ।\nविद्वान् कुलीनो न करोति गर्वं\nजल्पन्ति मूढास्तु गुणैर्विहीनाः ॥",
-    "iast": "sampūrṇakumbho na karoti śabdaṃ\nardho ghaṭo ghoṣam upaiti nūnam |\nvidvān kulīno na karoti garvaṃ\njalpanti mūḍhās tu guṇair vihīnāḥ ||"
+    "iast": "sampūrṇakumbho na karoti śabdaṃ\nardho ghaṭo ghoṣamupaiti nūnam ।\nvidvān kulīno na karoti garvaṃ\njalpanti mūḍhāstu guṇairvihīnāḥ ॥"
   },
   "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
   "granthaH": {

@@ -1,10 +1,14 @@
 {
   "id": "dharma-062",
-  "tags": ["dharma", "gita", "kutastha-lakshana"],
+  "tags": [
+    "dharma",
+    "gita",
+    "kutastha-lakshana"
+  ],
   "shlokam": {
     "te": "ద్వావిమౌ పురుషౌ లోకే క్షరశ్చాక్షర ఏవ చ ।\nక్షరః సర్వాణి భూతాని కూటస్థోఽక్షర ఉచ్యతే ॥",
     "sa": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥",
-    "iast": "dvāv imau puruṣau loke kṣaraś cākṣara eva ca |\nkṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate ||"
+    "iast": "dvāvimau puruṣau loke kṣaraścākṣara eva ca ।\nkṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

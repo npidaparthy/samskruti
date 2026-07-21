@@ -1,10 +1,14 @@
 {
   "id": "bhakti-021",
-  "tags": ["bhakti", "gita", "bhakta-lakshana"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "bhakta-lakshana"
+  ],
   "shlokam": {
-    "te": "అద్వేష్టా సర్వభూతానాం మైత్రః కరుణ ఏవ చ ।\nనిర్మమో నిరహంకారః సమదుఃఖసుఖః క్షమీ ॥",
+    "te": "అద్వేష్టా సర్వభూతానాం మైత్రః కరుణ ఏవ చ ।\nనిర్మమో నిరహఙ్కారః సమదుఃఖసుఖః క్షమీ ॥",
     "sa": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥",
-    "iast": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca |\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||"
+    "iast": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca ।\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

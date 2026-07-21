@@ -1,10 +1,14 @@
 {
   "id": "dharma-040",
-  "tags": ["dharma", "satsanga", "hitopadesha"],
+  "tags": [
+    "dharma",
+    "satsanga",
+    "hitopadesha"
+  ],
   "shlokam": {
-    "te": "విద్యా విని యం దదాతి వినయాదాయాతి పాత్రతామ్ ।\nసత్సఙ్గాత్సుగుణా భవన్తి పురుషా వాచ్యస్తథా కేషుచిత్ ॥",
+    "te": "విద్యా వినయం దదాతి వినయాద్యాయాతి పాత్రతామ్ ।\nసత్సఙ్గాత్సుగుణా భవన్తి పురుషా వాచ్యస్తథా కేషుచిత్ ॥",
     "sa": "विद्या विनयं ददाति विनयाद्यायाति पात्रताम् ।\nसत्सङ्गात्सुगुणा भवन्ति पुरुषा वाच्यस्तथा केषुचित् ॥",
-    "iast": "vidyā vinayaṃ dadāti vinayād yāyāti pātratām |\nsatsaṅgāt sugaṇā bhavanti puruṣā vācyas tathā keṣucit ||"
+    "iast": "vidyā vinayaṃ dadāti vinayādyāyāti pātratām ।\nsatsaṅgātsuguṇā bhavanti puruṣā vācyastathā keṣucit ॥"
   },
   "chandaH": "శార్దూలవిక్రీడితము (Śārdūlavikrīḍita) — 19 syllables per quarter, 4 quarters",
   "granthaH": {

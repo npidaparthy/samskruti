@@ -1,10 +1,14 @@
 {
   "id": "karma-037",
-  "tags": ["karma", "hitopadesha", "sahasa"],
+  "tags": [
+    "karma",
+    "hitopadesha",
+    "sahasa"
+  ],
   "shlokam": {
     "te": "సాహసే శ్రీః ప్రతివసతి సాహసే వసతి లక్ష్మీః ।\nసాహసం హి పురుషలక్షణం సాహసః సర్వత్ర పూజ్యతే ॥",
     "sa": "साहसे श्रीः प्रतिवसति साहसे वसति लक्ष्मीः ।\nसाहसं हि पुरुषलक्षणं साहसः सर्वत्र पूज्यते ॥",
-    "iast": "sāhase śrīḥ prativasati sāhase vasati lakṣmīḥ |\nsāhasaṃ hi puruṣalakṣaṇaṃ sāhasaḥ sarvatra pūjyate ||"
+    "iast": "sāhase śrīḥ prativasati sāhase vasati lakṣmīḥ ।\nsāhasaṃ hi puruṣalakṣaṇaṃ sāhasaḥ sarvatra pūjyate ॥"
   },
   "chandaH": "ఆర్యా (Āryā) — mātrā metre",
   "granthaH": {

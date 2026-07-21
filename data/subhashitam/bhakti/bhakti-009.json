@@ -1,35 +1,34 @@
 {
   "id": "bhakti-009",
-  "tags": ["bhakti", "ishvarah-sarvabhutanam", "gita", "antaryami", "hridaya"],
-
+  "tags": [
+    "bhakti",
+    "ishvarah-sarvabhutanam",
+    "gita",
+    "antaryami",
+    "hridaya"
+  ],
   "shlokam": {
     "te": "ఈశ్వరః సర్వభూతానాం హృద్దేశేఽర్జున తిష్ఠతి ।\nభ్రామయన్సర్వభూతాని యన్త్రారూఢాని మాయయా ॥",
     "sa": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ॥",
-    "iast": "īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati |\nbhrāmayansarvabhūtāni yantrārūḍhāni māyayā ||"
+    "iast": "īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati ।\nbhrāmayansarvabhūtāni yantrārūḍhāni māyayā ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 18.61",
     "name_en": "Bhagavad Gītā 18.61"
   },
-
   "padavibhagam": {
     "te": "ఈశ్వరః | సర్వ-భూతానాం | హృత్-దేశే | అర్జున | తిష్ఠతి | భ్రామయన్ | సర్వ-భూతాని | యంత్ర-ఆరూఢాని | మాయయా",
     "en": "īśvaraḥ | sarva-bhūtānām | hṛt-deśe | arjuna | tiṣṭhati | bhrāmayan | sarva-bhūtāni | yantra-ārūḍhāni | māyayā"
   },
-
   "anvayam": {
     "te": "అర్జున (ఓ అర్జునా), ఈశ్వరః సర్వభూతానాం హృద్దేశే తిష్ఠతి (ఈశ్వరుడు అన్ని జీవుల హృదయంలో ఉంటున్నాడు). మాయయా యంత్రారూఢాని సర్వభూతాని భ్రామయన్ (మాయ వలన యంత్రంపై అధిరోహించినట్లు ఉన్న అన్ని జీవులను తిప్పుతున్నాడు).",
     "en": "arjuna (O Arjuna), īśvaraḥ sarva-bhūtānāṃ hṛt-deśe tiṣṭhati (the Lord dwells in the heart-region of all beings). māyayā yantra-ārūḍhāni sarva-bhūtāni bhrāmayan (causing all beings mounted on a machine — the body — to revolve by His māyā)."
   },
-
   "meaning": {
     "te": "ఓ అర్జునా! ఈశ్వరుడు అన్ని జీవుల హృదయంలో వసిస్తున్నాడు — మాయ ద్వారా యంత్రారూఢులైన సర్వ జీవులను తిప్పుతున్నాడు.",
     "en": "O Arjuna, the Lord dwells in the heart of all beings, causing all beings mounted as if on a machine to revolve by His māyā."
   },
-
   "tatparyam": {
     "te": "గీతలో ఇది అంతర్యామి భావనను స్పష్టం చేసే శ్లోకం. ఈశ్వరుడు కేవలం ఆకాశంలో కాదు — ప్రతి జీవి హృదయంలో ఉన్నాడు. 'యంత్రారూఢాని' అన్న పదం శరీరాన్ని ఒక యంత్రంగా, జీవుడిని అందులో బంధింపబడిన చైతన్యంగా చూపిస్తుంది. ఈశ్వరుడు ఈ యంత్రాన్ని నడుపుతున్నాడు — జీవుడు తాను నడుపుతున్నట్లు భ్రమిస్తున్నాడు. ఈ జ్ఞానంతో పాటు భక్తి కూడా వస్తుంది — అందరిలో ఉన్న ఈ ఈశ్వరుడిని గుర్తించడమే భక్తి.",
     "en": "Bhagavad Gītā 18.61 presents the doctrine of the antaryāmin — the inner controller who dwells in the heart of every being. The 'yantra' (machine) metaphor is striking: the body is the machine, the soul is the passenger, and the Lord is the invisible operator who runs the whole mechanism through māyā (creative power). The devotional implication is profound: since the Divine is present in the heart of every being, every being is a dwelling of the sacred. Bhakti thus finds its fullest expression not only in temple worship but in recognizing the divine presence in every heart one encounters — the basis of 'daridra-nārāyaṇa sevā.'"

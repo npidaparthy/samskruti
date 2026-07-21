@@ -1,10 +1,14 @@
 {
   "id": "dharma-023",
-  "tags": ["dharma", "artha", "kama"],
+  "tags": [
+    "dharma",
+    "artha",
+    "kama"
+  ],
   "shlokam": {
     "te": "ఊర్ధ్వబాహుర్విరౌమ్యేష న చ కశ్చిచ్ఛృణోతి మే ।\nధర్మాదర్థశ్చ కామశ్చ స కిమర్థం న సేవ్యతే ॥",
     "sa": "ऊर्ध्वबाहुर्विरौम्येष न च कश्चिच्छृणोति मे ।\nधर्मादर्थश्च कामश्च स किमर्थं न सेव्यते ॥",
-    "iast": "ūrdhvabāhur viraumy eṣa na ca kaścic chṛṇoti me |\ndharmād arthaś ca kāmaś ca sa kimarthaṃ na sevyate ||"
+    "iast": "ūrdhvabāhurviraumyeṣa na ca kaścicchṛṇoti me ।\ndharmādarthaśca kāmaśca sa kimarthaṃ na sevyate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

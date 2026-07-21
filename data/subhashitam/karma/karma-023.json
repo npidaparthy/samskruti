@@ -1,10 +1,14 @@
 {
   "id": "karma-023",
-  "tags": ["karma", "buddhi", "phala"],
+  "tags": [
+    "karma",
+    "buddhi",
+    "phala"
+  ],
   "shlokam": {
     "te": "కర్మాయత్తం ఫలం పుంసాం బుద్ధిః కర్మానుసారిణీ ।\nతథాపి సుధియశ్చార్యాః సువిచార్యైవ కుర్వతే ॥",
     "sa": "कर्मायत्तं फलं पुंसां बुद्धिः कर्मानुसारिणी ।\nतथापि सुधियश्चार्याः सुविचार्यैव कुर्वते ॥",
-    "iast": "karmāyattaṃ phalaṃ puṃsāṃ buddhiḥ karmānusāriṇī |\ntathāpi sudhiyaś cāryāḥ suvicāryaiva kurvate ||"
+    "iast": "karmāyattaṃ phalaṃ puṃsāṃ buddhiḥ karmānusāriṇī ।\ntathāpi sudhiyaścāryāḥ suvicāryaiva kurvate ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

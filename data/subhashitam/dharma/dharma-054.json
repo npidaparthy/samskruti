@@ -1,10 +1,14 @@
 {
   "id": "dharma-054",
-  "tags": ["dharma", "gita", "yajna-vidhi"],
+  "tags": [
+    "dharma",
+    "gita",
+    "yajna-vidhi"
+  ],
   "shlokam": {
     "te": "బ్రహ్మార్పణం బ్రహ్మ హవిర్బ్రహ్మాగ్నౌ బ్రహ్మణా హుతమ్ ।\nబ్రహ్మైవ తేన గన్తవ్యం బ్రహ్మకర్మసమాధినా ॥",
     "sa": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ।\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥",
-    "iast": "brahmārpaṇaṃ brahma havir brahmāgnau brahmaṇā hutam |\nbrahmaiva tena gantavyaṃ brahmakarmasamādhinā ||"
+    "iast": "brahmārpaṇaṃ brahma havirbrahmāgnau brahmaṇā hutam ।\nbrahmaiva tena gantavyaṃ brahmakarmasamādhinā ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

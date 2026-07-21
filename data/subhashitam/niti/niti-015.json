@@ -1,35 +1,33 @@
 {
   "id": "niti-015",
-  "tags": ["niti", "durjana", "sajjana", "viveka"],
-
+  "tags": [
+    "niti",
+    "durjana",
+    "sajjana",
+    "viveka"
+  ],
   "shlokam": {
     "te": "యేషాం న విద్యా న తపో న దానం జ్ఞానం న శీలం న గుణో న ధర్మః ।\nతే మర్త్యలోకే భువి భారభూతా మనుష్యరూపేణ మృగాశ్చరన్తి ॥",
     "sa": "येषां न विद्या न तपो न दानं ज्ञानं न शीलं न गुणो न धर्मः ।\nते मर्त्यलोके भुवि भारभूता मनुष्यरूपेण मृगाश्चरन्ति ॥",
-    "iast": "yeṣāṃ na vidyā na tapo na dānaṃ jñānaṃ na śīlaṃ na guṇo na dharmaḥ |\nte martyaloke bhuvi bhārabhūtā manuṣyarūpeṇa mṛgāścaranti ||"
+    "iast": "yeṣāṃ na vidyā na tapo na dānaṃ jñānaṃ na śīlaṃ na guṇo na dharmaḥ ।\nte martyaloke bhuvi bhārabhūtā manuṣyarūpeṇa mṛgāścaranti ॥"
   },
-
   "chandaH": "ఇన్ద్రవజ్ర / ఉపేన్ద్రవజ్ర (Indravajrā / Upendravajrā mix) — 11 syllables per quarter",
-
   "granthaH": {
     "name_te": "భర్తృహరి నీతిశతకం",
     "name_en": "Bhartṛhari — Nītiśataka"
   },
-
   "padavibhagam": {
     "te": "యేషాం | న | విద్యా | న | తపః | న | దానం | జ్ఞానం | న | శీలం | న | గుణః | న | ధర్మః | తే | మర్త్యలోకే | భువి | భారభూతాః | మనుష్యరూపేణ | మృగాః | చరన్తి",
     "en": "yeṣāṃ | na | vidyā | na | tapaḥ | na | dānaṃ | jñānaṃ | na | śīlaṃ | na | guṇaḥ | na | dharmaḥ | te | martyaloke | bhuvi | bhārabhūtāḥ | manuṣyarūpeṇa | mṛgāḥ | caranti"
   },
-
   "anvayam": {
     "te": "యేషాం విద్యా న (అస్తి), తపః న, దానం న, జ్ఞానం న, శీలం న, గుణః న, ధర్మః న — తే మర్త్యలోకే భువి భారభూతాః (భారంగా ఉండి) మనుష్యరూపేణ మృగాః (మనుషుల వేషంలో జంతువులు) చరన్తి.",
     "en": "yeṣāṃ (those who have) na vidyā (no learning), na tapaḥ (no austerity), na dānam (no charity), na jñānam (no wisdom), na śīlam (no character), na guṇaḥ (no virtue), na dharmaḥ (no righteousness) — te (they) martyaloke bhuvi (on this mortal earth) bhārabhūtāḥ (are a burden), manuṣyarūpeṇa mṛgāḥ caranti (wander as animals in human form)."
   },
-
   "meaning": {
     "te": "విద్య, తపస్సు, దానం, జ్ఞానం, శీలం, గుణం, ధర్మం — ఇవి ఏవీ లేనివారు మానవులైనా జంతువులతో సమానం; వారు భూమికి భారంగా ఉంటారు.",
     "en": "Those who have no learning, no austerity, no charity, no wisdom, no character, no virtue, no righteousness — even if born human, they are equivalent to animals. They are a burden on the earth, wandering in human form."
   },
-
   "tatparyam": {
     "te": "మనుష్య జన్మ యొక్క శ్రేష్ఠత ఈ సద్గుణాల వికాసంలో ఉంది. వాటిలో ఏదీ లేకపోయినా కేవలం ఆకారం మాత్రమే మనిషిది — మనసు జంతువు వంటిది. భర్తృహరి ఈ శ్లోకంలో మానవ జీవితానికి అర్థాన్ని ఇచ్చే ఏడు లక్షణాలను స్పష్టంగా చెప్పాడు.",
     "en": "The distinction of human birth lies in the cultivation of these seven qualities. Without even one of them, only the physical form is human — the inner life remains animal. Bhartṛhari lists seven markers of a truly human life: learning, austerity, charity, wisdom, character, virtue, and righteousness. Their absence is not merely a deficiency — it is a waste of a rare birth."

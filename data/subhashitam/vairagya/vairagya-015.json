@@ -1,35 +1,34 @@
 {
   "id": "vairagya-015",
-  "tags": ["vairagya", "yasya-nasti", "prajna", "subhashita", "discernment"],
-
+  "tags": [
+    "vairagya",
+    "yasya-nasti",
+    "prajna",
+    "subhashita",
+    "discernment"
+  ],
   "shlokam": {
     "te": "యస్య నాస్తి స్వయం ప్రజ్ఞా శాస్త్రం తస్య కరోతి కిమ్ ।\nలోచనాభ్యాం విహీనస్య దర్పణః కిం కరిష్యతి ॥",
     "sa": "यस्य नास्ति स्वयं प्रज्ञा शास्त्रं तस्य करोति किम् ।\nलोचनाभ्यां विहीनस्य दर्पणः किं करिष्यति ॥",
-    "iast": "yasya nāsti svayaṃ prajñā śāstraṃ tasya karoti kim |\nlocanābhyāṃ vihīnasya darpaṇaḥ kiṃ kariṣyati ||"
+    "iast": "yasya nāsti svayaṃ prajñā śāstraṃ tasya karoti kim ।\nlocanābhyāṃ vihīnasya darpaṇaḥ kiṃ kariṣyati ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "సుభాషిత సంగ్రహం",
     "name_en": "Subhāṣita tradition"
   },
-
   "padavibhagam": {
     "te": "యస్య | నాస్తి | స్వయం | ప్రజ్ఞా | శాస్త్రం | తస్య | కరోతి | కిం | లోచనాభ్యాం | విహీనస్య | దర్పణః | కిం | కరిష్యతి",
     "en": "yasya | nāsti | svayam | prajñā | śāstram | tasya | karoti | kim | locanābhyām | vihīnasya | darpaṇaḥ | kim | kariṣyati"
   },
-
   "anvayam": {
     "te": "యస్య స్వయం ప్రజ్ఞా నాస్తి (ఎవడికి స్వంత వివేకం లేదో) తస్య శాస్త్రం కిం కరోతి (అతడికి శాస్త్రం ఏమి చేయగలదు?). లోచనాభ్యాం విహీనస్య (కళ్ళు లేనివాడికి) దర్పణః కిం కరిష్యతి (అద్దం ఏమి ఉపకారం చేయగలదు?).",
     "en": "yasya svayam prajñā nāsti (one who does not have one's own discernment/wisdom) tasya śāstram kim karoti (what can scripture do for that person?). locanābhyām vihīnasya (for one devoid of eyes) darpaṇaḥ kim kariṣyati (what will a mirror do?)."
   },
-
   "meaning": {
     "te": "ఎవడికి స్వంత వివేకం లేదో అతడికి శాస్త్రం ఏమి ఉపకరిస్తుంది? కళ్ళు లేనివాడికి అద్దం ఏమి ఉపయోగపడుతుంది?",
     "en": "What can scripture do for one who has no innate discernment? What will a mirror do for one who has no eyes?"
   },
-
   "tatparyam": {
     "te": "ఈ సుభాషితం జ్ఞాన పద్ధతిపై ఒక శక్తివంతమైన వ్యాఖ్య. అద్దం ప్రతిబింబాన్ని ఇస్తుంది — కానీ కళ్ళు లేకుంటే ఆ ప్రతిబింబం పనికిరాదు. అదే విధంగా శాస్త్రం జ్ఞానాన్ని ఇస్తుంది — కానీ సాధకుడికి స్వంత వివేకం లేకుంటే ఆ జ్ఞానం స్వీకరించడం సాధ్యం కాదు. 'ప్రజ్ఞా' అంటే కేవలం బుద్ధి కాదు — వివేకశక్తి, అంతర్దృష్టి. వైరాగ్యం, సాధన, సుమనస్కత ద్వారా ఈ ప్రజ్ఞ పెరుగుతుంది. అప్పుడే శాస్త్రం ఉపకరిస్తుంది.",
     "en": "This aphorism makes a profound point about the relationship between scripture (śāstra) and innate wisdom (prajñā). Scripture provides guidance, framework, and accumulated wisdom — but it can only illuminate when the reader has the inner discernment to receive it. The blind-man-and-mirror analogy is perfect: a mirror is useless without functioning eyes. Similarly, even the most profound scripture is useless to one who lacks the capacity for discrimination (viveka) and self-reflection. Vairāgya, sādhanā, and moral cultivation develop this prajñā — the inner eye — without which all external teaching is merely noise."

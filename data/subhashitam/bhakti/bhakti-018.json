@@ -1,10 +1,14 @@
 {
   "id": "bhakti-018",
-  "tags": ["bhakti", "mukundamala", "nishkama"],
+  "tags": [
+    "bhakti",
+    "mukundamala",
+    "nishkama"
+  ],
   "shlokam": {
     "te": "నాస్థా ధర్మే న వసునిచయే నైవ కామోపభోగే\nయద్భవ్యం తద్భవతు భగవన్ పూర్వకర్మానురూపమ్ ।\nఏతత్ప్రార్థ్యం మమ బహుమతం జన్మజన్మాన్తరేఽపి\nత్వత్పాదామ్భోరుహయుగగతా నిశ్చలా భక్తిరస్తు ॥",
     "sa": "नास्था धर्मे न वसुनिचये नैव कामोपभोगे\nयद्भव्यं तद्भवतु भगवन् पूर्वकर्मानुरूपम् ।\nएतत्प्रार्थ्यं मम बहुमतं जन्मजन्मान्तरेऽपि\nत्वत्पादाम्भोरुहयुगगता निश्चला भक्तिरस्तु ॥",
-    "iast": "nāsthā dharme na vasunicaye naiva kāmopabhoge\nyad bhavyaṃ tad bhavatu bhagavan pūrvakarmānurūpam |\netat prārthyaṃ mama bahumataṃ janmajanmāntare'pi\ntvatpādāmbhoruhayugagatā niścalā bhaktir astu ||"
+    "iast": "nāsthā dharme na vasunicaye naiva kāmopabhoge\nyadbhavyaṃ tadbhavatu bhagavan pūrvakarmānurūpam ।\netatprārthyaṃ mama bahumataṃ janmajanmāntare'pi\ntvatpādāmbhoruhayugagatā niścalā bhaktirastu ॥"
   },
   "chandaH": "మన్దాక్రాన్తా (Mandākrāntā) — 17 syllables per quarter, 4 quarters",
   "granthaH": {

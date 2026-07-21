@@ -1,35 +1,34 @@
 {
   "id": "bhakti-015",
-  "tags": ["bhakti", "na-tad-bhasayate", "gita", "param-dhama", "vishnu"],
-
+  "tags": [
+    "bhakti",
+    "na-tad-bhasayate",
+    "gita",
+    "param-dhama",
+    "vishnu"
+  ],
   "shlokam": {
-    "te": "న తద్భాసయతే సూర్యో న శశాంకో న పావకః ।\nయద్గత్వా న నివర్తన్తే తద్ధామ పరమం మమ ॥",
+    "te": "న తద్భాసయతే సూర్యో న శశాఙ్కో న పావకః ।\nయద్గత్వా న నివర్తన్తే తద్ధామ పరమం మమ ॥",
     "sa": "न तद्भासयते सूर्यो न शशाङ्को न पावकः ।\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम ॥",
-    "iast": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ |\nyadgatvā na nivartante taddhāma paramaṃ mama ||"
+    "iast": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ ।\nyadgatvā na nivartante taddhāma paramaṃ mama ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 15.6",
     "name_en": "Bhagavad Gītā 15.6"
   },
-
   "padavibhagam": {
     "te": "న | తత్ | భాసయతే | సూర్యః | న | శశాంకః | న | పావకః | యత్ | గత్వా | న | నివర్తన్తే | తత్ | ధామ | పరమం | మమ",
     "en": "na | tat | bhāsayate | sūryaḥ | na | śaśāṅkaḥ | na | pāvakaḥ | yat | gatvā | na | nivartante | tat | dhāma | paramam | mama"
   },
-
   "anvayam": {
     "te": "తత్ సూర్యః న భాసయతే (ఆ పరమ ధామాన్ని సూర్యుడు ప్రకాశింపజేయడు); శశాంకః న (చంద్రుడు కూడా కాదు); పావకః న (అగ్ని కూడా కాదు). యత్ గత్వా న నివర్తన్తే (ఎక్కడికి వెళ్ళిన తర్వాత తిరిగి రారో) తత్ పరమం మమ ధామ (అది నా పరమ ధామం).",
     "en": "tat sūryaḥ na bhāsayate (that supreme abode is not illumined by the sun); śaśāṅkaḥ na (nor by the moon); pāvakaḥ na (nor by fire). yat gatvā na nivartante (having reached which one does not return) tat paramam mama dhāma (that is My supreme abode)."
   },
-
   "meaning": {
     "te": "ఆ పరమ ధామాన్ని సూర్యుడు, చంద్రుడు, అగ్ని ప్రకాశింపజేయలేరు. అక్కడికి వెళ్ళిన తర్వాత తిరిగి రారు — అదే నా పరమ ధామం.",
     "en": "That supreme abode is not illumined by the sun, nor by the moon, nor by fire. Having reached it, one does not return — that is My supreme abode."
   },
-
   "tatparyam": {
     "te": "భగవద్గీత 15వ అధ్యాయంలో విష్ణుపద — పరమ ధామ — వర్ణన. సూర్య, చంద్ర, అగ్ని — ఇవి ఈ భౌతిక జగత్తులో ప్రకాశించే వెలుతురులు. కానీ పరమాత్మ స్వయం ప్రకాశమానుడు — ఆ ధామం ఈ వెలుతురులు లేకుండానే ప్రకాశిస్తుంది. 'న నివర్తన్తే' — అక్కడికి వెళ్ళిన వారు తిరిగి రారు — ఇది మోక్షానికి నిర్వచనం. పునర్జన్మ చక్రం అక్కడ ముగుస్తుంది. ఈ ధ్యానం భక్తికి ఒక ఉన్నత ఆశయాన్ని ఇస్తుంది — ఆ పరమ ధామమే గమ్యం.",
     "en": "This verse from Gītā 15.6 describes Viṣṇu's supreme realm (param dhāma / Vaikuṇṭha) by its most distinctive quality: it is self-luminous, requiring no external source of light. The sun, moon, and fire that illuminate our world are derivative light — borrowed from the supreme light of consciousness. The Divine itself is svayamprakāśa (self-illuminating). The second defining characteristic — 'having gone there one does not return' — is the Gītā's definition of final liberation: freedom from the cycle of rebirth. For the bhakta, this verse paints the ultimate destination of devotion — a realm of light that no physical light can illuminate, beyond which there is no further journey."

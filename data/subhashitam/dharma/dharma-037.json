@@ -1,10 +1,14 @@
 {
   "id": "dharma-037",
-  "tags": ["dharma", "shanti", "trayambaka"],
+  "tags": [
+    "dharma",
+    "shanti",
+    "trayambaka"
+  ],
   "shlokam": {
     "te": "త్ర్యమ్బకం యజామహే సుగన్ధిం పుష్టివర్ధనమ్ ।\nఉర్వారుకమివ బన్ధనాన్మృత్యోర్ముక్షీయ మామృతాత్ ॥",
     "sa": "त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।\nउर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् ॥",
-    "iast": "tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam |\nurvārukam iva bandhanān mṛtyor mukṣīya māmṛtāt ||"
+    "iast": "tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam ।\nurvārukamiva bandhanānmṛtyormukṣīya māmṛtāt ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

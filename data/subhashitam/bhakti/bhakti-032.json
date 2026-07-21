@@ -1,10 +1,14 @@
 {
   "id": "bhakti-032",
-  "tags": ["bhakti", "narada", "sutra"],
+  "tags": [
+    "bhakti",
+    "narada",
+    "sutra"
+  ],
   "shlokam": {
     "te": "యథా వ్రజగోపికానామ్ ॥\nతస్మిన్నపి పరమప్రేమరూపతా ॥\nతదప్యుక్తం జయన్త్యాదిభిః ॥",
     "sa": "यथा व्रजगोपिकानाम् ॥\nतस्मिन्नपि परमप्रेमरूपता ॥\nतदप्युक्तं जयन्त्यादिभिः ॥",
-    "iast": "yathā vrajagopikānām ||\ntasminn api paramapremarūpatā ||\ntad apy uktaṃ jayantyādibhiḥ ||"
+    "iast": "yathā vrajagopikānām ॥\ntasminnapi paramapremarūpatā ॥\ntadapyuktaṃ jayantyādibhiḥ ॥"
   },
   "chandaH": "సూత్రగద్యము (sūtra prose)",
   "granthaH": {

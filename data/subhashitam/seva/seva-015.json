@@ -1,10 +1,14 @@
 {
   "id": "seva-015",
-  "tags": ["seva", "aparigraha", "bhagavatam"],
+  "tags": [
+    "seva",
+    "aparigraha",
+    "bhagavatam"
+  ],
   "shlokam": {
-    "te": "యావద్భ్రియేత జఠరం తావత్స్వత్వం హి దేహినామ్ ।\nఅధికం యోఽభిమన్యేత స స్తేనో దండమర్హతి ॥",
+    "te": "యావద్భ్రియేత జఠరం తావత్స్వత్వం హి దేహినామ్ ।\nఅధికం యోఽభిమన్యేత స స్తేనో దణ్డమర్హతి ॥",
     "sa": "यावद्भ्रियेत जठरं तावत्स्वत्वं हि देहिनाम् ।\nअधिकं योऽभिमन्येत स स्तेनो दण्डमर्हति ॥",
-    "iast": "yāvad bhriyeta jaṭharaṃ tāvat svatvaṃ hi dehinām |\nadhikaṃ yo'bhimanyeta sa steno daṇḍam arhati ||"
+    "iast": "yāvadbhriyeta jaṭharaṃ tāvatsvatvaṃ hi dehinām ।\nadhikaṃ yo'bhimanyeta sa steno daṇḍamarhati ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

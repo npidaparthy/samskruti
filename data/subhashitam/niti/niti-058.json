@@ -1,10 +1,14 @@
 {
   "id": "niti-058",
-  "tags": ["niti", "chanakya", "vipatti"],
+  "tags": [
+    "niti",
+    "chanakya",
+    "vipatti"
+  ],
   "shlokam": {
     "te": "ఉత్సవే వ్యసనే చైవ దుర్భిక్షే రాష్ట్రవిప్లవే ।\nరాజద్వారే శ్మశానే చ యస్తిష్ఠతి స బాన్ధవః ॥",
     "sa": "उत्सवे व्यसने चैव दुर्भिक्षे राष्ट्रविप्लवे ।\nराजद्वारे श्मशाने च यस्तिष्ठति स बान्धवः ॥",
-    "iast": "utsave vyasane caiva durbhikṣe rāṣṭraviplave |\nrājadvāre śmaśāne ca yas tiṣṭhati sa bāndhavaḥ ||"
+    "iast": "utsave vyasane caiva durbhikṣe rāṣṭraviplave ।\nrājadvāre śmaśāne ca yastiṣṭhati sa bāndhavaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

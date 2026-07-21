@@ -1,10 +1,15 @@
 {
   "id": "seva-001",
-  "tags": ["seva", "paropakara", "hitam", "manas"],
+  "tags": [
+    "seva",
+    "paropakara",
+    "hitam",
+    "manas"
+  ],
   "shlokam": {
     "te": "పరహితం యస్య మనసః ప్రవృత్తయః\nపరహితే యస్య రతం మనో నిశమ్ ।\nస సకలస్య జగతః ప్రియో భవేత్\nపరహితాసక్తమనాః స్వయం హరిః ॥",
     "sa": "परहितं यस्य मनसः प्रवृत्तयः\nपरहिते यस्य रतं मनो निशम् ।\nस सकलस्य जगतः प्रियो भवेत्\nपरहितासक्तमनाः स्वयं हरिः ॥",
-    "iast": "parahitaṃ yasya manasaḥ pravṛttayaḥ\nparahite yasya rataṃ mano niśam |\nsa sakalasya jagataḥ priyo bhavet\nparahitāsaktamanāḥ svayaṃ hariḥ ||"
+    "iast": "parahitaṃ yasya manasaḥ pravṛttayaḥ\nparahite yasya rataṃ mano niśam ।\nsa sakalasya jagataḥ priyo bhavet\nparahitāsaktamanāḥ svayaṃ hariḥ ॥"
   },
   "chandaH": "ఇన్ద్రవజ్రా / ఉపజాతి (Indravajrā / Upajāti)",
   "granthaH": {

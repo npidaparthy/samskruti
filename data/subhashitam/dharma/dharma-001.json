@@ -1,10 +1,14 @@
 {
   "id": "dharma-001",
-  "tags": ["dharma", "summary", "vyasa"],
+  "tags": [
+    "dharma",
+    "summary",
+    "vyasa"
+  ],
   "shlokam": {
     "te": "అష్టాదశ పురాణేషు వ్యాసస్య వచనద్వయమ్ ।\nపరోపకారః పుణ్యాయ పాపాయ పరపీడనమ్ ॥",
     "sa": "अष्टादश पुराणेषु व्यासस्य वचनद्वयम् ।\nपरोपकारः पुण्याय पापाय परपीडनम् ॥",
-    "iast": "aṣṭādaśa purāṇeṣu vyāsasya vacanadvayam |\nparopakāraḥ puṇyāya pāpāya parapīḍanam ||"
+    "iast": "aṣṭādaśa purāṇeṣu vyāsasya vacanadvayam ।\nparopakāraḥ puṇyāya pāpāya parapīḍanam ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

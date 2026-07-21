@@ -1,10 +1,14 @@
 {
   "id": "dharma-053",
-  "tags": ["dharma", "manusmriti", "raja-danda"],
+  "tags": [
+    "dharma",
+    "manusmriti",
+    "raja-danda"
+  ],
   "shlokam": {
-    "te": "దండ ఏవ ప్రజాః సర్వా రక్షతి ప్రచ్యుతే హి సః ।\nసర్వలోకమభిద్రుహ్యేద్దండస్య విభమాద్భయాత్ ॥",
-    "sa": "दण्ड एव प्रजाः सर्वा रक्षति प्रच्युते हि सः ।\nसर्वलोकमभिद्रुह्येद्दण्डस्य विभमाद्भयात् ॥",
-    "iast": "daṇḍa eva prajāḥ sarvā rakṣati pracyute hi saḥ |\nsarvalokam abhidruhyed daṇḍasya vibhramād bhayāt ||"
+    "te": "దణ్డ ఏవ ప్రజాః సర్వా రక్షతి ప్రచ్యుతే హి సః ।\nసర్వలోకమభిద్రుహ్యేద్దణ్డస్య విభ్రమాద్భయాత్ ॥",
+    "sa": "दण्ड एव प्रजाः सर्वा रक्षति प्रच्युते हि सः ।\nसर्वलोकमभिद्रुह्येद्दण्डस्य विभ्रमाद्भयात् ॥",
+    "iast": "daṇḍa eva prajāḥ sarvā rakṣati pracyute hi saḥ ।\nsarvalokamabhidruhyeddaṇḍasya vibhramādbhayāt ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

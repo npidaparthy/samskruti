@@ -1,10 +1,14 @@
 {
   "id": "bhakti-029",
-  "tags": ["bhakti", "gita", "sulabha"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "sulabha"
+  ],
   "shlokam": {
     "te": "అనన్యచేతాః సతతం యో మాం స్మరతి నిత్యశః ।\nతస్యాహం సులభః పార్థ నిత్యయుక్తస్య యోగినః ॥",
     "sa": "अनन्यचेताः सततं यो मां स्मरति नित्यशः ।\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ॥",
-    "iast": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ |\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||"
+    "iast": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ ।\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

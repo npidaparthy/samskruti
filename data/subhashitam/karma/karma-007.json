@@ -1,35 +1,34 @@
 {
   "id": "karma-007",
-  "tags": ["karma", "yoga", "ahara", "vihara", "gita"],
-
+  "tags": [
+    "karma",
+    "yoga",
+    "ahara",
+    "vihara",
+    "gita"
+  ],
   "shlokam": {
     "te": "యుక్తాహారవిహారస్య యుక్తచేష్టస్య కర్మసు ।\nయుక్తస్వప్నావబోధస్య యోగో భవతి దుఃఖహా ॥",
     "sa": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा ॥",
-    "iast": "yuktāhāravihārasya yuktaceṣṭasya karmasu |\nyuktasvapnāvabodhasya yogo bhavati duḥkhahā ||"
+    "iast": "yuktāhāravihārasya yuktaceṣṭasya karmasu ।\nyuktasvapnāvabodhasya yogo bhavati duḥkhahā ॥"
   },
-
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
-
   "granthaH": {
     "name_te": "శ్రీమద్భగవద్గీత 6.17",
     "name_en": "Bhagavad Gītā 6.17"
   },
-
   "padavibhagam": {
     "te": "యుక్త-ఆహార-విహారస్య | యుక్త-చేష్టస్య | కర్మసు | యుక్త-స్వప్న-అవబోధస్య | యోగః | భవతి | దుఃఖహా",
     "en": "yukta-āhāra-vihārasya | yukta-ceṣṭasya | karmasu | yukta-svapna-avabodhasya | yogaḥ | bhavati | duḥkhahā"
   },
-
   "anvayam": {
     "te": "యుక్తాహారవిహారస్య (నియమిత ఆహార-విహారం కలవానికి), కర్మసు యుక్తచేష్టస్య (కర్మలలో నియమిత ప్రయత్నం కలవానికి), యుక్తస్వప్నావబోధస్య (నియమిత నిద్ర-మేల్కొలుపు కలవానికి) యోగో దుఃఖహా భవతి (యోగం దుఃఖనాశకమగును).",
     "en": "yuktāhāravihārasya (for one with regulated food and recreation), yuktaceṣṭasya karmasu (with regulated effort in actions), yuktasvapnāvabodhasya (with regulated sleep and wakefulness) yogaḥ duḥkhahā bhavati (yoga becomes the destroyer of suffering)."
   },
-
   "meaning": {
     "te": "నియమిత ఆహారం-విహారం, నియమిత కర్మాచరణ, నియమిత నిద్ర-మేల్కొలుపు కలవానికి యోగం దుఃఖాన్ని నాశనం చేస్తుంది.",
     "en": "For one whose eating and recreation are regulated, whose actions are balanced, and whose sleep and waking are disciplined — yoga becomes the destroyer of sorrow."
   },
-
   "tatparyam": {
     "te": "శ్రీకృష్ణుడు ధ్యానయోగాన్ని వివరిస్తూ ముందు జీవనశైలి యొక్క నియమాన్ని చెప్పాడు. మితమైన ఆహారం, మితమైన కదలికలు, మితమైన నిద్ర — ఇవి యోగసాధనకు పునాది. అతిగా తినడం, అతి విశ్రాంతి, అతి జాగరణ — ఇవి యోగానికి అడ్డంకులు. 'యుక్త' అంటే అతిశయం కాదు, లోపం కాదు — సరైన మోతాదు.",
     "en": "Before describing meditation, Kṛṣṇa establishes the foundation: a disciplined lifestyle. Regulated food, moderate movement, and balanced sleep are the prerequisites for yoga, not optional add-ons. 'Yukta' means neither excess nor deficiency but the right measure. This verse is a reminder that yoga is not just a practice on the mat — it is a way of ordering one's entire life to make deep practice possible."

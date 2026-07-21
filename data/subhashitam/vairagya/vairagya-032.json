@@ -1,10 +1,14 @@
 {
   "id": "vairagya-032",
-  "tags": ["vairagya", "vanam", "svabhava"],
+  "tags": [
+    "vairagya",
+    "vanam",
+    "svabhava"
+  ],
   "shlokam": {
     "te": "వనే రమ్యే వసేద్యోగీ వారిణ్యగ్నౌ చ నిర్మలే ।\nవాయుమాత్రేణ సన్తుష్టః న సుఖం విన్దతే యథా ॥",
     "sa": "वने रम्ये वसेद्योगी वारिण्यग्नौ च निर्मले ।\nवायुमात्रेण सन्तुष्टः न सुखं विन्दते यथा ॥",
-    "iast": "vane ramye vased yogī vāriṇy agnau ca nirmale |\nvāyumātreṇa santuṣṭaḥ na sukhaṃ vindate yathā ||"
+    "iast": "vane ramye vasedyogī vāriṇyagnau ca nirmale ।\nvāyumātreṇa santuṣṭaḥ na sukhaṃ vindate yathā ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

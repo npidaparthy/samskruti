@@ -1,10 +1,14 @@
 {
   "id": "vairagya-044",
-  "tags": ["vairagya", "gita", "atma-samyama"],
+  "tags": [
+    "vairagya",
+    "gita",
+    "atma-samyama"
+  ],
   "shlokam": {
-    "te": "శనైః శనైరుపరమేద్బుద్ధ్యా ధృతిగృహీతయా ।\nఆత్మసంస్థం మనః కృత్వా న కించిదపి చిన్తయేత్ ॥",
+    "te": "శనైః శనైరుపరమేద్బుద్ధ్యా ధృతిగృహీతయా ।\nఆత్మసంస్థం మనః కృత్వా న కిఞ్చిదపి చిన్తయేత్ ॥",
     "sa": "शनैः शनैरुपरमेद्बुद्ध्या धृतिगृहीतया ।\nआत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत् ॥",
-    "iast": "śanaiḥ śanair uparamed buddhyā dhṛtigṛhītayā |\nātmasaṃsthaṃ manaḥ kṛtvā na kiñcid api cintayet ||"
+    "iast": "śanaiḥ śanairuparamedbuddhyā dhṛtigṛhītayā ।\nātmasaṃsthaṃ manaḥ kṛtvā na kiñcidapi cintayet ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

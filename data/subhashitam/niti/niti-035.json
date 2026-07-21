@@ -1,10 +1,14 @@
 {
   "id": "niti-035",
-  "tags": ["niti", "yojaka", "samartha"],
+  "tags": [
+    "niti",
+    "yojaka",
+    "samartha"
+  ],
   "shlokam": {
     "te": "అమన్త్రమక్షరం నాస్తి నాస్తి మూలమనౌషధమ్ ।\nఅయోగ్యః పురుషో నాస్తి యోజకస్తత్ర దుర్లభః ॥",
     "sa": "अमन्त्रमक्षरं नास्ति नास्ति मूलमनौषधम् ।\nअयोग्यः पुरुषो नास्ति योजकस्तत्र दुर्लभः ॥",
-    "iast": "amantram akṣaraṃ nāsti nāsti mūlam anauṣadham |\nayogyaḥ puruṣo nāsti yojakas tatra durlabhaḥ ||"
+    "iast": "amantramakṣaraṃ nāsti nāsti mūlamanauṣadham ।\nayogyaḥ puruṣo nāsti yojakastatra durlabhaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

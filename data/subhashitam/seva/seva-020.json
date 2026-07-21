@@ -1,10 +1,14 @@
 {
   "id": "seva-020",
-  "tags": ["seva", "sharira", "dharma"],
+  "tags": [
+    "seva",
+    "sharira",
+    "dharma"
+  ],
   "shlokam": {
     "te": "అపి స్వశక్త్యా తపసి ప్రవర్తసే\nశరీరమాద్యం ఖలు ధర్మసాధనమ్ ॥",
     "sa": "अपि स्वशक्त्या तपसि प्रवर्तसे\nशरीरमाद्यं खलु धर्मसाधनम् ॥",
-    "iast": "api svaśaktyā tapasi pravartase\nśarīram ādyaṃ khalu dharmasādhanam ||"
+    "iast": "api svaśaktyā tapasi pravartase\nśarīramādyaṃ khalu dharmasādhanam ॥"
   },
   "chandaH": "వంశస్థము (Vaṃśastha) — 12 syllables per quarter",
   "granthaH": {

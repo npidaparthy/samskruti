@@ -1,10 +1,14 @@
 {
   "id": "karma-027",
-  "tags": ["karma", "gita", "sarva-bhuta-hite"],
+  "tags": [
+    "karma",
+    "gita",
+    "sarva-bhuta-hite"
+  ],
   "shlokam": {
     "te": "సర్వభూతస్థమాత్మానం సర్వభూతాని చాత్మని ।\nఈక్షతే యోగయుక్తాత్మా సర్వత్ర సమదర్శనః ॥",
     "sa": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ॥",
-    "iast": "sarvabhūtasthamātmānaṃ sarvabhūtāni cātmani |\nīkṣate yogayuktātmā sarvatra samadarśanaḥ ||"
+    "iast": "sarvabhūtasthamātmānaṃ sarvabhūtāni cātmani ।\nīkṣate yogayuktātmā sarvatra samadarśanaḥ ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

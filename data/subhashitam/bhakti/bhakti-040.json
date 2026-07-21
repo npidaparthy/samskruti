@@ -1,10 +1,14 @@
 {
   "id": "bhakti-040",
-  "tags": ["bhakti", "gita", "sthavara-jangama"],
+  "tags": [
+    "bhakti",
+    "gita",
+    "sthavara-jangama"
+  ],
   "shlokam": {
-    "te": "రాసో(మ్)యస్మ్యప్సు కౌన్తేయ ప్రభాస్మి శశిసూర్యయోః ।\nప్రణవః సర్వవేదేషు శబ్దః ఖే పౌరుషం నృషు ॥",
+    "te": "రసోఽహమప్సు కౌన్తేయ ప్రభాస్మి శశిసూర్యయోః ।\nప్రణవః సర్వవేదేషు శబ్దః ఖే పౌరుషం నృషు ॥",
     "sa": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः ।\nप्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ॥",
-    "iast": "raso'ham apsu kaunteya prabhāsmi śaśisūryayoḥ |\npraṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ||"
+    "iast": "raso'hamapsu kaunteya prabhāsmi śaśisūryayoḥ ।\npraṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

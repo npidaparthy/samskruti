@@ -1,10 +1,15 @@
 {
   "id": "dharma-006",
-  "tags": ["dharma", "manas", "trikarana", "shuddhi"],
+  "tags": [
+    "dharma",
+    "manas",
+    "trikarana",
+    "shuddhi"
+  ],
   "shlokam": {
     "te": "మనసా చిన్తితం కార్యం వాచా నైవ ప్రకాశయేత్ ।\nమన్త్రేణ రక్షయేద్గూఢం కార్యే చాపి నియోజయేత్ ॥",
     "sa": "मनसा चिन्तितं कार्यं वाचा नैव प्रकाशयेत् ।\nमन्त्रेण रक्षयेद्गूढं कार्ये चापि नियोजयेत् ॥",
-    "iast": "manasā cintitaṃ kāryaṃ vācā naiva prakāśayet |\nmantrena rakṣayedgūḍhaṃ kārye cāpi niyojayet ||"
+    "iast": "manasā cintitaṃ kāryaṃ vācā naiva prakāśayet ।\nmantreṇa rakṣayedgūḍhaṃ kārye cāpi niyojayet ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup)",
   "granthaH": {

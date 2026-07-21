@@ -1,10 +1,14 @@
 {
   "id": "niti-049",
-  "tags": ["niti", "shrama", "sukha"],
+  "tags": [
+    "niti",
+    "shrama",
+    "sukha"
+  ],
   "shlokam": {
     "te": "నాస్తి బుద్ధిసమం చక్షుర్నాస్తి సత్యసమం బలమ్ ।\nనాస్త్యసూయాసమో వ్యాధిర్నాస్తి ధర్మసమో సఖా ॥",
     "sa": "नास्ति बुद्धिसमं चक्षुर्नास्ति सत्यसमं बलम् ।\nनास्त्यसूयासमो व्याधिर्नास्ति धर्मसमो सखा ॥",
-    "iast": "nāsti buddhisamaṃ cakṣur nāsti satyasamaṃ balam |\nnāsty asūyāsamo vyādhir nāsti dharmasamo sakhā ||"
+    "iast": "nāsti buddhisamaṃ cakṣurnāsti satyasamaṃ balam ।\nnāstyasūyāsamo vyādhirnāsti dharmasamo sakhā ॥"
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {

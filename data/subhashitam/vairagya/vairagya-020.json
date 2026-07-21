@@ -1,10 +1,14 @@
 {
   "id": "vairagya-020",
-  "tags": ["vairagya", "satsanga", "mukti"],
+  "tags": [
+    "vairagya",
+    "satsanga",
+    "mukti"
+  ],
   "shlokam": {
-    "te": "సత్సంగత్వే నిస్సంగత్వం\nనిస్సంగత్వే నిర్మోహత్వమ్ ।\nనిర్మోహత్వే నిశ్చలతత్త్వం\nనిశ్చలతత్త్వే జీవన్ముక్తిః ॥",
+    "te": "సత్సఙ్గత్వే నిస్సఙ్గత్వం\nనిస్సఙ్గత్వే నిర్మోహత్వమ్ ।\nనిర్మోహత్వే నిశ్చలతత్త్వం\nనిశ్చలతత్త్వే జీవన్ముక్తిః ॥",
     "sa": "सत्सङ्गत्वे निस्सङ्गत्वं\nनिस्सङ्गत्वे निर्मोहत्वम् ।\nनिर्मोहत्वे निश्चलतत्त्वं\nनिश्चलतत्त्वे जीवन्मुक्तिः ॥",
-    "iast": "satsaṅgatve nissaṅgatvaṃ\nnissaṅgatve nirmohatvam |\nnirmohatve niścalatattvaṃ\nniścalatattve jīvanmuktiḥ ||"
+    "iast": "satsaṅgatve nissaṅgatvaṃ\nnissaṅgatve nirmohatvam ।\nnirmohatve niścalatattvaṃ\nniścalatattve jīvanmuktiḥ ॥"
   },
   "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
   "granthaH": {
