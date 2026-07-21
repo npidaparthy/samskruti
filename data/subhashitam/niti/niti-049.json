@@ -1,0 +1,31 @@
+{
+  "id": "niti-049",
+  "tags": ["niti", "shrama", "sukha"],
+  "shlokam": {
+    "te": "నాస్తి బుద్ధిసమం చక్షుర్నాస్తి సత్యసమం బలమ్ ।\nనాస్త్యసూయాసమో వ్యాధిర్నాస్తి ధర్మసమో సఖా ॥",
+    "sa": "नास्ति बुद्धिसमं चक्षुर्नास्ति सत्यसमं बलम् ।\nनास्त्यसूयासमो व्याधिर्नास्ति धर्मसमो सखा ॥",
+    "iast": "nāsti buddhisamaṃ cakṣur nāsti satyasamaṃ balam |\nnāsty asūyāsamo vyādhir nāsti dharmasamo sakhā ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మహాభారతము (సభాపర్వము)",
+    "name_en": "Mahabharata (Sabha Parva)",
+    "chapter": "widely quoted maxim"
+  },
+  "padavibhagam": {
+    "te": "న | అస్తి | బుద్ధిసమమ్ | చక్షుః | న | అస్తి | సత్యసమమ్ | బలమ్ | న | అస్తి | అసూయాసమః | వ్యాధిః | న | అస్తి | ధర్మసమః | సఖా",
+    "en": "na | asti | buddhisamam | cakṣuḥ | na | asti | satyasamam | balam | na | asti | asūyāsamaḥ | vyādhiḥ | na | asti | dharmasamaḥ | sakhā"
+  },
+  "anvayam": {
+    "te": "బుద్ధిసమం చక్షుః న అస్తి; సత్యసమం బలం న అస్తి; అసూయాసమః వ్యాధిః న అస్తి; ధర్మసమః సఖా న అస్తి.",
+    "en": "Buddhisamaṃ cakṣuḥ na asti (there is no eye equal to intellect); satyasamaṃ balam na asti (no strength equal to truth); asūyāsamaḥ vyādhiḥ na asti (no disease equal to envy); dharmasamaḥ sakhā na asti (no friend equal to dharma)."
+  },
+  "meaning": {
+    "te": "బుద్ధితో సమానమైన కన్ను లేదు; సత్యంతో సమానమైన బలం లేదు; అసూయతో సమానమైన వ్యాధి లేదు; ధర్మంతో సమానమైన మిత్రుడు లేదు.",
+    "en": "There is no eye equal to intellect, no strength equal to truth, no disease equal to envy, and no friend equal to dharma."
+  },
+  "tatparyam": {
+    "te": "నాలుగు తులనలలో నాలుగు జీవితసూత్రాలు ఇమిడి ఉన్న శ్లోకం. బుద్ధిని కంటితో పోల్చడం ద్వారా — భౌతికదృష్టికి కనబడనిదాన్ని అంతర్దృష్టి చూపగలదని సూచన. అసూయను వ్యాధిగా పేర్కొనడం విశేషం — ఇది శరీరాన్ని కాక మనసును తినేసే రుగ్మత, మందులేని రోగం. ధర్మాన్నే అత్యుత్తమ మిత్రునిగా చెప్పడంలో — స్నేహితులు మారవచ్చు, దూరమవ్వచ్చు, కానీ ధర్మం మాత్రం ఎప్పుడూ తోడుంటుందన్న భరోసా దాగి ఉంది. చిన్న శ్లోకంలో జ్ఞానం, నిజాయితీ, మానసికారోగ్యం, శాశ్వతమిత్రత్వం అనే నాలుగు జీవనసత్యాలు ఇమిడి ఉన్నాయి.",
+    "en": "Four comparisons hold four life-principles within a single verse. Comparing intellect to an eye suggests that inner insight can see what physical vision cannot. Naming envy a disease is notable — it is an affliction that eats not the body but the mind, a sickness with no medicine. Calling dharma the supreme friend carries a quiet assurance — friends may change or drift away, but dharma remains constant company. Four life-truths — wisdom, honesty, mental health, and enduring companionship — held within one small verse."
+  }
+}

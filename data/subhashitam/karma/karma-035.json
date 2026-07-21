@@ -1,0 +1,31 @@
+{
+  "id": "karma-035",
+  "tags": ["karma", "gita", "trividha-karta"],
+  "shlokam": {
+    "te": "అనిష్టమిష్టం మిశ్రం చ త్రివిధం కర్మణః ఫలమ్ ।\nభవత్యత్యాగినాం ప్రేత్య న తు సంన్యాసినాం క్వచిత్ ॥",
+    "sa": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् ।\nभवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ॥",
+    "iast": "aniṣṭam iṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam |\nbhavaty atyāgināṃ pretya na tu saṃnyāsināṃ kvacit ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)",
+    "chapter": "18.12"
+  },
+  "padavibhagam": {
+    "te": "అనిష్టమ్ | ఇష్టమ్ | మిశ్రమ్ | చ | త్రివిధమ్ | కర్మణః | ఫలమ్ | భవతి | అత్యాగినామ్ | ప్రేత్య | న | తు | సంన్యాసినామ్ | క్వచిత్",
+    "en": "aniṣṭam | iṣṭam | miśram | ca | trividham | karmaṇaḥ | phalam | bhavati | atyāgin | pretya | na | tu | saṃnyāsinām | kvacit"
+  },
+  "anvayam": {
+    "te": "అనిష్టమ్, ఇష్టమ్, మిశ్రమ్ చ (ఇతి) త్రివిధం కర్మణః ఫలం అత్యాగినాం ప్రేత్య భవతి; సంన్యాసినాం తు క్వచిత్ న (భవతి).",
+    "en": "Aniṣṭam (undesirable), iṣṭam (desirable), miśraṃ ca (and mixed) — trividhaṃ karmaṇaḥ phalam (this threefold fruit of action) atyāgināṃ pretya bhavati (comes after death for those who have not renounced attachment to it); saṃnyāsināṃ tu kvacit na (for the truly renounced, it does not come at all)."
+  },
+  "meaning": {
+    "te": "అనిష్టం, ఇష్టం, మిశ్రం అనే మూడు రకాల కర్మఫలాలు, ఫలాసక్తిని విడువనివారికి మరణానంతరం సంభవిస్తాయి. నిజమైన సంన్యాసులకు మాత్రం అవి ఎన్నడూ కలగవు.",
+    "en": "The threefold fruit of action — undesirable, desirable, and mixed — comes after death to those who have not renounced attachment to it. For the truly renounced, it never comes at all."
+  },
+  "tatparyam": {
+    "te": "కర్మఫలత్యాగానికీ, సన్యాసానికీ మధ్య నిజమైన సంబంధాన్ని స్పష్టం చేసే గీత చివరి అధ్యాయపు శ్లోకం. ఫలాన్ని అంటిపెట్టుకున్నవాడికి మంచిదైనా చెడ్డదైనా మిశ్రమమైనా — ఏదో ఒక ఫలం అనుభవించక తప్పదు. కానీ కర్తృత్వాభిమానాన్నీ ఫలాపేక్షనూ నిజంగా వదిలినవాడికి ఆ మూడు ఫలాలలో ఏదీ అంటదు. ఇది కర్మను మానేయడం కాదు — కర్మతో ఉన్న సంబంధాన్ని మార్చుకోవడం. ఫలాన్ని వదిలిన కర్మ బంధించదు, ఫలాన్ని అంటిపెట్టుకున్న కర్మ ఎప్పటికీ ఏదో ఒక రూపంలో తిరిగి వస్తుందని ఈ శ్లోకం స్పష్టం చేస్తుంది.",
+    "en": "A verse from the Gita's final chapter clarifying the true relationship between renunciation of results and true sannyasa. For one attached to results, some fruit — good, bad, or mixed — must inevitably be experienced. But for one who has genuinely relinquished the sense of doership and desire for results, none of these three fruits ever touches them. This is not about abandoning action but about changing one's relationship to it. Action performed without attachment to its fruit does not bind; action performed with attachment always returns in some form — this verse makes that plain."
+  }
+}

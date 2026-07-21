@@ -1,0 +1,31 @@
+{
+  "id": "vairagya-038",
+  "tags": ["vairagya", "gita", "sarira-nashvara"],
+  "shlokam": {
+    "te": "అన్తవన్త ఇమే దేహా నిత్యస్యోక్తాః శరీరిణః ।\nఅనాశినోఽప్రమేయస్య తస్మాద్యుధ్యస్వ భారత ॥",
+    "sa": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः ।\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ॥",
+    "iast": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ |\nanāśino'prameyasya tasmād yudhyasva bhārata ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
+    "chapter": "2.18"
+  },
+  "padavibhagam": {
+    "te": "అన్తవన్తః | ఇమే | దేహాః | నిత్యస్య | ఉక్తాః | శరీరిణః | అనాశినః | అప్రమేయస్య | తస్మాత్ | యుధ్యస్వ | భారత",
+    "en": "antavantaḥ | ime | dehāḥ | nityasya | uktāḥ | śarīriṇaḥ | anāśinaḥ | aprameyasya | tasmāt | yudhyasva | bhārata"
+  },
+  "anvayam": {
+    "te": "నిత్యస్య, అనాశినః, అప్రమేయస్య శరీరిణః ఇమే దేహాః అన్తవన్తః ఉక్తాః; తస్మాత్ భారత! యుధ్యస్వ.",
+    "en": "Nityasya (of the eternal), anāśinaḥ (indestructible), aprameyasya (immeasurable) śarīriṇaḥ (embodied Self), ime dehāḥ (these bodies) antavantaḥ uktāḥ (are said to have an end); tasmāt bhārata (therefore, O Bharata) yudhyasva (fight)."
+  },
+  "meaning": {
+    "te": "నాశనం లేని, కొలవలేని, నిత్యమైన ఆత్మకు ఈ శరీరాలు అంతం కలవిగా చెప్పబడ్డాయి. కనుక భారతా! యుద్ధం చెయ్యి.",
+    "en": "These bodies of the eternal, indestructible, immeasurable embodied Self are said to have an end. Therefore, O Bharata, fight."
+  },
+  "tatparyam": {
+    "te": "ఆత్మనిత్యత్వం, దేహానిత్యత్వం అనే రెండు వాస్తవాలను పక్కపక్కనే ఉంచి, వాటి నుండి ఒక ఆచరణాత్మక నిర్ణయానికి చేరుకునే శ్లోకం — 'యుధ్యస్వ', యుద్ధం చెయ్యి. ఆత్మ నశించదు కనుక దేహాన్ని కోల్పోతానన్న భయం అనవసరమని, దేహం అలాగే నశించేది కనుక దానిని కాపాడుకోవడం కోసం కర్తవ్యాన్ని విడవడం అవివేకమని కృష్ణుడు తర్కబద్ధంగా చూపిస్తాడు. తాత్త్వికసత్యాన్ని కేవలం చర్చకే పరిమితం చేయకుండా, తక్షణకర్తవ్యనిర్వహణకు ఆధారంగా మలచడం గీత ప్రత్యేకత — జ్ఞానం ఆచరణలో పరిణమించాలన్న సూత్రానికి ఇది మంచి ఉదాహరణ.",
+    "en": "This verse places the eternity of the Self and the transience of the body side by side and arrives at a practical conclusion — 'yudhyasva', fight. Krishna reasons that since the Self cannot perish, there is no need to fear losing the body; and since the body is bound to perish anyway, abandoning one's duty merely to preserve it is folly. Rather than confining philosophical truth to mere discussion, the Gita turns it into grounds for immediate duty — a fine example of the principle that knowledge must ripen into action."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "niti-051",
+  "tags": ["niti", "arogya", "yatna"],
+  "shlokam": {
+    "te": "అర్థనాశం మనస్తాపం గృహిణీ చరితాని చ ।\nవాక్పారుష్యం చాధమానాం మతిమాన్న ప్రకాశయేత్ ॥",
+    "sa": "अर्थनाशं मनस्तापं गृहिणी चरितानि च ।\nवाक्पारुष्यं चाधमानां मतिमान्न प्रकाशयेत् ॥",
+    "iast": "arthanāśaṃ manastāpaṃ gṛhiṇī caritāni ca |\nvākpāruṣyaṃ cādhamānāṃ matimān na prakāśayet ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "12.16"
+  },
+  "padavibhagam": {
+    "te": "అర్థనాశమ్ | మనస్తాపమ్ | గృహిణీచరితాని | చ | వాక్పారుష్యమ్ | చ | అధమానామ్ | మతిమాన్ | న | ప్రకాశయేత్",
+    "en": "arthanāśam | manastāpam | gṛhiṇīcaritāni | ca | vākpāruṣyam | ca | adhamānām | matimān | na | prakāśayet"
+  },
+  "anvayam": {
+    "te": "మతిమాన్ అర్థనాశం, మనస్తాపం, గృహిణీచరితాని చ, అధమానాం వాక్పారుష్యం చ న ప్రకాశయేత్.",
+    "en": "Matimān (a wise person) arthanāśam (loss of wealth), manastāpam (mental anguish), gṛhiṇīcaritāni ca (matters of one's household/spouse), adhamānāṃ vākpāruṣyaṃ ca (and the harsh words of the lowly) na prakāśayet (should not disclose)."
+  },
+  "meaning": {
+    "te": "వివేకవంతుడు ధననష్టాన్నీ, మనోవ్యథనూ, గృహవిషయాలనూ, నీచుల పరుషవాక్యాలనూ బయటపెట్టకూడదు.",
+    "en": "A wise person should not disclose the loss of wealth, mental anguish, private household matters, or the harsh words spoken by lowly people."
+  },
+  "tatparyam": {
+    "te": "వ్యక్తిగత రహస్యాన్ని కాపాడుకోవడంలోని వివేకాన్ని చాటే ఆచరణాత్మక సూత్రం. ఈ నాలుగింటినీ బయటపెడితే వచ్చే నష్టాలు వేర్వేరు — ధననష్టం ప్రచారమైతే విశ్వసనీయత తగ్గుతుంది; మనోవ్యథ పంచుకుంటే సానుభూతి బదులు జాలిదృష్టి వస్తుంది; గృహవిషయాలు బయటికెళ్తే కుటుంబగౌరవం దెబ్బతింటుంది; నీచుల అవమానాన్ని ప్రచారం చేస్తే తనకే అప్రతిష్ఠ. ప్రతి బాధనూ లోకానికి చాటడం బలహీనతకు గుర్తు అని, ఏది పంచుకోవాలో ఏది దాచుకోవాలో నిర్ణయించుకోగలగడమే వ్యక్తిత్వ పరిపక్వతకు చిహ్నమని చాణక్యుడు హెచ్చరిస్తున్నాడు.",
+    "en": "A practical principle on the wisdom of guarding personal privacy. The harm in disclosing each of these four differs — publicised loss of wealth erodes credibility; shared mental anguish invites pity rather than sympathy; exposed household matters damage family honour; and broadcasting insults suffered from the lowly brings disgrace to oneself. Chanakya's warning is that airing every hurt to the world is a mark of weakness, and knowing what to share and what to keep private is itself a sign of maturity of character."
+  }
+}

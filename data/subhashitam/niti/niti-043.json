@@ -1,0 +1,31 @@
+{
+  "id": "niti-043",
+  "tags": ["niti", "mitra", "pariksha"],
+  "shlokam": {
+    "te": "పరీక్ష్య లోకతత్త్వాని పరీక్ష్య గురులాఘవమ్ ।\nశక్యాశక్యే చ కృత్యాని కుర్యాద్యో నావసీదతి ॥",
+    "sa": "परीक्ष्य लोकतत्त्वानि परीक्ष्य गुरुलाघवम् ।\nशक्याशक्ये च कृत्यानि कुर्याद्यो नावसीदति ॥",
+    "iast": "parīkṣya lokatattvāni parīkṣya gurulāghavam |\nśakyāśakye ca kṛtyāni kuryād yo nāvasīdati ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "పంచతన్త్రము",
+    "name_en": "Panchatantra",
+    "chapter": "Mitrabheda"
+  },
+  "padavibhagam": {
+    "te": "పరీక్ష్య | లోకతత్త్వాని | పరీక్ష్య | గురులాఘవమ్ | శక్యాశక్యే | చ | కృత్యాని | కుర్యాత్ | యః | న | అవసీదతి",
+    "en": "parīkṣya | lokatattvāni | parīkṣya | gurulāghavam | śakyāśakye | ca | kṛtyāni | kuryāt | yaḥ | na | avasīdati"
+  },
+  "anvayam": {
+    "te": "లోకతత్త్వాని పరీక్ష్య, గురులాఘవం పరీక్ష్య, శక్యాశక్యే చ కృత్యాని (వివిచ్య) యః కుర్యాత్, సః న అవసీదతి.",
+    "en": "Lokatattvāni parīkṣya (having examined the realities of the world), gurulāghavaṃ parīkṣya (having weighed the relative importance of matters), śakyāśakye ca kṛtyāni (and having discerned what is possible from what is not) yaḥ kuryāt (whoever acts thus), saḥ na avasīdati (he does not fail)."
+  },
+  "meaning": {
+    "te": "లోకవాస్తవాలను పరిశీలించి, పెద్దదానికీ చిన్నదానికీ తేడా తెలుసుకుని, సాధ్యాసాధ్యాలను వేరుచేసి పనులు చేసేవాడు ఎన్నడూ విఫలుడు కాడు.",
+    "en": "One who examines the realities of the world, weighs what is important against what is trivial, and clearly separates the possible from the impossible before acting — such a person never fails."
+  },
+  "tatparyam": {
+    "te": "విజయవంతమైన కార్యాచరణకు మూడు ముందస్తు పరీక్షలను నిర్దేశించే వ్యావహారికనీతి శ్లోకం ఇది — లోకవాస్తవికత, ప్రాధాన్యక్రమం, సాధ్యాసాధ్యవివేచన. తొందరపడి పనిలోకి దూకేవారు తరచూ విఫలమవుతారు, ఎందుకంటే వారు ఈ మూడు పరీక్షలనూ దాటవేస్తారు. ఏది ముఖ్యమో, ఏది అప్రధానమో వేరుచేయలేకపోవడం వల్లే చాలామంది శక్తినంతా చిన్నవిషయాలపై వృథా చేస్తారు. ప్రణాళికాబద్ధమైన ఆచరణకు పంచతంత్రం ఇచ్చిన ఈ మూడంచెల సూత్రం ఆధునిక వ్యూహరచనకూ వర్తిస్తుంది.",
+    "en": "A worldly-wise verse laying down three preliminary tests for successful action — assessing reality, weighing priorities, and discerning what is achievable. Those who rush into action often fail precisely because they skip these three tests. Many exhaust their energy on trivial matters simply because they cannot distinguish what truly matters from what does not. This three-step principle for planned action, offered by the Panchatantra, applies equally to modern strategy."
+  }
+}

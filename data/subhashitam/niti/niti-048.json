@@ -1,0 +1,31 @@
+{
+  "id": "niti-048",
+  "tags": ["niti", "shishtachara", "buddhi"],
+  "shlokam": {
+    "te": "అవిశ్వస్తో విశ్వాససం అతి విశ్వాససం త్యజేత్ ।\nవిశ్వాసాద్భయముత్పన్నం మూలాన్యపి నికృన్తతి ॥",
+    "sa": "अविश्वस्तो विश्वाससं अति विश्वाससं त्यजेत् ।\nविश्वासाद्भयमुत्पन्नं मूलान्यपि निकृन्तति ॥",
+    "iast": "aviśvasto viśvāsasaṃ ati viśvāsasaṃ tyajet |\nviśvāsād bhayam utpannaṃ mūlāny api nikṛntati ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "పంచతన్త్రము",
+    "name_en": "Panchatantra",
+    "chapter": "Mitrabheda"
+  },
+  "padavibhagam": {
+    "te": "అవిశ్వస్తః | విశ్వాససం | అతి | విశ్వాససం | త్యజేత్ | విశ్వాసాత్ | భయమ్ | ఉత్పన్నమ్ | మూలాని | అపి | నికృన్తతి",
+    "en": "aviśvastaḥ | viśvāsasaṃ | ati | viśvāsasaṃ | tyajet | viśvāsāt | bhayam | utpannam | mūlāni | api | nikṛntati"
+  },
+  "anvayam": {
+    "te": "అవిశ్వస్తేషు విశ్వాసం, అతివిశ్వాసం చ త్యజేత్; విశ్వాసాత్ ఉత్పన్నం భయం మూలాని అపి నికృన్తతి.",
+    "en": "Aviśvasteṣu viśvāsam (trust in the untrustworthy), ati viśvāsaṃ ca (and also excessive trust) tyajet (one should abandon); viśvāsāt utpannaṃ bhayam (the danger that arises from misplaced trust) mūlāni api nikṛntati (cuts down even the very roots)."
+  },
+  "meaning": {
+    "te": "నమ్మదగనివారిపై నమ్మకాన్నీ, అతిగా నమ్మకాన్నీ విడిచిపెట్టాలి. నమ్మకం వల్ల పుట్టిన ప్రమాదం వేళ్ళతో సహా నాశనం చేస్తుంది.",
+    "en": "One should abandon both trust in the untrustworthy and excessive trust in general. The danger born of misplaced trust cuts down even one's very roots."
+  },
+  "tatparyam": {
+    "te": "పంచతంత్రంలోని అనేక కథలు నమ్మకం ఎలా వమ్ము అవుతుందో చూపిస్తాయి — ఈ శ్లోకం ఆ కథలన్నింటి సారాంశం. అపనమ్మకమూ కాదు, గుడ్డిగా నమ్మడమూ కాదు — రెండింటి మధ్య వివేకవంతమైన మధ్యేమార్గమే సురక్షితం. 'మూలాన్యపి నికృన్తతి' అన్న పదబంధం తీవ్రత చూపిస్తుంది — తప్పుడు నమ్మకం వల్ల వచ్చే నష్టం ఉపరితలానికే పరిమితం కాదు, పునాదిని కూడా కూలదోస్తుంది. వ్యాపారంలోనైనా, స్నేహంలోనైనా, భాగస్వామ్యంలోనైనా — ఎవరిని ఎంతవరకు నమ్మాలో నిర్ణయించుకోగలగడమే వ్యావహారికవివేకపు కీలకమని ఈ శ్లోకం బోధిస్తుంది.",
+    "en": "Many Panchatantra tales show how misplaced trust unravels — this verse is the distilled essence of all of them. Neither distrust nor blind trust, but the wise middle path between the two, is what is safe. The phrase 'mūlāny api nikṛntati' carries the weight of its warning — the harm from misplaced trust is not superficial but topples the very foundation. In business, in friendship, in partnership — knowing whom to trust and to what extent is, this verse teaches, the key to practical wisdom."
+  }
+}
