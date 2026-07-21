@@ -1,0 +1,31 @@
+{
+  "id": "seva-032",
+  "tags": ["seva", "vishnu-sahasranama", "sarvatman"],
+  "shlokam": {
+    "te": "న సా సభా యత్ర న సన్తి వృద్ధాః\nన తే వృద్ధా యే న వదన్తి ధర్మమ్ ।\nనాసౌ ధర్మో యత్ర న సత్యమస్తి\nన తత్సత్యం యచ్ఛలేనానువిద్ధమ్ ॥",
+    "sa": "न सा सभा यत्र न सन्ति वृद्धाः\nन ते वृद्धा ये न वदन्ति धर्मम् ।\nनासौ धर्मो यत्र न सत्यमस्ति\nन तत्सत्यं यच्छलेनानुविद्धम् ॥",
+    "iast": "na sā sabhā yatra na santi vṛddhāḥ\nna te vṛddhā ye na vadanti dharmam |\nnāsau dharmo yatra na satyam asti\nna tat satyaṃ yac chalenānuviddham ||"
+  },
+  "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మహాభారతము (ఉద్యోగపర్వము)",
+    "name_en": "Mahabharata (Udyoga Parva)",
+    "chapter": "Udyoga Parva 35.58 (Vidura Niti)"
+  },
+  "padavibhagam": {
+    "te": "న | సా | సభా | యత్ర | న | సన్తి | వృద్ధాః | న | తే | వృద్ధాః | యే | న | వదన్తి | ధర్మమ్ | న | అసౌ | ధర్మః | యత్ర | న | సత్యమ్ | అస్తి | న | తత్ | సత్యమ్ | యత్ | ఛలేన | అనువిద్ధమ్",
+    "en": "na | sā | sabhā | yatra | na | santi | vṛddhāḥ | na | te | vṛddhāḥ | ye | na | vadanti | dharmam | na | asau | dharmaḥ | yatra | na | satyam | asti | na | tat | satyam | yat | chalena | anuviddham"
+  },
+  "anvayam": {
+    "te": "యత్ర వృద్ధాః న సన్తి, సా సభా న (భవతి); యే ధర్మం న వదన్తి, తే వృద్ధాః న (భవన్తి); యత్ర సత్యం న అస్తి, అసౌ ధర్మః న (భవతి); యత్ ఛలేన అనువిద్ధమ్, తత్ సత్యం న (భవతి).",
+    "en": "Yatra vṛddhāḥ na santi (where there are no elders present), sā sabhā na (that is not an assembly); ye dharmaṃ na vadanti (those who do not speak dharma), te vṛddhāḥ na (are not truly elders); yatra satyaṃ na asti (where there is no truth), asau dharmaḥ na (that is not dharma); yat chalena anuviddham (whatever is tainted with deceit), tat satyaṃ na (that is not truth)."
+  },
+  "meaning": {
+    "te": "పెద్దలు లేని సభ సభ కాదు; ధర్మం చెప్పని పెద్దలు పెద్దలు కారు; సత్యం లేని ధర్మం ధర్మం కాదు; కపటంతో కలిసిన సత్యం సత్యం కాదు.",
+    "en": "An assembly without elders is no assembly; elders who do not speak dharma are not true elders; dharma without truth is not dharma; and truth tainted with deceit is not truth."
+  },
+  "tatparyam": {
+    "te": "విదురనీతిలోని ఈ శ్లోకం నాలుగు నిర్వచనాలను గొలుసుగా కడుతూ, ప్రతి పదానికీ దాని అసలైన అర్హతను నిర్దేశిస్తుంది. కేవలం వయసు మీరినంతమాత్రాన 'పెద్ద' అనిపించుకోలేడు — ధర్మం బోధించగలిగినప్పుడే ఆ గౌరవం అర్హమవుతుంది. ఇదే గొలుసు సభకూ, ధర్మానికీ, సత్యానికీ వర్తిస్తుంది — ఒక్కొక్క పదానికీ దానికి తగిన నైతిక సారాంశం ఉంటేనే ఆ పేరుకు అర్హత. బాహ్యస్వరూపాన్ని కాక అంతస్సారాన్ని చూడమని, పదవులకూ బిరుదులకూ కాక వాటి వెనుక ఉన్న గుణానికే గౌరవం దక్కాలని ఈ శ్లోకం గుర్తుచేస్తుంది.",
+    "en": "This verse from Vidura Niti builds four definitions in a chain, insisting that each term must earn its true qualification. Mere old age does not make someone an 'elder' — that honour is deserved only when one is capable of teaching dharma. The same chain applies to assembly, dharma, and truth — each word deserves its name only when it holds the corresponding moral substance. The verse reminds us to look past outward form to inner substance, and to accord respect not to titles and positions but to the virtue that stands behind them."
+  }
+}

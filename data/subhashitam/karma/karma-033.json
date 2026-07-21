@@ -1,0 +1,31 @@
+{
+  "id": "karma-033",
+  "tags": ["karma", "hitopadesha", "udyama"],
+  "shlokam": {
+    "te": "యథా హ్యేకేన చక్రేణ న రథస్య గతిర్భవేత్ ।\nఏవం పురుషకారేణ వినా దైవం న సిధ్యతి ॥",
+    "sa": "यथा ह्येकेन चक्रेण न रथस्य गतिर्भवेत् ।\nएवं पुरुषकारेण विना दैवं न सिध्यति ॥",
+    "iast": "yathā hy ekena cakreṇa na rathasya gatir bhavet |\nevaṃ puruṣakāreṇa vinā daivaṃ na siddhyati ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "హితోపదేశము",
+    "name_en": "Hitopadesha",
+    "chapter": "Mitralabha (echoing the chariot-wheel analogy)"
+  },
+  "padavibhagam": {
+    "te": "యథా | హి | ఏకేన | చక్రేణ | న | రథస్య | గతిః | భవేత్ | ఏవమ్ | పురుషకారేణ | వినా | దైవమ్ | న | సిధ్యతి",
+    "en": "yathā | hi | ekena | cakreṇa | na | rathasya | gatiḥ | bhavet | evam | puruṣakāreṇa | vinā | daivam | na | siddhyati"
+  },
+  "anvayam": {
+    "te": "యథా హి ఏకేన చక్రేణ రథస్య గతిః న భవేత్, ఏవం పురుషకారేణ వినా దైవం న సిధ్యతి.",
+    "en": "Yathā hi ekena cakreṇa (as with a single wheel) rathasya gatiḥ na bhavet (a chariot cannot move), evam (so too) puruṣakāreṇa vinā (without human effort) daivaṃ na siddhyati (fate alone does not bring success)."
+  },
+  "meaning": {
+    "te": "ఒకే చక్రంతో రథం ఎలా నడవదో, అలాగే మానవప్రయత్నం లేకుండా కేవలం దైవం ఒక్కటే ఫలించదు.",
+    "en": "As a chariot cannot move on a single wheel, so too, without human effort, fate alone cannot bring success."
+  },
+  "tatparyam": {
+    "te": "జ్ఞానభక్తుల మధ్య బంధాన్ని వర్ణించడానికి వాడే రథచక్రాల ఉపమానాన్నే, ఇక్కడ దైవప్రయత్నాల మధ్య బంధానికి హితోపదేశం ఉపయోగిస్తుంది — ఒకే ఉపమానం, రెండు వేర్వేరు సందర్భాలలో అంతే బలంగా వర్తించడం విశేషం. దైవం (అదృష్టం) ఒక్కటే సరిపోదు, ప్రయత్నం (పురుషకారం) ఒక్కటే సరిపోదు — రెండూ కలిస్తేనే రథం ముందుకు కదులుతుంది. అదృష్టాన్ని నిందించి చేతులు ముడుచుకు కూర్చున్నవారికీ, ప్రయత్నమే అన్నీ అనుకుని విధిని పూర్తిగా కొట్టిపారేసేవారికీ — ఇద్దరికీ సమాధానం చెప్పే సమతూక సూత్రం ఇది.",
+    "en": "The same chariot-wheel image used elsewhere to describe the bond between knowledge and devotion, the Hitopadesha applies here to the bond between fate and effort — the same metaphor holding with equal force in two different contexts. Fate alone will not do, and effort alone will not do either — only together do they move the chariot forward. A balanced answer to both those who fold their hands blaming fate and those who dismiss destiny entirely, believing effort is everything."
+  }
+}

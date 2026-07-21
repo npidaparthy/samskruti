@@ -1,0 +1,31 @@
+{
+  "id": "karma-025",
+  "tags": ["karma", "gita", "sanga-tyaga"],
+  "shlokam": {
+    "te": "బ్రహ్మణ్యాధాయ కర్మాణి సంగం త్యక్త్వా కరోతి యః ।\nలిప్యతే న స పాపేన పద్మపత్రమివామ్భసా ॥",
+    "sa": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः ।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा ॥",
+    "iast": "brahmaṇy ādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ |\nlipyate na sa pāpena padmapatram ivāmbhasā ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
+    "chapter": "5.10"
+  },
+  "padavibhagam": {
+    "te": "బ్రహ్మణి | ఆధాయ | కర్మాణి | సంగమ్ | త్యక్త్వా | కరోతి | యః | లిప్యతే | న | సః | పాపేన | పద్మపత్రమ్ | ఇవ | అమ్భసా",
+    "en": "brahmaṇi | ādhāya | karmāṇi | saṅgam | tyaktvā | karoti | yaḥ | lipyate | na | saḥ | pāpena | padmapatram | iva | ambhasā"
+  },
+  "anvayam": {
+    "te": "యః కర్మాణి బ్రహ్మణి ఆధాయ, సంగం త్యక్త్వా కరోతి, సః పాపేన న లిప్యతే — పద్మపత్రం అమ్భసా ఇవ.",
+    "en": "Yaḥ karmāṇi (whoever, actions) brahmaṇi ādhāya (offering unto Brahman), saṅgaṃ tyaktvā karoti (performs without attachment), saḥ pāpena na lipyate (is not tainted by sin) — padmapatram ambhasā iva (just as a lotus leaf is not touched by water)."
+  },
+  "meaning": {
+    "te": "కర్మలను బ్రహ్మమునకు అర్పించి, ఆసక్తి విడిచి చేసేవాడు పాపంతో అంటుకోడు — పద్మపత్రం నీటితో అంటుకోనట్లు.",
+    "en": "One who performs actions offering them to Brahman, without attachment, is untouched by sin — just as a lotus leaf remains untouched by the water it rests on."
+  },
+  "tatparyam": {
+    "te": "పద్మపత్రపు ఉపమానం కర్మయోగానికి భారతీయ చిత్రకళలో అత్యంత ప్రసిద్ధమైనది — నీటిలో పుట్టి, నీటిపైనే తేలుతూ కూడా తడవని ఆకు. అలాగే లోకంలో జీవిస్తూ, కర్తవ్యాలు నిర్వహిస్తూ కూడా వాటి ఫలాలతో అంటుకోని మనసు సాధ్యమేనని ఈ శ్లోకం చూపుతుంది. ఆధారం ఒక్కటే — 'బ్రహ్మణి ఆధాయ', ప్రతి కర్మనూ తనదిగా కాక అర్పణగా భావించడం. ఇది లోకవిముఖత కాదు — లోకంలో ఉంటూనే లోకాతీతంగా జీవించే కళ.",
+    "en": "The lotus-leaf image is Indian art and thought's most celebrated picture of karma yoga — a leaf born in water, floating upon it, yet never wetted by it. So too, the verse shows, one can live fully in the world, discharging every duty, and remain untouched by the results those duties yield. The single condition is 'brahmaṇy ādhāya' — offering every act not as one's own but as an offering. This is not withdrawal from the world, but the art of living transcendent while fully engaged in it."
+  }
+}

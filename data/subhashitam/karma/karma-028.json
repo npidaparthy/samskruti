@@ -1,0 +1,31 @@
+{
+  "id": "karma-028",
+  "tags": ["karma", "gita", "ishvara-arpana"],
+  "shlokam": {
+    "te": "సర్వకర్మాణి మనసా సంన్యస్యాస్తే సుఖం వశీ ।\nనవద్వారే పురే దేహీ నైవ కుర్వన్న కారయన్ ॥",
+    "sa": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।\nनवद्वारे पुरे देही नैव कुर्वन्न कारयन् ॥",
+    "iast": "sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī |\nnavadvāre pure dehī naiva kurvan na kārayan ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Sannyasa Yoga)",
+    "chapter": "5.13"
+  },
+  "padavibhagam": {
+    "te": "సర్వకర్మాణి | మనసా | సంన్యస్య | ఆస్తే | సుఖమ్ | వశీ | నవద్వారే | పురే | దేహీ | న | ఏవ | కుర్వన్ | న | కారయన్",
+    "en": "sarvakarmāṇi | manasā | saṃnyasya | āste | sukham | vaśī | navadvāre | pure | dehī | na | eva | kurvan | na | kārayan"
+  },
+  "anvayam": {
+    "te": "వశీ దేహీ సర్వకర్మాణి మనసా సంన్యస్య, న ఏవ కుర్వన్, న కారయన్, నవద్వారే పురే సుఖమ్ ఆస్తే.",
+    "en": "Vaśī dehī (the self-controlled embodied one), sarvakarmāṇi manasā saṃnyasya (mentally renouncing all actions), na eva kurvan na kārayan (neither acting nor causing action), navadvāre pure (in the city of nine gates — the body) sukham āste (dwells at ease)."
+  },
+  "meaning": {
+    "te": "ఇంద్రియనిగ్రహం కలవాడు, సమస్త కర్మలనూ మనసుతో త్యజించి, తానూ చేయకుండా, చేయించకుండా, నవద్వారాల పురమైన ఈ దేహంలో సుఖంగా ఉంటాడు.",
+    "en": "The self-controlled one, having mentally renounced all actions, neither doing nor causing to be done, dwells at ease within this city of nine gates — the body."
+  },
+  "tatparyam": {
+    "te": "శరీరాన్ని 'నవద్వారపురం'గా అభివర్ణించడం — రెండు కళ్ళు, రెండు చెవులు, రెండు నాసికారంధ్రాలు, నోరు, గుదము, జననేంద్రియం అనే తొమ్మిది ద్వారాలున్న నగరంగా — భారతీయ శరీరదర్శనానికి అందమైన ఉదాహరణ. ఆ నగరంలో నివసించే 'దేహి' (జీవాత్మ) నిజానికి దేనినీ చేయడు — శరీరమూ ఇంద్రియాలూ తమ స్వభావం ప్రకారం పనిచేస్తుంటాయి; జ్ఞాని మాత్రం కర్తృత్వభావనను వదిలి ప్రేక్షకునిలా ఉంటాడు. ఈ వేర్పాటే — దేహంలో ఉంటూనే దానితో పూర్తిగా మమేకం కాకపోవడమే — శాశ్వతమైన అంతఃసుఖానికి మార్గమని గీత చూపుతుంది.",
+    "en": "Calling the body a 'city of nine gates' — two eyes, two ears, two nostrils, mouth, anus, and genital, nine gateways of a city — is one of Indian thought's most beautiful pictures of embodiment. The 'dehi', the indwelling self residing in that city, actually does nothing at all — body and senses operate according to their own nature; the wise one simply drops the sense of doership and remains a witness. This very detachment — dwelling in the body while never fully identifying with it — is, the Gita shows, the path to lasting inner ease."
+  }
+}

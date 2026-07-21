@@ -1,0 +1,31 @@
+{
+  "id": "seva-028",
+  "tags": ["seva", "dana", "shraddha"],
+  "shlokam": {
+    "te": "న దేయం క్షుద్రయాచ్ఞాయై న దానం సఫలం లఘు ।\nయద్దానం మహతే దేయం తదేవ ఫలవత్స్మృతమ్ ॥",
+    "sa": "न देयं क्षुद्रयाच्ञायै न दानं सफलं लघु ।\nयद्दानं महते देयं तदेव फलवत्स्मृतम् ॥",
+    "iast": "na deyaṃ kṣudrayācñāyai na dānaṃ saphalaṃ laghu |\nyad dānaṃ mahate deyaṃ tad eva phalavat smṛtam ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత రత్నభాండాగారము",
+    "name_en": "Subhashita Ratnabhandagara",
+    "chapter": "traditional subhashitam"
+  },
+  "padavibhagam": {
+    "te": "న | దేయమ్ | క్షుద్రయాచ్ఞాయై | న | దానమ్ | సఫలమ్ | లఘు | యత్ | దానమ్ | మహతే | దేయమ్ | తత్ | ఏవ | ఫలవత్ | స్మృతమ్",
+    "en": "na | deyam | kṣudrayācñāyai | na | dānam | saphalam | laghu | yat | dānam | mahate | deyam | tat | eva | phalavat | smṛtam"
+  },
+  "anvayam": {
+    "te": "క్షుద్రయాచ్ఞాయై న దేయమ్; లఘు దానం సఫలం న (భవతి); యత్ దానం మహతే దేయమ్, తత్ ఏవ ఫలవత్ స్మృతమ్.",
+    "en": "Kṣudrayācñāyai na deyam (nothing should be given to a petty, unworthy plea); laghu dānaṃ saphalaṃ na (a trivial gift given without discernment does not bear fruit); yad dānaṃ mahate deyam (the gift given to a worthy, deserving one), tad eva phalavat smṛtam (that alone is remembered as fruitful)."
+  },
+  "meaning": {
+    "te": "అల్పమైన, అనర్హమైన కోరికకు ఇవ్వకూడదు; అవివేకంగా ఇచ్చిన చిన్నదానం ఫలించదు. యోగ్యుడికి ఇచ్చిన దానమే ఫలవంతమైనదిగా చెప్పబడుతుంది.",
+    "en": "Nothing should be given to a trivial, unworthy request; a small gift given without discernment does not bear fruit. Only the gift given to one truly deserving is remembered as fruitful."
+  },
+  "tatparyam": {
+    "te": "దానంలో వివేకం ఎంత అవసరమో చెప్పే శ్లోకం — ఇచ్చే మొత్తం కన్నా, ఎవరికి ఇస్తున్నామన్నదే ఫలితాన్ని నిర్ణయిస్తుందని. గుడ్డిగా అడిగినందుకల్లా ఇవ్వడం దానం అనిపించుకోదు — అది వివేకరహిత వ్యయం మాత్రమే. అర్హతను గుర్తించి ఇచ్చిన దానమే నిజమైన ఫలాన్నిస్తుంది. ఇది పిసినారితనానికి సమర్థన కాదు — దాత తన వనరులను ఎక్కడ ఎలా వినియోగించాలో ఆలోచించి నిర్ణయించుకోవాలన్న బాధ్యతాయుత దానధర్మపు సూత్రం.",
+    "en": "A verse on how essential discernment is in giving — it is not the amount given but to whom it is given that determines the fruit. Giving merely because someone asked is not charity — it is thoughtless expenditure. Only a gift given with recognition of true worthiness bears genuine fruit. This is not a justification for miserliness, but a principle of responsible giving: the giver must think through where and how their resources are best used."
+  }
+}

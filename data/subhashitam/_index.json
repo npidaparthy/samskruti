@@ -2697,5 +2697,265 @@
   "firstline_te": "కరచరణకృతం వాక్కాయజం కర్మజం వా",
   "firstline_sa": "करचरणकृतं वाक्कायजं कर्मजं वा",
   "source_en": "Shiva Aparadha Kshamapana Stotram (Adi Shankaracharya)"
+ },
+ {
+  "id": "karma-024",
+  "slug": "mata-shatruh-pita-vairi",
+  "file": "karma/karma-024.json",
+  "tags": [
+   "karma",
+   "prarabdha",
+   "purushakara"
+  ],
+  "firstline_te": "మాతా శత్రుః పితా వైరీ యేన బాలో న పాఠితః",
+  "firstline_sa": "माता शत्रुः पिता वैरी येन बालो न पाठितः",
+  "source_en": "Chanakya Niti"
+ },
+ {
+  "id": "karma-025",
+  "slug": "brahmany-adhaya-karmani",
+  "file": "karma/karma-025.json",
+  "tags": [
+   "karma",
+   "gita",
+   "sanga-tyaga"
+  ],
+  "firstline_te": "బ్రహ్మణ్యాధాయ కర్మాణి సంగం త్యక్త్వా కరోతి యః",
+  "firstline_sa": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "karma-026",
+  "slug": "annad-bhavanti-bhutani",
+  "file": "karma/karma-026.json",
+  "tags": [
+   "karma",
+   "gita",
+   "annam"
+  ],
+  "firstline_te": "అన్నాద్భవన్తి భూతాని పర్జన్యాదన్నసమ్భవః",
+  "firstline_sa": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "karma-027",
+  "slug": "sarvabhutastham-atmanam",
+  "file": "karma/karma-027.json",
+  "tags": [
+   "karma",
+   "gita",
+   "sarva-bhuta-hite"
+  ],
+  "firstline_te": "సర్వభూతస్థమాత్మానం సర్వభూతాని చాత్మని",
+  "firstline_sa": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि",
+  "source_en": "Srimad Bhagavad Gita (Dhyana Yoga)"
+ },
+ {
+  "id": "karma-028",
+  "slug": "sarvakarmani-manasa",
+  "file": "karma/karma-028.json",
+  "tags": [
+   "karma",
+   "gita",
+   "ishvara-arpana"
+  ],
+  "firstline_te": "సర్వకర్మాణి మనసా సంన్యస్యాస్తే సుఖం వశీ",
+  "firstline_sa": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी",
+  "source_en": "Srimad Bhagavad Gita (Karma Sannyasa Yoga)"
+ },
+ {
+  "id": "karma-029",
+  "slug": "prakrteh-kriyamanani-gunaih",
+  "file": "karma/karma-029.json",
+  "tags": [
+   "karma",
+   "gita",
+   "guna"
+  ],
+  "firstline_te": "ప్రకృతేః క్రియమాణాని గుణైః కర్మాణి సర్వశః",
+  "firstline_sa": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "karma-030",
+  "slug": "klaibyam-ma-sma-gamah",
+  "file": "karma/karma-030.json",
+  "tags": [
+   "karma",
+   "gita",
+   "arjuna-vishada"
+  ],
+  "firstline_te": "క్లైబ్యం మా స్మ గమః పార్థ నైతత్త్వయ్యుపపద్యతే",
+  "firstline_sa": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते",
+  "source_en": "Srimad Bhagavad Gita (Sankhya Yoga)"
+ },
+ {
+  "id": "karma-031",
+  "slug": "shitoshnasukhaduhkheshu-samo",
+  "file": "karma/karma-031.json",
+  "tags": [
+   "karma",
+   "gita",
+   "shitoshna"
+  ],
+  "firstline_te": "శీతోష్ణసుఖదుఃఖేషు సమో మానావమానయోః",
+  "firstline_sa": "शीतोष्णसुखदुःखेषु समो मानावमानयोः",
+  "source_en": "Srimad Bhagavad Gita (Gunatraya Vibhaga Yoga)"
+ },
+ {
+  "id": "karma-032",
+  "slug": "sangam-tyaktva-phalam-chaiva",
+  "file": "karma/karma-032.json",
+  "tags": [
+   "karma",
+   "gita",
+   "sanga"
+  ],
+  "firstline_te": "సఙ్గం త్యక్త్వా ఫలం చైవ కర్తా త్రిగుణసంశ్రయః",
+  "firstline_sa": "सङ्गं त्यक्त्वा फलं चैव कर्ता त्रिगुणसंश्रयः",
+  "source_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)"
+ },
+ {
+  "id": "karma-033",
+  "slug": "yatha-hyekena-chakrena-daivam",
+  "file": "karma/karma-033.json",
+  "tags": [
+   "karma",
+   "hitopadesha",
+   "udyama"
+  ],
+  "firstline_te": "యథా హ్యేకేన చక్రేణ న రథస్య గతిర్భవేత్",
+  "firstline_sa": "यथा ह्येकेन चक्रेण न रथस्य गतिर्भवेत्",
+  "source_en": "Hitopadesha"
+ },
+ {
+  "id": "seva-023",
+  "slug": "sarvesham-eva-dananam",
+  "file": "seva/seva-023.json",
+  "tags": [
+   "seva",
+   "vidya",
+   "dana"
+  ],
+  "firstline_te": "సర్వేషామేవ దానానాం బ్రహ్మదానం విశిష్యతే",
+  "firstline_sa": "सर्वेषामेव दानानां ब्रह्मदानं विशिष्यते",
+  "source_en": "Manusmriti"
+ },
+ {
+  "id": "seva-024",
+  "slug": "vrkshah-sajjanavat-prayo",
+  "file": "seva/seva-024.json",
+  "tags": [
+   "seva",
+   "sadhu",
+   "sangama"
+  ],
+  "firstline_te": "వృక్షాః సజ్జనవత్ ప్రాయో లోకోపకృతిహేతవః",
+  "firstline_sa": "वृक्षाः सज्जनवत् प्रायो लोकोपकृतिहेतवः",
+  "source_en": "Subhashita Ratnabhandagara"
+ },
+ {
+  "id": "seva-025",
+  "slug": "ayam-atma-nadititre",
+  "file": "seva/seva-025.json",
+  "tags": [
+   "seva",
+   "sarira",
+   "punya"
+  ],
+  "firstline_te": "అయమాత్మా నదీతీరే యథా వృక్షో న తిష్ఠతి",
+  "firstline_sa": "अयमात्मा नदीतीरे यथा वृक्षो न तिष्ठति",
+  "source_en": "Subhashita tradition"
+ },
+ {
+  "id": "seva-026",
+  "slug": "sahayajnah-prajah-srshtva",
+  "file": "seva/seva-026.json",
+  "tags": [
+   "seva",
+   "gita",
+   "yajna-bhava"
+  ],
+  "firstline_te": "సహయజ్ఞాః ప్రజాః సృష్ట్వా పురోవాచ ప్రజాపతిః",
+  "firstline_sa": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "seva-027",
+  "slug": "annam-brahmeti-vyajanat",
+  "file": "seva/seva-027.json",
+  "tags": [
+   "seva",
+   "dharma",
+   "sharira-yatra"
+  ],
+  "firstline_te": "అన్నం బ్రహ్మేతి వ్యజానాత్",
+  "firstline_sa": "अन्नं ब्रह्मेति व्यजानात्",
+  "source_en": "Taittiriya Upanishad (Bhrigu Valli)"
+ },
+ {
+  "id": "seva-028",
+  "slug": "na-deyam-kshudrayachnayai",
+  "file": "seva/seva-028.json",
+  "tags": [
+   "seva",
+   "dana",
+   "shraddha"
+  ],
+  "firstline_te": "న దేయం క్షుద్రయాచ్ఞాయై న దానం సఫలం లఘు",
+  "firstline_sa": "न देयं क्षुद्रयाच्ञायै न दानं सफलं लघु",
+  "source_en": "Subhashita Ratnabhandagara"
+ },
+ {
+  "id": "seva-029",
+  "slug": "parasparam-bhavayantah",
+  "file": "seva/seva-029.json",
+  "tags": [
+   "seva",
+   "manavata",
+   "sahayata"
+  ],
+  "firstline_te": "పరస్పరం భావయన్తః శ్రేయః పరమవాప్స్యథ",
+  "firstline_sa": "परस्परं भावयन्तः श्रेयः परमवाप्स्यथ",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "seva-030",
+  "slug": "kshudro-nadishu-tatini",
+  "file": "seva/seva-030.json",
+  "tags": [
+   "seva",
+   "audarya",
+   "kshudra"
+  ],
+  "firstline_te": "క్షుద్రో నదీషు తటినీ న సాగరత్వం",
+  "firstline_sa": "क्षुद्रो नदीषु तटिनी न सागरत्वं",
+  "source_en": "Subhashita Ratnabhandagara"
+ },
+ {
+  "id": "seva-031",
+  "slug": "abhayam-sarvabhutebhyo",
+  "file": "seva/seva-031.json",
+  "tags": [
+   "seva",
+   "vipra",
+   "dharma"
+  ],
+  "firstline_te": "అభయం సర్వభూతేభ్యో దదాతి యది జీవతి",
+  "firstline_sa": "अभयं सर्वभूतेभ्यो ददाति यदि जीवति",
+  "source_en": "Mahabharata (Anushasana Parva)"
+ },
+ {
+  "id": "seva-032",
+  "slug": "na-sa-sabha-yatra-na-santi",
+  "file": "seva/seva-032.json",
+  "tags": [
+   "seva",
+   "vishnu-sahasranama",
+   "sarvatman"
+  ],
+  "firstline_te": "న సా సభా యత్ర న సన్తి వృద్ధాః",
+  "firstline_sa": "न सा सभा यत्र न सन्ति वृद्धाः",
+  "source_en": "Mahabharata (Udyoga Parva)"
  }
 ]

@@ -1,0 +1,31 @@
+{
+  "id": "seva-023",
+  "tags": ["seva", "vidya", "dana"],
+  "shlokam": {
+    "te": "సర్వేషామేవ దానానాం బ్రహ్మదానం విశిష్యతే ।\nతోయాన్నవస్త్రధాన్యానాం దానాత్తు బహుపుణ్యదమ్ ॥",
+    "sa": "सर्वेषामेव दानानां ब्रह्मदानं विशिष्यते ।\nतोयान्नवस्त्रधान्यानां दानात्तु बहुपुण्यदम् ॥",
+    "iast": "sarveṣām eva dānānāṃ brahmadānaṃ viśiṣyate |\ntoyānnavastradhānyānāṃ dānāt tu bahupuṇyadam ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మనుస్మృతి",
+    "name_en": "Manusmriti",
+    "chapter": "traditional citation"
+  },
+  "padavibhagam": {
+    "te": "సర్వేషామ్ | ఏవ | దానానామ్ | బ్రహ్మదానమ్ | విశిష్యతే | తోయాన్నవస్త్రధాన్యానామ్ | దానాత్ | తు | బహుపుణ్యదమ్",
+    "en": "sarveṣām | eva | dānānām | brahmadānam | viśiṣyate | toyānnavastradhānyānām | dānāt | tu | bahupuṇyadam"
+  },
+  "anvayam": {
+    "te": "సర్వేషాం దానానామ్ ఏవ బ్రహ్మదానం విశిష్యతే; తోయాన్నవస్త్రధాన్యానాం దానాత్ తు బహుపుణ్యదమ్ (భవతి).",
+    "en": "Sarveṣāṃ dānānām eva (among all forms of gift) brahmadānaṃ viśiṣyate (the gift of sacred knowledge stands supreme); toyānnavastradhānyānāṃ dānāt tu (than gifts of water, food, clothing, and grain) bahupuṇyadam (it yields far greater merit)."
+  },
+  "meaning": {
+    "te": "సమస్త దానాలలోనూ బ్రహ్మదానం (విద్యాదానం) విశిష్టమైనది. నీరు, అన్నం, వస్త్రం, ధాన్యం ఇచ్చే దానం కన్నా అది ఎంతో ఎక్కువ పుణ్యాన్నిస్తుంది.",
+    "en": "Among all forms of giving, the gift of sacred knowledge is supreme. It yields far greater merit than gifts of water, food, clothing, or grain."
+  },
+  "tatparyam": {
+    "te": "దానాలలో స్థాయిక్రమాన్ని నిర్దేశించే ఈ శ్లోకంలో విద్యాదానం అగ్రస్థానంలో నిలుస్తుంది — ఎందుకంటే భౌతికదానాలు తాత్కాలిక అవసరాన్ని తీరుస్తాయి, విద్యాదానం జీవితకాల సాధనమిస్తుంది. ఆకలి తీర్చే అన్నం మరుసటిరోజుకు మళ్ళీ కావాలి; నేర్పిన విద్య జీవితాంతం ఉపయోగపడుతుంది, తరాలకు అందించబడుతుంది కూడా. 'చేపను ఇవ్వడం కాదు, చేప పట్టడం నేర్పడం' అనే ఆధునిక నానుడికి వేల ఏళ్ళ ముందే భారతీయ ధర్మశాస్త్రం ఇచ్చిన ప్రాతినిధ్యం ఇది.",
+    "en": "In this hierarchy of gifts, the gift of knowledge stands at the summit — because material gifts meet a temporary need, while the gift of learning provides a tool for a lifetime. Food that satisfies hunger must be given again the next day; knowledge once imparted serves for a lifetime and can even be passed on to future generations. This is dharmashastra's representation, millennia ahead of the modern saying, of teaching a person to fish rather than merely giving them a fish."
+  }
+}

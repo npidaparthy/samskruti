@@ -1,0 +1,31 @@
+{
+  "id": "karma-024",
+  "tags": ["karma", "prarabdha", "purushakara"],
+  "shlokam": {
+    "te": "మాతా శత్రుః పితా వైరీ యేన బాలో న పాఠితః ।\nన శోభతే సభామధ్యే హంసమధ్యే బకో యథా ॥",
+    "sa": "माता शत्रुः पिता वैरी येन बालो न पाठितः ।\nन शोभते सभामध्ये हंसमध्ये बको यथा ॥",
+    "iast": "mātā śatruḥ pitā vairī yena bālo na pāṭhitaḥ |\nna śobhate sabhāmadhye haṃsamadhye bako yathā ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "3.17 (moved from niti tradition, karma emphasis)"
+  },
+  "padavibhagam": {
+    "te": "మాతా | శత్రుః | పితా | వైరీ | యేన | బాలః | న | పాఠితః | న | శోభతే | సభామధ్యే | హంసమధ్యే | బకః | యథా",
+    "en": "mātā | śatruḥ | pitā | vairī | yena | bālaḥ | na | pāṭhitaḥ | na | śobhate | sabhāmadhye | haṃsamadhye | bakaḥ | yathā"
+  },
+  "anvayam": {
+    "te": "యేన బాలః న పాఠితః, (తస్య) మాతా శత్రుః, పితా వైరీ (భవతః); సః సభామధ్యే న శోభతే — యథా హంసమధ్యే బకః (న శోభతే).",
+    "en": "Yena bālaḥ na pāṭhitaḥ (the parents by whom a child is not taught), (tasya) mātā śatruḥ (his mother is his enemy), pitā vairī (his father a foe); saḥ sabhāmadhye na śobhate (he does not shine in an assembly) — yathā haṃsamadhye bakaḥ (as a crane does not shine among swans)."
+  },
+  "meaning": {
+    "te": "బాలుడిని చదివించని తల్లి శత్రువు, తండ్రి వైరి. అలాంటివాడు సభలో శోభించడు — హంసల మధ్య కొంగ శోభించనట్లు.",
+    "en": "A mother who does not have her child educated is his enemy; a father who neglects it is his foe. Such a person does not shine in an assembly — as a crane does not shine among swans."
+  },
+  "tatparyam": {
+    "te": "విద్యను అందించడం తల్లిదండ్రుల ఐచ్ఛిక దాతృత్వం కాదని, అది వారి మౌలిక కర్తవ్యమని ఖచ్చితంగా చెప్పే శ్లోకం. ఆ కర్తవ్యాన్ని నిర్లక్ష్యం చేసినవారిని 'శత్రువు', 'వైరి' అనే కఠినపదాలతో వర్ణించడం చాణక్యుని తీవ్రతను చూపుతుంది — ఎందుకంటే ఆ నిర్లక్ష్యఫలితం జీవితాంతం అనుభవించేది బిడ్డే. చదువులేని వ్యక్తి పండితసభలో ఇమడలేకపోవడాన్ని హంసలమధ్య కొంగగా చిత్రించిన ఉపమానం, పిల్లల భవిష్యత్తుకు తల్లిదండ్రుల కర్తవ్యనిర్వహణే పునాది అని కర్మసూత్రంగా నిలుస్తుంది.",
+    "en": "A verse that insists education is not an optional generosity from parents but their fundamental duty. Calling those who neglect it 'enemy' and 'foe' shows Chanakya's severity — because it is the child who lives out the consequences of that neglect for a lifetime. The image of the uneducated person unable to hold their own in a learned assembly, like a crane among swans, stands as a karma-principle: the foundation of a child's future is the parents' fulfilment of their own duty."
+  }
+}

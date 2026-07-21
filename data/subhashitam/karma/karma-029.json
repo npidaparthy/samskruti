@@ -1,0 +1,31 @@
+{
+  "id": "karma-029",
+  "tags": ["karma", "gita", "guna"],
+  "shlokam": {
+    "te": "ప్రకృతేః క్రియమాణాని గుణైః కర్మాణి సర్వశః ।\nఅహంకారవిమూఢాత్మా కర్తాహమితి మన్యతే ॥",
+    "sa": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते ॥",
+    "iast": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ |\nahaṅkāravimūḍhātmā kartāham iti manyate ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
+    "chapter": "3.27"
+  },
+  "padavibhagam": {
+    "te": "ప్రకృతేః | క్రియమాణాని | గుణైః | కర్మాణి | సర్వశః | అహంకారవిమూఢాత్మా | కర్తా | అహమ్ | ఇతి | మన్యతే",
+    "en": "prakṛteḥ | kriyamāṇāni | guṇaiḥ | karmāṇi | sarvaśaḥ | ahaṅkāravimūḍhātmā | kartā | aham | iti | manyate"
+  },
+  "anvayam": {
+    "te": "కర్మాణి సర్వశః ప్రకృతేః గుణైః క్రియమాణాని (సన్తి); అహంకారవిమూఢాత్మా '(కర్తా) అహమ్' ఇతి మన్యతే.",
+    "en": "Karmāṇi sarvaśaḥ (actions, in every way) prakṛteḥ guṇaiḥ kriyamāṇāni (are performed by the modes/qualities of nature); ahaṅkāravimūḍhātmā (the self deluded by ego) 'kartā aham' iti manyate (thinks 'I am the doer')."
+  },
+  "meaning": {
+    "te": "కర్మలన్నీ ప్రకృతి గుణాల చేతనే జరుగుతాయి. అహంకారంతో మోహితమైన మనసు 'నేనే కర్తను' అని భావిస్తుంది.",
+    "en": "All actions, in every case, are performed by the qualities of nature. The self deluded by ego thinks, 'I am the doer.'"
+  },
+  "tatparyam": {
+    "te": "కర్తృత్వాభిమానం ఎక్కడి నుండి పుడుతుందో విశ్లేషించే గీతలోని లోతైన శ్లోకం. వాస్తవానికి పనులన్నీ సత్త్వరజస్తమోగుణాల పరస్పర చర్య వల్ల జరుగుతాయి — శరీరం, మనసు, ఇంద్రియాలు అన్నీ ప్రకృతిలో భాగమే. 'నేను చేశాను' అనే భావన కేవలం అహంకారపు మాయ. ఈ సత్యాన్ని గ్రహించినవాడు విజయంలో గర్వపడడు, అపజయంలో కుంగిపోడు — ఎందుకంటే రెండూ గుణాల ఆటలో భాగమేనని తెలుసుకుంటాడు. కర్తృత్వభావన వదలడమే నిజమైన స్వేచ్ఛకు తొలిమెట్టు అని ఈ శ్లోకం బోధిస్తుంది.",
+    "en": "A profound Gita verse analysing where the sense of doership comes from. In truth, every action arises from the interplay of the three gunas — sattva, rajas, tamas; body, mind, and senses are all part of nature. The feeling 'I did this' is merely ego's illusion. One who grasps this truth neither swells with pride in success nor collapses in failure, seeing both as part of the play of the gunas. Letting go of the sense of doership, the verse teaches, is the first step toward true freedom."
+  }
+}
