@@ -1,0 +1,31 @@
+{
+  "id": "dharma-056",
+  "tags": ["dharma", "gita", "kshetra-kshetrajna"],
+  "shlokam": {
+    "te": "ఇదం శరీరం కౌన్తేయ క్షేత్రమిత్యభిధీయతే ।\nఏతద్యో వేత్తి తం ప్రాహుః క్షేత్రజ్ఞ ఇతి తద్విదః ॥",
+    "sa": "इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते ।\nएतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ॥",
+    "iast": "idaṃ śarīraṃ kaunteya kṣetram ity abhidhīyate |\netad yo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (క్షేత్రక్షేత్రజ్ఞవిభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Kshetra Kshetrajna Vibhaga Yoga)",
+    "chapter": "13.2"
+  },
+  "padavibhagam": {
+    "te": "ఇదమ్ | శరీరమ్ | కౌన్తేయ | క్షేత్రమ్ | ఇతి | అభిధీయతే | ఏతత్ | యః | వేత్తి | తమ్ | ప్రాహుః | క్షేత్రజ్ఞః | ఇతి | తద్విదః",
+    "en": "idam | śarīram | kaunteya | kṣetram | iti | abhidhīyate | etat | yaḥ | vetti | tam | prāhuḥ | kṣetrajñaḥ | iti | tadvidaḥ"
+  },
+  "anvayam": {
+    "te": "కౌన్తేయ! ఇదం శరీరం క్షేత్రమ్ ఇతి అభిధీయతే; ఏతత్ యః వేత్తి, తం తద్విదః క్షేత్రజ్ఞః ఇతి ప్రాహుః.",
+    "en": "Kaunteya (O son of Kunti)! Idaṃ śarīraṃ (this body) kṣetram iti abhidhīyate (is called the 'field'); etad yaḥ vetti (whoever knows this field), taṃ tadvidaḥ (him, those who know) kṣetrajñaḥ iti prāhuḥ (call the 'knower of the field')."
+  },
+  "meaning": {
+    "te": "కుంతీపుత్రా! ఈ శరీరం 'క్షేత్రం' అని పిలువబడుతుంది. దీనిని ఎరిగినవాడిని జ్ఞానులు 'క్షేత్రజ్ఞుడు' అని అంటారు.",
+    "en": "O son of Kunti! This body is called the 'field'. Those who know call the one who knows this field the 'knower of the field'."
+  },
+  "tatparyam": {
+    "te": "గీత పదమూడవ అధ్యాయపు కీలక పరిభాషను నిర్వచించే తొలి శ్లోకం — 'క్షేత్రం' (శరీరం), 'క్షేత్రజ్ఞుడు' (దానిని ఎరిగిన ఆత్మ). శరీరాన్ని పొలంతో పోల్చడం అర్థవంతమైనది — పొలంలో పంట పండుతుంది, మారుతుంది, చివరకు కోతకు గురవుతుంది; రైతు మాత్రం పొలానికి భిన్నంగా ఉంటాడు, దానిని గమనిస్తాడు. అలాగే శరీరంలో మార్పులు జరుగుతున్నా, వాటిని గమనించే 'క్షేత్రజ్ఞుడు' వేరుగా ఉంటాడు. ఈ విభజన — దేహం వేరు, దేహిని ఎరిగే చైతన్యం వేరు — తరువాతి వేదాంతచింతన మొత్తానికి పునాదిగా నిలుస్తుంది.",
+    "en": "The opening verse defining the key terminology of the Gita's thirteenth chapter — 'kshetra' (the field, i.e. the body), and 'kshetrajna' (the knower of that field, the Self). Comparing the body to a field is meaningful — crops grow, change, and are eventually harvested in a field, while the farmer remains distinct from the field, observing it. Likewise, though changes occur within the body, the 'kshetrajna' who observes them remains separate. This distinction — the body is one thing, the awareness that knows the body is another — becomes the foundation for all subsequent Vedantic thought."
+  }
+}

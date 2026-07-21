@@ -1,0 +1,31 @@
+{
+  "id": "niti-058",
+  "tags": ["niti", "chanakya", "vipatti"],
+  "shlokam": {
+    "te": "ఉత్సవే వ్యసనే చైవ దుర్భిక్షే రాష్ట్రవిప్లవే ।\nరాజద్వారే శ్మశానే చ యస్తిష్ఠతి స బాన్ధవః ॥",
+    "sa": "उत्सवे व्यसने चैव दुर्भिक्षे राष्ट्रविप्लवे ।\nराजद्वारे श्मशाने च यस्तिष्ठति स बान्धवः ॥",
+    "iast": "utsave vyasane caiva durbhikṣe rāṣṭraviplave |\nrājadvāre śmaśāne ca yas tiṣṭhati sa bāndhavaḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "5.16"
+  },
+  "padavibhagam": {
+    "te": "ఉత్సవే | వ్యసనే | చ | ఏవ | దుర్భిక్షే | రాష్ట్రవిప్లవే | రాజద్వారే | శ్మశానే | చ | యః | తిష్ఠతి | సః | బాన్ధవః",
+    "en": "utsave | vyasane | ca | eva | durbhikṣe | rāṣṭraviplave | rājadvāre | śmaśāne | ca | yaḥ | tiṣṭhati | saḥ | bāndhavaḥ"
+  },
+  "anvayam": {
+    "te": "ఉత్సవే, వ్యసనే చ ఏవ, దుర్భిక్షే, రాష్ట్రవిప్లవే, రాజద్వారే, శ్మశానే చ యః తిష్ఠతి, సః బాన్ధవః.",
+    "en": "Utsave (in celebration), vyasane ca eva (and in misfortune too), durbhikṣe (in famine), rāṣṭraviplave (in political turmoil), rājadvāre (at the king's court), śmaśāne ca (and at the cremation ground) — yaḥ tiṣṭhati (whoever stands by you), saḥ bāndhavaḥ (he is your true kinsman)."
+  },
+  "meaning": {
+    "te": "పండుగలోనూ, ఆపదలోనూ, కరువులోనూ, రాజ్యవిప్లవంలోనూ, రాజసభలోనూ, శ్మశానంలోనూ ఎవరు తోడుంటాడో, అతడే నిజమైన బంధువు.",
+    "en": "Whoever stands by you in celebration, in misfortune, in famine, in political upheaval, at the king's court, and at the cremation ground — that person alone is your true kinsman."
+  },
+  "tatparyam": {
+    "te": "నిజమైన బంధుత్వాన్ని రక్తసంబంధంతో కాక సన్నిహిత్యంతో నిర్వచించే చాణక్యుని ప్రసిద్ధ శ్లోకం. ఆరు పరిస్థితులను — మూడు సానుకూలమైనవి, మూడు ప్రతికూలమైనవి — ఏకరువు పెట్టడం విశేషం: ఉత్సవం, రాజసభ సానుకూలమైనవైతే, వ్యసనం, దుర్భిక్షం, విప్లవం, శ్మశానం అత్యంత క్లిష్టమైనవి. చివరిది — శ్మశానం — అత్యంత శక్తిమంతమైనది; మరణసమయంలో కూడా పక్కన నిలిచేవాడే అసలైన బంధువు అని చెప్పడం ద్వారా బంధుత్వానికి అత్యున్నత గీటురాయిని నిర్దేశిస్తుంది. సుఖంలో మాత్రమే తోడుండేవారు మిత్రులు కారని, కష్టకాలంలో నిలిచేవారే నిజమైన బంధువులని ఈ శ్లోకం చాటుతుంది.",
+    "en": "Chanakya's celebrated verse defining true kinship not by blood but by presence. It is notable that six situations are named — three favourable, three difficult: celebration and royal court are favourable, while misfortune, famine, upheaval, and the cremation ground are the hardest of all. The last — the cremation ground — is the most powerful; by naming the one who stands by you even at the moment of death as true kin, it sets the highest possible bar for kinship. Those who accompany you only in comfort are not friends, this verse declares — only those who remain through hardship are true kin."
+  }
+}

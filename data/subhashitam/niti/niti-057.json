@@ -1,0 +1,31 @@
+{
+  "id": "niti-057",
+  "tags": ["niti", "chanakya", "vishvasa"],
+  "shlokam": {
+    "te": "పరోక్షే కార్యహన్తారం ప్రత్యక్షే ప్రియవాదినమ్ ।\nవర్జయేత్తాదృశం మిత్రం విషకుమ్భం పయోముఖమ్ ॥",
+    "sa": "परोक्षे कार्यहन्तारं प्रत्यक्षे प्रियवादिनम् ।\nवर्जयेत्तादृशं मित्रं विषकुम्भं पयोमुखम् ॥",
+    "iast": "parokṣe kāryahantāraṃ pratyakṣe priyavādinam |\nvarjayet tādṛśaṃ mitraṃ viṣakumbhaṃ payomukham ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "5.18"
+  },
+  "padavibhagam": {
+    "te": "పరోక్షే | కార్యహన్తారమ్ | ప్రత్యక్షే | ప్రియవాదినమ్ | వర్జయేత్ | తాదృశమ్ | మిత్రమ్ | విషకుమ్భమ్ | పయోముఖమ్",
+    "en": "parokṣe | kāryahantāram | pratyakṣe | priyavādinam | varjayet | tādṛśam | mitram | viṣakumbham | payomukham"
+  },
+  "anvayam": {
+    "te": "పరోక్షే కార్యహన్తారమ్, ప్రత్యక్షే ప్రియవాదినమ్ — తాదృశం మిత్రం పయోముఖం విషకుమ్భం (ఇవ) వర్జయేత్.",
+    "en": "Parokṣe kāryahantāram (one who destroys your affairs behind your back), pratyakṣe priyavādinam (yet speaks sweetly to your face) — tādṛśaṃ mitraṃ (such a friend) payomukhaṃ viṣakumbham (iva) varjayet (should be avoided, like a pot of poison with a mouth of milk)."
+  },
+  "meaning": {
+    "te": "వెనుకనుండి పనులను చెడగొట్టేవాడు, ఎదుటపడితే మధురంగా మాట్లాడేవాడు — అలాంటి మిత్రుడిని పైన పాలలా, లోన విషంలా ఉన్న కుండగా భావించి విడిచిపెట్టాలి.",
+    "en": "A friend who ruins your affairs behind your back yet speaks sweetly to your face — such a friend should be shunned like a pot of poison topped with a layer of milk."
+  },
+  "tatparyam": {
+    "te": "కపటమిత్రుని గుర్తించడానికి చాణక్యుడు ఇచ్చిన అత్యంత ఖచ్చితమైన నిర్వచనం — పైన మాట తీయగా, లోన చేష్ట క్రూరంగా ఉండేవాడు. 'విషకుమ్భం పయోముఖమ్' అనే ఉపమానం అత్యంత ప్రమాదకరమైనది — పైకి కనబడేది పాలలా నిర్దోషంగా అనిపించి, తాగినకొద్దీ లోలోపలి విషం చంపేస్తుంది. ఎదురుగా పొగిడేవాడు నమ్మదగినవాడని కాదు, ఎదురులేనప్పుడు అతని ప్రవర్తన ఎలా ఉంటుందో చూసే గానీ నిజమైన మిత్రుడో కాదో తెలియదని ఈ శ్లోకం హెచ్చరిస్తుంది.",
+    "en": "Chanakya's most precise definition for recognising a treacherous friend — one whose words are sweet on the surface while their actions are cruel beneath. The image 'viṣakumbhaṃ payomukham' is especially dangerous — what looks harmless like milk on top kills as one keeps drinking, the poison hidden below. This verse warns that a person who praises you to your face is not necessarily trustworthy; only observing their conduct when you are absent reveals whether they are truly a friend."
+  }
+}

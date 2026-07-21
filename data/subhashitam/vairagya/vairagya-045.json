@@ -1,0 +1,31 @@
+{
+  "id": "vairagya-045",
+  "tags": ["vairagya", "gita", "vishaya-vinivartana"],
+  "shlokam": {
+    "te": "విషయా వినివర్తన్తే నిరాహారస్య దేహినః ।\nరసవర్జం రసోఽప్యస్య పరం దృష్ట్వా నివర్తతే ॥",
+    "sa": "विषया विनिवर्तन्ते निराहारस्य देहिनः ।\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ॥",
+    "iast": "viṣayā vinivartante nirāhārasya dehinaḥ |\nrasavarjaṃ raso'py asya paraṃ dṛṣṭvā nivartate ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sankhya Yoga)",
+    "chapter": "2.59"
+  },
+  "padavibhagam": {
+    "te": "విషయాః | వినివర్తన్తే | నిరాహారస్య | దేహినః | రసవర్జమ్ | రసః | అపి | అస్య | పరమ్ | దృష్ట్వా | నివర్తతే",
+    "en": "viṣayāḥ | vinivartante | nirāhārasya | dehinaḥ | rasavarjam | rasaḥ | api | asya | param | dṛṣṭvā | nivartate"
+  },
+  "anvayam": {
+    "te": "నిరాహారస్య దేహినః విషయాః వినివర్తన్తే, రసవర్జమ్; అస్య రసః అపి పరం దృష్ట్వా నివర్తతే.",
+    "en": "Nirāhārasya dehinaḥ (of an embodied being who abstains from sense-objects) viṣayāḥ vinivartante (the objects of the senses withdraw), rasavarjam (but the taste/relish for them remains); asya rasaḥ api (even this relish) param dṛṣṭvā (upon seeing/realising the Supreme) nivartate (turns back/departs)."
+  },
+  "meaning": {
+    "te": "ఇంద్రియార్థాల నుండి దూరంగా ఉన్నవానికి విషయాలు తొలగుతాయి, కానీ వాటిపై ఆసక్తి మిగిలే ఉంటుంది. పరమాత్మను దర్శించినప్పుడు ఆ ఆసక్తి కూడా తొలగిపోతుంది.",
+    "en": "For an embodied being who abstains from sense-objects, the objects themselves withdraw, but the taste for them remains. Only upon realising the Supreme does even that taste depart."
+  },
+  "tatparyam": {
+    "te": "బాహ్యనిగ్రహానికీ, అంతర్గత విముక్తికీ మధ్య ఉన్న తేడాను నిజాయితీగా చూపే గీత శ్లోకం. ఉపవాసం చేసినా, ఇంద్రియసుఖాలకు దూరంగా ఉన్నా — వాటిపై కోరిక మనసులో అలాగే మిగిలిపోవచ్చని ఈ శ్లోకం ఒప్పుకుంటుంది. బాహ్యత్యాగం సగం పరిష్కారం మాత్రమే; అసలైన విముక్తి భగవత్సాక్షాత్కారం ద్వారానే వస్తుందని — ఉన్నతమైనదాన్ని చవిచూసినప్పుడే తక్కువదానిపై ఆసక్తి సహజంగా తొలగిపోతుందని — ఈ శ్లోకం చాటుతుంది. బలవంతపు నిగ్రహం కన్నా ఉన్నతానుభవమే నిజమైన వైరాగ్యానికి మార్గమని ఇది సూచిస్తుంది.",
+    "en": "A Gita verse honestly showing the difference between outer restraint and inner freedom. It acknowledges that even fasting or staying away from sensory pleasures, the desire for them may still linger in the mind. Outer renunciation is only half the solution; true freedom comes only through realisation of the divine — that once one has tasted the higher, the craving for the lower naturally falls away, this verse declares. It suggests that a higher experience, rather than forced restraint, is the true path to genuine detachment."
+  }
+}

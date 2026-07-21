@@ -1,0 +1,31 @@
+{
+  "id": "bhakti-040",
+  "tags": ["bhakti", "gita", "sthavara-jangama"],
+  "shlokam": {
+    "te": "రాసో(మ్)యస్మ్యప్సు కౌన్తేయ ప్రభాస్మి శశిసూర్యయోః ।\nప్రణవః సర్వవేదేషు శబ్దః ఖే పౌరుషం నృషు ॥",
+    "sa": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः ।\nप्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ॥",
+    "iast": "raso'ham apsu kaunteya prabhāsmi śaśisūryayoḥ |\npraṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానవిజ్ఞానయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Jnana Vijnana Yoga)",
+    "chapter": "7.8"
+  },
+  "padavibhagam": {
+    "te": "రసః | అహమ్ | అప్సు | కౌన్తేయ | ప్రభా | అస్మి | శశిసూర్యయోః | ప్రణవః | సర్వవేదేషు | శబ్దః | ఖే | పౌరుషమ్ | నృషు",
+    "en": "rasaḥ | aham | apsu | kaunteya | prabhā | asmi | śaśisūryayoḥ | praṇavaḥ | sarvavedeṣu | śabdaḥ | khe | pauruṣam | nṛṣu"
+  },
+  "anvayam": {
+    "te": "కౌన్తేయ! అప్సు రసః అహమ్; శశిసూర్యయోః ప్రభా అస్మి; సర్వవేదేషు ప్రణవః; ఖే శబ్దః; నృషు పౌరుషమ్ (అస్మి).",
+    "en": "Kaunteya (O son of Kunti)! Apsu rasaḥ aham (I am the taste in water); śaśisūryayoḥ prabhā asmi (I am the light in the moon and the sun); sarvavedeṣu praṇavaḥ (in all the Vedas, I am the syllable Om); khe śabdaḥ (in ether, I am sound); nṛṣu pauruṣam (in men, I am manliness/vigour)."
+  },
+  "meaning": {
+    "te": "కుంతీపుత్రా! నీటిలో రసాన్ని నేనే; చంద్రసూర్యులలో కాంతి నేనే; సర్వవేదాలలో ప్రణవం నేనే; ఆకాశంలో శబ్దం నేనే; మనుషులలో పౌరుషం నేనే.",
+    "en": "O son of Kunti! I am the taste in water; I am the light in the moon and sun; I am the syllable Om in all the Vedas; I am sound in ether; I am manly vigour in men."
+  },
+  "tatparyam": {
+    "te": "విభూతియోగానికి పూర్వరంగంగా నిలిచే ఈ శ్లోకం, ప్రకృతిలోని అత్యంత సూక్ష్మమైన, అనుభూతిమాత్రమైన అంశాలను భగవంతునికి ప్రతీకలుగా చూపుతుంది. నీటిలో కంటికి కనబడని 'రసం' (రుచి), శబ్దానికి మూలమైన అదృశ్యశక్తి — ఇవి భౌతికంగా పట్టుకోలేని, కానీ అనుభవంలో స్పష్టంగా తెలిసేవి. భగవంతుని ఉనికిని ఎక్కడో దూరాన వెతకవలసిన అవసరం లేదని, ప్రతిరోజూ అనుభవించే సాధారణ దృగ్విషయాలలోనే ఆయన సూక్ష్మంగా వ్యక్తమవుతున్నాడని ఈ శ్లోకం చాటుతుంది — భక్తికి నిత్యజీవితమే క్షేత్రమని చూపే సున్నితమైన బోధ.",
+    "en": "Preceding the Vibhuti Yoga chapter, this verse points to the divine through nature's subtlest, most experiential qualities. The 'rasa' — taste — imperceptible to the eye in water, and the unseen force behind sound, are things that cannot be physically grasped yet are unmistakably known through experience. This verse declares there is no need to search for the divine's presence somewhere far away — it is subtly expressed in the ordinary phenomena experienced every day — a gentle teaching that everyday life itself is the field of devotion."
+  }
+}

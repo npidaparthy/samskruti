@@ -1,0 +1,31 @@
+{
+  "id": "dharma-060",
+  "tags": ["dharma", "gita", "shastra-pramana"],
+  "shlokam": {
+    "te": "తస్మాచ్ఛాస్త్రం ప్రమాణం తే కార్యాకార్యవ్యవస్థితౌ ।\nజ్ఞాత్వా శాస్త్రవిధానోక్తం కర్మ కర్తుమిహార్హసి ॥",
+    "sa": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ॥",
+    "iast": "tasmāc chāstraṃ pramāṇaṃ te kāryākāryavyavasthitau |\njñātvā śāstravidhānoktaṃ karma kartum ihārhasi ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (శ్రద్ధాత్రయవిభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Shraddhatraya Vibhaga Yoga)",
+    "chapter": "16.24"
+  },
+  "padavibhagam": {
+    "te": "తస్మాత్ | శాస్త్రమ్ | ప్రమాణమ్ | తే | కార్యాకార్యవ్యవస్థితౌ | జ్ఞాత్వా | శాస్త్రవిధానోక్తమ్ | కర్మ | కర్తుమ్ | ఇహ | అర్హసి",
+    "en": "tasmāt | śāstram | pramāṇam | te | kāryākāryavyavasthitau | jñātvā | śāstravidhānoktam | karma | kartum | iha | arhasi"
+  },
+  "anvayam": {
+    "te": "తస్మాత్ కార్యాకార్యవ్యవస్థితౌ శాస్త్రం తే ప్రమాణమ్; శాస్త్రవిధానోక్తం జ్ఞాత్వా కర్మ కర్తుమ్ ఇహ అర్హసి.",
+    "en": "Tasmāt (therefore) kāryākāryavyavasthitau (in determining what should and should not be done) śāstraṃ te pramāṇam (scripture is your authority); śāstravidhānoktaṃ jñātvā (understanding what is prescribed by scriptural injunction) karma kartum iha arhasi (you should perform action in this world accordingly)."
+  },
+  "meaning": {
+    "te": "కనుక చేయవలసిన దానికీ చేయకూడనిదానికీ నీకు శాస్త్రమే ప్రమాణం. శాస్త్రవిధానంలో చెప్పినదానిని తెలుసుకుని, తదనుగుణంగా కర్మ చేయడం తగినది.",
+    "en": "Therefore, in determining what should and should not be done, scripture is your authority. Understanding what is enjoined by scriptural teaching, you should perform action accordingly."
+  },
+  "tatparyam": {
+    "te": "దైవాసురసంపద్విభాగయోగపు ముగింపు శ్లోకం — ఆసురీ స్వభావాన్ని వర్ణించిన తర్వాత, సరైన మార్గదర్శకత్వం కోసం శాస్త్రాన్నే ప్రమాణంగా తీసుకోమని కృష్ణుడు సూచిస్తాడు. వ్యక్తిగత కోరికలూ, తర్కాలూ ఒక్కోసారి తప్పుదారి పట్టించగలవని, అలాంటప్పుడు నిష్పాక్షికమైన శాస్త్రవాక్యమే స్థిరమైన దిక్సూచిగా పనిచేస్తుందని ఈ శ్లోకం చెబుతుంది. ఇది గుడ్డి అనుసరణను కాదు — స్వీయ అహంకారంతో నిర్ణయాలు తీసుకునేముందు, నిర్మొహమాటమైన మార్గదర్శకత్వాన్ని సంప్రదించమని సూచించే వివేకవంతమైన ఆదేశం.",
+    "en": "The closing verse of the Daivasura Sampad Vibhaga chapter — after describing the demonic nature, Krishna advises taking scripture as authority for right guidance. This verse holds that personal desires and reasoning can sometimes mislead, and that in such moments an impartial scriptural word serves as a steady compass. This is not blind following — it is wise counsel to consult a dispassionate guide before letting personal ego dictate decisions."
+  }
+}

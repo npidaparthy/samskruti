@@ -1,0 +1,31 @@
+{
+  "id": "niti-062",
+  "tags": ["niti", "chanakya", "durjana-sanga"],
+  "shlokam": {
+    "te": "దూరస్థోఽపి న దూరస్థో యో యస్య మనసి స్థితః ।\nయో యస్య హృదయే నాస్తి సమీపస్థోఽపి దూరతః ॥",
+    "sa": "दूरस्थोऽपि न दूरस्थो यो यस्य मनसि स्थितः ।\nयो यस्य हृदये नास्ति समीपस्थोऽपि दूरतः ॥",
+    "iast": "dūrastho'pi na dūrastho yo yasya manasi sthitaḥ |\nyo yasya hṛdaye nāsti samīpastho'pi dūrataḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత సంప్రదాయము",
+    "name_en": "Subhashita tradition",
+    "chapter": "widely quoted maxim"
+  },
+  "padavibhagam": {
+    "te": "దూరస్థః | అపి | న | దూరస్థః | యః | యస్య | మనసి | స్థితః | యః | యస్య | హృదయే | న | అస్తి | సమీపస్థః | అపి | దూరతః",
+    "en": "dūrasthaḥ | api | na | dūrasthaḥ | yaḥ | yasya | manasi | sthitaḥ | yaḥ | yasya | hṛdaye | na | asti | samīpasthaḥ | api | dūrataḥ"
+  },
+  "anvayam": {
+    "te": "యః యస్య మనసి స్థితః, సః దూరస్థః అపి న దూరస్థః; యః యస్య హృదయే న అస్తి, సః సమీపస్థః అపి దూరతః.",
+    "en": "Yaḥ yasya manasi sthitaḥ (whoever dwells in another's mind), saḥ dūrasthaḥ api na dūrasthaḥ (though physically distant, is not distant at all); yaḥ yasya hṛdaye na asti (whoever does not dwell in another's heart), saḥ samīpasthaḥ api dūrataḥ (though physically near, is far away)."
+  },
+  "meaning": {
+    "te": "ఎవరి మనసులో ఎవరు నిలిచి ఉంటారో, వారు దూరంగా ఉన్నా దూరస్థులు కారు. ఎవరి హృదయంలో ఎవరు లేరో, వారు సమీపంలో ఉన్నా దూరస్థులే.",
+    "en": "Whoever dwells in another's mind, though physically far away, is not truly distant. Whoever does not dwell in another's heart, though physically near, remains far away."
+  },
+  "tatparyam": {
+    "te": "సాన్నిహిత్యాన్ని భౌతికదూరంతో కాక భావోద్వేగపరమైన సాన్నిహిత్యంతో నిర్వచించే హృద్యమైన శ్లోకం. ఎంతదూరంలో ఉన్నా మనసులో నిలిచిన బంధువూ, స్నేహితుడూ దగ్గరే; పక్కనే ఉన్నా హృదయాన్ని తాకని వ్యక్తి దూరమే. ఈ సూత్రం ఆధునిక దూరవిద్య, దూరసంబంధాలకూ వర్తిస్తుంది — నిజమైన అనుబంధం భౌతిక సామీప్యంపై కాక మానసిక అనుసంధానంపై ఆధారపడి ఉంటుందని చాటుతూ.",
+    "en": "A heartfelt verse defining closeness not by physical distance but by emotional intimacy. A friend or kin who dwells in the mind remains close however far away; one who fails to touch the heart remains distant however near. This principle applies equally to modern long-distance relationships — declaring that true connection depends on mental and emotional bonding, not physical proximity."
+  }
+}

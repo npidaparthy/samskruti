@@ -1,0 +1,31 @@
+{
+  "id": "seva-039",
+  "tags": ["seva", "hitopadesha", "vidya-artha"],
+  "shlokam": {
+    "te": "అనభ్యాసే విషం విద్యా అజీర్ణే భోజనం విషమ్ ।\nదరిద్రస్య విషం సభా వృద్ధస్య తరుణీ విషమ్ ॥",
+    "sa": "अनभ्यासे विषं विद्या अजीर्णे भोजनं विषम् ।\nदरिद्रस्य विषं सभा वृद्धस्य तरुणी विषम् ॥",
+    "iast": "anabhyāse viṣaṃ vidyā ajīrṇe bhojanaṃ viṣam |\ndaridrasya viṣaṃ sabhā vṛddhasya taruṇī viṣam ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత రత్నభాండాగారము",
+    "name_en": "Subhashita Ratnabhandagara",
+    "chapter": "traditional subhashitam"
+  },
+  "padavibhagam": {
+    "te": "అనభ్యాసే | విషమ్ | విద్యా | అజీర్ణే | భోజనమ్ | విషమ్ | దరిద్రస్య | విషమ్ | సభా | వృద్ధస్య | తరుణీ | విషమ్",
+    "en": "anabhyāse | viṣam | vidyā | ajīrṇe | bhojanam | viṣam | daridrasya | viṣam | sabhā | vṛddhasya | taruṇī | viṣam"
+  },
+  "anvayam": {
+    "te": "అనభ్యాసే విద్యా విషమ్; అజీర్ణే భోజనం విషమ్; దరిద్రస్య సభా విషమ్; వృద్ధస్య తరుణీ విషమ్.",
+    "en": "Anabhyāse vidyā viṣam (learning without practice is poison); ajīrṇe bhojanaṃ viṣam (food eaten before digesting the previous meal is poison); daridrasya sabhā viṣam (a gathering/court is poison for a poor man); vṛddhasya taruṇī viṣam (a young wife is poison for an old man)."
+  },
+  "meaning": {
+    "te": "అభ్యాసం లేని విద్య విషం; అజీర్ణంలో తినే భోజనం విషం; పేదవానికి రాజసభ విషం; ముసలివానికి యువతి భార్య విషం.",
+    "en": "Learning without practice is poison; food eaten while the previous meal remains undigested is poison; a royal court/gathering is poison for a poor man; a young wife is poison for an old man."
+  },
+  "tatparyam": {
+    "te": "నాలుగు అసంగతమైన జతలను ఏకరువు పెట్టి, ప్రతిదానికీ 'విషం' అనే బిరుదు ఇచ్చే వ్యావహారిక వివేకసూత్రం. ఒక్కొక్క ఉదాహరణా వేరువేరు రంగాన్ని తాకుతుంది — విద్యలో అభ్యాసం లేకపోతే ఆ జ్ఞానం ఉపయోగపడదు, హానికరమే కావచ్చు; జీర్ణం కాకముందే తినడం ఆరోగ్యానికి చేటు; తనకు తగని స్థలంలో అడుగుపెట్టడం ఆత్మగౌరవానికి భంగం; వయసుకు తగని బంధాలు అశాంతికి మూలం. వేటినీ 'విషం'గా చెప్పడంలో — ఇవి తక్షణం కాకపోయినా, నెమ్మదిగా విషతుల్యమైన పరిణామాలకు దారితీస్తాయని హెచ్చరిక ఇమిడి ఉంది.",
+    "en": "A practical wisdom-verse naming four seemingly unrelated pairs, awarding each the title 'poison'. Each example touches a different sphere — learning without practice becomes useless, even harmful; eating before the last meal is digested harms health; stepping into a place unsuited to one's standing wounds self-respect; bonds unsuited to one's age become a source of unrest. Calling each 'poison' carries the warning that these, though not immediately fatal, lead gradually to poisonous consequences."
+  }
+}

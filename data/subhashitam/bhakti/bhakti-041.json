@@ -1,0 +1,31 @@
+{
+  "id": "bhakti-041",
+  "tags": ["bhakti", "gita", "bhakti-visesha"],
+  "shlokam": {
+    "te": "మయి సర్వాణి కర్మాణి సంన్యస్యాధ్యాత్మచేతసా ।\nనిరాశీర్నిర్మమో భూత్వా యుధ్యస్వ విగతజ్వరః ॥",
+    "sa": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥",
+    "iast": "mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā |\nnirāśīr nirmamo bhūtvā yudhyasva vigatajvaraḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
+    "chapter": "3.30"
+  },
+  "padavibhagam": {
+    "te": "మయి | సర్వాణి | కర్మాణి | సంన్యస్య | అధ్యాత్మచేతసా | నిరాశీః | నిర్మమః | భూత్వా | యుధ్యస్వ | విగతజ్వరః",
+    "en": "mayi | sarvāṇi | karmāṇi | saṃnyasya | adhyātmacetasā | nirāśīḥ | nirmamaḥ | bhūtvā | yudhyasva | vigatajvaraḥ"
+  },
+  "anvayam": {
+    "te": "అధ్యాత్మచేతసా మయి సర్వాణి కర్మాణి సంన్యస్య, నిరాశీః, నిర్మమః భూత్వా, విగతజ్వరః (సన్) యుధ్యస్వ.",
+    "en": "Adhyātmacetasā (with a mind fixed on the Self/the divine) mayi sarvāṇi karmāṇi saṃnyasya (surrendering all actions unto me), nirāśīḥ (free of desire for results), nirmamaḥ bhūtvā (having become free of possessiveness), vigatajvaraḥ (free of feverish anxiety), yudhyasva (fight)."
+  },
+  "meaning": {
+    "te": "ఆధ్యాత్మిక చిత్తంతో సమస్త కర్మలనూ నాకు అర్పించి, ఫలాపేక్ష లేకుండా, మమకారరహితుడవై, మనోజ్వరం లేకుండా యుద్ధం చెయ్యి.",
+    "en": "With a mind fixed on the Self, surrender all your actions unto me; free of desire for results, free of possessiveness, and free of feverish anxiety, fight."
+  },
+  "tatparyam": {
+    "te": "కర్మఫలత్యాగానికి భక్తిపూర్వకమైన కోణాన్ని జోడించే శ్లోకం — కర్మలను భగవంతునికి అర్పించడమే (మయి సంన్యస్య) దీని కేంద్రబిందువు. 'విగతజ్వరః' అన్న పదం విశేషమైనది — మానసిక అశాంతిని జ్వరంతో పోల్చడం ద్వారా, ఆందోళన అనేది ఆరోగ్యానికే కాక కర్తవ్యనిర్వహణకూ అడ్డంకి అని సూచిస్తుంది. ఫలాన్ని అర్పించడమే కాదు, కర్మను చేసేటప్పుడు మనసులో ఆందోళనే లేకుండా ఉండగలగడం అత్యున్నత సాధనాస్థితి అని ఈ శ్లోకం చాటుతుంది — భక్తీ కర్మయోగమూ కలగలిసిన సమగ్రసాధనకు మాదిరి.",
+    "en": "A verse adding a devotional dimension to the renunciation of the fruits of action — its centre is surrendering all actions to the divine ('mayi saṃnyasya'). The word 'vigatajvaraḥ' is notable — by comparing mental restlessness to fever, it suggests that anxiety obstructs not only health but the very performance of duty. This verse holds that surrendering the fruit alone is not enough — being free of inner anxiety while performing the action is the highest state of practice, a model of integrated devotion and karma yoga."
+  }
+}

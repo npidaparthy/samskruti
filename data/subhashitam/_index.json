@@ -3399,5 +3399,642 @@
   "firstline_te": "శమో దమస్తపః శౌచం క్షాన్తిరార్జవమేవ చ",
   "firstline_sa": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च",
   "source_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)"
+ },
+ {
+  "id": "niti-053",
+  "slug": "tyajed-ekam-kulasyarthe",
+  "file": "niti/niti-053.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "raksha"
+  ],
+  "firstline_te": "త్యజేదేకం కులస్యార్థే గ్రామస్యార్థే కులం త్యజేత్",
+  "firstline_sa": "त्यजेदेकं कुलस्यार्थे ग्रामस्यार्थे कुलं त्यजेत्",
+  "source_en": "Chanakya Niti"
+ },
+ {
+  "id": "niti-054",
+  "slug": "tyaja-durjanasamsargam",
+  "file": "niti/niti-054.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "grihastha"
+  ],
+  "firstline_te": "త్యజ దుర్జనసంసర్గం భజ సాధుసమాగమమ్",
+  "firstline_sa": "त्यज दुर्जनसंसर्गं भज साधुसमागमम्",
+  "source_en": "Chanakya Niti"
+ },
+ {
+  "id": "niti-055",
+  "slug": "dhanadhanya-prayogeshu",
+  "file": "niti/niti-055.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "raja-vidvan"
+  ],
+  "firstline_te": "ధనధాన్యప్రయోగేషు విద్యాసంగ్రహణేషు చ",
+  "firstline_sa": "धनधान्यप्रयोगेषु विद्यासङ्ग्रहणेषु च",
+  "source_en": "Chanakya Niti"
+ },
+ {
+  "id": "niti-056",
+  "slug": "eko-pi-gunavan-putro",
+  "file": "niti/niti-056.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "mrga-simha"
+  ],
+  "firstline_te": "ఏకోఽపి గుణవాన్పుత్రో నిర్గుణేన శతేన కిమ్",
+  "firstline_sa": "एकोऽपि गुणवान्पुत्रो निर्गुणेन शतेन किम्",
+  "source_en": "Chanakya Niti"
+ },
+ {
+  "id": "niti-057",
+  "slug": "parokshe-karyahantaram",
+  "file": "niti/niti-057.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "vishvasa"
+  ],
+  "firstline_te": "పరోక్షే కార్యహన్తారం ప్రత్యక్షే ప్రియవాదినమ్",
+  "firstline_sa": "परोक्षे कार्यहन्तारं प्रत्यक्षे प्रियवादिनम्",
+  "source_en": "Chanakya Niti"
+ },
+ {
+  "id": "niti-058",
+  "slug": "utsave-vyasane-chaiva",
+  "file": "niti/niti-058.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "vipatti"
+  ],
+  "firstline_te": "ఉత్సవే వ్యసనే చైవ దుర్భిక్షే రాష్ట్రవిప్లవే",
+  "firstline_sa": "उत्सवे व्यसने चैव दुर्भिक्षे राष्ट्रविप्लवे",
+  "source_en": "Chanakya Niti"
+ },
+ {
+  "id": "dharma-051",
+  "slug": "shreyan-dravyamayad-yajnaj",
+  "file": "dharma/dharma-051.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "sarva-yajna"
+  ],
+  "firstline_te": "శ్రేయాన్ద్రవ్యమయాద్యజ్ఞాజ్జ్ఞానయజ్ఞః పరన్తప",
+  "firstline_sa": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप",
+  "source_en": "Srimad Bhagavad Gita (Jnana Karma Sannyasa Yoga)"
+ },
+ {
+  "id": "dharma-052",
+  "slug": "sattvanurupa-sarvasya-shraddha",
+  "file": "dharma/dharma-052.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "shraddha-triguna"
+  ],
+  "firstline_te": "సత్త్వానురూపా సర్వస్య శ్రద్ధా భవతి భారత",
+  "firstline_sa": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत",
+  "source_en": "Srimad Bhagavad Gita (Shraddhatraya Vibhaga Yoga)"
+ },
+ {
+  "id": "dharma-053",
+  "slug": "danda-eva-prajah-sarva",
+  "file": "dharma/dharma-053.json",
+  "tags": [
+   "dharma",
+   "manusmriti",
+   "raja-danda"
+  ],
+  "firstline_te": "దండ ఏవ ప్రజాః సర్వా రక్షతి ప్రచ్యుతే హి సః",
+  "firstline_sa": "दण्ड एव प्रजाः सर्वा रक्षति प्रच्युते हि सः",
+  "source_en": "Manusmriti"
+ },
+ {
+  "id": "dharma-054",
+  "slug": "brahmarpanam-brahma-havir",
+  "file": "dharma/dharma-054.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "yajna-vidhi"
+  ],
+  "firstline_te": "బ్రహ్మార్పణం బ్రహ్మ హవిర్బ్రహ్మాగ్నౌ బ్రహ్మణా హుతమ్",
+  "firstline_sa": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम्",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "dharma-055",
+  "slug": "santushto-bharyaya-bharta",
+  "file": "dharma/dharma-055.json",
+  "tags": [
+   "dharma",
+   "manusmriti",
+   "sthree-samman"
+  ],
+  "firstline_te": "సంతుష్టో భార్యయా భర్తా భర్త్రా భార్యా తథైవ చ",
+  "firstline_sa": "सन्तुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च",
+  "source_en": "Manusmriti"
+ },
+ {
+  "id": "dharma-056",
+  "slug": "idam-shariram-kaunteya",
+  "file": "dharma/dharma-056.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "kshetra-kshetrajna"
+  ],
+  "firstline_te": "ఇదం శరీరం కౌన్తేయ క్షేత్రమిత్యభిధీయతే",
+  "firstline_sa": "इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते",
+  "source_en": "Srimad Bhagavad Gita (Kshetra Kshetrajna Vibhaga Yoga)"
+ },
+ {
+  "id": "dharma-057",
+  "slug": "yajante-sattvika-devan",
+  "file": "dharma/dharma-057.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "trividha-shraddha"
+  ],
+  "firstline_te": "యజన్తే సాత్త్వికా దేవాన్యక్షరక్షాంసి రాజసాః",
+  "firstline_sa": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः",
+  "source_en": "Srimad Bhagavad Gita (Shraddhatraya Vibhaga Yoga)"
+ },
+ {
+  "id": "bhakti-037",
+  "slug": "klesho-dhikataras-teshsham",
+  "file": "bhakti/bhakti-037.json",
+  "tags": [
+   "bhakti",
+   "gita",
+   "bhaktih-shreyasi"
+  ],
+  "firstline_te": "క్లేశోఽధికతరస్తేషామవ్యక్తాసక్తచేతసామ్",
+  "firstline_sa": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्",
+  "source_en": "Srimad Bhagavad Gita (Bhakti Yoga)"
+ },
+ {
+  "id": "bhakti-038",
+  "slug": "teshsham-evanukampartham",
+  "file": "bhakti/bhakti-038.json",
+  "tags": [
+   "bhakti",
+   "gita",
+   "bhakti-uddhara"
+  ],
+  "firstline_te": "తేషామేవానుకమ్పార్థమహమజ్ఞానజం తమః",
+  "firstline_sa": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः",
+  "source_en": "Srimad Bhagavad Gita (Bhakti Yoga)"
+ },
+ {
+  "id": "bhakti-039",
+  "slug": "brahmabhutah-prasannatma",
+  "file": "bhakti/bhakti-039.json",
+  "tags": [
+   "bhakti",
+   "gita",
+   "brahmi-sthiti"
+  ],
+  "firstline_te": "బ్రహ్మభూతః ప్రసన్నాత్మా న శోచతి న కాంక్షతి",
+  "firstline_sa": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति",
+  "source_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)"
+ },
+ {
+  "id": "karma-039",
+  "slug": "ajnash-chashraddadhanash-cha",
+  "file": "karma/karma-039.json",
+  "tags": [
+   "karma",
+   "gita",
+   "shraddhavan-karma"
+  ],
+  "firstline_te": "అజ్ఞశ్చాశ్రద్దధానశ్చ సంశయాత్మా వినశ్యతి",
+  "firstline_sa": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति",
+  "source_en": "Srimad Bhagavad Gita (Sankhya Yoga)"
+ },
+ {
+  "id": "karma-040",
+  "slug": "sve-sve-karmany-abhiratah",
+  "file": "karma/karma-040.json",
+  "tags": [
+   "karma",
+   "gita",
+   "svakarma-siddhi"
+  ],
+  "firstline_te": "స్వే స్వే కర్మణ్యభిరతః సంసిద్ధిం లభతే నరః",
+  "firstline_sa": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः",
+  "source_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)"
+ },
+ {
+  "id": "seva-036",
+  "slug": "sadrsham-cheshtate-svasyah",
+  "file": "seva/seva-036.json",
+  "tags": [
+   "seva",
+   "gita",
+   "svadharme-nidhanam"
+  ],
+  "firstline_te": "సదృశం చేష్టతే స్వస్యాః ప్రకృతేర్జ్ఞానవానపి",
+  "firstline_sa": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "seva-037",
+  "slug": "indriyasyendriyasyarthe",
+  "file": "seva/seva-037.json",
+  "tags": [
+   "seva",
+   "gita",
+   "adhikara-svabhava"
+  ],
+  "firstline_te": "ఇన్ద్రియస్యేన్ద్రియస్యార్థే రాగద్వేషౌ వ్యవస్థితౌ",
+  "firstline_sa": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "vairagya-041",
+  "slug": "sarvabhutani-kaunteya-prakrtim",
+  "file": "vairagya/vairagya-041.json",
+  "tags": [
+   "vairagya",
+   "gita",
+   "prakruti-guna"
+  ],
+  "firstline_te": "సర్వభూతాని కౌన్తేయ ప్రకృతిం యాన్తి మామికామ్",
+  "firstline_sa": "सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम्",
+  "source_en": "Srimad Bhagavad Gita (Vibhuti Yoga)"
+ },
+ {
+  "id": "vairagya-042",
+  "slug": "avinashi-tu-tad-viddhi",
+  "file": "vairagya/vairagya-042.json",
+  "tags": [
+   "vairagya",
+   "gita",
+   "avinashi"
+  ],
+  "firstline_te": "అవినాశి తు తద్విద్ధి యేన సర్వమిదం తతమ్",
+  "firstline_sa": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्",
+  "source_en": "Srimad Bhagavad Gita (Sankhya Yoga)"
+ },
+ {
+  "id": "vairagya-043",
+  "slug": "ihaiva-tair-jitah-sargo",
+  "file": "vairagya/vairagya-043.json",
+  "tags": [
+   "vairagya",
+   "gita",
+   "svarupa-sthiti"
+  ],
+  "firstline_te": "ఇహైవ తైర్జితః సర్గో యేషాం సామ్యే స్థితం మనః",
+  "firstline_sa": "इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "niti-059",
+  "slug": "anekasamshayochchedi",
+  "file": "niti/niti-059.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "vishesha-guna"
+  ],
+  "firstline_te": "అనేకసంశయోచ్ఛేది పరోక్షార్థస్య దర్శకమ్",
+  "firstline_sa": "अनेकसंशयोच्छेदि परोक्षार्थस्य दर्शकम्",
+  "source_en": "Chanakya Niti"
+ },
+ {
+  "id": "niti-060",
+  "slug": "sukhasya-duhkhasya-na-kopi",
+  "file": "niti/niti-060.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "vidya-dhana"
+  ],
+  "firstline_te": "సుఖస్య దుఃఖస్య న కోఽపి దాతా",
+  "firstline_sa": "सुखस्य दुःखस्य न कोऽपि दाता",
+  "source_en": "Subhashita tradition"
+ },
+ {
+  "id": "niti-061",
+  "slug": "kavyashastravihinasya",
+  "file": "niti/niti-061.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "desha-kala"
+  ],
+  "firstline_te": "కావ్యశాస్త్రవిహీనస్య సాక్షాత్పశుః పుచ్ఛవిషాణహీనః",
+  "firstline_sa": "काव्यशास्त्रविहीनस्य साक्षात्पशुः पुच्छविषाणहीनः",
+  "source_en": "Subhashita tradition (attributed to Bhartrhari)"
+ },
+ {
+  "id": "dharma-058",
+  "slug": "chaturvarnyam-maya-srshtam",
+  "file": "dharma/dharma-058.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "vibhajana"
+  ],
+  "firstline_te": "చాతుర్వర్ణ్యం మయా సృష్టం గుణకర్మవిభాగశః",
+  "firstline_sa": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "dharma-059",
+  "slug": "trividham-narakasyedam",
+  "file": "dharma/dharma-059.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "kaama-krodha-tridvara"
+  ],
+  "firstline_te": "త్రివిధం నరకస్యేదం ద్వారం నాశనమాత్మనః",
+  "firstline_sa": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः",
+  "source_en": "Srimad Bhagavad Gita (Daivasura Sampad Vibhaga Yoga)"
+ },
+ {
+  "id": "dharma-060",
+  "slug": "tasmach-chhastram-pramanam",
+  "file": "dharma/dharma-060.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "shastra-pramana"
+  ],
+  "firstline_te": "తస్మాచ్ఛాస్త్రం ప్రమాణం తే కార్యాకార్యవ్యవస్థితౌ",
+  "firstline_sa": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ",
+  "source_en": "Srimad Bhagavad Gita (Shraddhatraya Vibhaga Yoga)"
+ },
+ {
+  "id": "bhakti-040",
+  "slug": "raso-ham-apsu-kaunteya",
+  "file": "bhakti/bhakti-040.json",
+  "tags": [
+   "bhakti",
+   "gita",
+   "sthavara-jangama"
+  ],
+  "firstline_te": "రాసో(మ్)యస్మ్యప్సు కౌన్తేయ ప్రభాస్మి శశిసూర్యయోః",
+  "firstline_sa": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः",
+  "source_en": "Srimad Bhagavad Gita (Jnana Vijnana Yoga)"
+ },
+ {
+  "id": "bhakti-041",
+  "slug": "mayi-sarvani-karmani",
+  "file": "bhakti/bhakti-041.json",
+  "tags": [
+   "bhakti",
+   "gita",
+   "bhakti-visesha"
+  ],
+  "firstline_te": "మయి సర్వాణి కర్మాణి సంన్యస్యాధ్యాత్మచేతసా",
+  "firstline_sa": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "karma-041",
+  "slug": "karpanya-dosham-upahatasvabhavah",
+  "file": "karma/karma-041.json",
+  "tags": [
+   "karma",
+   "gita",
+   "vishada-nashaka"
+  ],
+  "firstline_te": "కర్పణ్యదోషముపహతస్వభావః",
+  "firstline_sa": "कर्पण्यदोषमुपहतस्वभावः",
+  "source_en": "Srimad Bhagavad Gita (Arjuna Vishada Yoga)"
+ },
+ {
+  "id": "karma-042",
+  "slug": "durena-hyavaram-karma",
+  "file": "karma/karma-042.json",
+  "tags": [
+   "karma",
+   "gita",
+   "buddhiyoga-sharanya"
+  ],
+  "firstline_te": "దూరేణ హ్యవరం కర్మ బుద్ధియోగాద్ధనంజయ",
+  "firstline_sa": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय",
+  "source_en": "Srimad Bhagavad Gita (Sankhya Yoga)"
+ },
+ {
+  "id": "seva-038",
+  "slug": "vidyavinayasampanne-brahmane",
+  "file": "seva/seva-038.json",
+  "tags": [
+   "seva",
+   "gita",
+   "sarvatra-avastithi"
+  ],
+  "firstline_te": "విద్యావినయసమ్పన్నే బ్రాహ్మణే గవి హస్తిని",
+  "firstline_sa": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि",
+  "source_en": "Srimad Bhagavad Gita (Jnana Karma Sannyasa Yoga)"
+ },
+ {
+  "id": "seva-039",
+  "slug": "anabhyase-visham-vidya",
+  "file": "seva/seva-039.json",
+  "tags": [
+   "seva",
+   "hitopadesha",
+   "vidya-artha"
+  ],
+  "firstline_te": "అనభ్యాసే విషం విద్యా అజీర్ణే భోజనం విషమ్",
+  "firstline_sa": "अनभ्यासे विषं विद्या अजीर्णे भोजनं विषम्",
+  "source_en": "Subhashita Ratnabhandagara"
+ },
+ {
+  "id": "vairagya-044",
+  "slug": "shanaih-shanair-uparamed",
+  "file": "vairagya/vairagya-044.json",
+  "tags": [
+   "vairagya",
+   "gita",
+   "atma-samyama"
+  ],
+  "firstline_te": "శనైః శనైరుపరమేద్బుద్ధ్యా ధృతిగృహీతయా",
+  "firstline_sa": "शनैः शनैरुपरमेद्बुद्ध्या धृतिगृहीतया",
+  "source_en": "Srimad Bhagavad Gita (Dhyana Yoga)"
+ },
+ {
+  "id": "vairagya-045",
+  "slug": "vishaya-vinivartante",
+  "file": "vairagya/vairagya-045.json",
+  "tags": [
+   "vairagya",
+   "gita",
+   "vishaya-vinivartana"
+  ],
+  "firstline_te": "విషయా వినివర్తన్తే నిరాహారస్య దేహినః",
+  "firstline_sa": "विषया विनिवर्तन्ते निराहारस्य देहिनः",
+  "source_en": "Srimad Bhagavad Gita (Sankhya Yoga)"
+ },
+ {
+  "id": "niti-062",
+  "slug": "durasthopi-na-durastho",
+  "file": "niti/niti-062.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "durjana-sanga"
+  ],
+  "firstline_te": "దూరస్థోఽపి న దూరస్థో యో యస్య మనసి స్థితః",
+  "firstline_sa": "दूरस्थोऽपि न दूरस्थो यो यस्य मनसि स्थितः",
+  "source_en": "Subhashita tradition"
+ },
+ {
+  "id": "niti-063",
+  "slug": "parokshe-yasya-durvrttam",
+  "file": "niti/niti-063.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "atma-pariksha"
+  ],
+  "firstline_te": "పరోక్షే యస్య దుర్వృత్తం ప్రత్యక్షే ప్రియసంభాషీ",
+  "firstline_sa": "परोक्षे यस्य दुर्वृत्तं प्रत्यक्षे प्रियसम्भाषी",
+  "source_en": "Subhashita tradition (echoing Chanakya's mitra-lakshana)"
+ },
+ {
+  "id": "dharma-061",
+  "slug": "yasmat-ksharam-atito-ham",
+  "file": "dharma/dharma-061.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "purushottama-yoga"
+  ],
+  "firstline_te": "యస్మాత్క్షరమతీతోఽహమక్షరాదపి చోత్తమః",
+  "firstline_sa": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः",
+  "source_en": "Srimad Bhagavad Gita (Purushottama Yoga)"
+ },
+ {
+  "id": "bhakti-042",
+  "slug": "chaturvidha-bhajante-mam",
+  "file": "bhakti/bhakti-042.json",
+  "tags": [
+   "bhakti",
+   "gita",
+   "chaturvidha-bhakta"
+  ],
+  "firstline_te": "చతుర్విధా భజన్తే మాం జనాః సుకృతినోఽర్జున",
+  "firstline_sa": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन",
+  "source_en": "Srimad Bhagavad Gita (Jnana Vijnana Yoga)"
+ },
+ {
+  "id": "karma-043",
+  "slug": "niyatasya-tu-samnyasah",
+  "file": "karma/karma-043.json",
+  "tags": [
+   "karma",
+   "gita",
+   "moksha-karma"
+  ],
+  "firstline_te": "నియతస్య తు సంన్యాసః కర్మణో నోపపద్యతే",
+  "firstline_sa": "नियतस्य तु सन्न्यासः कर्मणो नोपपद्यते",
+  "source_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)"
+ },
+ {
+  "id": "seva-040",
+  "slug": "apare-niyatahara",
+  "file": "seva/seva-040.json",
+  "tags": [
+   "seva",
+   "gita",
+   "bhuta-bhavana"
+  ],
+  "firstline_te": "అపరే నియతాహారాః ప్రాణాన్ప్రాణేషు జుహ్వతి",
+  "firstline_sa": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति",
+  "source_en": "Srimad Bhagavad Gita (Karma Yoga)"
+ },
+ {
+  "id": "vairagya-046",
+  "slug": "yatha-dipo-nivatastho",
+  "file": "vairagya/vairagya-046.json",
+  "tags": [
+   "vairagya",
+   "gita",
+   "dhyana-siddhi"
+  ],
+  "firstline_te": "యథా దీపో నివాతస్థో నేంగతే సోపమా స్మృతా",
+  "firstline_sa": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता",
+  "source_en": "Srimad Bhagavad Gita (Dhyana Yoga)"
+ },
+ {
+  "id": "dharma-062",
+  "slug": "dvavimau-purushau-loke",
+  "file": "dharma/dharma-062.json",
+  "tags": [
+   "dharma",
+   "gita",
+   "kutastha-lakshana"
+  ],
+  "firstline_te": "ద్వావిమౌ పురుషౌ లోకే క్షరశ్చాక్షర ఏవ చ",
+  "firstline_sa": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च",
+  "source_en": "Srimad Bhagavad Gita (Purushottama Yoga)"
+ },
+ {
+  "id": "niti-064",
+  "slug": "yasya-nasti-svayam-prajna-buddhirva",
+  "file": "niti/niti-064.json",
+  "tags": [
+   "niti",
+   "chanakya",
+   "purusha-lakshana"
+  ],
+  "firstline_te": "యస్య నాస్తి స్వయం ప్రజ్ఞా బుద్ధిర్వా బుద్ధిమత్సఖా",
+  "firstline_sa": "यस्य नास्ति स्वयं प्रज्ञा बुद्धिर्वा बुद्धिमत्सखा",
+  "source_en": "Subhashita tradition"
+ },
+ {
+  "id": "bhakti-043",
+  "slug": "maccitta-madgataprana",
+  "file": "bhakti/bhakti-043.json",
+  "tags": [
+   "bhakti",
+   "gita",
+   "guru-brahma-anupraveshana"
+  ],
+  "firstline_te": "మచ్చిత్తా మద్గతప్రాణా బోధయన్తః పరస్పరమ్",
+  "firstline_sa": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम्",
+  "source_en": "Srimad Bhagavad Gita (Bhakti Yoga)"
+ },
+ {
+  "id": "karma-044",
+  "slug": "tasmat-tvam-uttishtha-yasho",
+  "file": "karma/karma-044.json",
+  "tags": [
+   "karma",
+   "gita",
+   "vishvarupa-udyoga"
+  ],
+  "firstline_te": "తస్మాత్త్వముత్తిష్ఠ యశో లభస్వ",
+  "firstline_sa": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व",
+  "source_en": "Srimad Bhagavad Gita (Vishvarupa Sandarshana Yoga)"
+ },
+ {
+  "id": "seva-041",
+  "slug": "vihaya-kaman-yah-sarvan",
+  "file": "seva/seva-041.json",
+  "tags": [
+   "seva",
+   "gita",
+   "sthitaprajna-lakshana"
+  ],
+  "firstline_te": "విహాయ కామాన్యః సర్వాన్పుమాంశ్చరతి నిఃస్పృహః",
+  "firstline_sa": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः",
+  "source_en": "Srimad Bhagavad Gita (Sankhya Yoga)"
  }
 ]

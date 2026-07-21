@@ -1,0 +1,31 @@
+{
+  "id": "niti-063",
+  "tags": ["niti", "chanakya", "atma-pariksha"],
+  "shlokam": {
+    "te": "పరోక్షే యస్య దుర్వృత్తం ప్రత్యక్షే ప్రియసంభాషీ ।\nవర్జయేద్వ్యాఘ్రవల్లోకే గుడాంగార ఇవానలమ్ ॥",
+    "sa": "परोक्षे यस्य दुर्वृत्तं प्रत्यक्षे प्रियसम्भाषी ।\nवर्जयेद्व्याघ्रवल्लोके गुडाङ्गार इवानलम् ॥",
+    "iast": "parokṣe yasya durvṛttaṃ pratyakṣe priyasambhāṣī |\nvarjayed vyāghravalloke guḍāṅgāra ivānalam ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత సంప్రదాయము",
+    "name_en": "Subhashita tradition (echoing Chanakya's mitra-lakshana)",
+    "chapter": "traditional maxim"
+  },
+  "padavibhagam": {
+    "te": "పరోక్షే | యస్య | దుర్వృత్తమ్ | ప్రత్యక్షే | ప్రియసంభాషీ | వర్జయేత్ | వ్యాఘ్రవత్ | లోకే | గుడాంగారః | ఇవ | అనలమ్",
+    "en": "parokṣe | yasya | durvṛttam | pratyakṣe | priyasambhāṣī | varjayet | vyāghravat | loke | guḍāṅgāraḥ | iva | analam"
+  },
+  "anvayam": {
+    "te": "పరోక్షే యస్య దుర్వృత్తమ్, ప్రత్యక్షే ప్రియసంభాషీ — (తం) వ్యాఘ్రవత్ వర్జయేత్, లోకే గుడాంగారః ఇవ అనలమ్ (వర్జయేత్).",
+    "en": "Parokṣe yasya durvṛttam (one whose conduct is wicked behind your back), pratyakṣe priyasambhāṣī (yet who speaks pleasantly to your face) — (such a person one should) varjayed vyāghravat (avoid like a tiger), loke guḍāṅgāraḥ iva analam (as one avoids fire hidden beneath sugar-coated coals in this world)."
+  },
+  "meaning": {
+    "te": "వెనుక దుర్వర్తనుడు, ఎదుటపడితే ప్రియంగా మాట్లాడేవాడు — అలాంటివాడిని పులిలా భావించి విడిచిపెట్టాలి, బెల్లంతో కప్పిన నిప్పులాగా.",
+    "en": "One who behaves wickedly behind your back yet speaks pleasantly to your face — such a person should be shunned like a tiger, like fire hidden beneath a coating of sugar."
+  },
+  "tatparyam": {
+    "te": "కపటమిత్రుని గుర్తించడానికి మరో బలమైన ఉపమానం — 'గుడాంగారః' అంటే బెల్లంతో కప్పిన నిప్పు కణిక, తీయగా కనిపిస్తుంది కానీ తాకితే కాల్చేస్తుంది. ఇక్కడ 'వ్యాఘ్రవత్' (పులిలా) అనే పోలిక కూడా కీలకం — పులి బయటికి అందంగా కనిపించినా ప్రమాదకరమే. రెండు ఉపమానాలూ ఒకే సందేశాన్ని ఇస్తాయి — బాహ్యరూపమూ, మధురవచనమూ నమ్మదగినవాటికి రుజువు కాదు; నిజమైన స్వభావం లోతుగా దాగి ఉండవచ్చు. మనుషులను తీర్పు చేసేటప్పుడు వారి మాటలకన్నా వారి చేష్టలను నిశితంగా గమనించమని ఈ శ్లోకం హెచ్చరిస్తుంది.",
+    "en": "Another powerful image for recognising a treacherous friend — 'guḍāṅgāraḥ', a burning coal coated in sugar, looks sweet but burns upon touch. The comparison 'vyāghravat' — like a tiger — is equally key; a tiger, however beautiful its appearance, remains dangerous. Both images carry the same message — outward appearance and sweet words are no proof of trustworthiness; true nature may lie hidden deep beneath. This verse warns that when judging people, one must watch their actions closely, more than their words."
+  }
+}

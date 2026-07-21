@@ -1,0 +1,31 @@
+{
+  "id": "niti-055",
+  "tags": ["niti", "chanakya", "raja-vidvan"],
+  "shlokam": {
+    "te": "ధనధాన్యప్రయోగేషు విద్యాసంగ్రహణేషు చ ।\nఆహారే వ్యవహారే చ త్యక్తలజ్జః సుఖీ భవేత్ ॥",
+    "sa": "धनधान्यप्रयोगेषु विद्यासङ्ग्रहणेषु च ।\nआहारे व्यवहारे च त्यक्तलज्जः सुखी भवेत् ॥",
+    "iast": "dhanadhānyaprayogeṣu vidyāsaṅgrahaṇeṣu ca |\nāhāre vyavahāre ca tyaktalajjaḥ sukhī bhavet ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "13.13"
+  },
+  "padavibhagam": {
+    "te": "ధనధాన్యప్రయోగేషు | విద్యాసంగ్రహణేషు | చ | ఆహారే | వ్యవహారే | చ | త్యక్తలజ్జః | సుఖీ | భవేత్",
+    "en": "dhanadhānyaprayogeṣu | vidyāsaṅgrahaṇeṣu | ca | āhāre | vyavahāre | ca | tyaktalajjaḥ | sukhī | bhavet"
+  },
+  "anvayam": {
+    "te": "ధనధాన్యప్రయోగేషు, విద్యాసంగ్రహణేషు చ, ఆహారే, వ్యవహారే చ త్యక్తలజ్జః (జనః) సుఖీ భవేత్.",
+    "en": "Dhanadhānyaprayogeṣu (in matters of using wealth and grain), vidyāsaṅgrahaṇeṣu ca (and in the pursuit of knowledge), āhāre (in eating), vyavahāre ca (and in daily dealings), tyaktalajjaḥ (one who has cast off false shame/hesitation) sukhī bhavet (becomes happy)."
+  },
+  "meaning": {
+    "te": "ధనధాన్యాల వినియోగంలో, విద్యాభ్యాసంలో, ఆహారంలో, వ్యవహారంలో అనవసరమైన సిగ్గును విడిచినవాడు సుఖిగా ఉంటాడు.",
+    "en": "One who casts off false shame or hesitation in the use of wealth and grain, in the pursuit of knowledge, in eating, and in daily dealings — such a person becomes happy."
+  },
+  "tatparyam": {
+    "te": "నాలుగు రంగాలలో అనవసరమైన సిగ్గు లేదా సంకోచం ప్రగతికి అడ్డుగోడ అవుతుందని చాణక్యుడు హెచ్చరిస్తున్నాడు. ధనవ్యవహారంలో సంకోచిస్తే నష్టపోతాము; ప్రశ్నించడానికి సిగ్గుపడితే విద్య అబ్బదు; అవసరమైనప్పుడు తినడానికి సంకోచిస్తే ఆరోగ్యం చెడుతుంది; వ్యవహారాలలో మొహమాటపడితే అవకాశాలు కోల్పోతాము. ఇది నిస్సిగ్గుతనాన్ని ప్రోత్సహించడం కాదు — తప్పు లేని విషయాల్లో అనవసరమైన బెరుకును వదిలించుకోమని చెప్పడం. ఆత్మవిశ్వాసానికీ, అనవసర సంకోచానికీ మధ్య తేడాను గుర్తించమని ఈ శ్లోకం బోధిస్తుంది.",
+    "en": "Chanakya warns that unnecessary shame or hesitation in four areas becomes a wall against progress. Hesitate in financial dealings, and you lose money; be too embarrassed to ask questions, and learning eludes you; be too shy to eat when needed, and health suffers; hold back in dealings out of awkwardness, and opportunities are lost. This is not an endorsement of shamelessness — it is a call to drop needless hesitation in matters where there is nothing wrong to begin with. The verse teaches the difference between confidence and unnecessary timidity."
+  }
+}

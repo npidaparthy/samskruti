@@ -1,0 +1,31 @@
+{
+  "id": "seva-040",
+  "tags": ["seva", "gita", "bhuta-bhavana"],
+  "shlokam": {
+    "te": "అపరే నియతాహారాః ప్రాణాన్ప్రాణేషు జుహ్వతి ।\nసర్వేఽప్యేతే యజ్ఞవిదో యజ్ఞక్షపితకల్మషాః ॥",
+    "sa": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति ।\nसर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ॥",
+    "iast": "apare niyatāhārāḥ prāṇān prāṇeṣu juhvati |\nsarve'py ete yajñavido yajñakṣapitakalmaṣāḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
+    "chapter": "4.30"
+  },
+  "padavibhagam": {
+    "te": "అపరే | నియతాహారాః | ప్రాణాన్ | ప్రాణేషు | జుహ్వతి | సర్వే | అపి | ఏతే | యజ్ఞవిదః | యజ్ఞక్షపితకల్మషాః",
+    "en": "apare | niyatāhārāḥ | prāṇān | prāṇeṣu | juhvati | sarve | api | ete | yajñavidaḥ | yajñakṣapitakalmaṣāḥ"
+  },
+  "anvayam": {
+    "te": "అపరే నియతాహారాః ప్రాణాన్ ప్రాణేషు జుహ్వతి; సర్వే అపి ఏతే యజ్ఞవిదః, యజ్ఞక్షపితకల్మషాః.",
+    "en": "Apare niyatāhārāḥ (others, restricting their food) prāṇān prāṇeṣu juhvati (offer the outgoing breath into the incoming breath, and vice versa); sarve api ete (all of these) yajñavidaḥ (are knowers of sacrifice), yajñakṣapitakalmaṣāḥ (whose impurities are cleansed through sacrifice)."
+  },
+  "meaning": {
+    "te": "మరికొందరు మితాహారంతో ప్రాణాలను ప్రాణాలలోనే హోమం చేస్తారు (ప్రాణాయామం చేస్తారు). వీరందరూ యజ్ఞవేత్తలే, యజ్ఞం చేత తమ పాపాలను పోగొట్టుకున్నవారే.",
+    "en": "Others, restricting their food, offer the breath into the breath through the practice of pranayama. All of these are knowers of sacrifice, whose impurities are cleansed through their sacrifice."
+  },
+  "tatparyam": {
+    "te": "గీత నాలుగవ అధ్యాయంలో యజ్ఞాన్ని అనేక రూపాలలో వివరిస్తూ, ప్రాణాయామాన్ని కూడా ఒక యజ్ఞంగా గుర్తించే శ్లోకం ఇది. బాహ్యద్రవ్యాలను అగ్నిలో వేయడమే యజ్ఞం అనుకునే సంకుచితదృష్టిని ఈ శ్లోకం విస్తరిస్తుంది — శ్వాసనియంత్రణ సాధన కూడా, సరైన అవగాహనతో చేస్తే, అంతే పవిత్రమైన యజ్ఞమేనని చాటుతూ. యజ్ఞం అనేది బాహ్యాచారం మాత్రమే కాదు, అంతర్గత క్రమశిక్షణ కూడా అని, శరీరాన్నీ శ్వాసనూ నియంత్రించుకోవడం ఆధ్యాత్మిక సాధనలో ఎంత ముఖ్యమో ఈ శ్లోకం చాటుతుంది.",
+    "en": "In the Gita's fourth chapter, which describes sacrifice in its many forms, this verse recognises pranayama itself as a form of sacrifice. It expands the narrow view that sacrifice means only offering material substances into fire — showing that the practice of breath-control, performed with proper understanding, is an equally sacred sacrifice. This verse declares that sacrifice is not merely an external ritual but also an inner discipline, and that regulating the body and breath holds real importance in spiritual practice."
+  }
+}

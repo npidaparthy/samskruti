@@ -1,0 +1,31 @@
+{
+  "id": "dharma-053",
+  "tags": ["dharma", "manusmriti", "raja-danda"],
+  "shlokam": {
+    "te": "దండ ఏవ ప్రజాః సర్వా రక్షతి ప్రచ్యుతే హి సః ।\nసర్వలోకమభిద్రుహ్యేద్దండస్య విభమాద్భయాత్ ॥",
+    "sa": "दण्ड एव प्रजाः सर्वा रक्षति प्रच्युते हि सः ।\nसर्वलोकमभिद्रुह्येद्दण्डस्य विभमाद्भयात् ॥",
+    "iast": "daṇḍa eva prajāḥ sarvā rakṣati pracyute hi saḥ |\nsarvalokam abhidruhyed daṇḍasya vibhramād bhayāt ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మనుస్మృతి",
+    "name_en": "Manusmriti",
+    "chapter": "7.22"
+  },
+  "padavibhagam": {
+    "te": "దండః | ఏవ | ప్రజాః | సర్వాః | రక్షతి | ప్రచ్యుతే | హి | సః | సర్వలోకమ్ | అభిద్రుహ్యేత్ | దండస్య | విభ్రమాత్ | భయాత్",
+    "en": "daṇḍaḥ | eva | prajāḥ | sarvāḥ | rakṣati | pracyute | hi | saḥ | sarvalokam | abhidruhyet | daṇḍasya | vibhramāt | bhayāt"
+  },
+  "anvayam": {
+    "te": "దండః ఏవ సర్వాః ప్రజాః రక్షతి; సః ప్రచ్యుతే హి, (సర్వలోకః) దండస్య భయాత్ (రహితః సన్) సర్వలోకమ్ అభిద్రుహ్యేత్.",
+    "en": "Daṇḍaḥ eva sarvāḥ prajāḥ rakṣati (just punishment/law alone protects all subjects); saḥ pracyute hi (if it were to fail/lapse), (sarvalokaḥ) daṇḍasya bhayāt (vibhramāt) (without the fear of just punishment) sarvalokam abhidruhyet (everyone in the world would turn against everyone else)."
+  },
+  "meaning": {
+    "te": "న్యాయబద్ధమైన దండన మాత్రమే సమస్త ప్రజలనూ రక్షిస్తుంది. అది తప్పిపోతే, దండభయం లేకుండా లోకమంతా ఒకరిపై ఒకరు దాడి చేసుకుంటారు.",
+    "en": "Just punishment alone protects all subjects. If it were to lapse, without the fear of it, the whole world would turn against itself, everyone attacking everyone."
+  },
+  "tatparyam": {
+    "te": "న్యాయవ్యవస్థ ఎందుకు అవసరమో మనువు ఇచ్చిన నిర్మొహమాటమైన వివరణ ఇది — 'మాత్స్యన్యాయం' భావనకు మరో కోణం. చట్టం, దాని అమలు గురించిన భయం లేకపోతే, మానవస్వభావంలో దాగి ఉన్న స్వార్థం అరాచకంగా బయటపడుతుందని ఈ శ్లోకం హెచ్చరిస్తుంది. దండన అనేది క్రూరత్వం కాదు — సమాజం సురక్షితంగా మనుగడ సాగించడానికి అవసరమైన నియంత్రణ వ్యవస్థ. ఈ సూత్రం ఆధునిక న్యాయవ్యవస్థలకూ, పోలీసింగ్‌కూ మూలసిద్ధాంతంగా నిలుస్తుంది — శిక్షాభయమే సమాజంలో క్రమశిక్షణను నిలబెడుతుందని.",
+    "en": "Manu's unflinching explanation of why a system of justice is necessary — another facet of the concept of 'matsyanyaya'. This verse warns that without the fear of law and its enforcement, the self-interest lurking in human nature erupts into anarchy. Punishment is not cruelty — it is the regulatory system essential for society to survive safely. This principle stands as a founding doctrine for modern justice systems and policing alike — that the fear of consequence is what sustains discipline in society."
+  }
+}

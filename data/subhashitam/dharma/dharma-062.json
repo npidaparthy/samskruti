@@ -1,0 +1,31 @@
+{
+  "id": "dharma-062",
+  "tags": ["dharma", "gita", "kutastha-lakshana"],
+  "shlokam": {
+    "te": "ద్వావిమౌ పురుషౌ లోకే క్షరశ్చాక్షర ఏవ చ ।\nక్షరః సర్వాణి భూతాని కూటస్థోఽక్షర ఉచ్యతే ॥",
+    "sa": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥",
+    "iast": "dvāv imau puruṣau loke kṣaraś cākṣara eva ca |\nkṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (పురుషోత్తమయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Purushottama Yoga)",
+    "chapter": "15.16"
+  },
+  "padavibhagam": {
+    "te": "ద్వౌ | ఇమౌ | పురుషౌ | లోకే | క్షరః | చ | అక్షరః | ఏవ | చ | క్షరః | సర్వాణి | భూతాని | కూటస్థః | అక్షరః | ఉచ్యతే",
+    "en": "dvau | imau | puruṣau | loke | kṣaraḥ | ca | akṣaraḥ | eva | ca | kṣaraḥ | sarvāṇi | bhūtāni | kūṭasthaḥ | akṣaraḥ | ucyate"
+  },
+  "anvayam": {
+    "te": "లోకే ఇమౌ ద్వౌ పురుషౌ — క్షరః చ అక్షరః ఏవ చ; సర్వాణి భూతాని క్షరః; కూటస్థః అక్షరః ఉచ్యతే.",
+    "en": "Loke imau dvau puruṣau (in this world there are these two persons/beings) — kṣaraḥ ca akṣaraḥ eva ca (the perishable and the imperishable); sarvāṇi bhūtāni kṣaraḥ (all beings are the perishable); kūṭasthaḥ akṣaraḥ ucyate (the unchanging one is called the imperishable)."
+  },
+  "meaning": {
+    "te": "ఈ లోకంలో రెండు పురుషులున్నారు — క్షరుడు, అక్షరుడు. సమస్త ప్రాణులూ క్షరుడు; మార్పులేనిది అక్షరుడు అనబడుతుంది.",
+    "en": "In this world there are two persons — the perishable and the imperishable. All beings constitute the perishable; the unchanging one is called the imperishable."
+  },
+  "tatparyam": {
+    "te": "పురుషోత్తమయోగపు తాత్త్విక వర్గీకరణకు నాంది పలికే శ్లోకం — క్షరము, అక్షరము అనే రెండు తత్త్వాలను నిర్వచిస్తుంది. క్షరము అంటే మారుతూ ఉండేది — శరీరాలు, పదార్థాలు, ప్రకృతిలో భాగమైన సమస్తమూ; అక్షరము అంటే మారని జీవాత్మతత్త్వం. ఈ ద్వంద్వ వర్గీకరణ, తర్వాతి శ్లోకంలో (15.18) పురుషోత్తముడు ఈ రెండింటినీ మించినవాడని చెప్పడానికి పునాదిగా నిలుస్తుంది. మార్పు, స్థిరత్వం అనే రెండు అంశాలను స్పష్టంగా వేరుచేసి చూపే ఈ శ్లోకం, జీవితంలో దేనిని పట్టుకోవాలో, దేనిని వదలాలో వివేచించుకోవడానికి తాత్త్విక ప్రాతిపదికను ఇస్తుంది.",
+    "en": "The opening verse of Purushottama Yoga's philosophical classification, defining two categories — kshara and akshara. Kshara is that which is subject to change — bodies, matter, everything that is part of nature; akshara is the unchanging principle of the individual soul. This dual classification lays the foundation for the following verse (15.18), which declares the Purushottama to be beyond both. Clearly separating change from constancy, this verse offers a philosophical basis for discerning what in life to hold onto and what to release."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "bhakti-037",
+  "tags": ["bhakti", "gita", "bhaktih-shreyasi"],
+  "shlokam": {
+    "te": "క్లేశోఽధికతరస్తేషామవ్యక్తాసక్తచేతసామ్ ।\nఅవ్యక్తా హి గతిర్దుఃఖం దేహవద్భిరవాప్యతే ॥",
+    "sa": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ।\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ॥",
+    "iast": "kleśo'dhikataras teṣām avyaktāsaktacetasām |\navyaktā hi gatir duḥkhaṃ dehavadbhir avāpyate ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (భక్తియోగము)",
+    "name_en": "Srimad Bhagavad Gita (Bhakti Yoga)",
+    "chapter": "12.5"
+  },
+  "padavibhagam": {
+    "te": "క్లేశః | అధికతరః | తేషామ్ | అవ్యక్తాసక్తచేతసామ్ | అవ్యక్తా | హి | గతిః | దుఃఖమ్ | దేహవద్భిః | అవాప్యతే",
+    "en": "kleśaḥ | adhikataraḥ | teṣām | avyaktāsaktacetasām | avyaktā | hi | gatiḥ | duḥkham | dehavadbhiḥ | avāpyate"
+  },
+  "anvayam": {
+    "te": "అవ్యక్తాసక్తచేతసాం తేషామ్ క్లేశః అధికతరః; అవ్యక్తా గతిః హి దేహవద్భిః దుఃఖం అవాప్యతే.",
+    "en": "Avyaktāsaktacetasām teṣām (of those whose minds are attached to the unmanifest) kleśaḥ adhikataraḥ (the trouble is greater); avyaktā gatiḥ hi (for the path to the unmanifest, indeed) dehavadbhiḥ duḥkhaṃ avāpyate (is attained by embodied beings only with difficulty)."
+  },
+  "meaning": {
+    "te": "అవ్యక్తతత్త్వంపై మనసు లగ్నం చేసినవారికి కష్టం ఎక్కువ. దేహధారులకు అవ్యక్తగతి కష్టంతోనే లభిస్తుంది.",
+    "en": "For those whose minds fix upon the unmanifest, the trouble is greater. For beings clothed in a body, the path to the unmanifest is attained only with difficulty."
+  },
+  "tatparyam": {
+    "te": "సాకారోపాసనకూ నిరాకారోపాసనకూ మధ్య వ్యత్యాసాన్ని నిజాయితీగా చూపే గీత శ్లోకం. అర్జునుడు అడిగిన ప్రశ్నకు — సాకారభక్తుడు గొప్పా, నిరాకారజ్ఞాని గొప్పా — కృష్ణుడు ఇచ్చిన సమాధానంలో భాగం ఇది. అవ్యక్తతత్త్వాన్ని ధ్యానించడం సాధ్యమే, కానీ దేహధారులకు అది మరింత శ్రమతో కూడినదని ఒప్పుకోవడం విశేషం. ప్రతి ఒక్కరికీ ఒకే మార్గం సరిపోదని, తమ స్వభావానికి తగిన మార్గాన్ని ఎంచుకోవచ్చని ఈ నిజాయితీ చాటుతుంది — సాకారభక్తి తక్కువదని కాదు, సాధారణ మనుషులకు అది సహజమైన, సులభమైన మార్గమని.",
+    "en": "A Gita verse honestly acknowledging the difference between worship of the manifest and contemplation of the unmanifest. This is part of Krishna's answer to Arjuna's question — which is greater, the devotee of form or the knower of the formless? It is notable that he concedes that meditating on the unmanifest, though possible, demands more effort from embodied beings. This honesty shows that not everyone needs the same path — each may choose what suits their own nature; it does not diminish devotion to form, but recognises it as the more natural, accessible path for most people."
+  }
+}

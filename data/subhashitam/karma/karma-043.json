@@ -1,0 +1,31 @@
+{
+  "id": "karma-043",
+  "tags": ["karma", "gita", "moksha-karma"],
+  "shlokam": {
+    "te": "నియతస్య తు సంన్యాసః కర్మణో నోపపద్యతే ।\nమోహాత్తస్య పరిత్యాగస్తామసః పరికీర్తితః ॥",
+    "sa": "नियतस्य तु सन्न्यासः कर्मणो नोपपद्यते ।\nमोहात्तस्य परित्यागस्तामसः परिकीर्तितः ॥",
+    "iast": "niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate |\nmohāt tasya parityāgas tāmasaḥ parikīrtitaḥ ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)",
+    "chapter": "18.7"
+  },
+  "padavibhagam": {
+    "te": "నియతస్య | తు | సంన్యాసః | కర్మణః | న | ఉపపద్యతే | మోహాత్ | తస్య | పరిత్యాగః | తామసః | పరికీర్తితః",
+    "en": "niyatasya | tu | saṃnyāsaḥ | karmaṇaḥ | na | upapadyate | mohāt | tasya | parityāgaḥ | tāmasaḥ | parikīrtitaḥ"
+  },
+  "anvayam": {
+    "te": "నియతస్య కర్మణః తు సంన్యాసః న ఉపపద్యతే; మోహాత్ తస్య పరిత్యాగః తామసః పరికీర్తితః.",
+    "en": "Niyatasya karmaṇaḥ tu (of prescribed/obligatory duty, however) saṃnyāsaḥ na upapadyate (renunciation is not fitting/proper); mohāt tasya parityāgaḥ (its abandonment out of delusion) tāmasaḥ parikīrtitaḥ (is declared to be tamasic)."
+  },
+  "meaning": {
+    "te": "నియమిత కర్తవ్యాన్ని త్యజించడం తగదు. మోహం వల్ల దానిని విడిచిపెట్టడం తామసమని చెప్పబడింది.",
+    "en": "Renouncing an obligatory duty is not proper. Abandoning it out of delusion is declared to be tamasic renunciation."
+  },
+  "tatparyam": {
+    "te": "సన్యాసానికి మూడు రకాలను వర్గీకరించే గీత చివరి అధ్యాయపు ప్రారంభశ్లోకాలలో ఒకటి — కష్టమనిపించో, భయమనిపించో నియమిత కర్తవ్యాన్ని వదిలేయడం సన్యాసం కాదని, అది కేవలం మోహపూరిత పలాయనమని స్పష్టం చేస్తుంది. బాధ్యత నుండి తప్పించుకోవడాన్ని ఆధ్యాత్మిక పురోగతిగా చెప్పుకునేవారికి ఈ శ్లోకం స్పష్టమైన హెచ్చరిక — నిజమైన సన్యాసం కర్మను వదలడంలో లేదు, కర్మను ఫలాపేక్షారహితంగా, భయరహితంగా నిర్వర్తించడంలో ఉందని గీత పదేపదే నొక్కిచెబుతుంది.",
+    "en": "One of the opening verses of the Gita's final chapter, classifying renunciation into three types — it makes clear that abandoning an obligatory duty because it feels difficult or fearsome is not renunciation at all, merely delusion-driven escape. This verse is a clear warning to those who dress up avoidance of responsibility as spiritual progress — true renunciation, the Gita repeatedly insists, does not lie in abandoning action, but in performing it without desire for its fruit and without fear."
+  }
+}
