@@ -1,0 +1,31 @@
+{
+  "id": "seva-033",
+  "tags": ["seva", "hitopadesha", "sahayata"],
+  "shlokam": {
+    "te": "ఆపదర్థే ధనం రక్షేద్దారాన్రక్షేద్ధనైరపి ।\nఆత్మానం సతతం రక్షేద్దారైరపి ధనైరపి ॥",
+    "sa": "आपदर्थे धनं रक्षेद्दारान्रक्षेद्धनैरपि ।\nआत्मानं सततं रक्षेद्दारैरपि धनैरपि ॥",
+    "iast": "āpadarthe dhanaṃ rakṣed dārān rakṣed dhanair api |\nātmānaṃ satataṃ rakṣed dārair api dhanair api ||"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "హితోపదేశము (మిత్రలాభః)",
+    "name_en": "Hitopadesha (Mitralabha)",
+    "chapter": "Mitralabha"
+  },
+  "padavibhagam": {
+    "te": "ఆపదర్థే | ధనమ్ | రక్షేత్ | దారాన్ | రక్షేత్ | ధనైః | అపి | ఆత్మానమ్ | సతతమ్ | రక్షేత్ | దారైః | అపి | ధనైః | అపి",
+    "en": "āpadarthe | dhanam | rakṣet | dārān | rakṣet | dhanaiḥ | api | ātmānam | satatam | rakṣet | dāraiḥ | api | dhanaiḥ | api"
+  },
+  "anvayam": {
+    "te": "ఆపదర్థే ధనం రక్షేత్; ధనైః అపి దారాన్ రక్షేత్; దారైః అపి ధనైః అపి ఆత్మానం సతతం రక్షేత్.",
+    "en": "Āpadarthe dhanaṃ rakṣet (protect wealth for the sake of adversity); dhanair api dārān rakṣet (even at the cost of wealth, protect one's family); dāraiḥ api dhanaiḥ api ātmānaṃ satataṃ rakṣet (even at the cost of family and wealth both, always protect oneself — one's inner self/values)."
+  },
+  "meaning": {
+    "te": "ఆపదను ఎదుర్కోవడానికి ధనాన్ని కాపాడుకోవాలి; ధనాన్ని ఖర్చుపెట్టయినా కుటుంబాన్ని కాపాడుకోవాలి; కుటుంబాన్నీ ధనాన్నీ కూడా ధారపోసి అయినా తనను తాను (తన విలువలను) ఎప్పుడూ కాపాడుకోవాలి.",
+    "en": "Protect wealth so it may serve in times of adversity; even at the cost of wealth, protect your family; and even at the cost of family and wealth both, always protect your own self — your inner values."
+  },
+  "tatparyam": {
+    "te": "ప్రాధాన్యక్రమాన్ని అత్యంత స్పష్టంగా నిర్దేశించే హితోపదేశపు ఆచరణాత్మక సూత్రం. ధనం కుటుంబం కోసమే, కుటుంబం కూడా చివరకు తన ఆత్మ (విలువలు, ధర్మం) కోసమేనని ఈ క్రమం చెబుతుంది. ఏదైనా త్యాగం చేయవలసి వస్తే మొదట ధనాన్ని, తర్వాత అవసరమైతే కుటుంబసౌకర్యాలనూ వదులుకోవచ్చు — కానీ తన ఆత్మగౌరవాన్నీ, ధర్మాన్నీ మాత్రం ఏ పరిస్థితిలోనూ వదులుకోకూడదని ఈ శ్లోకపు అంతిమ సందేశం. జీవితంలో దేనికి ఎంత విలువ ఇవ్వాలో నిర్ణయించుకోవడానికి ఇది శాశ్వతమైన కొలబద్ద.",
+    "en": "A Hitopadesha principle setting out priorities with striking clarity. Wealth exists for the sake of family, and even family ultimately exists for the sake of one's own self — one's values, one's dharma. If any sacrifice must be made, wealth goes first, and if necessary even family comforts — but one's self-respect and dharma must never be surrendered under any circumstance. This remains a lasting yardstick for deciding what deserves what priority in life."
+  }
+}

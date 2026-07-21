@@ -3360,5 +3360,44 @@
   "firstline_te": "ఆరభ్యతే న ఖలు విఘ్నభయేన నీచైః",
   "firstline_sa": "आरभ्यते न खलु विघ्नभयेन नीचैः",
   "source_en": "Niti Shataka tradition (widely quoted)"
+ },
+ {
+  "id": "seva-033",
+  "slug": "apadarthe-dhanam-rakshet",
+  "file": "seva/seva-033.json",
+  "tags": [
+   "seva",
+   "hitopadesha",
+   "sahayata"
+  ],
+  "firstline_te": "ఆపదర్థే ధనం రక్షేద్దారాన్రక్షేద్ధనైరపి",
+  "firstline_sa": "आपदर्थे धनं रक्षेद्दारान्रक्षेद्धनैरपि",
+  "source_en": "Hitopadesha (Mitralabha)"
+ },
+ {
+  "id": "seva-034",
+  "slug": "yad-yad-vibhutimat-sattvam",
+  "file": "seva/seva-034.json",
+  "tags": [
+   "seva",
+   "gita",
+   "sthula-vibhuti"
+  ],
+  "firstline_te": "యద్యద్విభూతిమత్సత్త్వం శ్రీమదూర్జితమేవ వా",
+  "firstline_sa": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा",
+  "source_en": "Srimad Bhagavad Gita (Vibhuti Yoga)"
+ },
+ {
+  "id": "seva-035",
+  "slug": "shamo-damas-tapah-shaucham",
+  "file": "seva/seva-035.json",
+  "tags": [
+   "seva",
+   "gita",
+   "brahmana-karma"
+  ],
+  "firstline_te": "శమో దమస్తపః శౌచం క్షాన్తిరార్జవమేవ చ",
+  "firstline_sa": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च",
+  "source_en": "Srimad Bhagavad Gita (Moksha Sannyasa Yoga)"
  }
 ]
