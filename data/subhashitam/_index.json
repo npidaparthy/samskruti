@@ -223,19 +223,17 @@
   },
   {
     "id": "dharma-004",
-    "slug": "janani-janmabhumishca",
+    "slug": "na-tvaham-kamaye-rajyam",
     "file": "dharma/dharma-004.json",
     "tags": [
       "dharma",
-      "janani",
-      "janmabhoomi",
-      "matru"
+      "karuna"
     ],
-    "firstline_te": "జననీ జన్మభూమిశ్చ",
-    "firstline_sa": "जननी जन्मभूमिश्च",
-    "source_en": "Rāmāyaṇa",
-    "grantha_te": "రామాయణమ్",
-    "grantha_sa": "रामायणम्",
+    "firstline_te": "న త్వహం కామయే రాజ్యం న స్వర్గం నాపునర్భవమ్ ।",
+    "firstline_sa": "न त्वहं कामये राज्यं न स्वर्गं नापुनर्भवम् ।",
+    "source_en": "Śrīmad Bhāgavatam",
+    "grantha_te": "శ్రీమద్భాగవతము",
+    "grantha_sa": "श्रीमद्भागवतम्",
     "chanda_key": "anushtubh",
     "chanda_te": "అనుష్టుప్"
   },
@@ -277,20 +275,19 @@
   },
   {
     "id": "dharma-007",
-    "slug": "uttishthata-jaagrata",
+    "slug": "yastu-sarvani-bhutani-atmani",
     "file": "dharma/dharma-007.json",
     "tags": [
       "dharma",
-      "uttishtha",
-      "jagrata"
+      "atma-aikya"
     ],
-    "firstline_te": "ఉత్తిష్ఠత జాగ్రత",
-    "firstline_sa": "उत्तिष्ठत जाग्रत",
+    "firstline_te": "యస్తు సర్వాణి భూతాని ఆత్మన్యేవానుపశ్యతి ।",
+    "firstline_sa": "यस्तु सर्वाणि भूतानि आत्मन्येवानुपश्यति ।",
     "source_en": "Upaniṣad",
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
-    "chanda_key": "trishtubh",
-    "chanda_te": "త్రిష్టుప్"
+    "chanda_key": "anushtubh",
+    "chanda_te": "అనుష్టుప్"
   },
   {
     "id": "dharma-008",
@@ -307,8 +304,8 @@
     "source_en": "Upaniṣad",
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
-    "chanda_key": "gayatri",
-    "chanda_te": "గాయత్రీ"
+    "chanda_key": "non-vrtta",
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
   },
   {
     "id": "karma-001",
@@ -393,8 +390,8 @@
     "source_en": "Bhartṛhari Śatakatraya",
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
-    "chanda_key": "indravajra",
-    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+    "chanda_key": "non-vrtta",
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
   },
   {
     "id": "seva-002",
@@ -891,19 +888,17 @@
   },
   {
     "id": "niti-017",
-    "slug": "vasudhaiva-kutumbakam",
+    "slug": "pustakastha-tu-ya-vidya",
     "file": "niti/niti-017.json",
     "tags": [
       "niti",
-      "vasudhaiva-kutumbakam",
-      "udara",
-      "pancatantra"
+      "vidya"
     ],
-    "firstline_te": "అయం నిజః పరో వేతి గణనా లఘుచేతసాం",
-    "firstline_sa": "अयं निजः परो वेति गणना लघुचेतसाम्",
-    "source_en": "Pañcatantra",
-    "grantha_te": "పఞ్చతన్త్రమ్",
-    "grantha_sa": "पञ्चतन्त्रम्",
+    "firstline_te": "పుస్తకస్థా తు యా విద్యా పరహస్తగతం ధనమ్ ।",
+    "firstline_sa": "पुस्तकस्था तु या विद्या परहस्तगतं धनम् ।",
+    "source_en": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
     "chanda_te": "అనుష్టుప్"
   },
@@ -940,8 +935,8 @@
     "source_en": "Upaniṣad",
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
-    "chanda_key": "trishtubh",
-    "chanda_te": "త్రిష్టుప్"
+    "chanda_key": "non-vrtta",
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
   },
   {
     "id": "niti-020",
@@ -1071,16 +1066,14 @@
   },
   {
     "id": "dharma-014",
-    "slug": "yatra-naryastu-pujyante",
+    "slug": "satyam-bruyat-priyam-bruyat",
     "file": "dharma/dharma-014.json",
     "tags": [
       "dharma",
-      "nari",
-      "pujyante",
-      "stri-shakti"
+      "satya"
     ],
-    "firstline_te": "యత్ర నార్యస్తు పూజ్యన్తే రమన్తే తత్ర దేవతాః",
-    "firstline_sa": "यत्र नार्यस्तु पूज्यन्ते रमन्ते तत्र देवताः",
+    "firstline_te": "సత్యం బ్రూయాత్ప్రియం బ్రూయాన్న బ్రూయాత్సత్యమప్రియమ్ ।",
+    "firstline_sa": "सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् ।",
     "source_en": "Dharmaśāstra",
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
@@ -1143,7 +1136,7 @@
   },
   {
     "id": "dharma-018",
-    "slug": "sarve-bhavantu-sukhinah",
+    "slug": "sarve-bhavantu-sukhinah-santu",
     "file": "dharma/dharma-018.json",
     "tags": [
       "dharma",
@@ -3016,18 +3009,17 @@
   },
   {
     "id": "dharma-038",
-    "slug": "yad-yad-acharati-shishtah",
+    "slug": "adrohah-sarvabhuteshu-karmana",
     "file": "dharma/dharma-038.json",
     "tags": [
       "dharma",
-      "sadachara",
-      "shishtachara"
+      "ahimsa"
     ],
-    "firstline_te": "యద్యదాచరతి శిష్టః శిష్టస్తత్ప్రమాణమ్",
-    "firstline_sa": "यद्यदाचरति शिष्टः शिष्टस्तत्प्रमाणम्",
-    "source_en": "Dharmaśāstra",
-    "grantha_te": "ధర్మశాస్త్రమ్",
-    "grantha_sa": "धर्मशास्त्रम्",
+    "firstline_te": "అద్రోహః సర్వభూతేషు కర్మణా మనసా గిరా ।",
+    "firstline_sa": "अद्रोहः सर्वभूतेषु कर्मणा मनसा गिरा ।",
+    "source_en": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
     "chanda_te": "అనుష్టుప్"
   },
@@ -4693,8 +4685,8 @@
       "niti",
       "desha-kala"
     ],
-    "firstline_te": "కావ్యశాస్త్రవిహీనస్య సాక్షాత్పశుః పుచ్ఛవిషాణహీనః",
-    "firstline_sa": "काव्यशास्त्रविहीनस्य साक्षात्पशुः पुच्छविषाणहीनः",
+    "firstline_te": "సాహిత్యసఙ్గీతకలావిహీనః సాక్షాత్పశుః పుచ్ఛవిషాణహీనః ।",
+    "firstline_sa": "साहित्यसङ्गीतकलाविहीनः साक्षात्पशुः पुच्छविषाणहीनः ।",
     "source_en": "Bhartṛhari Śatakatraya",
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",

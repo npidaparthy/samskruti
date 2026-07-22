@@ -11,7 +11,7 @@
     "sa": "सहनाववतु सह नौ भुनक्तु सह वीर्यं करवावहै ।\nतेजस्विनावधीतमस्तु मा विद्विषावहै ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
     "iast": "sahanāvavatu saha nau bhunaktu saha vīryaṃ karavāvahai ।\ntejasvināvadhītamastu mā vidviṣāvahai ॥\noṃ śāntiḥ śāntiḥ śāntiḥ ॥"
   },
-  "chandaH": "గాయత్రీ (Gāyatrī) — anuṣṭup variant, peace chant",
+  "chandaH": "వైదిక శాన్తిమన్త్రము (Vaidika śānti-mantra)",
   "granthaH": {
     "name_te": "కృష్ణయజుర్వేదీయ తైత్తిరీయ ఉపనిషత్ — శాన్తిపాఠమ్",
     "name_en": "Taittirīya Upaniṣad — Śānti Pāṭha",
@@ -36,7 +36,7 @@
     "te": "ఇది గురు-శిష్య ఇద్దరూ కలసి చదివే శాంతిపాఠం. 'నౌ' అంటే మనిద్దరం — గురువు మరియు శిష్యుడు కలసి రక్షింపబడాలి, పోషింపబడాలి, పని చేయాలి. చివరిలో 'మా విద్విషావహై' — ద్వేషం వద్దు — అనే మాట అన్నింటికన్నా ముఖ్యమైనది. నేర్చుకోవడం ఒక సహకార ప్రక్రియ, పోటీ కాదు అని ఈ శ్లోకం చెప్తుంది.",
     "en": "This is the peace chant recited together by teacher and student at the start of learning. 'Nau' (us two) — both guru and disciple are protected, nourished, and empowered together. The final line — 'may we not hate each other' — is the most poignant: learning is a shared journey, not a competition. This Vedic invocation sets the tone for all education as a sacred, cooperative endeavour."
   },
-  "chanda_key": "gayatri",
-  "chanda_sa": "गायत्री",
-  "chanda_te": "గాయత్రీ"
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
 }

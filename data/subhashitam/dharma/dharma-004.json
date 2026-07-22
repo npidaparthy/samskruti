@@ -2,39 +2,37 @@
   "id": "dharma-004",
   "tags": [
     "dharma",
-    "janani",
-    "janmabhoomi",
-    "matru"
+    "karuna"
   ],
   "shlokam": {
-    "te": "జననీ జన్మభూమిశ్చ స్వర్గాదపి గరీయసీ ।",
-    "sa": "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी ।",
-    "iast": "jananī janmabhūmiśca svargādapi garīyasī ।"
+    "te": "న త్వహం కామయే రాజ్యం న స్వర్గం నాపునర్భవమ్ ।\nకామయే దుఃఖతప్తానాం ప్రాణినామార్తినాశనమ్ ॥",
+    "sa": "न त्वहं कामये राज्यं न स्वर्गं नापुनर्भवम् ।\nकामये दुःखतप्तानां प्राणिनामार्तिनाशनम् ॥",
+    "iast": "na tvahaṃ kāmaye rājyaṃ na svargaṃ nāpunarbhavam ।\nkāmaye duḥkhataptānāṃ prāṇināmārtināśanam ॥"
   },
-  "chandaH": "అనుష్టుప్ అర్ధభాగమ్ (half-verse, Anuṣṭup)",
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "వాల్మీకి రామాయణమ్ — యుద్ధకాణ్డమ్",
-    "name_en": "Vālmīki Rāmāyaṇa — Yuddha Kāṇḍa",
-    "chapter": "6.124.17 (Rāma to Lakṣmaṇa)",
-    "grantha": "Rāmāyaṇa",
-    "grantha_te": "రామాయణమ్",
-    "grantha_sa": "रामायणम्"
+    "name_te": "శ్రీమద్భాగవతము",
+    "name_en": "Śrīmad Bhāgavatam",
+    "chapter": "9.21.12",
+    "grantha_sa": "श्रीमद्भागवतम्",
+    "grantha": "Śrīmad Bhāgavatam",
+    "grantha_te": "శ్రీమద్భాగవతము"
   },
   "padavibhagam": {
-    "te": "జననీ | జన్మభూమిః | చ | స్వర్గాత్ | అపి | గరీయసీ",
-    "en": "jananī | janmabhūmiḥ | ca | svargāt | api | garīyasī"
+    "te": "న | తు | అహమ్ | కామయే | రాజ్యమ్ | న | స్వర్గమ్ | న | అపునర్భవమ్ | కామయే | దుఃఖతప్తానామ్ | ప్రాణినామ్ | ఆర్తినాశనమ్",
+    "en": "na | tu | aham | kāmaye | rājyam | na | svargam | na | apunarbhavam | kāmaye | duḥkhataptānām | prāṇinām | ārtināśanam"
   },
   "anvayam": {
-    "te": "జననీ జన్మభూమిః చ స్వర్గాత్ అపి గరీయసీ (అస్తి).",
-    "en": "Mother (jananī) and motherland (janmabhūmiḥ) are greater (garīyasī) even than heaven (svargāt api)."
+    "te": "అహం రాజ్యం న కామయే, స్వర్గం న, అపునర్భవం న; దుఃఖతప్తానాం ప్రాణినామ్ ఆర్తినాశనం కామయే.",
+    "en": "I desire not kingdom, nor heaven, nor liberation from rebirth; I desire only the removal of the suffering of beings tormented by sorrow."
   },
   "meaning": {
-    "te": "తల్లి మరియు జన్మభూమి — ఈ రెండూ స్వర్గంకన్నా కూడా గొప్పవి.",
-    "en": "Mother and motherland are greater even than heaven."
+    "te": "నేను రాజ్యాన్ని కోరను, స్వర్గాన్ని కోరను, మోక్షాన్ని కూడా కోరను; దుఃఖంతో తపించే ప్రాణుల ఆర్తిని తొలగించడమే నా కోరిక.",
+    "en": "I long not for kingdom, nor heaven, nor even release from rebirth; my only longing is to end the anguish of all beings scorched by suffering."
   },
   "tatparyam": {
-    "te": "లంకను జయించి, సీతమ్మను తిరిగి పొందిన తర్వాత లక్ష్మణుడు లంకలో నివసిద్దామని సూచించగా, రాముడు ఈ మాటలు చెప్పాడు. స్వర్ణమయమైన లంక కంటే కూడా మన తల్లి, మన జన్మభూమి గొప్పవని రాముడు ప్రకటించాడు. ఇది దేశభక్తికి, మాతృభావానికి పరాకాష్ఠ.",
-    "en": "After conquering Lanka and rescuing Sītā, when Lakṣmaṇa suggested settling in the golden city of Lanka, Rāma spoke these words. Even the most magnificent foreign land cannot compare to one's mother and motherland. This remains the most powerful expression of patriotism and filial devotion in all of Sanskrit literature."
+    "te": "రంతిదేవుని ఈ ప్రార్థన నిష్కామ కరుణకు పరాకాష్ఠ. తనకోసం ఏదీ — ఐహిక రాజ్యం, పారలౌకిక స్వర్గం, చివరకు మోక్షం కూడా — కోరకుండా, కేవలం ఇతర ప్రాణుల దుఃఖనివారణనే కాంక్షించడం పరార్థజీవితానికి ఆదర్శం. ఇది భాగవత ధర్మంలోని పరమ కారుణ్యభావాన్ని చాటుతుంది.",
+    "en": "Rantideva's prayer is the height of selfless compassion. Desiring nothing for himself — not earthly kingdom, not heaven, not even liberation — but only the relief of others' suffering, he embodies a life lived for others. It expresses the supreme compassion at the heart of Bhāgavata dharma."
   },
   "chanda_key": "anushtubh",
   "chanda_sa": "अनुष्टुप्",

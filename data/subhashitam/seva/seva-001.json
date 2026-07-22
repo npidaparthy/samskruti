@@ -11,7 +11,7 @@
     "sa": "परहितं यस्य मनसः प्रवृत्तयः\nपरहिते यस्य रतं मनो निशम् ।\nस सकलस्य जगतः प्रियो भवेत्\nपरहितासक्तमनाः स्वयं हरिः ॥",
     "iast": "parahitaṃ yasya manasaḥ pravṛttayaḥ\nparahite yasya rataṃ mano niśam ।\nsa sakalasya jagataḥ priyo bhavet\nparahitāsaktamanāḥ svayaṃ hariḥ ॥"
   },
-  "chandaH": "ఇన్ద్రవజ్రా / ఉపజాతి (Indravajrā / Upajāti)",
+  "chandaH": "జగతీవర్గ, 12 అక్షరాలు — వృత్తం అనిర్ధారితం (12-syllable, vṛtta unidentified)",
   "granthaH": {
     "name_te": "పురాణోక్తమ్ / భర్తృహరి నీతిశతకమ్",
     "name_en": "Nītiśataka (attr. Bhartṛhari) / Purāṇa tradition",
@@ -36,7 +36,7 @@
     "te": "పరసేవయే ప్రభుసేవ — ఇది ఈ శ్లోకం యొక్క సారం. ఇతరుల మేలు కోసం జీవించే వ్యక్తి మాత్రమే లోకప్రియుడు కాగలడు. ముఖ్యంగా — 'హరి కూడా పరహితాసక్తమనాః' అని చెప్పడం విశేషం. దైవం పరోపకారిని ఇష్టపడతాడు, ఎందుకంటే దైవం తానే పరోపకారిణి.",
     "en": "Service to others is service to the divine — that is the essence of this verse. The person whose very thought-current flows toward others' welfare becomes universally beloved. The deepest insight here: 'Hari himself has a heart devoted to others.' The divine loves the servant of humanity because the divine is the supreme servant. This is the theology behind seva (service) as a path to God."
   },
-  "chanda_key": "indravajra",
-  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
-  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
 }
