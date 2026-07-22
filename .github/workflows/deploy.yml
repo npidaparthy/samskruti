@@ -30,7 +30,7 @@ jobs:
       - name: Generate version.json
         run: |
           COMMIT=$(git rev-parse --short HEAD)
-          TS=$(date -u '+%d%m%Y%H%M')
+          TS=$(date '+%d%m%Y%H%M')
           echo "{\"hash\":\"${COMMIT}\",\"ts\":\"${TS}\"}" > version.json
           echo "Version → ${COMMIT}.${TS}"
 

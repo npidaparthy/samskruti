@@ -10,9 +10,9 @@
     ],
     "firstline_te": "విద్యా దదాతి వినయం",
     "firstline_sa": "विद्या ददाति विनयं",
-    "source_en": "Mahābhārata",
-    "grantha_te": "మహాభారతమ్",
-    "grantha_sa": "महाभारतम्",
+    "source_en": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
     "chanda_te": "అనుష్టుప్"
   },
@@ -1699,8 +1699,8 @@
     "source_en": "Anyat / Bhakti",
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
-    "chanda_key": "sragdhara",
-    "chanda_te": "స్రగ్ధరా"
+    "chanda_key": "mandakranta",
+    "chanda_te": "మన్దాక్రాన్తా"
   },
   {
     "id": "bhakti-012",
@@ -3050,19 +3050,19 @@
   },
   {
     "id": "dharma-040",
-    "slug": "vidya-vinayam-dadati-hitopadesha",
+    "slug": "dhrtih-ksama-damosteyam-shaucam",
     "file": "dharma/dharma-040.json",
     "tags": [
       "dharma",
-      "satsanga"
+      "dharma-lakshana"
     ],
-    "firstline_te": "విద్యా విని యం దదాతి వినయాదాయాతి పాత్రతామ్",
-    "firstline_sa": "विद्या विनयं ददाति विनयाद्यायाति पात्रताम्",
-    "source_en": "Hitopadeśa",
-    "grantha_te": "హితోపదేశః",
-    "grantha_sa": "हितोपदेशः",
-    "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "firstline_te": "ధృతిః క్షమా దమోఽస్తేయం శౌచమిన్ద్రియనిగ్రహః ।",
+    "firstline_sa": "धृतिः क्षमा दमोऽस्तेयं शौचमिन्द्रियनिग्रहः ।",
+    "source_en": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्",
+    "chanda_key": "anushtubh",
+    "chanda_te": "అనుష్టుప్"
   },
   {
     "id": "vairagya-026",
