@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 2.27",
-    "name_en": "Bhagavad Gītā 2.27",
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sāṅkhya Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "2.27"
   },
   "padavibhagam": {
     "te": "జాతస్య | హి | ధ్రువః | మృత్యుః | ధ్రువం | జన్మ | మృతస్య | చ | తస్మాత్ | అపరిహార్యే | అర్థే | న | త్వం | శోచితుం | అర్హసి",

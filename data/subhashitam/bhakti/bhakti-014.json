@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 13.28",
-    "name_en": "Bhagavad Gītā 13.28",
+    "name_te": "శ్రీమద్భగవద్గీత (క్షేత్రక్షేత్రజ్ఞవిభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Kṣetra Kṣetrajña Vibhāga Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "13.28"
   },
   "padavibhagam": {
     "te": "సమం | సర్వేషు | భూతేషు | తిష్ఠన్తం | పరమ-ఈశ్వరం | వినశ్యత్సు | అవినశ్యన్తం | యః | పశ్యతి | సః | పశ్యతి",

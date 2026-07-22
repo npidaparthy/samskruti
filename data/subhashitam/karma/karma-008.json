@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 4.17",
-    "name_en": "Bhagavad Gītā 4.17",
+    "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానకర్మసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Jñāna Karma Sannyāsa Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "4.17"
   },
   "padavibhagam": {
     "te": "కర్మణః | హి | అపి | బోద్ధవ్యం | బోద్ధవ్యం | చ | వికర్మణః | అకర్మణః | చ | బోద్ధవ్యం | గహనా | కర్మణః | గతిః",

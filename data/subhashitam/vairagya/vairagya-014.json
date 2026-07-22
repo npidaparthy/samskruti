@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 13.7 (జ్ఞానం లక్షణాలు)",
-    "name_en": "Bhagavad Gītā 13.7 (characteristics of jñāna)",
+    "name_te": "శ్రీమద్భగవద్గీత (క్షేత్రక్షేత్రజ్ఞవిభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Kṣetra Kṣetrajña Vibhāga Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "13.7"
   },
   "padavibhagam": {
     "te": "అమానిత్వం | అదమ్భిత్వం | అహింసా | క్షాన్తిః | ఆర్జవం | ఆచార్య-ఉపాసనం | శౌచం | స్థైర్యం | ఆత్మ-వినిగ్రహః",

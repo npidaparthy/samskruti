@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 9.22",
-    "name_en": "Bhagavad Gītā 9.22",
+    "name_te": "శ్రీమద్భగవద్గీత (రాజవిద్యారాజగుహ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Rāja Vidyā Rāja Guhya Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "9.22"
   },
   "padavibhagam": {
     "te": "అనన్యాః | చిన్తయన్తః | మాం | యే | జనాః | పర్యుపాసతే | తేషాం | నిత్య-అభియుక్తానాం | యోగక్షేమం | వహామి | అహం",

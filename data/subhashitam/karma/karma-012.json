@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 9.27",
-    "name_en": "Bhagavad Gītā 9.27",
+    "name_te": "శ్రీమద్భగవద్గీత (రాజవిద్యారాజగుహ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Rāja Vidyā Rāja Guhya Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "9.27"
   },
   "padavibhagam": {
     "te": "యత్ | కరోషి | యత్ | అశ్నాసి | యత్ | జుహోషి | దదాసి | యత్ | యత్ | తపస్యసి | కౌన్తేయ | తత్ | కురుష్వ | మత్-అర్పణం",

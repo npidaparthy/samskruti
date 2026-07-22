@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 15.6",
-    "name_en": "Bhagavad Gītā 15.6",
+    "name_te": "శ్రీమద్భగవద్గీత (పురుషోత్తమయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Puruṣottama Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "15.6"
   },
   "padavibhagam": {
     "te": "న | తత్ | భాసయతే | సూర్యః | న | శశాంకః | న | పావకః | యత్ | గత్వా | న | నివర్తన్తే | తత్ | ధామ | పరమం | మమ",

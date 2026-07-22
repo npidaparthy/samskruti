@@ -13,11 +13,12 @@
   },
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 2.22",
-    "name_en": "Bhagavad Gītā 2.22",
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sāṅkhya Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "2.22"
   },
   "padavibhagam": {
     "te": "వాసాంసి | జీర్ణాని | యథా | విహాయ | నవాని | గృహ్ణాతి | నరః | అపరాణి | తథా | శరీరాణి | విహాయ | జీర్ణాని | అన్యాని | సంయాతి | నవాని | దేహీ",

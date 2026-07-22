@@ -13,11 +13,12 @@
   },
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 2.20",
-    "name_en": "Bhagavad Gītā 2.20",
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sāṅkhya Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "2.20"
   },
   "padavibhagam": {
     "te": "న | జాయతే | మ్రియతే | వా | కదాచిత్ | న | అయం | భూత్వా | భవితా | వా | న | భూయః | అజః | నిత్యః | శాశ్వతః | అయం | పురాణః | న | హన్యతే | హన్యమానే | శరీరే",

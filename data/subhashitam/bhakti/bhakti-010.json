@@ -13,11 +13,12 @@
   },
   "chandaH": "త్రిష్టుప్ (Triṣṭup) — 11 syllables per quarter",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 15.15",
-    "name_en": "Bhagavad Gītā 15.15",
+    "name_te": "శ్రీమద్భగవద్గీత (పురుషోత్తమయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Puruṣottama Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "15.15"
   },
   "padavibhagam": {
     "te": "సర్వస్య | చ | అహం | హృది | సన్నివిష్టః | మత్తః | స్మృతిః | జ్ఞానం | అపోహనం | చ | వేదైః | చ | సర్వైః | అహం | ఏవ | వేద్యః | వేదాన్త-కృత్ | వేద-విత్ | ఏవ | చ | అహం",

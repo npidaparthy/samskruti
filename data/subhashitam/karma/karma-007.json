@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 6.17",
-    "name_en": "Bhagavad Gītā 6.17",
+    "name_te": "శ్రీమద్భగవద్గీత (ధ్యానయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Dhyāna Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "6.17"
   },
   "padavibhagam": {
     "te": "యుక్త-ఆహార-విహారస్య | యుక్త-చేష్టస్య | కర్మసు | యుక్త-స్వప్న-అవబోధస్య | యోగః | భవతి | దుఃఖహా",

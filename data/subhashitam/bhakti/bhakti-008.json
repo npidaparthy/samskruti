@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 9.26",
-    "name_en": "Bhagavad Gītā 9.26",
+    "name_te": "శ్రీమద్భగవద్గీత (రాజవిద్యారాజగుహ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Rāja Vidyā Rāja Guhya Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "9.26"
   },
   "padavibhagam": {
     "te": "పత్రం | పుష్పం | ఫలం | తోయం | యః | మే | భక్త్యా | ప్రయచ్ఛతి | తత్ | అహం | భక్తి-ఉపహృతం | అశ్నామి | ప్రయత-ఆత్మనః",

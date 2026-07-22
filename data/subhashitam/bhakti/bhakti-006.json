@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 18.65",
-    "name_en": "Bhagavad Gītā 18.65",
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Mokṣa Sannyāsa Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "18.65"
   },
   "padavibhagam": {
     "te": "మత్-మనాః | భవ | మత్-భక్తః | మత్-యాజీ | మాం | నమస్కురు | మాం | ఏవ | ఏష్యసి | సత్యం | తే | ప్రతిజానే | ప్రియః | అసి | మే",

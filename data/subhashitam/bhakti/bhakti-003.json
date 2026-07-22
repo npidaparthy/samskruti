@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 18.78 (సంజయ వాక్యం)",
-    "name_en": "Bhagavad Gītā 18.78 (Sañjaya's words)",
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Mokṣa Sannyāsa Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "18.78"
   },
   "padavibhagam": {
     "te": "యత్ర | యోగేశ్వరః | కృష్ణః | యత్ర | పార్థః | ధనుర్ధరః | తత్ర | శ్రీః | విజయః | భూతిః | ధ్రువా | నీతిః | మతిః | మమ",

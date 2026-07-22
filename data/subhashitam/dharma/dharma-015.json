@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 3.35",
-    "name_en": "Bhagavad Gītā 3.35",
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "3.35"
   },
   "padavibhagam": {
     "te": "శ్రేయాన్ | స్వధర్మః | విగుణః | పరధర్మాత్ | స్వ-అనుష్ఠితాత్ | స్వధర్మే | నిధనం | శ్రేయః | పరధర్మః | భయావహః",

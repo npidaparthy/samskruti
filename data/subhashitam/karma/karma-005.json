@@ -12,11 +12,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 4.39",
-    "name_en": "Bhagavad Gītā 4.39",
+    "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానకర్మసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Jñāna Karma Sannyāsa Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "4.39"
   },
   "padavibhagam": {
     "te": "శ్రద్ధావాన్ | లభతే | జ్ఞానం | తత్పరః | సంయత-ఇన్ద్రియః | జ్ఞానం | లబ్ధ్వా | పరాం | శాన్తిం | అచిరేణ | అధిగచ్ఛతి",

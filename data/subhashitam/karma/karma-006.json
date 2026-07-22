@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 6.5",
-    "name_en": "Bhagavad Gītā 6.5",
+    "name_te": "శ్రీమద్భగవద్గీత (ధ్యానయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Dhyāna Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "6.5"
   },
   "padavibhagam": {
     "te": "ఉద్ధరేత్ | ఆత్మనా | ఆత్మానం | న | ఆత్మానం | అవసాదయేత్ | ఆత్మా | ఏవ | హి | ఆత్మనః | బన్ధుః | ఆత్మా | ఏవ | రిపుః | ఆత్మనః",

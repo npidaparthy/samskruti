@@ -13,11 +13,12 @@
   },
   "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
   "granthaH": {
-    "name_te": "శ్రీమద్భగవద్గీత 2.63",
-    "name_en": "Bhagavad Gītā 2.63",
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sāṅkhya Yoga)",
     "grantha": "Bhagavad Gītā",
     "grantha_te": "శ్రీమద్భగవద్గీతా",
-    "grantha_sa": "श्रीमद्भगवद्गीता"
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "2.63"
   },
   "padavibhagam": {
     "te": "క్రోధాత్ | భవతి | సమ్మోహః | సమ్మోహాత్ | స్మృతి-విభ్రమః | స్మృతి-భ్రంశాత్ | బుద్ధి-నాశః | బుద్ధి-నాశాత్ | ప్రణశ్యతి",
