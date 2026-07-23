@@ -1498,7 +1498,8 @@ body.parayanam-mode .bottom-nav-back { display: none; }
 }
 
 @media (max-width: 600px) {
-  html { font-size: 16px; }
+  /* Do NOT hard-set html font-size — it would override the user's A−/A+
+     setting (--font-size-base). Mobile text stays relative to it. */
   .main-content { padding: 1rem 0.85rem 2rem; }
   .search-bar-wrap { padding: 0.5rem 0.75rem; }
   .reader-header { flex-direction: column; gap: 0.6rem; }
@@ -1665,6 +1666,10 @@ body.parayanam-mode .bottom-nav-back { display: none; }
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
   overflow: hidden;
 }
+/* Card verse font follows the script toggle (like .shloka-text) */
+[data-lipi="sa"]   .sub-card-verse { font-family: var(--font-sa); }
+[data-lipi="te"]   .sub-card-verse { font-family: var(--font-te); }
+[data-lipi="iast"] .sub-card-verse { font-family: var(--font-en); font-style: italic; }
 .sub-card-source { font-size: 0.78rem; color: var(--c-text-muted); font-style: italic; margin-bottom: 0.4rem; }
 .sub-card-tags { display: flex; gap: 4px; flex-wrap: wrap; }
 .sub-tag {

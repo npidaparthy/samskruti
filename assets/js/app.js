@@ -940,7 +940,9 @@ window.StotramApp = {
       // meters ordered by our reference file, keeping only those present
       const chandas = meters.map(m => m.key).filter(k => cCounts[k]);
 
-      const firstOf = e => isTe ? (e.firstline_te || e.firstline_sa || '') : (e.firstline_sa || e.firstline_te || '');
+      const firstOf = e => lipi === 'sa' ? (e.firstline_sa || e.firstline_te || '')
+                        : lipi === 'iast' ? (e.firstline_iast || e.firstline_sa || '')
+                        : (e.firstline_te || e.firstline_sa || '');
 
       let filtered = list
         .filter(e => activeTag === 'all' || (e.tags || []).includes(activeTag))
@@ -1006,12 +1008,18 @@ window.StotramApp = {
       const sortCur = (sortOpts.find(s => s[0] === activeSort) || sortOpts[0])[1];
       const sortBtnLabel = `${isTe ? 'క్రమం' : 'Sort'}: ${sortCur} ▾`;
 
+      // verse text + source follow lipi (like the reader & dropdowns), not UI lang
+      const lineOf = e => lipi === 'sa' ? (e.firstline_sa || e.firstline_te || '')
+                        : lipi === 'iast' ? (e.firstline_iast || e.firstline_sa || '')
+                        : (e.firstline_te || e.firstline_sa || '');
+      const srcOf  = e => lipi === 'sa' ? (e.grantha_sa || e.source_en || '')
+                        : lipi === 'iast' ? (e.source_en || e.grantha_sa || '')
+                        : (e.grantha_te || e.source_en || '');
       const cards = filtered.map(e => {
-        const firstLine = lang === 'te' ? (e.firstline_te || e.firstline_sa || '') : (e.firstline_sa || e.firstline_te || '');
         const tags = (e.tags || []).map(t => `<span class="sub-tag">${this._esc(t)}</span>`).join('');
         return `<div class="sub-card" data-sub-id="${this._esc(e.id)}" data-file="${this._esc(e.file)}" role="button" tabindex="0">
-          <div class="sub-card-verse">${this._esc(firstLine)}</div>
-          <div class="sub-card-source">${this._esc(e.source_en || '')}</div>
+          <div class="sub-card-verse">${this._esc(lineOf(e))}</div>
+          <div class="sub-card-source">${this._esc(srcOf(e))}</div>
           <div class="sub-card-tags">${tags}</div>
         </div>`;
       }).join('');
@@ -1042,7 +1050,7 @@ window.StotramApp = {
           <span class="sub-count">${this._esc(countLabel)}</span>
         </div>
         ${chandaPanel}
-        <div class="sub-grid">${cards || '<p style="padding:2rem;color:var(--c-text-muted)">No verses found.</p>'}</div>`;
+        <div class="sub-grid">${cards || `<p style="padding:2rem;color:var(--c-text-muted)">${isTe ? 'శ్లోకాలు ఏవీ కనబడలేదు.' : 'No verses found.'}</p>`}</div>`;
 
       // Dropdown toggles (Topics / Grantham / Sort) — open one, close the rest
       const closeDropdowns = () => container.querySelectorAll('.sub-topics-dropdown').forEach(d => d.classList.add('hidden'));
@@ -1092,7 +1100,7 @@ window.StotramApp = {
         card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') open(); });
       });
     } catch (e) {
-      container.innerHTML = `<p style="padding:2rem;color:var(--c-text-muted)">⚠️ Could not load subhashitam index.</p>`;
+      container.innerHTML = `<p style="padding:2rem;color:var(--c-text-muted)">⚠️ ${window.i18n?.lang === 'te' ? 'సుభాషిత జాబితా లోడ్ కాలేదు.' : 'Could not load subhashitam index.'}</p>`;
     }
   },
 
@@ -1187,7 +1195,7 @@ window.StotramApp = {
         });
       });
     } catch (e) {
-      detail.innerHTML = `<p style="padding:2rem;color:var(--c-text-muted)">⚠️ Could not load verse.</p>`;
+      detail.innerHTML = `<p style="padding:2rem;color:var(--c-text-muted)">⚠️ ${window.i18n?.lang === 'te' ? 'శ్లోకం లోడ్ కాలేదు.' : 'Could not load verse.'}</p>`;
     }
   },
 

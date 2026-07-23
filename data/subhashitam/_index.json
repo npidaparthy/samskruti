@@ -14,7 +14,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "vidyā dadāti vinayaṃ"
   },
   {
     "id": "niti-002",
@@ -31,7 +32,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "indravajra",
-    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా",
+    "firstline_iast": "paropakārāya phalanti vṛkṣāḥ"
   },
   {
     "id": "niti-003",
@@ -48,7 +50,8 @@
     "grantha_te": "హితోపదేశః",
     "grantha_sa": "हितोपदेशः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ālasyaṃ hi manuṣyāṇāṃ"
   },
   {
     "id": "niti-004",
@@ -65,7 +68,8 @@
     "grantha_te": "హితోపదేశః",
     "grantha_sa": "हितोपदेशः",
     "chanda_key": "indravajra",
-    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా",
+    "firstline_iast": "na corahāryaṃ na ca rājahāryaṃ"
   },
   {
     "id": "niti-005",
@@ -82,7 +86,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "āpatkāle tu saṃprāpte"
   },
   {
     "id": "niti-006",
@@ -99,7 +104,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "śaile śaile na māṇikyaṃ"
   },
   {
     "id": "niti-007",
@@ -116,7 +122,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kṣamā balamaśaktānāṃ"
   },
   {
     "id": "niti-008",
@@ -133,7 +140,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "satyaṃ brūyāt priyaṃ brūyāt"
   },
   {
     "id": "niti-009",
@@ -150,7 +158,8 @@
     "grantha_te": "పఞ్చతన్త్రమ్",
     "grantha_sa": "पञ्चतन्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ayaṃ nijaḥ paro veti"
   },
   {
     "id": "niti-010",
@@ -167,7 +176,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kāvyaśāstravinodena"
   },
   {
     "id": "dharma-001",
@@ -184,7 +194,8 @@
     "grantha_te": "పురాణమ్",
     "grantha_sa": "पुराणम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "aṣṭādaśa purāṇeṣu"
   },
   {
     "id": "dharma-002",
@@ -201,7 +212,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yatra nāryastu pūjyante"
   },
   {
     "id": "dharma-003",
@@ -219,7 +231,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "pṛthivyāṃ trīṇi ratnāni"
   },
   {
     "id": "dharma-004",
@@ -235,7 +248,8 @@
     "grantha_te": "శ్రీమద్భాగవతము",
     "grantha_sa": "श्रीमद्भागवतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "na tvahaṃ kāmaye rājyaṃ na svargaṃ nāpunarbhavam ।"
   },
   {
     "id": "dharma-005",
@@ -253,7 +267,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sarve bhavantu sukhinaḥ"
   },
   {
     "id": "dharma-006",
@@ -271,7 +286,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "manasā cintitaṃ kāryaṃ"
   },
   {
     "id": "dharma-007",
@@ -287,7 +303,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yastu sarvāṇi bhūtāni ātmanyevānupaśyati ।"
   },
   {
     "id": "dharma-008",
@@ -305,7 +322,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "sahanāvavatu saha nau bhunaktu"
   },
   {
     "id": "karma-001",
@@ -322,7 +340,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "karmaṇyevādhikāraste"
   },
   {
     "id": "karma-002",
@@ -339,7 +358,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yadā yadā hi dharmasya"
   },
   {
     "id": "karma-003",
@@ -356,7 +376,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "na hi jñānena sadṛśaṃ"
   },
   {
     "id": "karma-004",
@@ -374,7 +395,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "vināśakāle viparītabuddhiḥ"
   },
   {
     "id": "seva-001",
@@ -391,7 +413,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "parahitaṃ yasya manasaḥ pravṛttayaḥ"
   },
   {
     "id": "seva-002",
@@ -409,7 +432,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "atithidevo bhava"
   },
   {
     "id": "seva-003",
@@ -426,7 +450,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "lokasaṃgrahamevāpi"
   },
   {
     "id": "niti-011",
@@ -443,7 +468,8 @@
     "grantha_te": "హితోపదేశః",
     "grantha_sa": "हितोपदेशः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "udyamena hi sidhyanti kāryāṇi"
   },
   {
     "id": "niti-012",
@@ -460,7 +486,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kākaḥ kṛṣṇaḥ pikaḥ kṛṣṇaḥ"
   },
   {
     "id": "niti-013",
@@ -477,7 +504,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "agniśeṣamṛṇaśeṣaṃ śatruśeṣaṃ"
   },
   {
     "id": "niti-014",
@@ -495,7 +523,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sukhārthinaḥ kuto vidyā"
   },
   {
     "id": "niti-015",
@@ -513,7 +542,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "indravajra",
-    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా",
+    "firstline_iast": "yeṣāṃ na vidyā na tapo na dānaṃ"
   },
   {
     "id": "dharma-009",
@@ -529,7 +559,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "trishtubh",
-    "chanda_te": "త్రిష్టుప్"
+    "chanda_te": "త్రిష్టుప్",
+    "firstline_iast": "satyameva jayate nānṛtaṃ"
   },
   {
     "id": "dharma-010",
@@ -545,7 +576,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ahiṃsā paramo dharmaḥ"
   },
   {
     "id": "dharma-011",
@@ -563,7 +595,8 @@
     "grantha_te": "పురాణమ్",
     "grantha_sa": "पुराणम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "paropakāraḥ puṇyāya pāpāya"
   },
   {
     "id": "dharma-012",
@@ -581,7 +614,8 @@
     "grantha_te": "పురాణమ్",
     "grantha_sa": "पुराणम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "gururbrahmā gururviṣṇuḥ"
   },
   {
     "id": "karma-005",
@@ -598,7 +632,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "śraddhāvān labhate jñānaṃ"
   },
   {
     "id": "karma-006",
@@ -616,7 +651,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "uddharedātmanātmānaṃ"
   },
   {
     "id": "karma-007",
@@ -634,7 +670,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yuktāhāravihārasya"
   },
   {
     "id": "seva-004",
@@ -652,7 +689,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "arya",
-    "chanda_te": "ఆర్యా"
+    "chanda_te": "ఆర్యా",
+    "firstline_iast": "dānaṃ bhogo nāśastisro gatayo"
   },
   {
     "id": "seva-005",
@@ -670,7 +708,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "indravajra",
-    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా",
+    "firstline_iast": "pibanti nadyaḥ svayameva nāṃbhaḥ"
   },
   {
     "id": "seva-006",
@@ -688,7 +727,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "mātṛdevo bhava pitṛdevo bhava"
   },
   {
     "id": "vairagya-001",
@@ -705,7 +745,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "bhaja govindaṃ bhaja govindaṃ"
   },
   {
     "id": "vairagya-002",
@@ -723,7 +764,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "mā kuru dhanajanayauvanagarvaṃ"
   },
   {
     "id": "vairagya-003",
@@ -741,7 +783,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "dinamapi rajanī sāyaṃ prātaḥ"
   },
   {
     "id": "vairagya-004",
@@ -759,7 +802,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "punarapi jananaṃ punarapi maraṇaṃ"
   },
   {
     "id": "vairagya-005",
@@ -777,7 +821,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "kā te kāntā kaste putraḥ"
   },
   {
     "id": "bhakti-001",
@@ -795,7 +840,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "indravajra",
-    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా",
+    "firstline_iast": "tvameva mātā ca pitā tvameva"
   },
   {
     "id": "bhakti-002",
@@ -812,7 +858,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sarvadharmān parityajya māmekaṃ"
   },
   {
     "id": "bhakti-003",
@@ -830,7 +877,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yatra yogeśvaraḥ kṛṣṇo"
   },
   {
     "id": "bhakti-004",
@@ -848,7 +896,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "indravajra",
-    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా",
+    "firstline_iast": "kāyena vācā manasendriyairvā"
   },
   {
     "id": "bhakti-005",
@@ -866,7 +915,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ananyāścintayanto māṃ"
   },
   {
     "id": "niti-016",
@@ -884,7 +934,8 @@
     "grantha_te": "హితోపదేశః",
     "grantha_sa": "हितोपदेशः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "vidyā vinayena śobhate"
   },
   {
     "id": "niti-017",
@@ -900,7 +951,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "pustakasthā tu yā vidyā parahastagataṃ dhanam ।"
   },
   {
     "id": "niti-018",
@@ -918,7 +970,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kṣamā balamaśaktānām śaktānāṃ bhūṣaṇaṃ kṣamā"
   },
   {
     "id": "niti-019",
@@ -936,7 +989,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "uttiṣṭhata jāgrata prāpya varānnibodhata"
   },
   {
     "id": "niti-020",
@@ -955,7 +1009,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "mātṛvat paradāreṣu paradravyeṣu loṣṭavat"
   },
   {
     "id": "niti-021",
@@ -973,7 +1028,8 @@
     "grantha_te": "రామాయణమ్",
     "grantha_sa": "रामायणम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "jananī janmabhūmiśca svargādapi garīyasī"
   },
   {
     "id": "niti-022",
@@ -991,7 +1047,8 @@
     "grantha_te": "వేదమన్త్రాః",
     "grantha_sa": "वेदमन्त्राः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "ekaṃ sadviprā bahudhā vadanti"
   },
   {
     "id": "niti-023",
@@ -1009,7 +1066,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "ātmanaḥ pratikūlāni pareṣāṃ na samācaret"
   },
   {
     "id": "niti-024",
@@ -1027,7 +1085,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "śreyāṃsi bahuvighnāni bhavanti mahatāmapi"
   },
   {
     "id": "niti-025",
@@ -1045,7 +1104,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "indravajra",
-    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+    "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా",
+    "firstline_iast": "na corahāryaṃ na ca rājahāryam"
   },
   {
     "id": "dharma-013",
@@ -1062,7 +1122,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "dharmo rakṣati rakṣitaḥ"
   },
   {
     "id": "dharma-014",
@@ -1078,7 +1139,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "satyaṃ brūyātpriyaṃ brūyānna brūyātsatyamapriyam ।"
   },
   {
     "id": "dharma-015",
@@ -1096,7 +1158,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt"
   },
   {
     "id": "dharma-016",
@@ -1114,7 +1177,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ"
   },
   {
     "id": "dharma-017",
@@ -1132,7 +1196,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "asato mā sadgamaya tamaso mā jyotirgamaya"
   },
   {
     "id": "dharma-018",
@@ -1150,7 +1215,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sarve bhavantu sukhinaḥ sarve santu nirāmayāḥ"
   },
   {
     "id": "dharma-019",
@@ -1167,7 +1233,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "satyaṃ vada dharmaṃ cara"
   },
   {
     "id": "dharma-020",
@@ -1186,7 +1253,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate"
   },
   {
     "id": "karma-008",
@@ -1204,7 +1272,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ"
   },
   {
     "id": "karma-009",
@@ -1222,7 +1291,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "niyataṃ kuru karma tvaṃ karma jyāyo hyakarmaṇaḥ"
   },
   {
     "id": "karma-010",
@@ -1240,7 +1310,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "buddhiyukto jahātīha ubhe sukṛtaduṣkṛte"
   },
   {
     "id": "karma-011",
@@ -1258,7 +1329,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sahajaṃ karma kaunteya sadoṣamapi na tyajet"
   },
   {
     "id": "karma-012",
@@ -1276,7 +1348,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat"
   },
   {
     "id": "karma-013",
@@ -1294,7 +1367,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "krodhādbhavati sammohaḥ sammohātsmṛtivibhramaḥ"
   },
   {
     "id": "seva-007",
@@ -1313,7 +1387,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "īśāvāsyamidaṃ sarvaṃ yatkiñca jagatyāṃ jagat"
   },
   {
     "id": "seva-008",
@@ -1331,7 +1406,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "saha nau bhunaktu saha nau viraktu"
   },
   {
     "id": "seva-009",
@@ -1349,7 +1425,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ātmavat sarvabhūteṣu yaḥ paśyati sa paśyati"
   },
   {
     "id": "seva-010",
@@ -1368,7 +1445,8 @@
     "grantha_te": "పురాణమ్",
     "grantha_sa": "पुराणम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "annadānaṃ mahādānaṃ vastradānaṃ tato'dhikam"
   },
   {
     "id": "seva-011",
@@ -1387,7 +1465,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "ātmano mokṣārthaṃ jagaddhitāya ca"
   },
   {
     "id": "seva-012",
@@ -1404,7 +1483,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "na tatparasya saṃdadhyāt pratikūlaṃ yadātmanaḥ"
   },
   {
     "id": "vairagya-006",
@@ -1422,7 +1502,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matra-misc",
-    "chanda_te": "పదకులకమ్"
+    "chanda_te": "పదకులకమ్",
+    "firstline_iast": "arthamanarthaṃ bhāvaya nityaṃ"
   },
   {
     "id": "vairagya-007",
@@ -1440,7 +1521,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matra-misc",
-    "chanda_te": "పదకులకమ్"
+    "chanda_te": "పదకులకమ్",
+    "firstline_iast": "vayasi gate kaḥ kāmavikāraḥ"
   },
   {
     "id": "vairagya-008",
@@ -1458,7 +1540,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matra-misc",
-    "chanda_te": "పదకులకమ్"
+    "chanda_te": "పదకులకమ్",
+    "firstline_iast": "nalinīdalagatajalamatitaralaṃ"
   },
   {
     "id": "vairagya-009",
@@ -1476,7 +1559,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "bhoge rogabhayaṃ kule cyutibhayaṃ"
   },
   {
     "id": "vairagya-010",
@@ -1494,7 +1578,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca"
   },
   {
     "id": "vairagya-011",
@@ -1512,7 +1597,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "trishtubh",
-    "chanda_te": "త్రిష్టుప్"
+    "chanda_te": "త్రిష్టుప్",
+    "firstline_iast": "na jāyate mriyate vā kadācit"
   },
   {
     "id": "vairagya-012",
@@ -1530,7 +1616,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "trishtubh",
-    "chanda_te": "త్రిష్టుప్"
+    "chanda_te": "త్రిష్టుప్",
+    "firstline_iast": "vāsāṃsi jīrṇāni yathā vihāya"
   },
   {
     "id": "vairagya-013",
@@ -1548,7 +1635,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matra-misc",
-    "chanda_te": "పదకులకమ్"
+    "chanda_te": "పదకులకమ్",
+    "firstline_iast": "kastvaṃ ko'haṃ kuta āyātaḥ"
   },
   {
     "id": "vairagya-014",
@@ -1566,7 +1654,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "amānitvamadambhitvamahiṃsā kṣāntirārjavam"
   },
   {
     "id": "vairagya-015",
@@ -1584,7 +1673,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yasya nāsti svayaṃ prajñā śāstraṃ tasya karoti kim"
   },
   {
     "id": "bhakti-006",
@@ -1602,7 +1692,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "manmanā bhava madbhakto madyājī māṃ namaskuru"
   },
   {
     "id": "bhakti-007",
@@ -1620,7 +1711,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ"
   },
   {
     "id": "bhakti-008",
@@ -1638,7 +1730,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati"
   },
   {
     "id": "bhakti-009",
@@ -1656,7 +1749,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati"
   },
   {
     "id": "bhakti-010",
@@ -1674,7 +1768,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "trishtubh",
-    "chanda_te": "త్రిష్టుప్"
+    "chanda_te": "త్రిష్టుప్",
+    "firstline_iast": "sarvasya cāhaṃ hṛdi sanniviṣṭo"
   },
   {
     "id": "bhakti-011",
@@ -1693,7 +1788,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "mandakranta",
-    "chanda_te": "మన్దాక్రాన్తా"
+    "chanda_te": "మన్దాక్రాన్తా",
+    "firstline_iast": "śāntākāraṃ bhujagaśayanaṃ padmanābhaṃ sureśam"
   },
   {
     "id": "bhakti-012",
@@ -1712,7 +1808,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tvadīyaṃ vastu govinda tubhyameva samarpaye"
   },
   {
     "id": "bhakti-013",
@@ -1730,7 +1827,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare"
   },
   {
     "id": "bhakti-014",
@@ -1748,7 +1846,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram"
   },
   {
     "id": "bhakti-015",
@@ -1766,7 +1865,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ"
   },
   {
     "id": "niti-026",
@@ -1783,7 +1883,8 @@
     "grantha_te": "పఞ్చతన్త్రమ్",
     "grantha_sa": "पञ्चतन्त्रम्",
     "chanda_key": "vasantatilaka",
-    "chanda_te": "వసన్తతిలకా"
+    "chanda_te": "వసన్తతిలకా",
+    "firstline_iast": "udyoginaṃ puruṣasiṃhamupaiti lakṣmīḥ"
   },
   {
     "id": "niti-027",
@@ -1800,7 +1901,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "āyuṣaḥ kṣaṇa eko'pi na labhyaḥ svarṇakoṭibhiḥ"
   },
   {
     "id": "niti-028",
@@ -1817,7 +1919,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "durjanaḥ parihartavyo vidyayālaṅkṛto'pi san"
   },
   {
     "id": "niti-029",
@@ -1834,7 +1937,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kākaceṣṭā bakodhyānaṃ śvānanidrā tathaiva ca"
   },
   {
     "id": "niti-030",
@@ -1851,7 +1955,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "priyavākyapradānena sarve tuṣyanti jantavaḥ"
   },
   {
     "id": "niti-031",
@@ -1868,7 +1973,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "vidvattvaṃ ca nṛpatvaṃ ca naiva tulyaṃ kadācana"
   },
   {
     "id": "niti-032",
@@ -1886,7 +1992,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "nāsti vidyāsamaṃ cakṣurnāsti satyasamaṃ tapaḥ"
   },
   {
     "id": "niti-033",
@@ -1903,7 +2010,8 @@
     "grantha_te": "హితోపదేశః",
     "grantha_sa": "हितोपदेशः",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "guṇā guṇajñeṣu guṇā bhavanti"
   },
   {
     "id": "niti-034",
@@ -1920,7 +2028,8 @@
     "grantha_te": "రామాయణమ్",
     "grantha_sa": "रामायणम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sulabhāḥ puruṣā rājan satataṃ priyavādinaḥ"
   },
   {
     "id": "niti-035",
@@ -1937,7 +2046,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "amantramakṣaraṃ nāsti nāsti mūlamanauṣadham"
   },
   {
     "id": "dharma-021",
@@ -1954,7 +2064,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "abhivādanaśīlasya nityaṃ vṛddhopasevinaḥ"
   },
   {
     "id": "dharma-022",
@@ -1971,7 +2082,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yataḥ kṛṣṇastato dharmo yato dharmastato jayaḥ"
   },
   {
     "id": "dharma-023",
@@ -1988,7 +2100,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ūrdhvabāhurviraumyeṣa na ca kaścicchṛṇoti me"
   },
   {
     "id": "dharma-024",
@@ -2005,7 +2118,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "satyaṃ mātā pitā jñānaṃ dharmo bhrātā dayā sakhā"
   },
   {
     "id": "dharma-025",
@@ -2022,7 +2136,8 @@
     "grantha_te": "పురాణమ్",
     "grantha_sa": "पुराणम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "daśakūpasamā vāpī daśavāpīsamo hradaḥ"
   },
   {
     "id": "dharma-026",
@@ -2038,7 +2153,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "dharmo viśvasya jagataḥ pratiṣṭhā"
   },
   {
     "id": "dharma-027",
@@ -2055,7 +2171,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "śraddhayā deyam । aśraddhayā'deyam"
   },
   {
     "id": "dharma-028",
@@ -2072,7 +2189,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "adharmeṇaidhate tāvat tato bhadrāṇi paśyati"
   },
   {
     "id": "dharma-029",
@@ -2089,7 +2207,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "satyasya vacanaṃ śreyaḥ satyādapi hitaṃ vadet"
   },
   {
     "id": "dharma-030",
@@ -2106,7 +2225,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "na jātu kāmānna bhayānna lobhād"
   },
   {
     "id": "vairagya-016",
@@ -2123,7 +2243,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "bhogā na bhuktā vayameva bhuktāḥ"
   },
   {
     "id": "vairagya-017",
@@ -2140,7 +2261,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "malini",
-    "chanda_te": "మాలినీ"
+    "chanda_te": "మాలినీ",
+    "firstline_iast": "vayamiha parituṣṭā valkalaistvaṃ ca lakṣmyā"
   },
   {
     "id": "vairagya-018",
@@ -2157,7 +2279,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "yāvatsvasthamidaṃ śarīramarujaṃ yāvacca dūre jarā"
   },
   {
     "id": "vairagya-019",
@@ -2174,7 +2297,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "mūḍha jahīhi dhanāgamatṛṣṇāṃ"
   },
   {
     "id": "vairagya-020",
@@ -2191,7 +2315,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "satsaṅgatve nissaṅgatvaṃ"
   },
   {
     "id": "vairagya-021",
@@ -2208,7 +2333,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "aṅgaṃ galitaṃ palitaṃ muṇḍaṃ"
   },
   {
     "id": "vairagya-022",
@@ -2225,7 +2351,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "geyaṃ gītānāmasahasraṃ"
   },
   {
     "id": "vairagya-023",
@@ -2242,7 +2369,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ"
   },
   {
     "id": "vairagya-024",
@@ -2259,7 +2387,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha"
   },
   {
     "id": "vairagya-025",
@@ -2276,7 +2405,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "mātarmedini tāta māruta sakhe tejaḥ subandho jala"
   },
   {
     "id": "bhakti-016",
@@ -2292,7 +2422,8 @@
     "grantha_te": "శ్రీమద్భాగవతమ్",
     "grantha_sa": "श्रीमद्भागवतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tvayi me'nanyaviṣayā matirmadhupate'sakṛt"
   },
   {
     "id": "bhakti-017",
@@ -2309,7 +2440,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "vasantatilaka",
-    "chanda_te": "వసన్తతిలకా"
+    "chanda_te": "వసన్తతిలకా",
+    "firstline_iast": "kṛṣṇa tvadīyapadapaṅkajapañjarāntaṃ"
   },
   {
     "id": "bhakti-018",
@@ -2326,7 +2458,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "mandakranta",
-    "chanda_te": "మన్దాక్రాన్తా"
+    "chanda_te": "మన్దాక్రాన్తా",
+    "firstline_iast": "nāsthā dharme na vasunicaye naiva kāmopabhoge"
   },
   {
     "id": "bhakti-019",
@@ -2342,7 +2475,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "api cetsudurācāro bhajate māmananyabhāk"
   },
   {
     "id": "bhakti-020",
@@ -2358,7 +2492,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati"
   },
   {
     "id": "bhakti-021",
@@ -2374,7 +2509,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca"
   },
   {
     "id": "bhakti-022",
@@ -2390,7 +2526,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "bahūnāṃ janmanāmante jñānavānmāṃ prapadyate"
   },
   {
     "id": "bhakti-023",
@@ -2407,7 +2544,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "sā tvasmin paramapremarūpā"
   },
   {
     "id": "bhakti-024",
@@ -2423,7 +2561,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati"
   },
   {
     "id": "bhakti-025",
@@ -2439,7 +2578,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam"
   },
   {
     "id": "karma-014",
@@ -2455,7 +2595,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya"
   },
   {
     "id": "karma-015",
@@ -2471,7 +2612,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "nehābhikramanāśo'sti pratyavāyo na vidyate"
   },
   {
     "id": "karma-016",
@@ -2487,7 +2629,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yadyadācarati śreṣṭhastattadevetaro janaḥ"
   },
   {
     "id": "karma-017",
@@ -2503,7 +2646,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara"
   },
   {
     "id": "karma-018",
@@ -2519,7 +2663,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ"
   },
   {
     "id": "karma-019",
@@ -2535,7 +2680,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam"
   },
   {
     "id": "karma-020",
@@ -2551,7 +2697,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sukhaduḥkhe same kṛtvā lābhālābhau jayājayau"
   },
   {
     "id": "karma-021",
@@ -2567,7 +2714,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ"
   },
   {
     "id": "karma-022",
@@ -2584,7 +2732,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "udyamaḥ sāhasaṃ dhairyaṃ buddhiḥ śaktiḥ parākramaḥ"
   },
   {
     "id": "karma-023",
@@ -2601,7 +2750,8 @@
     "grantha_te": "పఞ్చతన్త్రమ్",
     "grantha_sa": "पञ्चतन्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "karmāyattaṃ phalaṃ puṃsāṃ buddhiḥ karmānusāriṇī"
   },
   {
     "id": "seva-013",
@@ -2617,7 +2767,8 @@
     "grantha_te": "వేదమన్త్రాః",
     "grantha_sa": "वेदमन्त्राः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "śatahasta samāhara sahasrahasta saṃ kira"
   },
   {
     "id": "seva-014",
@@ -2633,7 +2784,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "dātavyamiti yaddānaṃ dīyate'nupakāriṇe"
   },
   {
     "id": "seva-015",
@@ -2649,7 +2801,8 @@
     "grantha_te": "శ్రీమద్భాగవతమ్",
     "grantha_sa": "श्रीमद्भागवतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yāvadbhriyeta jaṭharaṃ tāvatsvatvaṃ hi dehinām"
   },
   {
     "id": "seva-016",
@@ -2665,7 +2818,8 @@
     "grantha_te": "హితోపదేశః",
     "grantha_sa": "हितोपदेशः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sevitavyo mahāvṛkṣaḥ phalacchāyāsamanvitaḥ"
   },
   {
     "id": "seva-017",
@@ -2682,7 +2836,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "arya",
-    "chanda_te": "ఆర్యా"
+    "chanda_te": "ఆర్యా",
+    "firstline_iast": "dānaṃ priyavāksahitaṃ jñānamagarvaṃ kṣamānvitaṃ śauryam"
   },
   {
     "id": "seva-018",
@@ -2699,7 +2854,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "paropakaraṇaṃ yeṣāṃ jāgarti hṛdaye satām"
   },
   {
     "id": "seva-019",
@@ -2716,7 +2872,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "upakāriṣu yaḥ sādhuḥ sādhutve tasya ko guṇaḥ"
   },
   {
     "id": "seva-020",
@@ -2733,7 +2890,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "vamshastha",
-    "chanda_te": "వంశస్థమ్"
+    "chanda_te": "వంశస్థమ్",
+    "firstline_iast": "api svaśaktyā tapasi pravartase"
   },
   {
     "id": "seva-021",
@@ -2750,7 +2908,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "vajrādapi kaṭhorāṇi mṛdūni kusumādapi"
   },
   {
     "id": "seva-022",
@@ -2767,7 +2926,8 @@
     "grantha_te": "పఞ్చతన్త్రమ్",
     "grantha_sa": "पञ्चतन्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "dadāti pratigṛhṇāti guhyamākhyāti pṛcchati"
   },
   {
     "id": "niti-036",
@@ -2784,7 +2944,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "keyūrā na vibhūṣayanti puruṣaṃ hārā na candrojjvalāḥ"
   },
   {
     "id": "niti-037",
@@ -2801,7 +2962,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "vidyā nāma narasya rūpamadhikaṃ pracchannaguptaṃ dhanaṃ"
   },
   {
     "id": "niti-038",
@@ -2818,7 +2980,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "prithvi",
-    "chanda_te": "పృథ్వీ"
+    "chanda_te": "పృథ్వీ",
+    "firstline_iast": "labheta sikatāsu tailamapi yatnataḥ pīḍayan"
   },
   {
     "id": "niti-039",
@@ -2835,7 +2998,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "sampūrṇakumbho na karoti śabdaṃ"
   },
   {
     "id": "niti-040",
@@ -2852,7 +3016,8 @@
     "grantha_te": "పఞ్చతన్త్రమ్",
     "grantha_sa": "पञ्चतन्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "arthānāmarjane duḥkhamarjitānāṃ ca rakṣaṇe"
   },
   {
     "id": "niti-041",
@@ -2869,7 +3034,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "mūrkhasya pañca cihnāni garvo durvacanaṃ tathā"
   },
   {
     "id": "niti-042",
@@ -2886,7 +3052,8 @@
     "grantha_te": "హితోపదేశః",
     "grantha_sa": "हितोपदेशः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "nirguṇeṣvapi sattveṣu dayāṃ kurvanti sādhavaḥ"
   },
   {
     "id": "dharma-031",
@@ -2903,7 +3070,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "atithiryasya bhagnāśo gṛhātpratinivartate"
   },
   {
     "id": "dharma-032",
@@ -2920,7 +3088,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "mātsyanyāyamavartayat"
   },
   {
     "id": "dharma-033",
@@ -2937,7 +3106,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ekodarasamudbhūtā ekanakṣatrajātakāḥ"
   },
   {
     "id": "dharma-034",
@@ -2954,7 +3124,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "upādhyāyāndaśācārya ācāryāṇāṃ śataṃ pitā"
   },
   {
     "id": "dharma-035",
@@ -2971,7 +3142,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kālāya tasmai namaḥ"
   },
   {
     "id": "dharma-036",
@@ -2988,7 +3160,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "manaeva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ"
   },
   {
     "id": "dharma-037",
@@ -3005,7 +3178,8 @@
     "grantha_te": "వేదమన్త్రాః",
     "grantha_sa": "वेदमन्त्राः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam"
   },
   {
     "id": "dharma-038",
@@ -3021,7 +3195,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "adrohaḥ sarvabhūteṣu karmaṇā manasā girā ।"
   },
   {
     "id": "dharma-039",
@@ -3038,7 +3213,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tena tyaktena bhuñjīthā mā gṛdhaḥ kasyasviddhanam"
   },
   {
     "id": "dharma-040",
@@ -3054,7 +3230,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "dhṛtiḥ kṣamā damo'steyaṃ śaucamindriyanigrahaḥ ।"
   },
   {
     "id": "vairagya-026",
@@ -3070,7 +3247,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "nārīstanabhara nābhīdeśaṃ"
   },
   {
     "id": "vairagya-027",
@@ -3086,7 +3264,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "yāvadvittopārjanasaktaḥ"
   },
   {
     "id": "vairagya-028",
@@ -3103,7 +3282,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "gurucaraṇāmbujanirbharabhaktaḥ"
   },
   {
     "id": "vairagya-029",
@@ -3120,7 +3300,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "suramandiratarumūlanivāsaḥ"
   },
   {
     "id": "vairagya-030",
@@ -3137,7 +3318,8 @@
     "grantha_te": "భజగోవిన్దమ్",
     "grantha_sa": "भजगोविन्दम्",
     "chanda_key": "matrasamaka",
-    "chanda_te": "మాత్రాసమకమ్"
+    "chanda_te": "మాత్రాసమకమ్",
+    "firstline_iast": "kāmaṃ krodhaṃ lobhaṃ mohaṃ"
   },
   {
     "id": "vairagya-031",
@@ -3154,7 +3336,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "āśā nāma nadī manorathajalā tṛṣṇātaraṅgākulā"
   },
   {
     "id": "vairagya-032",
@@ -3171,7 +3354,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "vane ramye vasedyogī vāriṇyagnau ca nirmale"
   },
   {
     "id": "vairagya-033",
@@ -3188,7 +3372,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kṣaṇaṃ cittaṃ kṣaṇaṃ vittaṃ kṣaṇaṃ jīvitamāvayoḥ"
   },
   {
     "id": "vairagya-034",
@@ -3204,7 +3389,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ"
   },
   {
     "id": "vairagya-035",
@@ -3220,7 +3406,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate"
   },
   {
     "id": "bhakti-027",
@@ -3236,7 +3423,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "priyo hi jñānino'tyarthamahaṃ sa ca mama priyaḥ"
   },
   {
     "id": "bhakti-028",
@@ -3252,7 +3440,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "samo'haṃ sarvabhūteṣu na me dveṣyo'sti na priyaḥ"
   },
   {
     "id": "bhakti-029",
@@ -3268,7 +3457,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ"
   },
   {
     "id": "bhakti-030",
@@ -3285,7 +3475,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "dehabuddhyā tu dāso'haṃ jīvabuddhyā tvadaṃśakaḥ"
   },
   {
     "id": "bhakti-031",
@@ -3301,7 +3492,8 @@
     "grantha_te": "శ్రీమద్భాగవతమ్",
     "grantha_sa": "श्रीमद्भागवतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "śravaṇaṃ kīrtanaṃ viṣṇoḥ smaraṇaṃ pādasevanam"
   },
   {
     "id": "bhakti-032",
@@ -3318,7 +3510,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "yathā vrajagopikānām"
   },
   {
     "id": "bhakti-033",
@@ -3335,7 +3528,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "yallabdhvā na kiñcidvāñchati na śocati na dveṣṭi na ramate"
   },
   {
     "id": "bhakti-034",
@@ -3352,7 +3546,8 @@
     "grantha_te": "పురాణమ్",
     "grantha_sa": "पुराणम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yathā hyekena cakreṇa na rathasya gatirbhavet"
   },
   {
     "id": "bhakti-035",
@@ -3369,7 +3564,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "malini",
-    "chanda_te": "మాలినీ"
+    "chanda_te": "మాలినీ",
+    "firstline_iast": "karacaraṇakṛtaṃ vākkāyajaṃ karmajaṃ vā"
   },
   {
     "id": "karma-024",
@@ -3386,7 +3582,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "mātā śatruḥ pitā vairī yena bālo na pāṭhitaḥ"
   },
   {
     "id": "karma-025",
@@ -3402,7 +3599,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ"
   },
   {
     "id": "karma-026",
@@ -3418,7 +3616,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "annādbhavanti bhūtāni parjanyādannasambhavaḥ"
   },
   {
     "id": "karma-027",
@@ -3434,7 +3633,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sarvabhūtasthamātmānaṃ sarvabhūtāni cātmani"
   },
   {
     "id": "karma-028",
@@ -3450,7 +3650,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī"
   },
   {
     "id": "karma-029",
@@ -3466,7 +3667,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ"
   },
   {
     "id": "karma-030",
@@ -3482,7 +3684,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate"
   },
   {
     "id": "karma-031",
@@ -3498,7 +3701,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "śītoṣṇasukhaduḥkheṣu samo mānāvamānayoḥ"
   },
   {
     "id": "karma-032",
@@ -3514,7 +3718,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "saṅgaṃ tyaktvā phalaṃ caiva kartā triguṇasaṃśrayaḥ"
   },
   {
     "id": "karma-033",
@@ -3530,7 +3735,8 @@
     "grantha_te": "హితోపదేశః",
     "grantha_sa": "हितोपदेशः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yathā hyekena cakreṇa na rathasya gatirbhavet"
   },
   {
     "id": "seva-023",
@@ -3547,7 +3753,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sarveṣāmeva dānānāṃ brahmadānaṃ viśiṣyate"
   },
   {
     "id": "seva-024",
@@ -3564,7 +3771,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "vṛkṣāḥ sajjanavat prāyo lokopakṛtihetavaḥ"
   },
   {
     "id": "seva-025",
@@ -3581,7 +3789,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ayamātmā nadītīre yathā vṛkṣo na tiṣṭhati"
   },
   {
     "id": "seva-026",
@@ -3597,7 +3806,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ"
   },
   {
     "id": "seva-027",
@@ -3614,7 +3824,8 @@
     "grantha_te": "ఉపనిషదః",
     "grantha_sa": "उपनिषदः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "annaṃ brahmeti vyajānāt"
   },
   {
     "id": "seva-028",
@@ -3631,7 +3842,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "na deyaṃ kṣudrayācñāyai na dānaṃ saphalaṃ laghu"
   },
   {
     "id": "seva-029",
@@ -3648,7 +3860,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "parasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha"
   },
   {
     "id": "seva-030",
@@ -3665,7 +3878,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "vasantatilaka",
-    "chanda_te": "వసన్తతిలకా"
+    "chanda_te": "వసన్తతిలకా",
+    "firstline_iast": "kṣudro nadīṣu taṭinī na sāgaratvaṃ"
   },
   {
     "id": "seva-031",
@@ -3682,7 +3896,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "abhayaṃ sarvabhūtebhyo dadāti yadi jīvati"
   },
   {
     "id": "seva-032",
@@ -3699,7 +3914,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "na sā sabhā yatra na santi vṛddhāḥ"
   },
   {
     "id": "niti-043",
@@ -3716,7 +3932,8 @@
     "grantha_te": "పఞ్చతన్త్రమ్",
     "grantha_sa": "पञ्चतन्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "parīkṣya lokatattvāni parīkṣya gurulāghavam"
   },
   {
     "id": "niti-044",
@@ -3733,7 +3950,8 @@
     "grantha_te": "పఞ్చతన్త్రమ్",
     "grantha_sa": "पञ्चतन्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "buddhiryasya balaṃ tasya nirbuddhestu kuto balam"
   },
   {
     "id": "niti-045",
@@ -3750,7 +3968,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "śakyo vārayituṃ jalena hutabhukchatreṇa sūryātapo"
   },
   {
     "id": "niti-046",
@@ -3767,7 +3986,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "vamshastha",
-    "chanda_te": "వంశస్థమ్"
+    "chanda_te": "వంశస్థమ్",
+    "firstline_iast": "parasya yoṣitsamavāptasampado"
   },
   {
     "id": "niti-047",
@@ -3784,7 +4004,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "tṛṣṇāṃ chindhi bhaja kṣamāṃ jahi madaṃ pāpe ratiṃ mā kṛthāḥ"
   },
   {
     "id": "niti-048",
@@ -3801,7 +4022,8 @@
     "grantha_te": "పఞ్చతన్త్రమ్",
     "grantha_sa": "पञ्चतन्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "aviśvasto viśvāsasaṃ ati viśvāsasaṃ tyajet"
   },
   {
     "id": "niti-049",
@@ -3818,7 +4040,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "nāsti buddhisamaṃ cakṣurnāsti satyasamaṃ balam"
   },
   {
     "id": "niti-050",
@@ -3835,7 +4058,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "nirvyājaṃ nayanaṃ mukhaṃ ca madhuraṃ nābhīsaro nirmalaṃ"
   },
   {
     "id": "niti-051",
@@ -3852,7 +4076,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "arthanāśaṃ manastāpaṃ gṛhiṇī caritāni ca"
   },
   {
     "id": "niti-052",
@@ -3869,7 +4094,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tailādrakṣet jalādrakṣet rakṣecchithilabandhanāt"
   },
   {
     "id": "dharma-041",
@@ -3885,7 +4111,8 @@
     "grantha_te": "వేదమన్త్రాః",
     "grantha_sa": "वेदमन्त्राः",
     "chanda_key": "non-vrtta",
-    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+    "chanda_te": "గద్య / వైదికమ్ / సూక్తిః",
+    "firstline_iast": "oṃ dyauḥ śāntirantarikṣaṃ śāntiḥ"
   },
   {
     "id": "dharma-042",
@@ -3902,7 +4129,8 @@
     "grantha_te": "అన్యత్",
     "grantha_sa": "अन्यत्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ajñānatimirāndhasya jñānāñjanaśalākayā"
   },
   {
     "id": "dharma-043",
@@ -3919,7 +4147,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "prajāsukhe sukhaṃ rājñaḥ prajānāṃ ca hite hitam"
   },
   {
     "id": "dharma-044",
@@ -3936,7 +4165,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yasmin kuṭumbe yuktānāṃ vṛddhānāṃ cānuvartanam"
   },
   {
     "id": "dharma-045",
@@ -3952,7 +4182,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ"
   },
   {
     "id": "dharma-046",
@@ -3969,7 +4200,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tathā caturvidhaṃ vācastapaḥ paramamucyate"
   },
   {
     "id": "dharma-047",
@@ -3985,7 +4217,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "abhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ"
   },
   {
     "id": "dharma-048",
@@ -4001,7 +4234,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ"
   },
   {
     "id": "dharma-049",
@@ -4018,7 +4252,8 @@
     "grantha_te": "మహాభారతమ్",
     "grantha_sa": "महाभारतम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kālaḥ pacati bhūtāni kālaḥ saṃharate prajāḥ"
   },
   {
     "id": "dharma-050",
@@ -4035,7 +4270,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ācāraḥ paramo dharmaḥ śrutyuktaḥ smārta eva ca"
   },
   {
     "id": "vairagya-036",
@@ -4051,7 +4287,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "āpūryamāṇamacalapratiṣṭhaṃ"
   },
   {
     "id": "vairagya-037",
@@ -4067,7 +4304,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati"
   },
   {
     "id": "vairagya-038",
@@ -4083,7 +4321,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ"
   },
   {
     "id": "vairagya-039",
@@ -4099,7 +4338,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "valībhirmukhamākrāntaṃ palitenāṅkitaṃ śiraḥ"
   },
   {
     "id": "vairagya-040",
@@ -4115,7 +4355,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "shardula",
-    "chanda_te": "శార్దూలవిక్రీడితమ్"
+    "chanda_te": "శార్దూలవిక్రీడితమ్",
+    "firstline_iast": "bhrāntaṃ deśamanekadurgaviṣamaṃ prāptaṃ na kiñcitphalaṃ"
   },
   {
     "id": "bhakti-026",
@@ -4131,7 +4372,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya"
   },
   {
     "id": "bhakti-036",
@@ -4147,7 +4389,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ"
   },
   {
     "id": "karma-034",
@@ -4163,7 +4406,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "traiguṇyaviṣayā vedā nistraiguṇyo bhavārjuna"
   },
   {
     "id": "karma-035",
@@ -4179,7 +4423,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam"
   },
   {
     "id": "karma-036",
@@ -4195,7 +4440,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham"
   },
   {
     "id": "karma-037",
@@ -4211,7 +4457,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "arya",
-    "chanda_te": "ఆర్యా"
+    "chanda_te": "ఆర్యా",
+    "firstline_iast": "sāhase śrīḥ prativasati sāhase vasati lakṣmīḥ"
   },
   {
     "id": "karma-038",
@@ -4227,7 +4474,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "vasantatilaka",
-    "chanda_te": "వసన్తతిలకా"
+    "chanda_te": "వసన్తతిలకా",
+    "firstline_iast": "ārabhyate na khalu vighnabhayena nīcaiḥ"
   },
   {
     "id": "seva-033",
@@ -4243,7 +4491,8 @@
     "grantha_te": "హితోపదేశః",
     "grantha_sa": "हितोपदेशः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "āpadarthe dhanaṃ rakṣeddārānrakṣeddhanairapi"
   },
   {
     "id": "seva-034",
@@ -4259,7 +4508,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā"
   },
   {
     "id": "seva-035",
@@ -4275,7 +4525,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca"
   },
   {
     "id": "niti-053",
@@ -4291,7 +4542,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tyajedekaṃ kulasyārthe grāmasyārthe kulaṃ tyajet"
   },
   {
     "id": "niti-054",
@@ -4307,7 +4559,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tyaja durjanasaṃsargaṃ bhaja sādhusamāgamam"
   },
   {
     "id": "niti-055",
@@ -4323,7 +4576,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "dhanadhānyaprayogeṣu vidyāsaṅgrahaṇeṣu ca"
   },
   {
     "id": "niti-056",
@@ -4339,7 +4593,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "eko'pi guṇavānputro nirguṇena śatena kim"
   },
   {
     "id": "niti-057",
@@ -4355,7 +4610,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "parokṣe kāryahantāraṃ pratyakṣe priyavādinam"
   },
   {
     "id": "niti-058",
@@ -4371,7 +4627,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "utsave vyasane caiva durbhikṣe rāṣṭraviplave"
   },
   {
     "id": "dharma-051",
@@ -4387,7 +4644,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "śreyāndravyamayādyajñājjñānayajñaḥ parantapa"
   },
   {
     "id": "dharma-052",
@@ -4403,7 +4661,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sattvānurūpā sarvasya śraddhā bhavati bhārata"
   },
   {
     "id": "dharma-053",
@@ -4419,7 +4678,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "daṇḍa eva prajāḥ sarvā rakṣati pracyute hi saḥ"
   },
   {
     "id": "dharma-054",
@@ -4435,7 +4695,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "brahmārpaṇaṃ brahma havirbrahmāgnau brahmaṇā hutam"
   },
   {
     "id": "dharma-055",
@@ -4451,7 +4712,8 @@
     "grantha_te": "ధర్మశాస్త్రమ్",
     "grantha_sa": "धर्मशास्त्रम्",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "santuṣṭo bhāryayā bhartā bhartrā bhāryā tathaiva ca"
   },
   {
     "id": "dharma-056",
@@ -4467,7 +4729,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "idaṃ śarīraṃ kaunteya kṣetramityabhidhīyate"
   },
   {
     "id": "dharma-057",
@@ -4483,7 +4746,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ"
   },
   {
     "id": "bhakti-037",
@@ -4499,7 +4763,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "kleśo'dhikatarasteṣāmavyaktāsaktacetasām"
   },
   {
     "id": "bhakti-038",
@@ -4515,7 +4780,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "teṣāmevānukampārthamahamajñānajaṃ tamaḥ"
   },
   {
     "id": "bhakti-039",
@@ -4531,7 +4797,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati"
   },
   {
     "id": "karma-039",
@@ -4547,7 +4814,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ajñaścāśraddadhānaśca saṃśayātmā vinaśyati"
   },
   {
     "id": "karma-040",
@@ -4563,7 +4831,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ"
   },
   {
     "id": "seva-036",
@@ -4579,7 +4848,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sadṛśaṃ ceṣṭate svasyāḥ prakṛterjñānavānapi"
   },
   {
     "id": "seva-037",
@@ -4595,7 +4865,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "indriyasyendriyasyārthe rāgadveṣau vyavasthitau"
   },
   {
     "id": "vairagya-041",
@@ -4611,7 +4882,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām"
   },
   {
     "id": "vairagya-042",
@@ -4627,7 +4899,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "avināśi tu tadviddhi yena sarvamidaṃ tatam"
   },
   {
     "id": "vairagya-043",
@@ -4643,7 +4916,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "ihaiva tairjitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ"
   },
   {
     "id": "niti-059",
@@ -4659,7 +4933,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "anekasaṃśayocchedi parokṣārthasya darśakam"
   },
   {
     "id": "niti-060",
@@ -4675,7 +4950,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "sukhasya duḥkhasya na ko'pi dātā"
   },
   {
     "id": "niti-061",
@@ -4691,7 +4967,8 @@
     "grantha_te": "భర్తృహరిశతకత్రయమ్",
     "grantha_sa": "भर्तृहरिशतकत्रयम्",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "sāhityasaṅgītakalāvihīnaḥ sākṣātpaśuḥ pucchaviṣāṇahīnaḥ ।"
   },
   {
     "id": "dharma-058",
@@ -4707,7 +4984,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ"
   },
   {
     "id": "dharma-059",
@@ -4723,7 +5001,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ"
   },
   {
     "id": "dharma-060",
@@ -4739,7 +5018,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau"
   },
   {
     "id": "bhakti-040",
@@ -4755,7 +5035,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "raso'hamapsu kaunteya prabhāsmi śaśisūryayoḥ"
   },
   {
     "id": "bhakti-041",
@@ -4771,7 +5052,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā"
   },
   {
     "id": "karma-041",
@@ -4787,7 +5069,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "karpaṇyadoṣamupahatasvabhāvaḥ"
   },
   {
     "id": "karma-042",
@@ -4803,7 +5086,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "dūreṇa hyavaraṃ karma buddhiyogāddhanañjaya"
   },
   {
     "id": "seva-038",
@@ -4819,7 +5103,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "vidyāvinayasampanne brāhmaṇe gavi hastini"
   },
   {
     "id": "seva-039",
@@ -4835,7 +5120,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "anabhyāse viṣaṃ vidyā ajīrṇe bhojanaṃ viṣam"
   },
   {
     "id": "vairagya-044",
@@ -4851,7 +5137,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "śanaiḥ śanairuparamedbuddhyā dhṛtigṛhītayā"
   },
   {
     "id": "vairagya-045",
@@ -4867,7 +5154,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "viṣayā vinivartante nirāhārasya dehinaḥ"
   },
   {
     "id": "niti-062",
@@ -4883,7 +5171,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "dūrastho'pi na dūrastho yo yasya manasi sthitaḥ"
   },
   {
     "id": "niti-063",
@@ -4899,7 +5188,8 @@
     "grantha_te": "చాణక్యనీతిః",
     "grantha_sa": "चाणक्यनीतिः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "parokṣe yasya durvṛttaṃ pratyakṣe priyasambhāṣī"
   },
   {
     "id": "dharma-061",
@@ -4915,7 +5205,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yasmātkṣaramatīto'hamakṣarādapi cottamaḥ"
   },
   {
     "id": "bhakti-042",
@@ -4931,7 +5222,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "caturvidhā bhajante māṃ janāḥ sukṛtino'rjuna"
   },
   {
     "id": "karma-043",
@@ -4947,7 +5239,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate"
   },
   {
     "id": "seva-040",
@@ -4963,7 +5256,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "apare niyatāhārāḥ prāṇānprāṇeṣu juhvati"
   },
   {
     "id": "vairagya-046",
@@ -4979,7 +5273,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yathā dīpo nivātastho neṅgate sopamā smṛtā"
   },
   {
     "id": "dharma-062",
@@ -4995,7 +5290,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "dvāvimau puruṣau loke kṣaraścākṣara eva ca"
   },
   {
     "id": "niti-064",
@@ -5011,7 +5307,8 @@
     "grantha_te": "సుభాషితసఙ్గ్రహః",
     "grantha_sa": "सुभाषितसङ्ग्रहः",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "yasya nāsti svayaṃ prajñā buddhirvā buddhimatsakhā"
   },
   {
     "id": "bhakti-043",
@@ -5027,7 +5324,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "maccittā madgataprāṇā bodhayantaḥ parasparam"
   },
   {
     "id": "karma-044",
@@ -5043,7 +5341,8 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "upajati",
-    "chanda_te": "ఉపజాతిః"
+    "chanda_te": "ఉపజాతిః",
+    "firstline_iast": "tasmāttvamuttiṣṭha yaśo labhasva"
   },
   {
     "id": "seva-041",
@@ -5059,6 +5358,7 @@
     "grantha_te": "శ్రీమద్భగవద్గీతా",
     "grantha_sa": "श्रीमद्भगवद्गीता",
     "chanda_key": "anushtubh",
-    "chanda_te": "అనుష్టుప్"
+    "chanda_te": "అనుష్టుప్",
+    "firstline_iast": "vihāya kāmānyaḥ sarvānpumāṃścarati niḥspṛhaḥ"
   }
 ]
