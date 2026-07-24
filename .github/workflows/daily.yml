@@ -9,7 +9,16 @@ on:
     # GitHub cron is UTC and ignores DST; two crons hit 4 AM Sydney year-round.
     - cron: "0 17 * * *"   # 4 AM AEDT / 5 AM AEST
     - cron: "0 18 * * *"   # 4 AM AEST / 5 AM AEDT
-  workflow_dispatch: {}    # manual "run now" — bypasses the hour gate
+  workflow_dispatch:       # manual "run now" — bypasses the hour gate
+    inputs:
+      feeds:
+        description: "Comma-separated feed ids to run (blank = all)."
+        required: false
+        default: ""
+      script:
+        description: "Verse script: te | sa | iast (blank = each feed's default)."
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -25,6 +34,8 @@ jobs:
       config: daily/config.json
       deploy_workflow: deploy.yml
       force: ${{ github.event_name == 'workflow_dispatch' }}
+      feeds: ${{ inputs.feeds }}
+      script: ${{ inputs.script }}
     secrets:
       ARCHIVE_TOKEN:  ${{ secrets.ARCHIVE_TOKEN }}
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
