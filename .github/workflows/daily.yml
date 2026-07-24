@@ -17,7 +17,9 @@ permissions:
 
 jobs:
   daily:
-    if: ${{ hashFiles('daily/config.json') != '' }}   # no-op if daily/ is removed
+    # (No hashFiles guard here: a caller `if` is evaluated before any checkout,
+    # so it would always be empty and skip the job. To remove the feature, delete
+    # this workflow file — see README §12.)
     uses: npidaparthy/samskruti-archives/.github/workflows/daily-reusable.yml@main
     with:
       config: daily/config.json
