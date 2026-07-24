@@ -1,0 +1,30 @@
+# Daily verse card — caller workflow (lives in the samskruti site repo).
+# Calls the central reusable generator in samskruti-archives, which renders each
+# feed's card, commits daily/<feed>/today.* back here, archives dated copies, and
+# dispatches the Pages deploy so the live site refreshes.
+name: Daily verse card
+
+on:
+  schedule:
+    # GitHub cron is UTC and ignores DST; two crons hit 4 AM Sydney year-round.
+    - cron: "0 17 * * *"   # 4 AM AEDT / 5 AM AEST
+    - cron: "0 18 * * *"   # 4 AM AEST / 5 AM AEDT
+  workflow_dispatch: {}    # manual "run now" — bypasses the hour gate
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  daily:
+    # (No hashFiles guard here: a caller `if` is evaluated before any checkout,
+    # so it would always be empty and skip the job. To remove the feature, delete
+    # this workflow file — see README §12.)
+    uses: npidaparthy/samskruti-archives/.github/workflows/daily-reusable.yml@main
+    with:
+      config: daily/config.json
+      deploy_workflow: deploy.yml
+      force: ${{ github.event_name == 'workflow_dispatch' }}
+    secrets:
+      ARCHIVE_TOKEN:  ${{ secrets.ARCHIVE_TOKEN }}
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
