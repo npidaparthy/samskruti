@@ -56,7 +56,24 @@
       "telegram": {
         "enabled": false,
         "chatIds": []
-      }
+      },
+      "variants": [
+        {
+          "id": "te",
+          "label": "తెలుగు"
+        },
+        {
+          "id": "en",
+          "label": "English",
+          "fieldMap": {
+            "verse": "shlokam.iast",
+            "meaning": "meaning.en",
+            "commentary": "tatparyam.en",
+            "source": "granthaH.name_en"
+          },
+          "script": "iast"
+        }
+      ]
     },
     {
       "id": "dindima",
@@ -83,7 +100,24 @@
       "telegram": {
         "enabled": false,
         "chatIds": []
-      }
+      },
+      "variants": [
+        {
+          "id": "te",
+          "label": "తెలుగు"
+        },
+        {
+          "id": "en",
+          "label": "English",
+          "fieldMap": {
+            "verse": "shlokam.iast",
+            "meaning": "meaning.en",
+            "commentary": "tatparyam.en",
+            "source": "granthaH.name_en"
+          },
+          "script": "iast"
+        }
+      ]
     },
     {
       "id": "yogasutra",
@@ -116,7 +150,21 @@
       "telegram": {
         "enabled": false,
         "chatIds": []
-      }
+      },
+      "variants": [
+        {
+          "id": "te",
+          "label": "తెలుగు"
+        },
+        {
+          "id": "en",
+          "label": "English",
+          "fieldMap": {
+            "meaning": "en.s",
+            "commentary": "en.d"
+          }
+        }
+      ]
     },
     {
       "id": "stotram",
