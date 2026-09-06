@@ -1,0 +1,40 @@
+{
+  "id": "bhakti-039",
+  "tags": [
+    "bhakti",
+    "brahmi-sthiti"
+  ],
+  "shlokam": {
+    "te": "బ్రహ్మభూతః ప్రసన్నాత్మా న శోచతి న కాఙ్క్షతి ।\nసమః సర్వేషు భూతేషు మద్భక్తిం లభతే పరామ్ ॥",
+    "sa": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥",
+    "iast": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati ।\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Mokṣa Sannyāsa Yoga)",
+    "chapter": "18.54",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "బ్రహ్మభూతః | ప్రసన్నాత్మా | న | శోచతి | న | కాంక్షతి | సమః | సర్వేషు | భూతేషు | మద్భక్తిమ్ | లభతే | పరామ్",
+    "en": "brahmabhūtaḥ | prasannātmā | na | śocati | na | kāṅkṣati | samaḥ | sarveṣu | bhūteṣu | madbhaktim | labhate | parām"
+  },
+  "anvayam": {
+    "te": "బ్రహ్మభూతః ప్రసన్నాత్మా న శోచతి, న కాంక్షతి; సర్వేషు భూతేషు సమః (సన్), మద్భక్తిం పరాం లభతే.",
+    "en": "Brahmabhūtaḥ (having become one with Brahman) prasannātmā (of tranquil mind), na śocati (he grieves not), na kāṅkṣati (nor does he crave); samaḥ sarveṣu bhūteṣu (equal toward all beings), madbhaktiṃ parāṃ labhate (he attains supreme devotion to me)."
+  },
+  "meaning": {
+    "te": "బ్రహ్మభావం పొందినవాడు, ప్రసన్నచిత్తుడు, దుఃఖించడు, కోరుకోడు. సర్వప్రాణులయందు సముడై, నా యందు పరమభక్తిని పొందుతాడు.",
+    "en": "One who has become one with Brahman, of tranquil mind, neither grieves nor craves. Equal toward all beings, he attains supreme devotion to me."
+  },
+  "tatparyam": {
+    "te": "జ్ఞానమార్గం చివరకు భక్తిమార్గంలో కలుస్తుందని చాటే అపూర్వమైన శ్లోకం. బ్రహ్మసాక్షాత్కారం పొందిన జ్ఞాని — దుఃఖరహితుడై, కోరికారహితుడై, సమదృష్టి కలిగినవాడై — ఆ స్థితి నుండే 'పరాభక్తి'ని పొందుతాడని చెప్పడం విశేషం. అంటే జ్ఞానం అంతిమగమ్యం కాదు, భక్తికి ద్వారం అని ఈ శ్లోకం సూచిస్తుంది. అద్వైతజ్ఞానమూ, భగవద్భక్తీ పరస్పరవిరుద్ధాలు కావని, ఒకటి రెండోదానికి సహజంగా దారితీస్తుందని చాటే ఈ శ్లోకం — జ్ఞానమార్గంలోని పరిపూర్ణత భక్తిలో ప్రస్ఫుటమవుతుందని చూపే వేదాంతసమన్వయ సూత్రం.",
+    "en": "A remarkable verse showing that the path of knowledge ultimately merges into the path of devotion. It is notable that the jnani who has realised Brahman — free of grief, free of craving, holding an equal view of all — attains, from that very state, 'para bhakti', supreme devotion. This suggests that knowledge is not the final destination but the doorway to devotion. This verse — showing that Advaita realisation and devotion to the Lord are not opposites, one naturally flowing into the other — is a Vedantic principle of reconciliation, showing that the fulfilment of the path of knowledge becomes visible in devotion."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

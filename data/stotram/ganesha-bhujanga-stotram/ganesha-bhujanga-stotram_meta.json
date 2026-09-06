@@ -1,0 +1,24 @@
+{
+  "slug": "ganesha-bhujanga-stotram",
+  "title_te": "గణేశభుజఙ్గస్తోత్రమ్",
+  "title_sa": "गणेशभुजङ्गस्तोत्रम्",
+  "title_en": "Gaṇeśabhujaṅgastotram",
+  "description_en": "A stotram on Lord Gaṇeśa composed in the Bhujaṅgaprayāta metre — a serpentine rhythm that flows in undulating waves, traditionally associated with Śiva and Śakti hymns. Attributed to Ādi Śaṅkarācārya. Praises Gaṇeśa as the cosmic lord who grants wisdom, prosperity, and liberation.",
+  "description_te": "భుజఙ్గప్రయాత వృత్తంలో రచించిన గణేశ స్తోత్రం. ఈ వృత్తం సర్పం వలె ప్రవహించే లయను కలిగి ఉంటుంది. శంకరాచార్యులకు ఆపాదించబడిన ఈ స్తోత్రం జ్ఞానం, సంపద మరియు మోక్షాన్ని ఇచ్చే గణేశుని కీర్తిస్తుంది.",
+  "description_sa": "भुजङ्गप्रयातवृत्ते विरचितं गणेशस्तोत्रम्, आदिशङ्करकृतमिति प्रसिद्धम्। ज्ञानसम्पन्मोक्षप्रदं गणेशं स्तौति।",
+  "theme": "orange",
+  "tags": [
+    "ganesha",
+    "shankaracharya"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "గణేశభుజఙ్గస్తోత్రమ్",
+      "title_sa": "गणेशभुजङ्गस्तोत्रम्",
+      "title_en": "Gaṇeśabhujaṅgastotram",
+      "file": "ganesha-bhujanga-stotram.txt"
+    }
+  ]
+}

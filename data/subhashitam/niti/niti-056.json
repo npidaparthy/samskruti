@@ -1,0 +1,40 @@
+{
+  "id": "niti-056",
+  "tags": [
+    "niti",
+    "mrga-simha"
+  ],
+  "shlokam": {
+    "te": "ఏకోఽపి గుణవాన్పుత్రో నిర్గుణేన శతేన కిమ్ ।\nఏకశ్చన్ద్రస్తమో హన్తి న చ తారాగ ణోఽపి చ ॥",
+    "sa": "एकोऽपि गुणवान्पुत्रो निर्गुणेन शतेन किम् ।\nएकश्चन्द्रस्तमो हन्ति न च ताराग णोऽपि च ॥",
+    "iast": "eko'pi guṇavānputro nirguṇena śatena kim ।\nekaścandrastamo hanti na ca tārāga ṇo'pi ca ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "3.16",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "ఏకః | అపి | గుణవాన్ | పుత్రః | నిర్గుణేన | శతేన | కిమ్ | ఏకః | చన్ద్రః | తమః | హన్తి | న | చ | తారాగణః | అపి | చ",
+    "en": "ekaḥ | api | guṇavān | putraḥ | nirguṇena | śatena | kim | ekaḥ | candraḥ | tamaḥ | hanti | na | ca | tārāgaṇaḥ | api | ca"
+  },
+  "anvayam": {
+    "te": "ఏకః అపి గుణవాన్ పుత్రః (శ్రేష్ఠః); నిర్గుణేన శతేన కిమ్? ఏకః చన్ద్రః తమః హన్తి; తారాగణః అపి చ న (హన్తి).",
+    "en": "Ekaḥ api guṇavān putraḥ (a single virtuous son alone) (is worth more); nirguṇena śatena kim (what use are a hundred worthless ones)? Ekaḥ candraḥ tamaḥ hanti (a single moon dispels the darkness); tārāgaṇaḥ api ca na (even a multitude of stars cannot)."
+  },
+  "meaning": {
+    "te": "ఒక్క గుణవంతుడైన పుత్రుడే చాలు; నూరు గుణహీనులతో ఏం ప్రయోజనం? ఒక్క చంద్రుడే చీకటిని పోగొడతాడు — నక్షత్రాల సమూహం అలా చేయలేదు.",
+    "en": "A single virtuous son alone is enough — what use are a hundred worthless ones? A single moon dispels the darkness; a multitude of stars cannot do the same."
+  },
+  "tatparyam": {
+    "te": "గుణాత్మకతనూ, పరిమాణాత్మకతనూ ఎదుర్కొనే చిత్రమైన ఉపమానం — చంద్రుడు, నక్షత్రాలు. ఆకాశంలో లెక్కలేనన్ని నక్షత్రాలున్నా చీకటిని పోగొట్టేది ఒక్క చంద్రుడే; అలాగే వందమంది సాధారణులకన్నా ఒక్క గుణవంతుడైన సంతానం కుటుంబానికీ, సమాజానికీ ఎక్కువ వెలుగు తెస్తాడు. సంఖ్య ముఖ్యం కాదు, గుణమే ముఖ్యమన్న ఈ సూత్రం — పిల్లల పెంపకంలోనూ, బృందనిర్మాణంలోనూ, ఏ రంగంలోనైనా — నాణ్యత పరిమాణాన్ని మించిపోతుందని చాటుతుంది.",
+    "en": "A striking image contrasting quality with quantity — the moon and the stars. However countless the stars in the sky, it is the single moon that dispels the darkness; likewise, one virtuous child brings more light to a family and society than a hundred ordinary ones. This principle — that quality matters, not number — holds true in raising children, in building teams, in any field: quality always outweighs quantity."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

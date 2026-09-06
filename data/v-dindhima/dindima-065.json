@@ -1,0 +1,35 @@
+{
+  "id": "dindima-065",
+  "tags": [
+    "dindima",
+    "nama-mithya",
+    "jiva-brahma-abheda"
+  ],
+  "shlokam": {
+    "te": "న జీవబ్రహ్మణోర్భేదో నామ్నా రూపేణ విద్యతే ।\nనామ్నో రూపస్య మిథ్యాత్వాదితి వేదాన్తడిణ్డిమః ॥ ౬౫ ॥",
+    "sa": "न जीवब्रह्मणोर्भेदो नाम्ना रूपेण विद्यते ।\nनाम्नो रूपस्य मिथ्यात्वादिति वेदान्तडिण्डिमः ॥ ६५ ॥",
+    "iast": "na jīvabrahmaṇorbhedo nāmnā rūpeṇa vidyate ।\nnāmno rūpasya mithyātvāditi vedāntaḍiṇḍimaḥ ॥ 65 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 65"
+  },
+  "padavibhagam": {
+    "te": "న | జీవబ్రహ్మణోః | భేదః | నామ్నా | రూపేణ | విద్యతే | నామ్నః | రూపస్య | మిథ్యాత్వాత్ | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "na | jīvabrahmaṇoḥ | bhedaḥ | nāmnā | rūpeṇa | vidyate | nāmnaḥ | rūpasya | mithyātvāt | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "నామ్నా రూపేణ జీవబ్రహ్మణోః భేదః న విద్యతే; నామ్నః రూపస్య చ మిథ్యాత్వాత్ — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Nāmnā rūpeṇa (by name and form) jīvabrahmaṇoḥ bhedaḥ na vidyate (no difference exists between the individual and Brahman); nāmnaḥ rūpasya ca mithyātvāt (because name and form are themselves unreal) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "నామరూపాలతో జీవబ్రహ్మల మధ్య భేదం లేదు — ఎందుకంటే నామరూపాలే మిథ్య — ఇది వేదాంతడిండిమం.",
+    "en": "No difference between the individual and Brahman can be established through name and form — because name and form are themselves unreal. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "62-64 శ్లోకాలు 'ఏ లక్షణంలోనూ భేదం లేదు' అని చూపితే, ఈ శ్లోకం ఆ వాదానికి మరో పొరను జోడిస్తుంది — భేదమనేది కనిపిస్తే అది కేవలం నామరూపాల స్థాయిలోనే, అవి కూడా మిథ్యే. జీవుడు 'రాముడు' అనే పేరుతో, ఒక నిర్దిష్ట శరీరరూపంతో కనిపిస్తాడు; బ్రహ్మం నామరూపరహితం — పైకి చూస్తే ఇద్దరి మధ్యా భేదం స్పష్టంగా కనిపిస్తుంది. కానీ 61వ శ్లోకంలో చూపినట్లు నామరూపాలే స్థిరత్వం లేనివి, మిథ్యే అయినప్పుడు, వాటి ఆధారంగా చూపే భేదానికి విలువ ఏముంటుంది? అసత్యమైనదానితో నిరూపించిన భేదం అసత్యమే కావాలి కదా అని ఈ శ్లోకం తర్కబద్ధంగా చాటుతుంది.",
+    "en": "Where verses 62–64 showed that 'no difference exists in any quality', this verse adds another layer to the argument — if a difference does appear, it appears only at the level of name and form, and those themselves are unreal. The individual appears with a name like 'Rama' and a particular bodily form; Brahman is without name and form — on the surface, a clear difference seems to exist between the two. But as verse 61 showed, name and form are themselves unstable, unreal — so what value can a difference based on them hold? A difference established through the unreal must itself be unreal, this verse logically declares."
+  }
+}

@@ -1,0 +1,45 @@
+[AUDIO_START=0]
+  ॥kṛṣṇāṣṭakam॥ 
+vasudēvasutaṃ dēvaṃ kaṃsacāṇūramardanam ।
+dēvakīparamānandaṃ kṛṣṇaṃ vandē jagadgurum ॥ 1 ॥
+[AUDIO_END=15:03]
+
+[AUDIO_START=15:04]
+atasīpuṣpasaṅkāśam hāranūpuraśōbhitam।
+ratnakaṅkaṇakēyūraṃ kṛṣṇaṃ vandē jagadgurum ॥ 2 ॥
+[AUDIO_END=24:18]
+
+[AUDIO_START=24:21]
+kuṭilālakasaṃyuktaṃ pūrṇacandranibhānanam।
+vilasatkuṇḍaladharaṃ kṛṣṇaṃ vandē jagadgurum ॥ 3 ॥
+[AUDIO_END=33:10]
+
+[AUDIO_START=33:14]
+mandāragandhasaṃyuktaṃ cāruhāsaṃ caturbhujam।
+barhipiñchāvacūḍāṅgaṃ kṛṣṇaṃ vandē jagadgurum ॥ 4 ॥
+[AUDIO_END=43:03]
+
+[AUDIO_START=43:04]
+utphullapadmapatrākṣaṃ nīlajīmūtasannibham।
+yādavānāṃ śirōratnaṃ kṛṣṇaṃ vandē jagadgurum ॥ 5 ॥
+[AUDIO_END=52:15]
+
+[AUDIO_START=52:18]
+rukmiṇīkēlisaṃyuktaṃ pītāmbarasuśōbhitam।
+avāptatulasīgandhaṃ kṛṣṇaṃ vandē jagadgurum ॥ 6 ॥
+[AUDIO_END=61:06]
+
+[AUDIO_START=61:10]
+gōpikānāṃ kucadvandvakuṅkumāṅkitavakṣasam
+śrīnikētaṃ mahēṣvāsaṃ kṛṣṇaṃ vandē jagadgurum ॥ 7 ॥
+[AUDIO_END=69:20]
+
+[AUDIO_START=70]
+śrīvatsāṅkaṃ mahōraskaṃ vanamālāvirājitam।
+śaṅkhacakradharaṃ dēvaṃ kṛṣṇaṃ vandē jagadgurum ॥ 8 ॥
+[AUDIO_END=78:13]
+
+[AUDIO_START=78:20]
+kṛṣṇāṣṭakamidaṃ puṇyaṃ prātarutthāya yaḥ paṭhēt।
+kōṭijanmakṛtaṃ pāpaṃ smaraṇēna vinaśyati ॥
+[AUDIO_END=87]

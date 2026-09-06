@@ -1,0 +1,41 @@
+{
+  "id": "dharma-036",
+  "tags": [
+    "dharma",
+    "sthiti",
+    "manas"
+  ],
+  "shlokam": {
+    "te": "మనఏవ మనుష్యాణాం కారణం బన్ధమోక్షయోః ।\nబన్ధాయ విషయాసఙ్గం ముక్త్యై నిర్విషయం స్మృతమ్ ॥",
+    "sa": "मनएव मनुष्याणां कारणं बन्धमोक्षयोः ।\nबन्धाय विषयासङ्गं मुक्त्यै निर्विषयं स्मृतम् ॥",
+    "iast": "manaeva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ ।\nbandhāya viṣayāsaṅgaṃ muktyai nirviṣayaṃ smṛtam ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "బ్రహ్మబిన్దూపనిషత్",
+    "name_en": "Brahmabindu Upanishad",
+    "chapter": "verse 2",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
+  },
+  "padavibhagam": {
+    "te": "మనః | ఏవ | మనుష్యాణామ్ | కారణమ్ | బన్ధమోక్షయోః | బన్ధాయ | విషయాసఙ్గమ్ | ముక్త్యై | నిర్విషయమ్ | స్మృతమ్",
+    "en": "manaḥ | eva | manuṣyāṇām | kāraṇam | bandhamokṣayoḥ | bandhāya | viṣayāsaṅgam | muktyai | nirviṣayam | smṛtam"
+  },
+  "anvayam": {
+    "te": "మనుష్యాణాం బన్ధమోక్షయోః మనః ఏవ కారణమ్; విషయాసఙ్గం బన్ధాయ, నిర్విషయం ముక్త్యై స్మృతమ్.",
+    "en": "Manuṣyāṇāṃ bandhamokṣayoḥ (of men's bondage and liberation) manaḥ eva kāraṇam (the mind alone is the cause); viṣayāsaṅgaṃ bandhāya (attachment to sense-objects leads to bondage), nirviṣayaṃ muktyai smṛtam (freedom from such attachment is declared to lead to liberation)."
+  },
+  "meaning": {
+    "te": "మనుషుల బంధానికీ మోక్షానికీ మనసే కారణం. విషయాసక్తి బంధానికి దారితీస్తుంది; విషయరహితమైన మనసు మోక్షానికి దారితీస్తుంది.",
+    "en": "The mind alone is the cause of a person's bondage and of their liberation. Attachment to sense-objects leads to bondage; a mind free of such attachment leads to freedom."
+  },
+  "tatparyam": {
+    "te": "బంధమూ మోక్షమూ రెండు వేర్వేరు స్థలాలు కావు, ఒకే మనసు యొక్క రెండు స్థితులు అని ఈ ఉపనిషద్వాక్యం తేల్చిచెబుతుంది. బాహ్యపరిస్థితులు మారకుండానే, విషయాలపై పట్టు వదిలిన మాత్రాన మనసు బద్ధస్థితి నుండి ముక్తస్థితికి మారగలదు. చెరసాల కారాగారంలో ఉందా బయటా అన్నది కాదు ప్రశ్న — దేనికి అంటిపెట్టుకుని ఉందన్నదే అసలు ప్రశ్న. సాధన అంతా బయటి ప్రపంచాన్ని మార్చడం కాదు, లోపలి మనసు దృష్టిని మార్చడమేనన్న ఈ సూత్రం అద్వైతవేదాంతపు మూలస్తంభాలలో ఒకటి.",
+    "en": "Bondage and liberation are not two different places but two states of the very same mind — that is the Upanishad's uncompromising claim. Without any change in outer circumstance, the mind can pass from bondage to freedom the moment its grip on sense-objects loosens. The question is not whether the mind sits in a prison or outside one, but what it clings to. That the entire practice is not about changing the outer world but redirecting the mind's own attention is one of the founding pillars of Advaita Vedanta."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

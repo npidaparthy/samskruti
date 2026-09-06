@@ -1,0 +1,41 @@
+{
+  "id": "dharma-022",
+  "tags": [
+    "dharma",
+    "jaya",
+    "krishna"
+  ],
+  "shlokam": {
+    "te": "యతః కృష్ణస్తతో ధర్మో యతో ధర్మస్తతో జయః ॥",
+    "sa": "यतः कृष्णस्ततो धर्मो यतो धर्मस्ततो जयः ॥",
+    "iast": "yataḥ kṛṣṇastato dharmo yato dharmastato jayaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter (half-verse refrain)",
+  "granthaH": {
+    "name_te": "మహాభారతము",
+    "name_en": "Mahabharata",
+    "chapter": "recurring refrain (Bhishma Parva and elsewhere)",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
+  },
+  "padavibhagam": {
+    "te": "యతః | కృష్ణః | తతః | ధర్మః | యతః | ధర్మః | తతః | జయః",
+    "en": "yataḥ | kṛṣṇaḥ | tataḥ | dharmaḥ | yataḥ | dharmaḥ | tataḥ | jayaḥ"
+  },
+  "anvayam": {
+    "te": "యతః కృష్ణః, తతః ధర్మః; యతః ధర్మః, తతః జయః.",
+    "en": "Yataḥ kṛṣṇaḥ (where Krishna is), tataḥ dharmaḥ (there is dharma); yataḥ dharmaḥ (where dharma is), tataḥ jayaḥ (there is victory)."
+  },
+  "meaning": {
+    "te": "ఎక్కడ కృష్ణుడు ఉంటాడో అక్కడ ధర్మం ఉంటుంది; ఎక్కడ ధర్మం ఉంటుందో అక్కడ జయం ఉంటుంది.",
+    "en": "Where Krishna is, there is dharma; and where dharma is, there is victory."
+  },
+  "tatparyam": {
+    "te": "మహాభారతమంతటా మారుమోగే ఈ సూక్తి యుద్ధఫలితాన్ని సైన్యబలంతో కాక ధర్మబలంతో ముడిపెడుతుంది. కౌరవుల వద్ద పదకొండు అక్షౌహిణులు ఉన్నా జయం పాండవులదే — ఎందుకంటే ధర్మం, ధర్మస్వరూపుడైన కృష్ణుడు వారి పక్షాన ఉన్నారు. నిజమైన విజయం బలవంతుడిది కాదు, ధర్మవంతుడిది అన్న ఈ విశ్వాసమే భారతీయ సంస్కృతిలో 'సత్యమేవ జయతే'గా ప్రతిధ్వనిస్తుంది.",
+    "en": "This refrain, echoing through the Mahabharata, ties the outcome of war not to the strength of armies but to the strength of dharma. The Kauravas fielded eleven akshauhinis, yet victory belonged to the Pandavas — for dharma, and Krishna its embodiment, stood on their side. True victory belongs not to the mighty but to the righteous — the same conviction that resounds in 'satyameva jayate'."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

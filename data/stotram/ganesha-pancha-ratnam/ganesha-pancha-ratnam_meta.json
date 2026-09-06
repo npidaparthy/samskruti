@@ -1,0 +1,24 @@
+{
+  "slug": "ganesha-pancha-ratnam",
+  "title_te": "గణేశపఞ్చరత్నమ్",
+  "title_sa": "गणेशपञ्चरत्नम्",
+  "title_en": "Gaṇeśapañcaratnam",
+  "description_en": "Five jewel-like verses on Lord Gaṇeśa by Ādi Śaṅkarācārya, offering praise of the elephant-headed deity as the remover of obstacles, lord of all beginnings, and son of Śiva-Pārvatī. Recited at the start of any auspicious undertaking.",
+  "description_te": "ఆది శఙ్కరాచార్యులు రచించిన గణేశుని స్తుతిలో ఐదు రత్నాల వంటి శ్లోకాలు. విఘ్ననాశనుడు, శివపార్వతుల పుత్రుడు అయిన గజాననుని కీర్తిస్తాయి. శుభకార్యాల ఆరంభంలో పారాయణ చేస్తారు.",
+  "description_sa": "आदिशङ्करविरचितानि गणेशस्य पञ्चरत्नात्मकानि स्तोत्राणि। विघ्ननाशनं शिवपार्वतीनन्दनं गजाननं स्तुवन्ति। शुभकार्यारम्भे पठनीयम्।",
+  "theme": "orange",
+  "tags": [
+    "ganesha",
+    "shankaracharya"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "గణేశపఞ్చరత్నమ్",
+      "title_sa": "गणेशपञ्चरत्नम्",
+      "title_en": "Gaṇeśapañcaratnam",
+      "file": "ganesha-pancha-ratnam.txt"
+    }
+  ]
+}

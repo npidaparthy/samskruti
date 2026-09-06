@@ -1,0 +1,41 @@
+{
+  "id": "niti-003",
+  "tags": [
+    "niti",
+    "alasya",
+    "purushartha"
+  ],
+  "shlokam": {
+    "te": "ఆలస్యం హి మనుష్యాణాం శరీరస్థో మహారిపుః ।\nనాస్త్యుద్యమసమో బన్ధుః కృత్వా యం నావసీదతి ॥",
+    "sa": "आलस्यं हि मनुष्याणां शरीरस्थो महारिपुः ।\nनास्त्युद्यमसमो बन्धुः कृत्वा यं नावसीदति ॥",
+    "iast": "ālasyaṃ hi manuṣyāṇāṃ śarīrastho mahāripuḥ ।\nnāstyudyamasamo bandhuḥ kṛtvā yaṃ nāvasīdati ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter",
+  "granthaH": {
+    "name_te": "హితోపదేశః",
+    "name_en": "Hitopadeśa",
+    "chapter": "Mitralābha",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
+  },
+  "padavibhagam": {
+    "te": "ఆలస్యమ్ | హి | మనుష్యాణామ్ | శరీరస్థః | మహారిపుః | న | అస్తి | ఉద్యమసమః | బన్ధుః | కృత్వా | యమ్ | న | అవసీదతి",
+    "en": "ālasyam | hi | manuṣyāṇām | śarīrasthaḥ | mahāripuḥ | na | asti | udyamasamaḥ | bandhuḥ | kṛtvā | yam | na | avasīdati"
+  },
+  "anvayam": {
+    "te": "ఆలస్యం హి మనుష్యాణాం శరీరస్థః మహారిపుః (అస్తి); ఉద్యమసమః బన్ధుః న అస్తి — యం కృత్వా (మనుష్యః) న అవసీదతి.",
+    "en": "Laziness (ālasyam) indeed (hi) is the greatest enemy (mahāripuḥ) residing within the body (śarīrasthaḥ) of humans (manuṣyāṇām); there is no friend (na asti bandhuḥ) equal to effort (udyamasamaḥ) — by making which (yam kṛtvā) one does not fall (na avasīdati)."
+  },
+  "meaning": {
+    "te": "సోమరితనమే మనుష్యుల శరీరంలో నివసించే అతిపెద్ద శత్రువు. పరిశ్రమతో సమానమైన మిత్రుడు మరొకడు లేడు — ఆ పరిశ్రమను ఆచరించినవాడు ఎప్పుడూ పతనం చెండడు.",
+    "en": "Laziness is the greatest enemy dwelling within a human being's own body. There is no friend equal to diligent effort — one who embraces effort never falls into ruin."
+  },
+  "tatparyam": {
+    "te": "బాహ్య శత్రువులకన్నా అంతర్గత శత్రువైన సోమరితనం మరింత ప్రమాదకరమైనది. ఇది మనిషిని లోపలి నుండే నాశనం చేస్తుంది. కానీ పరిశ్రమ అనే మిత్రుడు సదా రక్షిస్తాడు. పురుషార్థానికి పరిశ్రమే పునాది అని ఈ శ్లోకం బోధిస్తుంది.",
+    "en": "External enemies are less dangerous than the internal enemy of laziness, which destroys from within. Effort, however, is the most faithful companion — it never abandons those who embrace it. This verse underscores that sustained effort (udyama) is the very foundation of all human achievement."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

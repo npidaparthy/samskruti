@@ -1,0 +1,41 @@
+{
+  "id": "niti-026",
+  "tags": [
+    "niti",
+    "udyoga",
+    "purushartha"
+  ],
+  "shlokam": {
+    "te": "ఉద్యోగినం పురుషసింహముపైతి లక్ష్మీః\nదైవేన దేయమితి కాపురుషా వదన్తి ।\nదైవం నిహత్య కురు పౌరుషమాత్మశక్త్యా\nయత్నే కృతే యది న సిధ్యతి కోఽత్ర దోషః ॥",
+    "sa": "उद्योगिनं पुरुषसिंहमुपैति लक्ष्मीः\nदैवेन देयमिति कापुरुषा वदन्ति ।\nदैवं निहत्य कुरु पौरुषमात्मशक्त्या\nयत्ने कृते यदि न सिध्यति कोऽत्र दोषः ॥",
+    "iast": "udyoginaṃ puruṣasiṃhamupaiti lakṣmīḥ\ndaivena deyamiti kāpuruṣā vadanti ।\ndaivaṃ nihatya kuru pauruṣamātmaśaktyā\nyatne kṛte yadi na sidhyati ko'tra doṣaḥ ॥"
+  },
+  "chandaH": "వసన్తతిలకా (Vasantatilakā) — 14 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "పంచతన్త్రము (మిత్రలాభః)",
+    "name_en": "Panchatantra (Mitralabha)",
+    "chapter": "Mitralabha 1.361 (also Hitopadesha)",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
+  },
+  "padavibhagam": {
+    "te": "ఉద్యోగినమ్ | పురుషసింహమ్ | ఉపైతి | లక్ష్మీః | దైవేన | దేయమ్ | ఇతి | కాపురుషాః | వదన్తి | దైవమ్ | నిహత్య | కురు | పౌరుషమ్ | ఆత్మశక్త్యా | యత్నే | కృతే | యది | న | సిధ్యతి | కః | అత్ర | దోషః",
+    "en": "udyoginam | puruṣasiṃham | upaiti | lakṣmīḥ | daivena | deyam | iti | kāpuruṣāḥ | vadanti | daivam | nihatya | kuru | pauruṣam | ātmaśaktyā | yatne | kṛte | yadi | na | sidhyati | kaḥ | atra | doṣaḥ"
+  },
+  "anvayam": {
+    "te": "లక్ష్మీః ఉద్యోగినం పురుషసింహమ్ ఉపైతి; 'దైవేన దేయమ్' ఇతి కాపురుషాః వదన్తి; దైవం నిహత్య ఆత్మశక్త్యా పౌరుషం కురు; యత్నే కృతే యది న సిధ్యతి, అత్ర కః దోషః?",
+    "en": "Lakṣmīḥ (fortune) upaiti (comes to) udyoginam (the industrious) puruṣasiṃham (lion among men); kāpuruṣāḥ (cowardly men) vadanti (say) 'daivena deyam' (fate will provide); daivam nihatya (setting fate aside) ātmaśaktyā (with your own strength) pauruṣam kuru (exert manly effort); yatne kṛte (when effort is made) yadi na sidhyati (if it still does not succeed), kaḥ atra doṣaḥ (what fault is there in that)?"
+  },
+  "meaning": {
+    "te": "సంపద ఉద్యోగశీలుడైన పురుషసింహుని వద్దకే వస్తుంది. 'దైవమే ఇస్తుంది' అని పిరికివారు అంటారు. దైవాన్ని పక్కనపెట్టి నీ శక్తితో పురుషప్రయత్నం చెయ్యి. ప్రయత్నించిన తర్వాత కూడా ఫలించకపోతే అందులో నీ తప్పేముంది?",
+    "en": "Fortune comes only to the industrious lion among men. 'Fate will provide,' say the timid. Set fate aside and strive with your own strength. If, after honest effort, success still eludes you — what blame is there in that?"
+  },
+  "tatparyam": {
+    "te": "ఈ శ్లోకం పురుషప్రయత్నానికి పంచతన్త్రం ఇచ్చిన అత్యుత్తమ నిర్వచనం. దైవం మీద భారం వేసి కూర్చోవడం అలసత్వానికి ముసుగు మాత్రమే. కర్తవ్యం మనది, ఫలితం అనేక అంశాలపై ఆధారపడుతుంది — కానీ ప్రయత్నించి విఫలమైనవాడు నిందార్హుడు కాడు; ప్రయత్నించనివాడే. లక్ష్మి కదిలేవాడినే వరిస్తుంది అన్నది ఇక్కడి సూత్రం.",
+    "en": "This is the Panchatantra's finest statement on human effort. Leaning on fate is merely a mask for laziness. Effort is ours; the outcome depends on many factors — but the one who tries and fails deserves no blame; only the one who never tries does. Fortune, the verse insists, favours those in motion."
+  },
+  "chanda_key": "vasantatilaka",
+  "chanda_sa": "वसन्ततिलका",
+  "chanda_te": "వసన్తతిలకా"
+}

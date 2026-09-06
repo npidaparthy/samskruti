@@ -1,0 +1,41 @@
+{
+  "id": "niti-034",
+  "tags": [
+    "niti",
+    "satya",
+    "hitavachana"
+  ],
+  "shlokam": {
+    "te": "సులభాః పురుషా రాజన్ సతతం ప్రియవాదినః ।\nఅప్రియస్య చ పథ్యస్య వక్తా శ్రోతా చ దుర్లభః ॥",
+    "sa": "सुलभाः पुरुषा राजन् सततं प्रियवादिनः ।\nअप्रियस्य च पथ्यस्य वक्ता श्रोता च दुर्लभः ॥",
+    "iast": "sulabhāḥ puruṣā rājan satataṃ priyavādinaḥ ।\napriyasya ca pathyasya vaktā śrotā ca durlabhaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వాల్మీకి రామాయణము (అరణ్యకాండము)",
+    "name_en": "Valmiki Ramayana (Aranya Kanda)",
+    "chapter": "Aranya Kanda 37.2 (Maricha to Ravana)",
+    "grantha": "Rāmāyaṇa",
+    "grantha_te": "రామాయణమ్",
+    "grantha_sa": "रामायणम्"
+  },
+  "padavibhagam": {
+    "te": "సులభాః | పురుషాః | రాజన్ | సతతమ్ | ప్రియవాదినః | అప్రియస్య | చ | పథ్యస్య | వక్తా | శ్రోతా | చ | దుర్లభః",
+    "en": "sulabhāḥ | puruṣāḥ | rājan | satatam | priyavādinaḥ | apriyasya | ca | pathyasya | vaktā | śrotā | ca | durlabhaḥ"
+  },
+  "anvayam": {
+    "te": "రాజన్! సతతం ప్రియవాదినః పురుషాః సులభాః; అప్రియస్య చ పథ్యస్య వక్తా, శ్రోతా చ దుర్లభః.",
+    "en": "Rājan (O king)! Satatam priyavādinaḥ puruṣāḥ (men who always speak pleasing words) sulabhāḥ (are easy to find); apriyasya ca pathyasya (of what is unpleasant yet beneficial) vaktā (a speaker), śrotā ca (and a listener), durlabhaḥ (are rare)."
+  },
+  "meaning": {
+    "te": "రాజా! ఎప్పుడూ ప్రియంగా మాట్లాడేవారు సులభంగా దొరుకుతారు. కానీ అప్రియమైనా హితమైన మాట చెప్పేవాడూ, దానిని వినేవాడూ — ఇద్దరూ దుర్లభులే.",
+    "en": "O king, men who always say what pleases are easy to find. But one who speaks an unpleasant truth for your good — and one willing to hear it — both are rare."
+  },
+  "tatparyam": {
+    "te": "సీతాపహరణానికి ముందు మారీచుడు రావణునికి చెప్పిన హెచ్చరిక ఇది. ముఖస్తుతి చేసేవారు ప్రతి సభలోనూ ఉంటారు; చేదు నిజం చెప్పే హితైషి అరుదు — అంతకన్నా అరుదు దానిని ఓర్చుకుని వినగల నాయకుడు. రావణుడు వినలేదు; ఫలితం రామాయణమంతా చెబుతుంది. విమర్శను స్వాగతించగలగడమే నిజమైన బలమని ఈ శ్లోకం నేటి నాయకులకూ, ప్రతి వ్యక్తికీ గుర్తుచేస్తుంది.",
+    "en": "This is Maricha's warning to Ravana before the abduction of Sita. Flatterers fill every court; the well-wisher who utters a bitter truth is rare — and rarer still the leader who can bear to hear it. Ravana would not listen, and the rest of the Ramayana tells the price. The capacity to welcome criticism is real strength — a reminder as urgent for leaders today as it was then."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "vishnu-panchayudha-stotram",
+  "title_te": "విష్ణు పంచాయుధ స్తోత్రమ్",
+  "title_sa": "विष्णु पञ्चायुध स्तोत्रम्",
+  "title_en": "Viṣṇu Pañcāyudha Stotram",
+  "description_en": "A stotram praising the five divine weapons of Lord Viṣṇu: Sudarśana Cakra (discus), Pāñcajanya (conch), Kaumodakī (mace), Nandaka (sword), and Śārṅga (bow). Each weapon is invoked for its specific protective power. Recited for protection from enemies and malefic forces.",
+  "description_te": "విష్ణువు యొక్క ఐదు దివ్యాయుధాలను — సుదర్శన చక్రం, పాంచజన్యం, కౌమోదకి, నందకం, శారంగం — కీర్తించే స్తోత్రం. ప్రతి ఆయుధాన్ని రక్షణ శక్తికి ఆహ్వానించి పారాయణ చేస్తారు.",
+  "description_sa": "विष्णोः सुदर्शनचक्रपाञ्चजन्यकौमोदकीनन्दकशार्ङ्गाख्यानि पञ्चायुधानि स्तुवत् स्तोत्रम्। शत्रुपीडानिवारणाय रक्षणार्थं पठ्यते।",
+  "theme": "indigo",
+  "tags": [
+    "vishnu",
+    "vaishnavism"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "విష్ణు పంచాయుధ స్తోత్రమ్",
+      "title_sa": "विष्णु पञ्चायुध स्तोत्रम्",
+      "title_en": "Viṣṇu Pañcāyudha Stotram",
+      "file": "vishnu-panchayudha-stotram.txt"
+    }
+  ]
+}

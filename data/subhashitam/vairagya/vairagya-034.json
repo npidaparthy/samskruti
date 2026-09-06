@@ -1,0 +1,40 @@
+{
+  "id": "vairagya-034",
+  "tags": [
+    "vairagya",
+    "sthitaprajna"
+  ],
+  "shlokam": {
+    "te": "దుఃఖేష్వనుద్విగ్నమనాః సుఖేషు విగతస్పృహః ।\nవీతరాగభయక్రోధః స్థితధీర్మునిరుచ్యతే ॥",
+    "sa": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ॥",
+    "iast": "duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ ।\nvītarāgabhayakrodhaḥ sthitadhīrmunirucyate ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sāṅkhya Yoga)",
+    "chapter": "2.56",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "దుఃఖేషు | అనుద్విగ్నమనాః | సుఖేషు | విగతస్పృహః | వీతరాగభయక్రోధః | స్థితధీః | మునిః | ఉచ్యతే",
+    "en": "duḥkheṣu | anudvignamanāḥ | sukheṣu | vigataspṛhaḥ | vītarāgabhayakrodhaḥ | sthitadhīḥ | muniḥ | ucyate"
+  },
+  "anvayam": {
+    "te": "దుఃఖేషు అనుద్విగ్నమనాః, సుఖేషు విగతస్పృహః, వీతరాగభయక్రోధః (యః), (సః) స్థితధీః మునిః ఉచ్యతే.",
+    "en": "Duḥkheṣu anudvignamanāḥ (one whose mind is not agitated amid sorrows), sukheṣu vigataspṛhaḥ (free of longing amid pleasures), vītarāgabhayakrodhaḥ (freed from passion, fear, and anger) — sthitadhīḥ muniḥ ucyate (such a sage is called one of steady wisdom)."
+  },
+  "meaning": {
+    "te": "దుఃఖాలలో మనసు కలత చెందనివాడు, సుఖాలలో కోరిక లేనివాడు, రాగభయక్రోధాలు వదిలినవాడు — అతడే స్థితప్రజ్ఞుడు అనబడతాడు.",
+    "en": "One whose mind is not disturbed amid sorrows, who is free of craving amid pleasures, and who has cast off passion, fear, and anger — such a one is called a sage of steady wisdom."
+  },
+  "tatparyam": {
+    "te": "స్థితప్రజ్ఞుని లక్షణాలను వర్ణించే గీతలోని ప్రసిద్ధ శ్లోకాల ఆరంభం ఇది. ఇక్కడ మూడు జతలు గమనార్హం — దుఃఖంలో కలత లేకపోవడం, సుఖంలో దాహం లేకపోవడం, రాగభయక్రోధాల నుండి విముక్తి. మూడూ ఒకే సత్యానికి వేర్వేరు కోణాలు: బాహ్యస్థితి మారినా లోపలి స్థిరత్వం చెదరకపోవడం. ఇది భావరహిత జడత్వం కాదు — అనుభూతులు వస్తాయి, పోతాయి, కానీ అంతర్గత కేంద్రం చెదరదు. ఇలాంటి స్థిరత్వమే వైరాగ్యానికి ఆచరణరూపమని గీత చూపుతుంది.",
+    "en": "This opens the Gita's celebrated description of the sthitaprajna, the one of steady wisdom. Note the three pairs — undisturbed amid sorrow, unthirsting amid pleasure, freed from passion, fear and anger. All three are facets of one truth: inner steadiness that does not waver however outer circumstance shifts. This is not emotionless numbness — feelings still arise and pass, but the inner centre does not move. Such steadiness, the Gita shows, is what detachment looks like when actually lived."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

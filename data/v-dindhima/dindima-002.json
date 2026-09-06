@@ -1,0 +1,35 @@
+{
+  "id": "dindima-002",
+  "tags": [
+    "dindima",
+    "atma-anatma",
+    "brahman"
+  ],
+  "shlokam": {
+    "te": "ఆత్మానాత్మపదార్థౌ ద్వౌ భోక్తృభోగ్యత్వలక్షణౌ ।\nబ్రహ్మైవాత్మా న దేహాదిరితి వేదాన్తడిణ్డిమః ॥ ౨ ॥",
+    "sa": "आत्मानात्मपदार्थौ द्वौ भोक्तृभोग्यत्वलक्षणौ ।\nब्रह्मैवात्मा न देहादिरिति वेदान्तडिण्डिमः ॥ २ ॥",
+    "iast": "ātmānātmapadārthau dvau bhoktṛbhogyatvalakṣaṇau ।\nbrahmaivātmā na dehādiriti vedāntaḍiṇḍimaḥ ॥ 2 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 2"
+  },
+  "padavibhagam": {
+    "te": "ఆత్మానాత్మపదార్థౌ | ద్వౌ | భోక్తృభోగ్యత్వలక్షణౌ | బ్రహ్మ | ఏవ | ఆత్మా | న | దేహాదిః | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "ātmānātmapadārthau | dvau | bhoktṛbhogyatvalakṣaṇau | brahma | eva | ātmā | na | dehādiḥ | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "ఆత్మానాత్మపదార్థౌ ద్వౌ, భోక్తృభోగ్యత్వలక్షణౌ; బ్రహ్మ ఏవ ఆత్మా, న దేహాదిః — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Ātmānātmapadārthau dvau (the self and non-self are two categories), bhoktṛbhogyatvalakṣaṇau (marked respectively by the nature of enjoyer and enjoyed); brahma eva ātmā (Brahman alone is the self), na dehādiḥ (not the body and so on) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "ఆత్మ, అనాత్మ అని రెండు పదార్థాలు — భోక్తలక్షణం, భోగ్యలక్షణం కలవి. వీటిలో ఆత్మ బ్రహ్మమే; దేహాదులు కాదు — ఇది వేదాంతడిండిమం.",
+    "en": "The self and the non-self are two categories — marked by the nature of the enjoyer and the enjoyed. Of these, the self is Brahman itself, not the body and so on. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "గ్రంథం మొదటి తాత్త్విక ప్రకటన — ఉనికిలో ఉన్నదంతటినీ రెండు వర్గాలుగా విభజించడం. అనుభవించేది (భోక్త) ఒకటి, అనుభవింపబడేది (భోగ్యం) మరొకటి. ఇక్కడ కీలకమైన మలుపు — 'ఆత్మ' అనే పదాన్ని దేహం, మనసు, ఇంద్రియాలతో కలిపి చూసే సాధారణ భ్రమను తిరస్కరించడం. దేహాదులు అనుభవించబడేవి మాత్రమే, అనుభవించేది కాదు — నిజమైన అనుభవించేవాడు బ్రహ్మమే. ఈ విభజన మొత్తం గ్రంథానికి పునాదిరాయిగా నిలుస్తుంది.",
+    "en": "The work's opening philosophical claim — dividing all that exists into two categories. What experiences (the enjoyer) is one, what is experienced (the enjoyed) is the other. The crucial turn here is rejecting the common confusion that equates 'self' with body, mind, and senses. The body and so forth are merely what is experienced, never the one who experiences — the true experiencer is Brahman alone. This division becomes the cornerstone for the entire work that follows."
+  }
+}

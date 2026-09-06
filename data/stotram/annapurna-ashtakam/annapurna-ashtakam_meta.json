@@ -1,0 +1,28 @@
+{
+    "slug": "annapurna-ashtakam",
+    "tags": [
+        "annapurna",
+        "shiva",
+        "parvati",
+        "kasi"
+    ],
+    "synonyms": [
+        "annapurna-ashtakam",
+        "annapurna"
+    ],
+    "youtube_url": "",
+    "images": [
+        "assets/images/annapurna-ashtakam-01.svg",
+        "assets/images/annapurna-ashtakam-02.svg",
+        "assets/images/annapurna-ashtakam-03.svg"
+    ],
+    "sections": [
+        {
+            "id": "annapurna-ashtakam",
+            "title_te": "అన్నపూర్ణాష్టకమ్",
+            "title_sa": "अन्नपूर्णास्तोत्रम्",
+            "title_en": "annapurna-ashtakam",
+            "file": "annapurna-ashtakam.txt"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bhakti-005",
+  "tags": [
+    "bhakti",
+    "ananya",
+    "yoga-kshema",
+    "krishna"
+  ],
+  "shlokam": {
+    "te": "అనన్యాశ్చిన్తయన్తో మాం యే జనాః పర్యుపాసతే ।\nతేషాం నిత్యాభియుక్తానాం యోగక్షేమం వహామ్యహమ్ ॥",
+    "sa": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥",
+    "iast": "ananyāścintayanto māṃ ye janāḥ paryupāsate ।\nteṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (రాజవిద్యారాజగుహ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Rāja Vidyā Rāja Guhya Yoga)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "9.22"
+  },
+  "padavibhagam": {
+    "te": "అనన్యాః | చిన్తయన్తః | మాం | యే | జనాః | పర్యుపాసతే | తేషాం | నిత్య-అభియుక్తానాం | యోగక్షేమం | వహామి | అహం",
+    "en": "ananyāḥ | cintayantaḥ | mām | ye | janāḥ | paryupāsate | teṣām | nitya-abhiyuktānām | yoga-kṣemam | vahāmi | aham"
+  },
+  "anvayam": {
+    "te": "యే జనాః అనన్యాః (మాత్రమే) మాం చిన్తయన్తః పర్యుపాసతే (నన్నే చింతిస్తూ ఉపాసిస్తారో), నిత్యాభియుక్తానాం తేషాం (నిత్యం నిమగ్నమైన వారికి) అహం యోగక్షేమం వహామి (నేను యోగ-క్షేమాన్ని వహిస్తాను).",
+    "en": "ye janāḥ (those people who) ananyāḥ (without any other) cintayantaḥ māṃ (thinking of me alone) paryupāsate (worship me); teṣāṃ nityābhiyuktānām (for those ever-devoted ones) aham yoga-kṣemam vahāmi (I carry the yoga and kṣema — what they lack and what they have)."
+  },
+  "meaning": {
+    "te": "ఎవరైతే అనన్య భావంతో నన్నే చింతిస్తూ ఉపాసిస్తారో — నిత్యం నిమగ్నమైన వారికి యోగ-క్షేమాన్ని నేనే వహిస్తాను.",
+    "en": "Those who worship me with undivided devotion, always thinking of me — for those who are ever devoted, I personally carry their yoga (what they need to attain) and kṣema (what they have and need to protect)."
+  },
+  "tatparyam": {
+    "te": "గీత యొక్క రాజవిద్య అధ్యాయంలో ఇది శ్రీకృష్ణుని స్వంత బాధ్యతా వాగ్దానం. 'యోగ' అంటే ఏమి కావాలో అది ఇవ్వడం; 'క్షేమ' అంటే ఏమి ఉందో దాన్ని కాపాడడం. అనన్య భక్తి అంటే కేవలం ఆధ్యాత్మిక విషయాలలో కాదు — జీవితంలో ఏ పని చేసినా మనసు ఒక్కమాటుగా ఆయన వైపే ఉండటం. ఇటువంటి భక్తుని పూర్తి బాధ్యత భగవంతుడు తీసుకుంటాడు.",
+    "en": "In the royal chapter of the Gītā, this is Kṛṣṇa's personal assurance of responsibility. 'Yoga' means securing what is needed; 'kṣema' means protecting what is already possessed. The promise covers both acquisition and preservation. 'Ananya' — undivided — is the key qualifier: when the mind is turned toward the divine without reservation in all circumstances, the divine takes full responsibility. This verse is the basis of deep trust in bhakti traditions across India."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

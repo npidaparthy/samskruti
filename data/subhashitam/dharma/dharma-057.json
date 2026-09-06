@@ -1,0 +1,40 @@
+{
+  "id": "dharma-057",
+  "tags": [
+    "dharma",
+    "trividha-shraddha"
+  ],
+  "shlokam": {
+    "te": "యజన్తే సాత్త్వికా దేవాన్యక్షరక్షాంసి రాజసాః ।\nప్రేతాన్భూతగణాంశ్చాన్యే యజన్తే తామసా జనాః ॥",
+    "sa": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः ।\nप्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ॥",
+    "iast": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ ।\npretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (శ్రద్ధాత్రయవిభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Śraddhātraya Vibhāga Yoga)",
+    "chapter": "17.4",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "యజన్తే | సాత్త్వికాః | దేవాన్ | యక్షరక్షాంసి | రాజసాః | ప్రేతాన్ | భూతగణాన్ | చ | అన్యే | యజన్తే | తామసాః | జనాః",
+    "en": "yajante | sāttvikāḥ | devān | yakṣarakṣāṃsi | rājasāḥ | pretān | bhūtagaṇān | ca | anye | yajante | tāmasāḥ | janāḥ"
+  },
+  "anvayam": {
+    "te": "సాత్త్వికాః దేవాన్ యజన్తే; రాజసాః యక్షరక్షాంసి (యజన్తే); అన్యే తామసాః జనాః ప్రేతాన్ భూతగణాన్ చ యజన్తే.",
+    "en": "Sāttvikāḥ devān yajante (the sattvic worship the gods); rājasāḥ yakṣarakṣāṃsi (the rajasic worship the yakshas and demons); anye tāmasāḥ janāḥ (other, tamasic people) pretān bhūtagaṇān ca yajante (worship ghosts and spirit-hordes)."
+  },
+  "meaning": {
+    "te": "సాత్త్వికులు దేవతలను పూజిస్తారు; రాజసులు యక్షరాక్షసులను పూజిస్తారు; తామసులు ప్రేతభూతగణాలను పూజిస్తారు.",
+    "en": "The sattvic worship the gods; the rajasic worship the yakshas and demonic spirits; the tamasic worship ghosts and hordes of spirits."
+  },
+  "tatparyam": {
+    "te": "ఆరాధనావిధానం కూడా వ్యక్తి గుణస్వభావాన్ని ప్రతిబింబిస్తుందని చాటే గీత శ్లోకం. ఎవరిని పూజిస్తామన్నది కేవలం మతపరమైన ఎంపిక కాదు, మన అంతరంగిక స్వభావానికి అద్దం అని ఈ వర్గీకరణ సూచిస్తుంది. సాత్త్వికదృష్టి ఉన్నతమైన, పరోపకారపూర్వకమైన శక్తులవైపు మొగ్గుతుంది; రాజసదృష్టి అధికారం, భయం కలిగించే శక్తులవైపు ఆకర్షితమవుతుంది; తామసదృష్టి భయం, అంధవిశ్వాసాలవైపు మొగ్గుతుంది. ఈ వర్గీకరణను ఆరాధనకే పరిమితం చేయకుండా, మనం దేనిని గౌరవిస్తామో, దేని వెంట పరుగెడతామో అన్న విస్తృత ప్రశ్నగా చూస్తే — ఏ లక్ష్యాలను వెంబడిస్తున్నామో అదే మన గుణస్వభావాన్ని బయటపెడుతుందని ఈ శ్లోకం సూచిస్తుంది.",
+    "en": "A Gita verse showing that even the manner of worship reflects a person's inner disposition. Whom one worships, this classification suggests, is not merely a religious choice but a mirror of one's inner nature. The sattvic outlook inclines toward elevated, benevolent powers; the rajasic outlook is drawn to power and fear-inspiring forces; the tamasic outlook gravitates toward fear and blind belief. Extended beyond worship alone to the broader question of what we respect and what we chase after, this verse suggests that the goals we pursue reveal our own inner nature."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dharma-019",
+  "tags": [
+    "dharma",
+    "satyam-vada",
+    "siksha"
+  ],
+  "shlokam": {
+    "te": "సత్యం వద । ధర్మం చర ।",
+    "sa": "सत्यं वद । धर्मं चर ।",
+    "iast": "satyaṃ vada । dharmaṃ cara ।"
+  },
+  "chandaH": "వేద వచనం (Vedic vacana) — imperative prose",
+  "granthaH": {
+    "name_te": "తైత్తిరీయోపనిషత్ 1.11.1 (శిక్షావల్లి)",
+    "name_en": "Taittirīya Upaniṣad 1.11.1 (Śikṣāvallī)",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
+  },
+  "padavibhagam": {
+    "te": "సత్యం | వద | ధర్మం | చర",
+    "en": "satyam | vada | dharmam | cara"
+  },
+  "anvayam": {
+    "te": "సత్యం వద (సత్యమే మాట్లాడు); ధర్మం చర (ధర్మాన్ని ఆచరించు).",
+    "en": "satyam vada (speak the truth); dharmam cara (practice dharma)."
+  },
+  "meaning": {
+    "te": "సత్యమే మాట్లాడు; ధర్మాన్ని ఆచరించు.",
+    "en": "Speak the truth; practice dharma."
+  },
+  "tatparyam": {
+    "te": "తైత్తిరీయోపనిషత్తులో గురువు శిష్యుడికి చదువు ముగిసే సమయంలో ఇచ్చే ఉపదేశం — 'సత్యం వద, ధర్మం చర'. ఇది జీవితంలో పాటించవలసిన రెండు మూల సూత్రాలు. సత్యం వాక్ శుద్ధికి సంబంధించినది — ఎప్పుడూ నిజమే మాట్లాడాలి. ధర్మం ఆచరణకు సంబంధించినది — నిత్య జీవితంలో ధర్మమే పాటించాలి. ఈ రెండూ కలిసి ఒక వ్యక్తి నిత్య జీవన విధానాన్ని నిర్మిస్తాయి. భారతదేశ మోటో 'సత్యమేవ జయతే' ఈ వేద వాక్యం నుండి ఉద్భవించినది.",
+    "en": "These words from the Taittirīya Upaniṣad (1.11.1) form part of the convocation address given by the teacher to a student completing his education. They are the two most fundamental directives for living: speak the truth (concerning words) and practice dharma (concerning actions). Together they constitute the entire ethical life. 'Satyam vada' demands inner and outer consistency — no deception, no half-truths. 'Dharmam cara' demands that every action conform to the universal law of righteousness. India's national motto 'Satyameva Jayate' — truth alone triumphs — draws directly from the spirit of this Upaniṣadic teaching."
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+}

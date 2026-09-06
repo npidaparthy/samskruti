@@ -1,0 +1,40 @@
+{
+  "id": "bhakti-043",
+  "tags": [
+    "bhakti",
+    "guru-brahma-anupraveshana"
+  ],
+  "shlokam": {
+    "te": "మచ్చిత్తా మద్గతప్రాణా బోధయన్తః పరస్పరమ్ ।\nకథయన్తశ్చ మాం నిత్యం తుష్యన్తి చ రమన్తి చ ॥",
+    "sa": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् ।\nकथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ॥",
+    "iast": "maccittā madgataprāṇā bodhayantaḥ parasparam ।\nkathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (విభూతియోగము)",
+    "name_en": "Srimad Bhagavad Gita (Vibhūti Yoga)",
+    "chapter": "10.9",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "మచ్చిత్తాః | మద్గతప్రాణాః | బోధయన్తః | పరస్పరమ్ | కథయన్తః | చ | మామ్ | నిత్యమ్ | తుష్యన్తి | చ | రమన్తి | చ",
+    "en": "maccittāḥ | madgataprāṇāḥ | bodhayantaḥ | parasparam | kathayantaḥ | ca | mām | nityam | tuṣyanti | ca | ramanti | ca"
+  },
+  "anvayam": {
+    "te": "మచ్చిత్తాః, మద్గతప్రాణాః (భక్తాః) పరస్పరం బోధయన్తః, మామ్ నిత్యం కథయన్తః చ, తుష్యన్తి చ రమన్తి చ.",
+    "en": "Maccittāḥ (those whose minds are fixed on me), madgataprāṇāḥ (whose very life-breath is directed toward me), bodhayantaḥ parasparam (enlightening one another), mām nityaṃ kathayantaḥ ca (and constantly speaking of me), tuṣyanti ca ramanti ca (they find contentment and delight)."
+  },
+  "meaning": {
+    "te": "నా యందు చిత్తమూ, ప్రాణమూ నిలిపిన భక్తులు, పరస్పరం బోధించుకుంటూ, నన్ను గురించి నిత్యమూ మాట్లాడుతూ, తృప్తినీ ఆనందాన్నీ పొందుతారు.",
+    "en": "Devotees whose mind and very breath are fixed on me, enlightening one another and constantly speaking of me, find contentment and delight."
+  },
+  "tatparyam": {
+    "te": "సాముదాయిక భక్తికి గీత ఇచ్చిన అందమైన చిత్రం — భక్తిసాధన ఒంటరిగా చేసేది మాత్రమే కాదు, పరస్పర సాంగత్యంలో వికసించేది కూడా అని చాటుతూ. 'బోధయన్తః పరస్పరమ్' అన్న పదబంధం విశేషమైనది — భక్తులు ఒకరికొకరు బోధించుకుంటారు, అంటే జ్ఞానం ఒకవైపు నుండి మాత్రమే ప్రవహించదు, పరస్పర మార్పిడిగా సాగుతుంది. భగవంతుని గురించి మాట్లాడుకోవడం వినోదం కాదు, అదే వారికి 'తుష్టి' (సంతృప్తి), 'రతి' (ఆనందం) కలిగించే మూలం. సత్సంగం, కీర్తనం, భజన సంప్రదాయాలకు ఈ శ్లోకమే మూలాధారం.",
+    "en": "A beautiful picture of communal devotion the Gita offers — declaring that devotional practice is not solely a solitary pursuit but blossoms also in mutual companionship. The phrase 'bodhayantaḥ parasparam' is notable — devotees teach one another, meaning knowledge does not flow from a single direction but circulates as mutual exchange. Speaking of the divine together is not mere pastime — it is itself the very source of their 'tuṣṭi' (contentment) and 'rati' (delight). This verse is the very foundation of the traditions of satsanga, kirtan, and communal singing."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

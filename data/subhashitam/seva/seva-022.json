@@ -1,0 +1,41 @@
+{
+  "id": "seva-022",
+  "tags": [
+    "seva",
+    "maitri",
+    "priti"
+  ],
+  "shlokam": {
+    "te": "దదాతి ప్రతిగృహ్ణాతి గుహ్యమాఖ్యాతి పృచ్ఛతి ।\nభుఙ్క్తే భోజయతే చైవ షడ్విధం ప్రీతిలక్షణమ్ ॥",
+    "sa": "ददाति प्रतिगृह्णाति गुह्यमाख्याति पृच्छति ।\nभुङ्क्ते भोजयते चैव षड्विधं प्रीतिलक्षणम् ॥",
+    "iast": "dadāti pratigṛhṇāti guhyamākhyāti pṛcchati ।\nbhuṅkte bhojayate caiva ṣaḍvidhaṃ prītilakṣaṇam ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "పంచతన్త్రము (మిత్రలాభః)",
+    "name_en": "Panchatantra (Mitralabha)",
+    "chapter": "Mitralabha",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
+  },
+  "padavibhagam": {
+    "te": "దదాతి | ప్రతిగృహ్ణాతి | గుహ్యమ్ | ఆఖ్యాతి | పృచ్ఛతి | భుంక్తే | భోజయతే | చ | ఏవ | షడ్విధమ్ | ప్రీతిలక్షణమ్",
+    "en": "dadāti | pratigṛhṇāti | guhyam | ākhyāti | pṛcchati | bhuṅkte | bhojayate | ca | eva | ṣaḍvidham | prītilakṣaṇam"
+  },
+  "anvayam": {
+    "te": "దదాతి, ప్రతిగృహ్ణాతి, గుహ్యమ్ ఆఖ్యాతి, (గుహ్యం) పృచ్ఛతి, భుంక్తే, భోజయతే చ ఏవ — (ఇతి) షడ్విధం ప్రీతిలక్షణమ్.",
+    "en": "Dadāti (giving), pratigṛhṇāti (receiving), guhyam ākhyāti (confiding one's secrets), pṛcchati (asking after the other's), bhuṅkte (accepting food), bhojayate ca eva (and offering food) — ṣaḍvidhaṃ prītilakṣaṇam (these are the six marks of affection)."
+  },
+  "meaning": {
+    "te": "ఇవ్వడం, పుచ్చుకోవడం, తన రహస్యం చెప్పడం, ఎదుటివారి యోగక్షేమం అడగడం, వారి ఇంట భుజించడం, వారికి భోజనం పెట్టడం — ఇవి ఆరు ప్రీతి లక్షణాలు.",
+    "en": "Giving and receiving, confiding one's secrets and asking after the other's, accepting food and offering it — these six are the marks of true affection."
+  },
+  "tatparyam": {
+    "te": "స్నేహం అనే భావనకు పంచతన్త్రం ఇచ్చిన ఆచరణాత్మక నిర్వచనం — ఆరు లక్షణాలూ జతలుగా ఉండటమే విశేషం: ఇవ్వడం–పుచ్చుకోవడం, చెప్పడం–అడగడం, తినడం–తినిపించడం. ఏ ఒక్క వైపు మాత్రమే జరిగినా అది స్నేహం కాదు — దాతృత్వమో, ఆశ్రయమో అవుతుంది. పుచ్చుకోవడమూ ప్రీతిలక్షణమే అనడంలో లోతుంది: స్వీకరించడం ఎదుటివారికి ఇచ్చే గౌరవం. స్నేహం మాటల్లో కాదు, ఈ చిన్నచిన్న పరస్పర చర్యల్లో బతుకుతుందన్నది ఇక్కడి సారం.",
+    "en": "The Panchatantra's working definition of friendship — and the striking thing is that all six marks come in pairs: give and receive, confide and inquire, dine and feed. If any of it flows one way only, it is not friendship but patronage or dependence. That receiving too is listed as a mark of love holds a quiet depth: to accept is to honour the giver. Friendship lives not in declarations but in these small reciprocities — that is the verse's heart."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

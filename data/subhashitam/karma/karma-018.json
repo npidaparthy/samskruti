@@ -1,0 +1,40 @@
+{
+  "id": "karma-018",
+  "tags": [
+    "karma",
+    "manas"
+  ],
+  "shlokam": {
+    "te": "బన్ధురాత్మాత్మనస్తస్య యేనాత్మైవాత్మనా జితః ।\nఅనాత్మనస్తు శత్రుత్వే వర్తేతాత్మైవ శత్రువత్ ॥",
+    "sa": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥",
+    "iast": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ ।\nanātmanastu śatrutve vartetātmaiva śatruvat ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (ధ్యానయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Dhyāna Yoga)",
+    "chapter": "6.6",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "బన్ధుః | ఆత్మా | ఆత్మనః | తస్య | యేన | ఆత్మా | ఏవ | ఆత్మనా | జితః | అనాత్మనః | తు | శత్రుత్వే | వర్తేత | ఆత్మా | ఏవ | శత్రువత్",
+    "en": "bandhuḥ | ātmā | ātmanaḥ | tasya | yena | ātmā | eva | ātmanā | jitaḥ | anātmanaḥ | tu | śatrutve | varteta | ātmā | eva | śatruvat"
+  },
+  "anvayam": {
+    "te": "యేన ఆత్మనా ఆత్మా ఏవ జితః, తస్య ఆత్మా ఆత్మనః బన్ధుః; అనాత్మనః తు ఆత్మా ఏవ శత్రువత్ శత్రుత్వే వర్తేత.",
+    "en": "Yena ātmanā ātmā eva jitaḥ (for one who has conquered his own self by the self), tasya ātmā ātmanaḥ bandhuḥ (his own self is his friend); anātmanaḥ tu (but for one who has not conquered himself), ātmā eva śatruvat śatrutve varteta (his own self acts as an enemy would)."
+  },
+  "meaning": {
+    "te": "తనను తాను జయించుకున్నవానికి తన మనసే బంధువు; జయించుకోనివానికి తన మనసే శత్రువులా ప్రవర్తిస్తుంది.",
+    "en": "For one who has conquered himself, his own mind is his friend; for one who has not, that same mind behaves like an enemy."
+  },
+  "tatparyam": {
+    "te": "జీవితంలోని అతి పెద్ద యుద్ధం బయటివారితో కాదు — లోపలి మనసుతో అని గీత తేల్చిచెప్పిన శ్లోకం. ఒకే మనసు: సాధన చేసినవానికి అది గుర్రంలా స్వారీకి లొంగుతుంది; విడిచిపెట్టినవానికి అదే మనసు వ్యసనాల వైపు, భయాల వైపు ఈడ్చుకుపోయే శత్రువవుతుంది. బాహ్యశత్రువును ఒకసారి గెలిస్తే చాలు; అంతఃశత్రువుతో సంధి నిత్యసాధనతోనే. మిత్రుడూ శత్రువూ ఇద్దరూ మనలోనే ఉన్నారన్న ఈ ఎరుకే ఆత్మసంయమానికి మొదటి మెట్టు.",
+    "en": "Life's greatest war, the Gita declares, is not with anyone outside — it is with the mind within. The same mind: disciplined, it serves like a well-broken horse; neglected, it becomes the enemy dragging one toward addictions and fears. An external foe need be defeated once; the truce with the inner one is kept only by daily practice. Both the friend and the enemy live within us — knowing this is the first step of self-mastery."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

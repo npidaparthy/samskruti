@@ -1,0 +1,40 @@
+{
+  "id": "karma-026",
+  "tags": [
+    "karma",
+    "annam"
+  ],
+  "shlokam": {
+    "te": "అన్నాద్భవన్తి భూతాని పర్జన్యాదన్నసమ్భవః ।\nయజ్ఞాద్భవతి పర్జన్యో యజ్ఞః కర్మసముద్భవః ॥",
+    "sa": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥",
+    "iast": "annādbhavanti bhūtāni parjanyādannasambhavaḥ ।\nyajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
+    "chapter": "3.14",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "అన్నాత్ | భవన్తి | భూతాని | పర్జన్యాత్ | అన్నసమ్భవః | యజ్ఞాత్ | భవతి | పర్జన్యః | యజ్ఞః | కర్మసముద్భవః",
+    "en": "annāt | bhavanti | bhūtāni | parjanyāt | annasambhavaḥ | yajñāt | bhavati | parjanyaḥ | yajñaḥ | karmasamudbhavaḥ"
+  },
+  "anvayam": {
+    "te": "అన్నాత్ భూతాని భవన్తి; పర్జన్యాత్ అన్నసమ్భవః; యజ్ఞాత్ పర్జన్యః భవతి; యజ్ఞః కర్మసముద్భవః.",
+    "en": "Annāt bhūtāni bhavanti (from food, beings arise); parjanyāt annasambhavaḥ (from rain, food arises); yajñāt parjanyaḥ bhavati (from sacrifice, rain arises); yajñaḥ karmasamudbhavaḥ (sacrifice arises from action)."
+  },
+  "meaning": {
+    "te": "అన్నం నుండి ప్రాణులు పుడతాయి; వర్షం నుండి అన్నం పుడుతుంది; యజ్ఞం నుండి వర్షం కలుగుతుంది; యజ్ఞం కర్మ నుండి ఉద్భవిస్తుంది.",
+    "en": "From food, beings arise; from rain, food arises; from sacrifice, rain arises; and sacrifice arises from action."
+  },
+  "tatparyam": {
+    "te": "ప్రకృతిచక్రాన్నీ మానవకర్తవ్యాన్నీ ఒకే గొలుసులో ముడిపెట్టే గీతలోని పర్యావరణశాస్త్ర శ్లోకం ఇది. ప్రాణుల మనుగడ అన్నంపై, అన్నం వర్షంపై, వర్షం యజ్ఞంపై ఆధారపడి ఉందని చెప్పడంలో — ప్రకృతినీ మనిషినీ వేరుచేసి చూడకూడదన్న సందేశం దాగి ఉంది. ఇక్కడ 'యజ్ఞం' కేవలం అగ్నిహోత్రం కాదు, సమాజం కోసం చేసే నిస్వార్థకర్మ మొత్తం. ప్రతి ఒక్కరూ తమ కర్తవ్యాన్ని నిర్వర్తించడమే ఈ మొత్తం చక్రాన్ని నడిపే యజ్ఞమని, తద్వారా వ్యక్తికర్మకు విశ్వవ్యాప్త ప్రాముఖ్యత ఇచ్చిన శ్లోకం ఇది.",
+    "en": "This is the Gita's ecological verse, linking nature's cycle and human duty into a single chain. Declaring that the survival of beings depends on food, food on rain, and rain on sacrifice carries a message that nature and humanity are never to be viewed apart. 'Yajna' here means not merely ritual fire-offering but the whole of selfless action performed for society. Everyone fulfilling their own duty is itself the sacrifice that keeps this entire cycle turning — a verse that lends cosmic significance to individual action."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

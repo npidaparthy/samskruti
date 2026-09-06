@@ -1,0 +1,40 @@
+{
+  "id": "niti-059",
+  "tags": [
+    "niti",
+    "vishesha-guna"
+  ],
+  "shlokam": {
+    "te": "అనేకసంశయోచ్ఛేది పరోక్షార్థస్య దర్శకమ్ ।\nసర్వస్య లోచనం శాస్త్రం యస్య నాస్త్యన్ధ ఏవ సః ॥",
+    "sa": "अनेकसंशयोच्छेदि परोक्षार्थस्य दर्शकम् ।\nसर्वस्य लोचनं शास्त्रं यस्य नास्त्यन्ध एव सः ॥",
+    "iast": "anekasaṃśayocchedi parokṣārthasya darśakam ।\nsarvasya locanaṃ śāstraṃ yasya nāstyandha eva saḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "10.9",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "అనేకసంశయోచ్ఛేది | పరోక్షార్థస్య | దర్శకమ్ | సర్వస్య | లోచనమ్ | శాస్త్రమ్ | యస్య | న | అస్తి | అన్ధః | ఏవ | సః",
+    "en": "anekasaṃśayocchedi | parokṣārthasya | darśakam | sarvasya | locanam | śāstram | yasya | na | asti | andhaḥ | eva | saḥ"
+  },
+  "anvayam": {
+    "te": "అనేకసంశయోచ్ఛేది, పరోక్షార్థస్య దర్శకమ్, సర్వస్య లోచనం శాస్త్రమ్; యస్య (శాస్త్రం) న అస్తి, సః అన్ధః ఏవ.",
+    "en": "Anekasaṃśayocchedi (that which resolves manifold doubts), parokṣārthasya darśakam (that which reveals what is not directly perceivable), sarvasya locanam śāstram (scripture/learning is the eye of all beings); yasya (śāstram) na asti (one who lacks it), saḥ andhaḥ eva (he is verily blind)."
+  },
+  "meaning": {
+    "te": "అనేక సంశయాలను తీర్చేది, పరోక్షమైన అర్థాన్ని చూపేది, అందరికీ కన్నువంటిది శాస్త్రం. దానిని కలిగిలేనివాడు గుడ్డివాడే.",
+    "en": "Scripture and learning resolve manifold doubts, reveal what is not directly perceivable, and serve as the eye of all beings. One who lacks it is verily blind."
+  },
+  "tatparyam": {
+    "te": "జ్ఞానాన్ని కంటితో పోల్చే ప్రసిద్ధ ఉపమానం — భౌతికమైన కన్ను ప్రత్యక్షంగా కనబడేదాన్ని మాత్రమే చూపిస్తుంది; శాస్త్రజ్ఞానం అనేది ప్రత్యక్షంగా కనబడనిదాన్ని, భవిష్యత్తునూ, పరిణామాలనూ చూపే 'మూడో కన్ను'. సంశయాలను తీర్చే శక్తి శాస్త్రానికి మాత్రమే ఉందని, దాని లేమి కంటిచూపు లేకపోవడం కన్నా ప్రమాదకరమైనదని ఈ శ్లోకం హెచ్చరిస్తుంది. కళ్ళు ఉన్నా జ్ఞానం లేనివాడు నిజంగానే గుడ్డివాడు అన్న ఈ తీక్షణమైన నిర్వచనం, విద్యకు మానవజీవితంలో ఎంత అనివార్యమైన స్థానం ఉందో చాటుతుంది.",
+    "en": "The celebrated comparison of knowledge to an eye — a physical eye shows only what is directly visible; learning is the 'third eye' revealing what is not directly seen, the future, and consequences. This verse warns that only learning has the power to resolve doubt, and that lacking it is more dangerous than lacking physical sight. This sharp definition — that one with eyes but without knowledge is truly blind — declares just how indispensable education is to human life."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

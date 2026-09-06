@@ -1,0 +1,58 @@
+{
+    "slug": "vishnu-sahasranamam",
+    "title_sa": "विष्णु सहस्रनामस्तोत्रम्",
+    "title_te": "విష్ణు సహస్రనామ స్తోత్రం",
+    "title_en": "Vishnu Sahasranamam",
+    "description_en": "The thousand names of Lord Vishnu from the Mahabharata (Anushasana Parva, Chapter 149). Recited by Bhishma to Yudhishthira on the battlefield of Kurukshetra. One of the most sacred texts in Vaishnavism.",
+    "description_te": "మహాభారతంలోని అనుశాసన పర్వం (అధ్యాయం 149)లో భీష్మపితామహుడు యుధిష్ఠిరుడికి చెప్పిన విష్ణువు యొక్క వేయి నామాలు. వైష్ణవ సంప్రదాయంలో అత్యంత పవిత్రమైన స్తోత్రం.",
+    "theme": "theme-vishnu",
+    "tags": [
+        "vishnu",
+        "sahasranamam",
+        "vaishnavism",
+        "mahabharata",
+        "bhishma"
+    ],
+    "synonyms": [
+        "విష్ణు సహస్రం",
+        "thousand names of vishnu",
+        "VSN",
+        "vishnu sahasra namam"
+    ],
+    "youtube_url": "",
+    "deity": "Vishnu / Narayana",
+    "source": "Mahabharata, Anushasana Parva, Chapter 149",
+    "author": "Vyasa",
+    "language": "Sanskrit",
+    "script_source": "devanagari",
+    "total_names": 1000,
+    "featured": true,
+    "images": [
+        "assets/images/vishnu-sahasranamam-01.svg",
+        "assets/images/vishnu-sahasranamam-02.svg",
+        "assets/images/vishnu-sahasranamam-03.svg"
+    ],
+    "sections": [
+        {
+            "id": "purva-peetika",
+            "title_te": "పూర్వపీఠికా",
+            "title_sa": "पूर्वपीठिका",
+            "title_en": "pūrvapīṭhikā",
+            "file": "vishnu-sahasranamam_purva-peetika.txt"
+        },
+        {
+            "id": "stotram",
+            "title_te": "స్తోత్రమ్",
+            "title_sa": "स्तोत्रम्",
+            "title_en": "stotram",
+            "file": "vishnu-sahasranamam_stotram.txt"
+        },
+        {
+            "id": "uttara-peetika",
+            "title_te": "ఉత్తరపీఠికా",
+            "title_sa": "उत्तरपीठिका",
+            "title_en": "uttarapīṭhikā",
+            "file": "vishnu-sahasranamam_uttara-peetika.txt"
+        }
+    ]
+}
