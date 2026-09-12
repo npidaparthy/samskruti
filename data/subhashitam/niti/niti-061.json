@@ -1,0 +1,40 @@
+{
+  "id": "niti-061",
+  "tags": [
+    "niti",
+    "desha-kala"
+  ],
+  "shlokam": {
+    "te": "సాహిత్యసఙ్గీతకలావిహీనః సాక్షాత్పశుః పుచ్ఛవిషాణహీనః ।\nతృణం న ఖాదన్నపి జీవమానస్తద్భాగధేయం పరమం పశూనామ్ ॥",
+    "sa": "साहित्यसङ्गीतकलाविहीनः साक्षात्पशुः पुच्छविषाणहीनः ।\nतृणं न खादन्नपि जीवमानस्तद्भागधेयं परमं पशूनाम् ॥",
+    "iast": "sāhityasaṅgītakalāvihīnaḥ sākṣātpaśuḥ pucchaviṣāṇahīnaḥ ।\ntṛṇaṃ na khādannapi jīvamānastadbhāgadheyaṃ paramaṃ paśūnām ॥"
+  },
+  "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత సంప్రదాయము (భర్తృహరి ఆపాదితము)",
+    "name_en": "Subhashita tradition (attributed to Bhartrhari)",
+    "chapter": "widely quoted maxim",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
+  },
+  "padavibhagam": {
+    "te": "కావ్యశాస్త్రవిహీనస్య | సాక్షాత్ | పశుః | పుచ్ఛవిషాణహీనః | తృణమ్ | న | ఖాదన్ | అపి | జీవమానః | తత్ | భాగధేయమ్ | పరమమ్ | పశూనామ్",
+    "en": "kāvyaśāstravihīnasya | sākṣāt | paśuḥ | pucchaviṣāṇahīnaḥ | tṛṇam | na | khādan | api | jīvamānaḥ | tat | bhāgadheyam | paramam | paśūnām"
+  },
+  "anvayam": {
+    "te": "కావ్యశాస్త్రవిహీనస్య (నరస్య) సాక్షాత్ పుచ్ఛవిషాణహీనః పశుః (ఇతి బోధ్యమ్); తృణం న ఖాదన్ అపి జీవమానః — తత్ పశూనాం పరమం భాగధేయమ్.",
+    "en": "Kāvyaśāstravihīnasya (of a person devoid of poetry and learning) sākṣāt (verily) pucchaviṣāṇahīnaḥ paśuḥ (he is a beast without a tail and horns, to be understood); tṛṇaṃ na khādan api jīvamānaḥ (that he lives without even grazing on grass) — tat paśūnāṃ paramaṃ bhāgadheyam (that alone is the supreme good fortune of the beasts)."
+  },
+  "meaning": {
+    "te": "కావ్యశాస్త్రజ్ఞానం లేనివాడు తోకా కొమ్ములూ లేని పశువే. అతడు గడ్డి తినకుండానే బతికి ఉండటమే మిగతా పశువులకు గొప్ప అదృష్టం.",
+    "en": "One devoid of poetry and learning is verily a beast without a tail and horns. That such a creature lives without even grazing on grass is the great good fortune of the other beasts."
+  },
+  "tatparyam": {
+    "te": "విద్యారాహిత్యాన్ని పశుత్వంతో పోల్చే అత్యంత చురుకైన, వ్యంగ్యాత్మక శ్లోకం. చివరి పంక్తిలోని చమత్కారం అద్భుతమైనది — ఈ 'పశువు' గడ్డి తినడు కనుక నిజమైన పశువులకు పోటీ ఉండదు, అదే వారి అదృష్టం అని. ఇది కేవలం చదువు లేనివారిని కించపరచడం కాదు — సౌందర్యదృష్టీ, భావుకతా, జ్ఞానతృష్ణా లేని జీవితం మనిషితనానికి దూరమైనదని చెప్పే గంభీరమైన హెచ్చరిక. కావ్యమూ శాస్త్రమూ మనిషిని పశువుల నుండి వేరుచేసే లక్షణాలని, వాటిని నిర్లక్ష్యం చేయడం మానవత్వాన్నే త్యజించడమని ఈ శ్లోకం చాటుతుంది.",
+    "en": "An exceptionally sharp, satirical verse comparing the absence of learning to animal existence. The wit of the final line is remarkable — that this 'beast' does not eat grass, so it poses no competition to real beasts, which is their good fortune. This is not merely mocking the uneducated — it is a serious warning that a life devoid of aesthetic sense, feeling, and thirst for knowledge is estranged from what makes us human. Poetry and learning, this verse declares, are what distinguish humans from beasts, and neglecting them is to abandon humanity itself."
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
+}

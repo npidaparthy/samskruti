@@ -1,0 +1,29 @@
+{
+  "slug": "toTaka-ashtakam",
+  "title_te": "తోటకాష్టకమ్",
+  "title_sa": "तोटकाष्टकम्",
+  "title_en": "toṭakāṣṭakam",
+  "description_en": "The toṭakāṣṭakam is a Vedic hymn composed by ādiśaṃkarācārya, consisting of eight verses in the toṭaka meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
+  "description_te": "తోటకాష్టకమ్, ఆదిశంకరాచార్యులు రచించిన వేద స్తోత్రం, ఇది ఎనిమిది శ్లోకాలతో కూడి, భగవంతుని దివ్య గుణాలను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
+  "theme": "theme-bhakti",
+  "tags": [
+    "shankaracharya",
+    "ashtakam",
+    "stuti"
+  ],
+  "synonyms": [],
+  "youtube_url": "",
+  "featured": true,
+  "images": [
+    "assets/images/toTaka-01.svg"
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "తోటకాష్టకమ్",
+      "title_sa": "तोटकाष्टकम्",
+      "title_en": "toṭakāṣṭakam",
+      "file": "toTaka-ashtakam.txt"
+    }
+  ]
+}

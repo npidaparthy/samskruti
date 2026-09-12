@@ -1,0 +1,818 @@
+[
+  {
+    "n": 1,
+    "sa": "अथ योगानुशासनम्",
+    "te": {
+      "s": "ఇప్పుడు యోగము యొక్క అనుశాసనం (బోధన) ప్రారంభమవుతుంది.",
+      "d": "\"అథ\" అనే పదం శుభారంభాన్ని సూచిస్తుంది. సాధకుడు ఇతర సాధనల ద్వారా సిద్ధపడిన తర్వాత, ఇప్పుడు గురుపరంపరగా వచ్చిన యోగశాస్త్రాన్ని క్రమపద్ధతిలో నేర్చుకోవడానికి సిద్ధంగా ఉన్నాడని ఈ సూత్రం తెలియజేస్తుంది."
+    },
+    "en": {
+      "s": "Now begins the teaching of yoga.",
+      "d": "The word \"atha\" marks an auspicious beginning, signaling that the seeker has already prepared through other disciplines and is now ready to receive this systematic teaching (anuśāsana) on yoga, handed down through tradition."
+    },
+    "sad": {
+      "s": "इदानीं योगस्य शास्त्रोक्तं अनुशासनम् आरभ्यते।",
+      "d": "\"अथ\" शब्दः मङ्गलारम्भं द्योतयति। पूर्वसाधनासिद्धः साधकः सम्प्रति गुरुपरम्परागतं योगशास्त्रं क्रमेण अधिगन्तुम् अर्हः भवति इति सूत्रस्यार्थः।"
+    }
+  },
+  {
+    "n": 2,
+    "sa": "योगश्चित्तवृत्तिनिरोधः",
+    "te": {
+      "s": "యోగమంటే చిత్తవృత్తులను నిరోధించడం (ఆపడం).",
+      "d": "ఇది పతంజలి ఇచ్చిన యోగానికి ప్రధాన నిర్వచనం. చిత్తం (మనస్సు) నిరంతరం ఉత్పన్నం చేసే వృత్తులు (ఆలోచనా తరంగాలు) ఆగిపోయినప్పుడు యోగం సిద్ధిస్తుంది. అలల్లేని నీటి వలె మనస్సు నిశ్చలమైనప్పుడే నిజమైన జ్ఞానం స్పష్టంగా గోచరిస్తుంది."
+    },
+    "en": {
+      "s": "Yoga is the cessation of the mind's fluctuations.",
+      "d": "This is Patanjali's core definition: yoga occurs when the citta (mind-stuff) stops producing vṛttis, the constant waves of thought, perception, and emotion. When these fluctuations are stilled, the mind becomes a calm lake rather than a turbulent sea, allowing true perception to occur."
+    },
+    "sad": {
+      "s": "चित्तस्य वृत्तीनां निरोधः एव योगः।",
+      "d": "चित्तं निरन्तरं विचारतरङ्गान् जनयति, तान् वृत्तीः वदन्ति। यदा एताः वृत्तयः उपशान्ताः भवन्ति तदा चित्तं स्वच्छजलवत् स्थिरं भवति, तदैव योगः सिद्धः इति पतञ्जलिः निरूपयति।"
+    }
+  },
+  {
+    "n": 3,
+    "sa": "तदा द्रष्टुः स्वरूपेऽवस्थानम्",
+    "te": {
+      "s": "అప్పుడు ద్రష్ట (సాక్షి) తన నిజస్వరూపంలో నిలుస్తాడు.",
+      "d": "చిత్తవృత్తులు నిరోధించబడినప్పుడు, పురుషుడు (సాక్షీచైతన్యం) మనస్సు యొక్క ప్రభావాలకు లోనుకాకుండా తన శుద్ధస్వరూపమైన చైతన్యంలో స్థిరపడతాడు. ఇదే యోగం యొక్క లక్ష్యం."
+    },
+    "en": {
+      "s": "Then the seer abides in its own true nature.",
+      "d": "When the mind's fluctuations cease, the puruṣa (the witnessing consciousness) is no longer distorted by mental activity and rests in its own essential nature — pure awareness, untouched by the mind's projections."
+    },
+    "sad": {
+      "s": "तदा द्रष्टा स्वस्वरूपे एव तिष्ठति।",
+      "d": "वृत्तिनिरोधे सति पुरुषः चित्तवृत्तिभिः अनाक्रान्तः स्वकीये शुद्धचैतन्यस्वरूपे स्थिरो भवति। एतदेव योगस्य परमं प्रयोजनम्।"
+    }
+  },
+  {
+    "n": 4,
+    "sa": "वृत्तिसारूप्यमितरत्र",
+    "te": {
+      "s": "యోగం లేనప్పుడు, ద్రష్ట చిత్తవృత్తులతో తనను తాను ఏకం చేసుకుంటాడు.",
+      "d": "మనస్సు నిశ్చలంగా లేనప్పుడు, పురుషుడు తాత్కాలికంగా ఉత్పన్నమైన వృత్తి (ఆలోచన/భావన) రూపాన్ని తనదే అనుకుంటాడు - స్ఫటికం దాని కింద ఉన్న వస్త్రపు రంగును ప్రతిబింబించినట్లు. ఇదే సాధారణ, బంధనస్థితి."
+    },
+    "en": {
+      "s": "Otherwise, the seer identifies with the mind's modifications.",
+      "d": "When the mind is not stilled, the puruṣa appears to take on the form of whatever thought, emotion, or perception (vṛtti) is currently active — much like a crystal reflecting the color of the cloth beneath it. This false identification is the ordinary, unliberated state."
+    },
+    "sad": {
+      "s": "अन्यदा द्रष्टा वृत्त्या सह तदाकारः इव भवति।",
+      "d": "चित्ते अनिरुद्धे सति पुरुषः वर्तमानवृत्त्याकारं स्वकीयमिव अनुभवति, यथा स्फटिकः अधोवस्त्रवर्णं प्रतिबिम्बयति। एषा एव सामान्या बद्धावस्था।"
+    }
+  },
+  {
+    "n": 5,
+    "sa": "वृत्तयः पञ्चतय्यः क्लिष्टाऽक्लिष्टाः",
+    "te": {
+      "s": "వృత్తులు ఐదు రకాలు; అవి క్లేశకరమైనవి లేదా క్లేశరహితమైనవి కావచ్చు.",
+      "d": "పతంజలి అన్ని మానసిక చర్యలను ఐదు తరగతులుగా విభజిస్తాడు. అవి అవిద్య, అహంకారాలతో కలుషితమైతే క్లిష్టమైనవి (బంధకరమైనవి), శుద్ధంగా ఉంటే అక్లిష్టమైనవి (విముక్తికి దోహదపడేవి) అవుతాయి."
+    },
+    "en": {
+      "s": "The mental modifications are of five kinds, and each may be either afflicted or unafflicted.",
+      "d": "Patanjali classifies all mental activity into five categories. Each can either bind us deeper into suffering (kliṣṭa, when colored by ignorance and ego) or move us toward freedom (akliṣṭa, when free from such coloring), depending on the underlying intention and awareness."
+    },
+    "sad": {
+      "s": "वृत्तयः पञ्चविधाः, ताः क्लिष्टाः अक्लिष्टाः च भवन्ति।",
+      "d": "सर्वाः चित्तवृत्तयः पञ्चप्रकाराः। अविद्याहङ्काराभ्यां दूषिताः क्लिष्टाः बन्धहेतवः, ताभ्यां रहिताः अक्लिष्टाः मोक्षसाधनभूताः च भवन्ति।"
+    }
+  },
+  {
+    "n": 6,
+    "sa": "प्रमाणविपर्ययविकल्पनिद्रास्मृतयः",
+    "te": {
+      "s": "అవి ప్రమాణం, విపర్యయం, వికల్పం, నిద్ర, స్మృతి అని ఐదు.",
+      "d": "ముందు సూత్రంలో చెప్పిన ఐదు వృత్తులను ఇక్కడ పేర్కొంటారు - ప్రమాణం (సరైన జ్ఞానం), విపర్యయం (భ్రమ), వికల్పం (ఊహ), నిద్ర, స్మృతి (జ్ఞాపకం). తరువాతి సూత్రాలు వీటిని వివరిస్తాయి."
+    },
+    "en": {
+      "s": "They are: right knowledge, misconception, imagination, sleep, and memory.",
+      "d": "This sutra names the five vṛttis introduced earlier: pramāṇa (valid cognition), viparyaya (error), vikalpa (verbal imagination), nidrā (sleep), and smṛti (memory). Each subsequent sutra in this section defines one of these in turn."
+    },
+    "sad": {
+      "s": "ताः प्रमाणं, विपर्ययः, विकल्पः, निद्रा, स्मृतिः च।",
+      "d": "पूर्वसूत्रोक्ताः पञ्च वृत्तयः इह नामतः निर्दिष्टाः - प्रमाणं, विपर्ययः, विकल्पः, निद्रा, स्मृतिः। अनन्तरसूत्रेषु एकैका विवृता भविष्यति।"
+    }
+  },
+  {
+    "n": 7,
+    "sa": "प्रत्यक्षानुमानागमाः प्रमाणानि",
+    "te": {
+      "s": "ప్రత్యక్షం, అనుమానం, ఆగమం (శాస్త్ర వచనం) - ఇవి ప్రమాణాలు.",
+      "d": "మొదటి వృత్తి అయిన ప్రమాణానికి మూడు మూలాలున్నాయి - ప్రత్యక్షం (ఇంద్రియాల ద్వారా నేరుగా తెలిసే జ్ఞానం), అనుమానం (తర్కం ద్వారా నిర్ధారించే జ్ఞానం), ఆగమం (విశ్వసనీయమైన శాస్త్రం లేదా గురువు వాక్యం)."
+    },
+    "en": {
+      "s": "Direct perception, inference, and reliable testimony are the means of valid knowledge.",
+      "d": "Pramāṇa, the first vṛtti, has three sources: pratyakṣa (direct sensory or intuitive perception), anumāna (logical inference based on evidence), and āgama (testimony of trustworthy sources such as scripture or a reliable teacher)."
+    },
+    "sad": {
+      "s": "प्रत्यक्षम्, अनुमानम्, आगमः च प्रमाणत्रयम्।",
+      "d": "प्रथमा वृत्तिः प्रमाणं त्रिविधा - इन्द्रियजन्यं प्रत्यक्षम्, हेतुपूर्वकम् अनुमानम्, विश्वसनीयशास्त्रगुरुवचनं च आगमः इति।"
+    }
+  },
+  {
+    "n": 8,
+    "sa": "विपर्ययो मिथ्याज्ञानमतद्रूपप्रतिष्ठम्",
+    "te": {
+      "s": "విపర్యయం అంటే వస్తువు యథార్థ స్వరూపానికి సంబంధం లేని తప్పుడు జ్ఞానం.",
+      "d": "విపర్యయం అంటే మనస్సు ఏదైనా దృఢంగా నిజమని భావించినా, అది వస్తువు యొక్క నిజస్వరూపానికి సరిపోలనిది - ఉదాహరణకు తాడును పామని భ్రమించడం వంటిది. ఇది నమ్మకంతో కూడిన తప్పు జ్ఞానం."
+    },
+    "en": {
+      "s": "Misconception is false knowledge not based on the true form of its object.",
+      "d": "Viparyaya occurs when the mind firmly believes something to be true, but that belief does not correspond to the actual nature of the object — like mistaking a rope for a snake. It is confidently held, yet fundamentally mistaken."
+    },
+    "sad": {
+      "s": "विपर्ययः वस्तुस्वरूपानुगुणं न भवति, मिथ्याज्ञानमात्रम्।",
+      "d": "यत्र चित्तं दृढतया किमपि सत्यं मन्यते, परं तत् वस्तुनः यथार्थरूपेण न सङ्गच्छते, यथा रज्जौ सर्पभ्रान्तिः, तत् विपर्ययः इति कथ्यते।"
+    }
+  },
+  {
+    "n": 9,
+    "sa": "शब्दज्ञानानुपाती वस्तुशून्यो विकल्पः",
+    "te": {
+      "s": "వికల్పం అంటే శబ్దం, జ్ఞానం వల్ల కలిగే ఊహ - వాస్తవ వస్తువు లేకుండా.",
+      "d": "వికల్పం అనేది కేవలం పదాలను బట్టి మనస్సులో ఏర్పడే ఊహ. వాస్తవంలో ఆ వస్తువు లేకపోయినా, శబ్దాన్ని విన్నప్పుడు ఆ భావన మనస్సులో మెదులుతుంది - ఉదాహరణకు \"కుందేటి కొమ్ము\" అన్నట్లు."
+    },
+    "en": {
+      "s": "Imagination follows from words and knowledge but has no real object.",
+      "d": "Vikalpa is a mental construct that arises purely from language — when we hear a word, an image or idea forms in the mind even if no corresponding real object exists, such as imagining \"the horn of a rabbit.\""
+    },
+    "sad": {
+      "s": "विकल्पः शब्दमात्रजन्यः कल्पनामयः, वस्तुतः शून्यः।",
+      "d": "यत्र शब्दश्रवणमात्रेण चित्ते कल्पना उद्भवति, परं तदनुरूपं वस्तु जगति न विद्यते, यथा शशशृङ्गम्, तत् विकल्पः इति उच्यते।"
+    }
+  },
+  {
+    "n": 10,
+    "sa": "अभावप्रत्ययालम्बना वृत्तिर्निद्रा",
+    "te": {
+      "s": "నిద్ర అనేది \"ఏమీ లేదు\" అనే భావనపై ఆధారపడిన వృత్తి.",
+      "d": "నిద్ర అనే వృత్తి, ఇతర మానసిక చర్యలు లేకపోవడాన్ని (\"ఏమీ లేదు\" అనే అనుభవాన్ని) ఆధారంగా చేసుకుని ఉంటుంది. గాఢ నిద్రలో కూడా మనస్సు పూర్తిగా ఆగదు, ఆ శూన్యత యొక్క అనుభవాన్నే అది పట్టుకుని ఉంటుంది."
+    },
+    "en": {
+      "s": "Sleep is the mental state that rests on the experience of absence.",
+      "d": "Nidrā, the vṛtti of sleep, is supported by the cognition of an absence of other mental content. Even in deep sleep, when we sense \"nothing,\" the mind has not stopped functioning entirely — it rests on this perception of voidness itself."
+    },
+    "sad": {
+      "s": "निद्रा अभावज्ञानाश्रिता वृत्तिः।",
+      "d": "निद्राख्या वृत्तिः अन्यवृत्त्यभावज्ञानम् आलम्बीकृत्य वर्तते। सुषुप्तावस्थायामपि चित्तं सर्वथा निवृत्तं न भवति, किन्तु तस्य शून्यतानुभवम् एव आश्रित्य तिष्ठति।"
+    }
+  },
+  {
+    "n": 11,
+    "sa": "अनुभूतविषयासम्प्रमोषः स्मृतिः",
+    "te": {
+      "s": "స్మృతి అంటే అనుభవించిన విషయాన్ని కోల్పోకుండా గుర్తుచేసుకోవడం.",
+      "d": "స్మృతి అనేది, మనస్సులో ముందు అనుభవించిన విషయం వదిలిన సంస్కారం ద్వారా, దానిని కోల్పోకుండా, మార్పు లేకుండా తిరిగి గుర్తుకు తెచ్చుకునే వృత్తి."
+    },
+    "en": {
+      "s": "Memory is the retention, without distortion, of previously experienced objects.",
+      "d": "Smṛti is the vṛtti by which a past experience, having left an impression (saṁskāra) in the mind, surfaces again without being lost or altered — the mind faithfully recalling what it once perceived."
+    },
+    "sad": {
+      "s": "स्मृतिः अनुभूतविषयस्य अविस्मरणम्।",
+      "d": "पूर्वानुभूतस्य विषयस्य संस्काररूपेण चित्ते स्थितस्य, तस्य अविकृतम् अविस्मृतं च पुनरुद्भवनं स्मृतिवृत्तिः इति कथ्यते।"
+    }
+  },
+  {
+    "n": 12,
+    "sa": "अभ्यासवैराग्याभ्यां तन्निरोधः",
+    "te": {
+      "s": "అభ్యాసం, వైరాగ్యం అనే రెండు ద్వారా చిత్తవృత్తుల నిరోధం సాధ్యమవుతుంది.",
+      "d": "యోగసాధనకు రెండు మూల స్తంభాలు ఇక్కడ తెలుపబడ్డాయి - అభ్యాసం (నిరంతర సాధన) మరియు వైరాగ్యం (కోరికల పట్ల అనాసక్తి). ఈ రెండు రెక్కల వలె కలిసి పనిచేసినప్పుడే చిత్తవృత్తులు నిరోధించబడతాయి."
+    },
+    "en": {
+      "s": "These fluctuations are stilled through practice and dispassion.",
+      "d": "The two pillars of yoga practice are introduced: abhyāsa, sustained effort toward steadiness, and vairāgya, dispassion or non-attachment toward objects of desire. Together, like two wings, they bring the mind's fluctuations to rest."
+    },
+    "sad": {
+      "s": "अभ्यासवैराग्याभ्यां वृत्तिनिरोधः सिद्ध्यति।",
+      "d": "योगसाधनस्य द्वे मूलभूते अङ्गे इह निरूपिते - अभ्यासः (निरन्तरः प्रयत्नः) वैराग्यं च (विषयेषु अनासक्तिः)। एतौ द्वौ पक्षौ इव सहकृत्य वृत्तिनिरोधं साधयतः।"
+    }
+  },
+  {
+    "n": 13,
+    "sa": "तत्र स्थितौ यत्नोऽभ्यासः",
+    "te": {
+      "s": "అభ్యాసం అంటే ఆ స్థిరత్వంలో నిలిచి ఉండటానికి చేసే నిరంతర ప్రయత్నం.",
+      "d": "ఇక్కడ అభ్యాసాన్ని నిర్వచిస్తారు - చిత్తం యొక్క నిశ్చల, వృత్తిరహిత స్థితిలో నిలిచి ఉండటానికి చేసే నిరంతరమైన, క్రమశిక్షణతో కూడిన ప్రయత్నమే అభ్యాసం. ఇది ఒక్క చర్య కాదు, నిరంతర యత్నం."
+    },
+    "en": {
+      "s": "Practice is the sustained effort to remain established in that stillness.",
+      "d": "Abhyāsa is defined here as the continued, disciplined effort to maintain the mind in its still, fluctuation-free state — not a single act, but an ongoing endeavor toward steadiness."
+    },
+    "sad": {
+      "s": "स्थिरत्वे स्थितिं प्राप्तुं कृतः निरन्तरयत्नः अभ्यासः।",
+      "d": "इह अभ्यासः निरूपितः - चित्तस्य निश्चलां वृत्तिशून्यां स्थितिं स्थिरीकर्तुं कृतः सतत-अनुशासित-प्रयत्नः अभ्यासः इति। न एषः एककार्यं, अपि तु निरन्तरं साधनम्।"
+    }
+  },
+  {
+    "n": 14,
+    "sa": "स तु दीर्घकालनैरन्तर्यसत्कारासेवितो दृढभूमिः",
+    "te": {
+      "s": "అభ్యాసం దృఢమవ్వాలంటే దీర్ఘకాలం, నిరంతరం, శ్రద్ధతో చేయాలి.",
+      "d": "అభ్యాసం స్థిరంగా, దృఢంగా మారడానికి మూడు షరతులు అవసరం - దీర్ఘకాలం (చాలా కాలం పాటు), నైరంతర్యం (విడకుండా నిరంతరంగా), సత్కారం (శ్రద్ధ, భక్తి, పూర్తి అంకితభావంతో) చేయడం. అశ్రద్ధగా అప్పుడప్పుడు చేసే సాధన ఫలించదు."
+    },
+    "en": {
+      "s": "This practice becomes firmly rooted when pursued for a long time, without interruption, and with sincere devotion.",
+      "d": "Three conditions make practice truly stable: dīrghakāla (sustained over a long duration), nairantarya (unbroken continuity), and satkāra (performed with reverence, sincerity, and full attention) — not casual or sporadic effort."
+    },
+    "sad": {
+      "s": "दीर्घकालं नैरन्तर्येण सादरं च अभ्यासः दृढः भवति।",
+      "d": "अभ्यासस्य दृढतायां त्रयः धर्माः अपेक्षिताः - दीर्घकालः (चिरकालं यावत्), नैरन्तर्यम् (अविच्छिन्नं सातत्येन), सत्कारः (श्रद्धाभक्तिपूर्णं समर्पणेन च) इति। अनादरेण कदाचित्कृतः अभ्यासः न फलप्रदः।"
+    }
+  },
+  {
+    "n": 15,
+    "sa": "दृष्टानुश्रविकविषयवितृष्णस्य वशीकारसञ्ज्ञा वैराग्यम्",
+    "te": {
+      "s": "వైరాగ్యం అంటే చూసిన, విన్న విషయాల పట్ల కోరికను జయించిన స్థితి.",
+      "d": "వైరాగ్యం అంటే ప్రత్యక్షంగా అనుభవించిన (సంపద, సుఖం వంటివి) లేదా శాస్త్రాల ద్వారా విన్న (స్వర్గం వంటివి) విషయాల పట్ల కోరికను పూర్తిగా జయించిన స్థితి. ఇది అణచివేత కాదు, నిజమైన అనాసక్తి."
+    },
+    "en": {
+      "s": "Dispassion is the mastery of desire for objects seen or heard about.",
+      "d": "Vairāgya is the state of having mastered craving — whether for things directly experienced (dṛṣṭa, like wealth or pleasure) or things known through hearing or scripture (ānuśravika, like heavenly realms). It is a settled freedom from grasping, not mere suppression."
+    },
+    "sad": {
+      "s": "दृष्टश्रुतविषयतृष्णाजयः वैराग्यम् इति उच्यते।",
+      "d": "यत् दृष्टविषयेषु (धनसुखादिषु) श्रुतविषयेषु (स्वर्गादिषु) च तृष्णां जयति, तस्य वशीकारसंज्ञा वैराग्यम् इति कथ्यते। एतत् दमनं न, अपि तु यथार्थः अनासक्तिभावः।"
+    }
+  },
+  {
+    "n": 16,
+    "sa": "तत्परं पुरुषख्यातेर्गुणवैतृष्ण्यम्",
+    "te": {
+      "s": "ఉత్తమ వైరాగ్యం - పురుష జ్ఞానం వల్ల గుణాల పట్ల కూడా కోరిక లేకపోవడం.",
+      "d": "సాధారణ వైరాగ్యానికి మించిన పరవైరాగ్యం ఉంది - ఇది ప్రకృతి గుణాల (సత్వ, రజో, తమో) పట్ల కూడా కోరిక లేని స్థితి. ఇది పురుషుని (నిజమైన ఆత్మను) ప్రత్యక్షంగా గ్రహించినప్పుడు మాత్రమే కలుగుతుంది."
+    },
+    "en": {
+      "s": "The higher dispassion is freedom even from the qualities of nature, born of true self-realization.",
+      "d": "Beyond ordinary dispassion lies para-vairāgya — a complete absence of craving even for the guṇas (the qualities of nature itself: sattva, rajas, tamas), arising only when one has directly realized the puruṣa, the true self."
+    },
+    "sad": {
+      "s": "पुरुषसाक्षात्कारात् गुणेष्वपि तृष्णाभावः परवैराग्यम्।",
+      "d": "सामान्यवैराग्यात् परं परवैराग्यं वर्तते - तत्र प्रकृतिगुणेषु (सत्त्वरजस्तमःसु) अपि तृष्णा न भवति। एतत् पुरुषस्य साक्षात् ज्ञानेन एव सिद्ध्यति।"
+    }
+  },
+  {
+    "n": 17,
+    "sa": "वितर्कविचारानन्दास्मितारूपानुगमात् सम्प्रज्ञातः",
+    "te": {
+      "s": "సంప్రజ్ఞాత సమాధి - వితర్క, విచార, ఆనంద, అస్మిత అనే నాలుగు దశలతో కూడి ఉంటుంది.",
+      "d": "ఈ సమాధి (సంప్రజ్ఞాతం - జ్ఞానంతో కూడిన సమాధి) నాలుగు క్రమంగా సూక్ష్మమైన దశల్లో సాగుతుంది - వితర్కం (స్థూల చింతన), విచారం (సూక్ష్మ చింతన), ఆనందం (ఆనందతరంగం), అస్మిత (శుద్ధ \"నేను\" అనే భావన)."
+    },
+    "en": {
+      "s": "Samprajñāta samādhi is accompanied by reasoning, reflection, bliss, and a sense of \"I-am.\"",
+      "d": "This absorption-with-awareness passes through four progressively subtler stages: vitarka (gross reasoning about an object), vicāra (subtle reflection), ānanda (a wave of bliss), and asmitā (a refined sense of pure individuality), each marking deeper concentration."
+    },
+    "sad": {
+      "s": "संप्रज्ञातसमाधिः वितर्कविचारानन्दास्मितारूपैः क्रमशः सूक्ष्मतया युक्तः।",
+      "d": "संप्रज्ञातः समाधिः चतुर्भिः क्रमिकसूक्ष्मावस्थाभिः युक्तः भवति - वितर्कः (स्थूलचिन्तनम्), विचारः (सूक्ष्मचिन्तनम्), आनन्दः (आनन्दतरङ्गः), अस्मिता (शुद्धाहम्भावः) इति।"
+    }
+  },
+  {
+    "n": 18,
+    "sa": "विरामप्रत्ययाभ्यासपूर्वः संस्कारशेषोऽन्यः",
+    "te": {
+      "s": "అసంప్రజ్ఞాత సమాధి - కేవలం సంస్కారాలు మాత్రమే మిగిలి ఉండే స్థితి.",
+      "d": "రెండవ రకం సమాధి (అసంప్రజ్ఞాతం), మనస్సు యొక్క అన్ని వ్యాపారాలను ఆపే అభ్యాసం ద్వారా కలుగుతుంది. ఇందులో స్థూల, సూక్ష్మ జ్ఞానమేమీ మిగలదు, కేవలం సూక్ష్మ సంస్కారాలు మాత్రమే శేషించి ఉంటాయి."
+    },
+    "en": {
+      "s": "The other samādhi, preceded by practice of cessation, leaves only latent impressions.",
+      "d": "Asamprajñāta samādhi arises from the repeated practice of letting all mental content cease (virāma-pratyaya). Nothing remains except subtle saṁskāras, the seeds of future tendencies — a deeper, objectless stillness."
+    },
+    "sad": {
+      "s": "विरामाभ्यासजन्यः अन्यः समाधिः, यत्र संस्कारमात्रं शेषं भवति।",
+      "d": "द्वितीयः समाधिः (असंप्रज्ञातः) चित्तवृत्तिनिरोधाभ्यासेन जायते। तत्र स्थूलं सूक्ष्मं वा ज्ञानं न अवशिष्यते, केवलं सूक्ष्माः संस्काराः शेषतया तिष्ठन्ति।"
+    }
+  },
+  {
+    "n": 19,
+    "sa": "भवप्रत्ययो विदेहप्रकृतिलयानाम्",
+    "te": {
+      "s": "విదేహులు, ప్రకృతిలయులు అనుభవించే ఈ స్థితి వారి జన్మస్థితి వల్లనే కలుగుతుంది.",
+      "d": "కొందరు జీవులు - విదేహులు (శరీరం లేని దేవతలు వంటివారు), ప్రకృతిలయులు (మూలప్రకృతిలో లయమైనవారు) - ప్రత్యేక సాధన లేకుండానే, వారి జన్మస్థితి కారణంగా సమాధి వంటి స్థితిని పొందుతారు. ఇది పతంజలి బోధించే సాధనామార్గం నుండి భిన్నమైనది."
+    },
+    "en": {
+      "s": "For disembodied beings and those merged into nature, this state arises naturally from their condition.",
+      "d": "Certain beings — videha (bodiless beings) and prakṛti-laya (those absorbed into primal nature) — experience a samādhi-like state simply as a consequence of their birth, without deliberate practice. This is distinguished from the deliberately cultivated path Patanjali teaches."
+    },
+    "sad": {
+      "s": "विदेहप्रकृतिलयानां स्वजन्मप्रत्ययेन एव सा स्थितिः सिद्ध्यति।",
+      "d": "विदेहाः (शरीराभावयुक्ताः देवादयः) प्रकृतिलयाः (मूलप्रकृत्यां लीनाः) च विना विशेषसाधनेन स्वजन्मस्थित्या एव समाधितुल्यां स्थितिं लभन्ते। एतत् पतञ्जलिप्रोक्तात् सप्रयत्नमार्गात् भिन्नम्।"
+    }
+  },
+  {
+    "n": 20,
+    "sa": "श्रद्धावीर्यस्मृतिसमाधिप्रज्ञापूर्वक इतरेषाम्",
+    "te": {
+      "s": "సాధారణ సాధకులకు ఈ స్థితి శ్రద్ధ, వీర్యం, స్మృతి, సమాధి, ప్రజ్ఞల ద్వారా కలుగుతుంది.",
+      "d": "విదేహులు, ప్రకృతిలయుల వలె కాకుండా, సాధారణ సాధకులు ఈ సమాధిని ఐదు సాధనాల ద్వారా పొందుతారు - శ్రద్ధ (నమ్మకం), వీర్యం (ఉత్సాహపూరిత ప్రయత్నం), స్మృతి (ఏకాగ్రమైన జ్ఞాపకం), సమాధి (ఏకాగ్రత), ప్రజ్ఞ (వివేకజ్ఞానం)."
+    },
+    "en": {
+      "s": "For other practitioners, it is preceded by faith, energy, mindfulness, concentration, and insight.",
+      "d": "Unlike the previous group, ordinary human aspirants reach this absorption through deliberate cultivation: śraddhā (trust in the path), vīrya (vigorous effort), smṛti (mindful recollection), samādhi (one-pointed concentration), and prajñā (the discriminative wisdom that results)."
+    },
+    "sad": {
+      "s": "इतरसाधकानां श्रद्धावीर्यस्मृतिसमाधिप्रज्ञापूर्वकं तत् सिद्ध्यति।",
+      "d": "विदेहप्रकृतिलयभिन्नाः सामान्यसाधकाः पञ्चभिः उपायैः समाधिं लभन्ते - श्रद्धा (विश्वासः), वीर्यम् (उत्साहपूर्णप्रयत्नः), स्मृतिः (एकाग्रस्मरणम्), समाधिः (चित्तैकाग्र्यम्), प्रज्ञा (विवेकज्ञानम्) इति।"
+    }
+  },
+  {
+    "n": 21,
+    "sa": "तीव्रसंवेगानामासन्नः",
+    "te": {
+      "s": "తీవ్రమైన సాధనోత్సాహం కలవారికి సమాధి త్వరగా సిద్ధిస్తుంది.",
+      "d": "సంవేగం అంటే సాధనలో ఉన్న తీవ్రత, ఆవశ్యకత, ఉత్సాహం. ఎంత తీవ్రంగా, నిష్ఠగా సాధన చేస్తారో అంత త్వరగా సమాధి సిద్ధిస్తుంది - ఫలితం యొక్క వేగం సాధకుని శ్రద్ధను ప్రతిబింబిస్తుంది."
+    },
+    "en": {
+      "s": "For those with intense urgency, this realization is near at hand.",
+      "d": "Saṁvega refers to the intensity, urgency, and fervor of one's spiritual effort. Those who practice with deep, burning intensity attain samādhi quickly; the depth of result mirrors the depth of dedication."
+    },
+    "sad": {
+      "s": "तीव्रसंवेगयुक्तानां समाधिः सत्वरं सिद्ध्यति।",
+      "d": "संवेगः साधनस्य तीव्रता उत्कण्ठा च। यः तीव्रनिष्ठया साधनं करोति, तस्य समाधिः शीघ्रं सिद्ध्यति - फलस्य आसन्नता साधकस्य उद्यमानुरूपा भवति।"
+    }
+  },
+  {
+    "n": 22,
+    "sa": "मृदुमध्याधिमात्रत्वात्ततोऽपि विशेषः",
+    "te": {
+      "s": "సాధనలో మృదు, మధ్య, తీవ్ర అనే తేడాల వల్ల ఫలితంలో కూడా తేడా ఉంటుంది.",
+      "d": "సాధన తీవ్రతలో కూడా స్థాయిభేదాలు ఉంటాయి - మృదువు (సాధువు), మధ్యమం, అధిమాత్రం (అత్యంత తీవ్రం). ఈ తేడాల వల్ల సమానంగా శ్రద్ధగల సాధకుల్లో కూడా సాధనా ఫలితంలో వ్యత్యాసం కనిపిస్తుంది."
+    },
+    "en": {
+      "s": "Even among these, there is further distinction based on mild, moderate, or intense practice.",
+      "d": "Practice itself varies in degree — mṛdu (gentle), madhya (moderate), or adhimātra (intense) — and this variation creates further gradations in the speed and depth of attainment, even among equally sincere practitioners."
+    },
+    "sad": {
+      "s": "साधनस्य मृदुमध्यतीव्रभेदात् फलेऽपि भेदः भवति।",
+      "d": "साधनस्य तीव्रतायामपि स्तरभेदाः सन्ति - मृदुः, मध्यमः, अधिमात्रः (अतितीव्रः) इति। एतैः भेदैः समानश्रद्धावतामपि साधकानां मध्ये फलप्राप्तौ तारतम्यं दृश्यते।"
+    }
+  },
+  {
+    "n": 23,
+    "sa": "ईश्वरप्रणिधानाद्वा",
+    "te": {
+      "s": "లేదా, ఈశ్వరునికి శరణాగతి (ప్రణిధానం) ద్వారా కూడా సమాధి సిద్ధిస్తుంది.",
+      "d": "ఇంతవరకు చెప్పిన సాధనా మార్గాలకు ప్రత్యామ్నాయంగా, మరో సరళమైన మార్గం ఇక్కడ చెప్పబడింది - ఈశ్వరునిపై పూర్తి భక్తి, శరణాగతి (ప్రణిధానం) ద్వారా కూడా చిత్తనిరోధం, సమాధి సిద్ధించవచ్చు."
+    },
+    "en": {
+      "s": "Or, samādhi can be attained through devoted surrender to Īśvara.",
+      "d": "An alternative, gentler path to the same goal: praṇidhāna, complete surrender and devotion to Īśvara (the Supreme Lord), can also lead directly to the stilling of the mind — devotion as a direct route to liberation."
+    },
+    "sad": {
+      "s": "अथवा ईश्वरे पूर्णशरणागत्या समाधिः सिद्ध्यति।",
+      "d": "पूर्वोक्तसाधनमार्गाणाम् विकल्पतया, सरलः अन्यः मार्गः इह उक्तः - ईश्वरे सम्पूर्णभक्तिशरणागतिरूपं प्रणिधानं कृत्वा अपि चित्तनिरोधः समाधिः च सिद्ध्यति।"
+    }
+  },
+  {
+    "n": 24,
+    "sa": "क्लेशकर्मविपाकाशयैरपरामृष्टः पुरुषविशेष ईश्वरः",
+    "te": {
+      "s": "ఈశ్వరుడు అంటే క్లేశాలు, కర్మ, దాని ఫలితాలు అంటనటువంటి విశిష్ట పురుషుడు.",
+      "d": "పతంజలి ఈశ్వరుని తాత్త్విక దృష్టితో నిర్వచిస్తాడు - ఈశ్వరుడు ఒక విశిష్టమైన పురుషుడు, ఆయనకు ఎన్నడూ క్లేశాలు (అవిద్యాది దోషాలు), కర్మ, దాని ఫలితాలు (విపాకం), సంస్కారాలు (ఆశయం) అంటవు. ఇతర జీవుల నుండి ఈశ్వరుడు ఈ లక్షణాల వల్ల వేరుగా ఉంటాడు."
+    },
+    "en": {
+      "s": "Īśvara is a unique self, untouched by afflictions, actions, their results, or latent impressions.",
+      "d": "Patanjali defines Īśvara philosophically: he is a special puruṣa (self), eternally free from the five afflictions (kleśas), unaffected by karma, never bound by its fruits (vipāka), and carrying no latent impressions (āśaya) that ordinary beings accumulate."
+    },
+    "sad": {
+      "s": "ईश्वरः क्लेशकर्मविपाकाशयरहितः विशिष्टः पुरुषः।",
+      "d": "पतञ्जलिः ईश्वरं तात्त्विकदृष्ट्या निरूपयति - ईश्वरः विशिष्टः पुरुषः, यः सर्वदा पञ्चक्लेशैः (अविद्यादिदोषैः) कर्मणा तत्फलभूतेन विपाकेन संस्काररूपेण आशयेन च अस्पृष्टः तिष्ठति। एतैः लक्षणैः ईश्वरः इतरजीवेभ्यः भिन्नः भवति।"
+    }
+  },
+  {
+    "n": 25,
+    "sa": "तत्र निरतिशयं सर्वज्ञबीजम्",
+    "te": {
+      "s": "ఈశ్వరునిలో సర్వజ్ఞత్వానికి అత్యున్నతమైన బీజం ఉంటుంది.",
+      "d": "ఈశ్వరునిలో సర్వజ్ఞత్వం (అన్నీ తెలుసుకునే శక్తి) యొక్క బీజం పరిపూర్ణ, అత్యున్నత స్థాయిలో నివాసం ఉంటుంది. దీనికి మించినది మరొకటి లేదు."
+    },
+    "en": {
+      "s": "In Him lies the unsurpassed seed of omniscience.",
+      "d": "Īśvara possesses, in its fullest, unsurpassed degree, the seed of all knowledge — the very source and potential of omniscience itself, beyond which nothing greater can exist."
+    },
+    "sad": {
+      "s": "ईश्वरे सर्वज्ञानस्य बीजं परमोत्कर्षेण वर्तते।",
+      "d": "ईश्वरे सर्वज्ञत्वस्य बीजं निरतिशयरूपेण, सर्वोत्कृष्टतया तिष्ठति। एतस्मात् परं किमपि अधिकं नास्ति।"
+    }
+  },
+  {
+    "n": 26,
+    "sa": "स एष पूर्वेषामपि गुरुः कालेनानवच्छेदात्",
+    "te": {
+      "s": "కాలానికి అతీతుడైన ఈశ్వరుడు, పూర్వకాల గురువులకు కూడా గురువు.",
+      "d": "ఈశ్వరుడు కాలానికి అతీతుడు, నిత్యుడు. అందువల్ల ఆయన ఎల్లప్పుడూ జ్ఞానానికి మూలసాధనంగా ఉన్నాడు - పురాతన ఋషులకు కూడా గురువు, ఎందుకంటే ఆయన లేని కాలం అనేది లేదు."
+    },
+    "en": {
+      "s": "He is the teacher even of the most ancient teachers, being unbound by time.",
+      "d": "Because Īśvara is eternal, unconditioned by time, he has always existed as the original source of teaching — the guru of even the earliest sages, since no point in time can be found before which he did not exist."
+    },
+    "sad": {
+      "s": "कालातीतः ईश्वरः पूर्वसर्वगुरूणामपि गुरुः।",
+      "d": "ईश्वरः कालेन अपरिच्छिन्नः नित्यः। अतः सः सर्वदा ज्ञानस्य मूलाधारः - प्राचीनतमानामपि ऋषीणां गुरुः, यतः तस्य अभावकालः कोऽपि न विद्यते।"
+    }
+  },
+  {
+    "n": 27,
+    "sa": "तस्य वाचकः प्रणवः",
+    "te": {
+      "s": "ఈశ్వరుని సూచించే వాచకం (శబ్దం) \"ఓం\" అనే ప్రణవం.",
+      "d": "ప్రణవం అనే \"ఓం\" శబ్దం ఈశ్వరుని సూచించే ప్రత్యేక వాచకం (పదం). ఇది యథాలాపంగా పెట్టిన పేరు కాదు, ఈశ్వర తత్త్వాన్ని నేరుగా ప్రతిబింబించే శబ్దం."
+    },
+    "en": {
+      "s": "His expressive word is the sacred syllable Om.",
+      "d": "Praṇava, the sound Om, is the unique vācaka (verbal symbol) that points to and expresses Īśvara — not an arbitrary label, but the sound that most directly carries his essence."
+    },
+    "sad": {
+      "s": "ईश्वरस्य वाचकः शब्दः ओमिति प्रणवः।",
+      "d": "प्रणवः \"ओम्\" इति शब्दः ईश्वरस्य विशिष्टः वाचकः। न एषः यादृच्छिकं नामधेयं, अपि तु ईश्वरतत्त्वस्य साक्षात् अभिव्यञ्जकः ध्वनिः।"
+    }
+  },
+  {
+    "n": 28,
+    "sa": "तज्जपस्तदर्थभावनम्",
+    "te": {
+      "s": "ఓం జపం దాని అర్థాన్ని (ఈశ్వరభావనను) తలుచుకుంటూ చేయాలి.",
+      "d": "కేవలం యాంత్రికంగా \"ఓం\" అని జపించడం సరిపోదు. ఆ శబ్దం యొక్క అర్థమైన ఈశ్వర భావనను నిరంతరం మనస్సులో ఉంచుకుంటూ జపం చేయడమే నిజమైన సాధన."
+    },
+    "en": {
+      "s": "Its repetition should be done while contemplating its meaning.",
+      "d": "Mere mechanical repetition (japa) of Om is not enough; it must be joined with continuous bhāvanā (contemplation/feeling) of its meaning — the presence of Īśvara — for the practice to bear fruit."
+    },
+    "sad": {
+      "s": "प्रणवजपः तदर्थस्य ईश्वरभावनायुक्तः कार्यः।",
+      "d": "केवलं यान्त्रिकरूपेण ओमिति जपः न पर्याप्तः। तस्य शब्दस्य अर्थभूतां ईश्वरसत्तां निरन्तरं भावयन् यः जपं करोति, तस्यैव साधनं सफलं भवति।"
+    }
+  },
+  {
+    "n": 29,
+    "sa": "ततः प्रत्यक्चेतनाधिगमोऽप्यन्तरायाभावश्च",
+    "te": {
+      "s": "దీని వలన అంతఃచైతన్య సాక్షాత్కారం, అడ్డంకుల నివృత్తి కలుగుతాయి.",
+      "d": "భావనతో కూడిన ప్రణవ జపం వలన రెండు ఫలితాలు కలుగుతాయి - లోపలి చైతన్యం (ఆత్మ) ప్రత్యక్షంగా అనుభవంలోకి వస్తుంది, మరియు సాధనా మార్గంలో అడ్డుపడే అంతరాయాలు (అడ్డంకులు) తొలగిపోతాయి."
+    },
+    "en": {
+      "s": "From this comes inner realization and the removal of obstacles.",
+      "d": "Through devoted practice of praṇava-japa with contemplation, two results follow: pratyak-cetanā-adhigama (direct realization of one's inner consciousness) and the dissolution of the obstacles (antarāya) that normally block progress on the path."
+    },
+    "sad": {
+      "s": "ततः अन्तःचेतनासाक्षात्कारः अन्तरायनिवृत्तिः च भवति।",
+      "d": "भावनासहितस्य प्रणवजपस्य फलद्वयं भवति - प्रत्यक्चेतनायाः (अन्तरात्मनः) साक्षात् अधिगमः, साधनमार्गे प्रतिबन्धकानां अन्तरायाणां च निवृत्तिः।"
+    }
+  },
+  {
+    "n": 30,
+    "sa": "व्याधिस्त्यानसंशयप्रमादालस्याविरतिभ्रान्तिदर्शनालब्धभूमिकत्वानवस्थितत्वानि चित्तविक्षेपाः तेऽन्तरायाः",
+    "te": {
+      "s": "వ్యాధి, ఆలస్యం, సందేహం వంటి తొమ్మిది అంతరాయాలు చిత్తాన్ని చెదరగొడతాయి.",
+      "d": "సాధనకు అడ్డుపడే తొమ్మిది అంతరాయాలు ఇక్కడ చెప్పబడ్డాయి - వ్యాధి (రోగం), స్త్యానం (మనోజడత్వం), సంశయం (సందేహం), ప్రమాదం (నిర్లక్ష్యం), ఆలస్యం (సోమరితనం), అవిరతి (ఇంద్రియభోగాల పట్ల కోరిక), భ్రాంతిదర్శనం (తప్పుడు అవగాహన), అలబ్ధభూమికత్వం (సాధనలో స్థాయి అందుకోలేకపోవడం), అనవస్థితత్వం (అందుకున్న స్థాయిని నిలుపుకోలేకపోవడం)."
+    },
+    "en": {
+      "s": "Illness, dullness, doubt, carelessness, laziness, sensory craving, false perception, failure to progress, and instability are the obstacles.",
+      "d": "Nine specific obstacles scatter the mind: vyādhi (illness), styāna (mental dullness), saṁśaya (doubt), pramāda (carelessness), ālasya (laziness/inertia), avirati (craving for sense objects), bhrānti-darśana (wrong perception), alabdha-bhūmikatva (failure to reach a stage of practice), and anavasthitatva (inability to hold a stage once reached)."
+    },
+    "sad": {
+      "s": "व्याधिस्त्यानादिनवविधाः चित्तविक्षेपाः अन्तरायाः सन्ति।",
+      "d": "साधनप्रतिबन्धकाः नव अन्तरायाः इह उक्ताः - व्याधिः, स्त्यानम् (मनोजडता), संशयः, प्रमादः, आलस्यम्, अविरतिः (विषयासक्तिः), भ्रान्तिदर्शनम् (मिथ्याबोधः), अलब्धभूमिकत्वम् (अवस्थाप्राप्त्यभावः), अनवस्थितत्वम् (प्राप्तावस्थायां स्थिरत्वाभावः) इति।"
+    }
+  },
+  {
+    "n": 31,
+    "sa": "दुःखदौर्मनस्याङ्गमेजयत्वश्वासप्रश्वासा विक्षेपसहभुवः",
+    "te": {
+      "s": "ఈ అంతరాయాలతో పాటు దుఃఖం, మనస్తాపం, శరీర కంపనం, శ్వాస అస్థిరత కూడా వస్తాయి.",
+      "d": "పైన చెప్పిన తొమ్మిది అంతరాయాలు ఒంటరిగా రావు, వాటితో పాటు నాలుగు లక్షణాలు కూడా కలిసి వస్తాయి - దుఃఖం, దౌర్మనస్యం (మనోవ్యధ), అంగమేజయత్వం (శరీరం వణకడం), శ్వాస-ప్రశ్వాసాల అస్తవ్యస్తత."
+    },
+    "en": {
+      "s": "Pain, despair, bodily tremor, and irregular breathing accompany these distractions.",
+      "d": "The nine obstacles do not arise alone; they bring with them four physical-emotional companions: duḥkha (suffering), daurmanasya (mental dejection), aṅgamejayatva (trembling of the body), and disturbed śvāsa-praśvāsa (inhalation and exhalation)."
+    },
+    "sad": {
+      "s": "दुःखदौर्मनस्यकम्पनश्वासविकाराः विक्षेपसहचारिणः भवन्ति।",
+      "d": "पूर्वोक्ताः नव अन्तरायाः एकाकिनो न आगच्छन्ति, अपि तु चतुर्भिः सहचारिभिः सह - दुःखं, दौर्मनस्यम् (मनोव्यथा), अङ्गमेजयत्वम् (कायकम्पनम्), श्वासप्रश्वासयोः विषमता च।"
+    }
+  },
+  {
+    "n": 32,
+    "sa": "तत्प्रतिषेधार्थमेकतत्त्वाभ्यासः",
+    "te": {
+      "s": "వీటిని తొలగించడానికి ఒక్క విషయం పైనే ఏకాగ్రంగా అభ్యాసం చేయాలి.",
+      "d": "ఈ చిత్తవిక్షేపాలను తొలగించడానికి ఒకే నివృత్తి మార్గం ఉంది - ఏకతత్త్వాభ్యాసం, అంటే ఒక్క వస్తువు లేదా సూత్రంపై మనస్సును పదే పదే నిలబెట్టే అభ్యాసం. ఇదే ఏకాగ్రతకు మూలసాధనం."
+    },
+    "en": {
+      "s": "To overcome these, practice steady focus on a single principle.",
+      "d": "The remedy for all these scattering obstacles is eka-tattva-abhyāsa — repeatedly training the mind to rest on one single object or principle, building one-pointedness as an antidote to mental fragmentation."
+    },
+    "sad": {
+      "s": "एतन्निवारणार्थं एकविषये चित्तस्य पुनःपुनः अभ्यासः कार्यः।",
+      "d": "एतेषां चित्तविक्षेपाणां निवारणस्य एकः उपायः - एकतत्त्वाभ्यासः, अर्थात् एकस्मिन् वस्तुनि सूत्रे वा चित्तं पुनःपुनः स्थापयित्वा अभ्यासः। एतदेव एकाग्रतायाः मूलसाधनम्।"
+    }
+  },
+  {
+    "n": 33,
+    "sa": "मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनातश्चित्तप्रसादनम्",
+    "te": {
+      "s": "సుఖులపై మైత్రి, దుఃఖులపై కరుణ, పుణ్యాత్ములపై ముదిత, పాపాత్ములపై ఉపేక్ష భావించడం వల్ల చిత్తం ప్రసన్నమవుతుంది.",
+      "d": "పతంజలి ఒక ఆచరణాత్మక భావనా సాధనను సూచిస్తాడు - సుఖంగా ఉన్నవారిపై మైత్రి (స్నేహభావం), దుఃఖంలో ఉన్నవారిపై కరుణ, పుణ్యాత్ములపై ముదిత (ఆనందం), పాపాత్ములపై ఉపేక్ష (తటస్థభావం) పెంచుకోవడం ద్వారా మనస్సు శుద్ధమై ప్రసన్నమవుతుంది."
+    },
+    "en": {
+      "s": "The mind becomes clear through cultivating friendliness, compassion, joy, and equanimity toward the happy, suffering, virtuous, and non-virtuous.",
+      "d": "Patanjali offers a practical emotional discipline: maitrī (friendliness) toward those who are happy, karuṇā (compassion) toward those who suffer, muditā (joy) toward the virtuous, and upekṣā (equanimity, non-judgment) toward those who are not virtuous. This four-fold cultivation purifies and calms the mind."
+    },
+    "sad": {
+      "s": "सुखिकरुणादिचतुर्विधभावनया चित्तं प्रसन्नं भवति।",
+      "d": "पतञ्जलिः व्यावहारिकं भावनासाधनं निर्दिशति - सुखिषु मैत्री, दुःखिषु करुणा, पुण्यवन्तेषु मुदिता, पापिषु उपेक्षा च। एतया चतुर्विधभावनया चित्तं शुद्धं प्रसन्नं च भवति।"
+    }
+  },
+  {
+    "n": 34,
+    "sa": "प्रच्छर्दनविधारणाभ्यां वा प्राणस्य",
+    "te": {
+      "s": "లేదా, ప్రాణాన్ని (శ్వాసను) నెమ్మదిగా బయటకు వదిలి, నిలిపి ఉంచడం వల్ల కూడా చిత్తశుద్ధి కలుగుతుంది.",
+      "d": "మానసిక స్థిరత్వం పొందడానికి మరో సరళమైన మార్గం - ప్రాణాయామం యొక్క సాధారణ రూపంలో శ్వాసను నియంత్రణతో బయటకు వదలడం (ప్రచ్ఛర్దనం), ఆపై దానిని నిలిపి ఉంచడం (విధారణ) ద్వారా కూడా చిత్తం స్థిరపడుతుంది."
+    },
+    "en": {
+      "s": "Or, the mind is calmed through gentle exhalation and retention of breath.",
+      "d": "An alternative practical method: prāṇāyāma in the simple form of pracchardana (controlled, gentle exhalation) followed by vidhāraṇa (retention of breath) can also bring the mind to a steady, clear state."
+    },
+    "sad": {
+      "s": "श्वासस्य नियन्त्रितबाह्यरेचनेन धारणेन च चित्तं स्थिरीभवति।",
+      "d": "चित्तस्थिरत्वप्राप्त्यर्थं अन्यः सरलोपायः - प्राणायामस्य सामान्यरूपेण श्वासस्य संयतं बाह्यरेचनं (प्रच्छर्दनम्), तदनन्तरं तस्य धारणं (विधारणम्) च कृत्वा चित्तं स्थिरं भवति।"
+    }
+  },
+  {
+    "n": 35,
+    "sa": "विषयवती वा प्रवृत्तिरुत्पन्ना मनसः स्थितिनिबन्धिनी",
+    "te": {
+      "s": "లేదా, సూక్ష్మ ఇంద్రియానుభవం కలిగినప్పుడు అది మనస్సును స్థిరపరుస్తుంది.",
+      "d": "ధ్యానంలో కొన్నిసార్లు సూక్ష్మమైన ఇంద్రియ అనుభవాలు (అసాధారణమైన వాసన, రుచి, వెలుతురు వంటివి) కలుగుతాయి. ఇలాంటి అనుభవం స్వయంగా మనస్సును ఒక బిందువుపై స్థిరపరిచే ఆధారంగా పనిచేస్తుంది."
+    },
+    "en": {
+      "s": "Or, a refined sensory experience that arises can also bind the mind to steadiness.",
+      "d": "Certain subtle sensory experiences (like an unusually vivid perception of smell, taste, or light arising in concentration) can themselves serve as an anchor, naturally holding the mind in a steady, focused state."
+    },
+    "sad": {
+      "s": "सूक्ष्मविषयानुभवः स्वयमेव चित्तस्थैर्यस्य आधारः भवति।",
+      "d": "ध्याने कदाचित् सूक्ष्माः इन्द्रियानुभवाः (असाधारणगन्धरसप्रकाशादयः) उद्भवन्ति। एतादृशः अनुभवः स्वयमेव चित्तं एकबिन्दौ स्थिरीकर्तुं आधारभूतः भवति।"
+    }
+  },
+  {
+    "n": 36,
+    "sa": "विशोका वा ज्योतिष्मती",
+    "te": {
+      "s": "లేదా, దుఃఖరహితమైన అంతర్ వెలుగు (జ్యోతిష్మతి) అనుభవం వల్ల కూడా చిత్తం స్థిరపడుతుంది.",
+      "d": "మరో సాధనా మార్గం - హృదయకమలం నుండి ఉద్భవించే దుఃఖరహితమైన, తేజోమయమైన అంతఃప్రకాశం (జ్యోతిష్మతి స్థితి) ను అనుభవించడం వల్ల కూడా మనస్సు సహజంగా శాంతించి స్థిరపడుతుంది."
+    },
+    "en": {
+      "s": "Or, a sorrowless, luminous inner state also steadies the mind.",
+      "d": "Another method: cultivating or experiencing the jyotiṣmatī state — an inner radiance, luminous and free of all sorrow — which arises from the lotus of the heart and naturally settles the mind into peace."
+    },
+    "sad": {
+      "s": "हृदयोद्भूता दुःखरहिता तेजोमयी अन्तःप्रभा अपि चित्तं स्थिरीकरोति।",
+      "d": "अन्यः साधनोपायः - हृदयकमलात् उद्भूता दुःखशून्या तेजोमयी अन्तःप्रभा (ज्योतिष्मतीस्थितिः) अनुभूयमाना चित्तं स्वभावतः शान्तं स्थिरं च करोति।"
+    }
+  },
+  {
+    "n": 37,
+    "sa": "वीतरागविषयं वा चित्तम्",
+    "te": {
+      "s": "లేదా, రాగరహితుడైన మహాత్ముని మనస్సును ధ్యానిస్తే చిత్తం స్థిరపడుతుంది.",
+      "d": "ఆసక్తి, రాగాలను పూర్తిగా అతిక్రమించిన ఒక మహాత్ముడు లేదా జ్ఞానిని ధ్యానవస్తువుగా తీసుకుంటే, ఆ స్వచ్ఛతను ప్రతిబింబంగా పొంది మన చిత్తం కూడా సహజంగా స్థిరపడుతుంది."
+    },
+    "en": {
+      "s": "Or, the mind steadies by focusing on one who is free from attachment.",
+      "d": "Taking as the object of meditation the mind or example of a great being who has transcended all attachment (vīta-rāga) — such as a realized sage — naturally inspires and stabilizes one's own mind through reflected purity."
+    },
+    "sad": {
+      "s": "रागातीतस्य महात्मनः चित्तं ध्यानविषयीकृत्य स्वचित्तं स्थिरं भवति।",
+      "d": "यः आसक्तिं रागं च सम्पूर्णतया अतिक्रान्तः महात्मा ज्ञानी वा, तस्य चित्तं ध्यानविषयं कृत्वा, तस्य शुद्धत्वस्य प्रतिबिम्बेन स्वकीयं चित्तमपि स्वभावतः स्थिरं भवति।"
+    }
+  },
+  {
+    "n": 38,
+    "sa": "स्वप्ननिद्राज्ञानालम्बनं वा",
+    "te": {
+      "s": "లేదా, స్వప్నం, నిద్రలో కలిగే జ్ఞానాన్ని ఆధారంగా చేసుకున్నా చిత్తం స్థిరపడుతుంది.",
+      "d": "కలలో లేదా గాఢ నిద్రలో (స్వప్న, నిద్రావస్థల్లో) కలిగే అనుభవం, జ్ఞానాన్ని ధ్యానానికి ఆధారంగా చేసుకోవడం కూడా చిత్తాన్ని స్థిరపరచడానికి ఒక మార్గం."
+    },
+    "en": {
+      "s": "Or, the mind steadies by resting on the knowledge gained from dream or deep sleep.",
+      "d": "Reflecting on and using the insight gleaned from dream states (svapna) or the peaceful experience of deep, dreamless sleep (nidrā) as a support for meditation can also help anchor and steady the wandering mind."
+    },
+    "sad": {
+      "s": "स्वप्ननिद्राजन्यज्ञानम् आलम्बीकृत्य अपि चित्तस्थैर्यं सिद्ध्यति।",
+      "d": "स्वप्नावस्थायां सुषुप्त्यवस्थायां वा यत् अनुभवज्ञानं जायते, तत् ध्यानस्य आलम्बनं कृत्वा अपि चित्तस्य चाञ्चल्यं निवृत्तं स्थैर्यं च सिद्ध्यति।"
+    }
+  },
+  {
+    "n": 39,
+    "sa": "यथाभिमतध्यानाद्वा",
+    "te": {
+      "s": "లేదా, తనకు అభిమతమైన (ఇష్టమైన, ప్రశాంతత కలిగించే) దానిపై ధ్యానించినా చిత్తం స్థిరపడుతుంది.",
+      "d": "ఈ సూత్రం అత్యంత సరళమైన, అందరికీ అందుబాటులో ఉండే మార్గాన్ని సూచిస్తుంది - ప్రతి సాధకుడు తనకు సహజంగా ప్రశాంతత, ఆనందం, ఉత్తేజాన్ని కలిగించే ఏదైనా వస్తువు లేదా భావనపై ధ్యానం చేయవచ్చు. దీనికి ఒకే నిర్దిష్ట వస్తువు తప్పనిసరి కాదు."
+    },
+    "en": {
+      "s": "Or, by meditating on anything that is personally uplifting and agreeable.",
+      "d": "Patanjali offers the most universally accessible method: meditation on any object of one's own choosing, that which feels naturally agreeable, inspiring, and elevating to the individual practitioner — there is no single mandatory object."
+    },
+    "sad": {
+      "s": "स्वाभिमतवस्तुविषयं ध्यानं कृत्वा अपि चित्तस्थिरता सिद्ध्यति।",
+      "d": "इदं सूत्रं सर्वसुलभं मार्गं सूचयति - प्रत्येकः साधकः स्वभावतः शान्तिम् आनन्दम् उत्साहं च जनयत् किमपि वस्तु भावनां वा ध्यानविषयं कुर्वीत। न अत्र एकं निश्चितं वस्तु अनिवार्यम्।"
+    }
+  },
+  {
+    "n": 40,
+    "sa": "परमाणुपरममहत्त्वान्तोऽस्य वशीकारः",
+    "te": {
+      "s": "ఇలా శిక్షణ పొందిన చిత్తం యొక్క వశీకారం అణువు నుండి అనంతం వరకు వ్యాపిస్తుంది.",
+      "d": "పైన చెప్పిన మార్గాల్లో ఏదైనా ఒకటి ద్వారా శిక్షణ పొందిన చిత్తానికి, వశీకారం (నియంత్రణ శక్తి) పరిపూర్ణంగా, అపరిమితంగా అవుతుంది - అతి సూక్ష్మమైన అణువు నుండి అనంతమైన మహత్తు వరకు ఏ వస్తువుపైనైనా స్థిరంగా ఏకాగ్రత చేయగలుగుతుంది."
+    },
+    "en": {
+      "s": "The mastery of such a mind extends from the smallest atom to the greatest infinity.",
+      "d": "When the mind has been trained through any of these methods, its mastery (vaśīkāra) becomes complete and unlimited — capable of steady concentration on objects ranging from the infinitesimally small (paramāṇu) to the infinitely vast (parama-mahattva)."
+    },
+    "sad": {
+      "s": "एवं प्रशिक्षितस्य चित्तस्य वशीकारः अणुतो महत्तमपर्यन्तं विस्तृतः भवति।",
+      "d": "पूर्वोक्तोपायैः कैश्चित् प्रशिक्षितं चित्तं पूर्णतया अपरिमितरूपेण वशीभूतं भवति - अतिसूक्ष्मात् परमाणोः आरभ्य अनन्तं महत्तत्त्वं यावत् कस्मिन्नपि वस्तुनि स्थिरैकाग्रतां साधयति।"
+    }
+  },
+  {
+    "n": 41,
+    "sa": "क्षीणवृत्तेरभिजातस्येव मणेर्ग्रहीतृग्रहणग्राह्येषु तत्स्थतदञ्जनता समापत्तिः",
+    "te": {
+      "s": "వృత్తులు తగ్గినప్పుడు, చిత్తం స్వచ్ఛమైన మణిలా గ్రహీత, గ్రహణ, గ్రాహ్యాల వర్ణాన్ని పొందుతుంది - ఇదే సమాపత్తి.",
+      "d": "చిత్తవృత్తులు దాదాపు క్షయించినప్పుడు, మనస్సు పరిశుద్ధమైన మణిలాగా మారి, తాను దేనిపై నిలిచి ఉంటే దాని రూపాన్నే తాల్చుతుంది - గ్రహీత (తెలుసుకునేవాడు), గ్రహణం (తెలుసుకునే సాధనం), గ్రాహ్యం (తెలుసుకోబడే వస్తువు) వీటిల్లో ఏదైనా కావచ్చు. ఈ సంపూర్ణ ఏకీభావాన్నే సమాపత్తి అంటారు."
+    },
+    "en": {
+      "s": "When fluctuations are weakened, the mind, like a flawless jewel, takes on the color of knower, knowing, and known — this is samāpatti.",
+      "d": "When the mind's vṛttis are nearly exhausted, it becomes transparent like a pure crystal, reflecting and assuming the form of whatever it rests on — the knower (grahītṛ), the instrument of knowing (grahaṇa), or the known object (grāhya). This complete merging is called samāpatti."
+    },
+    "sad": {
+      "s": "क्षीणवृत्तौ चित्तं स्वच्छमणिवत् ग्रहीतृग्रहणग्राह्यरूपं धारयति, सा समापत्तिः।",
+      "d": "यदा चित्तवृत्तयः प्रायः क्षीणाः भवन्ति, तदा चित्तं विशुद्धमणिवत् पारदर्शकं भूत्वा, यत्र तिष्ठति तस्य रूपं स्वीकरोति - ग्रहीता (ज्ञाता), ग्रहणं (ज्ञानसाधनम्), ग्राह्यं (ज्ञेयम्) इत्येतेषु यत् किमपि भवेत्। एतत् पूर्णैकीभावः समापत्तिः इति कथ्यते।"
+    }
+  },
+  {
+    "n": 42,
+    "sa": "तत्र शब्दार्थज्ञानविकल्पैः संकीर्णा सवितर्का समापत्तिः",
+    "te": {
+      "s": "సవితర్క సమాపత్తిలో శబ్దం, అర్థం, జ్ఞానం అనే భావనలు కలిసిపోయి ఉంటాయి.",
+      "d": "సమాపత్తి యొక్క స్థూల రూపమైన సవితర్క సమాపత్తిలో, వస్తువు యొక్క పేరు (శబ్దం), దాని భావన (అర్థం), దానిపై జ్ఞానం - ఇవి మూడూ కలిసిపోయి ఉంటాయి, వేరువేరుగా స్పష్టపడవు."
+    },
+    "en": {
+      "s": "Savitarka samāpatti is intermingled with the concepts of word, meaning, and knowledge.",
+      "d": "In its grossest form, samāpatti (called savitarkā) is still mixed with conventional mental activity — the word used to name an object, the conceptual meaning attached to it, and the knowledge derived from it all blend together rather than being purely direct."
+    },
+    "sad": {
+      "s": "सवितर्कासमापत्तौ शब्दार्थज्ञानानि मिश्रितानि भवन्ति।",
+      "d": "समापत्त्याः स्थूलरूपं सवितर्का इति। तत्र वस्तुनः नामधेयं (शब्दः) तस्य भावना (अर्थः) तत्सम्बद्धं ज्ञानं च - एतत्त्रयं मिश्रितं भवति, पृथक् न स्पष्टीभवति।"
+    }
+  },
+  {
+    "n": 43,
+    "sa": "स्मृतिपरिशुद्धौ स्वरूपशून्येवार्थमात्रनिर्भासा निर्वितर्का",
+    "te": {
+      "s": "స్మృతి శుద్ధమైతే, నిర్వితర్క సమాపత్తిలో కేవలం వస్తువు మాత్రమే ప్రకాశిస్తుంది.",
+      "d": "సూక్ష్మమైన నిర్వితర్క స్థితిలో, స్మృతి (పదాలు, భావనల నిల్వ) శుద్ధమైనప్పుడు, భావనా పూత తొలగిపోతుంది. చిత్తం తనకు ఏ రూపమూ లేనట్లుగా అనిపించి, కేవలం వస్తువు మాత్రమే స్పష్టంగా, స్వచ్ఛంగా ప్రకాశిస్తుంది."
+    },
+    "en": {
+      "s": "When memory is purified, the object alone shines in nirvitarkā samāpatti, the mind seeming empty of itself.",
+      "d": "In the subtler nirvitarkā state, once memory (the storehouse of words and concepts) is cleansed, the conceptual overlay drops away. The mind appears as if it has no form of its own, and only the bare object shines forth, unmixed with naming or thought."
+    },
+    "sad": {
+      "s": "स्मृतिशुद्ध्यां निर्वितर्कसमापत्तौ केवलं वस्तुमात्रं प्रकाशते।",
+      "d": "सूक्ष्मतरा निर्वितर्कावस्था - स्मृत्याः (शब्दकल्पनासञ्चयस्य) शुद्धौ सत्यां, कल्पनावरणं अपगच्छति। चित्तं स्वस्वरूपशून्यमिव भूत्वा, केवलं वस्तु शब्दकल्पनारहितं स्पष्टतया प्रकाशते।"
+    }
+  },
+  {
+    "n": 44,
+    "sa": "एतयैव सविचारा निर्विचारा च सूक्ष्मविषया व्याख्याता",
+    "te": {
+      "s": "ఇదే విధంగా సూక్ష్మ విషయాలపై సవిచారా, నిర్విచారా సమాపత్తులు కూడా వివరించబడ్డాయి.",
+      "d": "స్థూల వస్తువులపై సవితర్క, నిర్వితర్క సమాపత్తులు ఎలా ఉన్నాయో, అదే తర్కం సూక్ష్మ వస్తువులకు (ఇంద్రియాలకు అతీతమైన తత్త్వాలకు) వర్తింపజేస్తే సవిచారా (సూక్ష్మ చింతనతో కూడిన), నిర్విచారా (చింతన లేని) సమాపత్తులు ఏర్పడతాయి."
+    },
+    "en": {
+      "s": "By the same logic, savicārā and nirvicārā samāpatti, concerning subtle objects, are explained.",
+      "d": "The same two-fold pattern (gross/mixed vs. subtle/pure) applies when the meditation object itself is subtle (sūkṣma) rather than gross — yielding savicārā (with subtle reflection) and nirvicārā (without it) samāpatti, by analogy with the previous two."
+    },
+    "sad": {
+      "s": "स्थूलविषयन्यायेन सूक्ष्मविषयेऽपि सविचारा निर्विचारा च समापत्तिः सिद्ध्यति।",
+      "d": "यथा स्थूलविषयेषु सवितर्कनिर्वितर्कसमापत्तिद्वयं वर्णितम्, तथैव तर्कः सूक्ष्मविषयेषु (इन्द्रियातीततत्त्वेषु) प्रयुक्तः सविचारा (सूक्ष्मचिन्तनसहिता) निर्विचारा (चिन्तनरहिता) च समापत्तिद्वयं साधयति।"
+    }
+  },
+  {
+    "n": 45,
+    "sa": "सूक्ष्मविषयत्वं चालिङ्गपर्यवसानम्",
+    "te": {
+      "s": "సూక్ష్మ విషయాల పరిధి అలింగం (అవ్యక్త మూలప్రకృతి) వరకు వ్యాపిస్తుంది.",
+      "d": "ధ్యానవస్తువుల సూక్ష్మత్వం క్రమంగా పెరుగుతూ, చివరికి అలింగం వద్ద ఆగుతుంది - అంటే ఏ గుర్తు (లింగం) లేని, వ్యక్తం కాని మూలప్రకృతి. ఇది ధ్యానానికి సాధ్యమైన అత్యంత సూక్ష్మమైన అంశం."
+    },
+    "en": {
+      "s": "The domain of subtle objects extends all the way to the unmanifest, the liṅga-less.",
+      "d": "The progression of subtlety in meditation objects does not stop at the elements or senses; it culminates ultimately in a-liṅga, the unmanifest, undifferentiated root of prakṣti itself — the subtlest possible object of contemplation."
+    },
+    "sad": {
+      "s": "सूक्ष्मविषयक्रमः अन्ततः अलिङ्गे (अव्यक्तमूलप्रकृतौ) पर्यवसति।",
+      "d": "ध्यानविषयाणां सूक्ष्मता क्रमेण वर्धमाना अन्ततः अलिङ्गे विरमति - अर्थात् यत्र कोऽपि लिङ्गः (चिह्नः) नास्ति, अव्यक्तं मूलप्रकृतितत्त्वम्। एतत् ध्यानार्हं सूक्ष्मतमं तत्त्वम्।"
+    }
+  },
+  {
+    "n": 46,
+    "sa": "ता एव सबीजः समाधिः",
+    "te": {
+      "s": "ఇవన్నీ సబీజ సమాధి అని పిలువబడతాయి (ఏదో ఒక ఆధారంతో కూడినవి).",
+      "d": "ఇంతవరకు చెప్పిన నాలుగు సమాపత్తి రూపాలు (సవితర్క, నిర్వితర్క, సవిచారా, నిర్విచారా) అన్నీ కలిసి సబీజ సమాధి అని పిలువబడతాయి - అంటే వీటికి ఇంకా ఏదో ఒక ఆధార వస్తువు (బీజం) ఉంటుంది."
+    },
+    "en": {
+      "s": "These (forms of samāpatti) constitute samādhi with a seed.",
+      "d": "All the four forms of samāpatti described (savitarkā, nirvitarkā, savicārā, nirvicārā) are collectively called sabīja samādhi — \"samādhi with a seed\" — because they still rest on a supporting object, a residual seed of mental content."
+    },
+    "sad": {
+      "s": "एताः चतस्रः समापत्तयः सबीजसमाधिः इति उच्यन्ते।",
+      "d": "पूर्वोक्ताः चतस्रः समापत्तयः (सवितर्का निर्वितर्का सविचारा निर्विचारा च) सर्वाः मिलित्वा सबीजसमाधिः इति कथ्यन्ते, यतः एताः अद्यापि किञ्चित् आलम्बनवस्तु (बीजम्) आश्रित्य वर्तन्ते।"
+    }
+  },
+  {
+    "n": 47,
+    "sa": "निर्विचारवैशारद्येऽध्यात्मप्रसादः",
+    "te": {
+      "s": "నిర్విచారా సమాధిలో నైపుణ్యం పొందితే అధ్యాత్మిక ప్రసన్నత కలుగుతుంది.",
+      "d": "సబీజ సమాధుల్లో అత్యంత సూక్ష్మమైన, శుద్ధమైన నిర్విచారా సమాధిలో పూర్తి నైపుణ్యం (వైశారద్యం) సాధించినప్పుడు, ఆత్మ యొక్క స్వచ్ఛమైన, ప్రశాంతమైన ప్రకాశం (అధ్యాత్మ ప్రసాదం) సహజంగా ఉదయిస్తుంది."
+    },
+    "en": {
+      "s": "With mastery of nirvicārā samādhi comes inner spiritual clarity.",
+      "d": "When one attains complete proficiency (vaiśāradya) in nirvicārā samādhi, the subtlest and purest form of seeded absorption, a profound adhyātma-prasāda — a luminous clarity and serenity of the inner self — naturally dawns."
+    },
+    "sad": {
+      "s": "निर्विचारसमाधेः पूर्णकौशले अध्यात्मप्रसादः स्वभावतः उद्भवति।",
+      "d": "सबीजसमाधिषु सूक्ष्मतमा शुद्धतमा च निर्विचारावस्था। तस्याः पूर्णप्रावीण्ये (वैशारद्ये) सति, आत्मनः निर्मला शान्ता प्रभा (अध्यात्मप्रसादः) स्वतः उदयते।"
+    }
+  },
+  {
+    "n": 48,
+    "sa": "ऋतम्भरा तत्र प्रज्ञा",
+    "te": {
+      "s": "ఈ స్థితిలో ప్రజ్ఞ ఋతంభర (సత్యాన్నే మోసే) అవుతుంది.",
+      "d": "ఈ అధ్యాత్మ ప్రసన్న స్థితిలో కలిగే ప్రజ్ఞ (అవగాహన) \"ఋతంభర\" అని పిలువబడుతుంది - అంటే అది వాస్తవాన్ని ఏ మాత్రం వక్రీకరణ, భ్రమ లేకుండా, యథాతథంగా దర్శించే జ్ఞానం."
+    },
+    "en": {
+      "s": "There, the insight that arises is one that bears only truth.",
+      "d": "In this state of inner clarity, the prajñā (wisdom/insight) that arises is called ṛtambharā — \"truth-bearing\" — because it perceives reality exactly as it is, free from any distortion, error, or projection."
+    },
+    "sad": {
+      "s": "तत्र उत्पन्ना प्रज्ञा ऋतम्भरा - सत्यमेव वहन्ती - इति उच्यते।",
+      "d": "अस्यां अध्यात्मप्रसादावस्थायां या प्रज्ञा उद्भवति, सा ऋतम्भरा इति कथ्यते - अर्थात् सा यथार्थं वस्तुस्वरूपं विना विकृत्या विना भ्रान्त्या च साक्षात् दर्शयति।"
+    }
+  },
+  {
+    "n": 49,
+    "sa": "श्रुतानुमानप्रज्ञाभ्यामन्यविषया विशेषार्थत्वात्",
+    "te": {
+      "s": "ఈ ప్రజ్ఞ శాస్త్రం, అనుమానం వల్ల కలిగే జ్ఞానం కంటే వేరైనది, ఎందుకంటే ఇది ప్రత్యక్ష, విశేష జ్ఞానం.",
+      "d": "ఋతంభర ప్రజ్ఞ, శ్రుతి (శాస్త్రవచనం) లేదా అనుమానం (తర్కం) ద్వారా కలిగే జ్ఞానానికి పూర్తిగా భిన్నమైనది - ఆ రెండూ సాధారణ, పరోక్ష జ్ఞానాలు. కానీ ఈ ప్రజ్ఞ వస్తువు యొక్క విశేషమైన, ప్రత్యక్షమైన స్వరూపాన్ని నేరుగా గ్రహిస్తుంది."
+    },
+    "en": {
+      "s": "This insight differs from knowledge gained through scripture or inference, due to its direct, specific quality.",
+      "d": "Ṛtambharā prajñā is categorically different from knowledge based on śruta (scriptural testimony) or anumāna (logical inference), both of which are general and indirect. This insight grasps the particular, specific reality (viśeṣa-artha) directly, without mediation."
+    },
+    "sad": {
+      "s": "इयं प्रज्ञा श्रुत्यनुमानजज्ञानात् भिन्ना, यतः सा विशेषार्थं साक्षात् ग्राहयति।",
+      "d": "ऋतम्भरा प्रज्ञा श्रुतिजन्यात् (शास्त्रवचनजन्यात्) अनुमानजन्यात् (तर्कजन्यात्) च ज्ञानात् सर्वथा भिन्ना - तौ द्वौ सामान्यपरोक्षज्ञाने स्तः। परं इयं प्रज्ञा वस्तुनः विशिष्टं साक्षात्स्वरूपं ग्राहयति।"
+    }
+  },
+  {
+    "n": 50,
+    "sa": "तज्जः संस्कारोऽन्यसंस्कारप्रतिबन्धी",
+    "te": {
+      "s": "ఈ ప్రజ్ఞ వల్ల ఏర్పడిన సంస్కారం ఇతర సంస్కారాలను అడ్డుకుంటుంది.",
+      "d": "ఋతంభర ప్రజ్ఞ వల్ల ఏర్పడే సంస్కారం అత్యంత శక్తివంతమైనది - ఇది మిగతా అన్ని సంస్కారాలను (సాధారణ ఆలోచనా, కర్మ బీజాలను) అణచివేసి, వాటిని తలెత్తకుండా చేస్తుంది, తద్వారా సాధనా మార్గం మరింత స్పష్టమవుతుంది."
+    },
+    "en": {
+      "s": "The impression born from this insight blocks all other impressions.",
+      "d": "The deep saṁskāra (latent impression) created by ṛtambharā prajñā is so powerful that it suppresses and prevents all other saṁskāras (the seeds of ordinary thought-patterns and karmic tendencies) from arising — clearing the field for further progress."
+    },
+    "sad": {
+      "s": "ऋतम्भराप्रज्ञाजन्यः संस्कारः अन्यसंस्कारान् अवरुणद्धि।",
+      "d": "ऋतम्भराप्रज्ञायाः जातः संस्कारः अतीव बलवान् - सः अन्यान् सर्वान् संस्कारान् (सामान्यविचारकर्मबीजरूपान्) अवरुणद्धि, उद्भवितुम् न ददाति, येन साधनमार्गः अधिकं स्पष्टः भवति।"
+    }
+  },
+  {
+    "n": 51,
+    "sa": "तस्यापि निरोधे सर्वनिरोधान्निर्बीजः समाधिः",
+    "te": {
+      "s": "ఆ సంస్కారం కూడా నిరోధించబడితే, సర్వనిరోధం వల్ల నిర్బీజ సమాధి సిద్ధిస్తుంది.",
+      "d": "చివరికి, ఋతంభర ప్రజ్ఞ వల్ల కలిగిన సంస్కారం కూడా నిరోధించబడినప్పుడు, అన్ని చిత్తవృత్తులు, ఆధారాలు పూర్తిగా ఆగిపోతాయి. ఈ సంపూర్ణ నిరోధమే నిర్బీజ సమాధి - సమాధిపాదం యొక్క పరమ లక్ష్యం, ఇక్కడ పురుషుడు ఏ ఆధారం, బీజం లేకుండా పూర్తి స్వేచ్ఛలో నిలుస్తాడు."
+    },
+    "en": {
+      "s": "When even that impression ceases, through complete cessation, nirbīja samādhi — seedless absorption — is attained.",
+      "d": "Finally, when even the saṁskāra born of ṛtambharā prajñā is stilled, all mental fluctuations and supports cease entirely. This total cessation is nirbīja samādhi, \"seedless\" absorption — the final culmination of Samadhi Pada, where the puruṣa rests utterly free, with no object, no seed, and nothing remaining to bind it."
+    },
+    "sad": {
+      "s": "तस्मिन् संस्कारेऽपि निरुद्धे सति सर्वनिरोधेन निर्बीजसमाधिः सिद्ध्यति।",
+      "d": "अन्ततः ऋतम्भराप्रज्ञाजातः संस्कारः अपि यदा निरुद्धः भवति, तदा सर्वाः चित्तवृत्तयः आलम्बनानि च पूर्णतया उपशान्तानि भवन्ति। एषः सम्पूर्णनिरोधः एव निर्बीजसमाधिः - समाधिपादस्य परमं लक्ष्यम्, यत्र पुरुषः निराधारः निर्बीजः च पूर्णस्वातन्त्र्ये तिष्ठति।"
+    }
+  }
+]

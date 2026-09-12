@@ -1,0 +1,41 @@
+{
+  "id": "dharma-049",
+  "tags": [
+    "dharma",
+    "kaala",
+    "vinasha"
+  ],
+  "shlokam": {
+    "te": "కాలః పచతి భూతాని కాలః సంహరతే ప్రజాః ।\nకాలః సుప్తేషు జాగర్తి కాలో హి దురతిక్రమః ॥",
+    "sa": "कालः पचति भूतानि कालः संहरते प्रजाः ।\nकालः सुप्तेषु जागर्ति कालो हि दुरतिक्रमः ॥",
+    "iast": "kālaḥ pacati bhūtāni kālaḥ saṃharate prajāḥ ।\nkālaḥ supteṣu jāgarti kālo hi duratikramaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మహాభారతము (స్త్రీపర్వము)",
+    "name_en": "Mahabharata (Stri Parva)",
+    "chapter": "widely quoted maxim",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
+  },
+  "padavibhagam": {
+    "te": "కాలః | పచతి | భూతాని | కాలః | సంహరతే | ప్రజాః | కాలః | సుప్తేషు | జాగర్తి | కాలః | హి | దురతిక్రమః",
+    "en": "kālaḥ | pacati | bhūtāni | kālaḥ | saṃharate | prajāḥ | kālaḥ | supteṣu | jāgarti | kālaḥ | hi | duratikramaḥ"
+  },
+  "anvayam": {
+    "te": "కాలః భూతాని పచతి; కాలః ప్రజాః సంహరతే; సుప్తేషు కాలః జాగర్తి; కాలః హి దురతిక్రమః.",
+    "en": "Kālaḥ bhūtāni pacati (time ripens/matures all beings); kālaḥ prajāḥ saṃharate (time gathers back/destroys all creatures); supteṣu kālaḥ jāgarti (while beings sleep, time remains awake); kālaḥ hi duratikramaḥ (time indeed is impossible to overcome)."
+  },
+  "meaning": {
+    "te": "కాలం ప్రాణులను పరిపక్వం చేస్తుంది; కాలం ప్రజలను హరిస్తుంది; ప్రాణులు నిద్రిస్తున్నా కాలం మేల్కొని ఉంటుంది; కాలాన్ని దాటడం అసాధ్యం.",
+    "en": "Time ripens all beings; time gathers back all creatures; while beings sleep, time remains awake; time indeed cannot be overcome."
+  },
+  "tatparyam": {
+    "te": "గాంధారి తన కుమారుల మరణానంతరం పలికిన ఆవేదనలోని ఈ శ్లోకం, కాలం యొక్క నిరంకుశ శక్తిని నాలుగు కోణాలలో చూపుతుంది — పండించడం, హరించడం, ఎప్పుడూ మేల్కొని ఉండటం, ఎవరూ దాటలేకపోవడం. మనం నిద్రిస్తున్నా కాలం ఆగదన్న 'సుప్తేషు జాగర్తి' అనే పంక్తి ప్రత్యేకంగా గుర్తుండిపోతుంది — మనం సమయాన్ని వృథా చేస్తున్నప్పుడు కూడా అది తనపని తాను చేస్తూనే ఉంటుంది. రాజులైనా, వీరులైనా, ఎంతటివారైనా కాలం ముందు నిస్సహాయులేనని గుర్తుచేసే ఈ శ్లోకం, జీవితంలోని ప్రతి క్షణాన్నీ విలువైనదిగా చూడమని పరోక్షంగా బోధిస్తుంది.",
+    "en": "Spoken by Gandhari in her grief after the death of her sons, this verse depicts time's inexorable power in four aspects — ripening, gathering back, staying eternally awake, and being unconquerable by anyone. The line 'supteṣu jāgarti' — time stays awake even while beings sleep — is especially memorable: even as we waste time, it continues its work regardless. Reminding us that kings, warriors, however great, stand helpless before time, this verse indirectly teaches that every moment of life should be treated as precious."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

@@ -1,0 +1,82 @@
+{
+    "slug": "narayaneeyam",
+    "theme": "theme-bhakti",
+    "tags": [
+        "narayana bhattathiri",
+        "narayaneeyam",
+        "bhagavatam",
+        "dashakam",
+        "stuti"
+    ],
+    "synonyms": [],
+    "youtube_url": "",
+    "featured": true,
+    "images": [
+        "assets/images/narayaneeyam-01.svg"
+    ],
+    "sections": [
+        {
+            "id": "1",
+            "title_te": "౧ ॥ భగవన్మహిమానువర్ణనమ్",
+            "title_sa": "१ ॥ भगवन्महिमानुवर्णनम्",
+            "title_en": "1 ॥ bhagavanmahimānuvarṇanam",
+            "file": "narayaneeyam_1.txt"
+        },
+        {
+            "id": "14",
+            "title_te": "౧౪ ॥ కపిలావతారమ్",
+            "title_sa": "१४ ॥ कपिलावतारम्",
+            "title_en": "14 ॥ kapilāvatāram",
+            "file": "narayaneeyam_14.txt"
+        },
+        {
+            "id": "15",
+            "title_te": "౧౫ ॥ కపిలోపదేశమ్",
+            "title_sa": "१५ ॥ कपिलोपदेशम्",
+            "title_en": "15 ॥ kapilopadeśam",
+            "file": "narayaneeyam_15.txt"
+        },
+        {
+            "id": "17",
+            "title_te": "౧౭ ॥ ధ్రువచరితమ్",
+            "title_sa": "१७ ॥ ध्रुवचरितम्",
+            "title_en": "17 ॥ dhruvacaritam",
+            "file": "narayaneeyam_17.txt"
+        },
+        {
+            "id": "24",
+            "title_te": "౨౪ ॥ ప్రహ్లాదచరితమ్",
+            "title_sa": "२४ ॥ प्रह्लादचरितम्",
+            "title_en": "24 ॥ prahlādacaritam",
+            "file": "narayaneeyam_24.txt"
+        },
+        {
+            "id": "25",
+            "title_te": "౨౫ ॥ నరసింహావతారమ్",
+            "title_sa": "२५ ॥ नृसिंहावतारम्",
+            "title_en": "25 ॥ nṛsiṃhāvatāram",
+            "file": "narayaneeyam_25.txt"
+        },
+        {
+            "id": "68",
+            "title_te": "౬౮ ॥ గోపికానామాహ్లాదప్రకటనమ్",
+            "title_sa": "६८ ॥ गोपीकानामाह्लादप्रकट१नम्",
+            "title_en": "68 ॥ gopikānāmāhlādaprakataṇam",
+            "file": "narayaneeyam_68.txt"
+        },
+        {
+            "id": "93",
+            "title_te": "౯౩ ॥ పఞ్చవింశతిగురవః",
+            "title_sa": "९३ ॥ पञ्चविंशतिगुरुवः",
+            "title_en": "93 ॥ pañcaviṃśatiguravaḥ",
+            "file": "narayaneeyam_93.txt"
+        },
+        {
+            "id": "100",
+            "title_te": "౧౦౦ ॥ భగవతః కేశాదిపాదవర్ణనమ్",
+            "title_sa": "१०० ॥ भगवतः केशदिपादवर्णनम्",
+            "title_en": "100 ॥ bhagavatah keśādipadavarṇanam",
+            "file": "narayaneeyam_100.txt"
+        }
+    ]
+}

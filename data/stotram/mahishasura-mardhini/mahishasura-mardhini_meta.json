@@ -1,0 +1,25 @@
+{
+    "slug": "mahishasura-mardhini",
+    "tags": [
+        "durga"
+    ],
+    "synonyms": [
+        "mahishasura mardhini stotram",
+        "mahishasuramardini"
+    ],
+    "youtube_url": "",
+    "images": [
+        "assets/images/mahishasura-mardhini-stotram-01.svg",
+        "assets/images/mahishasura-mardhini-stotram-02.svg",
+        "assets/images/mahishasura-mardhini-stotram-03.svg"
+    ],
+    "sections": [
+        {
+            "id": "mahishasura-mardhini-stotram",
+            "title_te": "మహిషాసురమర్దినీస్తోత్రమ్",
+            "title_sa": "महिषासुरमर्दिनीस्तोत्रम्",
+            "title_en": "Mahiṣāsuramardinīstotram",
+            "file": "mahishasura-mardhini_stotram.txt"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dindima-025",
+  "tags": [
+    "dindima",
+    "rk-yajus-sama",
+    "brahmatma-vijnana"
+  ],
+  "shlokam": {
+    "te": "నర్చా న యజుషార్థోఽస్తి న సామ్నార్థోఽస్తి కశ్చన ।\nజాతే బ్రహ్మాత్మవిజ్ఞాన ఇతి వేదాన్తడిణ్డిమః ॥ ౨౫ ॥",
+    "sa": "नर्चा न यजुषार्थोऽस्ति न साम्नार्थोऽस्ति कश्चन ।\nजाते ब्रह्मात्मविज्ञान इति वेदान्तडिण्डिमः ॥ २५ ॥",
+    "iast": "narcā na yajuṣārtho'sti na sāmnārtho'sti kaścana ।\njāte brahmātmavijñāna iti vedāntaḍiṇḍimaḥ ॥ 25 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 25"
+  },
+  "padavibhagam": {
+    "te": "న | ఋచా | న | యజుషా | అర్థః | అస్తి | న | సామ్నా | అర్థః | అస్తి | కశ్చన | జాతే | బ్రహ్మాత్మవిజ్ఞానే | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "na | ṛcā | na | yajuṣā | arthaḥ | asti | na | sāmnā | arthaḥ | asti | kaścana | jāte | brahmātmavijñāne | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "బ్రహ్మాత్మవిజ్ఞానే జాతే (సతి), ఋచా అర్థః న అస్తి, యజుషా అర్థః న అస్తి, సామ్నా కశ్చన అర్థః న అస్తి — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Brahmātmavijñāne jāte (once knowledge of Brahman as the self has arisen), ṛcā arthaḥ na asti (there is no purpose served by the Rigveda), yajuṣā arthaḥ na asti (nor by the Yajurveda), sāmnā kaścana arthaḥ na asti (nor any purpose served by the Samaveda) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "బ్రహ్మాత్మవిజ్ఞానం కలిగిన తర్వాత ఋగ్వేదంతో ప్రయోజనం లేదు, యజుర్వేదంతో లేదు, సామవేదంతో ఏ ప్రయోజనమూ లేదు — ఇది వేదాంతడిండిమం.",
+    "en": "Once knowledge of Brahman as the self has arisen, there is no purpose served by the Rigveda, none by the Yajurveda, and none whatsoever by the Samaveda. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "మునుపటి శ్లోకపు (24) సాధారణ ప్రకటనను ఇక్కడ మరింత నిర్దిష్టంగా, మూడు వేదాలనూ పేరుపేరునా పేర్కొంటూ చెబుతుంది. ఋక్, యజుర్, సామ వేదాలు — వేదత్రయం — భారతీయ సంప్రదాయపు అత్యున్నత ప్రామాణిక గ్రంథాలు. వాటిని కూడా జ్ఞానోదయం తర్వాత అనవసరమని చెప్పడం సాహసోపేతమైన ప్రకటన — కానీ ఇది వేదాలను తక్కువ చేయడం కాదు, జ్ఞానం యొక్క పరిపూర్ణతను చాటడం. వేదాలు జ్ఞానాన్ని పొందడానికి మార్గం చూపుతాయి; ఒకసారి గమ్యం చేరాక ఆ మార్గసూచికల అవసరం తీరిపోతుంది.",
+    "en": "The general declaration of the previous verse (24) is made here more specific, naming all three Vedas one by one. The Rig, Yajur, and Sama Vedas — the triad of Vedas — are the most authoritative texts in Indian tradition. To declare that even these become unnecessary after enlightenment is a bold statement — but it is not a diminishing of the Vedas, rather a declaration of the completeness of knowledge. The Vedas show the path toward knowledge; once the destination is reached, the need for those signposts is fulfilled."
+  }
+}

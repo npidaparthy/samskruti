@@ -1,0 +1,40 @@
+{
+  "id": "bhakti-031",
+  "tags": [
+    "bhakti",
+    "prahlada"
+  ],
+  "shlokam": {
+    "te": "శ్రవణం కీర్తనం విష్ణోః స్మరణం పాదసేవనమ్ ।\nఅర్చనం వన్దనం దాస్యం సఖ్యమాత్మనివేదనమ్ ॥",
+    "sa": "श्रवणं कीर्तनं विष्णोः स्मरणं पादसेवनम् ।\nअर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् ॥",
+    "iast": "śravaṇaṃ kīrtanaṃ viṣṇoḥ smaraṇaṃ pādasevanam ।\narcanaṃ vandanaṃ dāsyaṃ sakhyamātmanivedanam ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భాగవతము (ప్రహ్లాద చరిత్రము)",
+    "name_en": "Srimad Bhagavatam (Prahlada's teaching)",
+    "chapter": "7.5.23",
+    "grantha": "Śrīmad Bhāgavatam",
+    "grantha_te": "శ్రీమద్భాగవతమ్",
+    "grantha_sa": "श्रीमद्भागवतम्"
+  },
+  "padavibhagam": {
+    "te": "శ్రవణమ్ | కీర్తనమ్ | విష్ణోః | స్మరణమ్ | పాదసేవనమ్ | అర్చనమ్ | వన్దనమ్ | దాస్యమ్ | సఖ్యమ్ | ఆత్మనివేదనమ్",
+    "en": "śravaṇam | kīrtanam | viṣṇoḥ | smaraṇam | pādasevanam | arcanam | vandanam | dāsyam | sakhyam | ātmanivedanam"
+  },
+  "anvayam": {
+    "te": "విష్ణోః శ్రవణమ్, కీర్తనమ్, స్మరణమ్, పాదసేవనమ్, అర్చనమ్, వన్దనమ్, దాస్యమ్, సఖ్యమ్, ఆత్మనివేదనమ్ (ఇతి నవవిధా భక్తిః).",
+    "en": "Viṣṇoḥ śravaṇam (hearing of Vishnu), kīrtanam (chanting his glories), smaraṇam (remembering him), pādasevanam (serving his feet), arcanam (worship), vandanam (prostration), dāsyam (servitude), sakhyam (friendship), ātmanivedanam (complete self-surrender) — these are the nine forms of devotion."
+  },
+  "meaning": {
+    "te": "విష్ణువు గురించి వినడం, కీర్తించడం, స్మరించడం, పాదసేవ చేయడం, అర్చించడం, నమస్కరించడం, దాస్యభావం, స్నేహభావం, ఆత్మనివేదనం — ఇవి నవవిధ భక్తులు.",
+    "en": "Hearing about Vishnu, singing his glories, remembering him, serving his feet, worshipping him, bowing to him, serving as his servant, being his friend, and surrendering the self completely — these are the nine forms of devotion."
+  },
+  "tatparyam": {
+    "te": "బాలప్రహ్లాదుడు తన తండ్రి హిరణ్యకశిపునికి బోధించిన నవవిధ భక్తి సూత్రం ఇది — భక్తిమార్గంలో ఏకైక పద్ధతి లేదని, తొమ్మిది వేర్వేరు ద్వారాలు ఉన్నాయని చూపే జాబితా. వినడం మొదలుకొని పూర్తి ఆత్మసమర్పణ వరకూ — ఒక్కొక్కరి స్వభావానికి తగినది ఒక్కొక్క ద్వారం. బలహీనుడైన బాలుడు ఈ బోధను రాక్షసరాజైన తండ్రి ముందు నిర్భయంగా వినిపించడమే ఈ కథలోని బలం — భక్తి వయసునో అధికారాన్నో లెక్కచేయదని, హృదయశుద్ధినే చూస్తుందని ఈ ఘట్టం చాటిచెబుతుంది.",
+    "en": "This is the ninefold path of devotion the child Prahlada taught his own father, the demon king Hiranyakashipu — a list showing that devotion has no single method but nine distinct gateways, from listening to complete surrender, each suited to a different temperament. The power of the episode lies in a mere child fearlessly proclaiming this teaching before a tyrannical father — devotion, the story declares, does not reckon age or authority, only purity of heart."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

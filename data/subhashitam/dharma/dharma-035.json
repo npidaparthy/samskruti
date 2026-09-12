@@ -1,0 +1,41 @@
+{
+  "id": "dharma-035",
+  "tags": [
+    "dharma",
+    "sthiti",
+    "kaala"
+  ],
+  "shlokam": {
+    "te": "కాలాయ తస్మై నమః ॥\nయా నిశా సర్వభూతానాం తస్యాం జాగర్తి సంయమీ ।\nయస్యాం జాగ్రతి భూతాని సా నిశా పశ్యతో మునేః ॥",
+    "sa": "कालाय तस्मै नमः ॥\nया निशा सर्वभूतानां तस्यां जागर्ति संयमी ।\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ॥",
+    "iast": "kālāya tasmai namaḥ ॥\nyā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī ।\nyasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sāṅkhya Yoga)",
+    "chapter": "2.69",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "యా | నిశా | సర్వభూతానామ్ | తస్యామ్ | జాగర్తి | సంయమీ | యస్యామ్ | జాగ్రతి | భూతాని | సా | నిశా | పశ్యతః | మునేః",
+    "en": "yā | niśā | sarvabhūtānām | tasyām | jāgarti | saṃyamī | yasyām | jāgrati | bhūtāni | sā | niśā | paśyataḥ | muneḥ"
+  },
+  "anvayam": {
+    "te": "యా సర్వభూతానాం నిశా, తస్యాం సంయమీ జాగర్తి; యస్యాం భూతాని జాగ్రతి, సా పశ్యతః మునేః నిశా.",
+    "en": "Yā sarvabhūtānāṃ niśā (what is night for all beings), tasyāṃ saṃyamī jāgarti (in that the self-controlled one is awake); yasyāṃ bhūtāni jāgrati (that in which beings are awake), sā paśyataḥ muneḥ niśā (that is night for the sage who sees)."
+  },
+  "meaning": {
+    "te": "సర్వప్రాణులకు ఏది రాత్రియో అందులో సంయమి మేల్కొని ఉంటాడు; ప్రాణులు మేల్కొని ఉండేదాంట్లో దార్శనికుడైన ముని నిద్రిస్తాడు.",
+    "en": "What is night for all beings, in that the self-controlled one remains awake; and what is waking time for other beings, that is night for the seeing sage."
+  },
+  "tatparyam": {
+    "te": "చీకటివెలుగుల రూపకంతో రెండు లోకాలను వేరుచేసే గీతలోని అత్యంత రహస్యమయమైన శ్లోకాలలో ఒకటి. సామాన్యులు దేనికోసమో మెలకువగా ఉంటారు — ఇంద్రియసుఖాలు, సంపద, పేరు — అదే జ్ఞానికి 'రాత్రి', అర్థరహితం. జ్ఞాని దేనికోసం మేల్కొని ఉంటాడో — ఆత్మావగాహన, శాశ్వతసత్యం — అది సామాన్యులకు 'రాత్రి', కనీసం స్పృహకు రానిది. ఒకే సూర్యోదయం ఇద్దరికీ వేరువేరు అర్థాలు ఇస్తుంది; జాగరణ అంటే కళ్ళు తెరవడం కాదు, దేనిపట్ల మెలకువగా ఉన్నామన్నదే అసలు ప్రశ్న.",
+    "en": "Through the metaphor of night and day, one of the Gita's most enigmatic verses draws the line between two worlds. Ordinary people stay awake chasing sensory pleasure, wealth, fame — for the wise, all of that is 'night', meaningless. What the wise stay awake for — self-knowledge, the eternal truth — is 'night' to the ordinary, never even entering their awareness. The same sunrise means something entirely different to each; being awake is not about open eyes but about what one is truly awake to."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

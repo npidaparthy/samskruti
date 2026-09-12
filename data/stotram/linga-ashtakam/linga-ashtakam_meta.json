@@ -1,0 +1,25 @@
+{
+  "slug": "linga-ashtakam",
+  "title_te": "లిఙ్గాష్టకమ్",
+  "title_sa": "लिङ्गाष्टकम्",
+  "title_en": "Liṅgāṣṭakam",
+  "description_en": "Eight verses in praise of the Śivaliṅga — the aniconic form in which Śiva is most universally worshipped. Each verse glorifies the liṅga as the form of infinite light, the origin and dissolution of the cosmos, and the granter of liberation. Ends with the declaration: \"I bow before that Śivaliṅga.\" Recited during Śiva pūjā and abhiṣekam.",
+  "description_te": "శివలిఙ్గాన్ని కీర్తించే ఎనిమిది శ్లోకాలు. అనంతమైన జ్యోతి స్వరూపమైన, సృష్టి స్థితి లయలకు కారణమైన శివలింగాన్ని స్తుతిస్తాయి. శివపూజ మరియు అభిషేక సమయంలో పఠిస్తారు.",
+  "description_sa": "शिवलिङ्गस्य अष्टश्लोकात्मकं स्तोत्रम्। अनन्तज्योतिस्वरूपं सृष्टिस्थितिलयकारणं शिवलिङ्गं स्तुवन्ति। शिवपूजायामभिषेके च पठ्यते।",
+  "theme": "blue",
+  "tags": [
+    "shiva",
+    "linga",
+    "ashtakam"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "లిఙ్గాష్టకమ్",
+      "title_sa": "लिङ्गाष्टकम्",
+      "title_en": "Liṅgāṣṭakam",
+      "file": "linga-ashtakam.txt"
+    }
+  ]
+}

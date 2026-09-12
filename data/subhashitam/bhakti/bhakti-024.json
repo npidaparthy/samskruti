@@ -1,0 +1,40 @@
+{
+  "id": "bhakti-024",
+  "tags": [
+    "bhakti",
+    "sarvatra-darshana"
+  ],
+  "shlokam": {
+    "te": "యో మాం పశ్యతి సర్వత్ర సర్వం చ మయి పశ్యతి ।\nతస్యాహం న ప్రణశ్యామి స చ మే న ప్రణశ్యతి ॥",
+    "sa": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति ।\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति ॥",
+    "iast": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati ।\ntasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (ధ్యానయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Dhyāna Yoga)",
+    "chapter": "6.30",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "యః | మామ్ | పశ్యతి | సర్వత్ర | సర్వమ్ | చ | మయి | పశ్యతి | తస్య | అహమ్ | న | ప్రణశ్యామి | సః | చ | మే | న | ప్రణశ్యతి",
+    "en": "yaḥ | mām | paśyati | sarvatra | sarvam | ca | mayi | paśyati | tasya | aham | na | praṇaśyāmi | saḥ | ca | me | na | praṇaśyati"
+  },
+  "anvayam": {
+    "te": "యః మాం సర్వత్ర పశ్యతి, సర్వం చ మయి పశ్యతి — తస్య అహం న ప్రణశ్యామి; సః చ మే న ప్రణశ్యతి.",
+    "en": "Yaḥ māṃ sarvatra paśyati (he who sees me everywhere), sarvaṃ ca mayi paśyati (and sees all things in me) — tasya ahaṃ na praṇaśyāmi (to him I am never lost); saḥ ca me na praṇaśyati (nor is he ever lost to me)."
+  },
+  "meaning": {
+    "te": "ఎవడు నన్ను అంతటా చూస్తాడో, సమస్తాన్నీ నాలో చూస్తాడో — అతనికి నేను కనుమరుగవను; అతడు నాకూ కనుమరుగవడు.",
+    "en": "He who sees me everywhere, and sees all things in me — to him I am never lost, nor is he ever lost to me."
+  },
+  "tatparyam": {
+    "te": "గీతలోని అత్యంత ఆర్ద్రమైన వాగ్దానాలలో ఒకటి. దైవదర్శనం ఏ ఒక్క క్షేత్రానికో పరిమితం కాదన్నది మొదటి సగం — అంతటా ఆయననూ, ఆయనలో అంతటినీ చూసే దృష్టి అలవడితే ప్రతి చోటూ దేవాలయమే. రెండవ సగం పరస్పర ప్రతిజ్ఞ: ఆ దృష్టి కలవానికి భగవంతుడు ఎన్నడూ దూరం కాడు — అంతకన్నా మధురం, అతడు భగవంతునికి దూరం కాడు. చూపు మారితే లోకమే మారుతుందనీ, ఆ మారిన చూపే విడదీయరాని బంధమవుతుందనీ ఈ శ్లోక సందేశం.",
+    "en": "One of the Gita's tenderest promises. The first half frees the vision of God from any single shrine — for one who learns to see Him everywhere and everything in Him, every place is temple. The second half is a mutual vow: to such a seer God is never lost — and sweeter still, the seer is never lost to God. Change the seeing and the world itself changes; and that changed seeing becomes a bond that cannot be broken."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

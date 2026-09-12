@@ -1,0 +1,42 @@
+{
+  "id": "niti-008",
+  "tags": [
+    "niti",
+    "vakyam",
+    "satya",
+    "priya"
+  ],
+  "shlokam": {
+    "te": "సత్యం బ్రూయాత్ ప్రియం బ్రూయాత్ న బ్రూయాత్ సత్యమప్రియమ్ ।\nప్రియం చ నానృతం బ్రూయాత్ ఏష ధర్మః సనాతనః ॥",
+    "sa": "सत्यं ब्रूयात् प्रियं ब्रूयात् न ब्रूयात् सत्यमप्रियम् ।\nप्रियं च नानृतं ब्रूयात् एष धर्मः सनातनः ॥",
+    "iast": "satyaṃ brūyāt priyaṃ brūyāt na brūyāt satyamapriyam ।\npriyaṃ ca nānṛtaṃ brūyāt eṣa dharmaḥ sanātanaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup)",
+  "granthaH": {
+    "name_te": "మనుస్మృతి",
+    "name_en": "Manusmṛti",
+    "chapter": "4.138",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
+  },
+  "padavibhagam": {
+    "te": "సత్యమ్ | బ్రూయాత్ | ప్రియమ్ | బ్రూయాత్ | న | బ్రూయాత్ | సత్యమ్ | అప్రియమ్ | ప్రియమ్ | చ | న | అనృతమ్ | బ్రూయాత్ | ఏషః | ధర్మః | సనాతనః",
+    "en": "satyam | brūyāt | priyam | brūyāt | na | brūyāt | satyam | apriyam | priyam | ca | na | anṛtam | brūyāt | eṣaḥ | dharmaḥ | sanātanaḥ"
+  },
+  "anvayam": {
+    "te": "సత్యం బ్రూయాత్; ప్రియం బ్రూయాత్; సత్యమ్ అప్రియం న బ్రూయాత్; ప్రియం చ అనృతం న బ్రూయాత్ — ఏషః సనాతనః ధర్మః (అస్తి).",
+    "en": "Speak truth (satyam brūyāt); speak what is pleasant (priyam brūyāt); do not speak unpleasant truth (na brūyāt satyam apriyam); do not speak pleasant falsehood (priyam ca na anṛtam brūyāt) — this is the eternal law (eṣa sanātanaḥ dharmaḥ)."
+  },
+  "meaning": {
+    "te": "సత్యం మాట్లాడాలి; ప్రియంగా మాట్లాడాలి; కష్టంగా ఉన్నప్పటికీ సత్యం మాట్లాడకూడదు (హాని చేసే విధంగా); ప్రియంగా ఉంటుందని అసత్యం మాట్లాడకూడదు — ఇదే సనాతన ధర్మం.",
+    "en": "Speak the truth; speak what is pleasant; do not speak a truth that is hurtful; do not speak a pleasant falsehood — this is the eternal law."
+  },
+  "tatparyam": {
+    "te": "ఈ శ్లోకం నాలుగు నియమాలు చెప్తుంది: (1) సత్యం చెప్పాలి, (2) ప్రియంగా చెప్పాలి, (3) కఠినమైన సత్యం చెప్పకూడదు, (4) ప్రియంగా ఉంటుందని అబద్ధం చెప్పకూడదు. 'సత్యమ్ + ప్రియమ్' — ఈ రెండూ కలిసిన మాటనే మాట్లాడాలి. ఇది కేవలం మాటల నీతి కాదు — సంబంధాలను కాపాడుకునే జ్ఞానం.",
+    "en": "This verse gives four principles: (1) speak truth, (2) speak pleasantly, (3) do not speak a truth that is harsh and hurtful, (4) do not speak a falsehood just because it is pleasing. The ideal speech is both truthful AND kind. This is not mere etiquette — it is the wisdom of preserving human relationships without compromising integrity."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E65100"/>
+      <stop offset="100%" stop-color="#BF360C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFF8E1" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#FFF8E1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="61.44" fill="url(#bg)"/>
+  <rect width="512" height="512" rx="61.44" fill="url(#glow)"/>
+
+  <!-- Decorative rings -->
+  <circle cx="256.0" cy="256.0" r="215.04" fill="none" stroke="#FFF8E1" stroke-width="1.5" stroke-opacity="0.3"/>
+  <circle cx="256.0" cy="256.0" r="189.2352" fill="none" stroke="#FFF8E1" stroke-width="1.5" stroke-opacity="0.15"/>
+
+  <!-- Corner dots -->
+  <circle cx="35.84" cy="35.84" r="6.144" fill="#FFF8E1" fill-opacity="0.35"/><circle cx="476.15999999999997" cy="35.84" r="6.144" fill="#FFF8E1" fill-opacity="0.35"/><circle cx="35.84" cy="476.15999999999997" r="6.144" fill="#FFF8E1" fill-opacity="0.35"/><circle cx="476.15999999999997" cy="476.15999999999997" r="6.144" fill="#FFF8E1" fill-opacity="0.35"/>
+
+  <!-- Symbol -->
+  <polygon points="256.0,112.63999999999999 92.16,342.016 419.84000000000003,342.016" fill="#FFF8E1" fill-opacity="0.08" stroke="#FFF8E1" stroke-width="7.168" stroke-opacity="0.55"/><polygon points="256.0,399.36 92.16,169.98399999999998 419.84000000000003,169.98399999999998" fill="#FFF8E1" fill-opacity="0.08" stroke="#FFF8E1" stroke-width="7.168" stroke-opacity="0.55"/><text x="256.0" y="276.48" text-anchor="middle" dominant-baseline="middle" font-size="112" fill="#FFF8E1" font-family="serif">ॐ</text>
+</svg>

@@ -1,0 +1,41 @@
+{
+  "id": "niti-022",
+  "tags": [
+    "niti",
+    "ekam-sat",
+    "advaita",
+    "sarva-dharma"
+  ],
+  "shlokam": {
+    "te": "ఏకం సద్విప్రా బహుధా వదన్తి ।",
+    "sa": "एकं सद्विप्रा बहुधा वदन्ति ।",
+    "iast": "ekaṃ sadviprā bahudhā vadanti ।"
+  },
+  "chandaH": "వేద సూక్తి (Vedic sūkti) — prose aphorism from gāyatrī metre context",
+  "granthaH": {
+    "name_te": "ఋగ్వేదం 1.164.46",
+    "name_en": "Ṛgveda 1.164.46",
+    "grantha": "Veda / Mantra",
+    "grantha_te": "వేదమన్త్రాః",
+    "grantha_sa": "वेदमन्त्राः"
+  },
+  "padavibhagam": {
+    "te": "ఏకం | సత్ | విప్రాః | బహుధా | వదన్తి",
+    "en": "ekam | sat | viprāḥ | bahudhā | vadanti"
+  },
+  "anvayam": {
+    "te": "సత్ (సత్యం / పరమాత్మ) ఏకం (ఒక్కటే); విప్రాః (జ్ఞానులు) బహుధా వదన్తి (అనేక పేర్లతో వ్యక్తం చేస్తారు).",
+    "en": "sat (Truth / the Real / the Divine) ekam (is one); viprāḥ (the wise) bahudhā vadanti (speak of it in many ways)."
+  },
+  "meaning": {
+    "te": "సత్యం ఒక్కటే — జ్ఞానులు దాన్ని అనేక పేర్లతో వ్యక్తం చేస్తారు.",
+    "en": "Truth is one — the wise speak of it by many names."
+  },
+  "tatparyam": {
+    "te": "ఋగ్వేదంలోని ఈ వాక్యం భారతీయ బహువాదానికి పునాది. అగ్ని, ఇంద్రుడు, వరుణుడు — వివిధ దేవతలు ఒకే పరమాత్మ యొక్క వివిధ రూపాలు అన్న సత్యాన్ని ఇది స్పష్టం చేస్తుంది. ఆధ్యాత్మికంగా ఇది అద్వైత సిద్ధాంతానికి వేద ప్రమాణం. సాంఘికంగా ఇది అన్ని మతాల, అన్ని దారుల అంతర్లీన ఐక్యతను చాటి చెప్పే సందేశం. స్వామి రామకృష్ణ పరమహంస ఈ సత్యాన్ని ప్రత్యక్ష అనుభవంతో నిరూపించారు.",
+    "en": "This verse from the Ṛgveda (1.164.46) is the scriptural foundation of India's religious pluralism. The deities of the Vedic pantheon — Indra, Agni, Varuṇa, Mitra — are understood as different names and forms of the one divine Reality. Philosophically, this verse is a Vedic authority for the Advaita (non-dual) understanding of the ultimate. Practically, it is the most quoted basis for tolerance of diverse religious paths. Sri Ramakrishna Paramahamsa experientially validated this teaching by practising multiple religious traditions and arriving at the same experience of the Divine."
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+}

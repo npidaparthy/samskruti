@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1259"/>
+      <stop offset="50%"  stop-color="#1A237E"/>
+      <stop offset="100%" stop-color="#3949AB"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="40%">
+      <stop offset="0%"   stop-color="#FFD700" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect width="800" height="500" fill="url(#glow)"/>
+
+  <!-- Decorative border -->
+  <rect x="16" y="16" width="768" height="468" rx="12"
+        fill="none" stroke="#FFD700" stroke-width="1.5" stroke-opacity="0.4"/>
+  <rect x="24" y="24" width="752" height="452" rx="8"
+        fill="none" stroke="#FFD700" stroke-width="0.5" stroke-opacity="0.25"/>
+
+  <!-- Corner ornaments -->
+  <g fill="#FFD700" fill-opacity="0.5" font-size="20">
+    <text x="30" y="52">✦</text>
+    <text x="756" y="52">✦</text>
+    <text x="30" y="486">✦</text>
+    <text x="756" y="486">✦</text>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="400" cy="250" r="180" fill="none" stroke="#FFD700"
+          stroke-width="0.75" stroke-opacity="0.15"/>
+  <circle cx="400" cy="250" r="140" fill="none" stroke="#FFD700"
+          stroke-width="0.5" stroke-opacity="0.1"/>
+
+  <!-- Main symbol -->
+  <text x="400" y="280" font-size="130" text-anchor="middle"
+        font-family="serif" fill="#FFD700" fill-opacity="0.9"
+        filter="url(#blur)" opacity="0.4">🪷</text>
+  <text x="400" y="280" font-size="130" text-anchor="middle"
+        font-family="serif" fill="#FFD700" fill-opacity="0.92">🪷</text>
+
+  <!-- Title (Telugu) -->
+  <text x="400" y="370" font-size="26" text-anchor="middle"
+        font-family="Noto Sans Telugu, sans-serif"
+        fill="#FFFFFF" fill-opacity="0.95"
+        letter-spacing="1">విష్ణు సహస్రనామం</text>
+
+  <!-- Subtitle (English) -->
+  <text x="400" y="402" font-size="15" text-anchor="middle"
+        font-family="Georgia, serif" font-style="italic"
+        fill="#FFD700" fill-opacity="0.8">Vishnu Sahasranamam</text>
+
+  <!-- Label / mantra line -->
+  <text x="400" y="448" font-size="13" text-anchor="middle"
+        font-family="Noto Sans Telugu, sans-serif"
+        fill="#FFFFFF" fill-opacity="0.55">సహస్ర నామ పూజ</text>
+</svg>

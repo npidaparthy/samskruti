@@ -1,0 +1,41 @@
+{
+  "id": "niti-031",
+  "tags": [
+    "niti",
+    "vidya",
+    "vidvan"
+  ],
+  "shlokam": {
+    "te": "విద్వత్త్వం చ నృపత్వం చ నైవ తుల్యం కదాచన ।\nస్వదేశే పూజ్యతే రాజా విద్వాన్ సర్వత్ర పూజ్యతే ॥",
+    "sa": "विद्वत्त्वं च नृपत्वं च नैव तुल्यं कदाचन ।\nस्वदेशे पूज्यते राजा विद्वान् सर्वत्र पूज्यते ॥",
+    "iast": "vidvattvaṃ ca nṛpatvaṃ ca naiva tulyaṃ kadācana ।\nsvadeśe pūjyate rājā vidvān sarvatra pūjyate ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి / హితోపదేశము",
+    "name_en": "Chanakya Niti / Hitopadesha",
+    "chapter": "widely quoted maxim",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "విద్వత్త్వమ్ | చ | నృపత్వమ్ | చ | న | ఏవ | తుల్యమ్ | కదాచన | స్వదేశే | పూజ్యతే | రాజా | విద్వాన్ | సర్వత్ర | పూజ్యతే",
+    "en": "vidvattvam | ca | nṛpatvam | ca | na | eva | tulyam | kadācana | svadeśe | pūjyate | rājā | vidvān | sarvatra | pūjyate"
+  },
+  "anvayam": {
+    "te": "విద్వత్త్వం చ నృపత్వం చ కదాచన తుల్యం న ఏవ; రాజా స్వదేశే పూజ్యతే; విద్వాన్ సర్వత్ర పూజ్యతే.",
+    "en": "Vidvattvam ca nṛpatvam ca (scholarship and kingship) kadācana (never) tulyam na eva (are ever equal); rājā (a king) svadeśe pūjyate (is honoured in his own land); vidvān (a learned person) sarvatra pūjyate (is honoured everywhere)."
+  },
+  "meaning": {
+    "te": "పాండిత్యం, రాజత్వం ఎప్పటికీ సమానం కావు. రాజు తన దేశంలోనే పూజింపబడతాడు; విద్వాంసుడు అన్ని చోట్లా పూజింపబడతాడు.",
+    "en": "Scholarship and kingship can never be equal. A king is honoured only in his own land; a learned person is honoured everywhere."
+  },
+  "tatparyam": {
+    "te": "రాజు అధికారం సరిహద్దుల వద్ద ఆగిపోతుంది; విద్వాంసుని గౌరవానికి సరిహద్దులు లేవు. అధికారం పదవితో పోతుంది, సంపద దొంగల పాలవుతుంది — కానీ విద్య ఎక్కడికి వెళ్ళినా వెంట వచ్చే సంపద, ఏ దేశంలోనైనా గుర్తింపు తెచ్చే ముద్ర. అందుకే భారతీయ సంప్రదాయం సింహాసనం కన్నా సరస్వతిని మిన్నగా భావించింది.",
+    "en": "A king's authority ends at his border; a scholar's honour knows none. Power ends with office and wealth can be stolen, but learning travels with its owner and earns recognition in any land. This is why the Indian tradition placed Sarasvati above the throne."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}
