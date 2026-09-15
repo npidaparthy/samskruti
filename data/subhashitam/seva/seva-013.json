@@ -1,0 +1,40 @@
+{
+  "id": "seva-013",
+  "tags": [
+    "seva",
+    "dana"
+  ],
+  "shlokam": {
+    "te": "శతహస్త సమాహర సహస్రహస్త సం కిర ॥",
+    "sa": "शतहस्त समाहर सहस्रहस्त सं किर ॥",
+    "iast": "śatahasta samāhara sahasrahasta saṃ kira ॥"
+  },
+  "chandaH": "వైదిక మన్త్రము (Vedic mantra)",
+  "granthaH": {
+    "name_te": "అథర్వవేదము",
+    "name_en": "Atharva Veda",
+    "chapter": "3.24.5",
+    "grantha": "Veda / Mantra",
+    "grantha_te": "వేదమన్త్రాః",
+    "grantha_sa": "वेदमन्त्राः"
+  },
+  "padavibhagam": {
+    "te": "శతహస్త | సమాహర | సహస్రహస్త | సమ్ | కిర",
+    "en": "śatahasta | samāhara | sahasrahasta | sam | kira"
+  },
+  "anvayam": {
+    "te": "(హే) శతహస్త! సమాహర; (హే) సహస్రహస్త! సం కిర.",
+    "en": "(O) śatahasta (you of a hundred hands)! samāhara (gather in); (O) sahasrahasta (you of a thousand hands)! saṃ kira (scatter forth)."
+  },
+  "meaning": {
+    "te": "నూరు చేతులతో సంపాదించు; వెయ్యి చేతులతో పంచిపెట్టు.",
+    "en": "Gather with a hundred hands; give away with a thousand."
+  },
+  "tatparyam": {
+    "te": "వేదకాలపు ఆర్థికశాస్త్రం ఒక్క పంక్తిలో. సంపాదనను వేదం నిషేధించలేదు — నూరు చేతులతో, అంటే పూర్తి పరిశ్రమతో సంపాదించమనే ప్రోత్సహించింది. కానీ పంపకం సంపాదన కన్నా పదిరెట్లు విశాలంగా ఉండాలన్నదే ఇక్కడి కొలమానం. సంపద నిలిచిన నీరు కారాదు, ప్రవహించే ధార కావాలి; సమాజం నుండి తీసుకున్నదానికన్నా ఎక్కువ సమాజానికి తిరిగి ఇచ్చే సంస్కృతిని ఈ చిన్న మంత్రం వేల ఏళ్ళ క్రితమే నిర్దేశించింది.",
+    "en": "Vedic economics in a single line. The Veda does not forbid earning — it urges earning with a hundred hands, with full industry. But the measure it sets is that distribution must be ten times wider than acquisition. Wealth must be a flowing stream, not standing water; a culture of returning to society more than one takes from it, prescribed in this tiny mantra thousands of years ago."
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+}

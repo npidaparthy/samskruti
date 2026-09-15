@@ -1,0 +1,42 @@
+{
+  "id": "niti-009",
+  "tags": [
+    "niti",
+    "vasudhaiva",
+    "kutumbakam",
+    "universality"
+  ],
+  "shlokam": {
+    "te": "అయం నిజః పరో వేతి గణనా లఘుచేతసామ్ ।\nఉదారచరితానాం తు వసుధైవ కుటుమ్బకమ్ ॥",
+    "sa": "अयं निजः परो वेति गणना लघुचेतसाम् ।\nउदारचरितानां तु वसुधैव कुटुम्बकम् ॥",
+    "iast": "ayaṃ nijaḥ paro veti gaṇanā laghucetasām ।\nudāracaritānāṃ tu vasudhaiva kuṭumbakam ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup)",
+  "granthaH": {
+    "name_te": "మహోపనిషత్ (పఞ్చతన్త్రమ్ అని కూడా ఉద్ధృతమైనది)",
+    "name_en": "Mahopaniṣat 6.71 (also cited in Pañcatantra)",
+    "chapter": "Mahopaniṣat 6.71",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
+  },
+  "padavibhagam": {
+    "te": "అయమ్ | నిజః | పరః | వా | ఇతి | గణనా | లఘుచేతసామ్ | ఉదారచరితానామ్ | తు | వసుధా | ఏవ | కుటుమ్బకమ్",
+    "en": "ayam | nijaḥ | paraḥ | vā | iti | gaṇanā | laghucetasām | udāracaritānām | tu | vasudhā | eva | kuṭumbakam"
+  },
+  "anvayam": {
+    "te": "'అయం నిజః, పరః వా' ఇతి గణనా లఘుచేతసాం (భవతి); ఉదారచరితానాం తు వసుధా ఏవ కుటుమ్బకమ్ (అస్తి).",
+    "en": "'This one is mine, that one is another' (ayaṃ nijaḥ paro vā iti) — such calculation (gaṇanā) belongs to the small-minded (laghucetasām); but for the noble-hearted (udāracaritānām), the entire earth (vasudhā eva) is one family (kuṭumbakam)."
+  },
+  "meaning": {
+    "te": "'ఇతడు నాకు చెందినవాడు, అతడు పరాయివాడు' అని లెక్కించడం సంకుచిత మనస్కులకు చెందిన పని. ఉదారహృదయులకు మాత్రం ఈ భూమి మొత్తం ఒక కుటుంబమే.",
+    "en": "The reckoning of 'this one is mine, that one is a stranger' belongs to the narrow-minded. For those of noble character, the entire earth is one family."
+  },
+  "tatparyam": {
+    "te": "భారతదేశపు సర్వోన్నత విదేశాంగ నీతి సూత్రంగా మారిన ఈ వాక్యం మానవజాతి ఏకత్వాన్ని ప్రతిపాదిస్తుంది. 'నాది-పరాయిది' అనే భేదం అల్పబుద్ధికి చిహ్నం; విశాల దృష్టి ఉన్నవాడికి ప్రపంచమంతా ఒక్క కుటుంబమే. ఆధునిక ప్రపంచీకరణ కాలంలో ఈ సత్యం మరింత అర్థవంతంగా ఉంది.",
+    "en": "This verse — adopted as India's foreign policy motto — proclaims the oneness of humanity. The division of 'mine' and 'theirs' is the mark of a small mind; the truly noble see the whole world as one family. In an age of globalisation, this ancient wisdom is more relevant than ever."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

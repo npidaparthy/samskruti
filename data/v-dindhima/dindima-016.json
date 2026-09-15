@@ -1,0 +1,35 @@
+{
+  "id": "dindima-016",
+  "tags": [
+    "dindima",
+    "jiva-brahma-aikya",
+    "vijnana"
+  ],
+  "shlokam": {
+    "te": "జీవో బ్రహ్మాత్మనా జ్ఞేయో జ్ఞేయం జీవాత్మనా పరమ్ ।\nముక్తిస్తదైక్యవిజ్ఞానానాదితి వేదాన్తడిణ్డిమః ॥ ౧౬ ॥",
+    "sa": "जीवो ब्रह्मात्मना ज्ञेयो ज्ञेयं जीवात्मना परम् ।\nमुक्तिस्तदैक्यविज्ञानानादिति वेदान्तडिण्डिमः ॥ १६ ॥",
+    "iast": "jīvo brahmātmanā jñeyo jñeyaṃ jīvātmanā param ।\nmuktistadaikyavijñānānāditi vedāntaḍiṇḍimaḥ ॥ 16 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 16"
+  },
+  "padavibhagam": {
+    "te": "జీవః | బ్రహ్మాత్మనా | జ్ఞేయః | జ్ఞేయమ్ | జీవాత్మనా | పరమ్ | ముక్తిః | తదైక్యవిజ్ఞానానాత్ | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "jīvaḥ | brahmātmanā | jñeyaḥ | jñeyam | jīvātmanā | param | muktiḥ | tadaikyavijñānānāt | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "జీవః బ్రహ్మాత్మనా జ్ఞేయః, పరం జ్ఞేయం జీవాత్మనా (జ్ఞేయమ్); తదైక్యవిజ్ఞానానాత్ ముక్తిః — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Jīvaḥ brahmātmanā jñeyaḥ (the individual is to be known as essentially Brahman), paraṃ jñeyaṃ jīvātmanā (the Supreme is to be known as the individual's very self); tadaikyavijñānānāt muktiḥ (liberation comes from knowing that very unity) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "జీవుడిని బ్రహ్మస్వరూపంగానూ, పరబ్రహ్మాన్ని జీవాత్మస్వరూపంగానూ తెలుసుకోవాలి. ఈ ఐక్యజ్ఞానం వల్లనే ముక్తి కలుగుతుంది — ఇది వేదాంతడిండిమం.",
+    "en": "The individual is to be known as essentially Brahman, and the Supreme is to be known as the individual's very self. Liberation comes from knowledge of this very unity. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "మునుపటి శ్లోకం (15) 'ఇలా ఉంది' అని వాస్తవాన్ని చెబితే, ఈ శ్లోకం 'ఇలా తెలుసుకోవాలి' అని దానికి ఆచరణాత్మక ఆదేశాన్ని జోడిస్తుంది — 'జ్ఞేయః', 'జ్ఞేయమ్' అనే క్త్వార్థ క్రియారూపాలు దీనిని స్పష్టం చేస్తాయి. ఐక్యత అనేది కేవలం ఉనికిలో ఉన్న వాస్తవం కాదు, అది చురుగ్గా తెలుసుకోవలసిన లక్ష్యం. 'ముక్తిస్తదైక్యవిజ్ఞానానాత్' అనే చివరిపాదం గ్రంథం మొత్తానికి పునరావృతమయ్యే సూత్రాన్ని మరోసారి నొక్కిచెబుతుంది — జీవబ్రహ్మైక్యాన్ని తెలుసుకోవడమే మోక్షానికి ఏకైక మార్గం.",
+    "en": "Where the previous verse (15) stated the fact 'it is so', this verse adds a practical instruction — 'it must be known so' — made explicit by the gerundive forms 'jñeyaḥ' and 'jñeyam'. Unity is not merely an existing fact but a goal to be actively known. The closing line, 'muktis tadaikyavijñānānāt', reiterates the work's recurring axiom once more — that knowing the unity of jiva and Brahman is the sole path to liberation."
+  }
+}

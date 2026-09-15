@@ -1,0 +1,25 @@
+{
+  "slug": "shiva-tandava-stotram",
+  "title_te": "శివతాణ్డవస్తోత్రమ్",
+  "title_sa": "शिवताण्डवस्तोत्रम्",
+  "title_en": "Śiva Tāṇḍava Stotram",
+  "description_en": "A celebrated hymn composed by the demon-king Rāvaṇa in praise of Lord Śiva's cosmic dance (tāṇḍava). Written in a thunderous, galloping metre that mimics the rhythm of Śiva's dance, it is a tour de force of Sanskrit phonaesthetics and devotional fervour. Tradition holds that Rāvaṇa composed it while lifting Mount Kailāsa, and Śiva, pleased by his devotion, blessed him with the Candrahāsa sword.",
+  "description_te": "రావణుడు శివుని తాండవ నృత్యాన్ని స్తుతిస్తూ రచించిన ప్రసిద్ధ స్తోత్రం. శివుని నృత్య లయను పోలే ఉరుమువంటి ఛందస్సులో రచించిన ఈ స్తోత్రం సంస్కృత కవిత్వంలో ఒక అద్భుత సృష్టి. కైలాసాన్ని ఎత్తినప్పుడు రావణుడు ఈ స్తోత్రం పాడాడని, ప్రసన్నుడైన శివుడు చంద్రహాస ఖడ్గాన్ని ప్రసాదించాడని ప్రతీతి.",
+  "description_sa": "रावणविरचितं शिवस्य ताण्डवनृत्यस्तुतिपरं स्तोत्रम्। नृत्यलयानुकारिणि गर्जितवृत्ते रचितम् इदं संस्कृतकाव्यस्य अद्भुतं रत्नम्। कैलासोद्धरणे रावणेन गीतम्, प्रसन्नः शिवः चन्द्रहासखड्गं प्रादादिति परम्परा।",
+  "theme": "blue",
+  "tags": [
+    "shiva",
+    "ravana",
+    "kavya"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "శివతాణ్డవస్తోత్రమ్",
+      "title_sa": "शिवताण्डवस्तोत्रम्",
+      "title_en": "Śiva Tāṇḍava Stotram",
+      "file": "shiva-tandava-stotram.txt"
+    }
+  ]
+}

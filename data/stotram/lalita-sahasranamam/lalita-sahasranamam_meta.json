@@ -1,0 +1,58 @@
+{
+    "slug": "lalita-sahasranamam",
+    "title_sa": "ललितासहस्रनामस्तोत्रम्",
+    "title_te": "లలితా సహస్రనామ స్తోత్రం",
+    "title_en": "Lalita Sahasranamam",
+    "description_en": "The thousand names of Goddess Lalita Tripurasundari from the Brahmanda Purana, Uttara Khanda. Central text of the Shakta tradition, composed as a dialogue between Hayagriva and Agastya.",
+    "description_te": "బ్రహ్మాండ పురాణం ఉత్తర ఖండంలో లలితా త్రిపురసుందరి దేవి యొక్క వేయి నామాలు. శాక్త సంప్రదాయంలో అత్యంత ముఖ్యమైన గ్రంథం.",
+    "theme": "theme-lalita",
+    "tags": [
+        "lalita",
+        "sahasranamam",
+        "shakti",
+        "devi",
+        "brahmanda-purana",
+        "tripurasundari"
+    ],
+    "synonyms": [
+        "లలితా సహస్రం",
+        "thousand names of lalita",
+        "LSN",
+        "lalita sahasra namam"
+    ],
+    "youtube_url": "",
+    "deity": "Lalita Tripurasundari / Devi",
+    "source": "Brahmanda Purana, Uttara Khanda",
+    "language": "Sanskrit",
+    "script_source": "devanagari",
+    "total_names": 1000,
+    "featured": true,
+    "images": [
+        "assets/images/lalita-sahasranamam-01.svg",
+        "assets/images/lalita-sahasranamam-02.svg",
+        "assets/images/lalita-sahasranamam-03.svg"
+    ],
+    "sections": [
+        {
+            "id": "purva-peetika",
+            "title_te": "పూర్వపీఠికా",
+            "title_sa": "पूर्वपीठिका",
+            "title_en": "pūrvapīṭhikā",
+            "file": "lalita-sahasranamam_purva-peetika.txt"
+        },
+        {
+            "id": "stotram",
+            "title_te": "స్తోత్రమ్",
+            "title_sa": "स्तोत्रम्",
+            "title_en": "stotram",
+            "file": "lalita-sahasranamam_stotram.txt"
+        },
+        {
+            "id": "uttara-peetika",
+            "title_te": "ఉత్తరపీఠికా",
+            "title_sa": "उत्तरपीठिका",
+            "title_en": "uttarapīṭhikā",
+            "file": "lalita-sahasranamam_uttara-peetika.txt"
+        }
+    ]
+}

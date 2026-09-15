@@ -1,0 +1,42 @@
+{
+  "id": "vairagya-014",
+  "tags": [
+    "vairagya",
+    "etajjnanam",
+    "humility",
+    "knowledge"
+  ],
+  "shlokam": {
+    "te": "అమానిత్వమదమ్భిత్వమహింసా క్షాన్తిరార్జవమ్ ।\nఆచార్యోపాసనం శౌచం స్థైర్యమాత్మవినిగ్రహః ॥",
+    "sa": "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् ।\nआचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः ॥",
+    "iast": "amānitvamadambhitvamahiṃsā kṣāntirārjavam ।\nācāryopāsanaṃ śaucaṃ sthairyamātmavinigrahaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (క్షేత్రక్షేత్రజ్ఞవిభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Kṣetra Kṣetrajña Vibhāga Yoga)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "13.7"
+  },
+  "padavibhagam": {
+    "te": "అమానిత్వం | అదమ్భిత్వం | అహింసా | క్షాన్తిః | ఆర్జవం | ఆచార్య-ఉపాసనం | శౌచం | స్థైర్యం | ఆత్మ-వినిగ్రహః",
+    "en": "amānitvam | adambhitvam | ahiṃsā | kṣāntiḥ | ārjavam | ācārya-upāsanam | śaucam | sthairyam | ātma-vinigṛhaḥ"
+  },
+  "anvayam": {
+    "te": "అమానిత్వం (అహంకారం లేకపోవడం), అదమ్భిత్వం (ఆడంబరం లేకపోవడం), అహింసా (హింస లేకపోవడం), క్షాన్తిః (ఓర్పు), ఆర్జవం (నిజాయితీ), ఆచార్యోపాసనం (గురువు సేవ), శౌచం (పవిత్రత), స్థైర్యం (స్థిరత), ఆత్మవినిగ్రహః (ఆత్మ నిగ్రహం) — ఇవి జ్ఞానానికి లక్షణాలు.",
+    "en": "amānitvam (absence of pride), adambhitvam (absence of ostentation), ahiṃsā (non-violence), kṣāntiḥ (patience/forbearance), ārjavam (straightforwardness), ācāryopāsanam (service of the teacher), śaucam (purity), sthairyam (steadfastness), ātmavinigṛhaḥ (self-control) — these are declared to be knowledge."
+  },
+  "meaning": {
+    "te": "అహంభావం లేకపోవడం, ఆడంబరం లేకపోవడం, అహింస, ఓర్పు, నిజాయితీ, గురువు సేవ, పవిత్రత, స్థిరత, ఆత్మ నిగ్రహం — ఇవి జ్ఞానం.",
+    "en": "Absence of pride, absence of deceit, non-violence, patience, honesty, service of the teacher, purity, steadfastness, and self-restraint — these are declared to be knowledge."
+  },
+  "tatparyam": {
+    "te": "గీతలో 13వ అధ్యాయంలో కృష్ణుడు జ్ఞానానికి లక్షణాలు నిర్వచిస్తున్నాడు — ఇవి పుస్తక జ్ఞానం కాదు, జీవన లక్షణాలు. 'ఏతజ్జ్ఞానమితి ప్రోక్తం' — ఇవే జ్ఞానమని చెప్పబడింది. అహంకారం, ఆడంబరం, హింస — ఇవి అజ్ఞానం. వినమ్రత, ఓర్పు, నిజాయితీ — ఇవి జ్ఞానం. ఆధ్యాత్మిక పరిపక్వతకు వైరాగ్యం మాత్రమే చాలదు — ఈ నైతిక సుగుణాలు కూడా అవసరం. గురువు సేవ జ్ఞానానికి లక్షణంగా చెప్పడం గురు-శిష్య సంప్రదాయం యొక్క మహత్వాన్ని చాటుతుంది.",
+    "en": "Bhagavad Gītā 13.7 defines jñāna — not as intellectual information but as a cluster of qualities of character. The verse says these are what knowledge IS, not what knowledge produces. This is Kṛṣṇa's radical redefinition: a person of genuine wisdom is marked by humility, non-deception, non-violence, patience, honesty, dedication to the teacher, purity, stability, and self-mastery. Their opposites — pride, ostentation, violence — are ignorance. The list deliberately includes service to the teacher (ācāryopāsanam) as a mark of wisdom, affirming that true jñāna is never self-sufficient but remains rooted in gratitude, lineage, and relationship."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

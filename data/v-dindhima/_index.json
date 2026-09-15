@@ -1,0 +1,1224 @@
+[
+ {
+  "id": "dindima-001",
+  "slug": "vedantadindimastattvam-ekam",
+  "file": "dindima-001.json",
+  "tags": [
+   "dindima",
+   "mangalacharana",
+   "dakshinamurti"
+  ],
+  "firstline_te": "వేదాన్తడిణ్డిమాస్తత్త్వమేకముద్ఘోషయన్తి యత్",
+  "firstline_sa": "वेदान्तडिण्डिमास्तत्त्वमेकमुद्घोषयन्ति यत्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-002",
+  "slug": "atmanatmapadarthau-dvau",
+  "file": "dindima-002.json",
+  "tags": [
+   "dindima",
+   "atma-anatma",
+   "brahman"
+  ],
+  "firstline_te": "ఆత్మానాత్మపదార్థౌ ద్వౌ భోక్తృభోగ్యత్వలక్షణౌ",
+  "firstline_sa": "आत्मानात्मपदार्थौ द्वौ भोक्तृभोग्यत्वलक्षणौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-003",
+  "slug": "jnanajnanapadarthau-dvavatmano",
+  "file": "dindima-003.json",
+  "tags": [
+   "dindima",
+   "jnana-ajnana",
+   "bandha-moksha"
+  ],
+  "firstline_te": "జ్ఞానాజ్ఞానపదార్థౌ ద్వావాత్మనో బన్ధముక్తిదౌ",
+  "firstline_sa": "ज्ञानाज्ञानपदार्थौ द्वावात्मनो बन्धमुक्तिदौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-004",
+  "slug": "jnatrjneyapadarthau-dvau",
+  "file": "dindima-004.json",
+  "tags": [
+   "dindima",
+   "jnatr-jneya",
+   "brahman-jagat"
+  ],
+  "firstline_te": "జ్ఞాతృజ్ఞేయపదార్థౌ ద్వౌ భాస్యభాసకలక్షణౌ",
+  "firstline_sa": "ज्ञातृज्ञेयपदार्थौ द्वौ भास्यभासकलक्षणौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-005",
+  "slug": "sukhaduhkhapadarthau-dvau",
+  "file": "dindima-005.json",
+  "tags": [
+   "dindima",
+   "sukha-duhkha",
+   "brahman-jagat"
+  ],
+  "firstline_te": "సుఖదుఃఖపదార్థౌ ద్వౌ ప్రియవిప్రియకారకౌ",
+  "firstline_sa": "सुखदुःखपदार्थौ द्वौ प्रियविप्रियकारकौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-006",
+  "slug": "samashtivyashtirupau-dvau",
+  "file": "dindima-006.json",
+  "tags": [
+   "dindima",
+   "samashti-vyashti",
+   "ishvara-jiva"
+  ],
+  "firstline_te": "సమష్టివ్యష్టిరూపౌ ద్వౌ పదార్థౌ సర్వసమ్మతౌ",
+  "firstline_sa": "समष्टिव्यष्टिरूपौ द्वौ पदार्थौ सर्वसम्मतौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-007",
+  "slug": "jnanakarmapadarthau-dvau",
+  "file": "dindima-007.json",
+  "tags": [
+   "dindima",
+   "jnana-karma",
+   "moksha"
+  ],
+  "firstline_te": "జ్ఞానకర్మపదార్థౌ ద్వౌ వస్తుకర్త్రాత్మతన్త్రకౌ",
+  "firstline_sa": "ज्ञानकर्मपदार्थौ द्वौ वस्तुकर्त्रात्मतन्त्रकौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-008",
+  "slug": "shrotavyashravyarupau-dvau",
+  "file": "dindima-008.json",
+  "tags": [
+   "dindima",
+   "shravana",
+   "brahman"
+  ],
+  "firstline_te": "శ్రోతవ్యాశ్రావ్యరూపౌ ద్వౌ పదార్థౌ సుఖదుఃఖదౌ",
+  "firstline_sa": "श्रोतव्याश्राव्यरूपौ द्वौ पदार्थौ सुखदुःखदौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-009",
+  "slug": "chintyachintyapadarthau-dvau",
+  "file": "dindima-009.json",
+  "tags": [
+   "dindima",
+   "chintana",
+   "brahman"
+  ],
+  "firstline_te": "చిన్త్యాచిన్త్యపదార్థౌ ద్వౌ విశ్రాన్తిశ్రాన్తిదాయకౌ",
+  "firstline_sa": "चिन्त्याचिन्त्यपदार्थौ द्वौ विश्रान्तिश्रान्तिदायकौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-010",
+  "slug": "dhyeyadhyeyapadarthau-dvau",
+  "file": "dindima-010.json",
+  "tags": [
+   "dindima",
+   "dhyana",
+   "samadhi"
+  ],
+  "firstline_te": "ధ్యేయాధ్యేయపదార్థౌ ద్వౌ ధీసమాధ్యసమాధిదౌ",
+  "firstline_sa": "ध्येयाध्येयपदार्थौ द्वौ धीसमाध्यसमाधिदौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-011",
+  "slug": "yogino-bhogino-vpi-tygino",
+  "file": "dindima-011.json",
+  "tags": [
+   "dindima",
+   "jnana-moksha",
+   "sarva-adhikara"
+  ],
+  "firstline_te": "యోగినో భోగినో వాపి త్యాగినో రాగిణోఽపి చ",
+  "firstline_sa": "योगिनो भोगिनो वापि त्यागिनो रागिणोऽपि च",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-012",
+  "slug": "na-varramasaketair-na-karmopsandibhi",
+  "file": "dindima-012.json",
+  "tags": [
+   "dindima",
+   "brahma-jnana",
+   "varnashrama"
+  ],
+  "firstline_te": "న వర్ణాశ్రమసఙ్కేతైర్న కర్మోపాసనాదిభిః",
+  "firstline_sa": "न वर्णाश्रमसङ्केतैर्न कर्मोपासनादिभिः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-013",
+  "slug": "asatya-sarvasasro-rasbhsdidita",
+  "file": "dindima-013.json",
+  "tags": [
+   "dindima",
+   "samsara-asatya",
+   "upeksha"
+  ],
+  "firstline_te": "అసత్యః సర్వసంసారో రసాభాసాదిదూషితః",
+  "firstline_sa": "असत्यः सर्वसंसारो रसाभासादिदूषितः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-014",
+  "slug": "vthkriy-vthlpn-vthvdn-manorathn",
+  "file": "dindima-014.json",
+  "tags": [
+   "dindima",
+   "vrtha-kriya",
+   "eka-brahman"
+  ],
+  "firstline_te": "వృథాక్రియా వృథాలాపాన్వృథావాదాన్మనోరథాన్",
+  "firstline_sa": "वृथाक्रिया वृथालापान्वृथावादान्मनोरथान्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-015",
+  "slug": "sthito-brahmtman-jvo-brahma",
+  "file": "dindima-015.json",
+  "tags": [
+   "dindima",
+   "jiva-brahma-aikya",
+   "moksha"
+  ],
+  "firstline_te": "స్థితో బ్రహ్మాత్మనా జీవో బ్రహ్మ జీవాత్మనా స్థితమ్",
+  "firstline_sa": "स्थितो ब्रह्मात्मना जीवो ब्रह्म जीवात्मना स्थितम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-016",
+  "slug": "jvo-brahmtman-jeyo-jeya",
+  "file": "dindima-016.json",
+  "tags": [
+   "dindima",
+   "jiva-brahma-aikya",
+   "vijnana"
+  ],
+  "firstline_te": "జీవో బ్రహ్మాత్మనా జ్ఞేయో జ్ఞేయం జీవాత్మనా పరమ్",
+  "firstline_sa": "जीवो ब्रह्मात्मना ज्ञेयो ज्ञेयं जीवात्मना परम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-017",
+  "slug": "sarvtmatvt-para-brahma-roturtmatay",
+  "file": "dindima-017.json",
+  "tags": [
+   "dindima",
+   "sarvatmatva",
+   "shrotr-atman"
+  ],
+  "firstline_te": "సర్వాత్మత్వాత్పరం బ్రహ్మ శ్రోతురాత్మతయా స్థితమ్",
+  "firstline_sa": "सर्वात्मत्वात्परं ब्रह्म श्रोतुरात्मतया स्थितम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-018",
+  "slug": "aihika-cmumika-ca-tpnta",
+  "file": "dindima-018.json",
+  "tags": [
+   "dindima",
+   "karma-tyaga",
+   "aihika-amushmika"
+  ],
+  "firstline_te": "ఐహికం చాముష్మికం చ తాపాన్తం కర్మసఞ్చయమ్",
+  "firstline_sa": "ऐहिकं चामुष्मिकं च तापान्तं कर्मसञ्चयम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-019",
+  "slug": "advaitadvaitavdau-dvau-skmasthlada-gatau",
+  "file": "dindima-019.json",
+  "tags": [
+   "dindima",
+   "advaita-dvaita",
+   "sukshma-sthula"
+  ],
+  "firstline_te": "అద్వైతద్వైతవాదౌ ద్వౌ సూక్ష్మస్థూలదశాం గతౌ",
+  "firstline_sa": "अद्वैतद्वैतवादौ द्वौ सूक्ष्मस्थूलदशां गतौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-020",
+  "slug": "karmio-vinivartante-nivartanta-upsak",
+  "file": "dindima-020.json",
+  "tags": [
+   "dindima",
+   "karmi-upasaka-jnani",
+   "punarjanma"
+  ],
+  "firstline_te": "కర్మిణో వినివర్తన్తే నివర్తన్త ఉపాసకాః",
+  "firstline_sa": "कर्मिणो विनिवर्तन्ते निवर्तन्त उपासकाः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-021",
+  "slug": "parokt-saphala-karma-jna",
+  "file": "dindima-021.json",
+  "tags": [
+   "dindima",
+   "paroksha-pratyaksha",
+   "jnana-phala"
+  ],
+  "firstline_te": "పరోక్షాత్సఫలం కర్మ జ్ఞానం ప్రత్యక్షసత్ఫలమ్",
+  "firstline_sa": "परोक्षात्सफलं कर्म ज्ञानं प्रत्यक्षसत्फलम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-022",
+  "slug": "vth-ramoya-vidu-vthya",
+  "file": "dindima-022.json",
+  "tags": [
+   "dindima",
+   "vrtha-shrama",
+   "brahma-vijnana"
+  ],
+  "firstline_te": "వృథా శ్రమోఽయం విదుషాం వృథాయం కర్మిణాం శ్రమః",
+  "firstline_sa": "वृथा श्रमोऽयं विदुषां वृथायं कर्मिणां श्रमः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-023",
+  "slug": "ala-ygair-ala-yogair",
+  "file": "dindima-023.json",
+  "tags": [
+   "dindima",
+   "alam-yaga-yoga",
+   "brahma-jnata"
+  ],
+  "firstline_te": "అలం యాగైరలం యోగైరలం భోగైరలం ధనైః",
+  "firstline_sa": "अलं यागैरलं योगैरलं भोगैरलं धनैः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-024",
+  "slug": "ala-vedair-ala-strair",
+  "file": "dindima-024.json",
+  "tags": [
+   "dindima",
+   "alam-veda-shastra",
+   "paramatma-vijnana"
+  ],
+  "firstline_te": "అలం వేదైరలం శాస్త్రైరలం స్మృతిపురాణకైః",
+  "firstline_sa": "अलं वेदैरलं शास्त्रैरलं स्मृतिपुराणकैः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-025",
+  "slug": "narc-na-yajurthosti-na",
+  "file": "dindima-025.json",
+  "tags": [
+   "dindima",
+   "rk-yajus-sama",
+   "brahmatma-vijnana"
+  ],
+  "firstline_te": "నర్చా న యజుషార్థోఽస్తి న సామ్నార్థోఽస్తి కశ్చన",
+  "firstline_sa": "नर्चा न यजुषार्थोऽस्ति न साम्नार्थोऽस्ति कश्चन",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-026",
+  "slug": "karmi-cittauddhyartham-aikgryrtham-upsan",
+  "file": "dindima-026.json",
+  "tags": [
+   "dindima",
+   "karma-upasana-purpose",
+   "moksha-jnana"
+  ],
+  "firstline_te": "కర్మాణి చిత్తశుద్ధ్యర్థమైకాగ్ర్యార్థముపాసనా",
+  "firstline_sa": "कर्माणि चित्तशुद्ध्यर्थमैकाग्र्यार्थमुपासना",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-027",
+  "slug": "sacitgmikarmi-dahyante-jnavahnin",
+  "file": "dindima-027.json",
+  "tags": [
+   "dindima",
+   "sanchita-agami-prarabdha",
+   "jnana-vahni"
+  ],
+  "firstline_te": "సఞ్చితాగామికర్మాణి దహ్యన్తే జ్ఞానవహ్నినా",
+  "firstline_sa": "सञ्चितागामिकर्माणि दह्यन्ते ज्ञानवह्निना",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-028",
+  "slug": "na-puyakarmao-vddhir-na",
+  "file": "dindima-028.json",
+  "tags": [
+   "dindima",
+   "punya-papa",
+   "atma-nishtha"
+  ],
+  "firstline_te": "న పుణ్యకర్మణో వృద్ధిర్న హానిః పాపకర్మణః",
+  "firstline_sa": "न पुण्यकर्मणो वृद्धिर्न हानिः पापकर्मणः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-029",
+  "slug": "buddhiprvbuddhiprvaktn-ppakarmam",
+  "file": "dindima-029.json",
+  "tags": [
+   "dindima",
+   "prayashchitta",
+   "jnana-mahima"
+  ],
+  "firstline_te": "బుద్ధిపూర్వాబుద్ధిపూర్వకృతానాం పాపకర్మణామ్",
+  "firstline_sa": "बुद्धिपूर्वाबुद्धिपूर्वकृतानां पापकर्मणाम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-030",
+  "slug": "dgdyau-dvau-padrthau-tau",
+  "file": "dindima-030.json",
+  "tags": [
+   "dindima",
+   "drg-drshya",
+   "maya"
+  ],
+  "firstline_te": "దృగ్దృశ్యౌ ద్వౌ పదార్థౌ తౌ పరస్పరవిలక్షణౌ",
+  "firstline_sa": "दृग्दृश्यौ द्वौ पदार्थौ तौ परस्परविलक्षणौ",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-031",
+  "slug": "avidyopdhiko-jvo-myopdhika-vara",
+  "file": "dindima-031.json",
+  "tags": [
+   "dindima",
+   "avidya-maya",
+   "ishvara-jiva"
+  ],
+  "firstline_te": "అవిద్యోపాధికో జీవో మాయోపాధిక ఈశ్వరః",
+  "firstline_sa": "अविद्योपाधिको जीवो मायोपाधिक ईश्वरः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-032",
+  "slug": "skra-ca-nirkra-sagua",
+  "file": "dindima-032.json",
+  "tags": [
+   "dindima",
+   "sakara-nirakara",
+   "brahman-guna"
+  ],
+  "firstline_te": "సాకారం చ నిరాకారం సగుణం చాగుణాత్మకమ్",
+  "firstline_sa": "साकारं च निराकारं सगुणं चागुणात्मकम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-033",
+  "slug": "dvijatva-vidhyanuhnd-vipratva-veda",
+  "file": "dindima-033.json",
+  "tags": [
+   "dindima",
+   "dvija-vipra-brahmana",
+   "brahma-jnana"
+  ],
+  "firstline_te": "ద్విజత్వం విధ్యనుష్ఠానాద్విప్రత్వం వేద పాఠతః",
+  "firstline_sa": "द्विजत्वं विध्यनुष्ठानाद्विप्रत्वं वेद पाठतः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-034",
+  "slug": "sarvtman-sthita-brahma-sarva",
+  "file": "dindima-034.json",
+  "tags": [
+   "dindima",
+   "karya-karana",
+   "sarvatmana-brahman"
+  ],
+  "firstline_te": "సర్వాత్మనా స్థితం బ్రహ్మ సర్వం బ్రహ్మాత్మనా స్థితమ్",
+  "firstline_sa": "सर्वात्मना स्थितं ब्रह्म सर्वं ब्रह्मात्मना स्थितम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-035",
+  "slug": "sattsphuraasaukhyni-bhsante-sarvavastuu",
+  "file": "dindima-035.json",
+  "tags": [
+   "dindima",
+   "satta-sphurana-saukhya",
+   "brahmamaya"
+  ],
+  "firstline_te": "సత్తాస్ఫురణసౌఖ్యాని భాసన్తే సర్వవస్తుషు",
+  "firstline_sa": "सत्तास्फुरणसौख्यानि भासन्ते सर्ववस्तुषु",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-036",
+  "slug": "avasthtritaya-yasya-krbhmitay-sthitam",
+  "file": "dindima-036.json",
+  "tags": [
+   "dindima",
+   "avastha-traya",
+   "kridabhumi"
+  ],
+  "firstline_te": "అవస్థాత్రితయం యస్య క్రీడాభూమితయా స్థితమ్",
+  "firstline_sa": "अवस्थात्रितयं यस्य क्रीडाभूमितया स्थितम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-037",
+  "slug": "yan-ndau-yac-ca",
+  "file": "dindima-037.json",
+  "tags": [
+   "dindima",
+   "mithya-jagat",
+   "adyanta-pariksha"
+  ],
+  "firstline_te": "యన్నాదౌ యచ్చ నాస్త్యన్తే తన్మధ్యే భాతమప్యసత్",
+  "firstline_sa": "यन्नादौ यच्च नास्त्यन्ते तन्मध्ये भातमप्यसत्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-038",
+  "slug": "yad-asty-dau-yad",
+  "file": "dindima-038.json",
+  "tags": [
+   "dindima",
+   "eka-satyam",
+   "sarvakala-sthiti"
+  ],
+  "firstline_te": "యదస్త్యాదౌ యదస్త్యన్తే యన్మధ్యే భాతి తత్స్వయమ్",
+  "firstline_sa": "यदस्त्यादौ यदस्त्यन्ते यन्मध्ये भाति तत्स्वयम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-039",
+  "slug": "pururthatrayvi-puru-paavo-dhruvam",
+  "file": "dindima-039.json",
+  "tags": [
+   "dindima",
+   "purushartha",
+   "moksharthi-shreshtha"
+  ],
+  "firstline_te": "పురుషార్థత్రయావిష్టాః పురుషాః పశవో ధ్రువమ్",
+  "firstline_sa": "पुरुषार्थत्रयाविष्टाः पुरुषाः पशवो ध्रुवम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-040",
+  "slug": "ghaakuydika-sarva-mttikmtram-eva",
+  "file": "dindima-040.json",
+  "tags": [
+   "dindima",
+   "ghata-mrttika",
+   "jagat-brahman"
+  ],
+  "firstline_te": "ఘటకుడ్యాదికం సర్వం మృత్తికామాత్రమేవ చ",
+  "firstline_sa": "घटकुड्यादिकं सर्वं मृत्तिकामात्रमेव च",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-041",
+  "slug": "a-nihatya-traya-hitv",
+  "file": "dindima-041.json",
+  "tags": [
+   "dindima",
+   "shad-ari",
+   "trigunatita"
+  ],
+  "firstline_te": "షణ్నిహత్య త్రయం హిత్వా ద్వయం భిత్త్వాఽఖిలాతిగమ్",
+  "firstline_sa": "षण्निहत्य त्रयं हित्वा द्वयं भित्त्वाऽखिलातिगम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-042",
+  "slug": "bhittv-a-paca-bhittvtha",
+  "file": "dindima-042.json",
+  "tags": [
+   "dindima",
+   "shat-pancha-chatur",
+   "eka-ashraya"
+  ],
+  "firstline_te": "భిత్త్వా షట్ పఞ్చ భిత్త్వాథ గత్వాగ్రే చతురస్త్రికమ్",
+  "firstline_sa": "भित्त्वा षट् पञ्च भित्त्वाथ गत्वाग्रे चतुरस्त्रिकम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-043",
+  "slug": "deho-nham-aha-deh",
+  "file": "dindima-043.json",
+  "tags": [
+   "dindima",
+   "deha-dehi",
+   "janma-mrtyu"
+  ],
+  "firstline_te": "దేహో నాహమహం దేహీ దేహసాక్షీతి నిశ్చయాత్",
+  "firstline_sa": "देहो नाहमहं देही देहसाक्षीति निश्चयात्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-044",
+  "slug": "pro-nham-aha-deva",
+  "file": "dindima-044.json",
+  "tags": [
+   "dindima",
+   "prana-sakshi",
+   "kshut-pipasa"
+  ],
+  "firstline_te": "ప్రాణో నాహమహం దేవః ప్రాణసాక్షీతి నిశ్చయాత్",
+  "firstline_sa": "प्राणो नाहमहं देवः प्राणसाक्षीति निश्चयात्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-045",
+  "slug": "mano-nham-aha-devo",
+  "file": "dindima-045.json",
+  "tags": [
+   "dindima",
+   "manah-sakshi",
+   "shoka-moha"
+  ],
+  "firstline_te": "మనో నాహమహం దేవో మనఃసాక్షీతి నిశ్చయాత్",
+  "firstline_sa": "मनो नाहमहं देवो मनःसाक्षीति निश्चयात्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-046",
+  "slug": "buddhir-nham-aha-devo",
+  "file": "dindima-046.json",
+  "tags": [
+   "dindima",
+   "buddhi-sakshi",
+   "kartrbhava-nivrtti"
+  ],
+  "firstline_te": "బుద్ధిర్నాహమహం దేవో బుద్ధిసాక్షీతి నిశ్చయాత్",
+  "firstline_sa": "बुद्धिर्नाहमहं देवो बुद्धिसाक्षीति निश्चयात्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-047",
+  "slug": "njna-sym-aha-devojnaskti",
+  "file": "dindima-047.json",
+  "tags": [
+   "dindima",
+   "ajnana-sakshi",
+   "sarva-anartha"
+  ],
+  "firstline_te": "నాజ్ఞానం స్యామహం దేవోఽజ్ఞానసాక్షీతి నిశ్చయాత్",
+  "firstline_sa": "नाज्ञानं स्यामहं देवोऽज्ञानसाक्षीति निश्चयात्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-048",
+  "slug": "aha-skti-yo-vidyd",
+  "file": "dindima-048.json",
+  "tags": [
+   "dindima",
+   "aham-sakshi",
+   "vivichya"
+  ],
+  "firstline_te": "అహం సాక్షీతి యో విద్యాద్వివిచ్యైవం పునః పునః",
+  "firstline_sa": "अहं साक्षीति यो विद्याद्विविच्यैवं पुनः पुनः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-049",
+  "slug": "nha-my-na-tatkrya",
+  "file": "dindima-049.json",
+  "tags": [
+   "dindima",
+   "maya-atita",
+   "paramo-asmi"
+  ],
+  "firstline_te": "నాహం మాయా న తత్కార్యం తత్సాక్షీ పరమోఽస్మ్యహమ్",
+  "firstline_sa": "नाहं माया न तत्कार्यं तत्साक्षी परमोऽस्म्यहम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-050",
+  "slug": "nha-sarvam-aha-sarva",
+  "file": "dindima-050.json",
+  "tags": [
+   "dindima",
+   "naham-sarvam-aham",
+   "duhkha-nirasa"
+  ],
+  "firstline_te": "నాహం సర్వమహం సర్వం మమ సర్వమితి స్ఫుటమ్",
+  "firstline_sa": "नाहं सर्वमहं सर्वं मम सर्वमिति स्फुटम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-051",
+  "slug": "dehdipacakoasth-y-satt-pratibhsate",
+  "file": "dindima-051.json",
+  "tags": [
+   "dindima",
+   "pancha-kosha",
+   "satta"
+  ],
+  "firstline_te": "దేహాదిపఞ్చకోశస్థా యా సత్తా ప్రతిభాసతే",
+  "firstline_sa": "देहादिपञ्चकोशस्था या सत्ता प्रतिभासते",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-052",
+  "slug": "dehdipacakoasth-y-sphrtir-anubhyate",
+  "file": "dindima-052.json",
+  "tags": [
+   "dindima",
+   "pancha-kosha",
+   "sphurti"
+  ],
+  "firstline_te": "దేహాదిపఞ్చకోశస్థా యా స్ఫూర్తిరనుభూయతే",
+  "firstline_sa": "देहादिपञ्चकोशस्था या स्फूर्तिरनुभूयते",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-053",
+  "slug": "dehdipacakoasth-y-prtir-anubhyate",
+  "file": "dindima-053.json",
+  "tags": [
+   "dindima",
+   "pancha-kosha",
+   "priti-kutastha"
+  ],
+  "firstline_te": "దేహాదిపఞ్చకోశస్థా యా ప్రీతిరనుభూయతే",
+  "firstline_sa": "देहादिपञ्चकोशस्था या प्रीतिरनुभूयते",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-054",
+  "slug": "vyomdipacabhtasth-y-satt-bhsate",
+  "file": "dindima-054.json",
+  "tags": [
+   "dindima",
+   "vyoma-pancha-bhuta",
+   "satta-brahman"
+  ],
+  "firstline_te": "వ్యోమాదిపఞ్చభూతస్థా యా సత్తా భాసతే నృణామ్",
+  "firstline_sa": "व्योमादिपञ्चभूतस्था या सत्ता भासते नृणाम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-055",
+  "slug": "vyomdipacabhtasth-y-cid-eknubhyate",
+  "file": "dindima-055.json",
+  "tags": [
+   "dindima",
+   "vyoma-pancha-bhuta",
+   "chit-brahman"
+  ],
+  "firstline_te": "వ్యోమాదిపఞ్చభూతస్థా యా చిదేకానుభూయతే",
+  "firstline_sa": "व्योमादिपञ्चभूतस्था या चिदेकानुभूयते",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-056",
+  "slug": "vyomdipacabhtasth-y-prtir-anubhyate",
+  "file": "dindima-056.json",
+  "tags": [
+   "dindima",
+   "vyoma-pancha-bhuta",
+   "priti-brahman"
+  ],
+  "firstline_te": "వ్యోమాదిపఞ్చభూతస్థా యా ప్రీతిరనుభూయతే",
+  "firstline_sa": "व्योमादिपञ्चभूतस्था या प्रीतिरनुभूयते",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-057",
+  "slug": "dehdikoag-satt-y-s",
+  "file": "dindima-057.json",
+  "tags": [
+   "dindima",
+   "abheda-satta",
+   "mana-abhava"
+  ],
+  "firstline_te": "దేహాదికోశగా సత్తా యా సా వ్యోమాదిభూతగా",
+  "firstline_sa": "देहादिकोशगा सत्ता या सा व्योमादिभूतगा",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-058",
+  "slug": "dehdikoag-sphrtir-y-s",
+  "file": "dindima-058.json",
+  "tags": [
+   "dindima",
+   "abheda-sphurti",
+   "mana-abhava"
+  ],
+  "firstline_te": "దేహాదికోశగా స్ఫూర్తిర్యా సా వ్యోమాదిభూతగా",
+  "firstline_sa": "देहादिकोशगा स्फूर्तिर्या सा व्योमादिभूतगा",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-059",
+  "slug": "dehdikoag-prtir-y-s",
+  "file": "dindima-059.json",
+  "tags": [
+   "dindima",
+   "abheda-priti",
+   "mana-abhava"
+  ],
+  "firstline_te": "దేహాదికోశగా ప్రీతిర్యా సా వ్యోమాదిభూతగా",
+  "firstline_sa": "देहादिकोशगा प्रीतिर्या सा व्योमादिभूतगा",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-060",
+  "slug": "saccidnandarpatvd-brahmaivtm-na-saaya",
+  "file": "dindima-060.json",
+  "tags": [
+   "dindima",
+   "sacchidananda",
+   "shruti-pramana"
+  ],
+  "firstline_te": "సచ్చిదానన్దరూపత్వాద్బ్రహ్మైవాత్మా న సంశయః",
+  "firstline_sa": "सच्चिदानन्दरूपत्वाद्ब्रह्मैवात्मा न संशयः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-061",
+  "slug": "na-nmarpe-niyate-sarvatra",
+  "file": "dindima-061.json",
+  "tags": [
+   "dindima",
+   "nama-rupa",
+   "anamarupa"
+  ],
+  "firstline_te": "న నామరూపే నియతే సర్వత్ర వ్యభిచారతః",
+  "firstline_sa": "न नामरूपे नियते सर्वत्र व्यभिचारतः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-062",
+  "slug": "na-jvabrahmaor-bheda-sattrpea",
+  "file": "dindima-062.json",
+  "tags": [
+   "dindima",
+   "jiva-brahma-abheda-satta",
+   "mana"
+  ],
+  "firstline_te": "న జీవబ్రహ్మణోర్భేదః సత్తారూపేణ విద్యతే",
+  "firstline_sa": "न जीवब्रह्मणोर्भेदः सत्तारूपेण विद्यते",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-063",
+  "slug": "na-jvabrahmaor-bheda-sphrtirpea",
+  "file": "dindima-063.json",
+  "tags": [
+   "dindima",
+   "jiva-brahma-abheda-sphurti",
+   "mana"
+  ],
+  "firstline_te": "న జీవబ్రహ్మణోర్భేదః స్ఫూర్తిరూపేణ విద్యతే",
+  "firstline_sa": "न जीवब्रह्मणोर्भेदः स्फूर्तिरूपेण विद्यते",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-064",
+  "slug": "na-jvabrahmaor-bheda-priyarpea",
+  "file": "dindima-064.json",
+  "tags": [
+   "dindima",
+   "jiva-brahma-abheda-priya",
+   "mana"
+  ],
+  "firstline_te": "న జీవబ్రహ్మణోర్భేదః ప్రియరూపేణ విద్యతే",
+  "firstline_sa": "न जीवब्रह्मणोर्भेदः प्रियरूपेण विद्यते",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-065",
+  "slug": "na-jvabrahmaor-bhedo-nmn",
+  "file": "dindima-065.json",
+  "tags": [
+   "dindima",
+   "nama-mithya",
+   "jiva-brahma-abheda"
+  ],
+  "firstline_te": "న జీవబ్రహ్మణోర్భేదో నామ్నా రూపేణ విద్యతే",
+  "firstline_sa": "न जीवब्रह्मणोर्भेदो नाम्ना रूपेण विद्यते",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-066",
+  "slug": "na-jvabrahmaor-bheda-piabrahmabhedata",
+  "file": "dindima-066.json",
+  "tags": [
+   "dindima",
+   "pinda-brahmanda",
+   "vyashti-samashti-ekatva"
+  ],
+  "firstline_te": "న జీవబ్రహ్మణోర్భేదః పిణ్డబ్రహ్మాణ్డభేదతః",
+  "firstline_sa": "न जीवब्रह्मणोर्भेदः पिण्डब्रह्माण्डभेदतः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-067",
+  "slug": "brahma-satya-jagan-mithy",
+  "file": "dindima-067.json",
+  "tags": [
+   "dindima",
+   "brahma-satya-jagat-mithya",
+   "jivanmukta"
+  ],
+  "firstline_te": "బ్రహ్మ సత్యం జగన్మిథ్యా జీవో బ్రహ్మైవ నాపరః",
+  "firstline_sa": "ब्रह्म सत्यं जगन्मिथ्या जीवो ब्रह्मैव नापरः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-068",
+  "slug": "anmarpa-sakala-sanmaya-cinmaya",
+  "file": "dindima-068.json",
+  "tags": [
+   "dindima",
+   "anamarupa-sakalam",
+   "kuto-bhedah"
+  ],
+  "firstline_te": "అనామరూపం సకలం సన్మయం చిన్మయం ప్రియమ్",
+  "firstline_sa": "अनामरूपं सकलं सन्मयं चिन्मयं प्रियम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-069",
+  "slug": "na-satya-kathyate-loko",
+  "file": "dindima-069.json",
+  "tags": [
+   "dindima",
+   "loka-nama-vyabhichara",
+   "vatuh-kulata"
+  ],
+  "firstline_te": "న సత్యః కథ్యతే లోకో నామాదేర్వ్యభిచారతః",
+  "firstline_sa": "न सत्यः कथ्यते लोको नामादेर्व्यभिचारतः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-070",
+  "slug": "nmarptmaka-vivam-indrajla-vidur",
+  "file": "dindima-070.json",
+  "tags": [
+   "dindima",
+   "indrajala",
+   "vishva-nama-rupa"
+  ],
+  "firstline_te": "నామరూపాత్మకం విశ్వమిన్ద్రజాలం విదుర్బుధాః",
+  "firstline_sa": "नामरूपात्मकं विश्वमिन्द्रजालं विदुर्बुधाः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-071",
+  "slug": "abhedadarana-moka-sasro-bhedadaranam",
+  "file": "dindima-071.json",
+  "tags": [
+   "dindima",
+   "abheda-darshana",
+   "moksha-samsara"
+  ],
+  "firstline_te": "అభేదదర్శనం మోక్షః సంసారో భేదదర్శనమ్",
+  "firstline_sa": "अभेददर्शनं मोक्षः संसारो भेददर्शनम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-072",
+  "slug": "na-matbhiniveena-na-bhveamtrata",
+  "file": "dindima-072.json",
+  "tags": [
+   "dindima",
+   "mata-abhinivesha",
+   "bhasha-avesha"
+  ],
+  "firstline_te": "న మతాభినివేశేన న భాషావేషమాత్రతః",
+  "firstline_sa": "न मताभिनिवेशेन न भाषावेषमात्रतः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-073",
+  "slug": "na-kmyapratiiddhbhi-kriybhir-mokavsan",
+  "file": "dindima-073.json",
+  "tags": [
+   "dindima",
+   "ishvara-anugraha",
+   "moksha-vasana"
+  ],
+  "firstline_te": "న కామ్యప్రతిషిద్ధాభిః క్రియాభిర్మోక్షవాసనా",
+  "firstline_sa": "न काम्यप्रतिषिद्धाभिः क्रियाभिर्मोक्षवासना",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-074",
+  "slug": "avijte-janma-naa-vijte",
+  "file": "dindima-074.json",
+  "tags": [
+   "dindima",
+   "avijnate-janma-nashtam",
+   "jnatur-atma"
+  ],
+  "firstline_te": "అవిజ్ఞాతే జన్మ నష్టం విజ్ఞాతే జన్మ సార్థకమ్",
+  "firstline_sa": "अविज्ञाते जन्म नष्टं विज्ञाते जन्म सार्थकम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-075",
+  "slug": "daamasya-parijne-nysosti-yath",
+  "file": "dindima-075.json",
+  "tags": [
+   "dindima",
+   "dashama-purusha",
+   "svasya-brahmatma-vijnana"
+  ],
+  "firstline_te": "దశమస్య పరిజ్ఞానే నాయాసోఽస్తి యథా తథా",
+  "firstline_sa": "दशमस्य परिज्ञाने नायासोऽस्ति यथा तथा",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-076",
+  "slug": "upekyaupdhikn-don-ghyante-viay",
+  "file": "dindima-076.json",
+  "tags": [
+   "dindima",
+   "upeksha-doshan",
+   "drshya-brahman"
+  ],
+  "firstline_te": "ఉపేక్ష్యౌపాధికాన్దోషాన్గృహ్యన్తే విషయా యథా",
+  "firstline_sa": "उपेक्ष्यौपाधिकान्दोषान्गृह्यन्ते विषया यथा",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-077",
+  "slug": "sukham-alpa-bahuklea-viayagrhi",
+  "file": "dindima-077.json",
+  "tags": [
+   "dindima",
+   "sukham-alpam",
+   "brahmanishtha-ananta"
+  ],
+  "firstline_te": "సుఖమల్పం బహుక్లేశం విషయగ్రాహిణాం నృణామ్",
+  "firstline_sa": "सुखमल्पं बहुक्लेशं विषयग्राहिणां नृणाम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-078",
+  "slug": "dhanair-v-dhanadai-putrair",
+  "file": "dindima-078.json",
+  "tags": [
+   "dindima",
+   "dhana-putra-dara",
+   "prana-hara"
+  ],
+  "firstline_te": "ధనైర్వా ధనదైః పుత్రైర్దారాగారసహోదరైః",
+  "firstline_sa": "धनैर्वा धनदैः पुत्रैर्दारागारसहोदरैः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-079",
+  "slug": "supter-utthya-suptyanta-brahmaika",
+  "file": "dindima-079.json",
+  "tags": [
+   "dindima",
+   "supter-utthaya",
+   "mrtyu-natidure"
+  ],
+  "firstline_te": "సుప్తేరుత్థాయ సుప్త్యన్తం బ్రహ్మైకం ప్రవిచిన్త్యతామ్",
+  "firstline_sa": "सुप्तेरुत्थाय सुप्त्यन्तं ब्रह्मैकं प्रविचिन्त्यताम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-080",
+  "slug": "pacnm-api-kon-mynarthtmatocit",
+  "file": "dindima-080.json",
+  "tags": [
+   "dindima",
+   "pancha-kosha-maya",
+   "sakshi-brahma-vijnana"
+  ],
+  "firstline_te": "పఞ్చానామపి కోశానాం మాయానర్థాత్మతోచితా",
+  "firstline_sa": "पञ्चानामपि कोशानां मायानर्थात्मतोचिता",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-081",
+  "slug": "daamasya-parijnn-navajasya-yath",
+  "file": "dindima-081.json",
+  "tags": [
+   "dindima",
+   "dashama-navajna",
+   "sat-prapti"
+  ],
+  "firstline_te": "దశమస్య పరిజ్ఞానాన్నవజ్ఞస్య యథా సుఖమ్",
+  "firstline_sa": "दशमस्य परिज्ञानान्नवज्ञस्य यथा सुखम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-082",
+  "slug": "navabhyosti-para-pratya-naiva",
+  "file": "dindima-082.json",
+  "tags": [
+   "dindima",
+   "navabhyo-parah-pratyak",
+   "chaturtha-turiya"
+  ],
+  "firstline_te": "నవభ్యోఽస్తి పరః ప్రత్యఙ్నైవ వేద పరం పరమ్",
+  "firstline_sa": "नवभ्योऽस्ति परः प्रत्यङ्नैव वेद परं परम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-083",
+  "slug": "navbhsn-nava-jtv-navopdhn",
+  "file": "dindima-083.json",
+  "tags": [
+   "dindima",
+   "nava-abhasa",
+   "avashishta-mauna"
+  ],
+  "firstline_te": "నవాభాసాన్నవ జ్ఞాత్వా నవోపాధీన్నవాత్మనా",
+  "firstline_sa": "नवाभासान्नव ज्ञात्वा नवोपाधीन्नवात्मना",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-084",
+  "slug": "parame-brahmai-svasmin-pravilpykhila",
+  "file": "dindima-084.json",
+  "tags": [
+   "dindima",
+   "parame-brahmani",
+   "advaita-gayana"
+  ],
+  "firstline_te": "పరమే బ్రహ్మణి స్వస్మిన్ప్రవిలాప్యాఖిలం జగత్",
+  "firstline_sa": "परमे ब्रह्मणि स्वस्मिन्प्रविलाप्याखिलं जगत्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-085",
+  "slug": "pratilomnulombhy-vivroppavdayo",
+  "file": "dindima-085.json",
+  "tags": [
+   "dindima",
+   "pratiloma-anuloma",
+   "vishvaropa-apavada"
+  ],
+  "firstline_te": "ప్రతిలోమానులోమాభ్యాం విశ్వారోపాపవాదయోః",
+  "firstline_sa": "प्रतिलोमानुलोमाभ्यां विश्वारोपापवादयोः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-086",
+  "slug": "nmarpbhimna-syt-sasra-sarvadehinm",
+  "file": "dindima-086.json",
+  "tags": [
+   "dindima",
+   "nama-rupa-abhimana",
+   "saccidananda-drshti"
+  ],
+  "firstline_te": "నామరూపాభిమానః స్యాత్సంసారః సర్వదేహినామ్",
+  "firstline_sa": "नामरूपाभिमानः स्यात्संसारः सर्वदेहिनाम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-087",
+  "slug": "saccidnandasatyatve-mithytve-nmarpayo",
+  "file": "dindima-087.json",
+  "tags": [
+   "dindima",
+   "satyatva-mithyatva",
+   "kim-jneyam"
+  ],
+  "firstline_te": "సచ్చిదానన్దసత్యత్వే మిథ్యాత్వే నామరూపయోః",
+  "firstline_sa": "सच्चिदानन्दसत्यत्वे मिथ्यात्वे नामरूपयोः",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-088",
+  "slug": "slambana-nirlamba-sarvlambvalambitam",
+  "file": "dindima-088.json",
+  "tags": [
+   "dindima",
+   "salambana-niralambana",
+   "akhilalamba"
+  ],
+  "firstline_te": "సాలమ్బనం నిరాలమ్బం సర్వాలమ్బావలమ్బితమ్",
+  "firstline_sa": "सालम्बनं निरालम्बं सर्वालम्बावलम्बितम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-089",
+  "slug": "na-kuryn-na-vijnyt",
+  "file": "dindima-089.json",
+  "tags": [
+   "dindima",
+   "sarvam-brahma-anusmaran",
+   "yatha-sukham-tishthet"
+  ],
+  "firstline_te": "న కుర్యాన్న విజానీయాత్సర్వం బ్రహ్మేత్యనుస్మరన్",
+  "firstline_sa": "न कुर्यान्न विजानीयात्सर्वं ब्रह्मेत्यनुस्मरन्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-090",
+  "slug": "svakarmapavaaga-prjonyo-v-jano",
+  "file": "dindima-090.json",
+  "tags": [
+   "dindima",
+   "svakarma-pasha",
+   "prajna-sukham-kalam"
+  ],
+  "firstline_te": "స్వకర్మపాశవశగః ప్రాజ్ఞోఽన్యో వా జనో ధ్రువమ్",
+  "firstline_sa": "स्वकर्मपाशवशगः प्राज्ञोऽन्यो वा जनो ध्रुवम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-091",
+  "slug": "na-vidvsa-tapec-citta",
+  "file": "dindima-091.json",
+  "tags": [
+   "dindima",
+   "na-vidvamsam-tapet",
+   "sarvam-atma-vijnana"
+  ],
+  "firstline_te": "న విద్వాంసం తపేచ్చిత్తం కరణేఽకరణే ధ్రువమ్",
+  "firstline_sa": "न विद्वांसं तपेच्चित्तं करणेऽकरणे ध्रुवम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-092",
+  "slug": "naivbhsa-spet-karma-mithyopdhim",
+  "file": "dindima-092.json",
+  "tags": [
+   "dindima",
+   "abhasa-karma",
+   "adhishthana-atyaccha"
+  ],
+  "firstline_te": "నైవాభాసం స్పృశేత్కర్మ మిథ్యోపాధిమపి స్వయమ్",
+  "firstline_sa": "नैवाभासं स्पृशेत्कर्म मिथ्योपाधिमपि स्वयम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-093",
+  "slug": "ahosmkam-ala-mohair-tma",
+  "file": "dindima-093.json",
+  "tags": [
+   "dindima",
+   "phalashruti",
+   "shruti-bheri"
+  ],
+  "firstline_te": "అహోఽస్మాకమలం మోహైరాత్మ బ్రహ్మేతి నిర్భయమ్",
+  "firstline_sa": "अहोऽस्माकमलं मोहैरात्म ब्रह्मेति निर्भयम्",
+  "source_en": "Vedanta Dindimah"
+ },
+ {
+  "id": "dindima-094",
+  "slug": "vedntabherjhakra-prativdibhayakara",
+  "file": "dindima-094.json",
+  "tags": [
+   "dindima",
+   "phalashruti",
+   "dakshinamurti-anugraha"
+  ],
+  "firstline_te": "వేదాన్తభేరీఝఙ్కారః ప్రతివాదిభయఙ్కరః",
+  "firstline_sa": "वेदान्तभेरीझङ्कारः प्रतिवादिभयङ्करः",
+  "source_en": "Vedanta Dindimah"
+ }
+]

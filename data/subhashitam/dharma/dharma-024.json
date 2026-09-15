@@ -1,0 +1,41 @@
+{
+  "id": "dharma-024",
+  "tags": [
+    "dharma",
+    "bandhutva",
+    "satya"
+  ],
+  "shlokam": {
+    "te": "సత్యం మాతా పితా జ్ఞానం ధర్మో భ్రాతా దయా సఖా ।\nశాన్తిః పత్నీ క్షమా పుత్రః షడేతే మమ బాన్ధవాః ॥",
+    "sa": "सत्यं माता पिता ज्ञानं धर्मो भ्राता दया सखा ।\nशान्तिः पत्नी क्षमा पुत्रः षडेते मम बान्धवाः ॥",
+    "iast": "satyaṃ mātā pitā jñānaṃ dharmo bhrātā dayā sakhā ।\nśāntiḥ patnī kṣamā putraḥ ṣaḍete mama bāndhavāḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత రత్నభాండాగారము",
+    "name_en": "Subhashita Ratnabhandagara",
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
+  },
+  "padavibhagam": {
+    "te": "సత్యమ్ | మాతా | పితా | జ్ఞానమ్ | ధర్మః | భ్రాతా | దయా | సఖా | శాన్తిః | పత్నీ | క్షమా | పుత్రః | షట్ | ఏతే | మమ | బాన్ధవాః",
+    "en": "satyam | mātā | pitā | jñānam | dharmaḥ | bhrātā | dayā | sakhā | śāntiḥ | patnī | kṣamā | putraḥ | ṣaṭ | ete | mama | bāndhavāḥ"
+  },
+  "anvayam": {
+    "te": "సత్యం మాతా, జ్ఞానం పితా, ధర్మః భ్రాతా, దయా సఖా, శాన్తిః పత్నీ, క్షమా పుత్రః — ఏతే షట్ మమ బాన్ధవాః.",
+    "en": "Satyam mātā (truth is my mother), jñānam pitā (knowledge my father), dharmaḥ bhrātā (dharma my brother), dayā sakhā (compassion my friend), śāntiḥ patnī (peace my wife), kṣamā putraḥ (forgiveness my son) — ete ṣaṭ mama bāndhavāḥ (these six are my kin)."
+  },
+  "meaning": {
+    "te": "సత్యం నా తల్లి, జ్ఞానం నా తండ్రి, ధర్మం నా సోదరుడు, దయ నా మిత్రుడు, శాంతి నా భార్య, క్షమ నా పుత్రుడు — ఈ ఆరుగురే నా బంధువులు.",
+    "en": "Truth is my mother, knowledge my father, dharma my brother, compassion my friend, peace my wife, and forgiveness my son — these six are my true kin."
+  },
+  "tatparyam": {
+    "te": "రక్తసంబంధాలు జన్మతో వస్తాయి; ఈ శ్లోకం చెప్పే ఆరు బంధాలు సాధనతో సంపాదించుకోవాలి. సత్యం తల్లిలా జన్మనిస్తుంది, జ్ఞానం తండ్రిలా దారి చూపుతుంది, ధర్మం సోదరుడిలా అండగా నిలుస్తుంది, దయ మిత్రుడిలా తోడుంటుంది, శాంతి ఇల్లాలిలా ఇంటిని నింపుతుంది, క్షమ పుత్రుడిలా భవిష్యత్తును కాపాడుతుంది. ఈ ఆరుగురున్న వాడు ఎక్కడున్నా ఒంటరి కాడు — సద్గుణాలే శాశ్వత కుటుంబం అన్నది ఇక్కడి భావన.",
+    "en": "Blood relations come by birth; the six kinships of this verse must be earned by practice. Truth gives birth like a mother, knowledge guides like a father, dharma stands by like a brother, compassion accompanies like a friend, peace fills the home like a spouse, and forgiveness secures the future like a son. One who has these six is never alone anywhere — virtues are the family that never leaves."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

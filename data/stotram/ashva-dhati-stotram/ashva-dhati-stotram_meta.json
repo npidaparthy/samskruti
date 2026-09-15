@@ -1,0 +1,25 @@
+{
+  "slug": "ashva-dhati-stotram",
+  "title_te": "అశ్వధాటి స్తోత్రమ్",
+  "title_sa": "अश्वधाटी स्तोत्रम्",
+  "title_en": "Aśvadhāṭī Stotram",
+  "description_en": "A celebrated Sanskrit poem by Vedānta Deśika (13th–14th century) on Lord Veṅkaṭeśvara of Tirupati, composed in the Aśvadhāṭī metre — a fast galloping rhythm named after the gait of a horse. One of the most ornate and complex devotional compositions in Sanskrit, showcasing Deśika's mastery of alaṅkāra (poetic embellishments).",
+  "description_te": "వేదాంత దేశికులు రచించిన తిరుపతి వేంకటేశ్వరుని అశ్వధాటి స్తోత్రం. గుర్రం పరుగు వేగాన్ని పోలిన అశ్వధాటి వృత్తంలో రచించిన ఈ స్తోత్రం సంస్కృత అలంకార శాస్త్రంలో ఒక అద్భుత కృతిగా పేరుగాంచింది.",
+  "description_sa": "वेदान्तदेशिकविरचितं वेङ्कटेश्वरस्य अश्वधाटीस्तोत्रम्। अश्वगतिसदृशस्य अश्वधाटीवृत्तस्य संस्कृतालङ्काराणां च प्रयोगे देशिकस्य अपूर्वं पाण्डित्यं दृश्यते।",
+  "theme": "indigo",
+  "tags": [
+    "vishnu",
+    "venkateswara",
+    "kavya"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "అశ్వధాటి స్తోత్రమ్",
+      "title_sa": "अश्वधाटी स्तोत्रम्",
+      "title_en": "Aśvadhāṭī Stotram",
+      "file": "ashva-dhati-stotram.txt"
+    }
+  ]
+}

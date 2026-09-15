@@ -1,0 +1,35 @@
+{
+  "id": "dindima-083",
+  "tags": [
+    "dindima",
+    "nava-abhasa",
+    "avashishta-mauna"
+  ],
+  "shlokam": {
+    "te": "నవాభాసాన్నవ జ్ఞాత్వా నవోపాధీన్నవాత్మనా ।\nమిథ్యా జ్ఞాత్వావశిష్టే తు మౌనం వేదాన్తడిణ్డిమః ॥ ౮౩ ॥",
+    "sa": "नवाभासान्नव ज्ञात्वा नवोपाधीन्नवात्मना ।\nमिथ्या ज्ञात्वावशिष्टे तु मौनं वेदान्तडिण्डिमः ॥ ८३ ॥",
+    "iast": "navābhāsānnava jñātvā navopādhīnnavātmanā ।\nmithyā jñātvāvaśiṣṭe tu maunaṃ vedāntaḍiṇḍimaḥ ॥ 83 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 83"
+  },
+  "padavibhagam": {
+    "te": "నవాభాసాన్ | నవ | జ్ఞాత్వా | నవోపాధీన్ | న | ఆత్మనా | మిథ్యా | జ్ఞాత్వా | అవశిష్టే | తు | మౌనమ్ | వేదాన్తడిణ్డిమః",
+    "en": "navābhāsān | nava | jñātvā | navopādhīn | na | ātmanā | mithyā | jñātvā | avaśiṣṭe | tu | maunam | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "నవ ఆభాసాన్, నవ ఉపాధీన్, ఆత్మనా న (సన్తి ఇతి) మిథ్యా జ్ఞాత్వా, అవశిష్టే తు మౌనమ్ — వేదాన్తడిణ్డిమః.",
+    "en": "Nava ābhāsān (the nine appearances), nava upādhīn (the nine limiting adjuncts), ātmanā na (santi iti) mithyā jñātvā (having known them, as not the Self, to be unreal), avaśiṣṭe tu maunam (in what remains, however, there is only silence) — vedāntaḍiṇḍimaḥ (the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "తొమ్మిది ఆభాసాలనూ, తొమ్మిది ఉపాధులనూ ఆత్మ కావని, మిథ్యే అని తెలుసుకున్నాక, మిగిలినదానిలో మౌనమే మిగులుతుంది — ఇది వేదాంతడిండిమం.",
+    "en": "Having known the nine appearances and the nine limiting adjuncts to be unreal, not the Self — in what remains, only silence prevails. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "82వ శ్లోకంలో ప్రస్తావించిన 'నవ' వర్గీకరణను ఇక్కడ పూర్తిచేస్తూ, గ్రంథం ఒక అసాధారణమైన ముగింపుకు చేరుకుంటుంది — 'మౌనం'. ఇంతవరకూ గ్రంథం మాటలతో, తర్కంతో, ప్రకటనలతో సత్యాన్ని చాటింది; కానీ అంతిమసత్యాన్ని చేరుకున్న తర్వాత, దానిని వర్ణించడానికి మాటలు చాలవని ఈ శ్లోకం అంగీకరిస్తుంది. అన్ని 'కాదు కాదు' (నేతినేతి) ప్రక్రియలూ పూర్తయ్యాక మిగిలేది వర్ణించలేని అనుభవం మాత్రమే — దానికి తగిన ప్రతిస్పందన మౌనమే. ఉపనిషత్తులలో బాహ్వృచి ఋషి బ్రహ్మం గురించి అడిగినప్పుడు మౌనంగా ఉండిపోయిన ప్రసిద్ధ కథను ఇది గుర్తుచేస్తుంది — మాటలు ఆగిన చోటే సత్యం ప్రారంభమవుతుంది.",
+    "en": "Completing the 'nine' classification raised in verse 82, the work here arrives at an extraordinary conclusion — 'silence'. Up to this point the work has proclaimed truth through words, logic, and declaration; but this verse acknowledges that once the ultimate truth is reached, words are no longer sufficient to describe it. What remains once every 'not this, not this' (neti neti) process is complete is an indescribable experience — and the only fitting response to it is silence. This recalls the famous story of the sage who fell silent when asked to describe Brahman — truth begins exactly where words end."
+  }
+}

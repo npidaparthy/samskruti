@@ -1,0 +1,24 @@
+{
+  "slug": "surya-shatakam",
+  "title_te": "సూర్య శతకమ్",
+  "title_sa": "सूर्यशतकम्",
+  "title_en": "Sūrya Śatakam",
+  "description_en": "One hundred verses in praise of Sūrya (the Sun god) by the poet Mayūra, composed as an act of penance and devotion after he was struck with leprosy. Mayūra composed these verses lying before the Sun temple, and tradition holds he was cured. A celebrated example of devotional Sanskrit poetry.",
+  "description_te": "కవి మయూరుడు రచించిన సూర్యదేవుని స్తుతిలో వంద శ్లోకాలు. కుష్టు వ్యాధితో బాధపడుతూ సూర్యాలయం ముందు పడుకొని ఈ శ్లోకాలు రచించాడు; ఆ తర్వాత నయమైందని ప్రతీతి. సంస్కృత భక్తి కవిత్వంలో ఒక అమూల్యమైన కృతి.",
+  "description_sa": "कविमयूरविरचितं सूर्यस्य शतश्लोकात्मकं स्तोत्रम्। कुष्ठरोगपीडितो मयूरः सूर्यालयसमक्षं शयानः इदं स्तोत्रं रचयामास, ततश्च रोगमुक्तोऽभवदिति परम्परा।",
+  "theme": "gold",
+  "tags": [
+    "surya",
+    "kavya"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "సూర్య శతకమ్",
+      "title_sa": "सूर्यशतकम्",
+      "title_en": "Sūrya Śatakam",
+      "file": "surya-shatakam.txt"
+    }
+  ]
+}

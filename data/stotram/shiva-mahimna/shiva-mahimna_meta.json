@@ -1,0 +1,27 @@
+{
+    "slug": "shiva-mahimna",
+    "tags": [
+        "shiva",
+        "mahimna",
+        "pushpa danta"
+    ],
+    "synonyms": [
+        "shiv mahimna",
+        "shiv mahimna stotram"
+    ],
+    "youtube_url": "",
+    "images": [
+        "assets/images/shiva-mahimna-01.svg",
+        "assets/images/shiva-mahimna-02.svg",
+        "assets/images/shiva-mahimna-03.svg"
+    ],
+    "sections": [
+        {
+            "id": "main",
+            "title_te": "శివమహిమ్నఃస్తోత్రమ్",
+            "title_sa": "शिवमाहत्म्यम्",
+            "title_en": "śivamahimnaḥstotram",
+            "file": "shiva-mahimna_stotram.txt"
+        }
+    ]
+}

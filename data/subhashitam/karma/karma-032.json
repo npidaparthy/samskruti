@@ -1,0 +1,40 @@
+{
+  "id": "karma-032",
+  "tags": [
+    "karma",
+    "sanga"
+  ],
+  "shlokam": {
+    "te": "సఙ్గం త్యక్త్వా ఫలం చైవ కర్తా త్రిగుణసంశ్రయః ।\nభక్త్యా భావం విశుద్ధాత్మా వికర్మణ్యపి కర్మసు ॥",
+    "sa": "सङ्गं त्यक्त्वा फलं चैव कर्ता त्रिगुणसंश्रयः ।\nभक्त्या भावं विशुद्धात्मा विकर्मण्यपि कर्मसु ॥",
+    "iast": "saṅgaṃ tyaktvā phalaṃ caiva kartā triguṇasaṃśrayaḥ ।\nbhaktyā bhāvaṃ viśuddhātmā vikarmaṇyapi karmasu ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Mokṣa Sannyāsa Yoga)",
+    "chapter": "18.26",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "సఙ్గమ్ | త్యక్త్వా | ఫలమ్ | చ | ఏవ | కర్తా | త్రిగుణసంశ్రయః | భక్త్యా | భావమ్ | విశుద్ధాత్మా | వికర్మణి | అపి | కర్మసు",
+    "en": "saṅgam | tyaktvā | phalam | ca | eva | kartā | triguṇasaṃśrayaḥ | bhaktyā | bhāvam | viśuddhātmā | vikarmaṇi | api | karmasu"
+  },
+  "anvayam": {
+    "te": "సంగం ఫలం చ ఏవ త్యక్త్వా (యః) కర్తా, (సః) విశుద్ధాత్మా; కర్మసు వికర్మణి అపి (సన్) త్రిగుణసంశ్రయః న భవతి.",
+    "en": "Saṅgaṃ phalaṃ ca eva tyaktvā (having given up both attachment and the fruit of action) yaḥ kartā (whoever acts as a doer thus), saḥ viśuddhātmā (he is of purified mind); karmasu vikarmaṇi api (even amid forbidden actions), triguṇasaṃśrayaḥ (does not fall under the sway of the three gunas)."
+  },
+  "meaning": {
+    "te": "ఆసక్తినీ ఫలాపేక్షనూ విడిచి కర్మ చేసేవాడు విశుద్ధాత్ముడు. ఏ కర్మనైనా చేస్తున్నా అతడు త్రిగుణాధీనుడు కాడు.",
+    "en": "One who acts having given up both attachment and desire for the fruit is of purified mind. Whatever action he performs, he does not fall under the sway of the three gunas."
+  },
+  "tatparyam": {
+    "te": "కర్తను మూడు కోవలుగా విభజించే గీత పద్దెనిమిదవ అధ్యాయపు క్రమంలో, సాత్త్విక కర్తను వర్ణించే భాగం ఇది. ఇక్కడ కీలకం — 'సంగం త్యక్త్వా', 'ఫలం త్యక్త్వా' — రెండు వేర్వేరు త్యాగాలు. పనిపట్ల ఆసక్తి వదలడం ఒకటైతే, దాని ఫలంపై కోరిక వదలడం మరొకటి. రెంటినీ సాధించినవాడే నిజమైన సాత్త్విక కర్త, అతని మనసు ఏ కర్మ చేసినా కలుషితం కాదు. ఇది కర్మశూన్యత కాదు — శుద్ధమైన, నిర్మలమైన కర్తృత్వానికి నమూనా.",
+    "en": "Part of the Gita's eighteenth chapter, which classifies the doer into three kinds; this describes the sattvic doer. The key here is two separate renunciations — 'saṅgaṃ tyaktvā' and 'phalaṃ tyaktvā' — giving up attachment to the work is one thing, giving up desire for its fruit is another. One who achieves both is the true sattvic doer, whose mind remains untainted by whatever action is performed. This is not inaction — it is the model of pure, unclouded doership."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

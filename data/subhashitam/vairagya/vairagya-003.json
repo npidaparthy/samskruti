@@ -1,0 +1,41 @@
+{
+  "id": "vairagya-003",
+  "tags": [
+    "vairagya",
+    "kala",
+    "ayu",
+    "samsara"
+  ],
+  "shlokam": {
+    "te": "దినమపి రజనీ సాయం ప్రాతః శిశిరవసన్తౌ పునరాయాతః ।\nకాలః క్రీడతి గచ్ఛత్యాయుః తదపి న ముఞ్చత్యాశావాయుః ॥",
+    "sa": "दिनमपि रजनी सायं प्रातः शिशिरवसन्तौ पुनरायातः ।\nकालः क्रीडति गच्छत्यायुः तदपि न मुञ्चत्याशावायुः ॥",
+    "iast": "dinamapi rajanī sāyaṃ prātaḥ śiśiravasantau punarāyātaḥ ।\nkālaḥ krīḍati gacchatyāyuḥ tadapi na muñcatyāśāvāyuḥ ॥"
+  },
+  "chandaH": "మాత్రాసమక (Mātrāsamaka) — 16 morae per quarter",
+  "granthaH": {
+    "name_te": "భజ గోవిన్దం — ఆది శంకరాచార్య (20వ శ్లోకం)",
+    "name_en": "Bhaja Govindam — Ādi Śaṅkarācārya (verse 20)",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
+  },
+  "padavibhagam": {
+    "te": "దినం | అపి | రజనీ | సాయం | ప్రాతః | శిశిర-వసన్తౌ | పునః | ఆయాతః | కాలః | క్రీడతి | గచ్ఛతి | ఆయుః | తత్ | అపి | న | ముఞ్చతి | ఆశా-వాయుః",
+    "en": "dinam | api | rajanī | sāyam | prātaḥ | śiśira-vasantau | punaḥ | āyātaḥ | kālaḥ | krīḍati | gacchati | āyuḥ | tat | api | na | muñcati | āśā-vāyuḥ"
+  },
+  "anvayam": {
+    "te": "దినం అపి రజనీ (పగలు-రాత్రి), సాయం ప్రాతః (సాయంకాలం-ఉదయం), శిశిర-వసన్తౌ (హేమంతం-వసంతం) పునః ఆయాతః (మళ్ళీ మళ్ళీ వస్తున్నాయి); కాలః క్రీడతి (కాలం ఆడుకుంటోంది), ఆయుః గచ్ఛతి (ఆయుష్షు పోతోంది); తదపి ఆశావాయుః న ముఞ్చతి (అయినా ఆశ వాయువు వదలడం లేదు).",
+    "en": "dinam api rajanī (day and night), sāyam prātaḥ (evening and morning), śiśira-vasantau (winter and spring) punaḥ āyātaḥ (come again and again); kālaḥ krīḍati (time plays on), āyuḥ gacchati (life passes away); tadapi (yet even so) āśā-vāyuḥ na muñcati (the wind of desire does not let go)."
+  },
+  "meaning": {
+    "te": "పగలు-రాత్రి, సాయంకాలం-ఉదయం, శీతాకాలం-వసంతం మళ్ళీ మళ్ళీ వస్తున్నాయి. కాలం ఆడుకుంటోంది, ఆయుష్షు పోతోంది — అయినా కోరికల వాయువు విడవడం లేదు.",
+    "en": "Day and night, evening and morning, winter and spring return again and again. Time plays on, life passes away — yet the wind of desire does not release its hold."
+  },
+  "tatparyam": {
+    "te": "సమయం నిరంతరం గడిచిపోతోంది. ప్రతి రాత్రి, ప్రతి ఋతువు మార్పు — ఆయుష్షు తగ్గిపోతోందని సూచిస్తుంది. కానీ మనిషి కోరికలు మాత్రం తగ్గడం లేదు. ఇది శంకర ఆచార్యుల చాలా ముఖ్యమైన వ్యాఖ్య — కాలం యొక్క నిర్దయత్వాన్ని, మానవ కోరికల దృఢత్వాన్ని విచారంగా వర్ణిస్తుంది.",
+    "en": "The cycles of time are relentless: each day and season marks the passing of life. Yet while time depletes our years, desire never weakens. This is Śaṅkara's poignant observation — time is indifferent and inexorable, yet the human heart clings as stubbornly as ever. The verse invites reflection: while life is being consumed by time's play, are we still holding on to desires that will outlast us?"
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
+}

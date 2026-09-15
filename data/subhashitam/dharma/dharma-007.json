@@ -1,0 +1,40 @@
+{
+  "id": "dharma-007",
+  "tags": [
+    "dharma",
+    "atma-aikya"
+  ],
+  "shlokam": {
+    "te": "యస్తు సర్వాణి భూతాని ఆత్మన్యేవానుపశ్యతి ।\nసర్వభూతేషు చాత్మానం తతో న విజుగుప్సతే ॥",
+    "sa": "यस्तु सर्वाणि भूतानि आत्मन्येवानुपश्यति ।\nसर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥",
+    "iast": "yastu sarvāṇi bhūtāni ātmanyevānupaśyati ।\nsarvabhūteṣu cātmānaṃ tato na vijugupsate ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "ఈశావాస్యోపనిషత్తు",
+    "name_en": "Īśāvāsya Upaniṣad",
+    "chapter": "6",
+    "grantha_sa": "उपनिषदः",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః"
+  },
+  "padavibhagam": {
+    "te": "యః | తు | సర్వాణి | భూతాని | ఆత్మని | ఏవ | అనుపశ్యతి | సర్వభూతేషు | చ | ఆత్మానమ్ | తతః | న | విజుగుప్సతే",
+    "en": "yaḥ | tu | sarvāṇi | bhūtāni | ātmani | eva | anupaśyati | sarvabhūteṣu | ca | ātmānam | tataḥ | na | vijugupsate"
+  },
+  "anvayam": {
+    "te": "యః తు సర్వాణి భూతాని ఆత్మని ఏవ అనుపశ్యతి, సర్వభూతేషు చ ఆత్మానమ్ (అనుపశ్యతి), తతః సః న విజుగుప్సతే.",
+    "en": "One who sees all beings in the very Self, and the Self in all beings — thereupon he feels no aversion."
+  },
+  "meaning": {
+    "te": "సమస్త భూతాలను తన ఆత్మలోనే చూసేవాడు, సమస్త భూతాలలో తన ఆత్మను చూసేవాడు — అప్పుడు అతడు దేనినీ ద్వేషించడు.",
+    "en": "One who sees all beings within his own Self, and his Self within all beings — from that vision he shrinks from nothing, hates nothing."
+  },
+  "tatparyam": {
+    "te": "ఈశావాస్యోపనిషత్తులోని ఈ శ్లోకం అద్వైత దృష్టికి పునాది. అంతటా ఒకే ఆత్మను దర్శించినవాడికి 'ఇతరుడు' అనేవాడు ఉండడు; ద్వేషానికీ భయానికీ మూలమైన భేదబుద్ధి తొలగిపోతుంది. సర్వభూతైక్య దర్శనమే నిజమైన అహింసకూ కరుణకూ ఆధారమని ఈ మంత్రం చాటుతుంది.",
+    "en": "This Īśāvāsya verse is the foundation of the non-dual vision. For one who sees the single Self everywhere, there is no 'other'; the sense of difference that breeds hatred and fear dissolves. The mantra shows that the vision of the oneness of all beings is the true basis of non-violence and compassion."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

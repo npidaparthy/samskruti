@@ -1,0 +1,41 @@
+{
+  "id": "vairagya-009",
+  "tags": [
+    "vairagya",
+    "bhoge-roga-bhayam",
+    "vairagya-shataka",
+    "fear"
+  ],
+  "shlokam": {
+    "te": "భోగే రోగభయం కులే చ్యుతిభయం విత్తే నృపాలాద్భయం\nమానే దైన్యభయం బలే రిపుభయం రూపే జరాయాభయమ్ ।\nశాస్త్రే వాదిభయం గుణే ఖలభయం కాయే కృతాన్తాద్భయం\nసర్వం వస్తు భయాన్వితం భువి నృణాం వైరాగ్యమేవాభయమ్ ॥",
+    "sa": "भोगे रोगभयं कुले च्युतिभयं वित्ते नृपालाद्भयं\nमाने दैन्यभयं बले रिपुभयं रूपे जरायाभयम् ।\nशास्त्रे वादिभयं गुणे खलभयं काये कृतान्ताद्भयं\nसर्वं वस्तु भयान्वितं भुवि नृणां वैराग्यमेवाभयम् ॥",
+    "iast": "bhoge rogabhayaṃ kule cyutibhayaṃ vitte nṛpālādbhayaṃ\nmāne dainyabhayaṃ bale ripubhayaṃ rūpe jarāyābhayam ।\nśāstre vādibhayaṃ guṇe khalabhayaṃ kāye kṛtāntādbhayaṃ\nsarvaṃ vastu bhayānvitaṃ bhuvi nṛṇāṃ vairāgyamevābhayam ॥"
+  },
+  "chandaH": "శార్దూలవిక్రీడితం (Śārdūlavikrīḍitam) — 19 syllables per quarter",
+  "granthaH": {
+    "name_te": "భర్తృహరి వైరాగ్యశతకం",
+    "name_en": "Bhartṛhari, Vairāgya Śataka",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
+  },
+  "padavibhagam": {
+    "te": "భోగే | రోగ-భయం | కులే | చ్యుతి-భయం | విత్తే | నృపాలాత్ | భయం | మానే | దైన్య-భయం | బలే | రిపు-భయం | రూపే | జరాయాః | భయం | శాస్త్రే | వాది-భయం | గుణే | ఖల-భయం | కాయే | కృతాన్తాత్ | భయం | సర్వం | వస్తు | భయ-అన్వితం | భువి | నృణాం | వైరాగ్యం | ఏవ | అభయం",
+    "en": "bhoge | roga-bhayam | kule | cyuti-bhayam | vitte | nṛpālāt | bhayam | māne | dainya-bhayam | bale | ripu-bhayam | rūpe | jarāyāḥ | bhayam | śāstre | vādi-bhayam | guṇe | khala-bhayam | kāye | kṛtāntāt | bhayam | sarvam | vastu | bhaya-anvitam | bhuvi | nṛṇām | vairāgyam | eva | abhayam"
+  },
+  "anvayam": {
+    "te": "భోగే రోగభయం (భోగంలో వ్యాధి భయం); కులే చ్యుతిభయం (కులంలో పతన భయం); విత్తే నృపాలాద్భయం (ధనంలో రాజు భయం); మానే దైన్యభయం (మానంలో అవమాన భయం); బలే రిపుభయం (బలంలో శత్రు భయం); రూపే జరాయా భయం (రూపంలో వార్ధక్య భయం); శాస్త్రే వాదిభయం (శాస్త్రంలో వాది భయం); గుణే ఖలభయం (గుణంలో దుష్టుల భయం); కాయే కృతాన్తాద్భయం (శరీరంలో మృత్యు భయం). భువి నృణాం సర్వం వస్తు భయాన్వితం (భూమిలో మానవులకు ప్రతి వస్తువూ భయయుక్తం); వైరాగ్యం ఏవ అభయం (వైరాగ్యమే ఏకైక అభయం).",
+    "en": "bhoge roga-bhayam (in pleasure — fear of disease); kule cyuti-bhayam (in lineage — fear of fall); vitte nṛpālāt bhayam (in wealth — fear of the king); māne dainya-bhayam (in honor — fear of humiliation); bale ripu-bhayam (in strength — fear of enemies); rūpe jarāyāḥ bhayam (in beauty — fear of old age); śāstre vādi-bhayam (in learning — fear of the disputer); guṇe khala-bhayam (in virtue — fear of the wicked); kāye kṛtāntāt bhayam (in body — fear of death). bhuvi nṛṇāṃ sarvam vastu bhayānvitam (for humans on earth, every object is accompanied by fear); vairāgyam eva abhayam (vairāgya alone is fearlessness)."
+  },
+  "meaning": {
+    "te": "భోగంలో వ్యాధి భయం; కులంలో పతన భయం; ధనంలో రాజు భయం; మానంలో అవమాన భయం; బలంలో శత్రు భయం; సౌందర్యంలో వార్ధక్య భయం; శాస్త్రంలో వాది భయం; గుణంలో దుష్టుల భయం; శరీరంలో మృత్యు భయం. మానవులకు భూమిలో ప్రతి వస్తువు భయయుక్తమే — వైరాగ్యమే అభయం.",
+    "en": "In pleasure there is fear of disease; in lineage, fear of fall; in wealth, fear of the king; in honor, fear of humiliation; in strength, fear of enemies; in beauty, fear of old age; in learning, fear of disputation; in virtue, fear of the wicked; in the body, fear of death. For humans on earth, every single thing is accompanied by fear — only vairāgya (dispassion) is truly fearless."
+  },
+  "tatparyam": {
+    "te": "భర్తృహరి వైరాగ్యశతకంలో ఇది అత్యంత ప్రసిద్ధమైన శ్లోకం. తొమ్మిది పార్శ్వాల నుండి తొమ్మిది భయాలను పరిగణిస్తే — జీవితంలో ఒక్కటి కూడా భయరహితం కాదు. ఐశ్వర్యం వ్యాధికి దారి తీస్తే, బలం శత్రువులను ఆకర్షిస్తుంది, సౌందర్యం వార్ధక్యంతో నశిస్తుంది. ఏకైక అభయం వైరాగ్యం — ఏ వస్తువుపైనా ఆసక్తి లేకుంటే ఆ వస్తువు కోల్పోవడం వల్ల భయం లేదు. ఈ గ్రంథం చదివి భర్తృహరి మళ్లీ సన్యాసం స్వీకరించాడు.",
+    "en": "This is perhaps Bhartṛhari's most celebrated verse in the Vairāgya Śataka. It constructs a comprehensive argument for renunciation through a simple enumeration: take any object of worldly attachment — pleasure, lineage, wealth, honor, strength, beauty, learning, virtue, or the body itself — and each one comes with its own specific fear. There is no attachment without corresponding anxiety. The only escape from fear is non-attachment (vairāgya) — when nothing is clung to, nothing can be lost, and the root of fear dissolves. Bhartṛhari, a king who gave up his throne, wrote from hard-won experience, which gives the verse its penetrating authenticity."
+  },
+  "chanda_key": "shardula",
+  "chanda_sa": "शार्दूलविक्रीडितम्",
+  "chanda_te": "శార్దూలవిక్రీడితమ్"
+}
