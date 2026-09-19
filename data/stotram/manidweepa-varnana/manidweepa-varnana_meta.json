@@ -1,0 +1,41 @@
+{
+    "slug": "manidweepa-varnana",
+    "theme": "theme-bhakti",
+    "tags": [
+        "manidweepam",
+        "manidweepa varnana",
+        "devi bhagavatam"
+    ],
+    "synonyms": [
+        "Devi Bhagavatam"
+    ],
+    "youtube_url": "",
+    "images": [
+        "assets/images/manidweepa-varnana-01.svg",
+        "assets/images/manidweepa-varnana-02.svg",
+        "assets/images/manidweepa-varnana-03.svg"
+    ],
+    "sections": [
+        {
+            "id": "manidweepa-varnana-10",
+            "title_te": "దశమోఽధ్యాయః",
+            "title_sa": "दशमोऽध्यायः",
+            "title_en": "daśamōఽdhyāyaḥ",
+            "file": "manidweepa-varnana-10.txt"
+        },
+        {
+            "id": "manidweepa-varnana-11",
+            "title_te": "ఏకాదశోఽధ్యాయః",
+            "title_sa": "एकादशोऽध्यायः",
+            "title_en": "ēkādaśōఽdhyāyaḥ",
+            "file": "manidweepa-varnana-11.txt"
+        },
+        {
+            "id": "manidweepa-varnana-12",
+            "title_te": "ద్వాదశోఽధ్యాయః",
+            "title_sa": "द्वादशोऽध्यायः",
+            "title_en": "dvādaśōఽdhyāyaḥ",
+            "file": "manidweepa-varnana-12.txt"
+        }
+    ]
+}

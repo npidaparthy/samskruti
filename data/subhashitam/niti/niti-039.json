@@ -1,0 +1,41 @@
+{
+  "id": "niti-039",
+  "tags": [
+    "niti",
+    "vinaya",
+    "garva"
+  ],
+  "shlokam": {
+    "te": "సమ్పూర్ణకుమ్భో న కరోతి శబ్దం\nఅర్ధో ఘటో ఘోషముపైతి నూనమ్ ।\nవిద్వాన్ కులీనో న కరోతి గర్వం\nజల్పన్తి మూఢాస్తు గుణైర్విహీనాః ॥",
+    "sa": "सम्पूर्णकुम्भो न करोति शब्दं\nअर्धो घटो घोषमुपैति नूनम् ।\nविद्वान् कुलीनो न करोति गर्वं\nजल्पन्ति मूढास्तु गुणैर्विहीनाः ॥",
+    "iast": "sampūrṇakumbho na karoti śabdaṃ\nardho ghaṭo ghoṣamupaiti nūnam ।\nvidvān kulīno na karoti garvaṃ\njalpanti mūḍhāstu guṇairvihīnāḥ ॥"
+  },
+  "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత సంప్రదాయము",
+    "name_en": "Subhashita tradition",
+    "chapter": "widely quoted maxim",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
+  },
+  "padavibhagam": {
+    "te": "సమ్పూర్ణకుమ్భః | న | కరోతి | శబ్దమ్ | అర్ధః | ఘటః | ఘోషమ్ | ఉపైతి | నూనమ్ | విద్వాన్ | కులీనః | న | కరోతి | గర్వమ్ | జల్పన్తి | మూఢాః | తు | గుణైః | విహీనాః",
+    "en": "sampūrṇakumbhaḥ | na | karoti | śabdam | ardhaḥ | ghaṭaḥ | ghoṣam | upaiti | nūnam | vidvān | kulīnaḥ | na | karoti | garvam | jalpanti | mūḍhāḥ | tu | guṇaiḥ | vihīnāḥ"
+  },
+  "anvayam": {
+    "te": "సమ్పూర్ణకుమ్భః శబ్దం న కరోతి; అర్ధః ఘటః నూనం ఘోషమ్ ఉపైతి; విద్వాన్ కులీనః గర్వం న కరోతి; గుణైః విహీనాః మూఢాః తు జల్పన్తి.",
+    "en": "Sampūrṇakumbhaḥ (a full pot) śabdaṃ na karoti (makes no sound); ardhaḥ ghaṭaḥ (the half-filled pot) nūnaṃ ghoṣam upaiti (surely makes a great noise); vidvān kulīnaḥ (the learned and well-bred) garvaṃ na karoti (shows no arrogance); guṇaiḥ vihīnāḥ mūḍhāḥ tu jalpanti (it is the fools empty of merit who prattle)."
+  },
+  "meaning": {
+    "te": "నిండుకుండ శబ్దం చేయదు; సగం నిండిన కుండే గణగణలాడుతుంది. విద్వాంసుడూ సంస్కారవంతుడూ గర్వం ప్రదర్శించడు; గుణహీనులైన మూఢులే వాగుతుంటారు.",
+    "en": "A full pot makes no sound; it is the half-filled pot that clatters. The learned and the cultured show no arrogance; it is fools empty of merit who prattle on."
+  },
+  "tatparyam": {
+    "te": "నిండుకుండ తొణకదన్న తెలుగు సామెతకు సంస్కృత మాతృక. శబ్దం రావడానికి కుండలో ఖాళీ ఉండాలి — ఆర్భాటానికీ లోపలి శూన్యానికీ ఉన్న ఈ భౌతిక సంబంధమే శ్లోకపు చమత్కారం. నిజమైన పాండిత్యం తన పరిమితులను ఎరిగి వినమ్రమవుతుంది; పైపై జ్ఞానమే తనను తాను ఊదరగొట్టుకుంటుంది. అరచేవాడి మాటల్లో కాదు, మౌనంగా పని చేసేవాడి ఫలితాల్లో నైపుణ్యాన్ని వెతకమన్నది ఈ శ్లోకం అందించే గీటురాయి.",
+    "en": "The Sanskrit original behind the proverb that a full vessel does not slosh. For a pot to ring, there must be emptiness inside — and that physical link between noise and inner hollowness is the verse's wit. Real learning knows its limits and turns humble; shallow knowledge trumpets itself. Look for competence not in the loudest talker but in the results of those who work quietly — the touchstone this verse hands us."
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
+}

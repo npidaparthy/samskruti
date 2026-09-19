@@ -1,0 +1,882 @@
+[
+  {
+    "n": 1,
+    "sa": "देशबन्धश्चित्तस्य धारणा",
+    "te": {
+      "s": "ధారణ అంటే మనస్సును ఒక స్థలానికి (వస్తువుకు) బంధించడం.",
+      "d": "ఆరవ అంగమైన ధారణను ఇక్కడ నిర్వచిస్తారు - మనస్సు యొక్క శ్రద్ధను ఒక్క స్థలంలో లేదా వస్తువులో బంధించి, అది తిరగకుండా అక్కడే నిలిపి ఉంచడం."
+    },
+    "en": {
+      "s": "Concentration is binding the mind to one place.",
+      "d": "Dhāraṇā, the sixth limb, is defined as deśa-bandha — confining the mind's attention to a single location or object, holding it there without wandering."
+    },
+    "sad": {
+      "s": "चित्तस्य एकदेशे बन्धनं धारणा।",
+      "d": "षष्ठं अङ्गं धारणा इह निरूपिता - चित्तस्य अवधानं एकस्मिन् देशे वस्तुनि वा बन्धनेन, अचलनेन तत्रैव स्थापनम्।"
+    }
+  },
+  {
+    "n": 2,
+    "sa": "तत्र प्रत्ययैकतानता ध्यानम्",
+    "te": {
+      "s": "ఆ బిందువుపై నిరంతరమైన, విడిపోని భావనా ప్రవాహమే ధ్యానం.",
+      "d": "ఏడవ అంగమైన ధ్యానం, ధారణ పైనే నిర్మించబడుతుంది - అదే బిందువు వైపు ఏకధారగా, విడిపోకుండా ప్రవహించే భావనా ప్రవాహమే ధ్యానం."
+    },
+    "en": {
+      "s": "Meditation is the unbroken flow of cognition on that point.",
+      "d": "Dhyāna, the seventh limb, builds on dhāraṇā: it is pratyaya-ekatānatā — a single, continuous, unbroken stream of cognition flowing toward that same point of focus, without interruption."
+    },
+    "sad": {
+      "s": "तत्रैव प्रत्ययस्य अविच्छिन्नः प्रवाहः ध्यानम्।",
+      "d": "सप्तमं अङ्गं ध्यानम् धारणामेव आधारीकृत्य निर्मितम् - तस्मिन्नेव बिन्दौ प्रत्ययस्य एकतानः अविच्छिन्नः प्रवाहः ध्यानम् इति।"
+    }
+  },
+  {
+    "n": 3,
+    "sa": "तदेवार्थमात्रनिर्भासं स्वरूपशून्यमिव समाधिः",
+    "te": {
+      "s": "అదే స్థితి, వస్తువు మాత్రమే ప్రకాశిస్తూ, తనకు రూపం లేనట్లుగా ఉండటం సమాధి.",
+      "d": "ఎనిమిదవ అంగమైన సమాధి, ధ్యానం మరింత లోతుగా మారినప్పుడు కలుగుతుంది - అదే ఏకాగ్రత ఇప్పుడు వస్తువు మాత్రమే (అర్థమాత్రం) ప్రకాశించేలా మారుతుంది, మనస్సు తనకు ప్రత్యేక రూపం లేనట్లుగా (స్వరూపశూన్యం) అనిపించి, ధ్యానవస్తువులో లీనమవుతుంది."
+    },
+    "en": {
+      "s": "That same state, shining as the object alone, as if devoid of its own form, is samādhi.",
+      "d": "Samādhi, the eighth limb, is when dhyāna deepens further: the same focus now shines as artha-mātra (the object alone), with the mind appearing svarūpa-śūnya — as if emptied of its own separate form, merging into the object of meditation."
+    },
+    "sad": {
+      "s": "तदेव अर्थमात्रप्रकाशं स्वरूपशून्यमिव समाधिः।",
+      "d": "अष्टमं अङ्गं समाधिः - ध्यानस्य अधिकगाढत्वे सति जायते। सैव एकाग्रता सम्प्रति अर्थमात्रं (वस्तुमात्रं) प्रकाशयति, चित्तं स्वकीयरूपशून्यमिव भूत्वा ध्यानवस्तुनि विलीनं भवति।"
+    }
+  },
+  {
+    "n": 4,
+    "sa": "त्रयमेकत्र संयमः",
+    "te": {
+      "s": "ఈ మూడింటిని (ధారణ, ధ్యానం, సమాధి) ఒకే వస్తువుపై కలిపి చేయడం సంయమం.",
+      "d": "ఈ అధ్యాయంలో వివరించే శక్తులకు మూల సాధనంగా పతంజలి \"సంయమం\" అనే పదాన్ని పరిచయం చేస్తాడు - ధారణ, ధ్యానం, సమాధి అనే మూడింటినీ ఒకే వస్తువుపై కలిపి ప్రయోగించడం."
+    },
+    "en": {
+      "s": "The three together, on one object, are saṁyama.",
+      "d": "Saṁyama is the technical term Patanjali introduces for the combined practice of dhāraṇā, dhyāna, and samādhi — all three applied together upon a single object, forming the master tool for the powers described in this chapter."
+    },
+    "sad": {
+      "s": "धारणाध्यानसमाधित्रयं एकत्र संयमः।",
+      "d": "अस्मिन् अध्याये वर्णितानां सिद्धीनां मूलसाधनरूपेण पतञ्जलिः \"संयम\" इति पारिभाषिकं पदं प्रस्तौति - धारणाध्यानसमाधित्रयस्य एकवस्तुनि संयुक्तप्रयोगः।"
+    }
+  },
+  {
+    "n": 5,
+    "sa": "तज्जयात् प्रज्ञालोकः",
+    "te": {
+      "s": "దాన్ని జయించడం వల్ల ప్రజ్ఞాలోకం (జ్ఞానకాంతి) కలుగుతుంది.",
+      "d": "సంయమంలో నైపుణ్యం (జయం) సాధించినప్పుడు, ప్రజ్ఞాలోకం - ఉన్నతమైన జ్ఞానం, ప్రత్యక్ష అవగాహన యొక్క కాంతి ప్రకాశిస్తుంది. ఇదే తరువాత వివరించే ప్రత్యేక సామర్థ్యాలకు ఆధారం."
+    },
+    "en": {
+      "s": "From mastering that, the light of insight dawns.",
+      "d": "When saṁyama is mastered (tat-jaya), the result is prajñā-āloka — the light of higher wisdom and direct insight illuminates, the basis for all the special perceptions described next."
+    },
+    "sad": {
+      "s": "तस्य जयात् प्रज्ञायाः आलोकः उद्भवति।",
+      "d": "संयमे प्रावीण्ये (जये) सति, प्रज्ञालोकः - उन्नतज्ञानस्य साक्षात्बोधस्य च प्रकाशः उद्भवति। एषः एव अनन्तरवर्णितानां विशेषसामर्थ्यानां आधारः।"
+    }
+  },
+  {
+    "n": 6,
+    "sa": "तस्य भूमिषु विनियोगः",
+    "te": {
+      "s": "దీని ప్రయోగం దశల వారీగా జరుగుతుంది.",
+      "d": "సంయమాన్ని ఒక్కసారిగా అత్యంత సూక్ష్మమైన వస్తువుపై ప్రయోగించరు - నైపుణ్యం పెరుగుతున్న కొద్దీ, స్థూలం నుండి సూక్ష్మం వైపుకు దశలవారీగా (భూమిషు) ప్రయోగిస్తారు."
+    },
+    "en": {
+      "s": "Its application is in stages.",
+      "d": "Saṁyama is not applied all at once on the subtlest object — it is applied progressively, bhūmiṣu (stage by stage), moving from gross to subtle objects of focus as proficiency grows."
+    },
+    "sad": {
+      "s": "तस्य प्रयोगः क्रमेण भूमिषु भवति।",
+      "d": "संयमः एकवारेण सूक्ष्मतमे विषये न प्रयुज्यते - प्रावीण्ये वर्धमाने सति, स्थूलात् सूक्ष्मं प्रति क्रमेण (भूमिषु) प्रयुक्तः भवति।"
+    }
+  },
+  {
+    "n": 7,
+    "sa": "त्रयमन्तरङ्गं पूर्वेभ्यः",
+    "te": {
+      "s": "ఈ మూడు (ధారణ, ధ్యానం, సమాధి) మిగతా వాటి కంటే అంతరంగం.",
+      "d": "మునుపటి ఐదు అంగాల (యమం నుండి ప్రత్యాహారం వరకు, ఇవి బాహ్య/పూర్వసన్నాహక అంగాలు) తో పోలిస్తే, ధారణ, ధ్యానం, సమాధి కలిసి అంతరంగం - యోగం యొక్క మరింత అంతర్ముఖమైన అంగాలు అవుతాయి."
+    },
+    "en": {
+      "s": "These three are more internal than the previous ones.",
+      "d": "Compared to the previous five limbs (yama through pratyāhāra, which are more external/preparatory), dhāraṇā, dhyāna, and samādhi together form the antaraṅga — the more \"internal\" or inward limbs of yoga."
+    },
+    "sad": {
+      "s": "धारणाध्यानसमाधयः पूर्वाङ्गेभ्यः अधिकं अन्तरङ्गाणि सन्ति।",
+      "d": "पूर्वेषां पञ्चाङ्गानां (यमप्रत्याहारान्तानां, बाह्यतयापि पूर्वसाधनभूतानां) अपेक्षया, धारणाध्यानसमाधयः मिलित्वा अन्तरङ्गाणि - योगस्य अधिकं अन्तर्मुखानि अङ्गानि भवन्ति।"
+    }
+  },
+  {
+    "n": 8,
+    "sa": "तदपि बहिरङ्गं निर्बीजस्य",
+    "te": {
+      "s": "ఇది కూడా నిర్బీజ సమాధితో పోలిస్తే బాహ్యమే.",
+      "d": "ఈ \"అంతరంగ\" త్రయం (సంయమం) కూడా, సమాధిపాదం చివర వివరించిన మరింత లోతైన నిర్బీజ సమాధితో పోలిస్తే బాహ్యంగానే (బహిరంగం) పరిగణించబడుతుంది."
+    },
+    "en": {
+      "s": "Even that is external relative to the seedless state.",
+      "d": "Yet even this \"internal\" trio (saṁyama) is, in turn, bahiraṅga — relatively external — when compared to the still deeper nirbīja samādhi (seedless absorption) described at the end of Samadhi Pada."
+    },
+    "sad": {
+      "s": "एतत् (संयमत्रयम्) अपि निर्बीजसमाधेः अपेक्षया बहिरङ्गं भवति।",
+      "d": "एषः \"अन्तरङ्गः\" त्रिकः (संयमः) अपि, समाधिपादान्ते वर्णितस्य गाढतरस्य निर्बीजसमाधेः अपेक्षया बहिरङ्गः इति परिगण्यते।"
+    }
+  },
+  {
+    "n": 9,
+    "sa": "व्युत्थाननिरोधसंस्कारयोरभिभवप्रादुर्भावौ निरोधक्षणचित्तान्वयो निरोधपरिणामः",
+    "te": {
+      "s": "నిరోధ పరిణామం అంటే చిత్తం, వ్యుత్థాన సంస్కారాలు అణగారి, నిరోధ సంస్కారాలు ఉద్భవించే క్షణంతో అనుసంధానం కావడం.",
+      "d": "నిరోధపరిణామం అనేది చిత్తం యొక్క ఆ క్షణాన్ని వివరిస్తుంది, దానిలో చురుకైన మానసిక చర్యల సంస్కారాలు (వ్యుత్థానం) క్రమంగా అణగారిపోతూ, నిశ్చలత్వ సంస్కారాలు (నిరోధం) ఉద్భవిస్తూ ఉంటాయి - చిత్తం ఈ అణచివేత క్షణానికే అనుసంధానమవుతుంది."
+    },
+    "en": {
+      "s": "The transformation of cessation is the mind's connection to the moment of suppression, as fluctuation-impressions are overcome and cessation-impressions arise.",
+      "d": "Nirodha-pariṇāma describes the mind-moment in which the saṁskāras of active mental fluctuation (vyutthāna) are progressively overpowered (abhibhava) while saṁskāras of stillness (nirodha) emerge (prādurbhāva) — and the mind itself becomes linked to this very moment of suppression."
+    },
+    "sad": {
+      "s": "व्युत्थाननिरोधसंस्कारयोः अभिभवप्रादुर्भावौ, चित्तस्य निरोधक्षणान्वयः नित्यपरिणामः।",
+      "d": "निरोधपरिणामः चित्तस्य तं क्षणं वर्णयति, यत्र सक्रियचित्तवृत्तिसंस्काराः (व्युत्थानम्) क्रमेण अभिभूताः भवन्ति, निश्चलतासंस्काराः (निरोधः) च प्रादुर्भवन्ति - चित्तं एतस्मिन् निरोधक्षणे एव अन्वितं भवति।"
+    }
+  },
+  {
+    "n": 10,
+    "sa": "तस्य प्रशान्तवाहिता संस्कारात्",
+    "te": {
+      "s": "దాని ప్రశాంత ప్రవాహం సంస్కారాల వల్ల కలుగుతుంది.",
+      "d": "నిరంతర సాధన వల్ల, నిరోధ స్థితి ప్రశాంతవాహిత - శాంతియుత, నిరంతర ప్రవాహాన్ని పొందుతుంది, ఇది పేరుకుపోతున్న నిశ్చలత్వ సంస్కారాల వల్లనే నిలబడుతుంది."
+    },
+    "en": {
+      "s": "Its calm flow comes through repeated impressions.",
+      "d": "With repeated practice, the nirodha-state develops praśānta-vāhitā — a peaceful, continuous flow — sustained by the accumulating saṁskāras of stillness themselves."
+    },
+    "sad": {
+      "s": "तस्य प्रशान्तः प्रवाहः संस्कारैः एव स्थिरीभवति।",
+      "d": "निरन्तराभ्यासेन, निरोधावस्था प्रशान्तवाहितां - शान्तं अविच्छिन्नं प्रवाहं - प्राप्नोति, सा च सञ्चितैः निश्चलतासंस्कारैः एव धृता तिष्ठति।"
+    }
+  },
+  {
+    "n": 11,
+    "sa": "सर्वार्थतैकाग्रातयोः क्षयोदयौ चित्तस्य समाधिपरिणामः",
+    "te": {
+      "s": "సమాధి పరిణామం అంటే చిత్తంలో సర్వార్థత తగ్గి, ఏకాగ్రత పెరగడం.",
+      "d": "సమాధిపరిణామం అనేది చిత్తం యొక్క క్రమమైన మార్పును సూచిస్తుంది - దానిలో అనేక విషయాలపై వ్యాపించే స్వభావం (సర్వార్థత) తగ్గుతూ, ఏకాగ్రత (ఒకే విషయంపై కేంద్రీకరణ) తదనుగుణంగా పెరుగుతుంది."
+    },
+    "en": {
+      "s": "The transformation into samādhi is the mind's decline of all-pointedness and rise of one-pointedness.",
+      "d": "Samādhi-pariṇāma is the mind's progressive transformation in which sarvārthatā (the scattered tendency to engage all objects) declines (kṣaya) while ekāgratā (one-pointedness) correspondingly rises (udaya)."
+    },
+    "sad": {
+      "s": "सर्वार्थतायाः क्षयः एकाग्रतायाः च उदयः समाधिपरिणामः।",
+      "d": "समाधिपरिणामः चित्तस्य क्रमिकं रूपान्तरं सूचयति - तत्र बहुविषयव्यापित्वस्वभावः (सर्वार्थता) क्षीयते, एकाग्रता (एकविषयकेन्द्रीकरणम्) च तदनुरूपं वर्धते।"
+    }
+  },
+  {
+    "n": 12,
+    "sa": "ततः पुनः शान्तोदितौ तुल्यप्रत्ययौ चित्तस्यैकाग्रता परिणामः",
+    "te": {
+      "s": "ఏకాగ్రతా పరిణామం అంటే అణగారే, ఉద్భవించే భావనలు ఒకేలా ఉండటం.",
+      "d": "దీనిపై ఆధారపడి, ఏకాగ్రతా పరిణామం - అణగారుతున్న భావన (శాంతం), ఉద్భవిస్తున్న భావన (ఉదితం) రెండూ ఒకేలా (తుల్యం) ఉన్నప్పుడు కలుగుతుంది, దీనివల్ల విడిపోని, నిరంతర ఏకాగ్రత అనుభవమవుతుంది."
+    },
+    "en": {
+      "s": "Then, ekāgratā-pariṇāma is when the subsiding and arising cognitions become identical.",
+      "d": "Building on this, ekāgratā-pariṇāma occurs when the cognition that is subsiding (śānta) and the one arising (udita) become tulya — identical in content — giving the experience of unbroken, seamless one-pointed focus."
+    },
+    "sad": {
+      "s": "शान्तोदितयोः प्रत्ययोः तुल्यत्वे एकाग्रतापरिणामः सिद्ध्यति।",
+      "d": "एतदाश्रित्य, एकाग्रतापरिणामः जायते - यत्र शमं प्राप्तः प्रत्ययः उदितः प्रत्ययश्च तुल्यौ (समानविषयौ) भवतः, तेन अविच्छिन्ना एकाग्रता अनुभूयते।"
+    }
+  },
+  {
+    "n": 13,
+    "sa": "एतेन भूतेन्द्रियेषु धर्मलक्षणावस्थापरिणामा व्याख्याताः",
+    "te": {
+      "s": "ఇదే విధంగా భూతేంద్రియాల్లో ధర్మం, లక్షణం, అవస్థల పరిణామాలు వివరించబడ్డాయి.",
+      "d": "చిత్తానికి ఇప్పుడు వివరించిన తర్కమే, భూతాలు, ఇంద్రియాలలో జరిగే అన్ని పరిణామాలను వివరిస్తుంది - అవి ధర్మం (గుణం/లక్షణం), లక్షణం (కాల సూచిక: భూత-వర్తమాన-భవిష్యత్), అవస్థ (స్థితి/తీవ్రత) ఏదైనా కావచ్చు."
+    },
+    "en": {
+      "s": "By this, the transformations of quality, characteristic, and condition in elements and senses are explained.",
+      "d": "By the same logical pattern just described for the mind, Patanjali says all transformations (pariṇāma) in the elements and senses can be explained — whether of dharma (quality/property), lakṣaṇa (temporal characteristic: past/present/future marker), or avasthā (condition/intensity)."
+    },
+    "sad": {
+      "s": "एतेन तर्केण भूतेन्द्रियाणां धर्मलक्षणावस्थापरिणामाः व्याख्याताः भवन्ति।",
+      "d": "चित्तस्य कृते सम्प्रति वर्णितः तर्कः एव, भूतेन्द्रियेषु जातान् सर्वान् परिणामान् व्याख्यातुं समर्थः - ते धर्मस्य (गुणस्य) लक्षणस्य (कालसूचकस्य) अवस्थायाः (तीव्रतायाः) वा भवन्तु।"
+    }
+  },
+  {
+    "n": 14,
+    "sa": "शान्तोदिताव्यपदेश्यधर्मानुपाती धर्मी",
+    "te": {
+      "s": "ధర్మి (మూలద్రవ్యం) శాంతం, ఉదితం, అవ్యపదేశ్యం - ఏ ధర్మాన్నైనా అనుసరిస్తూ కొనసాగుతుంది.",
+      "d": "ధర్మి (అంతర్లీన మూలద్రవ్యం) తన గుణాలను (ధర్మాలను) అనుసరిస్తూ నిరంతరం కొనసాగుతుంది - అవి శాంతం (అణగారినది/గతం), ఉదితం (ఉద్భవించినది/వర్తమానం), అవ్యపదేశ్యం (ఇంకా వ్యక్తం కానిది/భవిష్యత్) ఏదైనా కావచ్చు."
+    },
+    "en": {
+      "s": "The substrate follows its quality whether quiescent, arisen, or unmanifest.",
+      "d": "Dharmī (the underlying substance/substrate) persists continuously through its qualities (dharma) regardless of whether they are śānta (quiescent/past), udita (arisen/present), or avyapadeśya (unmanifest/not-yet-designated) — the substance follows and supports each phase."
+    },
+    "sad": {
+      "s": "धर्मी शान्तोदितावयक्तधर्मान् अनुसरन् निरन्तरं तिष्ठति।",
+      "d": "धर्मी (अन्तर्निहितं मूलद्रव्यम्) स्वकीयान् धर्मान् अनुसरन् निरन्तरं वर्तते - ते शान्ताः (अतीताः), उदिताः (वर्तमानाः), अव्यपदेश्याः (अद्यापि अव्यक्ताः भविष्याः) वा भवन्तु, द्रव्यं तान् सर्वान् धारयत् अनुसरति।"
+    }
+  },
+  {
+    "n": 15,
+    "sa": "क्रमान्यत्वं परिणामान्यत्वे हेतुः",
+    "te": {
+      "s": "క్రమంలో తేడాయే పరిణామాల్లో తేడాకు కారణం.",
+      "d": "ఒకే పరిస్థితుల్లో కూడా వేర్వేరు వస్తువులు వేర్వేరుగా ఎందుకు మారతాయి? వాటి సంస్కారాల అంతర్లీన క్రమంలో తేడా (క్రమాన్యత్వం) ఉండటం వల్లనే - ఇదే వేర్వేరు పరిణామ ఫలితాలకు కారణం."
+    },
+    "en": {
+      "s": "Difference in sequence is the cause of difference in transformation.",
+      "d": "Why do different objects transform differently even under the same conditions? Because of krama-anyatva — a difference in the underlying sequence/order of their saṁskāras, which is the hetu (cause) producing different pariṇāma (transformation) outcomes."
+    },
+    "sad": {
+      "s": "क्रमस्य भेदः एव परिणामभेदस्य कारणम्।",
+      "d": "एकस्मिन्नेव परिस्थितौ अपि भिन्नाः वस्तुनि भिन्नतया कथं परिणमन्ति? तेषां संस्काराणां अन्तर्निहितक्रमे भेदः (क्रमान्यत्वम्) एव अस्ति - एषः एव भिन्नपरिणामफलानां हेतुः।"
+    }
+  },
+  {
+    "n": 16,
+    "sa": "परिणामत्रयसंयमादतीतानागतज्ञानम्",
+    "te": {
+      "s": "మూడు పరిణామాలపై సంయమం వల్ల గత, భవిష్యత్ జ్ఞానం కలుగుతుంది.",
+      "d": "మూడు పరిణామాలపై (నిరోధ, సమాధి, ఏకాగ్రతా పరిణామాలు, లేదా విస్తృతంగా ధర్మ-లక్షణ-అవస్థలు) సంయమం చేస్తే, యోగికి అతీతానాగత జ్ఞానం - గతం, భవిష్యత్తు గురించి ప్రత్యక్ష జ్ఞానం కలుగుతుంది."
+    },
+    "en": {
+      "s": "From saṁyama on the three transformations comes knowledge of the past and future.",
+      "d": "By applying saṁyama to the three transformations (nirodha, samādhi, ekāgratā pariṇāma, or more broadly dharma-lakṣaṇa-avasthā), the yogi gains atīta-anāgata-jñāna — direct knowledge of the past and the future."
+    },
+    "sad": {
+      "s": "परिणामत्रयसंयमात् अतीतानागतज्ञानं सिद्ध्यति।",
+      "d": "त्रिविधपरिणामेषु (निरोधसमाध्येकाग्रतापरिणामेषु, अथवा विस्तृततया धर्मलक्षणावस्थासु) संयमं कृत्वा, योगी अतीतानागतज्ञानं - भूतभविष्यत्कालयोः साक्षात् ज्ञानं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 17,
+    "sa": "शब्दार्थप्रत्ययानामितरेतराध्यासात् सङ्करस्तत्प्रविभागसंयमात् सर्वभूतरुतज्ञानम्",
+    "te": {
+      "s": "శబ్దం, అర్థం, భావనల కలయిక సంకరానికి దారితీస్తుంది; వాటి విభాగంపై సంయమం వల్ల అన్ని ప్రాణుల భాష తెలుసుకోవచ్చు.",
+      "d": "సాధారణంగా శబ్దం (పదం), అర్థం (భావం), ప్రత్యయం (మానసిక భావన) - ఈ మూడూ మన అవగాహనలో కలిసిపోతాయి (సంకరం), దీనివల్ల గందరగోళం కలుగుతుంది. ఈ మూడింటిని ఖచ్చితంగా వేరుచేసే సంయమం ద్వారా, యోగికి సర్వభూతరుత జ్ఞానం - అన్ని జీవుల శబ్దాలు, భాషను అర్థం చేసుకునే సామర్థ్యం కలుగుతుంది."
+    },
+    "en": {
+      "s": "Confusion arises from the overlap of word, meaning, and idea; saṁyama on their distinction gives knowledge of the sounds of all beings.",
+      "d": "Ordinarily, word (śabda), meaning (artha), and the mental idea (pratyaya) blend together (saṅkara) in our cognition, causing confusion about which is which. By applying saṁyama to separate these three precisely, the yogi gains sarva-bhūta-ruta-jñāna — understanding the sounds/calls/language of all creatures."
+    },
+    "sad": {
+      "s": "शब्दार्थप्रत्ययानां सङ्करात् भ्रान्तिः, तत्पृथक्करणसंयमात् सर्वभूतरुतज्ञानम्।",
+      "d": "सामान्यतः शब्दः (पदम्), अर्थः (भावः), प्रत्ययः (मानसभावना) च अस्मदवबोधे मिश्रिताः (सङ्कीर्णाः) भवन्ति, येन भ्रान्तिः जायते। एतत्त्रयं सम्यक् पृथक्कुर्वाणे संयमे कृते, योगी सर्वभूतरुतज्ञानं - सर्वजीवानां ध्वनिभाषाबोधसामर्थ्यं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 18,
+    "sa": "संस्कारसाक्षात्करणात् पूर्वजातिज्ञानम्",
+    "te": {
+      "s": "సంస్కారాలను ప్రత్యక్షంగా చూడటం వల్ల పూర్వజన్మ జ్ఞానం కలుగుతుంది.",
+      "d": "తన లోతైన సంస్కారాలను ప్రత్యక్షంగా దర్శించే సంయమం ద్వారా, యోగికి పూర్వజాతిజ్ఞానం - తన పూర్వజన్మల గురించిన ప్రత్యక్ష జ్ఞానం కలుగుతుంది."
+    },
+    "en": {
+      "s": "From direct perception of impressions comes knowledge of past births.",
+      "d": "By applying saṁyama to directly perceive (sākṣātkaraṇa) one's own latent saṁskāras, the yogi gains pūrva-jāti-jñāna — direct knowledge of previous births."
+    },
+    "sad": {
+      "s": "संस्काराणां साक्षात्करणात् पूर्वजातिज्ञानं सिद्ध्यति।",
+      "d": "स्वकीयान् गूढसंस्कारान् साक्षात् दर्शयत् संयमं कृत्वा, योगी पूर्वजातिज्ञानं - स्वपूर्वजन्मानां साक्षात् ज्ञानं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 19,
+    "sa": "प्रत्ययस्य परचित्तज्ञानम्",
+    "te": {
+      "s": "ప్రత్యయంపై సంయమం ద్వారా ఇతరుల మనస్సు తెలుసుకోవచ్చు.",
+      "d": "ఇతరుల మనస్సులో ఉద్భవించే భావనలపై (ప్రత్యయంపై) సంయమం చేస్తే, యోగికి పరచిత్తజ్ఞానం - ఇతరుల మనస్సులో ఏముందో ప్రత్యక్షంగా తెలుసుకునే సామర్థ్యం కలుగుతుంది."
+    },
+    "en": {
+      "s": "Of cognition (saṁyama gives) knowledge of another's mind.",
+      "d": "By applying saṁyama on pratyaya (the cognitions/thought-forms arising in another's mind), the yogi gains para-citta-jñāna — direct knowledge of the contents of another person's mind."
+    },
+    "sad": {
+      "s": "प्रत्ययसंयमात् परचित्तज्ञानं सिद्ध्यति।",
+      "d": "अन्यचित्ते उद्भवत् प्रत्ययं (भावनां) संयमविषयं कृत्वा, योगी परचित्तज्ञानं - अन्यस्य मनसि किं वर्तते इति साक्षात् ज्ञानं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 20,
+    "sa": "न च तत् सालम्बनं तस्याविषयीभूतत्वात्",
+    "te": {
+      "s": "కానీ ఆ జ్ఞానం దాని ఆధారాన్ని తెలియదు, ఎందుకంటే అది దాని విషయం కాదు.",
+      "d": "ఒక జాగ్రత్తపూర్వక గమనిక ఇక్కడ ఉంది - పరచిత్తజ్ఞానం ఇతరుల మనస్సులోని భావననే (ప్రత్యయాన్ని) తెలియజేస్తుంది, దాని ఆధారమైన అసలు వస్తువును కాదు - ఎందుకంటే ఆ లోతైన ఆధారం సంయమం యొక్క విషయంగా మారలేదు."
+    },
+    "en": {
+      "s": "But that knowledge does not include its support, since that is not its object.",
+      "d": "A careful caveat: para-citta-jñāna reveals only the content/idea (pratyaya) in another's mind, not its sālambana — the underlying object or basis the thought refers to — since that deeper basis was never made the object (viṣaya) of the saṁyama."
+    },
+    "sad": {
+      "s": "तत् ज्ञानं तस्य आलम्बनं न ज्ञापयति, यतः तत् विषयीभूतं न आसीत्।",
+      "d": "एकं सावधानं टिप्पणं इह वर्तते - परचित्तज्ञानं अन्यचित्तस्थं भावनामात्रं (प्रत्ययम्) एव ज्ञापयति, न तु तस्य आलम्बनभूतं मूलवस्तु - यतः तत् गूढं आलम्बनं संयमस्य विषयः न अभवत्।"
+    }
+  },
+  {
+    "n": 21,
+    "sa": "कायरूपसंयमात् तद्ग्राह्यशक्तिस्तम्भे चक्षुःप्रकाशासम्प्रयोगेऽन्तर्धानम्",
+    "te": {
+      "s": "శరీర రూపంపై సంయమం వల్ల, చూసే శక్తి స్తంభించి, కంటి ప్రకాశ సంయోగం తప్పి అదృశ్యత కలుగుతుంది.",
+      "d": "శరీరం యొక్క స్థూల రూపంపై సంయమం చేస్తే, ఇతరులు దాన్ని చూడగలిగే శక్తిని (గ్రాహ్యశక్తి) స్తంభింపజేయవచ్చు, దాంతో చూసేవారి కంటి ప్రకాశానికి, శరీరానికి మధ్య సంయోగం తప్పిపోయి, అదృశ్యత (అంతర్ధానం) కలుగుతుంది."
+    },
+    "en": {
+      "s": "From saṁyama on the body's form, when its perceptibility is suspended through breaking the eye's light-contact, invisibility follows.",
+      "d": "By applying saṁyama on the gross form (rūpa) of one's body, the body's grāhya-śakti (its capacity to be perceived by others) can be suspended (stambha), breaking the contact between the viewer's eye-light and the body, resulting in antardhāna — invisibility."
+    },
+    "sad": {
+      "s": "कायरूपसंयमात् ग्राह्यशक्तिस्तम्भे चक्षुःप्रकाशासंप्रयोगे अन्तर्धानं सिद्ध्यति।",
+      "d": "शरीरस्य स्थूलरूपे संयमं कृत्वा, अन्यैः तस्य ग्रहणसामर्थ्यं (ग्राह्यशक्तिः) स्तम्भितं कर्तुं शक्यते, येन द्रष्ट्रः चक्षुःप्रकाशस्य कायेन च सम्प्रयोगः विच्छिन्नः भवति, अन्तर्धानं (अदृश्यत्वं) च सिद्ध्यति।"
+    }
+  },
+  {
+    "n": 22,
+    "sa": "सोपक्रमं निरुपक्रमं च कर्म तत्संयमादपरान्तज्ञानमरिष्टेभ्यो वा",
+    "te": {
+      "s": "కర్మ వేగంగా లేదా నెమ్మదిగా ఫలించేది; దానిపై సంయమం వల్ల మరణ సమయం తెలుసుకోవచ్చు, లేదా శకునాల ద్వారా తెలియవచ్చు.",
+      "d": "కర్మ రెండు రకాలుగా ఫలిస్తుంది - సోపక్రమం (వేగంగా, చురుకుగా ఆరంభమై), నిరుపక్రమం (నెమ్మదిగా, నిద్రాణంగా). దీనిపై సంయమం చేస్తే, యోగికి అపరాంతజ్ఞానం - తన మరణ సమయం గురించిన జ్ఞానం - కలుగుతుంది, లేదా అరిష్టాల (పూర్వసూచనల) ద్వారా కూడా ఇది తెలియవచ్చు."
+    },
+    "en": {
+      "s": "Karma is either fast-fruiting or slow-fruiting; saṁyama on it gives knowledge of the time of death, or this can be known through omens.",
+      "d": "Karma ripens either sopakrama (quickly, with active onset) or nirupakrama (slowly, dormant). By saṁyama on this, the yogi gains apara-anta-jñāna — knowledge of the time of one's death — or alternatively, this can be sensed through ariṣṭa (premonitory omens/signs)."
+    },
+    "sad": {
+      "s": "कर्म सोपक्रमं निरुपक्रमं वा; तत्संयमात् अपरान्तज्ञानम्, अरिष्टैः वा सिद्ध्यति।",
+      "d": "कर्म द्विविधं फलति - सोपक्रमं (शीघ्रं सक्रियारम्भं), निरुपक्रमं (मन्दं सुप्तम्)। तस्मिन् संयमं कृत्वा, योगी अपरान्तज्ञानं - स्वमरणकालज्ञानं - प्राप्नोति, अथवा अरिष्टैः (पूर्वसूचनाचिह्नैः) अपि एतत् ज्ञेयम्।"
+    }
+  },
+  {
+    "n": 23,
+    "sa": "मैत्र्यादिषु बलानि",
+    "te": {
+      "s": "మైత్రి వంటి సద్గుణాలపై సంయమం వల్ల బలాలు కలుగుతాయి.",
+      "d": "మైత్రి (స్నేహభావం), మరియు సంబంధిత సద్గుణాలపై (కరుణ, ముదిత వంటివి, సమాధిపాదంలో చెప్పినవి) సంయమం చేస్తే, ఆ గుణానికి సంబంధించిన ప్రత్యేక బలాలు, శక్తులు కలుగుతాయి."
+    },
+    "en": {
+      "s": "Strengths come from saṁyama on friendliness and similar virtues.",
+      "d": "By practicing saṁyama on maitrī (friendliness) and the related virtues (karuṇā, muditā, etc., described earlier in Samadhi Pada), one gains corresponding balāni — special strengths and powers associated with each virtue."
+    },
+    "sad": {
+      "s": "मैत्र्यादिगुणेषु संयमात् तत्तद्बलानि सिद्ध्यन्ति।",
+      "d": "मैत्र्यां (स्नेहभावे) तत्सम्बद्धगुणेषु च (करुणामुदितादिषु, समाधिपादे उक्तेषु) संयमं कृत्वा, तत्तद्गुणसम्बद्धानि विशेषबलानि सामर्थ्यानि च सिद्ध्यन्ति।"
+    }
+  },
+  {
+    "n": 24,
+    "sa": "बलेषु हस्तिबलादीनी",
+    "te": {
+      "s": "బలాలపై సంయమం వల్ల ఏనుగు బలం వంటి శక్తి కలుగుతుంది.",
+      "d": "భౌతిక బలం యొక్క మూలంపై ప్రత్యేకంగా సంయమం చేస్తే, యోగికి అసాధారణమైన శక్తి కలుగుతుంది - ఏనుగు బలం (హస్తిబలం) వంటి, లేదా ఇతర బలమైన జీవుల శక్తికి సమానమైనది."
+    },
+    "en": {
+      "s": "From saṁyama on strengths comes power like that of an elephant.",
+      "d": "By applying saṁyama specifically on the concept/source of physical strength (bala), the yogi can gain extraordinary power, comparable to hasti-bala (the strength of an elephant) or other such mighty creatures."
+    },
+    "sad": {
+      "s": "बलविषये संयमात् हस्तितुल्यं बलं सिद्ध्यति।",
+      "d": "शारीरिकबलस्य मूलविषये विशेषतः संयमं कृत्वा, योगी असाधारणं सामर्थ्यं प्राप्नोति - हस्तिबलादितुल्यं, अन्यबलवत्जीवतुल्यं वा।"
+    }
+  },
+  {
+    "n": 25,
+    "sa": "प्रवृत्त्यालोकन्यासात् सूक्ष्मव्यवहितविप्रकृष्टज्ञानम्",
+    "te": {
+      "s": "అంతర్ దృష్టి కాంతిని ప్రసరింపజేయడం వల్ల సూక్ష్మ, మరుగైన, దూరమైన వాటి జ్ఞానం కలుగుతుంది.",
+      "d": "ప్రవృత్యాలోకన్యాసం - సూక్ష్మమైన అంతర్దృష్టి కాంతిని బాహ్యంగా ప్రసరింపజేసే సంయమం ద్వారా, యోగికి సూక్ష్మమైన (అతి చిన్న), వ్యవహితమైన (కప్పబడిన), విప్రకృష్టమైన (దూరంగా ఉన్న) వస్తువుల గురించిన జ్ఞానం కలుగుతుంది."
+    },
+    "en": {
+      "s": "By directing the light of higher perception, knowledge of the subtle, hidden, and distant arises.",
+      "d": "By saṁyama through pravṛtti-āloka-nyāsa — directing the inner light of refined perception outward — the yogi gains knowledge of objects that are sūkṣma (subtle/tiny), vyavahita (hidden/obscured), or vipraksṛṣṭa (far away in distance)."
+    },
+    "sad": {
+      "s": "प्रवृत्त्यालोकन्यासात् सूक्ष्मव्यवहितविप्रकृष्टवस्तुज्ञानं सिद्ध्यति।",
+      "d": "प्रवृत्त्यालोकन्यासेन - सूक्ष्मस्य अन्तर्दृष्टिप्रकाशस्य बाह्यप्रसरणेन - संयमं कृत्वा, योगी सूक्ष्म (अतिसूक्ष्म), व्यवहित (आवृत), विप्रकृष्ट (दूरस्थ) वस्तूनां ज्ञानं प्राप्नोति।"
+    }
+  },
+  {
+    "n": 26,
+    "sa": "भुवनज्ञानं सूर्ये संयमात्",
+    "te": {
+      "s": "సూర్యుడిపై సంయమం వల్ల భువన (లోకాల) జ్ఞానం కలుగుతుంది.",
+      "d": "సూర్యుడిపై (సాధారణంగా శరీరంలోని సూర్యనాడీ కేంద్రంగా అర్థం చేసుకుంటారు) సంయమం చేస్తే, యోగికి భువనజ్ఞానం - లోకాల, విశ్వనిర్మాణం గురించిన జ్ఞానం కలుగుతుంది."
+    },
+    "en": {
+      "s": "From saṁyama on the sun comes knowledge of the cosmic regions.",
+      "d": "By performing saṁyama on the sun (sūrya) — often understood as the solar plexus or the sun-principle within the body's subtle system — the yogi gains bhuvana-jñāna, knowledge of the structure of the world-systems/cosmic regions."
+    },
+    "sad": {
+      "s": "सूर्ये संयमात् भुवनरचनाज्ञानं सिद्ध्यति।",
+      "d": "सूर्ये (सामान्यतः शरीरस्थसूर्यनाडीकेन्द्रत्वेन व्याख्याते) संयमं कृत्वा, योगी भुवनज्ञानं - लोकविश्वरचनाज्ञानं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 27,
+    "sa": "चन्द्रे ताराव्यूहज्ञानम्",
+    "te": {
+      "s": "చంద్రుడిపై సంయమం వల్ల నక్షత్రాల వ్యవస్థ తెలుసుకోవచ్చు.",
+      "d": "చంద్రుడిపై సంయమం చేస్తే, యోగికి తారావ్యూహజ్ఞానం - నక్షత్రాల అమరిక, గమనం గురించిన ఖచ్చితమైన జ్ఞానం కలుగుతుంది."
+    },
+    "en": {
+      "s": "On the moon, knowledge of the arrangement of stars.",
+      "d": "By applying saṁyama on the moon (candra), the yogi gains tārā-vyūha-jñāna — precise knowledge of the arrangement and movement of the stars."
+    },
+    "sad": {
+      "s": "चन्द्रे संयमात् तारकाव्यूहज्ञानं सिद्ध्यति।",
+      "d": "चन्द्रे संयमं कृत्वा, योगी तारकाव्यूहज्ञानं - नक्षत्राणां रचनागतिज्ञानं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 28,
+    "sa": "ध्रुवे तद्गतिज्ञानम्",
+    "te": {
+      "s": "ధ్రువతారపై సంయమం వల్ల వాటి గమనం తెలుసుకోవచ్చు.",
+      "d": "ధ్రువతారపై (స్థిరమైన నిర్దేశక బిందువు) సంయమం చేస్తే, యోగికి తద్గతిజ్ఞానం - ఆ స్థిర బిందువుకు సంబంధించి నక్షత్రాల కచ్చితమైన గమన విధానం గురించిన జ్ఞానం కలుగుతుంది."
+    },
+    "en": {
+      "s": "On the pole star, knowledge of their motion.",
+      "d": "By applying saṁyama on dhruva, the pole star (the fixed reference point), the yogi gains tad-gati-jñāna — knowledge of the precise motion and movement-patterns of the stars relative to that fixed point."
+    },
+    "sad": {
+      "s": "ध्रुवे संयमात् नक्षत्रगतिज्ञानं सिद्ध्यति।",
+      "d": "ध्रुवे (स्थिरनिर्देशकबिन्दौ) संयमं कृत्वा, योगी तद्गतिज्ञानं - तं स्थिरबिन्दुं अपेक्ष्य नक्षत्राणां सुनिश्चितगतिक्रमज्ञानं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 29,
+    "sa": "नाभिचक्रे कायव्यूहज्ञानम्",
+    "te": {
+      "s": "నాభిచక్రంపై సంయమం వల్ల శరీర నిర్మాణం తెలుసుకోవచ్చు.",
+      "d": "నాభిచక్రంపై (నాభి శక్తి కేంద్రం) సంయమం చేస్తే, యోగికి కాయవ్యూహజ్ఞానం - శరీరం యొక్క అంతర్గత నిర్మాణం, అవయవాల అమరిక గురించిన వివరణాత్మక జ్ఞానం కలుగుతుంది."
+    },
+    "en": {
+      "s": "On the navel center, knowledge of the body's arrangement.",
+      "d": "By saṁyama on the nābhi-cakra (the navel energy center), the yogi gains kāya-vyūha-jñāna — detailed knowledge of the body's internal structure and arrangement (organs, systems)."
+    },
+    "sad": {
+      "s": "नाभिचक्रे संयमात् कायरचनाज्ञानं सिद्ध्यति।",
+      "d": "नाभिचक्रे (नाभिशक्तिकेन्द्रे) संयमं कृत्वा, योगी कायव्यूहज्ञानं - शरीरस्य अन्तरङ्गरचनायाः अवयवव्यवस्थायाः च विस्तृतं ज्ञानं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 30,
+    "sa": "कण्ठकूपे क्षुत्पिपासानिवृत्तिः",
+    "te": {
+      "s": "కంఠకూపంపై సంయమం వల్ల ఆకలి, దప్పిక నివృత్తి అవుతాయి.",
+      "d": "కంఠకూపంపై (గొంతు యొక్క గుంట భాగం) సంయమం చేస్తే, యోగికి క్షుత్పిపాసా నివృత్తి - ఆకలి, దప్పిక అనే శారీరక అవసరాలు ఇబ్బంది పెట్టకుండా ఉండే స్థితి కలుగుతుంది."
+    },
+    "en": {
+      "s": "On the throat-pit, cessation of hunger and thirst.",
+      "d": "By saṁyama on kaṇṭha-kūpa (the hollow of the throat), the yogi attains kṣut-pipāsā-nivṛtti — the cessation of hunger and thirst, no longer being troubled by these bodily needs."
+    },
+    "sad": {
+      "s": "कण्ठकूपे संयमात् क्षुत्पिपासानिवृत्तिः सिद्ध्यति।",
+      "d": "कण्ठकूपे (गलगुहायाम्) संयमं कृत्वा, योगी क्षुत्पिपासानिवृत्तिं - क्षुधातृष्णारूपशारीरिकावश्यकतयोः अबाधितत्वं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 31,
+    "sa": "कूर्मनाड्यां स्थैर्यम्",
+    "te": {
+      "s": "కూర్మనాడిపై సంయమం వల్ల స్థిరత్వం కలుగుతుంది.",
+      "d": "కూర్మనాడిపై (వక్షస్థలంలో ఉండే సూక్ష్మ నాడి) సంయమం చేస్తే, యోగికి లోతైన స్థైర్యం - శరీర స్థిరత్వం, నిశ్చలత కలుగుతుంది, ఇది దీర్ఘకాల ధ్యానానికి ఉపయోగపడుతుంది."
+    },
+    "en": {
+      "s": "On the kurma nerve, steadiness.",
+      "d": "By saṁyama on the kūrma-nāḍī (the subtle \"tortoise\" channel located in the chest area), the yogi attains profound sthairya — bodily steadiness and stillness, useful for sustaining long meditation."
+    },
+    "sad": {
+      "s": "कूर्मनाड्यां संयमात् कायस्थैर्यं सिद्ध्यति।",
+      "d": "कूर्मनाड्यां (वक्षःस्थलस्थसूक्ष्मनाडीविशेषे) संयमं कृत्वा, योगी गाढं स्थैर्यं - कायस्य अचलत्वं निश्चलत्वं च - प्राप्नोति, एतत् दीर्घध्यानसाधनार्थम् उपयोगि।"
+    }
+  },
+  {
+    "n": 32,
+    "sa": "मूर्धज्योतिषि सिद्धदर्शनम्",
+    "te": {
+      "s": "శిరస్సు పైన ఉన్న జ్యోతిపై సంయమం వల్ల సిద్ధుల దర్శనం కలుగుతుంది.",
+      "d": "శిరస్సు పైభాగంలో అనుభవమయ్యే తేజస్సుపై (మూర్ధజ్యోతి) సంయమం చేస్తే, యోగికి సిద్ధదర్శనం - సిద్ధపురుషుల (పరిపూర్ణతను సాధించిన వారి) దివ్యదర్శనం కలుగుతుంది."
+    },
+    "en": {
+      "s": "On the light at the crown of the head, vision of the perfected ones.",
+      "d": "By saṁyama on mūrdha-jyotiṣ (the radiant light perceived at the crown of the head), the yogi attains siddha-darśana — visionary perception of siddhas (perfected/realized beings)."
+    },
+    "sad": {
+      "s": "मूर्धज्योतिषि संयमात् सिद्धदर्शनं सिद्ध्यति।",
+      "d": "शिरःशिखरे अनुभूयमाने तेजसि (मूर्धज्योतिषि) संयमं कृत्वा, योगी सिद्धदर्शनं - सिद्धपुरुषाणां (पूर्णतां प्राप्तानां) दिव्यं दर्शनं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 33,
+    "sa": "प्रातिभाद्वा सर्वम्",
+    "te": {
+      "s": "లేదా, ప్రాతిభం (సహజమైన అంతఃప్రజ్ఞ) ద్వారా అన్నీ తెలుసుకోవచ్చు.",
+      "d": "ప్రత్యామ్నాయంగా, ప్రాతిభం ద్వారా - క్రమబద్ధమైన సంయమం లేకుండానే తనకు తానుగా ఉద్భవించే సహజమైన అంతఃప్రజ్ఞ యొక్క మెరుపు ద్వారా - యోగి ప్రతి ప్రత్యేక సాధన అవసరం లేకుండానే అన్నింటినీ నేరుగా తెలుసుకోగలుగుతాడు."
+    },
+    "en": {
+      "s": "Or, through spontaneous intuition, all (is known).",
+      "d": "Alternatively, through prātibha — a flash of spontaneous, intuitive higher knowing that arises on its own, beyond systematic saṁyama — the yogi may directly know sarvam, everything, without needing each specific technique."
+    },
+    "sad": {
+      "s": "अथवा प्रातिभेन (स्वयंभूतया अन्तःप्रज्ञया) सर्वं ज्ञेयम्।",
+      "d": "विकल्पतया, प्रातिभेन - क्रमबद्धसंयमं विना स्वयमेव उद्भवत्या सहजान्तःप्रज्ञायाः झलकेन - योगी प्रत्येकं विशिष्टसाधनम् अनपेक्ष्य सर्वं साक्षात् ज्ञातुं शक्नोति।"
+    }
+  },
+  {
+    "n": 34,
+    "sa": "हृदये चित्तसंवित्",
+    "te": {
+      "s": "హృదయంపై సంయమం వల్ల చిత్తం గురించిన అవగాహన కలుగుతుంది.",
+      "d": "హృదయంపై (చిత్తానికి నివాస స్థానంగా పరిగణించబడే కేంద్రం) సంయమం చేస్తే, యోగికి చిత్తసంవిత్ - మనస్సు యొక్క పనితీరు, విషయాల గురించిన ప్రత్యక్ష, స్పష్టమైన అవగాహన కలుగుతుంది."
+    },
+    "en": {
+      "s": "On the heart, awareness of the mind.",
+      "d": "By saṁyama on hṛdaya (the heart center, traditionally seen as the seat of citta), the yogi gains citta-saṁvit — direct, clear awareness and understanding of the mind itself, its workings and contents."
+    },
+    "sad": {
+      "s": "हृदये संयमात् चित्तस्य संवित् (स्पष्टावबोधः) सिद्ध्यति।",
+      "d": "हृदये (चित्तस्य निवासस्थानत्वेन परिगणिते केन्द्रे) संयमं कृत्वा, योगी चित्तसंवितं - मनसः कार्यप्रणालीविषयाणां च प्रत्यक्षं स्पष्टं अवबोधं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 35,
+    "sa": "सत्त्वपुरुषयोरत्यन्तासङ्कीर्णयोः प्रत्ययाविशेषो भोगः परार्थत्वात् स्वार्थसंयमात् पुरुषज्ञानम्",
+    "te": {
+      "s": "సత్త్వ, పురుషుల మధ్య అవగాహన భేదం లేకపోవడమే భోగం; స్వార్థంపై సంయమం వల్ల పురుష జ్ఞానం కలుగుతుంది.",
+      "d": "సాధారణ అనుభవం (భోగం) కలుగుతుంది, ఎందుకంటే మనస్సు సత్త్వం (మనస్సు యొక్క స్వచ్ఛతమ భాగం), పురుషుడు (సాక్షి) - ఈ రెండింటి మధ్య పూర్తిగా వేరైనా (అత్యంత అసంకీర్ణం) తేడాను గుర్తించలేదు. మనస్సు పురుషుని కోసమే (పరార్థం) ఉంటుంది. ఈ మిశ్రమ అనుభవం నుండి వేరైన, తనకు తనకే సంబంధించిన (స్వార్థం) దానిపై సంయమం చేస్తే, యోగికి పురుషజ్ఞానం - నిజమైన సాక్షి గురించిన ప్రత్యక్ష జ్ఞానం - కలుగుతుంది."
+    },
+    "en": {
+      "s": "Experience is the non-distinction of cognition between the utterly distinct sattva and puruṣa, existing for another's sake; saṁyama on the self's own purpose gives knowledge of puruṣa.",
+      "d": "Ordinary experience (bhoga) arises because the mind fails to distinguish (pratyaya-aviśeṣa) between sattva (the purest aspect of mind) and puruṣa (the seer), even though they are completely distinct (atyanta-asaṅkīrṇa) — the mind exists for another's sake (para-artha, i.e., for puruṣa). By saṁyama specifically on what is for the self's own sake (svārtha), distinct from this mixed experience, the yogi attains puruṣa-jñāna — direct knowledge of the true seer."
+    },
+    "sad": {
+      "s": "सत्त्वपुरुषयोः अभेदज्ञानं भोगः; स्वार्थसंयमात् पुरुषज्ञानं सिद्ध्यति।",
+      "d": "सामान्यः भोगः जायते, यतः चित्तं सत्त्वस्य (मनसः शुद्धतमांशस्य) पुरुषस्य (द्रष्ट्रः) च मध्ये, तौ अत्यन्तभिन्नौ अपि (अत्यन्तासङ्कीर्णौ), भेदं न जानाति। चित्तं परार्थम् (पुरुषार्थम्) एव वर्तते। एतस्मात् मिश्रितानुभवात् भिन्नं, स्वार्थं (आत्मार्थम्) संयमविषयं कृत्वा, योगी पुरुषज्ञानं - यथार्थद्रष्ट्रः साक्षात् ज्ञानं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 36,
+    "sa": "ततः प्रातिभश्रावणवेदनादर्शास्वादवार्ता जायन्ते",
+    "te": {
+      "s": "దీని వలన అతీంద్రియ శ్రవణం, స్పర్శ, దృష్టి, రుచి, వాసన కలుగుతాయి.",
+      "d": "ఈ సూక్ష్మ వివేకం యొక్క ఫలితంగా, ఐదు ఇంద్రియాల యొక్క ప్రాతిభ (సహజమైన, అతీంద్రియ) రూపాలు ఉద్భవిస్తాయి - అసాధారణ శ్రవణం, స్పర్శ, దృష్టి, రుచి, వాసన - సాధారణ ఇంద్రియ పరిమితులకు అతీతమైన అవగాహన."
+    },
+    "en": {
+      "s": "From that arise spontaneous intuitive hearing, touch, sight, taste, and smell.",
+      "d": "As a fruit of this refined discernment, prātibha (spontaneous) versions of all five senses emerge: extraordinary hearing (śrāvaṇa), touch (vedanā), sight (ādarśa), taste (āsvāda), and smell (vārtā) — perception beyond normal sensory limits."
+    },
+    "sad": {
+      "s": "ततः अतीन्द्रियं श्रवणं स्पर्शनं दर्शनम् आस्वादनं गन्धज्ञानं च जायन्ते।",
+      "d": "एतस्य सूक्ष्मविवेकस्य फलरूपेण, पञ्चेन्द्रियाणां प्रातिभानि (सहजातीन्द्रियाणि) रूपाणि उद्भवन्ति - असाधारणं श्रवणं स्पर्शनं दर्शनम् आस्वादनं गन्धज्ञानं च - सामान्येन्द्रियसीमातीतः बोधः।"
+    }
+  },
+  {
+    "n": 37,
+    "sa": "ते समाधावुपसर्गाव्युत्थाने सिद्धयः",
+    "te": {
+      "s": "ఇవి సమాధికి అడ్డంకులు, కానీ బాహ్యదృష్టికి సిద్ధులు.",
+      "d": "ఈ అధ్యాయంలో వివరించిన అసాధారణ సామర్థ్యాలు (సిద్ధులు), విచిత్రంగా, లోతైన సమాధిని కోరుకునే వారికి ఉపసర్గలు (అడ్డంకులు, దృష్టి మరల్చేవి) అవుతాయి, కానీ వ్యుత్థానం (బాహ్యదృష్టి, లౌకిక మనస్థితి) దృష్ట్యా చూస్తే ఇవి సిద్ధులు (నిజమైన సాధనలు) అవుతాయి."
+    },
+    "en": {
+      "s": "These are obstacles in samādhi, but powers when the mind turns outward.",
+      "d": "These extraordinary abilities (the siddhis described throughout this chapter) are, paradoxically, upasarga — obstacles/distractions when one is seeking deep samādhi, but they are valid siddhayaḥ (accomplishments/powers) when viewed from the standpoint of vyutthāna, the outward-turned, worldly state of mind."
+    },
+    "sad": {
+      "s": "एताः सिद्धयः समाधौ उपसर्गाः, व्युत्थाने तु सिद्धयः एव।",
+      "d": "अस्मिन् अध्याये वर्णिताः असाधारणसामर्थ्याः (सिद्धयः), विचित्रतया, गाढसमाधिं इच्छुकानां कृते उपसर्गाः (बाधाः, ध्यानभङ्गकारिणी) भवन्ति, परं व्युत्थानस्य (बाह्यदृष्टेः लौकिकचित्तावस्थायाः) दृष्ट्या एताः सिद्धयः (यथार्थसाधनाः) एव भवन्ति।"
+    }
+  },
+  {
+    "n": 38,
+    "sa": "बन्धकारणशैथिल्यात् प्रचारसंवेदनाच्च चित्तस्य परशरीरावेशः",
+    "te": {
+      "s": "బంధకారణాన్ని సడలించడం, చలన మార్గాలను తెలుసుకోవడం వల్ల, మనస్సు మరో శరీరంలో ప్రవేశించగలదు.",
+      "d": "మనస్సును దాని స్వంత శరీరానికి బంధించే కారణాన్ని సడలించడం (శైథిల్యం), మనస్సు చలించే మార్గాలను (ప్రచారం) తెలుసుకోవడం ద్వారా, యోగి పరశరీరావేశం - తన మనస్సును మరో శరీరంలో ప్రవేశింపజేసి దాన్ని నడిపించడం - సాధించగలుగుతాడు."
+    },
+    "en": {
+      "s": "From loosening the cause of bondage and knowing the channels of movement, the mind can enter another's body.",
+      "d": "By loosening (śaithilya) the causes that bind the mind to its own body, and by knowing (saṁvedana) the pracāra (channels/pathways through which the mind moves), the yogi can achieve para-śarīra-āveśa — projecting the mind into and animating another's body."
+    },
+    "sad": {
+      "s": "बन्धकारणशैथिल्यात् प्रचारज्ञानाच्च परशरीरावेशः सिद्ध्यति।",
+      "d": "चित्तं स्वकीयशरीरे बन्धयत् कारणं शिथिलीकृत्य, चित्तस्य गमनमार्गान् (प्रचारान्) ज्ञात्वा च, योगी परशरीरावेशं - स्वचित्तं अन्यशरीरे प्रवेशयित्वा तत् सञ्चालनं - साधयति।"
+    }
+  },
+  {
+    "n": 39,
+    "sa": "उदानजयाज्जलपङ्ककण्टकादिष्वसङ्ग उत्क्रान्तिश्च",
+    "te": {
+      "s": "ఉదానాన్ని జయించడం వల్ల నీరు, బురద, ముళ్ళు తాకకుండా ఉండటం, పైకి ఎగురగలగడం కలుగుతుంది.",
+      "d": "ఉదానం (పైకి ప్రవహించే ప్రాణశక్తి) జయించడం వల్ల, యోగికి అసంగం - నీరు, బురద, ముళ్ళు వంటి అడ్డంకులను తాకకుండా దాటే సామర్థ్యం, ఉత్క్రాంతి - ఇష్టానుసారంగా శరీరం నుండి స్పృహతో పైకి ఎగిరే శక్తి కలుగుతాయి."
+    },
+    "en": {
+      "s": "From mastering udāna, non-attachment to water, mud, thorns, and the ability to rise upward.",
+      "d": "By mastering udāna (the upward-moving vital current), the yogi attains asaṅga — non-contact/levitation over obstacles like water, mud, and thorns (literally not sinking into or being pierced by them), as well as utkrānti, the power of consciously ascending out of the body at will."
+    },
+    "sad": {
+      "s": "उदानजयात् जलपङ्ककण्टकादिषु असङ्गः उत्क्रान्तिः च सिद्ध्यति।",
+      "d": "उदानस्य (ऊर्ध्वगामिप्राणशक्तेः) जयेन, योगी असङ्गं - जलपङ्ककण्टकादिविघ्नैः अस्पृष्टतया अतिक्रमणसामर्थ्यम्, उत्क्रान्तिं च - स्वेच्छया सचेतनतया कायात् ऊर्ध्वगमनशक्तिं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 40,
+    "sa": "समानजयाज्ज्वलनम्",
+    "te": {
+      "s": "సమానాన్ని జయించడం వల్ల తేజస్సు (జ్వలనం) కలుగుతుంది.",
+      "d": "సమానం (శరీరంలో జీర్ణక్రియ, సమతుల్యతకు బాధ్యత వహించే ప్రాణశక్తి) జయించడం వల్ల, యోగికి జ్వలనం - శరీరం యొక్క తేజోమయమైన ప్రకాశం, మెరుపు కలుగుతుంది."
+    },
+    "en": {
+      "s": "From mastering samāna, radiance.",
+      "d": "By mastering samāna (the vital current responsible for digestion/equalization in the body), the yogi attains jvalana — a radiant glow or fiery brilliance of the body."
+    },
+    "sad": {
+      "s": "समानजयात् जठराग्निदीप्तिः (ज्वलनम्) सिद्ध्यति।",
+      "d": "समानस्य (शरीरे पचनसमतोलनदायित्ववहस्य प्राणशक्तेः) जयेन, योगी ज्वलनं - कायस्य तेजोमयं प्रकाशं द्युतिं च - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 41,
+    "sa": "श्रोत्राकाशयोः सम्बन्धसंयमात् दिव्यं श्रोत्रम्",
+    "te": {
+      "s": "శ్రోత్రం, ఆకాశాల సంబంధంపై సంయమం వల్ల దివ్యశ్రవణం కలుగుతుంది.",
+      "d": "శ్రోత్రం (వినికిడి అవయవం), ఆకాశం (శబ్దానికి సూక్ష్మ మాధ్యమం) - వీటి మధ్య సంబంధంపై సంయమం చేస్తే, యోగికి దివ్యశ్రోత్రం - ఎక్కడి శబ్దాన్నైనా వినగలిగే అతీంద్రియ శ్రవణశక్తి కలుగుతుంది."
+    },
+    "en": {
+      "s": "From saṁyama on the relationship between the ear and space, divine hearing.",
+      "d": "By saṁyama on the connection (sambandha) between śrotra (the organ of hearing) and ākāśa (space/ether, the subtle medium of sound), the yogi gains divya-śrotra — divine, supernormal hearing, able to perceive any sound anywhere."
+    },
+    "sad": {
+      "s": "श्रोत्राकाशयोः सम्बन्धसंयमात् दिव्यं श्रवणं सिद्ध्यति।",
+      "d": "श्रोत्रस्य (श्रवणेन्द्रियस्य) आकाशस्य (शब्दस्य सूक्ष्ममाध्यमस्य) च मध्ये सम्बन्धे संयमं कृत्वा, योगी दिव्यं श्रोत्रं - सर्वत्र कस्यापि शब्दस्य श्रवणसामर्थ्यम् अतीन्द्रियम् - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 42,
+    "sa": "कायाकाशयोः सम्बन्धसंयमात् लघुतूलसमापत्तेश्च आकाशगमनम्",
+    "te": {
+      "s": "శరీరం, ఆకాశం సంబంధంపై సంయమం, తేలికైన నూలు పింజెతో సమాపత్తి వల్ల ఆకాశగమనం కలుగుతుంది.",
+      "d": "శరీరం, ఆకాశం మధ్య సంబంధంపై సంయమం చేసి, దానితో పాటు తేలికైన నూలు పింజె (లఘుతూలం) తో సమాపత్తి (లీనమవ్వడం) చేస్తే, యోగికి ఆకాశగమనం - ఆకాశంలో ప్రయాణించే శక్తి కలుగుతుంది."
+    },
+    "en": {
+      "s": "From saṁyama on the relationship between body and space, and merging with the lightness of cotton-fluff, movement through the sky.",
+      "d": "By saṁyama on the relationship between kāya (the body) and ākāśa (space), combined with samāpatti (deep absorption/identification) into laghu-tūla (the lightness of cotton-fluff), the yogi attains ākāśa-gamana — the power to move/travel through the sky."
+    },
+    "sad": {
+      "s": "कायाकाशयोः सम्बन्धसंयमात् लघुतूलसमापत्तेः च आकाशगमनं सिद्ध्यति।",
+      "d": "कायस्य आकाशस्य च मध्ये सम्बन्धे संयमं कृत्वा, तेन सह लघुतूलस्य (तूलिकालघुत्वस्य) समापत्त्या (तदाकारतया) च, योगी आकाशगमनं - गगने गमनशक्तिं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 43,
+    "sa": "बहिरकल्पिता वृत्तिर्महाविदेहा ततः प्रकाशावरणक्षयः",
+    "te": {
+      "s": "శరీరానికి బయట ఊహ కాని వృత్తి \"మహావిదేహ\"; దీని వలన ప్రకాశాన్ని కప్పిన తొడుగు తొలగిపోతుంది.",
+      "d": "మహావిదేహ (\"మహా శరీరరాహిత్యం\") అనేది ఒక ప్రత్యేక వృత్తి - శరీరం బయట, నిజంగా (ఊహ మాత్రమే కాకుండా) అనుభవమయ్యే మానసిక చర్యా స్థితి. ఈ స్థితిలో నైపుణ్యం సాధించడం వల్ల, మనస్సు యొక్క అంతఃప్రకాశాన్ని కప్పి ఉంచే తొడుగు (ఆవరణం) తొలగిపోతుంది."
+    },
+    "en": {
+      "s": "An unimagined external fluctuation is \"great bodilessness\"; from it, the veil over light is destroyed.",
+      "d": "Mahā-videhā (\"the great bodilessness\") is a specific vṣtti, a state of mental activity projected fully outside the body without being fictively imagined (a-kalpitā, i.e., genuinely experienced, not just visualized) — and through mastering this state, the veil that obscures inner light (prakāśa-āvaraṇa) is destroyed."
+    },
+    "sad": {
+      "s": "कायबाह्या अकल्पिता वृत्तिः महाविदेहा; तस्याः फलं प्रकाशावरणक्षयः।",
+      "d": "महाविदेहा (\"महती शरीराभावावस्था\") इति विशिष्टा वृत्तिः - शरीरस्य बाह्ये, वास्तविकतया (न तु कल्पनामात्रेण) अनुभूयमाना चित्तवृत्तिः। अस्याः अवस्थायाः प्रावीण्ये सति, चित्तस्य अन्तःप्रकाशं आवृणुयत् आवरणं नश्यति।"
+    }
+  },
+  {
+    "n": 44,
+    "sa": "स्थूलस्वरूपसूक्ष्मान्वयार्थवत्त्वसंयमात् भूतजयः",
+    "te": {
+      "s": "స్థూలం, స్వరూపం, సూక్ష్మం, అన్వయం, అర్థవత్త్వంపై సంయమం వల్ల భూతజయం కలుగుతుంది.",
+      "d": "భూతాల (పంచభూతాల) యొక్క ఐదు అంశాలపై వరుసగా సంయమం చేస్తే - స్థూలం (కనిపించే రూపం), స్వరూపం (అసలు స్వభావం), సూక్ష్మం (సూక్ష్మ కారణం), అన్వయం (గుణాలతో అనుసంధానం), అర్థవత్త్వం (ప్రయోజనం) - యోగికి భూతజయం, పంచభూతాలపై పూర్తి నియంత్రణ కలుగుతుంది."
+    },
+    "en": {
+      "s": "From saṁyama on the gross, the essential form, the subtle, the connectedness, and purposefulness, mastery of the elements.",
+      "d": "By applying saṁyama systematically on five aspects of the elements (bhūta) — sthūla (gross manifestation), svarūpa (essential nature), sūkṣma (subtle cause), anvaya (interconnectedness with the guṇas), and arthavattva (purposefulness) — the yogi attains bhūta-jaya, complete mastery over the elements."
+    },
+    "sad": {
+      "s": "स्थूलस्वरूपसूक्ष्मान्वयार्थवत्त्वेषु क्रमशः संयमात् भूतजयः सिद्ध्यति।",
+      "d": "भूतानां (पञ्चमहाभूतानां) पञ्चाशेषु क्रमेण संयमं कृत्वा - स्थूले (दृश्यरूपे), स्वरूपे (मूलस्वभावे), सूक्ष्मे (सूक्ष्मकारणे), अन्वये (गुणैः सम्बन्धे), अर्थवत्त्वे (प्रयोजने) - योगी भूतजयं - पञ्चभूतेषु पूर्णनियन्त्रणं - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 45,
+    "sa": "ततोऽणिमादिप्रादुर्भावः कायसम्पत् तद्धर्मानभिघातश्च",
+    "te": {
+      "s": "దీని వలన అణిమ వంటి సిద్ధులు, శరీర సంపత్తి, వాటి ధర్మాల వల్ల అడ్డంకి లేకపోవడం కలుగుతాయి.",
+      "d": "భూతజయం యొక్క ఫలితాలుగా - అణిమాది సిద్ధులు (అణిమ వంటి ఎనిమిది ప్రసిద్ధ సిద్ధులు, ఉదా. అతి సూక్ష్మంగా మారే శక్తి) ఉద్భవిస్తాయి, కాయసంపత్తు (శరీర పరిపూర్ణత) కలుగుతుంది, ధర్మానభిఘాతం (అగ్ని కాల్చకపోవడం వంటి, భూతాల సాధారణ గుణాల ద్వారా శరీర పనితీరుకు అడ్డంకి లేకపోవడం) సిద్ధిస్తుంది."
+    },
+    "en": {
+      "s": "From that, the manifestation of powers like minuteness, perfection of body, and non-obstruction by their qualities.",
+      "d": "As fruits of bhūta-jaya: aṇimā-ādi-prādurbhāva (the eight classical siddhis appear, like aṇimā — becoming infinitesimally small), kāya-sampat (perfection of the body), and dharma-anabhighāta (the body's functions can no longer be obstructed by the elements' usual properties, like fire failing to burn it)."
+    },
+    "sad": {
+      "s": "ततः अणिमादिसिद्धयः कायसम्पत् तद्गुणैः अनभिघातश्च सिद्ध्यन्ति।",
+      "d": "भूतजयस्य फलरूपेण - अणिमादिसिद्धयः (अणिमादिकाः अष्टौ प्रसिद्धाः सिद्धयः, यथा अतिसूक्ष्मीभवनसामर्थ्यम्) प्रादुर्भवन्ति, कायसम्पत् (शरीरस्य पूर्णता) सिद्ध्यति, धर्मानभिघातः (अग्न्यादिभूतगुणैः कायकार्ये अबाधा, यथा अग्निदाहाभावः) च सिद्ध्यति।"
+    }
+  },
+  {
+    "n": 46,
+    "sa": "रूपलावण्यबलवज्रसंहननत्वानि कायसम्पत्",
+    "te": {
+      "s": "రూపం, లావణ్యం, బలం, వజ్రసమానమైన దృఢత్వం - ఇవి కాయసంపత్తు.",
+      "d": "పైన చెప్పిన కాయసంపత్తు (శరీర పరిపూర్ణత) ఇక్కడ వివరించబడుతుంది - రూపం (అందమైన ఆకారం), లావణ్యం (అలంకారం/ఆకర్షణ), బలం (శక్తి), వజ్రసంహననత్వం (వజ్రం వంటి దృఢత్వం, శాశ్వతత్వం)."
+    },
+    "en": {
+      "s": "Beauty of form, grace, strength, and diamond-like firmness constitute bodily perfection.",
+      "d": "Kāya-sampat (bodily perfection mentioned above) is detailed: it consists of rūpa (beautiful form), lāvaṇya (grace/charm), bala (strength), and vajra-saṁhananatva (diamond-like firmness/durability of the body)."
+    },
+    "sad": {
+      "s": "रूपलावण्यबलवज्रसंहननत्वानि कायसम्पदः विवरणम्।",
+      "d": "पूर्वोक्ता कायसम्पत् (शरीरस्य पूर्णता) इह विवृता - रूपम् (सुन्दराकारः), लावण्यम् (आकर्षणम्), बलम् (शक्तिः), वज्रसंहननत्वम् (वज्रवद् दृढत्वं स्थायित्वं च)।"
+    }
+  },
+  {
+    "n": 47,
+    "sa": "ग्रहणस्वरूपास्मितान्वयार्थवत्त्वसंयमादिन्द्रियजयः",
+    "te": {
+      "s": "గ్రహణం, స్వరూపం, అస్మిత, అన్వయం, అర్థవత్త్వంపై సంయమం వల్ల ఇంద్రియజయం కలుగుతుంది.",
+      "d": "భూతజయం వలెనే, ఇంద్రియాల యొక్క ఐదు అంశాలపై సంయమం చేస్తే - గ్రహణం (పట్టుకునే చర్య), స్వరూపం (అసలు స్వభావం), అస్మిత (అహంకారానికి అనుసంధానం), అన్వయం (గుణాలతో సంబంధం), అర్థవత్త్వం (ప్రయోజనం) - యోగికి ఇంద్రియజయం, ఇంద్రియాలపై పూర్తి నియంత్రణ కలుగుతుంది."
+    },
+    "en": {
+      "s": "From saṁyama on the senses' grasping, essence, ego-link, connectedness, and purposefulness, mastery of the senses.",
+      "d": "Analogous to bhūta-jaya, by saṁyama on five aspects of the senses (indriya) — grahaṇa (the act of grasping/perceiving), svarūpa (essential nature), asmitā (their connection to ego-identity), anvaya (connection with the guṇas), and arthavattva (purposefulness) — the yogi attains indriya-jaya, complete mastery over the senses."
+    },
+    "sad": {
+      "s": "ग्रहणस्वरूपास्मितान्वयार्थवत्त्वेषु संयमात् इन्द्रियजयः सिद्ध्यति।",
+      "d": "भूतजयवत् एव, इन्द्रियाणां पञ्चाशेषु संयमं कृत्वा - ग्रहणे (ग्रहणक्रियायाम्), स्वरूपे, अस्मितायां (अहङ्कारसम्बन्धे), अन्वये (गुणसम्बन्धे), अर्थवत्त्वे (प्रयोजने) - योगी इन्द्रियजयं प्राप्नोति।"
+    }
+  },
+  {
+    "n": 48,
+    "sa": "ततो मनोजवित्वं विकरणभावः प्रधानजयश्च",
+    "te": {
+      "s": "దీని వలన మనోవేగం, ఇంద్రియాలు లేకుండా పనిచేసే శక్తి, ప్రధానంపై జయం కలుగుతాయి.",
+      "d": "ఇంద్రియజయం యొక్క ఫలితాలుగా - మనోజవిత్వం (మనస్సు ఆలోచన వేగంతో, ఇంద్రియాల కంటే వేగంగా కదలడం), వికరణభావం (భౌతిక ఇంద్రియాలపై ఆధారపడకుండా పనిచేయగల సామర్థ్యం), ప్రధానజయం (మూలప్రకృతిపైనే సంపూర్ణ నియంత్రణ) కలుగుతాయి."
+    },
+    "en": {
+      "s": "From that, speed of mind, function without the organs, and mastery over primal nature.",
+      "d": "As fruits of indriya-jaya: mano-javitva (the mind moving as fast as thought, even faster than the senses), vikaraṇa-bhāva (the ability to perceive/function without relying on the physical sense organs), and pradhāna-jaya (mastery over pradhāna, the root nature/prakṣti itself)."
+    },
+    "sad": {
+      "s": "ततः मनोजवित्वं विकरणभावः प्रधानजयश्च सिद्ध्यन्ति।",
+      "d": "इन्द्रियजयस्य फलरूपेण - मनोजवित्वम् (चित्तस्य विचारवेगेन, इन्द्रियवेगादपि अधिकेन गमनम्), विकरणभावः (भौतिकेन्द्रियाणि अनाश्रित्य कार्यसामर्थ्यम्), प्रधानजयः (मूलप्रकृतेः एव पूर्णनियन्त्रणम्) च सिद्ध्यन्ति।"
+    }
+  },
+  {
+    "n": 49,
+    "sa": "सत्त्वपुरुषान्यताख्यातिमात्रस्य सर्वभावाधिष्ठातृत्वं सर्वज्ञातृत्वञ्च",
+    "te": {
+      "s": "సత్త్వ, పురుషుల భేదాన్ని మాత్రమే గ్రహించిన వారికి, అన్ని భావాలపై ఆధిపత్యం, సర్వజ్ఞత్వం కలుగుతాయి.",
+      "d": "సత్త్వం (మనస్సు), పురుషుడు (సాక్షి) - వీటి సంపూర్ణ భేదాన్ని మాత్రమే (ఖ్యాతిమాత్రం) గ్రహించిన యోగికి, చివరికి రెండు అత్యున్నత ఫలితాలు సహజంగా కలుగుతాయి - సర్వభావాధిష్ఠాతృత్వం (అన్ని ఉనికి స్థితులపై ఆధిపత్యం), సర్వజ్ఞాతృత్వం (సర్వజ్ఞత్వం)."
+    },
+    "en": {
+      "s": "For one whose insight is only the difference between sattva and puruṣa, mastery over all states of being and omniscience follow.",
+      "d": "For the yogi whose realization has reached the pure, exclusive recognition (khyāti-mātra) of the absolute distinction between sattva (mind) and puruṣa (the seer), two ultimate fruits naturally follow: sarva-bhāva-adhiṣṭhātṣtva (sovereignty/mastery over all states of existence) and sarva-jñātṣtva (omniscience)."
+    },
+    "sad": {
+      "s": "सत्त्वपुरुषयोः भेदख्यातिमात्रवतः सर्वभावाधिष्ठातृत्वं सर्वज्ञातृत्वं च सिद्ध्यति।",
+      "d": "सत्त्वस्य (चित्तस्य) पुरुषस्य (द्रष्ट्रः) च सम्पूर्णभेदं केवलं (ख्यातिमात्रं) साक्षात्कृतवतः योगिनः, अन्ततः द्वे परमे फले स्वभावतः सिद्ध्यतः - सर्वभावाधिष्ठातृत्वम् (सर्वासु सत्तावस्थासु आधिपत्यम्), सर्वज्ञातृत्वं च।"
+    }
+  },
+  {
+    "n": 50,
+    "sa": "तद्वैराग्यादपि दोषबीजक्षये कैवल्यम्",
+    "te": {
+      "s": "వాటిపై కూడా వైరాగ్యం వల్ల, దోషబీజాలు నశించి, కైవల్యం కలుగుతుంది.",
+      "d": "ఇది చాలా ముఖ్యమైన మాట - ఈ అత్యున్నత శక్తులపై (సర్వజ్ఞత్వం వంటివి) కూడా వైరాగ్యం (నిర్లిప్తత) అవసరం. దాని వల్ల దోషబీజాలు (అతి సూక్ష్మమైన లోపాల బీజాలు కూడా) నశించినప్పుడు, కైవల్యం (చివరి విముక్తి) సిద్ధిస్తుంది."
+    },
+    "en": {
+      "s": "From dispassion even toward that, when the seeds of fault are destroyed, comes liberation.",
+      "d": "Crucially, even these supreme powers (sarva-jñātṣtva etc.) must themselves be released through vairāgya (dispassion) — when doṣa-bīja (the seeds of imperfection/affliction, even the subtlest) are thereby destroyed, kaivalya (final liberation) is attained."
+    },
+    "sad": {
+      "s": "तत्रापि वैराग्यात् दोषबीजक्षये कैवल्यं सिद्ध्यति।",
+      "d": "एतत् अतीव महत्त्वपूर्णम् - एतेषु परमसामर्थ्येषु (सर्वज्ञातृत्वादिषु) अपि वैराग्यम् (अनासक्तिः) अपेक्षितम्। तेन दोषबीजेषु (सूक्ष्मतमदोषाणां बीजेषु अपि) क्षीणे, कैवल्यं (चरममोक्षम्) सिद्ध्यति।"
+    }
+  },
+  {
+    "n": 51,
+    "sa": "स्थान्युपनिमन्त्रणे सङ्गस्मयाकरणं पुनरनिष्टप्रसङ्गात्",
+    "te": {
+      "s": "దేవతలు ఆహ్వానించినా, ఆసక్తి, గర్వం పెంచుకోకూడదు, లేకుంటే మళ్ళీ అనిష్ట బంధనం కలుగుతుంది.",
+      "d": "ఉన్నత స్థాయి సాధకులకు ఒక హెచ్చరిక - ఉన్నత స్థానంలో ఉన్న దేవతలు ఆహ్వానించినా (ఉపనిమంత్రణం), ఆసక్తి (సంగం), గర్వం (స్మయం) పెంచుకోకుండా ఉండాలి - ఎందుకంటే అలాంటి ఆహ్వానాలను స్వీకరించడం, మళ్ళీ అనిష్టమైన బంధనంలో (అనిష్టప్రసంగం) చిక్కుకునే ప్రమాదం ఉంటుంది."
+    },
+    "en": {
+      "s": "When invited by celestial beings, one should not become attached or proud, due to the risk of renewed undesirable involvement.",
+      "d": "A warning for advanced practitioners: even when invited (upanimantraṇa) by celestial beings (sthānin) of high position, one must avoid saṅga (attachment) and smaya (pride/conceit), because accepting such invitations risks aniṣṭa-prasaṅga — a renewed entanglement in undesirable, binding situations."
+    },
+    "sad": {
+      "s": "सुरैः उपनिमन्त्रिते सति आसक्तिगर्वौ न कार्यौ, पुनः अनिष्टसम्बन्धभयात्।",
+      "d": "उन्नतसाधकानां कृते एकं सावधानवचनम् - उच्चस्थानस्थैः देवैः उपनिमन्त्रितोऽपि, सङ्गं (आसक्तिम्) स्मयं (गर्वं) च न कुर्यात् - यतः तादृशनिमन्त्रणस्वीकारेण पुनः अनिष्टप्रसङ्गे (बन्धनयुक्तापरिस्थितौ) पतनस्य भयं वर्तते।"
+    }
+  },
+  {
+    "n": 52,
+    "sa": "क्षणतत्क्रमयोः संयमाद्विवेकजं ज्ञानम्",
+    "te": {
+      "s": "క్షణం, దాని క్రమంపై సంయమం వల్ల వివేకజ్ఞానం కలుగుతుంది.",
+      "d": "క్షణం (కాలంలోని విభజించలేని ఒక బిందువు), దాని క్రమం (వరుస) పై సంయమం చేస్తే, యోగికి వివేకజ్ఞానం - ఈ సాధన ద్వారా ప్రత్యేకంగా ఉద్భవించే అత్యున్నత వివేకజ్ఞానం కలుగుతుంది."
+    },
+    "en": {
+      "s": "From saṁyama on the moment and its sequence, discriminative knowledge arises.",
+      "d": "By applying saṁyama on kṣaṇa (the single, indivisible moment of time) and its krama (sequence/succession), the yogi attains viveka-ja jñāna — the supreme discriminative knowledge that arises specifically from this practice."
+    },
+    "sad": {
+      "s": "क्षणतत्क्रमयोः संयमात् विवेकजं ज्ञानं सिद्ध्यति।",
+      "d": "क्षणे (कालस्य अविभाज्ये बिन्दौ) तस्य क्रमे (अनुक्रमे) च संयमं कृत्वा, योगी विवेकजं ज्ञानम् - अनेन साधनेन विशेषतः उद्भवत् परमं विवेकज्ञानम् - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 53,
+    "sa": "जातिलक्षणदेशैरन्यतानवच्छेदात् तुल्ययोस्ततः प्रतिपत्तिः",
+    "te": {
+      "s": "జాతి, లక్షణం, దేశం వల్ల వేరుచేయలేని రెండు సమానమైన వస్తువులను కూడా దీని వలన గుర్తించవచ్చు.",
+      "d": "ఈ సూక్ష్మమైన వివేకజ్ఞానం, తుల్యమైన (ఒకేలా కనిపించే, జంటల వంటి) రెండు వస్తువుల మధ్య కూడా ఖచ్చితమైన గుర్తింపును (ప్రతిపత్తి) సాధ్యం చేస్తుంది - సాధారణంగా జాతి (వర్గం), లక్షణం (గుర్తు), దేశం (స్థానం) వంటి వాటి ద్వారా వేరుచేయలేని వస్తువులు కూడా."
+    },
+    "en": {
+      "s": "From that, the recognition of two seemingly identical objects, since they cannot be distinguished by kind, characteristic, or place alone.",
+      "d": "This refined viveka-ja-jñāna allows pratipatti (precise recognition/distinguishing) even between two objects that are tulya (seemingly identical/twins) — objects which cannot be distinguished through ordinary means like jāti (class), lakṣaṇa (mark/feature), or deśa (location), since these too can be identical between them."
+    },
+    "sad": {
+      "s": "जातिलक्षणदेशैः अभेद्ययोः तुल्ययोः अपि ततः पृथक्प्रतिपत्तिः सिद्ध्यति।",
+      "d": "एतत् सूक्ष्मं विवेकजज्ञानम्, तुल्ययोः (समानयोः, यमलयोः इव) द्वयोः वस्तुनोः मध्ये अपि सुनिश्चितां प्रतिपत्तिं (भेदग्रहणम्) साधयति - सामान्यतः जात्या लक्षणेन देशेन वा अभेद्ययोः वस्तुनोः अपि।"
+    }
+  },
+  {
+    "n": 54,
+    "sa": "तारकं सर्वविषयं सर्वथाविषयमक्रमं चेति विवेकजं ज्ञानम्",
+    "te": {
+      "s": "ఈ వివేకజ్ఞానం తారకం (విముక్తి కలిగించేది), సర్వవిషయం, సర్వథావిషయం, అక్రమం (క్రమం లేనిది).",
+      "d": "ఈ అత్యున్నత వివేకజ్ఞానం పూర్తిగా వివరించబడుతుంది - ఇది తారకం (దాటించి విముక్తి కలిగించేది), సర్వవిషయం (అన్ని వస్తువులను ఆవరించేది), సర్వథావిషయం (ఆ వస్తువుల అన్ని కోణాలను ఒకేసారి తెలుసుకునేది), అక్రమం (క్రమంగా కాకుండా, తక్షణమే అన్నీ ఒక్కసారిగా గ్రహించేది)."
+    },
+    "en": {
+      "s": "This discriminative knowledge is liberating, all-encompassing in object, knows all aspects, and is non-sequential.",
+      "d": "This culminating viveka-ja-jñāna is described in full: it is tāraka (liberating, ferrying one across), sarva-viṣaya (encompassing all objects), sarvathā-viṣaya (knowing every aspect/mode of those objects simultaneously), and akrama (not sequential — grasping everything at once, instantaneously, rather than step by step)."
+    },
+    "sad": {
+      "s": "इदं विवेकजं ज्ञानं तारकं सर्वविषयं सर्वथाविषयम् अक्रमं च भवति।",
+      "d": "इदं परमं विवेकजज्ञानं पूर्णतया वर्णितम् - तारकम् (मोक्षदायकम्), सर्वविषयम् (सर्ववस्तुव्यापकम्), सर्वथाविषयम् (तेषां वस्तूनां सर्वान् प्रकारान् युगपत् ज्ञापकम्), अक्रमं (क्रमेण न, अपि तु तत्क्षणं सर्वं ग्राहकम्) च।"
+    }
+  },
+  {
+    "n": 55,
+    "sa": "सत्त्वपुरुषयोः शुद्धिसाम्ये कैवल्यम्",
+    "te": {
+      "s": "సత్త్వం, పురుషుడు సమాన శుద్ధతను పొందినప్పుడు కైవల్యం కలుగుతుంది.",
+      "d": "ఈ అధ్యాయం ఇలా ముగుస్తుంది - సత్త్వం (మనస్సు యొక్క అత్యంత స్వచ్ఛమైన స్థితి), పురుషుడు (సాక్షి) ఇద్దరూ సమానమైన శుద్ధతను (శుద్ధిసామ్యం) చేరుకున్నప్పుడు కైవల్యం (విముక్తి) సిద్ధిస్తుంది - మనస్సు యొక్క స్పష్టత పురుషుని స్వచ్ఛస్వభావాన్ని పరిపూర్ణంగా ప్రతిబింబిస్తుంది."
+    },
+    "en": {
+      "s": "When sattva and puruṣa reach equal purity, liberation occurs.",
+      "d": "The chapter concludes: kaivalya (liberation) occurs when sattva (the mind in its purest, most refined state) reaches śuddhi-sāmya — a parity of purity with puruṣa itself, such that the mind's clarity perfectly mirrors the seer's own untainted nature, dissolving any remaining distinction in function."
+    },
+    "sad": {
+      "s": "सत्त्वपुरुषयोः शुद्धिसाम्ये कैवल्यं सिद्ध्यति।",
+      "d": "अध्यायः इति समाप्यते - सत्त्वस्य (चित्तस्य परमशुद्धावस्थायाः) पुरुषस्य (द्रष्ट्रः) च समानां शुद्धिं (शुद्धिसाम्यम्) प्राप्तयोः सत्योः, कैवल्यं (मोक्षः) सिद्ध्यति - चित्तस्य स्पष्टता पुरुषस्य निर्मलस्वभावं पूर्णतया प्रतिबिम्बयति।"
+    }
+  }
+]

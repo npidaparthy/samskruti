@@ -1,0 +1,40 @@
+{
+  "id": "dharma-059",
+  "tags": [
+    "dharma",
+    "kaama-krodha-tridvara"
+  ],
+  "shlokam": {
+    "te": "త్రివిధం నరకస్యేదం ద్వారం నాశనమాత్మనః ।\nకామః క్రోధస్తథా లోభస్తస్మాదేతత్త్రయం త్యజేత్ ॥",
+    "sa": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥",
+    "iast": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ ।\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (దైవాసురసంపద్విభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Daivāsura Sampad Vibhāga Yoga)",
+    "chapter": "16.21",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "త్రివిధమ్ | నరకస్య | ఇదమ్ | ద్వారమ్ | నాశనమ్ | ఆత్మనః | కామః | క్రోధః | తథా | లోభః | తస్మాత్ | ఏతత్ | త్రయమ్ | త్యజేత్",
+    "en": "trividham | narakasya | idam | dvāram | nāśanam | ātmanaḥ | kāmaḥ | krodhaḥ | tathā | lobhaḥ | tasmāt | etat | trayam | tyajet"
+  },
+  "anvayam": {
+    "te": "ఇదం త్రివిధం నరకస్య ద్వారమ్, ఆత్మనః నాశనమ్ — కామః, క్రోధః తథా లోభః; తస్మాత్ ఏతత్ త్రయం త్యజేత్.",
+    "en": "Idaṃ trividhaṃ (this threefold thing) narakasya dvāram (is the gateway to hell), ātmanaḥ nāśanam (the ruin of the self) — kāmaḥ (desire), krodhaḥ (anger), tathā lobhaḥ (and greed); tasmāt etat trayaṃ tyajet (therefore one should abandon these three)."
+  },
+  "meaning": {
+    "te": "కామం, క్రోధం, లోభం — ఈ మూడూ నరకద్వారాలు, ఆత్మనాశనకారకాలు. కనుక వీటిని విడిచిపెట్టాలి.",
+    "en": "Desire, anger, and greed — these three are the gateways to hell, the ruin of the self. Therefore, one should abandon these three."
+  },
+  "tatparyam": {
+    "te": "మానవపతనానికి మూలకారణమైన మూడు అరిషడ్వర్గాలను ఏకరువు పెట్టి, వాటిని 'నరకద్వారాలు'గా చిత్రించే గీత శ్లోకం. ఈ మూడూ ఒకదాని నుండి మరొకటి పుడతాయని ముందటి అధ్యాయంలో (2.62-63) చూపిన కారణపరంపరను ఇక్కడ సంక్షిప్తంగా పునరుద్ఘాటిస్తుంది — కోరిక తీరకపోతే క్రోధం, క్రోధం లోభానికి దారితీస్తుంది. ఈ మూడింటినీ ఒకేసారి నియంత్రించగలిగితేనే ఆధ్యాత్మిక పతనం నుండి తప్పించుకోగలమని ఈ శ్లోకం స్పష్టం చేస్తుంది — వ్యక్తిగత సాధనలోనూ, సామాజిక సంక్షోభాలలోనూ ఈ మూడు మూలకారణాలుగా నేటికీ ప్రస్తుతమే.",
+    "en": "A Gita verse naming the three inner enemies at the root of human downfall, picturing them as 'the gateways to hell'. It briefly reaffirms the causal chain shown earlier (2.62–63) — that unfulfilled desire breeds anger, and anger breeds greed. This verse makes clear that only by controlling all three together can one escape spiritual downfall — a diagnosis that remains just as relevant today, both in personal practice and in the roots of social conflict."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}
