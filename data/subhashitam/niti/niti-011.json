@@ -1,0 +1,41 @@
+{
+  "id": "niti-011",
+  "tags": [
+    "niti",
+    "udyama",
+    "purushartha"
+  ],
+  "shlokam": {
+    "te": "ఉద్యమేన హి సిధ్యన్తి కార్యాణి న మనోరథైః ।\nన హి సుప్తస్య సింహస్య ప్రవిశన్తి ముఖే మృగాః ॥",
+    "sa": "उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः ।\nन हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः ॥",
+    "iast": "udyamena hi sidhyanti kāryāṇi na manorathaiḥ ।\nna hi suptasya siṃhasya praviśanti mukhe mṛgāḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "హితోపదేశం",
+    "name_en": "Hitopadeśa",
+    "chapter": "Mitralābha 1",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
+  },
+  "padavibhagam": {
+    "te": "ఉద్యమేన | హి | సిధ్యన్తి | కార్యాణి | న | మనోరథైః | న | హి | సుప్తస్య | సింహస్య | ప్రవిశన్తి | ముఖే | మృగాః",
+    "en": "udyamena | hi | sidhyanti | kāryāṇi | na | manorathaih | na | hi | suptasya | siṃhasya | praviśanti | mukhe | mṛgāḥ"
+  },
+  "anvayam": {
+    "te": "కార్యాణి ఉద్యమేన హి సిధ్యన్తి, న తు మనోరథైః; సుప్తస్య సింహస్య ముఖే మృగాః న హి ప్రవిశన్తి — ఇతి దృష్టాన్తః.",
+    "en": "kāryāṇi (tasks) udyamena (by effort) hi (indeed) sidhyanti (are accomplished), na (not) manorathaih (by wishes); suptasya (of a sleeping) siṃhasya (lion's) mukhe (into the mouth) mṛgāḥ (deer) na hi praviśanti (do not enter) — this is the illustration."
+  },
+  "meaning": {
+    "te": "కార్యాలు కేవలం కోరికల వల్ల కాదు, పరిశ్రమ వల్ల సిద్ధిస్తాయి. నిద్రపోయే సింహం నోటిలో మృగాలు ప్రవేశించవు.",
+    "en": "Things are accomplished through effort, not through wishful thinking alone. Prey does not walk into the mouth of a sleeping lion."
+  },
+  "tatparyam": {
+    "te": "ఎంత గొప్ప లక్ష్యం అయినా, కేవలం కలలు కనడం వల్ల నెరవేరదు. చురుకైన కృషి అవసరం. సింహం ఎంత శక్తిమంతుడు అయినా, నిద్రపోతే వేట దొరకదు — అలాగే మానవుడు ఎంత తెలివైనవాడు అయినా, ఉద్యమం లేకుండా విజయం రాదు.",
+    "en": "Even the noblest goal remains a dream without action. A lion, however powerful, does not catch prey while sleeping. Similarly, talent and intelligence without sustained effort lead nowhere. This verse is a timeless call to action over idle aspiration."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

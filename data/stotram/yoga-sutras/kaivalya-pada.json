@@ -1,0 +1,546 @@
+[
+  {
+    "n": 1,
+    "sa": "जन्मौषधिमन्त्रतपस्समाधिजाः सिद्धयः",
+    "te": {
+      "s": "సిద్ధులు జన్మ, ఔషధం, మంత్రం, తపస్సు, సమాధి వల్ల కలుగుతాయి.",
+      "d": "చివరి అధ్యాయాన్ని పతంజలి, అసాధారణ సామర్థ్యాలు (సిద్ధులు) అనేక మూలాల నుండి రాగలవని చెప్పడంతో మొదలుపెడతాడు - జన్మతో సహజంగా, ఔషధాల ద్వారా, మంత్ర జపం ద్వారా, తపస్సు ద్వారా, లేదా సమాధి ద్వారా - కానీ వాటి మూలం ఆధ్యాత్మిక విలువను నిర్ణయించదు."
+    },
+    "en": {
+      "s": "Special powers can arise from birth, herbs, mantra, austerity, or absorption.",
+      "d": "Patanjali opens the final chapter by noting that extraordinary abilities (siddhis) can come from many sources — innate from birth (janma), induced by herbs/substances (auṣadhi), through mantra repetition, through tapas (austerity), or through samādhi (meditative absorption) — but their source doesn't determine spiritual worth."
+    },
+    "sad": {
+      "s": "सिद्धयः जन्मौषधिमन्त्रतपःसमाधिभ्यः जायन्ते।",
+      "d": "अन्तिमः अध्यायः पतञ्जलिना आरभ्यते - असाधारणसामर्थ्याः (सिद्धयः) बहुभ्यः स्रोतोभ्यः उद्भवन्ति - जन्मना सहजतया, औषधिद्रव्यैः, मन्त्रजपेन, तपसा, समाधिना वा - परं तेषां स्रोतः आध्यात्मिकमूल्यं न निर्धारयति।"
+    }
+  },
+  {
+    "n": 2,
+    "sa": "जात्यन्तरपरिणामः प्रकृत्यापूरात्",
+    "te": {
+      "s": "జాత్యంతర పరిణామం ప్రకృతి యొక్క సహజ నింపుదల వల్ల జరుగుతుంది.",
+      "d": "ఒక జాతి నుండి మరో జాతికి మారడం ప్రకృతి యొక్క సహజమైన నింపుదల (ఆపూరం) ద్వారా జరుగుతుంది - విత్తనం సరైన పరిస్థితుల్లో సహజంగా చెట్టుగా మారినట్లు, బాహ్య నిర్మాణం ద్వారా కాదు."
+    },
+    "en": {
+      "s": "Transformation into another species occurs through nature's filling-in process.",
+      "d": "Change into a different jāti (kind/species/state of being) happens through prakṣti-āpūra — the natural unfolding/filling-in of inherent potential, like a seed naturally becoming a tree given the right conditions, not through external manufacture."
+    },
+    "sad": {
+      "s": "जात्यन्तरपरिणामः प्रकृतेः स्वाभाविकापूरणेन भवति।",
+      "d": "एकजातेः अन्यजातिं प्रति परिणामः प्रकृत्याः स्वाभाविकेन आपूरणेन (अन्तर्निहितसामर्थ्यस्य उद्घाटनेन) जायते - यथा बीजं समुचितपरिस्थितौ स्वभावतः वृक्षत्वं प्राप्नोति, न तु बाह्यनिर्माणेन।"
+    }
+  },
+  {
+    "n": 3,
+    "sa": "निमित्तमप्रयोजकं प्रकृतीनां वरणभेदस्तु ततः क्षेत्रिकवत्",
+    "te": {
+      "s": "బాహ్య కారణం ప్రకృతి ప్రక్రియలను నేరుగా ఉత్పన్నం చేయదు; అది అడ్డంకులను తొలగిస్తుంది, వ్యవసాయదారుని వలె.",
+      "d": "ఒక బాహ్య కారణం (నిమిత్తం) ప్రకృతి యొక్క మార్పులను నేరుగా ఉత్పన్నం చేయదు (అప్రయోజకం) - దానికి బదులు, సహజమైన వికాసానికి అడ్డుపడుతున్న అవరోధాలను (వరణభేదం) తొలగిస్తుంది మాత్రమే, ఒక వ్యవసాయదారుడు మొక్కను పెరగమని ఆదేశించడు, పొలాన్ని శుభ్రం చేసి నీరు అందిస్తాడు అన్నట్లు."
+    },
+    "en": {
+      "s": "An external cause is not the direct producer of nature's processes; rather it removes obstacles, like a farmer.",
+      "d": "An external agent/cause (nimitta) doesn't directly create nature's transformations (aprayojaka) — instead it merely removes obstructions (varaṇa-bheda) that were blocking natural unfolding, just as a farmer doesn't make a plant grow but clears the field and channels water for it."
+    },
+    "sad": {
+      "s": "निमित्तं प्रकृतेः परिणामं न उत्पादयति, अपि तु आवरणं भिनत्ति, कृषीवलवत्।",
+      "d": "बाह्यं कारणं (निमित्तम्) प्रकृतेः परिणामं साक्षात् न जनयति (अप्रयोजकम्) - तत् केवलं स्वाभाविकविकासं अवरुन्धत् आवरणं (वरणभेदम्) अपनयति, यथा कृषीवलः वृक्षं वर्धयति न, क्षेत्रं शोधयति जलं च प्रवाहयति।"
+    }
+  },
+  {
+    "n": 4,
+    "sa": "निर्माणचित्तान्यस्मितामात्रात्",
+    "te": {
+      "s": "సృష్టించబడిన మనస్సులు అస్మిత (అహంకారం) నుండి మాత్రమే ఉద్భవిస్తాయి.",
+      "d": "నైపుణ్యం ద్వారా, సాధకుడు ప్రత్యేక కార్యాల కోసం సహాయక మనోప్రవాహాలను (నిర్మాణ చిత్తాలు) సృష్టించగలడు, ఇవి కేవలం అస్మిత (అహంకార తత్త్వం) నుండే ఉద్భవిస్తాయి - ఇవి స్వతంత్ర జీవులు కాదు, అస్తిత్వపు ప్రతిబింబాలు మాత్రమే."
+    },
+    "en": {
+      "s": "Created minds arise from the I-sense alone.",
+      "d": "Through mastery, a practitioner can generate auxiliary mind-streams (nirmāṇa-citta) for specific functions, and these arise purely from asmitā (the ego-principle/I-sense) — they are projections of identity, not independent beings."
+    },
+    "sad": {
+      "s": "निर्माणचित्तानि अस्मितामात्रात् एव उद्भवन्ति।",
+      "d": "प्रावीण्येन साधकः विशिष्टकार्यार्थं सहायकचित्तप्रवाहान् (निर्माणचित्तानि) उत्पादयितुं शक्नोति, एतानि च केवलं अस्मितातत्त्वात् (अहङ्कारात्) एव उद्भवन्ति - न एतानि स्वतन्त्राणि जीवानि, अपि तु अस्तित्वस्य प्रतिबिम्बानि एव।"
+    }
+  },
+  {
+    "n": 5,
+    "sa": "प्रवृत्तिभेदे प्रयोजकं चित्तमेकमनेकेषाम्",
+    "te": {
+      "s": "అనేక చర్యల్లో, ఒక మనస్సు అనేకమైనవాటిని నడిపిస్తుంది.",
+      "d": "అనేక సృష్టించబడిన మనస్సులు వివిధ చర్యల్లో (ప్రవృత్తిభేదం) నిమగ్నమైనా, వాటన్నింటినీ నియంత్రించే, సమన్వయపరచే ఒక ప్రధాన నిర్దేశక చిత్తం (ప్రయోజకం) ఉంటుంది."
+    },
+    "en": {
+      "s": "Amid varied activities, one mind directs many.",
+      "d": "Even when there are many created minds engaged in diverse activities (pravṣtti-bheda), there remains one primary directing citta (prayojaka) that governs/coordinates all of them."
+    },
+    "sad": {
+      "s": "प्रवृत्तिभेदेऽपि एकं प्रयोजकं चित्तं अनेकानि नियमयति।",
+      "d": "यद्यपि अनेकानि निर्माणचित्तानि विविधप्रवृत्तिषु (प्रवृत्तिभेदे) निरताः भवन्ति, तथापि तानि सर्वाणि नियमयत् समन्वयं कुर्वत् एकं प्रधानं प्रयोजकं चित्तं तिष्ठति।"
+    }
+  },
+  {
+    "n": 6,
+    "sa": "तत्र ध्यानजमनाशयम्",
+    "te": {
+      "s": "వీటిలో, ధ్యానం వల్ల పుట్టిన మనస్సు సంస్కార రహితంగా ఉంటుంది.",
+      "d": "వివిధ సృష్టించబడిన మనస్సుల్లో, ధ్యానం నుండి పుట్టినది అనాశయం - కర్మ నిల్వలు, సంస్కారాలు లేనిది, ఎందుకంటే ఇది బలవంతపు అలవాటు నుండి కాకుండా స్పష్టత నుండి పనిచేస్తుంది."
+    },
+    "en": {
+      "s": "Among these, the mind born of meditation is without latent residue.",
+      "d": "Among the various created minds, the one born specifically from dhyāna (meditation) is anāśaya — free from karmic deposits/latent impressions, because it functions from clarity rather than compulsive habit."
+    },
+    "sad": {
+      "s": "तत्र ध्यानजं चित्तं अनाशयं (संस्काररहितं) भवति।",
+      "d": "विविधेषु निर्माणचित्तेषु, ध्यानात् जातं चित्तं अनाशयं भवति - कर्मनिक्षेपरहितम्, यतः तत् बलात्कारिताभ्यासात् न, अपि तु स्पष्टतायाः एव कार्यं करोति।"
+    }
+  },
+  {
+    "n": 7,
+    "sa": "कर्माशुक्लाकृष्णं योगिनः त्रिविधमितरेषाम्",
+    "te": {
+      "s": "యోగి కర్మ తెలుపు, నలుపు రెండూ కాదు; ఇతరులకు అది మూడు రకాలు.",
+      "d": "సాధారణ వ్యక్తికి కర్మ మూడు రకాలు - శుక్లం (తెలుపు/పుణ్యకరం), కృష్ణం (నలుపు/పాపకరం), లేదా మిశ్రమం. కానీ యోగి యొక్క కర్మ అశుక్లాకృష్ణం - ఏదీ కాదు, ఎందుకంటే అది ఇకపై కోరిక, అహంకారం వల్ల నడవదు, కాబట్టి సాధారణ రీతిలో బంధించదు."
+    },
+    "en": {
+      "s": "The yogi's action is neither white nor black; for others it is threefold.",
+      "d": "For an ordinary person, karma is threefold — śukla (white/virtuous, producing merit), kṣṇa (black/non-virtuous, producing demerit), or mixed. The yogi's action, however, is a-śukla-a-kṣṇa — neither, because it is no longer driven by craving or ego, and so does not bind in the usual way."
+    },
+    "sad": {
+      "s": "योगिनः कर्म अशुक्लाकृष्णं, इतरेषां तु त्रिविधं भवति।",
+      "d": "सामान्यजनस्य कर्म त्रिविधं - शुक्लं (पुण्यकरम्), कृष्णं (पापकरम्), मिश्रं वा। योगिनः कर्म तु अशुक्लाकृष्णं - न किमपि, यतः तत् पुनः आसक्त्यहङ्काराभ्यां न प्रवर्तते, अतः सामान्यरीत्या न बन्धयति।"
+    }
+  },
+  {
+    "n": 8,
+    "sa": "ततस्तद्विपाकानुगुणानामेवाभिव्यक्तिर्वासनानाम्",
+    "te": {
+      "s": "కర్మ పరిపక్వతకు సరిపోయే వాసనలు మాత్రమే వ్యక్తమవుతాయి.",
+      "d": "ఈ కర్మ నిర్మాణం వల్ల, ప్రస్తుతం పరిపక్వమవుతున్న కర్మకు సరిపోయే వాసనలు (అలవాటు బీజాలు) మాత్రమే చురుకుగా వ్యక్తమవుతాయి - అన్ని వాసనలు ఒకేసారి చురుకు కావు."
+    },
+    "en": {
+      "s": "Therefore, only those latent tendencies that match the ripening of karma manifest.",
+      "d": "As a result of this karmic structure, only those vāsanās (latent tendencies/habit-seeds) that correspond (anuguṇa) to the particular karma now ripening (vipāka) come into active expression (abhivyakti) — not all tendencies activate at once."
+    },
+    "sad": {
+      "s": "तस्मात् वर्तमानविपाकानुगुणाः वासनाः एव अभिव्यक्ताः भवन्ति।",
+      "d": "एतस्य कर्मसंरचनस्य फलरूपेण, सम्प्रति परिपक्वस्य कर्मणः अनुगुणाः (तत्सदृशाः) वासनाः (अभ्याससंस्काराः) एव सक्रियतया अभिव्यक्ताः भवन्ति - न सर्वाः वासनाः युगपत् सक्रियाः भवन्ति।"
+    }
+  },
+  {
+    "n": 9,
+    "sa": "जातिदेशकालव्यवहितानामप्यानन्तर्यं स्मृतिसंस्कारयोरेकरूपत्वात्",
+    "te": {
+      "s": "జన్మ, దేశం, కాలం వేరైనా, స్మృతి, సంస్కారాలు ఒకే స్వభావం కలవి కావడం వల్ల కొనసాగింపు ఉంటుంది.",
+      "d": "జన్మ, దేశం, కాలం వేర్వేరుగా ఉన్నా (వ్యవహితం), కారణ-కార్యాల మధ్య విడిపోని కొనసాగింపు (ఆనంతర్యం) ఉంటుంది - ఎందుకంటే స్మృతి (జ్ఞాపకం), సంస్కారం (అలవాటు బీజం) ఒకే అంతర్లీన స్వభావం కలవి (ఏకరూపత్వం), దీనివల్ల పాత సంస్కారాలు పూర్తిగా కొత్త సందర్భాల్లో కూడా తిరిగి ఉద్భవించగలవు."
+    },
+    "en": {
+      "s": "Even when separated by birth, place, and time, continuity persists because memory and impression share the same nature.",
+      "d": "Even across vast gaps of jāti (different births), deśa (place), and kāla (time), there is ānantarya — unbroken continuity between cause and effect — because smṣti (memory) and saṁskāra (latent impression) share the same essential nature (eka-rūpatva), allowing old impressions to resurface in entirely new contexts."
+    },
+    "sad": {
+      "s": "जातिदेशकालव्यवहितानामपि स्मृतिसंस्कारयोः एकरूपत्वात् अविच्छिन्नता भवति।",
+      "d": "जात्या देशेन कालेन च व्यवहितानामपि (पृथक्कृतानामपि) कारणकार्ययोः मध्ये अविच्छिन्ना सन्ततिः (आनन्तर्यम्) वर्तते - यतः स्मृतिः संस्कारः च एकरूपस्वभावं (समानमूलतत्त्वं) धारयतः, येन पुरातनाः संस्काराः सर्वथा नूतनेषु सन्दर्भेषु अपि पुनः उद्भवन्ति।"
+    }
+  },
+  {
+    "n": 10,
+    "sa": "तासामनादित्वं चाशिषो नित्यत्वात्",
+    "te": {
+      "s": "ఆశిష్యం (జీవించాలనే కోరిక) నిత్యం కావడం వల్ల ఇవి అనాదిగా ఉంటాయి.",
+      "d": "ఈ వాసనలకు కనుగొనగలిగే ప్రారంభం లేదు (అనాదిత్వం) - ఎందుకంటే ఆశిష్ (జీవించాలనే, కొనసాగాలనే మౌలిక కోరిక) నిత్యమైనది (నిత్యత్వం), ఇది ఎల్లప్పుడూ కొత్త సంస్కారాలను సృష్టిస్తూనే ఉండే నిరంతర శక్తి."
+    },
+    "en": {
+      "s": "And these are beginningless, because the will-to-live is eternal.",
+      "d": "These vāsanās are anāditva — without a discoverable beginning — because āśis (the fundamental desire/will to continue existing) is nityatva — perpetual, an ongoing force that has always been generating new impressions."
+    },
+    "sad": {
+      "s": "आशिषः नित्यत्वात् वासनानां अनादित्वं सिद्ध्यति।",
+      "d": "एताः वासनाः अनादित्वं (अन्वेषणीयं आरम्भं विना) धारयन्ति - यतः आशिः (जीविष्यामि इति मूलभूता इच्छा) नित्यत्वेन (निरन्तरत्वेन) वर्तते, सा च सर्वदा नूतनसंस्काराणि जनयन्ती शक्तिः।"
+    }
+  },
+  {
+    "n": 11,
+    "sa": "हेतुफलाश्रयालम्बनैः संगृहीतत्वादेषामभावे तदभावः",
+    "te": {
+      "s": "హేతువు, ఫలం, ఆశ్రయం, ఆలంబనం ద్వారా అవి నిలబడతాయి; ఇవి లేకుంటే వాసనలు కూడా ఉండవు.",
+      "d": "వాసనలు నాలుగు అంశాల ద్వారా నిలబడతాయి (సంగృహీతం) - హేతువు (కారణం), ఫలం (ఫలితం/ప్రతిఫలం), ఆశ్రయం (ఆధారం), ఆలంబనం (వస్తువు) - ఈ నాలుగు లేనప్పుడు, వాసన కూడా ఉండదు."
+    },
+    "en": {
+      "s": "Since they are held together by cause, effect, support, and object, their absence in those leads to their own absence.",
+      "d": "Vāsanās are saṁgṣhīta (held in place/sustained) by four factors — hetu (cause), phala (result/reward), āśraya (support/substrate), and ālambana (object) — and when these four are absent, the vāsanā itself ceases to exist."
+    },
+    "sad": {
+      "s": "हेतुफलाश्रयालम्बनैः संगृहीतानां वासनानां, एतेषाम् अभावे तदभावः भवति।",
+      "d": "वासनाः चतुर्भिः अंशैः धृताः (संगृहीताः) तिष्ठन्ति - हेतुना, फलेन, आश्रयेण, आलम्बनेन च - एतेषु चतुर्षु अभावे, वासना अपि न तिष्ठति।"
+    }
+  },
+  {
+    "n": 12,
+    "sa": "अतीतानागतं स्वरूपतोऽस्त्यध्वभेदाद्धर्माणाम्",
+    "te": {
+      "s": "గతం, భవిష్యత్తు తమ స్వరూపంలో ఉన్నాయి, తేడా ధర్మాల కాలమార్గంలోనే.",
+      "d": "గతం (అతీతం), భవిష్యత్తు (అనాగతం) తమ స్వంత స్వరూపంలో (స్వరూపతః) నిజంగా ఉనికిలో ఉంటాయి (అస్తి), వాటి మధ్య తేడా కేవలం అధ్వభేదం - ధర్మం (గుణం) ఏ కాలమార్గంలో ఉందో అనే దానిలోనే ఉంటుంది."
+    },
+    "en": {
+      "s": "The past and future exist in their own form, the difference being in the time-path of the qualities.",
+      "d": "Past (atīta) and future (anāgata) genuinely exist (asti) in their own essential form (svarūpataḥ), with the difference between them being merely adhva-bheda — a difference in the time-path/phase that the dharma (quality/property) is currently occupying."
+    },
+    "sad": {
+      "s": "अतीतानागतं स्वरूपतः अस्ति, भेदः तु धर्माणां अध्वभेदे एव।",
+      "d": "अतीतम् अनागतं च स्वकीये स्वरूपे (स्वरूपतः) सत्यतया विद्यते (अस्ति), तयोः भेदः केवलं अध्वभेदः - धर्मः (गुणः) कस्मिन् कालपथे सम्प्रति वर्तते इति एव।"
+    }
+  },
+  {
+    "n": 13,
+    "sa": "ते व्यक्तसूक्ष्माः गुणात्मानः",
+    "te": {
+      "s": "ఇవి వ్యక్తం లేదా సూక్ష్మంగా ఉంటాయి, గుణాల స్వభావం కలిగినవి.",
+      "d": "ఈ ధర్మాలు (గతం, వర్తమానం, భవిష్యత్తు ఏదైనా) వ్యక్తంగా (కనిపించేవిగా) లేదా సూక్ష్మంగా (నిద్రాణంగా) ఉండవచ్చు, కానీ రెండు సందర్భాల్లోనూ ఇవి గుణాత్మకమైనవే - మూడు గుణాల (సత్వ, రజో, తమో) తో నిర్మించబడినవి."
+    },
+    "en": {
+      "s": "These (states) are manifest or subtle, made of the nature of the guṇas.",
+      "d": "These dharmas (whether past, present, or future) exist either vyakta (manifest/visible) or sūkṣma (subtle/latent), but in both cases they are guṇa-ātmānaḥ — essentially constituted by the three guṇas of prakṣti."
+    },
+    "sad": {
+      "s": "ते (धर्माः) व्यक्ताः सूक्ष्माः वा, गुणात्मकाः एव भवन्ति।",
+      "d": "एते धर्माः (अतीतवर्तमानानागताः) व्यक्ततया (दृश्यतया) सूक्ष्मतया (सुप्ततया) वा भवेयुः, परं उभयत्रापि ते गुणात्मकाः एव - त्रिगुणैः (सत्त्वरजस्तमोभिः) निर्मिताः।"
+    }
+  },
+  {
+    "n": 14,
+    "sa": "परिणामैकत्वात् वस्तुतत्त्वम्",
+    "te": {
+      "s": "వస్తువు యొక్క వాస్తవికత దాని పరిణామాల ఏకత్వంపై ఆధారపడి ఉంటుంది.",
+      "d": "ఏదైనా వస్తువు యొక్క నిజమైన అస్తిత్వం (తత్త్వం) దాని పరిణామాల క్రమంలో ఉండే అంతర్లీన ఏకత్వంపై (పరిణామైకత్వం) ఆధారపడి ఉంటుంది, అది దృశ్యమానంగా ఒక దశ నుండి మరో దశకు మారినా."
+    },
+    "en": {
+      "s": "The reality of a thing rests on the unity of its transformations.",
+      "d": "The tattva (true substantial reality) of any vastu (object) rests on pariṇāma-ekatva — the underlying unity/coherence of its sequence of transformations, even as it visibly changes from one phase to another."
+    },
+    "sad": {
+      "s": "वस्तुनः तत्त्वं परिणामैकत्वे एव अवस्थितम्।",
+      "d": "कस्यापि वस्तुनः यथार्थम् अस्तित्वं (तत्त्वम्) तस्य परिणामक्रमस्य अन्तर्निहितैकत्वे (परिणामैकत्वे) अवस्थितं भवति, यद्यपि तत् दृश्यतया एकावस्थातः अन्यावस्थां प्रति परिणमति।"
+    }
+  },
+  {
+    "n": 15,
+    "sa": "वस्तुसाम्ये चित्तभेदात्तयोर्विभक्तः पन्थाः",
+    "te": {
+      "s": "ఒకే వస్తువు ఉన్నా, మనస్సుల తేడా వల్ల అనుభవ మార్గాలు వేరుగా ఉంటాయి.",
+      "d": "ఇద్దరికీ వస్తువు ఒకటే (సామ్యం) అయినా, వారి మనస్సుల్లో తేడా (చిత్తభేదం) - సంస్కారం, దృష్టికోణం, శ్రద్ధలో - ఉండటం వల్ల, ప్రతి ఒక్కరి అనుభవ మార్గం (పంథా) పూర్తిగా వేరుగా ఉంటుంది."
+    },
+    "en": {
+      "s": "Even with the same object, because minds differ, their paths diverge.",
+      "d": "Even when the object (vastu) is the same for two observers (sāmya), because their minds (citta) differ (bheda) — in conditioning, perspective, attention — the resulting paths of experience (panthāḥ) for each diverge completely."
+    },
+    "sad": {
+      "s": "वस्तुनः सामान्ये अपि चित्तभेदात् तयोः अनुभवपथौ भिन्नौ भवतः।",
+      "d": "द्वयोः द्रष्टारौ कृते वस्तु समानम् (साम्यम्) अस्ति चेदपि, तयोः चित्तयोः भेदात् (संस्कारदृष्टिकोणावधानभेदात्) प्रत्येकस्य अनुभवपन्थाः (पथः) सर्वथा भिन्नः भवति।"
+    }
+  },
+  {
+    "n": 16,
+    "sa": "न चैकचित्ततन्त्रं वस्तु तत्प्रमाणकं तदा किं स्यात्",
+    "te": {
+      "s": "వస్తువు ఒక్క మనస్సుపై ఆధారపడదు; ఆ మనస్సు లేనప్పుడు దాన్ని ఏది నిరూపిస్తుంది?",
+      "d": "ఒక వస్తువు ఉనికి ఒక్క మనస్సుపై మాత్రమే ఆధారపడి ఉండదు - అలా ఉంటే, ఆ నిర్దిష్ట మనస్సు దాన్ని గ్రహించనప్పుడు దాన్ని ఏది నిరూపిస్తుంది (ప్రమాణకం)? ఇది పూర్తి మానసిక భావవాదానికి వ్యతిరేకంగా వాదిస్తుంది."
+    },
+    "en": {
+      "s": "An object does not depend on a single mind; what would prove it otherwise, when that mind is absent?",
+      "d": "An object's existence is na eka-citta-tantra — not dependent on any single mind alone, since if it were, what would establish (pramāṇaka) its existence when that particular mind is not perceiving it? This argues against pure mental-idealism."
+    },
+    "sad": {
+      "s": "वस्तु एकचित्ततन्त्रं न भवति; तदभावे तत् केन प्रमाणीकृतं स्यात्?",
+      "d": "वस्तुनः अस्तित्वं एकस्मिन् एव चित्ते आधारितं (एकचित्ततन्त्रम्) न भवति - यदि स्यात्, तस्मिन् विशिष्टे चित्ते अग्राह्ये सति, तत् केन प्रमाणीकृतं (निर्धारितं) स्यात्? एतेन शुद्धमानसभाववादः निरस्तः।"
+    }
+  },
+  {
+    "n": 17,
+    "sa": "तदुपरागापेक्षित्वात् चित्तस्य वस्तुज्ञाताज्ञातम्",
+    "te": {
+      "s": "వస్తువు తెలిసినదా, తెలియనిదా అనేది మనస్సు దానితో అనుసంధానం కావడంపై ఆధారపడి ఉంటుంది.",
+      "d": "ఒక వస్తువు తెలిసినదా (జ్ఞాతం) లేదా తెలియనిదా (అజ్ఞాతం) అనేది మనస్సు ఆ వస్తువుతో సంబంధం (ఉపరాగం) పొందాల్సిన అవసరంపై ఆధారపడి ఉంటుంది - ఈ అనుసంధానం లేకపోతే, వస్తువు ఉన్నా కూడా తెలియనిదిగానే ఉంటుంది."
+    },
+    "en": {
+      "s": "An object is known or unknown depending on the mind's coloring by it.",
+      "d": "Whether an object is jñāta (known) or ajñāta (unknown) depends on upa-rāga-apekṣitva — the mind's need to be \"colored\" or affected by contact with that object; without this engagement, the object remains effectively unknown even if present."
+    },
+    "sad": {
+      "s": "चित्तस्य उपरागापेक्षायां वस्तु ज्ञातम् अज्ञातं वा भवति।",
+      "d": "वस्तु ज्ञातं (बोधितम्) अज्ञातं (अबोधितम्) वा भवति, चित्तस्य तेन वस्तुना उपरागं (सम्बन्धम्) प्राप्तुम् अपेक्षायाम् - एतत् सम्बन्धं विना, वस्तु विद्यमानमपि अज्ञातमेव तिष्ठति।"
+    }
+  },
+  {
+    "n": 18,
+    "sa": "सदा ज्ञाताः चित्तवृत्तयः तत्प्रभोः पुरुषस्यापरिणामित्वात्",
+    "te": {
+      "s": "చిత్తం యొక్క చర్యలు ఆ ప్రభువైన పురుషునికి ఎల్లప్పుడూ తెలుసు, ఎందుకంటే అతడు మారడు.",
+      "d": "చిత్తం యొక్క చర్యలు (వృత్తులు) ఎల్లప్పుడూ తెలిసినవే (సదా జ్ఞాతాలు) - వాటి ప్రభువైన పురుషునికి (సాక్షికి), ఎందుకంటే పురుషుడు అపరిణామి - మారనివాడు, నిరంతరం సాక్షిగా ఉండేవాడు."
+    },
+    "en": {
+      "s": "The mind's movements are always known to that master, the seer, because of its unchangingness.",
+      "d": "The fluctuations of citta (mind) are sadā jñātāḥ — always known — by their prabhu (master/lord), the puruṣa (seer), precisely because puruṣa is a-pariṇāmin — unchanging, always present as the constant witness."
+    },
+    "sad": {
+      "s": "चित्तवृत्तयः सर्वदा तत्प्रभोः पुरुषस्य ज्ञाताः, तस्य अपरिणामित्वात्।",
+      "d": "चित्तस्य वृत्तयः सर्वदा ज्ञाताः (बोधिताः) भवन्ति तस्य प्रभुणा, पुरुषेण (द्रष्ट्रा) - यतः पुरुषः अपरिणामी (अपरिवर्तनशीलः), सततं साक्षीभूतः तिष्ठति।"
+    }
+  },
+  {
+    "n": 19,
+    "sa": "न तत्स्वाभासं दृश्यत्वात्",
+    "te": {
+      "s": "చిత్తం స్వయం ప్రకాశించదు, ఎందుకంటే అది చూడబడే వస్తువు.",
+      "d": "చిత్తం తనకు తానుగా ప్రకాశించదు (స్వాభాసం కాదు) - ఎందుకంటే అది దృశ్యం (మరొకటి దానిని చూసే/తెలుసుకునే వస్తువు), మరియు చూడబడేది తన స్వంత కాంతికి స్వతంత్ర మూలం కాలేదు."
+    },
+    "en": {
+      "s": "That (mind) is not self-illuminating, since it is an object that is seen.",
+      "d": "The citta itself is na sva-ābhāsam — not self-luminous — precisely because it is dṣśya (an object that is seen/known by something else), and what is seen cannot also be the independent source of its own light."
+    },
+    "sad": {
+      "s": "चित्तं स्वाभासं न भवति, यतः तत् दृश्यम् अस्ति।",
+      "d": "चित्तं स्वयं प्रकाशते न (स्वाभासं न) - यतः तत् दृश्यम् (अन्येन ज्ञेयं वस्तु) अस्ति, ज्ञेयं च स्वकीयप्रकाशस्य स्वतन्त्रः स्रोतः भवितुं न शक्नोति।"
+    }
+  },
+  {
+    "n": 20,
+    "sa": "एकसमये चोभयानवधारणम्",
+    "te": {
+      "s": "ఒక్క క్షణంలో రెండింటినీ (మనస్సు, దాని వస్తువు) ఏకకాలంలో నిర్ధారించలేరు.",
+      "d": "ఒక్క క్షణంలో, చిత్తం తనను (విషయిగా), దాని వస్తువును - రెండింటినీ ఒకేసారి పూర్తిగా గ్రహించలేదు (అనవధారణం) - శ్రద్ధ సహజంగా ఒకేసారి ఒక్క రూపాన్నే తీసుకుంటుంది, బాహ్యంగా లేదా అంతర్ముఖంగా, రెండూ కాదు."
+    },
+    "en": {
+      "s": "At one time, both (mind and its object) cannot be ascertained together.",
+      "d": "At a single moment (eka-samaye), the mind cannot fully grasp/determine (anavadhāraṇa) both itself (as subject) and its object simultaneously — attention naturally takes one form at a time, either outward or inward, not both fully at once."
+    },
+    "sad": {
+      "s": "एकसमये उभयं (चित्तं तद्विषयं च) न अवधार्यते।",
+      "d": "एकस्मिन् क्षणे चित्तं स्वयं (विषयित्वेन) तद्विषयं च - उभयं युगपत् पूर्णतया ग्रहीतुं न शक्नोति (अनवधारणम्) - अवधानं स्वभावतः एकवारेण एकमेव रूपं धारयति, बाह्यं वा अन्तर्मुखं वा, न उभयम्।"
+    }
+  },
+  {
+    "n": 21,
+    "sa": "चित्तान्तरदृश्ये बुद्धिबुद्धेरतिप्रसङ्गः स्मृतिसङ्करश्च",
+    "te": {
+      "s": "ఒక మనస్సును మరో మనస్సు చూస్తే, బుద్ధుల అనంత పరంపర, స్మృతి గందరగోళం కలుగుతాయి.",
+      "d": "ఒక చిత్తాన్ని మరో చిత్తం (బుద్ధికి బుద్ధి) చూడాల్సి వస్తే, ఇది అతిప్రసంగానికి - అసంబద్ధమైన అనంత పరంపరకు (మనస్సు మనస్సును చూడటం, అదే మనస్సును మరో మనస్సు చూడటం, అంతం లేకుండా) దారితీస్తుంది, స్మృతిసంకరానికి - ఈ గుణిస్తున్న మనస్సుల మధ్య జ్ఞాపకాల నిరాశాజనక గందరగోళానికి దారితీస్తుంది."
+    },
+    "en": {
+      "s": "If a mind were seen by another mind, there would be infinite regress of intellects and confusion of memory.",
+      "d": "If one citta needed to be perceived (dṣśye) by another citta (buddhi-buddheḥ, an \"intellect of the intellect\"), this would lead to ati-prasaṅga — an absurd infinite regress (mind-knowing-mind-knowing-mind, endlessly) — and smṣti-saṁkara, a hopeless confusion of memories across these multiplying minds."
+    },
+    "sad": {
+      "s": "चित्तान्तरेण चित्तस्य दर्शने बुद्धेः अतिप्रसङ्गः स्मृतिसङ्करः च स्यात्।",
+      "d": "यदि एकं चित्तं अन्यचित्तेन (बुद्धिबुद्ध्या) ज्ञेयं स्यात्, तदा अतिप्रसङ्गः - असङ्गतः अनन्तपरम्परा (चित्तं चित्तं पश्यति, तदपि अन्यं पश्यति, इत्यनन्तम्) - स्मृतिसङ्करः च - एतेषु वर्धमानेषु चित्तेषु स्मृतीनां निराशाजनकं मिश्रणं - उत्पद्येत।"
+    }
+  },
+  {
+    "n": 22,
+    "sa": "चितेरप्रतिसंक्रमायाः तदाकारापत्तौ स्वबुद्धिसंवेदनम्",
+    "te": {
+      "s": "చైతన్యం బయటకు ప్రవహించదు; దాని రూపాన్ని తాల్చడం వల్లనే మనస్సుకు స్వీయ అవగాహన కలుగుతుంది.",
+      "d": "చితి (శుద్ధ చైతన్యం) వాస్తవంగా బయటకు ప్రవహించదు, వస్తువుల్లోకి సంక్రమించదు (అప్రతిసంక్రమ) - బదులుగా, బుద్ధి (మనస్సు) ఆ ప్రకాశం యొక్క రూపాన్ని తాల్చినప్పుడు (తదాకారాపత్తి), దానికి స్వీయ అవగాహన (స్వబుద్ధిసంవేదనం) కలుగుతుంది, లోపలి నుండి ప్రకాశించినట్లుగా."
+    },
+    "en": {
+      "s": "Since pure consciousness does not transfer outward, the mind's own awareness comes from taking on its form.",
+      "d": "Citi (pure consciousness) is a-prati-saṁkramā — it does not actually move or transfer into objects; rather, when the buddhi (mind/intellect) takes on the form/likeness of that illumination (tad-ākāra-āpatti), it gains sva-buddhi-saṁvedanam — awareness of its own states, as if lit up from within."
+    },
+    "sad": {
+      "s": "चितेः अप्रतिसंक्रमणात्, बुद्ध्या तदाकारग्रहणे स्वसंवेदनं जायते।",
+      "d": "चितिः (शुद्धचैतन्यम्) वास्तवतः बाह्यं न प्रवहति, वस्तुनि न संक्रामति (अप्रतिसंक्रमा) - बुद्धिः तस्य प्रकाशस्य आकारं यदा ग्रहीतुं आपद्यते (तदाकारापत्तौ), तदा तस्याः स्वबुद्धिसंवेदनं (स्वावस्थाबोधः) जायते, अन्तःप्रकाशितमिव।"
+    }
+  },
+  {
+    "n": 23,
+    "sa": "द्रष्टृदृश्योपरक्तं चित्तं सर्वार्थम्",
+    "te": {
+      "s": "ద్రష్ట, దృశ్యం రెండింటి ద్వారా ప్రభావితమైన చిత్తం, అన్ని విషయాలను అర్థం చేసుకోగలదు.",
+      "d": "చిత్తం, ద్రష్ట (సాక్షి), దృశ్యం (వస్తువు) రెండింటి ద్వారా ప్రభావితమై (ఉపరక్తం), సర్వార్థం - అన్ని వస్తువులు, ఉద్దేశాలను అర్థం చేసుకోగలిగే స్థితికి చేరుతుంది, చైతన్యం-ప్రపంచం మధ్య కలిసే అంతర్ముఖంగా పనిచేస్తుంది."
+    },
+    "en": {
+      "s": "The mind, colored by both the seer and the seen, comprehends all purposes.",
+      "d": "Citta, being uparakta (colored/tinged) by both draṣṣtṣ (the seer) and dṣśya (the seen object), becomes sarva-artham — capable of comprehending all objects and purposes, serving as the meeting-point/interface between consciousness and world."
+    },
+    "sad": {
+      "s": "द्रष्टृदृश्योपरक्तं चित्तं सर्वार्थग्राहकं भवति।",
+      "d": "चित्तं द्रष्ट्रा (साक्षिणा) दृश्येन (वस्तुना) च उपरक्तं (रञ्जितं) भूत्वा, सर्वार्थं - सर्ववस्तूनि उद्देश्यानि च ग्रहीतुं समर्थं - भवति, चैतन्यजगतोः मध्ये सेतुरूपेण कार्यं करोति।"
+    }
+  },
+  {
+    "n": 24,
+    "sa": "तदसंख्येयवासनाभिः चित्रमपि परार्थं संहत्यकारित्वात्",
+    "te": {
+      "s": "అసంఖ్యాకమైన వాసనలతో సంక్లిష్టమైనా, చిత్తం పరార్థమే, ఎందుకంటే ఇది ఒక సమిష్టి సాధనంగా పనిచేస్తుంది.",
+      "d": "చిత్తం అసంఖ్యాకమైన వాసనలతో (అలవాటు బీజాలతో) చిత్రమైనది (సంక్లిష్టమైనది) అయినా, అది పరార్థం - పురుషుని కోసమే ఉనికిలో ఉంటుంది - ఎందుకంటే ఇది సంహత్యకారిత్వంతో, ఒక సమన్వయ సాధనంగా పనిచేస్తుంది, స్వతంత్ర లక్ష్యంగా కాదు."
+    },
+    "en": {
+      "s": "Though variegated with countless tendencies, it exists for another's sake, since it functions as a combined instrument.",
+      "d": "Even though citta is citra (intricately complex/variegated) with asaṁkhyeya vāsanā (countless latent tendencies), it remains para-artha — existing for the sake of another (puruṣa) — because it operates saṁhatya-kāritva, as a coordinated, combined instrument rather than an independent end in itself."
+    },
+    "sad": {
+      "s": "असंख्येयवासनाभिः चित्रमपि चित्तं संहत्यकारित्वात् परार्थम् एव।",
+      "d": "चित्तं असंख्येयैः वासनाभिः (अभ्याससंस्कारैः) चित्रम् (अतिसंक्लिष्टम्) अस्ति चेदपि, तत् परार्थम् - पुरुषार्थम् एव - तिष्ठति, यतः तत् संहत्यकारित्वेन (समन्वितसाधनत्वेन) कार्यं करोति, न स्वतन्त्रलक्ष्यत्वेन।"
+    }
+  },
+  {
+    "n": 25,
+    "sa": "विशेषदर्शिनः आत्मभावभावनानिवृत्तिः",
+    "te": {
+      "s": "భేదాన్ని చూసే వ్యక్తికి, ఆత్మభావనను పెంచుకునే అలవాటు ఆగిపోతుంది.",
+      "d": "విశేషదర్శి - పురుషుడు, చిత్తాల మధ్య భేదాన్ని స్పష్టంగా చూసేవానికి - ఆత్మభావన (మానసిక స్థితులతో తనను ఏకం చేసుకునే) అలవాటు (భావన) పూర్తిగా ఆగిపోతుంది (నివృత్తి); అనుభవం కొనసాగుతుంది, కానీ బలవంతపు \"నేను ఇదే\" అనే ప్రతిచర్య ఆగిపోతుంది."
+    },
+    "en": {
+      "s": "For one who perceives the distinction, the habitual cultivation of self-identification ceases.",
+      "d": "For the viśeṣa-darśin — one who clearly perceives the distinction between puruṣa and citta — the habitual cultivation (bhāvanā) of ātma-bhāva (self-identification with mental states) comes to nivṣtti — a complete cessation; experience continues, but the compulsive \"I am this\" reflex stops."
+    },
+    "sad": {
+      "s": "विशेषदर्शिनः आत्मभावभावना सम्पूर्णतया निवर्तते।",
+      "d": "विशेषदर्शी - पुरुषचित्तयोः भेदं स्पष्टतया पश्यन् - तस्य आत्मभावभावना (मानसावस्थाभिः आत्मैकीकरणाभ्यासः) सम्पूर्णतया निवृत्ता भवति (निवृत्तिः); अनुभवः चलति, परं बलात्कारी \"अहमेतत्\" इति प्रतिक्रिया निवर्तते।"
+    }
+  },
+  {
+    "n": 26,
+    "sa": "तदा विवेकनिम्नं कैवल्यप्राग्भारं चित्तम्",
+    "te": {
+      "s": "అప్పుడు చిత్తం వివేకం వైపు ప్రవహిస్తూ, కైవల్యం వైపు మొగ్గు చూపుతుంది.",
+      "d": "ఈ దశలో, చిత్తం వివేకనిమ్నం అవుతుంది - సహజంగా వివేకం వైపు ప్రవహించేది - మరియు కైవల్యప్రాగ్భారం - తన ప్రధాన దృష్టిగా చివరి విముక్తి వైపు మొగ్గు చూపేది."
+    },
+    "en": {
+      "s": "Then the mind, flowing toward discernment, inclines toward liberation.",
+      "d": "At this stage, citta becomes viveka-nimna — naturally inclined and flowing toward discernment — and kaivalya-prāgbhāra — leaning/tending toward final liberation, as its predominant orientation."
+    },
+    "sad": {
+      "s": "तदा चित्तं विवेकनिम्नं कैवल्यप्राग्भारं च भवति।",
+      "d": "अस्मिन् सोपाने, चित्तं विवेकनिम्नं भवति - स्वभावतः विवेकं प्रति प्रवहत् - कैवल्यप्राग्भारं च - चरममोक्षं प्रति प्राधान्येन नतम्।"
+    }
+  },
+  {
+    "n": 27,
+    "sa": "तच्छिद्रेषु प्रत्ययान्तराणि संस्कारेभ्यः",
+    "te": {
+      "s": "ఆ స్థితిలో కూడా, ఏదైనా అంతరాల్లో, పాత సంస్కారాల వల్ల ఇతర భావనలు వస్తాయి.",
+      "d": "ఈ ఉన్నత స్థితిలో కూడా, ఏకాగ్రతలో అంతరాల్లో (ఛిద్రాలు), పాత సంస్కారాల నుండి ఇతర, చొరబడే భావనలు (ప్రత్యయాంతరాలు) ఇంకా ఉద్భవించవచ్చు, అప్రమత్తత తగ్గిన క్షణాల్లో పాత అలవాట్లు తిరిగి వస్తాయని గుర్తుచేస్తుంది."
+    },
+    "en": {
+      "s": "In the gaps of that, other cognitions arise from latent impressions.",
+      "d": "Even in this advanced state, in chidra (gaps/lapses of vigilance), pratyaya-antarāṇi — other, intruding thoughts — can still arise from old saṁskāras (latent impressions), reminding the practitioner that conditioning resurfaces in unguarded moments."
+    },
+    "sad": {
+      "s": "तेषु छिद्रेषु संस्कारजन्यानि अन्यप्रत्ययानि उद्भवन्ति।",
+      "d": "एतस्यामपि उन्नतावस्थायाम्, सावधानताभङ्गस्य क्षणेषु (छिद्रेषु), पुरातनसंस्कारेभ्यः अन्ये प्रवेशकाः प्रत्ययाः (विचाराः) उद्भवितुं शक्नुवन्ति, स्मारयन्ति यत् असावधानक्षणेषु पुराणाः अभ्यासाः पुनः आगच्छन्ति।"
+    }
+  },
+  {
+    "n": 28,
+    "sa": "हानमेषां क्लेशवदुक्तम्",
+    "te": {
+      "s": "వీటి తొలగింపు, క్లేశాల కోసం చెప్పినట్లే చెప్పబడింది.",
+      "d": "ఈ చొరబడే భావనల తొలగింపు (హానం), ముందు క్లేశాల కోసం బోధించిన అదే పద్ధతులను అనుసరిస్తుంది - కొత్త సాధన అవసరం లేదు, తెలిసిన నియమాలను స్థిరంగా అన్వయించడం మాత్రమే."
+    },
+    "en": {
+      "s": "Their removal is taught as for the afflictions.",
+      "d": "The removal (hāna) of these intruding cognitions follows the same methods already taught (uktam) for the kleśas (afflictions) earlier in the text — there's no need for an entirely new technique, just consistent application of known principles."
+    },
+    "sad": {
+      "s": "एषां हानं क्लेशवद् (पूर्वोक्तवत्) उक्तम्।",
+      "d": "एतेषां प्रवेशकानां प्रत्ययानां हानं (निवारणं), पूर्वं क्लेशार्थं उक्तानां एव पद्धतीनां अनुसरणेन सिद्ध्यति - नूतनसाधनं नापेक्षितम्, ज्ञातनियमानां स्थिरम् अन्वयनं मात्रम्।"
+    }
+  },
+  {
+    "n": 29,
+    "sa": "प्रसंख्यानेऽप्यकुसीदस्य सर्वथा विवेकख्यातेर्धर्ममेघः समाधिः",
+    "te": {
+      "s": "అత్యున్నత జ్ఞానం పట్ల కూడా కోరిక లేకుండా, పూర్తి వివేకం కలవారికి ధర్మమేఘ సమాధి కలుగుతుంది.",
+      "d": "ప్రసంఖ్యానం (అత్యున్నత వివేకజ్ఞానం) పట్ల కూడా ఏ ప్రయోజనాన్ని ఆశించని (అకుసీదుడు), సర్వథా (అన్ని విధాలుగా) పూర్తి వివేకఖ్యాతి కలిగిన సాధకునికి, ధర్మమేఘ సమాధి - మంచితనం అప్రయత్నంగా వర్షించే అత్యున్నత సమాధి స్థితి - కలుగుతుంది."
+    },
+    "en": {
+      "s": "For one who is non-grasping even toward the highest insight, with complete discernment, comes the \"cloud of dharma\" absorption.",
+      "d": "For the practitioner who is a-kusīda — not even seeking interest/profit from prasaṁkhyāna (the highest discriminative knowledge itself) — and whose viveka-khyāti (discernment) is sarvathā (in every way complete), there arises dharma-megha samādhi — the culminating \"cloud of virtue\" absorption, from which goodness rains down effortlessly."
+    },
+    "sad": {
+      "s": "प्रसंख्यानेऽपि अकुसीदस्य सर्वथा विवेकख्यातौ धर्ममेघः समाधिः सिद्ध्यति।",
+      "d": "प्रसंख्याने (परमविवेकज्ञानेऽपि) कस्यापि लाभं अनिच्छन् (अकुसीदः), सर्वथा (सर्वप्रकारेण) पूर्णां विवेकख्यातिं धारयन् साधकः, धर्ममेघं समाधिं - यस्मात् धर्मः अप्रयत्नेन वर्षति, तां परमावस्थां - प्राप्नोति।"
+    }
+  },
+  {
+    "n": 30,
+    "sa": "ततः क्लेशकर्मनिवृत्तिः",
+    "te": {
+      "s": "దీని వలన క్లేశాలు, కర్మ నివృత్తి అవుతాయి.",
+      "d": "ధర్మమేఘ సమాధి సిద్ధించడం వల్ల, క్లేశకర్మనివృత్తి కలుగుతుంది - క్లేశాలు, కర్మను సృష్టించే యాంత్రికం పూర్తిగా ఆగిపోతుంది; బంధనానికి మూలకారణాలు కొత్త చిక్కులను సృష్టించడం మానేస్తాయి."
+    },
+    "en": {
+      "s": "From that, cessation of afflictions and karma.",
+      "d": "From attaining dharma-megha samādhi follows kleśa-karma-nivṣtti — the complete cessation of the afflictions and the karma-generating mechanism; the root causes of bondage stop producing new entanglements."
+    },
+    "sad": {
+      "s": "ततः क्लेशकर्मयोः सम्पूर्णनिवृत्तिः सिद्ध्यति।",
+      "d": "धर्ममेघसमाधिप्राप्त्या, क्लेशकर्मनिवृत्तिः जायते - क्लेशाः कर्मोत्पादकं यन्त्रं च सम्पूर्णतया निवर्तते; बन्धनस्य मूलकारणानि नूतनसङ्कटानि जनयितुं विरमन्ति।"
+    }
+  },
+  {
+    "n": 31,
+    "sa": "तदा सर्वावरणमलापेतस्य ज्ञानस्यानन्त्यात् ज्ञेयमल्पम्",
+    "te": {
+      "s": "అన్ని తొడుగులు, మాలిన్యాలు తొలగిన జ్ఞానం అనంతం కావడం వల్ల, తెలుసుకోవలసినది తక్కువగా మిగులుతుంది.",
+      "d": "ఈ దశలో, జ్ఞానం సర్వావరణమలాపేతం అవుతుంది - అన్ని తొడుగులు, మాలిన్యాల నుండి పూర్తిగా విముక్తమవుతుంది - దీని ఫలితంగా కలిగే అనంతత్వం వల్ల, జ్ఞేయం (ఇంకా తెలుసుకోవలసినది) అల్పంగా (నామమాత్రంగా) మిగులుతుంది - దాదాపు ఏమీ మిగిలి ఉండదు."
+    },
+    "en": {
+      "s": "Then, due to the infinitude of knowledge freed from all veils and impurities, what remains to be known is little.",
+      "d": "At this point, jñāna (knowledge) becomes sarva-āvaraṇa-mala-apeta — entirely free of all veils and impurities — and because of its resulting ānantya (infinitude), jñeya (what remains to be known) becomes alpam — comparatively negligible; almost nothing remains hidden."
+    },
+    "sad": {
+      "s": "सर्वावरणमलापेतस्य ज्ञानस्य आनन्त्यात् ज्ञेयम् अल्पं भवति।",
+      "d": "अस्मिन् सोपाने, ज्ञानं सर्वावरणमलापेतं (सर्वैः आवरणैः मलैः च मुक्तं) भवति - तस्य फलरूपेण उद्भूतस्य आनन्त्यस्य (अपरिमितत्वस्य) कारणात्, ज्ञेयं (अद्यापि ज्ञातव्यम्) अल्पं (तुच्छम्) अवशिष्यते - प्रायः किमपि अगुप्तं न तिष्ठति।"
+    }
+  },
+  {
+    "n": 32,
+    "sa": "ततः कृतार्थानां परिणामक्रमसमाप्तिर्गुणानाम्",
+    "te": {
+      "s": "దీని వలన, తమ ప్రయోజనం పూర్తయిన గుణాలకు, పరిణామ క్రమం ముగుస్తుంది.",
+      "d": "దీని పర్యవసానంగా, ఇప్పుడు తమ ప్రయోజనాన్ని (పురుషునికి అనుభవం, విముక్తి కలిగించడం) పూర్తి చేసుకున్న గుణాలకు, వాటి నిరంతర పరిణామ క్రమం ముగింపుకు (సమాప్తికి) చేరుకుంటుంది - పని పూర్తయినందున వాటి చంచల చలనం స్థిరపడుతుంది."
+    },
+    "en": {
+      "s": "From that, for the guṇas that have fulfilled their purpose, the sequence of transformation ends.",
+      "d": "As a consequence, for the guṇas (qualities of prakṣti) that are now kṣta-artha (having fulfilled their purpose, of providing experience and liberation to puruṣa), their pariṇāma-krama (ongoing sequence of transformation) reaches samāpti — completion; their restless turning settles, since the work is done."
+    },
+    "sad": {
+      "s": "ततः कृतार्थानां गुणानां परिणामक्रमः समाप्तिं प्राप्नोति।",
+      "d": "तस्य परिणामेन, सम्प्रति कृतार्थानां (पुरुषार्थं - अनुभवं मोक्षं च - साधितवतां) गुणानां निरन्तरः परिणामक्रमः समाप्तिं प्राप्नोति - कार्ये सम्पन्ने सति तेषां चञ्चलं चलनं स्थिरीभवति।"
+    }
+  },
+  {
+    "n": 33,
+    "sa": "क्षणप्रतियोगी परिणामापरान्तनिर्ग्राह्यः क्रमः",
+    "te": {
+      "s": "క్రమం, క్షణానికి సంబంధించినది, పరిణామం ముగిసే చివరి బిందువు వద్దే గ్రహించగలిగేది.",
+      "d": "క్రమం (కాల వరుస) క్షణానికి (కాలంలో విభజించలేని ఒక బిందువుకు) సంబంధించినది (క్షణప్రతియోగి), కానీ అది దానంతటదే నేరుగా గ్రహించలేనిది (నిర్గ్రాహ్యం) - పరిణామం పూర్తయ్యే చివరి బిందువు (అపరాంతం) వద్ద మాత్రమే దాని గమనం స్పష్టంగా కనిపిస్తుంది."
+    },
+    "en": {
+      "s": "Sequence, correlated to the moment, is graspable only at the endpoint of transformation.",
+      "d": "Krama (temporal sequence/succession) is kṣaṇa-pratiyogī — correlated with and defined against the single moment (kṣaṇa) — yet it is nirgrāhya (not directly seizable as an object) except at pariṇāma-aparānta — the very endpoint where a transformation completes, where its passage finally becomes evident."
+    },
+    "sad": {
+      "s": "क्रमः क्षणप्रतियोगी, परिणामापरान्ते एव ग्राह्यः, अन्यथा निर्ग्राह्यः।",
+      "d": "क्रमः (कालानुक्रमः) क्षणेन (कालस्य अविभाज्येन बिन्दुना) प्रतियोगी (सम्बद्धः) वर्तते, परं सः स्वयं साक्षात् ग्राह्यः न (निर्ग्राह्यः) - परिणामस्य अपरान्ते (चरमबिन्दौ) एव तस्य गतिः स्पष्टा भवति।"
+    }
+  },
+  {
+    "n": 34,
+    "sa": "पुरुषार्थशून्यानां गुणानां प्रतिप्रसवः कैवल्यं स्वरूपप्रतिष्ठा वा चितिशक्तिरिति",
+    "te": {
+      "s": "పురుషార్థం లేని గుణాలు తమ మూలానికి తిరిగి వెళ్ళడం, లేదా చితిశక్తి తన స్వరూపంలో నిలవడం - ఇదే కైవల్యం.",
+      "d": "యోగసూత్రాలు ఈ చివరి నిర్వచనంతో ముగుస్తాయి - పురుషునికి ఇంకా ఏ ప్రయోజనం లేని (పురుషార్థశూన్యమైన) గుణాలు తమ మూలానికి తిరిగి లయమవ్వడం (ప్రతిప్రసవం) - దీన్నే కైవల్యం అంటారు; లేదా దీన్ని మరో దృష్టితో చూస్తే, చితిశక్తి (శుద్ధ చైతన్య శక్తి) చివరికి తన నిజస్వరూపంలో (స్వరూపప్రతిష్ఠ) స్థిరంగా నిలవడమే ఇది."
+    },
+    "en": {
+      "s": "Liberation is the return of the guṇas, now empty of purpose for puruṣa, to their source, or the establishment of the power of consciousness in its own nature.",
+      "d": "The Sutras conclude with the final definition: kaivalya is prati-prasava — the reabsorption/return of the guṇas to their source, once they are puruṣa-artha-śūnya (no longer holding any purpose for the seer) — or, viewed from the other side, it is sva-rūpa-pratiṣṭhā — citi-śakti (the power of pure consciousness) finally established firmly in its own true nature."
+    },
+    "sad": {
+      "s": "पुरुषार्थशून्यानां गुणानां मूलं प्रति प्रतिप्रसवः, अथवा चितिशक्तेः स्वरूपप्रतिष्ठा - इति कैवल्यम्।",
+      "d": "योगसूत्राणि अनेन अन्तिमलक्षणेन समाप्यन्ते - पुरुषस्य कृते अधुना निष्प्रयोजनाः (पुरुषार्थशून्याः) गुणाः स्वमूलं प्रति लयं (प्रतिप्रसवं) प्राप्नुवन्ति - एतत् कैवल्यम् इति। अथवा अन्यदृष्ट्या, चितिशक्तिः (शुद्धचैतन्यशक्तिः) अन्ततः स्वकीये यथार्थस्वरूपे (स्वरूपप्रतिष्ठायां) स्थिरतया अवस्थिता भवति - एतदेव कैवल्यम्।"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "slug": "shivananda-lahari",
+  "title_te": "శివానన్దలహరీ",
+  "title_sa": "शिवानन्दलहरी",
+  "title_en": "Śivānanda Laharī",
+  "description_en": "One hundred verses by Ādi Śaṅkarācārya in rapturous praise of Lord Śiva, expressing the waves (laharī) of bliss (ānanda) arising from devotion. Composed as a complement to Soundaryalaharī (which praises Śakti), it covers Śiva's cosmic form, his compassion, his dance, and the devotee's yearning for union. A masterpiece of Sanskrit bhakti poetry.",
+  "description_te": "ఆది శంకరాచార్యులు రచించిన శివ భక్తి లహరి — వంద శ్లోకాలలో శివుని స్తుతి. సౌందర్యలహరి శక్తిని కీర్తిస్తే, శివానంద లహరి శివుని విశ్వరూపాన్ని, కరుణను, నటరాజ తాండవాన్ని మరియు భక్తుని తన్మయత్వాన్ని వర్ణిస్తుంది.",
+  "description_sa": "आदिशङ्करविरचिताः शिवस्तुतिपराः शतश्लोकाः। सौन्दर्यलहरी शक्तिं स्तौति, शिवानन्दलहरी शिवस्य विश्वरूपं करुणां ताण्डवं च वर्णयति। संस्कृतभक्तिकाव्यस्य अनुपमं रत्नम्।",
+  "theme": "blue",
+  "tags": [
+    "shiva",
+    "shankaracharya"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "శివానన్దలహరీ",
+      "title_sa": "शिवानन्दलहरी",
+      "title_en": "Śivānanda Laharī",
+      "file": "shivananda-lahari.txt"
+    }
+  ]
+}

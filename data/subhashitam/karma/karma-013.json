@@ -1,0 +1,42 @@
+{
+  "id": "karma-013",
+  "tags": [
+    "karma",
+    "krodhad-bhavati",
+    "anger",
+    "delusion"
+  ],
+  "shlokam": {
+    "te": "క్రోధాద్భవతి సమ్మోహః సమ్మోహాత్స్మృతివిభ్రమః ।\nస్మృతిభ్రంశాద్బుద్ధినాశో బుద్ధినాశాత్ప్రణశ్యతి ॥",
+    "sa": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः ।\nस्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ॥",
+    "iast": "krodhādbhavati sammohaḥ sammohātsmṛtivibhramaḥ ।\nsmṛtibhraṃśādbuddhināśo buddhināśātpraṇaśyati ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (సాంఖ్యయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Sāṅkhya Yoga)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "2.63"
+  },
+  "padavibhagam": {
+    "te": "క్రోధాత్ | భవతి | సమ్మోహః | సమ్మోహాత్ | స్మృతి-విభ్రమః | స్మృతి-భ్రంశాత్ | బుద్ధి-నాశః | బుద్ధి-నాశాత్ | ప్రణశ్యతి",
+    "en": "krodhāt | bhavati | sammohaḥ | sammohāt | smṛti-vibhramaḥ | smṛti-bhraṃśāt | buddhi-nāśaḥ | buddhi-nāśāt | praṇaśyati"
+  },
+  "anvayam": {
+    "te": "క్రోధాత్ సమ్మోహః భవతి (క్రోధం నుండి సమ్మోహం కలుగుతుంది); సమ్మోహాత్ స్మృతివిభ్రమః (సమ్మోహం నుండి స్మృతి భ్రంశం); స్మృతిభ్రంశాత్ బుద్ధినాశః (స్మృతి భ్రంశం నుండి బుద్ధి నాశం); బుద్ధినాశాత్ ప్రణశ్యతి (బుద్ధి నాశం నుండి మనిషి నశిస్తాడు).",
+    "en": "krodhāt sammohaḥ bhavati (from anger comes delusion); sammohāt smṛti-vibhramaḥ (from delusion comes confusion of memory); smṛti-bhraṃśāt buddhi-nāśaḥ (from confusion of memory comes destruction of reason); buddhi-nāśāt praṇaśyati (from destruction of reason, the person perishes)."
+  },
+  "meaning": {
+    "te": "క్రోధం నుండి సమ్మోహం; సమ్మోహం నుండి స్మృతి భ్రంశం; స్మృతి భ్రంశం నుండి బుద్ధి నాశం; బుద్ధి నాశం నుండి మనిషి నశిస్తాడు.",
+    "en": "From anger comes delusion; from delusion comes confusion of memory; from confusion of memory comes destruction of reason; from destruction of reason the person perishes."
+  },
+  "tatparyam": {
+    "te": "ఇది గీతలో క్రోధం యొక్క పతన పరంపరను వివరించే ప్రసిద్ధ శ్లోకం. క్రోధం → సమ్మోహం → స్మృతిభ్రంశం → బుద్ధినాశం → వినాశం — ఇది ఒక శృంఖల పతనం. ఒకసారి కోపం వచ్చిందంటే పరిస్థితి అర్థం కాదు; పరిస్థితి అర్థం కాలేదంటే మనం ఏమి చెప్పాలో మర్చిపోతాం; మర్చిపోతే తప్పు నిర్ణయం తీసుకుంటాం; తప్పు నిర్ణయంతో నాశనం జరుగుతుంది. అందుకే కోపాన్ని నియంత్రించడం ఆధ్యాత్మిక సాధనలో ముఖ్యమైన పని.",
+    "en": "This verse from the Gītā (2.63) presents a causal chain: anger → delusion → loss of memory → destruction of reason → ruin. Each link follows inevitably from the previous one. When anger arises, the mind becomes clouded (sammoha). Clouded, it cannot access its stored wisdom (smṛti). Without access to wisdom, right judgment (buddhi) fails. And with judgment destroyed, the person acts destructively and is thereby undone. This psychological analysis is remarkably precise and has been confirmed by modern neuroscience — the 'amygdala hijack' of the prefrontal cortex under anger mirrors exactly what Kṛṣṇa describes. The teaching urges mastery of anger as the foundation of all other virtues."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

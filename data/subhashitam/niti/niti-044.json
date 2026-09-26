@@ -1,0 +1,41 @@
+{
+  "id": "niti-044",
+  "tags": [
+    "niti",
+    "shatru",
+    "buddhi"
+  ],
+  "shlokam": {
+    "te": "బుద్ధిర్యస్య బలం తస్య నిర్బుద్ధేస్తు కుతో బలమ్ ।\nవనే సింహో మదోన్మత్తః శశకేన నిపాతితః ॥",
+    "sa": "बुद्धिर्यस्य बलं तस्य निर्बुद्धेस्तु कुतो बलम् ।\nवने सिंहो मदोन्मत्तः शशकेन निपातितः ॥",
+    "iast": "buddhiryasya balaṃ tasya nirbuddhestu kuto balam ।\nvane siṃho madonmattaḥ śaśakena nipātitaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "పంచతన్త్రము (మిత్రభేదః)",
+    "name_en": "Panchatantra (Mitrabheda)",
+    "chapter": "Mitrabheda",
+    "grantha": "Pañcatantra",
+    "grantha_te": "పఞ్చతన్త్రమ్",
+    "grantha_sa": "पञ्चतन्त्रम्"
+  },
+  "padavibhagam": {
+    "te": "బుద్ధిః | యస్య | బలమ్ | తస్య | నిర్బుద్ధేః | తు | కుతః | బలమ్ | వనే | సింహః | మదోన్మత్తః | శశకేన | నిపాతితః",
+    "en": "buddhiḥ | yasya | balam | tasya | nirbuddheḥ | tu | kutaḥ | balam | vane | siṃhaḥ | madonmattaḥ | śaśakena | nipātitaḥ"
+  },
+  "anvayam": {
+    "te": "యస్య బుద్ధిః, తస్య బలమ్; నిర్బుద్ధేః తు బలం కుతః? వనే మదోన్మత్తః సింహః శశకేన నిపాతితః.",
+    "en": "Yasya buddhiḥ (whoever has intelligence), tasya balam (he has strength); nirbuddheḥ tu kutaḥ balam (but for one without intelligence, whence comes strength)? Vane madonmattaḥ siṃhaḥ (in the forest, an arrogant, intoxicated lion) śaśakena nipātitaḥ (was brought down by a mere hare)."
+  },
+  "meaning": {
+    "te": "బుద్ధి కలవానికే బలం ఉంటుంది; బుద్ధిహీనుడికి బలం ఎక్కడిది? అడవిలో గర్వాంధుడైన సింహాన్ని ఒక కుందేలు కూల్చివేసింది.",
+    "en": "Whoever has intelligence has real strength; where would strength come from for one lacking it? In the forest, an arrogant, intoxicated lion was brought down by a mere hare."
+  },
+  "tatparyam": {
+    "te": "పంచతంత్రంలోని ప్రసిద్ధ కథను సూచించే శ్లోకం — గర్వించిన సింహుడిని తెలివైన కుందేలు ఒక బావిలోని తన ప్రతిబింబాన్ని చూపి మోసగించి అంతమొందించిన కథ. భౌతికబలం తాత్కాలికమైనది, పరిమితమైనది; బుద్ధిబలం అపరిమితమైనది, ఎలాంటి ప్రత్యర్థినైనా ఎదుర్కోగలిగేది. కండలు లేని కుందేలు కండలు గల సింహాన్ని ఓడించడం అనేది శారీరకశక్తి కన్నా వ్యూహరచనాశక్తి మిన్నయని చాటే రూపకం — నీతిశాస్త్రం పదేపదే చెప్పే 'బుద్ధిర్బలవతీ సదా' అనే సూత్రానికి కథారూప నిదర్శనం.",
+    "en": "This verse recalls the famous Panchatantra tale — a clever hare that outwits and destroys an arrogant lion by showing it its own reflection in a well. Physical strength is temporary and limited; intellectual strength is unbounded, capable of overcoming any opponent. That the muscle-less hare defeats the muscular lion is a parable proving that strategic power outranks physical power — a story-form demonstration of the maxim repeated throughout niti literature: buddhi is always the greater strength."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}
