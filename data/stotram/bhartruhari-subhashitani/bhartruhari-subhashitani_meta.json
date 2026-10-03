@@ -1,0 +1,26 @@
+{
+  "slug": "bhartruhari-subhashitani",
+  "title_te": "భర్తృహరి సుభాషితాని",
+  "title_sa": "भर्तृहरि सुभाषितानि",
+  "title_en": "Bhartṛhari Subhāṣitāni",
+  "description_en": "Selected maxims from Bhartṛhari's three Śatakas — Nītiśataka (ethics and worldly wisdom), Śṛṅgāraśataka (love), and Vairāgyaśataka (renunciation). Bhartṛhari (5th–7th century CE) was a king turned ascetic; his verses combine keen insight into human nature with philosophical depth. Among the finest subhāṣitams in Sanskrit literature.",
+  "description_te": "భర్తృహరి రచించిన నీతి, శృంగార, వైరాగ్య శతకాల నుండి ఎంపిక చేసిన సుభాషితాలు. రాజు నుండి సన్న్యాసిగా మారిన భర్తృహరి మానవ స్వభావాన్ని తీవ్రంగా విశ్లేషించారు. సంస్కృత సాహిత్యంలో అత్యుత్తమ సుభాషితాలుగా ప్రసిద్ధి చెందాయి.",
+  "description_sa": "भर्तृहरिविरचितानां नीतिशृङ्गारवैराग्यशतकानां चयनितानि सुभाषितानि। राजाद्यासन्न्यासं गतस्य भर्तृहरेः श्लोकाः मानवस्वभावविश्लेषणे दार्शनिकगाम्भीर्ये च अद्वितीयाः।",
+  "theme": "green",
+  "tags": [
+    "subhashitam",
+    "niti",
+    "philosophy",
+    "poetry"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "భర్తృహరి సుభాషితాని",
+      "title_sa": "भर्तृहरि सुभाषितानि",
+      "title_en": "Bhartṛhari Subhāṣitāni",
+      "file": "bhartruhari-subhashitani.txt"
+    }
+  ]
+}

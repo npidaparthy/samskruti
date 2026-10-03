@@ -1,0 +1,41 @@
+{
+  "id": "niti-033",
+  "tags": [
+    "niti",
+    "sanga",
+    "guna"
+  ],
+  "shlokam": {
+    "te": "గుణా గుణజ్ఞేషు గుణా భవన్తి\nతే నిర్గుణం ప్రాప్య భవన్తి దోషాః ।\nఆస్వాద్యతోయాః ప్రభవన్తి నద్యః\nసముద్రమాసాద్య భవన్త్యపేయాః ॥",
+    "sa": "गुणा गुणज्ञेषु गुणा भवन्ति\nते निर्गुणं प्राप्य भवन्ति दोषाः ।\nआस्वाद्यतोयाः प्रभवन्ति नद्यः\nसमुद्रमासाद्य भवन्त्यपेयाः ॥",
+    "iast": "guṇā guṇajñeṣu guṇā bhavanti\nte nirguṇaṃ prāpya bhavanti doṣāḥ ।\nāsvādyatoyāḥ prabhavanti nadyaḥ\nsamudramāsādya bhavantyapeyāḥ ॥"
+  },
+  "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "హితోపదేశము (మిత్రలాభః)",
+    "name_en": "Hitopadesha (Mitralabha)",
+    "chapter": "Mitralabha",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
+  },
+  "padavibhagam": {
+    "te": "గుణాః | గుణజ్ఞేషు | గుణాః | భవన్తి | తే | నిర్గుణమ్ | ప్రాప్య | భవన్తి | దోషాః | ఆస్వాద్యతోయాః | ప్రభవన్తి | నద్యః | సముద్రమ్ | ఆసాద్య | భవన్తి | అపేయాః",
+    "en": "guṇāḥ | guṇajñeṣu | guṇāḥ | bhavanti | te | nirguṇam | prāpya | bhavanti | doṣāḥ | āsvādyatoyāḥ | prabhavanti | nadyaḥ | samudram | āsādya | bhavanti | apeyāḥ"
+  },
+  "anvayam": {
+    "te": "గుణాః గుణజ్ఞేషు గుణాః భవన్తి; తే నిర్గుణం ప్రాప్య దోషాః భవన్తి; నద్యః ఆస్వాద్యతోయాః ప్రభవన్తి; సముద్రమ్ ఆసాద్య అపేయాః భవన్తి.",
+    "en": "Guṇāḥ (virtues) guṇajñeṣu (among those who value virtue) guṇāḥ bhavanti (remain virtues); te (they) nirguṇam prāpya (reaching one without virtue) doṣāḥ bhavanti (turn into faults); nadyaḥ (rivers) āsvādyatoyāḥ prabhavanti (rise with sweet water); samudram āsādya (on reaching the ocean) apeyāḥ bhavanti (become undrinkable)."
+  },
+  "meaning": {
+    "te": "గుణాలు గుణం తెలిసినవారి దగ్గర గుణాలుగానే ఉంటాయి; గుణహీనుని చేరితే అవే దోషాలవుతాయి. నదులు తియ్యని నీటితో పుడతాయి; సముద్రాన్ని చేరగానే త్రాగలేనివవుతాయి.",
+    "en": "Virtues remain virtues among those who can recognise them; in the company of the unworthy, the same virtues turn into faults. Rivers rise with sweet water — but on merging into the ocean, they turn undrinkable."
+  },
+  "tatparyam": {
+    "te": "సాంగత్య ప్రభావంపై హితోపదేశం ఇచ్చిన అద్భుత ఉపమానం ఇది. మన గుణాలు నిలిచేదీ, వికసించేదీ మనం ఎవరి మధ్య ఉంటామన్న దానిపై ఆధారపడుతుంది. తియ్యని నదీజలం ఉప్పు సముద్రంలో కలిసి తన స్వభావాన్ని కోల్పోయినట్లు, సత్సంగం లేని చోట ప్రతిభ కూడా వికృతమవుతుంది. కనుక సహవాసాన్ని ఎంచుకోవడమే జీవితంలో అతి ముఖ్యమైన ఎంపికలలో ఒకటి.",
+    "en": "The Hitopadesha's finest image for the power of company. Whether our qualities survive and flower depends on whom we live among. As sweet river water loses its nature in the salt sea, even talent turns warped where good company is absent. Choosing one's company is therefore among life's most consequential choices."
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
+}

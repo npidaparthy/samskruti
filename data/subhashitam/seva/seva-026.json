@@ -1,0 +1,40 @@
+{
+  "id": "seva-026",
+  "tags": [
+    "seva",
+    "yajna-bhava"
+  ],
+  "shlokam": {
+    "te": "సహయజ్ఞాః ప్రజాః సృష్ట్వా పురోవాచ ప్రజాపతిః ।\nఅనేన ప్రసవిష్యధ్వమేష వోఽస్త్విష్టకామధుక్ ॥",
+    "sa": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥",
+    "iast": "sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ ।\nanena prasaviṣyadhvameṣa vo'stviṣṭakāmadhuk ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
+    "chapter": "3.10",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "సహయజ్ఞాః | ప్రజాః | సృష్ట్వా | పురా | ఉవాచ | ప్రజాపతిః | అనేన | ప్రసవిష్యధ్వమ్ | ఏషః | వః | అస్తు | ఇష్టకామధుక్",
+    "en": "sahayajñāḥ | prajāḥ | sṛṣṭvā | purā | uvāca | prajāpatiḥ | anena | prasaviṣyadhvam | eṣaḥ | vaḥ | astu | iṣṭakāmadhuk"
+  },
+  "anvayam": {
+    "te": "ప్రజాపతిః సహయజ్ఞాః ప్రజాః సృష్ట్వా పురా ఉవాచ — అనేన (యజ్ఞేన) ప్రసవిష్యధ్వమ్; ఏషః వః ఇష్టకామధుక్ అస్తు.",
+    "en": "Prajāpatiḥ (the Creator) sahayajñāḥ prajāḥ sṛṣṭvā (having created beings together with sacrifice) purā uvāca (spoke of old) — anena prasaviṣyadhvam (by this — sacrifice — may you prosper and multiply); eṣaḥ vaḥ iṣṭakāmadhuk astu (may this be the wish-fulfilling cow for you)."
+  },
+  "meaning": {
+    "te": "ప్రజాపతి యజ్ఞసహితంగా ప్రజలను సృష్టించి, పూర్వకాలంలో పలికాడు — 'దీనితో వృద్ధి చెందండి; ఇదే మీ కోరికలు తీర్చే కామధేనువు కావాలి.'",
+    "en": "The Creator, having brought forth beings together with sacrifice, declared of old: 'By this may you prosper; may this be your wish-fulfilling cow.'"
+  },
+  "tatparyam": {
+    "te": "సృష్టికి మూలసూత్రంగా యజ్ఞాన్ని — పరస్పర సేవాభావాన్ని — నిర్దేశించే గీత శ్లోకం ఇది. మనిషిని సృష్టించినప్పుడే, ఒంటరిగా బతకమని కాక పరస్పరసహకారంతో వర్ధిల్లమని ప్రజాపతి ఆదేశించాడు. 'యజ్ఞం' ఇక్కడ అగ్నిహోత్రం మాత్రమే కాదు — ఇచ్చిపుచ్చుకోవడం, ఒకరికొకరు తోడ్పడటం అనే విశ్వసూత్రం. సమాజం అంటే వేర్వేరు వ్యక్తుల సముదాయం కాదు, పరస్పర సేవాసంబంధాల వలయమని; ఆ వలయాన్ని నిలబెట్టేదే యజ్ఞభావమని ఈ శ్లోకం చాటుతుంది.",
+    "en": "This Gita verse names sacrifice — the spirit of mutual service — as the founding principle of creation itself. At the very moment of creating humankind, the Creator ordained not solitary survival but mutual cooperation and flourishing. 'Yajna' here is not merely ritual fire-offering but the universal principle of giving and receiving, of helping one another. Society, the verse declares, is not merely a collection of separate individuals but a web of mutual service — and it is the spirit of yajna that holds that web together."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

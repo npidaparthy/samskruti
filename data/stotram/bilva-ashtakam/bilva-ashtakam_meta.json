@@ -1,0 +1,25 @@
+{
+  "slug": "bilva-ashtakam",
+  "title_te": "బిల్వాష్టకమ్",
+  "title_sa": "बिल्वाष्टकम्",
+  "title_en": "Bilvāṣṭakam",
+  "description_en": "Eight verses glorifying the bilva (bael) leaf as the most sacred offering to Lord Śiva. Each verse describes the divine merits of the bilva tree and the act of offering its three-leafed sprigs to Śiva, equating it to the performance of great austerities and pilgrimages. Recited while offering bilva leaves during Śiva worship, especially on Śivarātri and Mondays.",
+  "description_te": "శివుడికి అత్యంత ప్రియమైన బిల్వ పత్రాన్ని కీర్తించే ఎనిమిది శ్లోకాలు. బిల్వ వృక్షం యొక్క పవిత్రతను, మూడు దళాల పత్రాన్ని శివుడికి సమర్పించడం వల్ల గొప్ప తపస్సు చేసిన ఫలం వస్తుందని వర్ణిస్తాయి. శివరాత్రి మరియు సోమవారాలలో పూజలో పఠిస్తారు.",
+  "description_sa": "शिवप्रियस्य बिल्वपत्रस्य माहात्म्यं वर्णयत् अष्टकम्। त्रिदलस्य बिल्वपत्रसमर्पणं महातपःतीर्थफलतुल्यमिति प्रत्येकश्लोके उच्यते। शिवरात्रौ सोमवारेषु च पठ्यते।",
+  "theme": "green",
+  "tags": [
+    "shiva",
+    "bilva",
+    "ashtakam"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "బిల్వాష్టకమ్",
+      "title_sa": "बिल्वाष्टकम्",
+      "title_en": "Bilvāṣṭakam",
+      "file": "bilva-ashtakam.txt"
+    }
+  ]
+}

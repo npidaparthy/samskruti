@@ -1,0 +1,40 @@
+{
+  "id": "karma-017",
+  "tags": [
+    "karma",
+    "asakti"
+  ],
+  "shlokam": {
+    "te": "తస్మాదసక్తః సతతం కార్యం కర్మ సమాచర ।\nఅసక్తో హ్యాచరన్కర్మ పరమాప్నోతి పూరుషః ॥",
+    "sa": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥",
+    "iast": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara ।\nasakto hyācarankarma paramāpnoti pūruṣaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
+    "chapter": "3.19",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "తస్మాత్ | అసక్తః | సతతమ్ | కార్యమ్ | కర్మ | సమాచర | అసక్తః | హి | ఆచరన్ | కర్మ | పరమ్ | ఆప్నోతి | పూరుషః",
+    "en": "tasmāt | asaktaḥ | satatam | kāryam | karma | samācara | asaktaḥ | hi | ācaran | karma | param | āpnoti | pūruṣaḥ"
+  },
+  "anvayam": {
+    "te": "తస్మాత్ అసక్తః (సన్) కార్యం కర్మ సతతం సమాచర; అసక్తః కర్మ ఆచరన్ పూరుషః హి పరమ్ ఆప్నోతి.",
+    "en": "Tasmāt (therefore) asaktaḥ (without attachment) kāryaṃ karma (the work that ought to be done) satataṃ samācara (perform constantly); asaktaḥ karma ācaran (acting without attachment) pūruṣaḥ hi param āpnoti (a person attains the supreme)."
+  },
+  "meaning": {
+    "te": "కనుక ఆసక్తి లేకుండా, చేయవలసిన కర్మను నిరంతరం చక్కగా ఆచరించు. అనాసక్తుడై కర్మ చేసే మనిషి పరమపదాన్ని పొందుతాడు.",
+    "en": "Therefore, without attachment, constantly perform the work that ought to be done. Acting without attachment, a person attains the supreme."
+  },
+  "tatparyam": {
+    "te": "మోక్షానికి కర్మత్యాగం అవసరమన్న భావనను గీత ఇక్కడ తలకిందులు చేస్తుంది — విడువవలసినది కర్మ కాదు, ఆసక్తి. 'కార్యం కర్మ' అన్న పదం కీలకం: ఇష్టమైన పని కాదు, చేయవలసిన పని. అడవికి పారిపోయిన సన్యాసికీ ఫలాసక్తి వదలకపోవచ్చు; సంసారంలో ఉంటూనే అనాసక్తుడైనవాడు ముక్తుడే. కర్తవ్యనిర్వహణే — అంటిపెట్టుకోకుండా చేసినప్పుడు — పరమప్రాప్తికి రాజమార్గమన్నది కర్మయోగపు కేంద్రసూత్రం.",
+    "en": "The Gita here overturns the notion that liberation requires abandoning work — what must be abandoned is attachment, not action. The phrase 'kāryaṃ karma' is the key: not the work one likes, but the work that ought to be done. A renunciant fled to the forest may still cling to results; one who lives in the world unattached is already free. Duty itself, done without clinging, is the royal road to the supreme — the central axiom of karma yoga."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

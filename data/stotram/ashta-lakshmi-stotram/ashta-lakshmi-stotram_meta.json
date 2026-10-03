@@ -1,0 +1,25 @@
+{
+  "slug": "ashta-lakshmi-stotram",
+  "title_te": "అష్టలక్ష్మీస్తోత్రమ్",
+  "title_sa": "अष्टलक्ष्मीस्तोत्रम्",
+  "title_en": "Aṣṭalakṣmīstotram",
+  "description_en": "A stotram invoking the eight forms of Goddess Lakṣmī: Ādi (primordial), Dhana (wealth), Dhānya (grain), Gaja (elephant/prosperity), Santāna (progeny), Vīra (courage), Vijaya (victory), and Vidyā (knowledge). Each form is praised with dedicated verses. Popular in South Indian households for Friday worship.",
+  "description_te": "అష్టలక్ష్మీస్తోత్రం — ఆది, ధన, ధాన్య, గజ, సంతాన, వీర, విజయ, విద్యా అనే ఎనిమిది లక్ష్మీ స్వరూపాలను కీర్తిస్తుంది. దక్షిణ భారతంలో శుక్రవారం పూజలో విశేషంగా పారాయణ చేస్తారు.",
+  "description_sa": "आदिधनधान्यगजसन्तानवीरविजयविद्याभिः अष्टाभिः लक्ष्मीरूपैः स्तोत्रम्। दक्षिणभारते शुक्रवारपूजायां विशेषतः पठ्यते।",
+  "theme": "gold",
+  "tags": [
+    "lakshmi",
+    "devi",
+    "shakta"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "అష్టలక్ష్మీస్తోత్రమ్",
+      "title_sa": "अष्टलक्ष्मीस्तोत्रम्",
+      "title_en": "Aṣṭalakṣmīstotram",
+      "file": "ashta-lakshmi-stotram.txt"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "niti-053",
+  "tags": [
+    "niti",
+    "raksha"
+  ],
+  "shlokam": {
+    "te": "త్యజేదేకం కులస్యార్థే గ్రామస్యార్థే కులం త్యజేత్ ।\nగ్రామం జనపదస్యార్థే ఆత్మార్థే పృథివీం త్యజేత్ ॥",
+    "sa": "त्यजेदेकं कुलस्यार्थे ग्रामस्यार्थे कुलं त्यजेत् ।\nग्रामं जनपदस्यार्थे आत्मार्थे पृथिवीं त्यजेत् ॥",
+    "iast": "tyajedekaṃ kulasyārthe grāmasyārthe kulaṃ tyajet ।\ngrāmaṃ janapadasyārthe ātmārthe pṛthivīṃ tyajet ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "1.14",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "త్యజేత్ | ఏకమ్ | కులస్య | అర్థే | గ్రామస్య | అర్థే | కులమ్ | త్యజేత్ | గ్రామమ్ | జనపదస్య | అర్థే | ఆత్మార్థే | పృథివీమ్ | త్యజేత్",
+    "en": "tyajet | ekam | kulasya | arthe | grāmasya | arthe | kulam | tyajet | grāmam | janapadasya | arthe | ātmārthe | pṛthivīm | tyajet"
+  },
+  "anvayam": {
+    "te": "కులస్య అర్థే ఏకం త్యజేత్; గ్రామస్య అర్థే కులం త్యజేత్; జనపదస్య అర్థే గ్రామం త్యజేత్; ఆత్మార్థే పృథివీం త్యజేత్.",
+    "en": "Kulasya arthe ekaṃ tyajet (for the sake of the family, abandon one person); grāmasya arthe kulaṃ tyajet (for the sake of the village, abandon the family); janapadasya arthe grāmaṃ tyajet (for the sake of the country, abandon the village); ātmārthe pṛthivīṃ tyajet (for the sake of the Self/dharma, abandon even the whole earth)."
+  },
+  "meaning": {
+    "te": "కుటుంబం కోసం ఒక్కరిని త్యజించవచ్చు; గ్రామం కోసం కుటుంబాన్ని త్యజించవచ్చు; దేశం కోసం గ్రామాన్ని త్యజించవచ్చు; ఆత్మ (ధర్మం) కోసం భూమిని కూడా త్యజించవచ్చు.",
+    "en": "For the sake of the family, one may abandon a single person; for the sake of the village, the family; for the sake of the country, the village; and for the sake of one's own soul and dharma, even the whole earth."
+  },
+  "tatparyam": {
+    "te": "త్యాగపరిధిని విస్తరిస్తూ, ప్రాధాన్యక్రమాన్ని నిర్దేశించే చాణక్యుని రాజనీతిసూత్రం. చిన్న యూనిట్ నుండి పెద్ద యూనిట్ వైపు నడుస్తూ, చివరకు ధర్మాన్నే అత్యున్నత స్థానంలో నిలుపుతుంది — వ్యక్తి కన్నా కుటుంబం, కుటుంబం కన్నా గ్రామం, గ్రామం కన్నా దేశం, దేశం కన్నా ధర్మం ముఖ్యమని. యుద్ధసమయాల్లో, సంక్షోభసమయాల్లో నాయకులు తీసుకోవలసిన కఠిననిర్ణయాలకు ఇది మార్గదర్శక సూత్రం — వ్యక్తిగత మమకారాలు విస్తృత శ్రేయస్సుకు అడ్డురాకూడదని, అంతిమంగా ధర్మమే అన్నిటికన్నా విలువైనదని చాటుతూ.",
+    "en": "Chanakya's political principle, expanding the scope of sacrifice while setting a clear order of priority. Moving from the smaller unit to the larger, it ultimately places dharma at the very summit — family matters more than an individual, village more than family, country more than village, and dharma more than country. This is a guiding principle for the hard decisions leaders must make in times of war or crisis — declaring that personal attachments must not obstruct the wider good, and that dharma, in the end, outweighs all else."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

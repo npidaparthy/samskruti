@@ -1,0 +1,41 @@
+{
+  "id": "dharma-032",
+  "tags": [
+    "dharma",
+    "nyaya",
+    "matsya"
+  ],
+  "shlokam": {
+    "te": "మాత్స్యన్యాయమవర్తయత్ ॥\nయత్రాయం న స్యాత్ రాజా జగతి పురుషాదాన్\nశృణు స నా నామ్నా జ్యాయాన్ కశ్చిత్ కనీయాంసమాదత్తే ॥",
+    "sa": "मात्स्यन्यायमवर्तयत् ॥\nयत्रायं न स्यात् राजा जगति पुरुषादान्\nशृणु स ना नाम्ना ज्यायान् कश्चित् कनीयांसमादत्ते ॥",
+    "iast": "mātsyanyāyamavartayat ॥\nyatrāyaṃ na syāt rājā jagati puruṣādān\nśṛṇu sa nā nāmnā jyāyān kaścit kanīyāṃsamādatte ॥"
+  },
+  "chandaH": "మిశ్రిత గద్యపద్యము (mixed prose-verse, epic style)",
+  "granthaH": {
+    "name_te": "మహాభారతము (శాన్తిపర్వము)",
+    "name_en": "Mahabharata (Shanti Parva)",
+    "chapter": "Shanti Parva 67 (rajadharma section, paraphrased)",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
+  },
+  "padavibhagam": {
+    "te": "మాత్స్యన్యాయమ్ | అవర్తయత్ | యత్ర | అయమ్ | న | స్యాత్ | రాజా | జగతి | పురుషాదాన్ | శృణు | సః | నా | నామ్నా | జ్యాయాన్ | కశ్చిత్ | కనీయాంసమ్ | ఆదత్తే",
+    "en": "mātsyanyāyam | avartayat | yatra | ayam | na | syāt | rājā | jagati | puruṣādān | śṛṇu | saḥ | nā | nāmnā | jyāyān | kaścit | kanīyāṃsam | ādatte"
+  },
+  "anvayam": {
+    "te": "యత్ర రాజా న స్యాత్, జగతి మాత్స్యన్యాయమ్ అవర్తయత్ — జ్యాయాన్ కశ్చిత్ కనీయాంసం (బలవాన్ దుర్బలం) ఆదత్తే.",
+    "en": "Yatra rājā na syāt (where there is no king), jagati mātsyanyāyam avartayat (the law of the fish would prevail in the world) — jyāyān kaścit kanīyāṃsam ādatte (the stronger seizes the weaker)."
+  },
+  "meaning": {
+    "te": "రాజు లేనిచోట లోకంలో 'మత్స్యన్యాయం' నడుస్తుంది — పెద్ద చేప చిన్న చేపను మింగినట్లు బలవంతుడు బలహీనుడిని అణచివేస్తాడు.",
+    "en": "Where there is no king, the world runs by the law of the fish — as the big fish devours the small, the strong crush the weak."
+  },
+  "tatparyam": {
+    "te": "రాజ్యాంగవ్యవస్థ ఎందుకు అవసరమో మహాభారతం ఇచ్చిన మౌలిక వివరణ ఇది. నీటిలో పెద్దచేప చిన్నచేపను మింగడం సహజన్యాయం అయితే, మనుషుల మధ్య ఆ న్యాయాన్ని ఆపేదే రాజధర్మం, శాసనవ్యవస్థ. చట్టం లేని చోట బలమే హక్కు అవుతుంది; బలహీనునికి రక్షణ ఉండదు. 'మాత్స్యన్యాయం' అనే పదబంధం తరువాతి రాజనీతిశాస్త్రంలో అరాచకస్థితికి పర్యాయపదంగా స్థిరపడింది — పాలన లోపించినచోట న్యాయం కాదు, బలమే శాసిస్తుందన్న శాశ్వత హెచ్చరిక.",
+    "en": "The Mahabharata's foundational argument for the state's existence. If in water the big fish devouring the small is natural law, then what stops that same law among humans is kingship, is governance. Where there is no law, might becomes right, and the weak have no protection. The phrase 'matsyanyaya' became political science's standing term for anarchy — a permanent warning that where governance fails, it is not justice but force that rules."
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+}
