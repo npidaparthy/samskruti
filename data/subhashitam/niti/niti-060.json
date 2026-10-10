@@ -1,0 +1,40 @@
+{
+  "id": "niti-060",
+  "tags": [
+    "niti",
+    "vidya-dhana"
+  ],
+  "shlokam": {
+    "te": "సుఖస్య దుఃఖస్య న కోఽపి దాతా\nపరో దదాతీతి కుబుద్ధిరేషా ।\nస్వయం కృతం స్వేన ఫలం భునక్తి\nత్యజేహ మోహం జగదీశచిన్తామ్ ॥",
+    "sa": "सुखस्य दुःखस्य न कोऽपि दाता\nपरो ददातीति कुबुद्धिरेषा ।\nस्वयं कृतं स्वेन फलं भुनक्ति\nत्यजेह मोहं जगदीशचिन्ताम् ॥",
+    "iast": "sukhasya duḥkhasya na ko'pi dātā\nparo dadātīti kubuddhireṣā ।\nsvayaṃ kṛtaṃ svena phalaṃ bhunakti\ntyajeha mohaṃ jagadīśacintām ॥"
+  },
+  "chandaH": "ఉపజాతి (Upajāti) — 11 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత సంప్రదాయము",
+    "name_en": "Subhashita tradition",
+    "chapter": "traditional maxim on self-responsibility",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
+  },
+  "padavibhagam": {
+    "te": "సుఖస్య | దుఃఖస్య | న | కః | అపి | దాతా | పరః | దదాతి | ఇతి | కుబుద్ధిః | ఏషా | స్వయమ్ | కృతమ్ | స్వేన | ఫలమ్ | భునక్తి | త్యజ | ఇహ | మోహమ్ | జగదీశచిన్తామ్",
+    "en": "sukhasya | duḥkhasya | na | kaḥ | api | dātā | paraḥ | dadāti | iti | kubuddhiḥ | eṣā | svayam | kṛtam | svena | phalam | bhunakti | tyaja | iha | moham | jagadīśacintām"
+  },
+  "anvayam": {
+    "te": "సుఖస్య, దుఃఖస్య న కః అపి దాతా; 'పరః దదాతి' ఇతి ఏషా కుబుద్ధిః; స్వయం కృతం స్వేన ఫలం భునక్తి; ఇహ మోహం త్యజ.",
+    "en": "Sukhasya duḥkhasya na kaḥ api dātā (there is no one who gives happiness or sorrow to another); paraḥ dadāti iti eṣā kubuddhiḥ ('another gives it' — this is a mistaken notion); svayaṃ kṛtaṃ svena phalaṃ bhunakti (each one experiences the fruit of what they themselves have done); iha moham tyaja (abandon this delusion, here and now)."
+  },
+  "meaning": {
+    "te": "సుఖాన్నిగానీ దుఃఖాన్నిగానీ మరొకరు ఇవ్వరు. 'ఇతరులు ఇస్తారు' అనేది తప్పుడు బుద్ధి. తాను చేసినదాని ఫలాన్ని తానే అనుభవిస్తాడు — ఈ భ్రాంతిని విడిచిపెట్టు.",
+    "en": "No one else gives happiness or sorrow to another. 'Someone else gives it' — this is a mistaken notion. Each person experiences the fruit of their own actions. Abandon this delusion."
+  },
+  "tatparyam": {
+    "te": "బాధ్యతను ఇతరులపైకి నెట్టివేసే మనస్తత్వాన్ని ఖండిస్తూ, స్వీయబాధ్యతను నొక్కిచెప్పే శ్లోకం. 'నాకు దుఃఖం ఎవరో ఇచ్చారు', 'నా సుఖాన్ని ఎవరో నిర్ణయిస్తారు' అనుకోవడం 'కుబుద్ధి' — తప్పుడు అవగాహన అని ఈ శ్లోకం స్పష్టం చేస్తుంది. కర్మసిద్ధాంతపు మౌలికసూత్రాన్ని ఆచరణాత్మకంగా వివరిస్తూ, తన స్థితికి తానే కారణమనీ, ఫలితం కోసం ఇతరులను నిందించడం మోహమాత్రమేననీ చాటుతుంది. ఈ అవగాహన కలిగినవాడు తన జీవితంపై పూర్తి బాధ్యతను స్వీకరించి, నిందారోపణలో సమయం వృథా చేయడు.",
+    "en": "A verse rejecting the mentality of shifting responsibility onto others, emphasising self-accountability instead. This verse declares clearly that thinking 'someone gave me this sorrow' or 'someone else determines my happiness' is 'kubuddhi' — a mistaken understanding. Explaining the fundamental principle of karma in practical terms, it declares that one is oneself the cause of one's own condition, and that blaming others for outcomes is nothing but delusion. One who holds this understanding takes full responsibility for their own life and wastes no time in assigning blame."
+  },
+  "chanda_key": "upajati",
+  "chanda_sa": "उपजातिः",
+  "chanda_te": "ఉపజాతిః"
+}

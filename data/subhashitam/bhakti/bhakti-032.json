@@ -1,0 +1,41 @@
+{
+  "id": "bhakti-032",
+  "tags": [
+    "bhakti",
+    "narada",
+    "sutra"
+  ],
+  "shlokam": {
+    "te": "యథా వ్రజగోపికానామ్ ॥\nతస్మిన్నపి పరమప్రేమరూపతా ॥\nతదప్యుక్తం జయన్త్యాదిభిః ॥",
+    "sa": "यथा व्रजगोपिकानाम् ॥\nतस्मिन्नपि परमप्रेमरूपता ॥\nतदप्युक्तं जयन्त्यादिभिः ॥",
+    "iast": "yathā vrajagopikānām ॥\ntasminnapi paramapremarūpatā ॥\ntadapyuktaṃ jayantyādibhiḥ ॥"
+  },
+  "chandaH": "సూత్రగద్యము (sūtra prose)",
+  "granthaH": {
+    "name_te": "నారద భక్తిసూత్రములు",
+    "name_en": "Narada Bhakti Sutras",
+    "chapter": "sutras 21–23",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
+  },
+  "padavibhagam": {
+    "te": "యథా | వ్రజగోపికానామ్ | తస్మిన్ | అపి | పరమప్రేమరూపతా | తత్ | అపి | ఉక్తమ్ | జయన్తీ | ఆదిభిః",
+    "en": "yathā | vrajagopikānām | tasmin | api | paramapremarūpatā | tat | api | uktam | jayantī | ādibhiḥ"
+  },
+  "anvayam": {
+    "te": "యథా వ్రజగోపికానామ్ (భక్తిః); తస్మిన్ (కృష్ణే) అపి (గోపికానాం) పరమప్రేమరూపతా (వర్తతే); తత్ అపి జయన్త్యాదిభిః ఉక్తమ్.",
+    "en": "Yathā vrajagopikānām (bhaktiḥ) (just as with the gopis of Vraja); tasmin api (toward him — Krishna) (there exists) paramapremarūpatā (a nature of supreme love); tad api uktam jayantyādibhiḥ (this too has been declared by Jayanti and other sages)."
+  },
+  "meaning": {
+    "te": "వ్రజగోపికల భక్తి వలె, ఆ కృష్ణుని పట్ల వారికి పరమప్రేమ స్వరూపమే ఉంది. దీనిని జయంతి మొదలైన ఆచార్యులు కూడా చెప్పారు.",
+    "en": "As with the gopis of Vraja — toward him there exists a nature of supreme love. This too has been stated by Jayanti and other teachers."
+  },
+  "tatparyam": {
+    "te": "భక్తికి పరమాదర్శంగా వ్రజగోపికల ప్రేమను ఉదహరించే నారద సూత్రం ఇది. గోపికల భక్తిని నారదులు ఉదాహరణగా ఎంచుకోవడం విశేషం — వారి ప్రేమలో లౌకిక లాభాపేక్ష లేదు, పాండిత్యపు ప్రదర్శన లేదు, కేవలం నిర్మలమైన ఆకర్షణ మాత్రమే. అనేకమంది పూర్వాచార్యుల అభిప్రాయాలను ఉదహరిస్తూ నారద భక్తిసూత్రాలు ముగించే తీరు, భక్తి ఏకవ్యక్తి సిద్ధాంతం కాదని, తరతరాలుగా ఆచార్యపరంపర ఆమోదించిన సజీవ సంప్రదాయమని చాటుతుంది.",
+    "en": "Narada's sutra cites the love of the Vraja gopis as the supreme ideal of devotion. It is notable that the sage chooses the gopis' devotion as the example — their love held no worldly gain, no display of learning, only pure, unmixed longing. That the Narada Bhakti Sutras close by citing the views of many earlier teachers shows devotion is not one man's private doctrine but a living tradition endorsed across generations of masters."
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+}

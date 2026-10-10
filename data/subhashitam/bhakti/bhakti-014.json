@@ -1,0 +1,42 @@
+{
+  "id": "bhakti-014",
+  "tags": [
+    "bhakti",
+    "samam-sarveshu",
+    "samadarshin",
+    "equality"
+  ],
+  "shlokam": {
+    "te": "సమం సర్వేషు భూతేషు తిష్ఠన్తం పరమేశ్వరం ।\nవినశ్యత్స్వవినశ్యన్తం యః పశ్యతి స పశ్యతి ॥",
+    "sa": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरं ।\nविनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ॥",
+    "iast": "samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaraṃ ।\nvinaśyatsvavinaśyantaṃ yaḥ paśyati sa paśyati ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (క్షేత్రక్షేత్రజ్ఞవిభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Kṣetra Kṣetrajña Vibhāga Yoga)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "13.28"
+  },
+  "padavibhagam": {
+    "te": "సమం | సర్వేషు | భూతేషు | తిష్ఠన్తం | పరమ-ఈశ్వరం | వినశ్యత్సు | అవినశ్యన్తం | యః | పశ్యతి | సః | పశ్యతి",
+    "en": "samam | sarveṣu | bhūteṣu | tiṣṭhantam | parama-īśvaram | vinaśyatsu | avinaśyantam | yaḥ | paśyati | saḥ | paśyati"
+  },
+  "anvayam": {
+    "te": "సర్వేషు భూతేషు సమం తిష్ఠన్తం పరమేశ్వరం (అన్ని జీవులలో సమంగా వసిస్తున్న పరమేశ్వరుని); వినశ్యత్సు అవినశ్యన్తం (నశించే వాటిలో నశించనివాడిని) యః పశ్యతి (ఎవడు చూస్తాడో) సః పశ్యతి (వాడే నిజంగా చూస్తున్నాడు).",
+    "en": "sarveṣu bhūteṣu samam tiṣṭhantam parameśvaram (the Supreme Lord dwelling equally in all beings); vinaśyatsu avinaśyantam (the imperishable within the perishable) yaḥ paśyati (he who sees thus) saḥ paśyati (he truly sees)."
+  },
+  "meaning": {
+    "te": "నశించే అన్ని జీవులలో సమంగా వసిస్తున్న పరమేశ్వరుని — నశించనివాడిని — ఎవడు చూస్తాడో వాడే నిజంగా చూస్తున్నవాడు.",
+    "en": "He who sees the Supreme Lord dwelling equally in all beings — the imperishable within the perishable — he truly sees."
+  },
+  "tatparyam": {
+    "te": "భగవద్గీత 13వ అధ్యాయంలో క్షేత్ర-క్షేత్రజ్ఞ విభాగంలో ఈ శ్లోకం వస్తుంది. 'సమం సర్వేషు భూతేషు' — అన్ని జీవులలో సమంగా ఈశ్వరుడు వసిస్తున్నాడు — ఈ దర్శనం భక్తి యొక్క పరాకాష్ఠ. ఎవడు ఈ విధంగా చూస్తాడో అతను అన్ని జీవులలో ఈశ్వరుని చూస్తాడు — పురుగులలో, పక్షులలో, మానవులలో, మహాపురుషులలో. ఈ దర్శనం వచ్చిన తర్వాత ద్వేషం, అసూయ, హింస అసంభవం. ఇదే సాక్షాత్ అద్వైత అనుభవం.",
+    "en": "Bhagavad Gītā 13.28 presents the culminating vision of jñāna-bhakti — the perception of the Divine equally present in all beings. This is the definition of the one who 'truly sees' (sa paśyati). Most people see the outer differences — beautiful and ugly, strong and weak, human and animal. The true seer looks beneath these differences and perceives the same immortal, divine presence animating all. This is 'samadṛṣṭi' — equal vision — which Kṛṣṇa describes as the mark of the liberated sage. With this vision, hatred, discrimination, and violence become impossible — for in harming another, one would be harming the Divine in them."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ganga-dhyanam",
+  "title_te": "గఙ్గాధ్యానమ్",
+  "title_sa": "गङ्गाध्यानम्",
+  "title_en": "Gaṅgādhyānam",
+  "description_en": "A meditative hymn invoking the sacred River Gaṅgā as a goddess — the celestial stream that descended from heaven, flows through Śiva's matted locks, and purifies all who bathe in or even think of her. Recited before bathing or beginning ritual worship, as a prayer for inner and outer purification.",
+  "description_te": "స్వర్గం నుండి అవతరించి శివుని జటాజూటంలో ప్రవహించి లోకాన్ని పవిత్రం చేసే గఙ్గాదేవిని ధ్యానించే స్తోత్రం. స్నానానికి లేదా పూజకు ముందు అంతర్బాహ్య శుద్ధి కోసం పారాయణ చేస్తారు.",
+  "description_sa": "स्वर्गादवतीर्णां शिवजटाप्रवाहिनीं लोकपावनीं गङ्गादेवीं ध्यायत् स्तोत्रम्। स्नानात् पूर्वं शुद्ध्यर्थं पठ्यते।",
+  "theme": "blue",
+  "tags": [
+    "ganga",
+    "tirtha",
+    "devi"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "గఙ్గాధ్యానమ్",
+      "title_sa": "गङ्गाध्यानम्",
+      "title_en": "Gaṅgādhyānam",
+      "file": "ganga-dhyanam.txt"
+    }
+  ]
+}

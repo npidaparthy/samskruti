@@ -1,0 +1,41 @@
+{
+  "id": "seva-021",
+  "tags": [
+    "seva",
+    "mahatma",
+    "hridaya"
+  ],
+  "shlokam": {
+    "te": "వజ్రాదపి కఠోరాణి మృదూని కుసుమాదపి ।\nలోకోత్తరాణాం చేతాంసి కో హి విజ్ఞాతుమర్హతి ॥",
+    "sa": "वज्रादपि कठोराणि मृदूनि कुसुमादपि ।\nलोकोत्तराणां चेतांसि को हि विज्ञातुमर्हति ॥",
+    "iast": "vajrādapi kaṭhorāṇi mṛdūni kusumādapi ।\nlokottarāṇāṃ cetāṃsi ko hi vijñātumarhati ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "ఉత్తరరామచరితము (భవభూతి)",
+    "name_en": "Uttararamacharita (Bhavabhuti)",
+    "chapter": "2.7",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
+  },
+  "padavibhagam": {
+    "te": "వజ్రాత్ | అపి | కఠోరాణి | మృదూని | కుసుమాత్ | అపి | లోకోత్తరాణామ్ | చేతాంసి | కః | హి | విజ్ఞాతుమ్ | అర్హతి",
+    "en": "vajrāt | api | kaṭhorāṇi | mṛdūni | kusumāt | api | lokottarāṇām | cetāṃsi | kaḥ | hi | vijñātum | arhati"
+  },
+  "anvayam": {
+    "te": "లోకోత్తరాణాం చేతాంసి వజ్రాత్ అపి కఠోరాణి, కుసుమాత్ అపి మృదూని; కః హి విజ్ఞాతుమ్ అర్హతి?",
+    "en": "Lokottarāṇāṃ cetāṃsi (the hearts of extraordinary souls) vajrāt api kaṭhorāṇi (are harder than the thunderbolt), kusumāt api mṛdūni (yet softer than a flower); kaḥ hi vijñātum arhati (who indeed can fathom them)?"
+  },
+  "meaning": {
+    "te": "మహాత్ముల హృదయాలు వజ్రం కన్నా కఠినమైనవి; పువ్వు కన్నా మృదువైనవి. వాటిని అర్థం చేసుకోగలవారెవరు?",
+    "en": "The hearts of the truly great are harder than diamond, yet softer than a flower. Who indeed can fathom them?"
+  },
+  "tatparyam": {
+    "te": "కర్తవ్యం కోసం ప్రియతమ సీతను అడవికి పంపిన రాముని సందర్భంలో భవభూతి పలికించిన శ్లోకం. మహాత్ముల వైచిత్రి ఇదే — ధర్మం విషయంలో వజ్రకాఠిన్యం, ప్రాణుల దుఃఖం విషయంలో పుష్పమార్దవం; రెండూ ఒకే హృదయంలో. కఠినత్వం లేని మృదుత్వం బలహీనత; కరుణ లేని కాఠిన్యం క్రూరత్వం. ఎప్పుడు వజ్రం కావాలో, ఎప్పుడు పువ్వు కావాలో తెలిసి ఉండటమే లోకోత్తర లక్షణం — సేవకూ నాయకత్వానికీ ఇదే కొలబద్ద.",
+    "en": "Bhavabhuti's verse for Rama, who for duty's sake sent his beloved Sita to the forest. This is the paradox of great souls — diamond-hard where dharma is at stake, flower-soft before the suffering of any creature; both in one heart. Softness without firmness is weakness; firmness without compassion is cruelty. Knowing when to be the diamond and when the flower — that is the mark of the extraordinary, and the measure alike of service and of leadership."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}
