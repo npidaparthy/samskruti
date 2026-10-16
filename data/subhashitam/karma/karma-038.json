@@ -1,0 +1,40 @@
+{
+  "id": "karma-038",
+  "tags": [
+    "karma",
+    "arambha"
+  ],
+  "shlokam": {
+    "te": "ఆరభ్యతే న ఖలు విఘ్నభయేన నీచైః\nప్రారభ్య విఘ్నవిహతా విరమన్తి మధ్యాః ।\nవిఘ్నైః పునః పునరపి ప్రతిహన్యమానాః\nప్రారబ్ధముత్తమజనా న పరిత్యజన్తి ॥",
+    "sa": "आरभ्यते न खलु विघ्नभयेन नीचैः\nप्रारभ्य विघ्नविहता विरमन्ति मध्याः ।\nविघ्नैः पुनः पुनरपि प्रतिहन्यमानाः\nप्रारब्धमुत्तमजना न परित्यजन्ति ॥",
+    "iast": "ārabhyate na khalu vighnabhayena nīcaiḥ\nprārabhya vighnavihatā viramanti madhyāḥ ।\nvighnaiḥ punaḥ punarapi pratihanyamānāḥ\nprārabdhamuttamajanā na parityajanti ॥"
+  },
+  "chandaH": "వసన్తతిలకా (Vasantatilakā) — 14 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "నీతిశతకము / సుభాషిత సంప్రదాయము",
+    "name_en": "Niti Shataka tradition (widely quoted)",
+    "chapter": "traditional maxim",
+    "grantha": "Bhartṛhari Śatakatraya",
+    "grantha_te": "భర్తృహరిశతకత్రయమ్",
+    "grantha_sa": "भर्तृहरिशतकत्रयम्"
+  },
+  "padavibhagam": {
+    "te": "ఆరభ్యతే | న | ఖలు | విఘ్నభయేన | నీచైః | ప్రారభ్య | విఘ్నవిహతాః | విరమన్తి | మధ్యాః | విఘ్నైః | పునః | పునః | అపి | ప్రతిహన్యమానాః | ప్రారబ్ధమ్ | ఉత్తమజనాః | న | పరిత్యజన్తి",
+    "en": "ārabhyate | na | khalu | vighnabhayena | nīcaiḥ | prārabhya | vighnavihatāḥ | viramanti | madhyāḥ | vighnaiḥ | punaḥ | punaḥ | api | pratihanyamānāḥ | prārabdham | uttamajanāḥ | na | parityajanti"
+  },
+  "anvayam": {
+    "te": "నీచైః విఘ్నభయేన ఖలు న ఆరభ్యతే; మధ్యాః ప్రారభ్య విఘ్నవిహతాః విరమన్తి; ఉత్తమజనాః విఘ్నైః పునః పునః అపి ప్రతిహన్యమానాః (అపి) ప్రారబ్ధం న పరిత్యజన్తి.",
+    "en": "Nīcaiḥ (the lowly) vighnabhayena (out of fear of obstacles) khalu na ārabhyate (do not even begin); madhyāḥ (the middling) prārabhya vighnavihatāḥ viramanti (begin, but stop once struck by obstacles); uttamajanāḥ (the excellent) vighnaiḥ punaḥ punar api pratihanyamānāḥ (though struck by obstacles again and again) prārabdham na parityajanti (do not abandon what they have begun)."
+  },
+  "meaning": {
+    "te": "నీచులు విఘ్నభయంతో మొదలే పెట్టరు; మధ్యములు మొదలుపెట్టి విఘ్నాలు ఎదురైతే ఆగిపోతారు; ఉత్తములు మాత్రం మళ్ళీ మళ్ళీ విఘ్నాలు ఎదురైనా చేపట్టిన పనిని విడిచిపెట్టరు.",
+    "en": "The lowly, from fear of obstacles, do not even begin; the middling begin but stop the moment obstacles strike; the excellent, though struck by obstacles again and again, never abandon what they have undertaken."
+  },
+  "tatparyam": {
+    "te": "మనుషులను మూడు స్థాయిలుగా వర్గీకరించి, ప్రతి స్థాయినీ విఘ్నాలతో వారి సంబంధం ద్వారానే నిర్వచించే ప్రసిద్ధ శ్లోకం. ప్రారంభించడానికే భయపడేవారు, ప్రారంభించి మధ్యలో వదిలేసేవారు, ఎన్నిసార్లు అడ్డుపడినా పట్టు వదలనివారు — ఈ మూడు కోవలూ నేటి ప్రతి రంగంలోనూ కనిపిస్తాయి. అడ్డంకి ఎదురుకావడం సమస్య కాదు, దానికి ఎలా స్పందిస్తామన్నదే వ్యక్తిత్వాన్ని నిర్ణయిస్తుందని ఈ శ్లోకం చాటుతుంది — పట్టుదల అనేది గొప్పతనానికి అంతిమ గీటురాయి అని.",
+    "en": "A celebrated verse classifying people into three levels, defining each level entirely by their relationship to obstacles. Those too afraid even to begin, those who begin and abandon halfway, and those who hold firm no matter how many times they are struck down — all three types can be seen in every field today. This verse declares that encountering an obstacle is not the problem; how one responds to it is what defines character — persistence is the ultimate touchstone of greatness."
+  },
+  "chanda_key": "vasantatilaka",
+  "chanda_sa": "वसन्ततिलका",
+  "chanda_te": "వసన్తతిలకా"
+}

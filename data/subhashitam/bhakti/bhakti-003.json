@@ -1,0 +1,42 @@
+{
+  "id": "bhakti-003",
+  "tags": [
+    "bhakti",
+    "yoga",
+    "vijaya",
+    "krishna"
+  ],
+  "shlokam": {
+    "te": "యత్ర యోగేశ్వరః కృష్ణో యత్ర పార్థో ధనుర్ధరః ।\nతత్ర శ్రీర్విజయో భూతిర్ధ్రువా నీతిర్మతిర్మమ ॥",
+    "sa": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥",
+    "iast": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ ।\ntatra śrīrvijayo bhūtirdhruvā nītirmatirmama ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Mokṣa Sannyāsa Yoga)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "18.78"
+  },
+  "padavibhagam": {
+    "te": "యత్ర | యోగేశ్వరః | కృష్ణః | యత్ర | పార్థః | ధనుర్ధరః | తత్ర | శ్రీః | విజయః | భూతిః | ధ్రువా | నీతిః | మతిః | మమ",
+    "en": "yatra | yogeśvaraḥ | kṛṣṇaḥ | yatra | pārthaḥ | dhanurdharaḥ | tatra | śrīḥ | vijayaḥ | bhūtiḥ | dhruvā | nītiḥ | matiḥ | mama"
+  },
+  "anvayam": {
+    "te": "యత్ర యోగేశ్వరః కృష్ణః (ఎక్కడ యోగేశ్వరుడు కృష్ణుడు ఉన్నాడో), యత్ర పార్థః ధనుర్ధరః (ఎక్కడ పార్థుడు ధనుర్ధారుడు ఉన్నాడో), తత్ర శ్రీః విజయః భూతిః ధ్రువా నీతిః (అక్కడ సంపద, విజయం, శ్రేయస్సు, ధ్రువమైన నీతి ఉంటాయి) — ఇతి మమ మతిః (అని నా అభిప్రాయం).",
+    "en": "yatra yogeśvaraḥ kṛṣṇaḥ (where Kṛṣṇa the lord of yoga is), yatra pārthaḥ dhanurdharaḥ (where Arjuna the bowman is), tatra (there) śrīḥ vijayaḥ bhūtiḥ dhruvā nītiḥ (are glory, victory, prosperity, and unwavering righteousness) — iti mama matiḥ (this is my conviction)."
+  },
+  "meaning": {
+    "te": "ఎక్కడ యోగేశ్వరుడు కృష్ణుడు ఉన్నాడో, ఎక్కడ ధనుర్ధారి పార్థుడు ఉన్నాడో — అక్కడే సంపద, విజయం, శ్రేయస్సు, ధ్రువమైన నీతి ఉంటాయని నా అభిప్రాయం.",
+    "en": "Where Kṛṣṇa, the lord of yoga, is; where Arjuna, the bowman, is — there, I am convinced, will be glory, victory, prosperity, and unwavering righteousness."
+  },
+  "tatparyam": {
+    "te": "ఇది గీత యొక్క అంతిమ శ్లోకం — సంజయుడు ధృతరాష్ట్రునికి చెప్తున్న మాటలు. జ్ఞానం (కృష్ణుడు) మరియు సమర్పిత కర్మ (అర్జునుడు) కలిసి ఉన్న చోట విజయం నిశ్చయం. ఇది కేవలం యుద్ధ ఫలితం కాదు — జీవితంలో ఏ రంగంలోనైనా జ్ఞానం మరియు పరాక్రమం కలిసి ఉంటే విజయం సాధ్యం.",
+    "en": "These are the final words of the Gītā — Sañjaya's conclusive statement to Dhṛtarāṣṭra. Where wisdom (Kṛṣṇa) and devoted action (Arjuna) combine, victory is assured. This is not merely a prediction about one battle — it is a universal principle. In any field of life, when inner clarity (yoga) is paired with skilled, dedicated action, the four outcomes — śrī (glory), vijaya (victory), bhūti (prosperity), and dhruvā nīti (unwavering ethics) — follow naturally."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

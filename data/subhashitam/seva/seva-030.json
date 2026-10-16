@@ -1,0 +1,41 @@
+{
+  "id": "seva-030",
+  "tags": [
+    "seva",
+    "audarya",
+    "kshudra"
+  ],
+  "shlokam": {
+    "te": "క్షుద్రో నదీషు తటినీ న సాగరత్వం\nయాతి క్షుద్రహృదయో న జగత్ప్రసిద్ధిమ్ ।\nఔదార్యమేవ మహతాం మహిమానమేతి\nనైవాల్పతా న చ మహత్త్వమనౌదృతానామ్ ॥",
+    "sa": "क्षुद्रो नदीषु तटिनी न सागरत्वं\nयाति क्षुद्रहृदयो न जगत्प्रसिद्धिम् ।\nऔदार्यमेव महतां महिमानमेति\nनैवाल्पता न च महत्त्वमनौदृतानाम् ॥",
+    "iast": "kṣudro nadīṣu taṭinī na sāgaratvaṃ\nyāti kṣudrahṛdayo na jagatprasiddhim ।\naudāryameva mahatāṃ mahimānameti\nnaivālpatā na ca mahattvamanaudṛtānām ॥"
+  },
+  "chandaH": "వసన్తతిలకా (Vasantatilakā) — 14 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత రత్నభాండాగారము",
+    "name_en": "Subhashita Ratnabhandagara",
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
+  },
+  "padavibhagam": {
+    "te": "క్షుద్రః | నదీషు | తటినీ | న | సాగరత్వమ్ | యాతి | క్షుద్రహృదయః | న | జగత్ప్రసిద్ధిమ్ | ఔదార్యమ్ | ఏవ | మహతామ్ | మహిమానమ్ | ఏతి | న | ఏవ | అల్పతా | న | చ | మహత్త్వమ్ | అనౌదృతానామ్",
+    "en": "kṣudraḥ | nadīṣu | taṭinī | na | sāgaratvam | yāti | kṣudrahṛdayaḥ | na | jagatprasiddhim | audāryam | eva | mahatām | mahimānam | eti | na | eva | alpatā | na | ca | mahattvam | anaudṛtānām"
+  },
+  "anvayam": {
+    "te": "క్షుద్రా నదీషు తటినీ సాగరత్వం న యాతి; క్షుద్రహృదయః జగత్ప్రసిద్ధిం న (యాతి); ఔదార్యమ్ ఏవ మహతాం మహిమానమ్ ఏతి; అనౌదృతానామ్ న అల్పతా, న చ మహత్త్వమ్.",
+    "en": "Kṣudrā nadīṣu taṭinī (a small stream among rivers) sāgaratvaṃ na yāti (does not attain the status of the ocean); kṣudrahṛdayaḥ (a small-hearted person) jagatprasiddhiṃ na (does not attain world renown); audāryam eva (generosity alone) mahatāṃ mahimānam eti (brings greatness to the great); anaudṛtānām (for those without generosity) na alpatā na ca mahattvam (there is neither smallness nor greatness — they simply do not register)."
+  },
+  "meaning": {
+    "te": "నదులలో చిన్న ఏరు సముద్రత్వాన్ని పొందదు; సంకుచితహృదయుడు లోకప్రసిద్ధిని పొందడు. ఔదార్యమే మహాత్ముల మహిమకు కారణం. ఉదారత లేనివారికి చిన్నతనమూ లేదు, గొప్పతనమూ లేదు.",
+    "en": "Among rivers, a small stream never attains the vastness of the ocean; a small-hearted person never attains renown in the world. Generosity alone is what brings greatness to the great. Those without generosity have neither smallness nor greatness — they simply do not count."
+  },
+  "tatparyam": {
+    "te": "గొప్పతనానికి కొలబద్ద పరిమాణం కాదు, ఔదార్యమే అని చెప్పే శ్లోకం. చివరి పాదం అత్యంత పదునైనది — ఉదారత లేనివారు 'చిన్నవారు' కూడా కాదు, వారు లెక్కలోకే రారు. అంటే ఉదారత లేని వ్యక్తి కేవలం అప్రధానుడవుతాడు, చరిత్రలో స్థానం పొందడు. నదిని సముద్రంగా మార్చేది దాని పరిమాణం కాదు, అది ఇచ్చే జలరాశి పరిధి; మనిషిని మహాత్మునిగా మార్చేది అతని సంపద కాదు, అతను పంచే ఔదార్యమేనని ఈ శ్లోకం నిర్ధారిస్తుంది.",
+    "en": "A verse declaring that the measure of greatness is not size but generosity. The final line is its sharpest edge — those without generosity are not even 'small'; they simply do not enter the reckoning at all. Such a person becomes merely inconsequential, finding no place in history. What turns a river into an ocean is not its size but the breadth of what it gives; what turns a person into a great soul, this verse concludes, is not their wealth but the generosity they share."
+  },
+  "chanda_key": "vasantatilaka",
+  "chanda_sa": "वसन्ततिलका",
+  "chanda_te": "వసన్తతిలకా"
+}

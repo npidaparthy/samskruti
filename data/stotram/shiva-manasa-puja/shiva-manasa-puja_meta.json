@@ -1,0 +1,25 @@
+{
+  "slug": "shiva-manasa-puja",
+  "title_te": "శివమానసపూజా",
+  "title_sa": "शिवमानसपूजा",
+  "title_en": "Śiva Mānasa Pūjā",
+  "description_en": "A hymn of mental worship (mānasa pūjā) of Lord Śiva by Ādi Śaṅkarācārya. The devotee offers the elements of elaborate ritual — bathing, flowers, incense, lamp, food — purely through thought and imagination, transcending the need for external materials. Closes with the declaration that the mind itself is the supreme offering.",
+  "description_te": "ఆది శంకరాచార్యులు రచించిన శివుని మానస పూజా స్తోత్రం. భక్తుడు స్నానం, పుష్పాలు, ధూపం, దీపం, నైవేద్యం అన్నింటినీ మనసులోనే సమర్పించి పూజ చేస్తాడు. బాహ్య వస్తువులు అవసరంలేని మానసిక ఆరాధన యొక్క గొప్పతనాన్ని చెప్తుంది.",
+  "description_sa": "आदिशङ्करविरचिता शिवस्य मानसपूजा। भक्तः स्नानं पुष्पं धूपं दीपं नैवेद्यं च मनसैव समर्पयति। बाह्यद्रव्यनिरपेक्षायाः मानसिकपूजायाः माहात्म्यं वर्ण्यते।",
+  "theme": "blue",
+  "tags": [
+    "shiva",
+    "shankaracharya",
+    "puja"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "శివమానసపూజా",
+      "title_sa": "शिवमानसपूजा",
+      "title_en": "Śiva Mānasa Pūjā",
+      "file": "shiva-manasa-puja.txt"
+    }
+  ]
+}

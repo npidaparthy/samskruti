@@ -1,0 +1,41 @@
+{
+  "id": "karma-005",
+  "tags": [
+    "karma",
+    "shraddha",
+    "jnana"
+  ],
+  "shlokam": {
+    "te": "శ్రద్ధావాన్ లభతే జ్ఞానం తత్పరః సంయతేన్ద్రియః ।\nజ్ఞానం లబ్ధ్వా పరాం శాన్తిమచిరేణాధిగచ్ఛతి ॥",
+    "sa": "श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः ।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥",
+    "iast": "śraddhāvān labhate jñānaṃ tatparaḥ saṃyatendriyaḥ ।\njñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానకర్మసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Jñāna Karma Sannyāsa Yoga)",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता",
+    "chapter": "4.39"
+  },
+  "padavibhagam": {
+    "te": "శ్రద్ధావాన్ | లభతే | జ్ఞానం | తత్పరః | సంయత-ఇన్ద్రియః | జ్ఞానం | లబ్ధ్వా | పరాం | శాన్తిం | అచిరేణ | అధిగచ్ఛతి",
+    "en": "śraddhāvān | labhate | jñānam | tatparaḥ | saṃyata-indriyaḥ | jñānam | labdhvā | parām | śāntim | acireṇa | adhigacchati"
+  },
+  "anvayam": {
+    "te": "శ్రద్ధావాన్ తత్పరః సంయతేన్ద్రియః (జ్ఞాన సాధకుడు) జ్ఞానం లభతే; జ్ఞానం లబ్ధ్వా అచిరేణ పరాం శాన్తిం అధిగచ్ఛతి.",
+    "en": "śraddhāvān (one with faith), tatparaḥ (devoted to it), saṃyatendriyaḥ (with controlled senses) labhate jñānam (attains knowledge); jñānaṃ labdhvā (having attained knowledge) acireṇa (swiftly) parām śāntim adhigacchati (reaches supreme peace)."
+  },
+  "meaning": {
+    "te": "శ్రద్ధగలవాడు, జ్ఞానోపాసనలో నిమగ్నుడు, ఇంద్రియ నిగ్రహం కలవాడు — జ్ఞానాన్ని పొందుతాడు. జ్ఞానం పొందిన తర్వాత శీఘ్రంగా పరమ శాంతిని అందుకుంటాడు.",
+    "en": "One who has faith, who is devoted to gaining knowledge, and who has mastered the senses — attains knowledge. Having attained knowledge, one swiftly reaches supreme peace."
+  },
+  "tatparyam": {
+    "te": "శ్రద్ధ, నిష్ఠ, ఇంద్రియ నిగ్రహం — ఈ మూడూ జ్ఞాన సంపాదనకు ముఖ్య పూర్వ నిబంధనలు. జ్ఞానం స్వయంగా శాంతినిస్తుంది. గీత యొక్క నాల్గవ అధ్యాయంలో శ్రీకృష్ణుడు జ్ఞాన యజ్ఞాన్ని వివరించినప్పుడు ఈ మాటలు చెప్పాడు — జ్ఞానం పొందే మార్గం శ్రద్ధతో మొదలవుతుంది.",
+    "en": "Faith, dedication, and sense-control are the three prerequisites for attaining knowledge. Once knowledge is gained, peace follows naturally — it is not something to be separately pursued. Kṛṣṇa speaks this in the context of the jñāna-yajña (sacrifice of knowledge) in Chapter 4, emphasising that the seeker's inner preparation — śraddhā, tatparatā, saṃyata-indriya — is as important as the teaching itself."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

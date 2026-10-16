@@ -1,0 +1,41 @@
+{
+  "id": "niti-035",
+  "tags": [
+    "niti",
+    "yojaka",
+    "samartha"
+  ],
+  "shlokam": {
+    "te": "అమన్త్రమక్షరం నాస్తి నాస్తి మూలమనౌషధమ్ ।\nఅయోగ్యః పురుషో నాస్తి యోజకస్తత్ర దుర్లభః ॥",
+    "sa": "अमन्त्रमक्षरं नास्ति नास्ति मूलमनौषधम् ।\nअयोग्यः पुरुषो नास्ति योजकस्तत्र दुर्लभः ॥",
+    "iast": "amantramakṣaraṃ nāsti nāsti mūlamanauṣadham ।\nayogyaḥ puruṣo nāsti yojakastatra durlabhaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత రత్నభాండాగారము",
+    "name_en": "Subhashita Ratnabhandagara",
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
+  },
+  "padavibhagam": {
+    "te": "అమన్త్రమ్ | అక్షరమ్ | న | అస్తి | న | అస్తి | మూలమ్ | అనౌషధమ్ | అయోగ్యః | పురుషః | న | అస్తి | యోజకః | తత్ర | దుర్లభః",
+    "en": "amantram | akṣaram | na | asti | na | asti | mūlam | anauṣadham | ayogyaḥ | puruṣaḥ | na | asti | yojakaḥ | tatra | durlabhaḥ"
+  },
+  "anvayam": {
+    "te": "అమన్త్రమ్ అక్షరం నాస్తి; అనౌషధం మూలం నాస్తి; అయోగ్యః పురుషః నాస్తి; తత్ర యోజకః దుర్లభః.",
+    "en": "Amantram akṣaram nāsti (there is no syllable that cannot be a mantra); anauṣadham mūlam nāsti (no root that cannot be a medicine); ayogyaḥ puruṣaḥ nāsti (no person who is truly useless); tatra (in all this) yojakaḥ durlabhaḥ (rare is the one who knows how to put them to use)."
+  },
+  "meaning": {
+    "te": "మంత్రం కాలేని అక్షరం లేదు; ఔషధం కాలేని వేరు లేదు; పనికిరాని మనిషి లేడు — వాటిని సరిగా వినియోగించగల యోజకుడే దుర్లభుడు.",
+    "en": "There is no syllable that cannot become a mantra, no root that cannot become a medicine, no person who is truly useless — rare only is the one who knows how to put each to its right use."
+  },
+  "tatparyam": {
+    "te": "ఈ ప్రపంచంలో వ్యర్థమైనది ఏదీ లేదు — వినియోగం తెలియకపోవడమే వ్యర్థత. ప్రతి అక్షరంలో మంత్రశక్తి, ప్రతి మొక్కలో ఔషధగుణం, ప్రతి మనిషిలో ఏదో ఒక సామర్థ్యం దాగి ఉంటాయి. వాటిని గుర్తించి తగిన చోట నిలిపే 'యోజకుడు' — నేటి భాషలో మంచి గురువు, నాయకుడు, నిర్వాహకుడు — అరుదు. వ్యక్తులను తప్పుపట్టే ముందు వారి శక్తిని గుర్తించి వినియోగించే నేర్పు మనకుందా అని ప్రశ్నించుకోమంటుంది ఈ శ్లోకం.",
+    "en": "Nothing in this world is useless — only unrecognised. Every syllable holds mantra-power, every plant a medicinal virtue, every person some hidden capacity. What is rare is the yojaka — the one who sees these and sets each in its right place: in today's terms, the good teacher, leader, or manager. Before dismissing anyone as worthless, the verse asks, do we have the skill to discover and deploy what they carry?"
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

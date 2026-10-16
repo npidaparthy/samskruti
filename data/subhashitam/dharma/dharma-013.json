@@ -1,0 +1,40 @@
+{
+  "id": "dharma-013",
+  "tags": [
+    "dharma",
+    "raksha",
+    "protection"
+  ],
+  "shlokam": {
+    "te": "ధర్మో రక్షతి రక్షితః ।",
+    "sa": "धर्मो रक्षति रक्षितः ।",
+    "iast": "dharmo rakṣati rakṣitaḥ ।"
+  },
+  "chandaH": "సూక్తి (Sūkti) — aphoristic prose",
+  "granthaH": {
+    "name_te": "మనుస్మృతి 8.15",
+    "name_en": "Manusmṛti 8.15",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
+  },
+  "padavibhagam": {
+    "te": "ధర్మః | రక్షతి | రక్షితః",
+    "en": "dharmaḥ | rakṣati | rakṣitaḥ"
+  },
+  "anvayam": {
+    "te": "రక్షితః ధర్మః (రక్షింపబడిన ధర్మం) రక్షతి (రక్షిస్తుంది).",
+    "en": "rakṣitaḥ (when protected) dharmaḥ (dharma) rakṣati (protects)."
+  },
+  "meaning": {
+    "te": "రక్షింపబడిన ధర్మం (మనలను) రక్షిస్తుంది.",
+    "en": "Dharma that is protected in turn protects (us)."
+  },
+  "tatparyam": {
+    "te": "ఇది మనుస్మృతిలో అత్యంత సంక్షిప్తమైన మరియు శక్తివంతమైన సత్యం. ధర్మాన్ని కాపాడేవారిని ధర్మం కాపాడుతుంది — ఇది పరస్పర సంరక్షణ సూత్రం. ధర్మాన్ని నేడు వదిలిపెడితే రేపు ధర్మం కాపాడదు. న్యాయాన్ని, సత్యాన్ని, నైతికతను పాటించేవారికి ఒక దైవిక రక్ష ఉంటుంది అని ఈ వాక్యం నిరూపిస్తుంది. న్యాయవ్యవస్థను, ధర్మ సంస్థలను పోషించే సమాజం స్వయంగా రక్షించబడుతుంది.",
+    "en": "This aphorism from Manusmṛti is one of the most concise statements of the reciprocal relationship between human beings and dharma. When society upholds dharma — justice, truth, right conduct — dharma in turn protects that society. The verse warns that neglecting dharma leaves one unprotected. It applies at both individual and societal levels: the person who lives righteously is sustained by righteous order; the civilization that protects its ethical and legal foundations endures. This teaching was invoked in classical India to justify the duty of kings to uphold law and justice."
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+}

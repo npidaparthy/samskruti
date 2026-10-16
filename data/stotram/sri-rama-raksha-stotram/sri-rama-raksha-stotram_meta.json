@@ -1,0 +1,25 @@
+{
+  "slug": "sri-rama-raksha-stotram",
+  "title_te": "శ్రీరామరక్షాస్తోత్రమ్",
+  "title_sa": "श्रीरामरक्षास्तोत्रम्",
+  "title_en": "Śrī Rāma Rakṣā Stotram",
+  "description_en": "A protective hymn on Lord Rāma revealed to the sage Budhakaushika in a dream by Lord Śiva himself. One of the most powerful kavaca (armour) stotrams in the Vaiṣṇava tradition, it covers protection of every limb of the devotee's body by Rāma's divine names and attributes. Widely recited in Maharashtra and throughout India.",
+  "description_te": "బుధకౌశిక మహర్షికి స్వప్నంలో శివుడు ఉపదేశించిన రామ రక్షా స్తోత్రం. రాముని నామాలతో భక్తుని శరీరంలోని ప్రతి అంగాన్ని రక్షించే కవచ స్తోత్రం. మహారాష్ట్రలో మరియు భారతదేశమంతటా విశేషంగా పఠిస్తారు.",
+  "description_sa": "बुधकौशिकमुनये स्वप्ने शिवेन उपदिष्टं रामस्य कवचस्तोत्रम्। रामनामभिः भक्तस्याङ्गप्रत्यङ्गरक्षणं वर्ण्यते। महाराष्ट्रे सर्वभारते च व्यापकं पठ्यते।",
+  "theme": "green",
+  "tags": [
+    "rama",
+    "vaishnava",
+    "protection"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "శ్రీరామరక్షాస్తోత్రమ్",
+      "title_sa": "श्रीरामरक्षास्तोत्रम्",
+      "title_en": "Śrī Rāma Rakṣā Stotram",
+      "file": "sri-rama-raksha-stotram.txt"
+    }
+  ]
+}

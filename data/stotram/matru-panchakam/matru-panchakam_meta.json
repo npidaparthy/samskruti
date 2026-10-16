@@ -1,0 +1,25 @@
+{
+  "slug": "matrupanchakam",
+  "title_te": "మాతృపఞ్చకమ్",
+  "title_sa": "मातृपञ्चकम्",
+  "title_en": "MātṛPañcakam",
+  "description_en": "Five verses attributed to Ādi Śaṅkarācārya, composed as an expression of grief and love upon the death of his mother Āryāmbā. Having taken sannyāsa, he was traditionally barred from performing her funeral rites, but according to tradition, he returned and performed them. These verses express a son's deep filial devotion.",
+  "description_te": "ఆది శఙ్కరాచార్యులు తన తల్లి ఆర్యాంబ మరణించినప్పుడు రచించారని చెప్పే ఐదు శ్లోకాలు. సన్న్యాసిగా అంత్యేష్టి చేయడం నిషిద్ధమైనా, తల్లి పట్ల కుమారుని అనురాగాన్ని ఈ శ్లోకాలు హృదయస్పర్శిగా చెప్తాయి.",
+  "description_sa": "आदिशङ्करेण मातुः आर्याम्बायाः मरणे रचितानि पञ्चपद्यानि। सन्न्यासिनोऽपि मातरि गाढं पुत्रस्नेहं हृदयङ्गमरूपेण व्यञ्जयन्ति।",
+  "theme": "green",
+  "tags": [
+    "shankaracharya",
+    "panchakam",
+    "mother"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "మాతృపఞ్చకమ్",
+      "title_sa": "मातृपञ्चकम्",
+      "title_en": "MātṛPañcakam",
+      "file": "matru-panchakam.txt"
+    }
+  ]
+}

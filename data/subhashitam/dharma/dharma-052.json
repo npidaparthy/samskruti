@@ -1,0 +1,40 @@
+{
+  "id": "dharma-052",
+  "tags": [
+    "dharma",
+    "shraddha-triguna"
+  ],
+  "shlokam": {
+    "te": "సత్త్వానురూపా సర్వస్య శ్రద్ధా భవతి భారత ।\nశ్రద్ధామయోఽయం పురుషో యో యచ్ఛ్రద్ధః స ఏవ సః ॥",
+    "sa": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत ।\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ॥",
+    "iast": "sattvānurūpā sarvasya śraddhā bhavati bhārata ।\nśraddhāmayo'yaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (శ్రద్ధాత్రయవిభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Śraddhātraya Vibhāga Yoga)",
+    "chapter": "17.3",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "సత్త్వానురూపా | సర్వస్య | శ్రద్ధా | భవతి | భారత | శ్రద్ధామయః | అయమ్ | పురుషః | యః | యత్ | శ్రద్ధః | సః | ఏవ | సః",
+    "en": "sattvānurūpā | sarvasya | śraddhā | bhavati | bhārata | śraddhāmayaḥ | ayam | puruṣaḥ | yaḥ | yat | śraddhaḥ | saḥ | eva | saḥ"
+  },
+  "anvayam": {
+    "te": "భారత! సర్వస్య శ్రద్ధా సత్త్వానురూపా భవతి; అయం పురుషః శ్రద్ధామయః; యః యత్ శ్రద్ధః, సః ఏవ సః.",
+    "en": "Bhārata (O Bharata)! Sarvasya śraddhā (everyone's faith) sattvānurūpā bhavati (accords with their own inner nature); ayaṃ puruṣaḥ śraddhāmayaḥ (this being is made of faith); yaḥ yat śraddhaḥ (whatever a person's faith is), saḥ eva saḥ (that alone is what they truly are)."
+  },
+  "meaning": {
+    "te": "భారతా! ప్రతివారి శ్రద్ధా వారి స్వభావానికి తగినట్లే ఉంటుంది. ఈ మనిషి శ్రద్ధామయుడు — ఎవరి శ్రద్ధ ఎలా ఉంటుందో, వారు అలాంటివారే.",
+    "en": "O Bharata! Everyone's faith accords with their own inner nature. This being is made of faith — whatever a person's faith is, that alone is what they truly are."
+  },
+  "tatparyam": {
+    "te": "వ్యక్తిత్వాన్ని అర్థం చేసుకోవడానికి గీత ఇచ్చిన అత్యంత లోతైన సూత్రం — 'యో యచ్ఛ్రద్ధః స ఏవ సః', మనిషి తన శ్రద్ధ ఎలాంటిదో అలాంటివాడే. అంటే ఒక వ్యక్తి ఏమి నమ్ముతాడో, దేనిని గౌరవిస్తాడో, దేని పట్ల భక్తి చూపిస్తాడో — అదే అతని నిజమైన స్వరూపాన్ని నిర్ణయిస్తుంది. బాహ్య రూపమో, మాటలో కాదు — శ్రద్ధే వ్యక్తిత్వానికి అద్దం. ఈ నిర్వచనం మనల్ని ప్రశ్నించుకోమని ప్రేరేపిస్తుంది — మనం దేనిపై శ్రద్ధ పెడుతున్నామో, అదే మనం అవుతున్నామా అని.",
+    "en": "The Gita's deepest principle for understanding personality — 'yo yacchraddhaḥ sa eva saḥ', a person is what their faith is. This means what a person believes in, respects, and holds devotion toward is what truly determines their nature. Not outward appearance or speech — faith is the mirror of character. This definition prompts a searching question: are we becoming what we place our faith in?"
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}
