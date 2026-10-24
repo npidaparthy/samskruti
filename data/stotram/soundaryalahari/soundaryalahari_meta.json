@@ -1,0 +1,43 @@
+{
+    "slug": "soundaryalahari",
+    "title_sa": "सौन्दर्यलहरी",
+    "title_te": "సౌన్దర్యలహరీ",
+    "title_en": "saundaryalaharī",
+    "description_en": "100 Sanskrit shlokas by Adi Shankaracharya (8th century) describing the beauty and grace of Goddess Parvati. The first 41 shlokas (Anandalahari) describe her cosmic power; the remaining 59 describe her physical beauty.",
+    "description_te": "ఆది శంకరాచార్యులచే (8వ శతాబ్దం) రచించబడిన 100 సంస్కృత శ్లోకాలు. మొదటి 41 శ్లోకాలు (ఆనందలహరి) దేవి విశ్వ శక్తిని, మిగిలిన 59 దేవి సౌందర్యాన్ని వర్ణిస్తాయి.",
+    "theme": "theme-lalita",
+    "tags": [
+        "parvati",
+        "shakti",
+        "shankaracharya",
+        "kavya",
+        "advaita"
+    ],
+    "synonyms": [
+        "saundaryalaharī",
+        "సౌన్దర్యలహరీ",
+        "anandalaharī",
+        "ఆనందలహరీ"
+    ],
+    "youtube_url": "",
+    "deity": "Parvati / Shakti",
+    "author": "Adi Shankaracharya",
+    "source": "Attributed to Adi Shankaracharya",
+    "language": "Sanskrit",
+    "script_source": "devanagari",
+    "total_shlokas": 100,
+    "featured": true,
+    "images": [
+        "assets/images/soundaryalahari-01.svg",
+        "assets/images/soundaryalahari-02.svg"
+    ],
+    "sections": [
+        {
+            "id": "main",
+            "title_te": "సౌన్దర్యలహరీ",
+            "title_sa": "सौन्दर्यलहरी",
+            "title_en": "saundaryalaharī",
+            "file": "soundaryalahari_main.txt"
+        }
+    ]
+}

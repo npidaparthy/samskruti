@@ -1,0 +1,30 @@
+{
+    "slug": "sankshepa-ramayanam",
+    "theme": "theme-vedic",
+    "tags": [
+        "ramayanam",
+        "sankshepa ramayanam"
+    ],
+    "synonyms": [
+        "Ramayanam",
+        "Sankshepa Ramayanam",
+        "sankshipta ramayanam",
+        "raamaayana",
+        "balakanda"
+    ],
+    "youtube_url": "",
+    "images": [
+        "assets/images/sankshepa-ramayanam-01.svg",
+        "assets/images/sankshepa-ramayanam-02.svg",
+        "assets/images/sankshepa-ramayanam-03.svg"
+    ],
+    "sections": [
+        {
+            "id": "sankshepa-ramayanam",
+            "title_te": "సంక్షేప రామాయణం",
+            "title_sa": "संक्षेपरामायणम्",
+            "title_en": "saṅkṣēparāmaṇam",
+            "file": "sankshepa-ramayanam.txt"
+        }
+    ]
+}

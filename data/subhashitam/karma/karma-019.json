@@ -1,0 +1,40 @@
+{
+  "id": "karma-019",
+  "tags": [
+    "karma",
+    "svadharma"
+  ],
+  "shlokam": {
+    "te": "యతః ప్రవృత్తిర్భూతానాం యేన సర్వమిదం తతమ్ ।\nస్వకర్మణా తమభ్యర్చ్య సిద్ధిం విన్దతి మానవః ॥",
+    "sa": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ॥",
+    "iast": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam ।\nsvakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Mokṣa Sannyāsa Yoga)",
+    "chapter": "18.46",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "యతః | ప్రవృత్తిః | భూతానామ్ | యేన | సర్వమ్ | ఇదమ్ | తతమ్ | స్వకర్మణా | తమ్ | అభ్యర్చ్య | సిద్ధిమ్ | విన్దతి | మానవః",
+    "en": "yataḥ | pravṛttiḥ | bhūtānām | yena | sarvam | idam | tatam | svakarmaṇā | tam | abhyarcya | siddhim | vindati | mānavaḥ"
+  },
+  "anvayam": {
+    "te": "యతః భూతానాం ప్రవృత్తిః, యేన ఇదం సర్వం తతమ్ — తం స్వకర్మణా అభ్యర్చ్య మానవః సిద్ధిం విన్దతి.",
+    "en": "Yataḥ bhūtānāṃ pravṛttiḥ (He from whom all beings arise), yena idaṃ sarvaṃ tatam (by whom all this is pervaded) — tam svakarmaṇā abhyarcya (worshipping Him through one's own work) mānavaḥ siddhiṃ vindati (a person attains perfection)."
+  },
+  "meaning": {
+    "te": "ఎవని నుండి సర్వప్రాణుల ప్రవృత్తి కలిగిందో, ఎవడు ఈ సమస్తాన్నీ వ్యాపించి ఉన్నాడో — ఆ పరమాత్మను తన కర్మతోనే అర్చించి మానవుడు సిద్ధిని పొందుతాడు.",
+    "en": "He from whom all beings have their origin, by whom all this is pervaded — worshipping Him through one's own work, a person attains perfection."
+  },
+  "tatparyam": {
+    "te": "పూజ అంటే పూలతోనూ దీపాలతోనూ మాత్రమే కాదన్న మహోన్నత భావన — 'స్వకర్మణా తమభ్యర్చ్య', నీ వృత్తినే అర్చనగా మార్చు. రైతు దుక్కిలో, వైద్యుడు చికిత్సలో, శిల్పి ఉలిలో — ఎవరి పనిని వారు అంకితభావంతో, నైపుణ్యంతో చేస్తే అదే సర్వవ్యాపి అయిన భగవంతునికి పూజ అవుతుంది. పని వేరు, పూజ వేరు అన్న విభజన చెరిగిపోయి, కార్యాలయమే దేవాలయమయ్యే ఈ దృష్టి — శ్రమకు భారతీయ సంస్కృతి ఇచ్చిన అత్యున్నత గౌరవం.",
+    "en": "Worship, this verse declares, is not confined to flowers and lamps — 'svakarmaṇā tam abhyarcya', turn your own work into the offering. The farmer at the plough, the physician at the bedside, the sculptor at the chisel — work done with dedication and skill becomes worship of the all-pervading Lord. The wall between work and worship dissolves, and the workplace itself becomes temple — the highest dignity Indian culture ever conferred upon labour."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

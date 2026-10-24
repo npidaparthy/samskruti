@@ -1,0 +1,27 @@
+{
+    "slug": "durga-saptashloki",
+    "theme": "theme-bhakti",
+    "tags": [
+        "durga",
+        "durga sapta shloki"
+    ],
+    "synonyms": [
+        "Durga Sapta Shloki",
+        "MarkanDeya puranam"
+    ],
+    "youtube_url": "",
+    "images": [
+        "assets/images/durga-saptashloki-01.svg",
+        "assets/images/durga-saptashloki-02.svg",
+        "assets/images/durga-saptashloki-03.svg"
+    ],
+    "sections": [
+        {
+            "id": "durga-saptashloki",
+            "title_te": "శ్రీదుర్గాసప్తశ్లోకీ",
+            "title_sa": "श्रीदुर्गासप्तश्लोकी",
+            "title_en": "śrī durgāsaptashlōkī",
+            "file": "durga-saptashloki.txt"
+        }
+    ]
+}

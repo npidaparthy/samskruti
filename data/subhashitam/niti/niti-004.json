@@ -1,0 +1,41 @@
+{
+  "id": "niti-004",
+  "tags": [
+    "niti",
+    "vidya",
+    "jnana"
+  ],
+  "shlokam": {
+    "te": "న చోరహార్యం న చ రాజహార్యం న భ్రాతృభాజ్యం న చ భారకారి ।\nవ్యయే కృతే వర్ధత ఏవ నిత్యం విద్యాధనం సర్వధనప్రధానమ్ ॥",
+    "sa": "न चोरहार्यं न च राजहार्यं न भ्रातृभाज्यं न च भारकारि ।\nव्यये कृते वर्धत एव नित्यं विद्याधनं सर्वधनप्रधानम् ॥",
+    "iast": "na corahāryaṃ na ca rājahāryaṃ na bhrātṛbhājyaṃ na ca bhārakāri ।\nvyaye kṛte vardhata eva nityaṃ vidyādhanaṃ sarvadhanapradhānam ॥"
+  },
+  "chandaH": "ఇంద్రవజ్ర (Indravajrā) — 11 syllables per quarter",
+  "granthaH": {
+    "name_te": "హితోపదేశః",
+    "name_en": "Hitopadeśa",
+    "chapter": "",
+    "grantha": "Hitopadeśa",
+    "grantha_te": "హితోపదేశః",
+    "grantha_sa": "हितोपदेशः"
+  },
+  "padavibhagam": {
+    "te": "న | చోరహార్యమ్ | న చ | రాజహార్యమ్ | న | భ్రాతృభాజ్యమ్ | న చ | భారకారి | వ్యయే కృతే | వర్ధతే | ఏవ | నిత్యమ్ | విద్యాధనమ్ | సర్వధనప్రధానమ్",
+    "en": "na | corahāryam | na ca | rājahāryam | na | bhrātṛbhājyam | na ca | bhārakāri | vyaye kṛte | vardhate | eva | nityam | vidyādhanam | sarvadhana pradhānam"
+  },
+  "anvayam": {
+    "te": "విద్యాధనం చోరహార్యం న; రాజహార్యం న చ; భ్రాతృభాజ్యం న; భారకారి న చ; వ్యయే కృతే నిత్యం వర్ధతే ఏవ — (అతః) సర్వధనప్రధానమ్.",
+    "en": "The wealth of knowledge (vidyādhanam) cannot be stolen by thieves (na corahāryam); cannot be seized by kings (na rājahāryam); cannot be divided among brothers (na bhrātṛbhājyam); does not cause burden (na bhārakāri); when spent, it only grows (vyaye kṛte vardhate eva nityam) — therefore it is the greatest of all wealth (sarvadhana pradhānam)."
+  },
+  "meaning": {
+    "te": "విద్యార్జనమనే సంపద దొంగలు దోచుకోలేరు, రాజులు స్వాధీనపరుచుకోలేరు, సోదరులు పంచుకోలేరు, భారంగా అనిపించదు; ఖర్చుపెట్టే కొద్దీ పెరుగుతుంది — అందుకే ఇది సర్వ ధనాలలో ముఖ్యమైనది.",
+    "en": "The wealth of knowledge cannot be stolen by thieves, taken by kings, divided among siblings, or felt as a burden; the more it is shared, the more it grows — therefore it is the foremost among all wealth."
+  },
+  "tatparyam": {
+    "te": "భౌతిక సంపద నాశనమవుతుంది, పంచుకున్నంతగా తగ్గిపోతుంది. కానీ విద్య అనే సంపద వ్యయించిన కొద్దీ — పంచుకున్న కొద్దీ — వర్ధిల్లుతుంది. ఇది అజేయమైన సంపద. ఆధునిక కాలంలో కూడా 'intellectual capital' అనే భావన ఇదే సత్యాన్ని ప్రతిధ్వనిస్తుంది.",
+    "en": "Material wealth diminishes when divided and can be lost. But knowledge grows the more it is shared — it is indestructible, weightless, and inexhaustible. This verse anticipates what modern thinkers call 'intellectual capital': the one resource that multiplies through use."
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+}
