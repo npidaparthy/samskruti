@@ -1,0 +1,41 @@
+{
+  "id": "niti-046",
+  "tags": [
+    "niti",
+    "matsarya",
+    "duhkha"
+  ],
+  "shlokam": {
+    "te": "పరస్య యోషిత్సమవాప్తసమ్పదో\nద్వితీయరూపేణ చ దృష్టిభాజనమ్ ।\nయయైవ లోకస్య మనోఽభిరమ్యతే\nతయైవ చిత్తం ప్రతిదూయతే మమ ॥",
+    "sa": "परस्य योषित्समवाप्तसम्पदो\nद्वितीयरूपेण च दृष्टिभाजनम् ।\nययैव लोकस्य मनोऽभिरम्यते\nतयैव चित्तं प्रतिदूयते मम ॥",
+    "iast": "parasya yoṣitsamavāptasampado\ndvitīyarūpeṇa ca dṛṣṭibhājanam ।\nyayaiva lokasya mano'bhiramyate\ntayaiva cittaṃ pratidūyate mama ॥"
+  },
+  "chandaH": "వంశస్థము (Vaṃśastha) — 12 syllables per quarter",
+  "granthaH": {
+    "name_te": "సుభాషిత రత్నభాండాగారము",
+    "name_en": "Subhashita Ratnabhandagara",
+    "chapter": "traditional subhashitam",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
+  },
+  "padavibhagam": {
+    "te": "పరస్య | యోషిత్ | సమవాప్తసంపదః | ద్వితీయరూపేణ | చ | దృష్టిభాజనమ్ | యయా | ఏవ | లోకస్య | మనః | అభిరమ్యతే | తయా | ఏవ | చిత్తమ్ | ప్రతిదూయతే | మమ",
+    "en": "parasya | yoṣit | samavāptasampadaḥ | dvitīyarūpeṇa | ca | dṛṣṭibhājanam | yayā | eva | lokasya | manaḥ | abhiramyate | tayā | eva | cittam | pratidūyate | mama"
+  },
+  "anvayam": {
+    "te": "పరస్య సంపదః సమవాప్త (సతీ), యోషిత్ ద్వితీయరూపేణ చ దృష్టిభాజనమ్ (అస్తి); యయా ఏవ లోకస్య మనః అభిరమ్యతే, తయా ఏవ మమ చిత్తం ప్రతిదూయతే.",
+    "en": "Parasya sampadaḥ samavāpta (satī) (another's acquired prosperity), yoṣit dvitīyarūpeṇa ca dṛṣṭibhājanam (and, in another form, a woman becoming the object of one's gaze) — yayā eva lokasya manaḥ abhiramyate (by that very thing which delights the mind of the world), tayā eva mama cittaṃ pratidūyate (by that very same thing, my mind burns with envy)."
+  },
+  "meaning": {
+    "te": "ఇతరుల సంపద, మరో రూపంలో పరస్త్రీపై దృష్టి — వీటితో లోకమనసు రమిస్తుంది; అదే వాటితో నా మనసు దహించుకుపోతుంది.",
+    "en": "Another's acquired wealth, and — in another form — casting one's gaze at another's spouse: the very things by which the world's mind finds delight are the very things by which my own mind burns with torment."
+  },
+  "tatparyam": {
+    "te": "ఈర్ష్య అనే మనోవికారాన్ని అత్యంత నిజాయితీగా ఆత్మపరిశీలన చేసుకున్న శ్లోకం. ఇతరులకు ఆనందం కలిగించేదే తనకు దుఃఖం కలిగించడం అనే వైరుధ్యాన్ని కవి నిర్భయంగా ఒప్పుకుంటున్నాడు — ఇది ఈర్ష్యాళువుల మనఃస్థితికి కచ్చితమైన నిర్వచనం. లోకం సంతోషిస్తున్నప్పుడు తానొక్కడే కుమిలిపోవడం ఈర్ష్య యొక్క విషాదకరమైన ఏకాంతత్వం. ఇతరుల విజయాన్ని చూసి కుంగిపోయే బదులు దానిని స్వీకరించగలగడమే మానసిక ఆరోగ్యానికి తొలిమెట్టు అని ఈ ఆత్మావిష్కరణ పరోక్షంగా బోధిస్తుంది.",
+    "en": "A remarkably honest self-examination of the emotion of envy. The poet fearlessly admits the paradox — that what brings joy to others brings sorrow to himself — a precise definition of the envious mind's condition. To suffer alone while the world rejoices is envy's tragic isolation. This confession indirectly teaches that the ability to embrace another's success, rather than being crushed by it, is the first step toward mental well-being."
+  },
+  "chanda_key": "vamshastha",
+  "chanda_sa": "वंशस्थम्",
+  "chanda_te": "వంశస్థమ్"
+}

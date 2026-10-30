@@ -1,0 +1,40 @@
+{
+  "id": "bhakti-021",
+  "tags": [
+    "bhakti",
+    "bhakta-lakshana"
+  ],
+  "shlokam": {
+    "te": "అద్వేష్టా సర్వభూతానాం మైత్రః కరుణ ఏవ చ ।\nనిర్మమో నిరహఙ్కారః సమదుఃఖసుఖః క్షమీ ॥",
+    "sa": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥",
+    "iast": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca ।\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (భక్తియోగము)",
+    "name_en": "Srimad Bhagavad Gita (Bhakti Yoga)",
+    "chapter": "12.13",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "అద్వేష్టా | సర్వభూతానామ్ | మైత్రః | కరుణః | ఏవ | చ | నిర్మమః | నిరహంకారః | సమదుఃఖసుఖః | క్షమీ",
+    "en": "adveṣṭā | sarvabhūtānām | maitraḥ | karuṇaḥ | eva | ca | nirmamaḥ | nirahaṅkāraḥ | samaduḥkhasukhaḥ | kṣamī"
+  },
+  "anvayam": {
+    "te": "సర్వభూతానామ్ అద్వేష్టా, మైత్రః, కరుణః ఏవ చ, నిర్మమః, నిరహంకారః, సమదుఃఖసుఖః, క్షమీ (యః సః మే భక్తః ప్రియః).",
+    "en": "Sarvabhūtānām adveṣṭā (hating no being), maitraḥ (friendly), karuṇaḥ eva ca (and compassionate), nirmamaḥ (without possessiveness), nirahaṅkāraḥ (without ego), samaduḥkhasukhaḥ (equal in sorrow and joy), kṣamī (forgiving) — (such a devotee is dear to me)."
+  },
+  "meaning": {
+    "te": "ఏ ప్రాణినీ ద్వేషించనివాడు, అందరికీ మిత్రుడు, కరుణ గలవాడు, మమకారం లేనివాడు, అహంకారం లేనివాడు, సుఖదుఃఖాలలో సముడు, క్షమాశీలి — అలాంటి భక్తుడు నాకు ప్రియుడు.",
+    "en": "Hating no creature, friendly and compassionate to all, free of possessiveness and ego, equal in sorrow and joy, forgiving — such a devotee is dear to me."
+  },
+  "tatparyam": {
+    "te": "గీత పన్నెండవ అధ్యాయం చివరలో కృష్ణుడు వర్ణించిన ప్రియభక్తుని లక్షణమాల ఇలా మొదలవుతుంది. గమనించదగినది — ఈ జాబితాలో పూజావిధులు, తీర్థయాత్రలు, జపసంఖ్యలు లేవు; ఉన్నవన్నీ తోటి ప్రాణుల పట్ల నడవడికే. ద్వేషరాహిత్యం, మైత్రి, కరుణ — భక్తి కొలబద్ద దేవాలయంలో కాదు, మనుషుల మధ్య వ్యవహారంలో కనబడుతుందన్నది స్పష్టం. భగవంతునిపై ప్రేమకు మొదటి రుజువు ప్రాణులపై ప్రేమే.",
+    "en": "So begins Krishna's garland of the traits of his beloved devotee, closing the Gita's twelfth chapter. Notice what the list omits — rituals, pilgrimages, counts of recitation; every trait named concerns conduct toward fellow beings. Absence of hatred, friendliness, compassion — devotion is measured not in the temple but in how one deals with people. Love for creatures is the first proof of love for God."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

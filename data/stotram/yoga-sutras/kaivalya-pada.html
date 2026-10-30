@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>पतञ्जलि योगसूत्राणि • కైవల్యపాదః • Kaivalyapādaḥ</title>
+<!-- Shared engine, reused by every pada page - adjust path to match your repo structure -->
+<script src="../../../assets/js/devanagari-transliteration-utils.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit:ital@0;1&family=Noto+Sans+Telugu:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg-deep:#15102b;
+    --bg-deep2:#241a3d;
+    --parchment:#fff8e8;
+    --parchment2:#ffefc9;
+    --ink:#241405;          /* primary text on parchment - ~15:1 contrast */
+    --ink-soft:#3a2410;     /* secondary text on parchment - ~12:1 contrast */
+    --gold:#6b4a0c;         /* gold used ON parchment (labels) - AA compliant */
+    --gold-bright:#e8b73e;  /* gold used ON dark backgrounds */
+    --maroon:#7a1322;
+    --rule:#e8d6a4;
+    --shadow: 0 10px 30px rgba(20,10,40,0.25);
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(ellipse at top, #2a1f47 0%, var(--bg-deep) 55%, #0f0a1c 100%);
+    color:var(--ink);
+    font-family:'EB Garamond', serif;
+    min-height:100vh;
+  }
+
+  .om-mark{ width:34px;height:34px; display:inline-block; fill:var(--gold-bright); }
+  @media (prefers-reduced-motion: no-preference){
+    .om-spin{ animation: spin 40s linear infinite; transform-origin:50% 50%; }
+  }
+  @keyframes spin{ to{ transform:rotate(360deg); } }
+
+  /* ---------- Header ---------- */
+  header.site{
+    position:sticky; top:0; z-index:20;
+    background:linear-gradient(180deg, var(--bg-deep) 0%, var(--bg-deep2) 100%);
+    border-bottom:1px solid rgba(227,185,79,0.25);
+    padding:14px 18px 10px;
+  }
+  .breadcrumb-row{ max-width:1080px; margin:0 auto; padding-bottom:6px; }
+  .breadcrumb-link{ color:#a896c8; font-family:'EB Garamond', serif; font-size:0.85rem; text-decoration:none; opacity:0.85; transition:opacity .2s ease; }
+  .breadcrumb-link:hover{ opacity:1; text-decoration:underline; }
+  .header-row{
+    max-width:1080px; margin:0 auto;
+    display:flex; align-items:center; justify-content:space-between;
+    gap:16px; flex-wrap:wrap;
+  }
+  .brand{ display:flex; align-items:center; gap:12px; color:var(--parchment); }
+  .brand-title{ font-family:'Cormorant Garamond', serif; font-weight:600; font-size:1.35rem; letter-spacing:0.02em; color:var(--gold-bright);}
+  .brand-title.dev{ font-family:'Tiro Devanagari Sanskrit', serif; font-weight:400; }
+  .brand-title.tel{ font-family:'Noto Sans Telugu', sans-serif; font-weight:600; }
+  .brand-sub{ font-size:0.78rem; color:#cbb8e0; letter-spacing:0.06em; }
+
+  .controls{ display:flex; gap:10px; flex-wrap:wrap; align-items:center;}
+  .pill-group{ display:inline-flex; background:rgba(255,255,255,0.05); border:1px solid rgba(227,185,79,0.3); border-radius:999px; padding:3px; gap:2px;}
+  .pill-group button{
+    border:none; background:transparent; color:#e8dcc8; font-family:'EB Garamond', serif;
+    font-size:0.92rem; padding:7px 16px; border-radius:999px; cursor:pointer;
+    transition: all .25s ease;
+  }
+  .pill-group button.active{
+    background: linear-gradient(135deg, var(--gold-bright), #c98f1f);
+    color:#231405; font-weight:600; box-shadow: 0 3px 10px rgba(0,0,0,0.3);
+  }
+  .pill-group button:not(.active):hover{ background:rgba(227,185,79,0.15); }
+  .pill-group button:disabled{ opacity:0.45; cursor:not-allowed; }
+  .pill-group button:disabled:hover{ background:transparent; }
+
+  /* Pada navigation row - scrollable on mobile */
+  .pada-nav-wrap{ max-width:1080px; margin:10px auto 0; overflow-x:auto; -ms-overflow-style:none; scrollbar-width:none; }
+  .pada-nav-wrap::-webkit-scrollbar{ display:none; }
+  #padaGroup{ width:max-content; margin:0 auto; }
+  #padaGroup button{ white-space:nowrap; }
+  .soon-tag{ font-size:0.68rem; opacity:0.75; margin-left:4px; }
+
+  /* ---------- Hero ---------- */
+  .hero{ max-width:1080px; margin:0 auto; padding:40px 20px 28px; text-align:center; color:var(--parchment); }
+  .hero-om-wrap{ margin-bottom:8px; opacity:0.85; }
+  .hero h1{
+    font-family:'Tiro Devanagari Sanskrit', serif; font-weight:400;
+    font-size:clamp(2rem, 5vw, 3.2rem); margin:6px 0; color:var(--gold-bright);
+    letter-spacing:0.01em;
+  }
+  .hero h1.lat{ font-family:'Cormorant Garamond', serif; font-style:italic; font-weight:500; }
+  .hero h1.tel{ font-family:'Noto Sans Telugu', sans-serif; font-weight:600; }
+  .hero p.lede{ font-size:1.05rem; color:#e3d9f2; max-width:640px; margin:10px auto 0; line-height:1.7; }
+  .hero .count{
+    display:inline-block; margin-top:18px; font-size:0.8rem; letter-spacing:0.1em;
+    color:var(--gold-bright); border:1px solid rgba(227,185,79,0.4); padding:6px 16px; border-radius:999px;
+  }
+
+  .leaf-divider{ display:flex; align-items:center; justify-content:center; gap:14px; margin:30px auto; max-width:300px; opacity:0.6;}
+  .leaf-divider .line{ height:1px; flex:1; background:linear-gradient(90deg, transparent, var(--gold-bright), transparent);}
+  .leaf-divider svg{ width:18px; height:18px; fill:var(--gold-bright); }
+
+  /* ---------- Sutra list ---------- */
+  main{ max-width:780px; margin:0 auto; padding:0 18px 80px; }
+
+  .sutra-card{
+    background: linear-gradient(180deg, var(--parchment) 0%, var(--parchment2) 100%);
+    border:1px solid var(--rule);
+    border-radius:14px;
+    padding:26px 28px 24px;
+    margin-bottom:22px;
+    box-shadow: var(--shadow);
+    position:relative;
+    overflow:hidden;
+  }
+  .sutra-card::before{
+    content:"";
+    position:absolute; left:0; top:0; bottom:0; width:6px;
+    background:linear-gradient(180deg, var(--gold-bright), var(--maroon));
+  }
+  .sutra-head{ display:flex; align-items:flex-start; gap:14px; }
+  .sutra-num{
+    flex:none; width:42px; height:42px; border-radius:50%;
+    background:radial-gradient(circle at 35% 30%, var(--gold-bright), #c98f1f 70%);
+    color:#2a1608; font-weight:700; font-family:'Tiro Devanagari Sanskrit', serif;
+    display:flex; align-items:center; justify-content:center; font-size:1.05rem;
+    box-shadow: inset 0 -3px 6px rgba(0,0,0,0.25), 0 2px 6px rgba(0,0,0,0.25);
+    margin-top:2px;
+  }
+  .sutra-text{ font-size:1.32rem; line-height:1.6; color:var(--maroon); font-weight:600; }
+  .sutra-text.devanagari{ font-family:'Tiro Devanagari Sanskrit', serif; font-size:1.5rem; }
+  .sutra-text.telugu{ font-family:'Noto Sans Telugu', sans-serif; font-weight:600; font-size:1.3rem; }
+  .sutra-text.iast{ font-family:'Cormorant Garamond', serif; font-style:italic; font-size:1.4rem; }
+
+  .meaning{ margin-top:14px; padding-top:14px; border-top:1px dashed var(--rule); color:var(--ink-soft); line-height:1.75; font-size:1.03rem; }
+  .meaning.tel{ font-family:'Noto Sans Telugu', sans-serif; font-size:1.03rem; }
+  .meaning.dev{ font-family:'Tiro Devanagari Sanskrit', serif; font-size:1.12rem; }
+  .meaning .tag{ display:inline; font-size:0.72rem; letter-spacing:0.08em; text-transform:uppercase; color:var(--gold); font-family:'EB Garamond', serif; margin-right:2px; font-weight:700; }
+
+  footer{ text-align:center; color:#cbb8e0; padding:40px 20px 60px; font-size:0.85rem; }
+  footer .om-mark{ width:24px; height:24px; margin-bottom:10px; }
+
+  /* ---------- Back to top ---------- */
+  #toTop{
+    position:fixed; right:20px; bottom:24px; width:48px; height:48px; border-radius:50%;
+    background:linear-gradient(135deg, var(--gold-bright), #c98f1f); color:#2a1608;
+    border:none; box-shadow:0 6px 18px rgba(0,0,0,0.35); cursor:pointer;
+    display:flex; align-items:center; justify-content:center; z-index:30;
+    opacity:0; transform:translateY(12px); pointer-events:none;
+    transition: opacity .25s ease, transform .25s ease;
+  }
+  #toTop.show{ opacity:1; transform:translateY(0); pointer-events:auto; }
+  #toTop svg{ width:22px; height:22px; }
+
+  @media (max-width:600px){
+    .sutra-text.devanagari{ font-size:1.3rem; }
+    .sutra-text.telugu{ font-size:1.22rem; }
+    .sutra-text.iast{ font-size:1.18rem; }
+    .header-row{ justify-content:center; text-align:center; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="breadcrumb-row">
+    <a href="/" class="breadcrumb-link">&larr; samskruti.info</a>
+  </div>
+  <div class="header-row">
+    <div class="brand">
+      <svg class="om-mark om-spin" viewBox="0 0 100 100"><circle cx="50" cy="50" r="46" fill="none" stroke="currentColor" stroke-width="2" opacity="0.35"/><text x="50" y="64" font-size="52" text-anchor="middle" font-family="serif">ॐ</text></svg>
+      <div>
+        <div class="brand-title dev" id="brandTitle">पतञ्जलि योगसूत्राणि</div>
+        <div class="brand-sub" id="brandSub">कैवल्यपादः · ३४ सूत्राणि</div>
+      </div>
+    </div>
+    <div class="controls">
+      <div class="pill-group" id="langGroup">
+        <button data-lang="te">తెలుగు</button>
+        <button data-lang="sa" class="active">संस्कृतम्</button>
+        <button data-lang="en">English</button>
+      </div>
+      <div class="pill-group" id="depthGroup">
+        <button data-depth="short" class="active">संक्षेपः</button>
+        <button data-depth="detailed">विवरणम्</button>
+      </div>
+    </div>
+  </div>
+  <div class="pada-nav-wrap">
+    <div class="pill-group" id="padaGroup"></div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-om-wrap">
+    <svg class="om-mark" viewBox="0 0 100 100" style="width:46px;height:46px;"><text x="50" y="68" font-size="60" text-anchor="middle" fill="#e3b94f" font-family="serif">ॐ</text></svg>
+  </div>
+  <h1 class="dev" id="heroTitleDev">कैवल्यपादः</h1>
+  <h1 class="tel" id="heroTitleTel" style="display:none;"></h1>
+  <h1 class="lat" id="heroTitleLat" style="display:none;">Kaivalyapādaḥ</h1>
+  <p class="lede" id="heroLede"></p>
+  <span class="count" id="heroCount"></span>
+</section>
+
+<div class="leaf-divider"><span class="line"></span><svg viewBox="0 0 24 24"><path d="M12 2c-4 4-7 8-7 12a7 7 0 0014 0c0-4-3-8-7-12z"/></svg><span class="line"></span></div>
+
+<main id="sutraList"></main>
+
+<footer>
+  <svg class="om-mark" viewBox="0 0 100 100"><text x="50" y="68" font-size="60" text-anchor="middle" fill="#e3b94f" font-family="serif">ॐ</text></svg>
+  <div>इति पातञ्जलयोगदर्शने कैवल्यपादो नाम चतुर्थः पादः ।</div>
+</footer>
+
+<button id="toTop" aria-label="scroll to top" title="scroll to top">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>
+</button>
+
+<script>
+/* ===================== Numeral systems ===================== */
+const DEV_DIGITS = {0:'०',1:'१',2:'२',3:'३',4:'४',5:'५',6:'६',7:'७',8:'८',9:'९'};
+const TEL_DIGITS = {0:'౦',1:'౧',2:'౨',3:'౩',4:'౪',5:'౫',6:'౬',7:'౭',8:'౮',9:'౯'};
+function toNumeral(n, lang){
+  const s = String(n);
+  if(lang==='sa') return s.split('').map(d=>DEV_DIGITS[d]).join('');
+  if(lang==='te') return s.split('').map(d=>TEL_DIGITS[d]).join('');
+  return s;
+}
+
+/* Devanagari -> Telugu and Devanagari -> IAST engines now live in the shared
+   external file devanagari-transliteration-utils.js (loaded in <head>),
+   so the same engine is reused by every future pada page without duplication. */
+
+/* ===================== Pada (chapter) registry ===================== */
+const PADAS = [
+  { key:'samadhi', sa:'समाधिपादः', href:'samadhi-pada.html', ready:true },
+  { key:'sadhana', sa:'साधनपादः', href:'sadhana-pada.html', ready:true },
+  { key:'vibhuti', sa:'विभूतिपादः', href:'vibhuti-pada.html', ready:true },
+  { key:'kaivalya', sa:'कैवल्यपादः', href:'kaivalya-pada.html', ready:true }
+];
+const CURRENT_PADA = 'kaivalya';
+const SOON = { te:'త్వరలో', sa:'अनागतम्', en:'soon' };
+
+/* ===================== Sutra data ===================== */
+/* sa = clean Devanagari (no embedded numbering - the numeral badge handles that)
+   iast = Roman transliteration (hyphens mark compound joins, for readability only)
+   te / en / sad = meanings, each with .s (short) and .d (detailed) */
+let SUTRAS = [];
+async function loadSutras() {
+  const r = await fetch('kaivalya-pada.json');
+  SUTRAS = await r.json();
+  render();
+  buildPadaNav();
+}
+
+/* ===================== Render ===================== */
+let state = { lang:'sa', depth:'short' };
+
+function buildPadaNav(){
+  const wrap = document.getElementById('padaGroup');
+  wrap.innerHTML = PADAS.map(p=>{
+    const label = state.lang==='sa' ? p.sa : (state.lang==='en' ? capFirst(toIAST(p.sa)) : toTelugu(p.sa));
+    const soonLabel = state.lang==='te' ? SOON.te : (state.lang==='sa' ? SOON.sa : SOON.en);
+    const cls = p.key===CURRENT_PADA ? 'active' : '';
+    const dis = p.ready ? '' : 'disabled';
+    const tag = p.ready ? '' : `<span class="soon-tag">(${soonLabel})</span>`;
+    return `<button class="${cls}" ${dis} data-pada="${p.key}">${label}${tag}</button>`;
+  }).join('');
+}
+
+function render(){
+  const list = document.getElementById('sutraList');
+  let html = '';
+  SUTRAS.forEach(item=>{
+    const num = toNumeral(item.n, state.lang);
+    let sutraText, sutraClass, meaning, meaningClass, tag;
+    if(state.lang==='en'){
+      sutraText = toIAST(item.sa); sutraClass='iast';
+      meaning = state.depth==='short' ? item.en.s : item.en.d;
+      meaningClass=''; tag = state.depth==='short' ? 'Meaning' : 'Commentary';
+    } else if(state.lang==='sa'){
+      sutraText = item.sa; sutraClass='devanagari';
+      meaning = state.depth==='short' ? item.sad.s : item.sad.d;
+      meaningClass='dev'; tag = state.depth==='short' ? 'अर्थः' : 'तात्पर्यम्';
+    } else {
+      sutraText = toTelugu(item.sa); sutraClass='telugu';
+      meaning = state.depth==='short' ? item.te.s : item.te.d;
+      meaningClass='tel'; tag = state.depth==='short' ? 'అర్థం' : 'తాత్పర్యం';
+    }
+    html += `
+    <article class="sutra-card">
+      <div class="sutra-head">
+        <div class="sutra-num">${num}</div>
+        <div class="sutra-text ${sutraClass}">${sutraText}</div>
+      </div>
+      <div class="meaning ${meaningClass}"><span class="tag">${tag}:</span> ${meaning}</div>
+    </article>`;
+  });
+  list.innerHTML = html;
+
+  // ---- Header brand title (strict transliteration, not translation) ----
+  const brandTitle = document.getElementById('brandTitle');
+  const brandSub = document.getElementById('brandSub');
+  brandTitle.className = 'brand-title ' + (state.lang==='sa' ? 'dev' : state.lang==='te' ? 'tel' : '');
+  if(state.lang==='sa'){
+    brandTitle.textContent = 'पतञ्जलि योगसूत्राणि';
+    brandSub.textContent = 'कैवल्यपादः · ' + toNumeral(34,'sa') + ' सूत्राणि';
+  } else if(state.lang==='te'){
+    brandTitle.textContent = toTelugu('पतञ्जलि योगसूत्राणि');
+    brandSub.textContent = toTelugu('कैवल्यपादः') + ' · ' + toNumeral(34,'te') + ' ' + toTelugu('सूत्राणि');
+  } else {
+    brandTitle.textContent = titleCaseWords(toIAST('पतञ्जलि योगसूत्राणि'));
+    brandSub.textContent = capFirst(toIAST('कैवल्यपादः')) + ' · ' + toNumeral(34,'en') + ' ' + capFirst(toIAST('सूत्राणि'));
+  }
+
+  // ---- Hero heading (strict transliteration) ----
+  const heroDev = document.getElementById('heroTitleDev');
+  const heroTel = document.getElementById('heroTitleTel');
+  const heroLat = document.getElementById('heroTitleLat');
+  heroDev.style.display = state.lang==='sa' ? 'block':'none';
+  heroTel.style.display = state.lang==='te' ? 'block':'none';
+  heroLat.style.display = state.lang==='en' ? 'block':'none';
+  heroTel.textContent = toTelugu('कैवल्यपादः');
+  heroLat.textContent = capFirst(toIAST('कैवल्यपादः'));
+
+  const lede = document.getElementById('heroLede');
+  const count = document.getElementById('heroCount');
+  if(state.lang==='te'){
+    lede.textContent = "కైవల్యం (పురుషుని పరిపూర్ణ స్వాతంత్ర్యం) యొక్క తాత్విక స్వరూపాన్ని, చిత్తం-పురుషుల భేదాన్ని, బంధవిముక్తికి చివరి మెట్లను వివరించే పతంజలి యోగసూత్రాల నాలుగవ, చివరి అధ్యాయం.";
+    count.textContent = toNumeral(4,'te') + '.' + toNumeral(1,'te') + ' — ' + toNumeral(4,'te') + '.' + toNumeral(34,'te');
+  } else if(state.lang==='sa'){
+    lede.textContent = "कैवल्यस्य (पुरुषस्य पूर्णस्वातन्त्र्यस्य) तात्त्विकं स्वरूपं, चित्तपुरुषयोः भेदं, मोक्षस्य अन्तिमसोपानानि च बोधयति पातञ्जलयोगसूत्राणां चतुर्थः चरमः पादः।";
+    count.textContent = toNumeral(4,'sa') + '.' + toNumeral(1,'sa') + ' — ' + toNumeral(4,'sa') + '.' + toNumeral(34,'sa');
+  } else {
+    lede.textContent = "The fourth and final chapter of Patanjali's Yoga Sutras — examining the philosophical nature of kaivalya (the seer's absolute independence), the distinction between mind and seer, and the final stages of liberation.";
+    count.textContent = '4.1 — 4.34';
+  }
+
+  buildPadaNav();
+}
+
+/* ---- Preserve reading position across re-renders ----
+   Re-rendering swaps scripts/fonts, which changes each card's height, so the
+   same scrollY would otherwise land on a different sutra. We remember which
+   card is at the top of the viewport (and how far into it we'd scrolled),
+   then re-find that same card after rendering and jump back to that spot. */
+function captureScrollAnchor(){
+  const cards = document.querySelectorAll('.sutra-card');
+  const viewTop = window.scrollY;
+  let anchorIndex = 0, offsetWithin = 0;
+  for(let i=0;i<cards.length;i++){
+    const top = cards[i].offsetTop;
+    const bottom = top + cards[i].offsetHeight;
+    if(bottom > viewTop){ anchorIndex = i; offsetWithin = viewTop - top; break; }
+  }
+  return { anchorIndex, offsetWithin };
+}
+function restoreScrollAnchor(anchor){
+  const cards = document.querySelectorAll('.sutra-card');
+  const card = cards[anchor.anchorIndex];
+  if(card){ window.scrollTo({ top: card.offsetTop + anchor.offsetWithin, behavior:'auto' }); }
+}
+
+document.getElementById('langGroup').addEventListener('click', e=>{
+  const btn = e.target.closest('button'); if(!btn) return;
+  const anchor = captureScrollAnchor();
+  state.lang = btn.dataset.lang;
+  document.querySelectorAll('#langGroup button').forEach(b=>b.classList.toggle('active', b===btn));
+  const depthBtns = document.querySelectorAll('#depthGroup button');
+  if(state.lang==='te'){ depthBtns[0].textContent='సంక్షిప్తం'; depthBtns[1].textContent='వివరణ'; }
+  else if(state.lang==='sa'){ depthBtns[0].textContent='संक्षेपः'; depthBtns[1].textContent='विवरणम्'; }
+  else { depthBtns[0].textContent='Short'; depthBtns[1].textContent='Detailed'; }
+  render();
+  restoreScrollAnchor(anchor);
+});
+
+document.getElementById('depthGroup').addEventListener('click', e=>{
+  const btn = e.target.closest('button'); if(!btn) return;
+  state.depth = btn.dataset.depth;
+  document.querySelectorAll('#depthGroup button').forEach(b=>b.classList.toggle('active', b===btn));
+  render();
+});
+
+document.getElementById('padaGroup').addEventListener('click', e=>{
+  const btn = e.target.closest('button');
+  if(!btn || btn.disabled) return;
+  const key = btn.dataset.pada;
+  if(key === CURRENT_PADA) return;
+  const p = PADAS.find(x=>x.key===key);
+  if(p && p.href) window.location.href = p.href;
+});
+
+/* ---- Back to top button ---- */
+const toTopBtn = document.getElementById('toTop');
+window.addEventListener('scroll', ()=>{
+  toTopBtn.classList.toggle('show', window.scrollY > 480);
+});
+toTopBtn.addEventListener('click', ()=> window.scrollTo({top:0, behavior:'smooth'}));
+
+loadSutras();
+</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "slug": "guru-ashtakam",
+  "title_te": "గుర్వష్టకమ్",
+  "title_sa": "गुर्वष्टकम्",
+  "title_en": "Gurvaṣṭakam",
+  "description_en": "Eight verses by Ādi Śaṅkarācārya emphasising the supreme importance of the Guru. Each verse describes a person who has achieved worldly success — wealth, beauty, fame, family — but declares that without devotion to the Guru, all is worthless. A powerful teaching on the guru-disciple relationship.",
+  "description_te": "ఆది శఙ్కరాచార్యులు రచించిన గురు మహిమను వర్ణించే ఎనిమిది శ్లోకాలు. సంపద, సౌందర్యం, కీర్తి ఉన్నా గురుపాదభక్తి లేకుండా అన్నీ వ్యర్థమే అని ప్రతి శ్లోకం చాటుతుంది.",
+  "description_sa": "आदिशङ्करविरचितम् गुरुमाहात्म्यप्रतिपादकम् अष्टकम्। ऐश्वर्यसौन्दर्ययशःकुटुम्बसम्पन्नोऽपि गुरुपादभक्तिविहीनः सर्वं व्यर्थमिति प्रत्येकश्लोके उच्यते।",
+  "theme": "saffron",
+  "tags": [
+    "guru",
+    "shankaracharya",
+    "vedanta"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "గుర్వష్టకమ్",
+      "title_sa": "गुर्वष्टकम्",
+      "title_en": "Gurvaṣṭakam",
+      "file": "guru-ashtakam.txt"
+    }
+  ]
+}

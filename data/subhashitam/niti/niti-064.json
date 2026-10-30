@@ -1,0 +1,40 @@
+{
+  "id": "niti-064",
+  "tags": [
+    "niti",
+    "purusha-lakshana"
+  ],
+  "shlokam": {
+    "te": "యస్య నాస్తి స్వయం ప్రజ్ఞా బుద్ధిర్వా బుద్ధిమత్సఖా ।\nసన్దేహాత్మా వినశ్యేత విచికిత్సాతురో నరః ॥",
+    "sa": "यस्य नास्ति स्वयं प्रज्ञा बुद्धिर्वा बुद्धिमत्सखा ।\nसन्देहात्मा विनश्येत विचिकित्सातुरो नरः ॥",
+    "iast": "yasya nāsti svayaṃ prajñā buddhirvā buddhimatsakhā ।\nsandehātmā vinaśyeta vicikitsāturo naraḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత సంప్రదాయము",
+    "name_en": "Subhashita tradition",
+    "chapter": "traditional maxim",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
+  },
+  "padavibhagam": {
+    "te": "యస్య | న | అస్తి | స్వయమ్ | ప్రజ్ఞా | బుద్ధిః | వా | బుద్ధిమత్సఖా | సందేహాత్మా | వినశ్యేత | విచికిత్సాతురః | నరః",
+    "en": "yasya | na | asti | svayam | prajñā | buddhiḥ | vā | buddhimatsakhā | sandehātmā | vinaśyeta | vicikitsāturaḥ | naraḥ"
+  },
+  "anvayam": {
+    "te": "యస్య స్వయం ప్రజ్ఞా న అస్తి, బుద్ధిమత్సఖా బుద్ధిః వా న అస్తి, సందేహాత్మా, విచికిత్సాతురః (సః) నరః వినశ్యేత.",
+    "en": "Yasya svayaṃ prajñā na asti (one who has neither their own wisdom), buddhimatsakhā buddhiḥ vā (nor the counsel of a wise friend's intellect), sandehātmā (whose soul is filled with doubt), vicikitsāturaḥ (afflicted by indecision) (saḥ) naraḥ vinaśyeta (that man perishes)."
+  },
+  "meaning": {
+    "te": "సొంత వివేకమూ లేని, వివేకవంతుడైన మిత్రుని సలహా కూడా లేని, సందేహపూరితమైన, నిర్ణయరాహిత్యంతో బాధపడే మనిషి నశిస్తాడు.",
+    "en": "A man who has neither his own wisdom nor the counsel of a wise friend, whose soul is filled with doubt, and who suffers from indecision — that man perishes."
+  },
+  "tatparyam": {
+    "te": "నిర్ణయసామర్థ్యానికి రెండు వనరులను చూపే శ్లోకం — స్వీయవివేకం, లేదా వివేకవంతుడైన మిత్రుని సలహా. ఈ రెండింటిలో ఏదో ఒకటి ఉంటే చాలని, రెండూ లేనప్పుడే మనిషి సందేహంలో కూరుకుపోయి నశిస్తాడని ఈ శ్లోకం చెబుతుంది. మంచి సలహాదారుల ప్రాముఖ్యతను చాటే ఈ సూత్రం, ఒంటరిగా అన్ని నిర్ణయాలూ తీసుకోవాల్సిన అవసరం లేదని, తెలివైన మిత్రుల సలహా తీసుకోవడం బలహీనత కాదని గుర్తుచేస్తుంది. సొంత వివేకం లోపించినప్పుడు మంచి సలహాదారుని వెతుక్కోవడమే వివేకమని ఈ శ్లోకం బోధిస్తుంది.",
+    "en": "A verse pointing to two resources for the capacity to decide — one's own wisdom, or the counsel of a wise friend. It holds that having either one suffices; only when both are absent does a person sink into doubt and perish. This principle, emphasising the importance of good counsellors, reminds us that one need not make every decision alone, and that seeking advice from wise friends is not weakness. Seeking out a good counsellor when one's own judgment falls short is itself, this verse teaches, an act of wisdom."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

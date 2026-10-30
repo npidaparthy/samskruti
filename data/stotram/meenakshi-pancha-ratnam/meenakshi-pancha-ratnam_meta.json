@@ -1,0 +1,26 @@
+{
+  "slug": "meenakshi-pancha-ratnam",
+  "title_te": "మీనాక్షీపఞ్చరత్నమ్",
+  "title_sa": "मीनाक्षीपञ्चरत्नम्",
+  "title_en": "MīnākṣīPañcaratnam",
+  "description_en": "Five gem-like verses on Goddess Mīnākṣī of Madurai by Ādi Śaṅkarācārya, composed during his visit to the Mīnākṣī Sundareśvara temple. Each verse glorifies her beauty, grace, and compassion. \"Pañcaratnam\" (five jewels) indicates five perfectly crafted stanzas.",
+  "description_te": "ఆది శంకరాచార్యులు మదురై మీనాక్షీ సుందరేశ్వర ఆలయ సందర్శన సమయంలో రచించిన ఐదు శ్లోకాలు. మీనాక్షీదేవి యొక్క అందం, కరుణ మరియు దివ్య తేజస్సును ప్రతి శ్లోకం కీర్తిస్తుంది.",
+  "description_sa": "आदिशङ्करेण मदुरायाः मीनाक्षीसुन्दरेश्वरमन्दिरदर्शनकाले विरचितानि पञ्चरत्नानि। प्रत्येकं श्लोकं देव्याः सौन्दर्यं करुणां च वर्णयति।",
+  "theme": "rose",
+  "tags": [
+    "devi",
+    "meenakshi",
+    "shankaracharya",
+    "shakta"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "మీనాక్షీపఞ్చరత్నమ్",
+      "title_sa": "मीनाक्षीपञ्चरत्नम्",
+      "title_en": "MīnākṣīPañcaratnam",
+      "file": "meenakshi-pancha-ratnam.txt"
+    }
+  ]
+}

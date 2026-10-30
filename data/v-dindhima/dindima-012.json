@@ -1,0 +1,35 @@
+{
+  "id": "dindima-012",
+  "tags": [
+    "dindima",
+    "brahma-jnana",
+    "varnashrama"
+  ],
+  "shlokam": {
+    "te": "న వర్ణాశ్రమసఙ్కేతైర్న కర్మోపాసనాదిభిః ।\nబ్రహ్మజ్ఞానం వినా మోక్ష ఇతి వేదాన్తడిణ్డిమః ॥ ౧౨ ॥",
+    "sa": "न वर्णाश्रमसङ्केतैर्न कर्मोपासनादिभिः ।\nब्रह्मज्ञानं विना मोक्ष इति वेदान्तडिण्डिमः ॥ १२ ॥",
+    "iast": "na varṇāśramasaṅketairna karmopāsanādibhiḥ ।\nbrahmajñānaṃ vinā mokṣa iti vedāntaḍiṇḍimaḥ ॥ 12 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 12"
+  },
+  "padavibhagam": {
+    "te": "న | వర్ణాశ్రమసఙ్కేతైః | న | కర్మోపాసనాదిభిః | బ్రహ్మజ్ఞానమ్ | వినా | మోక్షః | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "na | varṇāśramasaṅketaiḥ | na | karmopāsanādibhiḥ | brahmajñānam | vinā | mokṣaḥ | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "వర్ణాశ్రమసఙ్కేతైః న, కర్మోపాసనాదిభిః న — బ్రహ్మజ్ఞానం వినా మోక్షః న — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Varṇāśramasaṅketaiḥ na (not by the markers of caste and life-stage), karmopāsanādibhiḥ na (nor by rituals, meditations, and the like) — brahmajñānaṃ vinā mokṣaḥ na (there is no liberation without knowledge of Brahman) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "వర్ణాశ్రమ చిహ్నాలతోగానీ, కర్మోపాసనాదులతోగానీ మోక్షం రాదు. బ్రహ్మజ్ఞానం లేకుండా మోక్షం లేదు — ఇది వేదాంతడిండిమం.",
+    "en": "Liberation does not come through the markers of caste and life-stage, nor through rituals and meditations. Without knowledge of Brahman, there is no liberation. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "వర్ణాశ్రమధర్మం, కర్మకాండ, ఉపాసన — ఇవన్నీ సంప్రదాయంలో గౌరవప్రదమైన స్థానం కలిగినవే, కానీ అవి మోక్షానికి ప్రత్యక్ష సాధనాలు కావని ఈ శ్లోకం స్పష్టం చేస్తుంది. ఇక్కడ ఇవేమీ నిరాకరించబడటం లేదు — వాటికి పరిమితి నిర్దేశించబడుతోంది. కర్మా ఉపాసనా మనసును సిద్ధం చేస్తాయి, జ్ఞానానికి పునాది వేస్తాయి — కానీ చివరి అడుగు జ్ఞానమే వేయాలి. బాహ్యగుర్తులతోనో ఆచారాలతోనో మోక్షం కొనుక్కోలేమని, అది కేవలం అంతర్గత అవగాహన ద్వారానే లభిస్తుందని ఈ శ్లోకం నిర్ద్వంద్వంగా ప్రకటిస్తుంది.",
+    "en": "Varnashrama dharma, ritual, and worship all hold an honoured place in tradition, but this verse makes clear they are not direct means to liberation. Nothing here is being rejected — a boundary is being set on their scope. Ritual and worship prepare the mind and lay the foundation for knowledge — but the final step must be taken by knowledge alone. This verse declares unambiguously that liberation cannot be purchased with external markers or observances — it comes only through inner understanding."
+  }
+}

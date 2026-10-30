@@ -1,0 +1,25 @@
+{
+  "slug": "subrahmanya-bhujanga-stotram",
+  "title_te": "సుబ్రహ్మణ్యభుజఙ్గస్తోత్రమ్",
+  "title_sa": "सुब्रह्मण्यभुजङ्गस्तोत्रम्",
+  "title_en": "Subrahmaṇya Bhujaṅga Stotram",
+  "description_en": "A stotram on Lord Subrahmaṇya (Murugan/Kārttikeya) by Ādi Śaṅkarācārya, composed in the Bhujaṅgaprayāta metre. Tradition holds it was composed at Tiruchendur when Śaṅkara was afflicted with an ailment, and reciting it brought him relief. Praises the six-faced warrior son of Śiva as the supreme deity of wisdom and liberation.",
+  "description_te": "ఆది శంకరాచార్యులు తిరుచెందూర్ లో అనారోగ్యంతో ఉన్నప్పుడు రచించిన సుబ్రహ్మణ్య భుజంగ స్తోత్రం. భుజంగ ప్రయాత వృత్తంలో షణ్ముఖుని కీర్తించే ఈ స్తోత్ర పారాయణంతో నయమైందని ప్రతీతి.",
+  "description_sa": "आदिशङ्करेण तिरुचेन्दूरे रुग्णावस्थायां विरचितं सुब्रह्मण्यस्य भुजङ्गप्रयातस्तोत्रम्। षण्मुखं ज्ञानमुक्तिप्रदं देवं स्तौति। पारायणेन आरोग्यं लब्धमिति परम्परा।",
+  "theme": "orange",
+  "tags": [
+    "subrahmanya",
+    "murugan",
+    "shankaracharya"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "సుబ్రహ్మణ్యభుజఙ్గస్తోత్రమ్",
+      "title_sa": "सुब्रह्मण्यभुजङ्गस्तोत्रम्",
+      "title_en": "Subrahmaṇya Bhujaṅga Stotram",
+      "file": "subrahmanya-bhujanga-stotram.txt"
+    }
+  ]
+}

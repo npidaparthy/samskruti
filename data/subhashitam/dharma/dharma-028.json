@@ -1,0 +1,41 @@
+{
+  "id": "dharma-028",
+  "tags": [
+    "dharma",
+    "adharma",
+    "vinasha"
+  ],
+  "shlokam": {
+    "te": "అధర్మేణైధతే తావత్ తతో భద్రాణి పశ్యతి ।\nతతః సపత్నాన్ జయతి సమూలస్తు వినశ్యతి ॥",
+    "sa": "अधर्मेणैधते तावत् ततो भद्राणि पश्यति ।\nततः सपत्नान् जयति समूलस्तु विनश्यति ॥",
+    "iast": "adharmeṇaidhate tāvat tato bhadrāṇi paśyati ।\ntataḥ sapatnān jayati samūlastu vinaśyati ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మనుస్మృతి",
+    "name_en": "Manusmriti",
+    "chapter": "4.174",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
+  },
+  "padavibhagam": {
+    "te": "అధర్మేణ | ఏధతే | తావత్ | తతః | భద్రాణి | పశ్యతి | తతః | సపత్నాన్ | జయతి | సమూలః | తు | వినశ్యతి",
+    "en": "adharmeṇa | edhate | tāvat | tataḥ | bhadrāṇi | paśyati | tataḥ | sapatnān | jayati | samūlaḥ | tu | vinaśyati"
+  },
+  "anvayam": {
+    "te": "(నరః) అధర్మేణ తావత్ ఏధతే; తతః భద్రాణి పశ్యతి; తతః సపత్నాన్ జయతి; (అన్తే) తు సమూలః వినశ్యతి.",
+    "en": "(A man) adharmeṇa (through adharma) tāvat edhate (prospers for a while); tataḥ (then) bhadrāṇi paśyati (sees good fortune); tataḥ (then) sapatnān jayati (even conquers his rivals); (but in the end) samūlaḥ tu vinaśyati (he is destroyed root and all)."
+  },
+  "meaning": {
+    "te": "అధర్మంతో మనిషి కొంతకాలం వృద్ధి చెందుతాడు; శుభాలు చూస్తాడు; శత్రువులను కూడా జయిస్తాడు — కానీ చివరకు సమూలంగా నశిస్తాడు.",
+    "en": "Through adharma a man prospers for a while; he sees good fortune; he even conquers his rivals — but in the end he perishes root and branch."
+  },
+  "tatparyam": {
+    "te": "అధర్మం వెంటనే శిక్షించదు — అదే దాని అతి పెద్ద మాయ. అన్యాయంగా పైకి వచ్చినవాడు కొంతకాలం వర్ధిల్లడం చూసి ధర్మాత్ముడు కలత చెందవచ్చు; మనువు ఆ సందేహానికి ఇచ్చిన సమాధానం ఇది. అధర్మఫలం ఆలస్యంగా వస్తుంది, కానీ వచ్చినప్పుడు వేరుతో సహా పెళ్లగిస్తుంది. దుర్యోధనుడి నుండి నేటి చరిత్ర వరకు ఈ క్రమం మారలేదు — తాత్కాలిక విజయాలను చూసి ధర్మమార్గాన్ని విడువవద్దన్నది ఇక్కడి హెచ్చరిక.",
+    "en": "Adharma does not punish at once — that is its great illusion. The righteous may despair watching the unscrupulous flourish; this verse is Manu's answer to that doubt. The fruit of adharma ripens late, but when it falls, it uproots the tree entire. From Duryodhana to modern history the pattern holds — do not abandon the path of dharma for the sight of someone's temporary triumph."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "karma-040",
+  "tags": [
+    "karma",
+    "svakarma-siddhi"
+  ],
+  "shlokam": {
+    "te": "స్వే స్వే కర్మణ్యభిరతః సంసిద్ధిం లభతే నరః ।\nస్వకర్మనిరతః సిద్ధిం యథా విన్దతి తచ్ఛృణు ॥",
+    "sa": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः ।\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ॥",
+    "iast": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ ।\nsvakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Mokṣa Sannyāsa Yoga)",
+    "chapter": "18.45",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "స్వే | స్వే | కర్మణి | అభిరతః | సంసిద్ధిమ్ | లభతే | నరః | స్వకర్మనిరతః | సిద్ధిమ్ | యథా | విన్దతి | తత్ | శృణు",
+    "en": "sve | sve | karmaṇi | abhirataḥ | saṃsiddhim | labhate | naraḥ | svakarmanirataḥ | siddhim | yathā | vindati | tat | śṛṇu"
+  },
+  "anvayam": {
+    "te": "స్వే స్వే కర్మణి అభిరతః నరః సంసిద్ధిం లభతే; స్వకర్మనిరతః సిద్ధిం యథా విన్దతి, తత్ శృణు.",
+    "en": "Sve sve karmaṇi abhirataḥ (devoted to one's own respective duty) naraḥ (a person) saṃsiddhiṃ labhate (attains perfection); svakarmanirataḥ (one devoted to their own duty) siddhiṃ yathā vindati (how they attain that perfection), tat śṛṇu (hear that)."
+  },
+  "meaning": {
+    "te": "తన తన కర్తవ్యంలో నిమగ్నుడైన మనిషి పరిపూర్ణతను పొందుతాడు. స్వకర్మనిరతుడు సిద్ధిని ఎలా పొందుతాడో దానిని విను.",
+    "en": "A person devoted to their own respective duty attains perfection. Hear how one devoted to their own duty attains that perfection."
+  },
+  "tatparyam": {
+    "te": "సిద్ధి (పరిపూర్ణత) సాధించడానికి పెద్ద, అసాధారణమైన కర్మలే అవసరం లేదని, తన సొంత కర్తవ్యంలో నిమగ్నత చాలని చెప్పే భరోసానిచ్చే శ్లోకం. ప్రతి వృత్తీ, ప్రతి పాత్రా — అది ఎంత సాధారణమైనదైనా — నిష్ఠగా నిర్వహిస్తే మోక్షమార్గంగా మారుతుందని ఈ శ్లోకం చాటుతుంది. తర్వాతి శ్లోకంలో దీన్ని విస్తరిస్తూ, ప్రతి పనినీ భగవదర్పణంగా చేయమని కృష్ణుడు చెబుతాడు. వృత్తిపరమైన ఔన్నత్యం కన్నా, తన కర్తవ్యంలో ఉన్న అంకితభావమే ఆధ్యాత్మిక ఎదుగుదలకు నిజమైన కొలబద్ద అని ఈ శ్లోకం స్పష్టం చేస్తుంది.",
+    "en": "A reassuring verse declaring that achieving perfection does not require grand, extraordinary deeds — devotion to one's own duty suffices. Every profession, every role — however ordinary — becomes a path to liberation when performed with dedication, this verse holds. In the verse that follows, Krishna extends this, saying that every act performed thus becomes an offering to the divine. Not the prestige of a profession, but the sincerity devoted to one's own duty, is the true measure of spiritual growth, this verse makes clear."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

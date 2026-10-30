@@ -1,0 +1,39 @@
+{
+  "id": "dharma-010",
+  "tags": [
+    "dharma",
+    "ahimsa"
+  ],
+  "shlokam": {
+    "te": "అహింసా పరమో ధర్మః తథాహింసా పరో దమః ।\nఅహింసా పరమం దానం అహింసా పరమం తపః ॥",
+    "sa": "अहिंसा परमो धर्मः तथाहिंसा परो दमः ।\nअहिंसा परमं दानं अहिंसा परमं तपः ॥",
+    "iast": "ahiṃsā paramo dharmaḥ tathāhiṃsā paro damaḥ ।\nahiṃsā paramaṃ dānaṃ ahiṃsā paramaṃ tapaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మహాభారతం — అనుశాసన పర్వం 115.23",
+    "name_en": "Mahābhārata — Anuśāsana Parva 115.23",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్",
+    "grantha_sa": "महाभारतम्"
+  },
+  "padavibhagam": {
+    "te": "అహింసా | పరమః | ధర్మః | తథా | అహింసా | పరః | దమః | అహింసా | పరమం | దానం | అహింసా | పరమం | తపః",
+    "en": "ahiṃsā | paramaḥ | dharmaḥ | tathā | ahiṃsā | paraḥ | damaḥ | ahiṃsā | paramaṃ | dānam | ahiṃsā | paramaṃ | tapaḥ"
+  },
+  "anvayam": {
+    "te": "అహింసా పరమః ధర్మః (అగును); తథా అహింసా పరః దమః (అత్యుత్తమ సంయమం); అహింసా పరమం దానం; అహింసా పరమం తపః.",
+    "en": "ahiṃsā (non-violence) paramaḥ dharmaḥ (is the highest dharma); tathā (likewise) ahiṃsā paraḥ damaḥ (is the highest self-control); ahiṃsā paramaṃ dānam (is the greatest charity); ahiṃsā paramaṃ tapaḥ (is the supreme austerity)."
+  },
+  "meaning": {
+    "te": "అహింస అత్యుత్తమ ధర్మం; అహింస శ్రేష్ఠమైన సంయమం; అహింస పరమ దానం; అహింస పరమ తపస్సు.",
+    "en": "Non-violence is the highest dharma; non-violence is the greatest self-restraint; non-violence is the supreme charity; non-violence is the ultimate austerity."
+  },
+  "tatparyam": {
+    "te": "మహాభారతం అహింసను ఒకే పంక్తిలో సంక్షిప్తం చేస్తుంది — ధర్మం, దమం, దానం, తపస్సు అన్నిటిలోనూ అహింసే పరముత్కృష్టం. ఇది కేవలం హింసను వారించడం కాదు — ఆలోచనలలో, మాటలలో, చేతలలో ఏ జీవికీ హానిచేయకపోవడం. ఇది గాంధీజీకి ప్రేరణ ఇచ్చిన ఉపదేశం.",
+    "en": "The Mahābhārata distils ahiṃsā into a single verse covering every domain of spiritual practice — dharma, restraint, charity, and austerity all find their highest expression in non-violence. This is not merely refraining from physical harm but extending non-injury to thought, word, and deed. This teaching profoundly influenced Mahātmā Gāndhī's philosophy of non-violent resistance."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

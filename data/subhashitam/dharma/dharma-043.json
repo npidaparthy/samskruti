@@ -1,0 +1,41 @@
+{
+  "id": "dharma-043",
+  "tags": [
+    "dharma",
+    "raja",
+    "prajapalana"
+  ],
+  "shlokam": {
+    "te": "ప్రజాసుఖే సుఖం రాజ్ఞః ప్రజానాం చ హితే హితమ్ ।\nనాత్మప్రియం హితం రాజ్ఞః ప్రజానాం తు హితం ప్రియమ్ ॥",
+    "sa": "प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् ।\nनात्मप्रियं हितं राज्ञः प्रजानां तु हितं प्रियम् ॥",
+    "iast": "prajāsukhe sukhaṃ rājñaḥ prajānāṃ ca hite hitam ।\nnātmapriyaṃ hitaṃ rājñaḥ prajānāṃ tu hitaṃ priyam ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "కౌటిల్యుని అర్థశాస్త్రము",
+    "name_en": "Kautilya's Arthashastra",
+    "chapter": "1.19.34",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "ప్రజాసుఖే | సుఖమ్ | రాజ్ఞః | ప్రజానామ్ | చ | హితే | హితమ్ | న | ఆత్మప్రియమ్ | హితమ్ | రాజ్ఞః | ప్రజానామ్ | తు | హితమ్ | ప్రియమ్",
+    "en": "prajāsukhe | sukham | rājñaḥ | prajānām | ca | hite | hitam | na | ātmapriyam | hitam | rājñaḥ | prajānām | tu | hitam | priyam"
+  },
+  "anvayam": {
+    "te": "ప్రజాసుఖే రాజ్ఞః సుఖమ్; ప్రజానాం హితే చ (రాజ్ఞః) హితమ్; రాజ్ఞః ఆత్మప్రియం హితం న; ప్రజానాం హితం తు (రాజ్ఞః) ప్రియమ్.",
+    "en": "Prajāsukhe rājñaḥ sukham (in the happiness of the subjects lies the happiness of the king); prajānāṃ hite ca (rājñaḥ) hitam (and in the welfare of the subjects lies the king's welfare); rājñaḥ ātmapriyaṃ hitaṃ na (what pleases the king alone is not his true welfare); prajānāṃ hitaṃ tu (rājñaḥ) priyam (but what benefits the subjects is what should please the king)."
+  },
+  "meaning": {
+    "te": "ప్రజల సుఖంలోనే రాజు సుఖం ఉంది; ప్రజల హితంలోనే రాజు హితం ఉంది. రాజుకు తనకు నచ్చిందే హితం కాదు; ప్రజలకు హితమైనదే రాజుకు ప్రియమవ్వాలి.",
+    "en": "In the happiness of the subjects lies the king's own happiness; in the welfare of the subjects lies his own welfare. What pleases the king personally is not his true welfare — rather, what benefits the subjects is what should please the king."
+  },
+  "tatparyam": {
+    "te": "కౌటిల్యుని రాజనీతిశాస్త్రంలో పరిపాలననైతికతకు మూలసూత్రంగా నిలిచే శ్లోకం ఇది. రాజు వ్యక్తిగత ప్రాధాన్యతలనూ ప్రజాహితాన్నీ ఒకటిగా చేసే ఈ నిర్వచనం, పాలకుని అస్తిత్వాన్నే పునర్నిర్వచిస్తుంది — అతని సుఖం అతనిదే కాదు, ప్రజలదే. ఇది ఆధునిక ప్రజాస్వామ్యానికి కూడా మార్గదర్శకమైన సూత్రం — ప్రభుత్వం అధికారంలో ఉన్నవారి అభిరుచులకు కాక పౌరుల సంక్షేమానికే జవాబుదారీగా ఉండాలన్న సిద్ధాంతానికి రెండువేల సంవత్సరాల ముందు కౌటిల్యుడు ఇచ్చిన నిర్వచనం ఇది.",
+    "en": "This verse stands as the founding principle of governance ethics in Kautilya's political science. By fusing the king's personal priorities with the welfare of the people, this definition redefines the very existence of a ruler — his happiness is not his own, but the people's. This principle guides modern democracy as well — Kautilya's definition, given two thousand years before the doctrine that government must answer to the welfare of citizens rather than the preferences of those in power."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

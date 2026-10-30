@@ -1,0 +1,40 @@
+{
+  "id": "karma-036",
+  "tags": [
+    "karma",
+    "pancha-hetu"
+  ],
+  "shlokam": {
+    "te": "అధిష్ఠానం తథా కర్తా కరణం చ పృథగ్విధమ్ ।\nవివిధాశ్చ పృథక్చేష్టా దైవం చైవాత్ర పఞ్చమమ్ ॥",
+    "sa": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् ।\nविविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ॥",
+    "iast": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham ।\nvividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Mokṣa Sannyāsa Yoga)",
+    "chapter": "18.14",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "అధిష్ఠానమ్ | తథా | కర్తా | కరణమ్ | చ | పృథగ్విధమ్ | వివిధాః | చ | పృథక్ | చేష్టా | దైవమ్ | చ | ఏవ | అత్ర | పంచమమ్",
+    "en": "adhiṣṭhānam | tathā | kartā | karaṇam | ca | pṛthagvidham | vividhāḥ | ca | pṛthak | ceṣṭā | daivam | ca | eva | atra | pañcamam"
+  },
+  "anvayam": {
+    "te": "అధిష్ఠానమ్, తథా కర్తా, పృథగ్విధం కరణం చ, వివిధాః పృథక్ చేష్టాః చ, దైవం చ ఏవ అత్ర పంచమమ్ (ఇతి కర్మణః హేతవః).",
+    "en": "Adhiṣṭhānam (the seat/body), tathā kartā (as well as the doer), pṛthagvidhaṃ karaṇaṃ ca (and the various instruments — senses), vividhāḥ pṛthak ceṣṭāḥ ca (the manifold, distinct efforts), daivaṃ ca eva atra pañcamam (and fate, as the fifth) — these are the five causes of every action."
+  },
+  "meaning": {
+    "te": "శరీరం, కర్త, వివిధమైన కరణాలు (ఇంద్రియాలు), పలురకాల ప్రయత్నాలు, దైవం అనే ఐదవది — ఇవి కర్మకు ఐదు కారణాలు.",
+    "en": "The body, the doer, the various instruments (senses), the manifold efforts, and fate as the fifth — these are the five causes behind every action."
+  },
+  "tatparyam": {
+    "te": "'నేను చేశాను' అనే సరళమైన భావనను ఐదు అంశాలుగా విడదీసే గీత విశ్లేషణాత్మక శ్లోకం. ప్రతి కర్మ వెనుకా శరీరం (వేదిక), కర్త (వ్యక్తి), ఇంద్రియాలు (సాధనాలు), ప్రయత్నాలు (చేష్టలు), దైవం (పరిస్థితులు/అదృష్టం) అనే ఐదూ కలిసి పనిచేస్తాయని చూపడం ద్వారా — ఏ ఫలితమైనా కేవలం ఒక్క వ్యక్తి 'చేసింది' అనుకోవడం అసంపూర్ణమని గీత సూచిస్తుంది. విజయం వచ్చినప్పుడు 'నేనే సాధించాను' అనే గర్వాన్నీ, అపజయం వచ్చినప్పుడు 'నేనే విఫలమయ్యాను' అనే అపరాధభావననూ ఈ ఐదు కారణాల విశ్లేషణ సున్నితంగా తగ్గిస్తుంది — దైవం (పరిస్థితుల ప్రభావం) ఐదవ భాగస్వామిగా ఎప్పుడూ ఉంటుందని గుర్తుచేస్తూ.",
+    "en": "A Gita verse that analytically breaks the simple notion 'I did this' into five components. By showing that every action involves the body (the seat), the doer (the person), the senses (instruments), efforts (endeavours), and fate (circumstance/luck) working together, the Gita suggests that crediting any outcome entirely to a single individual's doing is incomplete. This five-cause analysis gently tempers both the pride of 'I alone achieved this' in success and the guilt of 'I alone failed' in failure — reminding us that fate, or the influence of circumstance, is always a fifth partner in the mix."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}
