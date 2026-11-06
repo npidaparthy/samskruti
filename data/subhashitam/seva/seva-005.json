@@ -1,0 +1,41 @@
+{
+  "id": "seva-005",
+  "tags": [
+    "seva",
+    "paropakara",
+    "nadi",
+    "vrksha"
+  ],
+  "shlokam": {
+    "te": "పిబన్తి నద్యః స్వయమేవ నామ్భః స్వయం న ఖాదన్తి ఫలాని వృక్షాః ।\nనాదన్తి సస్యం ఖలు వారివాహాః పరోపకారాయ సతాం విభూతయః ॥",
+    "sa": "पिबन्ति नद्यः स्वयमेव नाम्भः स्वयं न खादन्ति फलानि वृक्षाः ।\nनादन्ति सस्यं खलु वारिवाहाः परोपकाराय सतां विभूतयः ॥",
+    "iast": "pibanti nadyaḥ svayameva nāmbhaḥ svayaṃ na khādanti phalāni vṛkṣāḥ ।\nnādanti sasyaṃ khalu vārivāhāḥ paropakārāya satāṃ vibhūtayaḥ ॥"
+  },
+  "chandaH": "ఇన్ద్రవజ్ర (Indravajrā) — 11 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత రత్నాకరం",
+    "name_en": "Subhāṣita Ratnākara",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
+  },
+  "padavibhagam": {
+    "te": "పిబన్తి | నద్యః | స్వయమేవ | న | అంభః | స్వయం | న | ఖాదన్తి | ఫలాని | వృక్షాః | న | అదన్తి | సస్యం | ఖలు | వారివాహాః | పరోపకారాయ | సతాం | విభూతయః",
+    "en": "pibanti | nadyaḥ | svayam+eva | na | ambhaḥ | svayam | na | khādanti | phalāni | vṛkṣāḥ | na | adanti | sasyam | khalu | vārivāhāḥ | paropakārāya | satām | vibhūtayaḥ"
+  },
+  "anvayam": {
+    "te": "నద్యః స్వయమేవ అంభః న పిబన్తి; వృక్షాః స్వయం ఫలాని న ఖాదన్తి; వారివాహాః ఖలు సస్యం న అదన్తి — సతాం విభూతయః పరోపకారాయ (ఏవ ఉపయోగపడుతాయి).",
+    "en": "nadyaḥ (rivers) svayam eva (themselves) ambhaḥ na pibanti (do not drink their own waters); vṛkṣāḥ (trees) svayam phalāni na khādanti (do not eat their own fruits); vārivāhāḥ (clouds) khalu sasyam na adanti (certainly do not eat the crops) — satām vibhūtayaḥ (the wealth of the good) paropakārāya (is for the service of others)."
+  },
+  "meaning": {
+    "te": "నదులు తమ నీటిని తాము తాగవు; చెట్లు తమ పండ్లను తాము తినవు; మేఘాలు తాము పండించిన పంటలను తినవు. సత్పురుషుల సంపద పరుల ఉపకారానికే.",
+    "en": "Rivers do not drink their own water; trees do not eat their own fruit; clouds do not eat the crops they water. The wealth of the virtuous is for the service of others."
+  },
+  "tatparyam": {
+    "te": "ప్రకృతిలోని నది, వృక్షం, మేఘం — ఇవి నిస్వార్థ సేవకు ప్రతీకలు. తాము కష్టపడి ఇతరులకు సేవ చేస్తాయి. ఈ విధంగా సత్పురుషులు కూడా తమ సంపద, విద్య, శక్తిని తమ కోసం కాదు — లోక కల్యాణానికై ఉపయోగించాలని ఈ శ్లోకం బోధిస్తుంది.",
+    "en": "Nature itself models selfless service. Rivers flow for others to drink, trees bear fruit for others to eat, clouds rain for crops they will never taste. The verse uses these three illustrations to set a standard for human conduct: true greatness lies in being a resource for others rather than hoarding gifts for oneself. The wealth, knowledge, and power of good people exists for the welfare of the world."
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+}

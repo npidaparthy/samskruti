@@ -1,0 +1,25 @@
+{
+  "slug": "nirvana-shatkam",
+  "title_te": "నిర్వాణషట్కమ్",
+  "title_sa": "निर्वाणषट्कम्",
+  "title_en": "NirvāṇaṢaṭkam",
+  "description_en": "Six verses by Ādi Śaṅkarācārya, also known as Ātma Ṣaṭkam or Cit Ānanda Rūpaḥ. Each verse methodically negates what the Self is not — not the mind, not the senses, not the ego, not caste or creed — and closes with the declaration \"I am pure consciousness-bliss, I am Śiva.\" A foundational text of Advaita Vedānta.",
+  "description_te": "ఆది శంకరాచార్యులు రచించిన ఆత్మ షట్కం లేదా నిర్వాణ షట్కం. ప్రతి శ్లోకం \"నేను మనస్సు కాదు, ఇంద్రియాలు కాదు, అహంకారం కాదు\" అని ఖండించి \"చిదానంద రూపః శివోఽహం శివోఽహమ్\" అని ముగుస్తుంది. అద్వైత వేదాంత మూలగ్రంథం.",
+  "description_sa": "आदिशङ्करविरचितम् आत्मषट्कम्। प्रत्येकश्लोके मनःबुद्ध्यहङ्काराद्यात्मस्वरूपनिषेधपूर्वकं \"चिदानन्दरूपः शिवोऽहं शिवोऽहम्\" इति प्रतिपाद्यते। अद्वैतवेदान्तस्य मूलग्रन्थः।",
+  "theme": "blue",
+  "tags": [
+    "shankaracharya",
+    "vedanta",
+    "advaita"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "నిర్వాణషట్కమ్",
+      "title_sa": "निर्वाणषट्कम्",
+      "title_en": "NirvāṇaṢaṭkam",
+      "file": "nirvana-shatkam.txt"
+    }
+  ]
+}

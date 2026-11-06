@@ -1,0 +1,42 @@
+{
+  "id": "dharma-002",
+  "tags": [
+    "dharma",
+    "nari",
+    "strī",
+    "grha"
+  ],
+  "shlokam": {
+    "te": "యత్ర నార్యస్తు పూజ్యన్తే రమన్తే తత్ర దేవతాః ।\nయత్రైతాస్తు న పూజ్యన్తే సర్వాస్తత్రాఫలాః క్రియాః ॥",
+    "sa": "यत्र नार्यस्तु पूज्यन्ते रमन्ते तत्र देवताः ।\nयत्रैतास्तु न पूज्यन्ते सर्वास्तत्राफलाः क्रियाः ॥",
+    "iast": "yatra nāryastu pūjyante ramante tatra devatāḥ ।\nyatraitāstu na pūjyante sarvāstatrāphalāḥ kriyāḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup)",
+  "granthaH": {
+    "name_te": "మనుస్మృతి",
+    "name_en": "Manusmṛti",
+    "chapter": "3.56",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్",
+    "grantha_sa": "धर्मशास्त्रम्"
+  },
+  "padavibhagam": {
+    "te": "యత్ర | నార్యః | తు | పూజ్యన్తే | రమన్తే | తత్ర | దేవతాః | యత్ర | ఏతాః | తు | న | పూజ్యన్తే | సర్వాః | తత్ర | అఫలాః | క్రియాః",
+    "en": "yatra | nāryaḥ | tu | pūjyante | ramante | tatra | devatāḥ | yatra | etāḥ | tu | na | pūjyante | sarvāḥ | tatra | aphalāḥ | kriyāḥ"
+  },
+  "anvayam": {
+    "te": "యత్ర నార్యః తు పూజ్యన్తే, తత్ర దేవతాః రమన్తే; యత్ర ఏతాః తు న పూజ్యన్తే, తత్ర సర్వాః క్రియాః అఫలాః (భవన్తి).",
+    "en": "Where women (nāryaḥ) are revered (pūjyante), there the gods rejoice (devatāḥ ramante); where they are not honoured (na pūjyante), all actions there (sarvāḥ kriyāḥ tatra) become fruitless (aphalāḥ)."
+  },
+  "meaning": {
+    "te": "స్త్రీలు పూజింపబడే చోట దేవతలు సంతోషిస్తారు; వారు గౌరవింపబడని చోట అన్ని కర్మలూ నిష్ఫలమవుతాయి.",
+    "en": "Where women are honoured, the gods are pleased; where they are not, all deeds become fruitless."
+  },
+  "tatparyam": {
+    "te": "సంఘంలో స్త్రీల స్థానాన్ని, వారిపట్ల ఉండే గౌరవాన్ని ఆ సంఘం యొక్క ధార్మికత యొక్క కొలమానంగా మనుస్మృతి ప్రతిపాదిస్తుంది. ఎంత గొప్ప యజ్ఞాలు చేసినా, పూజలు చేసినా — స్త్రీలు గౌరవింపబడని ఇంట్లో, సమాజంలో అవి నిష్ఫలమని ఇది స్పష్టంగా చెప్తుంది.",
+    "en": "The status of women is the measure of a society's dharma. No matter how many rituals or prayers are performed, a household or society that does not honour women is spiritually fruitless. This verse — from one of the oldest law texts — is a remarkably progressive statement on gender respect."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

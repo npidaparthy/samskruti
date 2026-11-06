@@ -1,0 +1,40 @@
+{
+  "id": "dharma-045",
+  "tags": [
+    "dharma",
+    "sattva-guna"
+  ],
+  "shlokam": {
+    "te": "యజ్ఞశిష్టాశినః సన్తో ముచ్యన్తే సర్వకిల్బిషైః ।\nభుఞ్జతే తే త్వఘం పాపా యే పచన్త్యాత్మకారణాత్ ॥",
+    "sa": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥",
+    "iast": "yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ ।\nbhuñjate te tvaghaṃ pāpā ye pacantyātmakāraṇāt ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (కర్మయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Karma Yoga)",
+    "chapter": "3.13",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "యజ్ఞశిష్టాశినః | సన్తః | ముచ్యన్తే | సర్వకిల్బిషైః | భుఞ్జతే | తే | తు | అఘమ్ | పాపాః | యే | పచన్తి | ఆత్మకారణాత్",
+    "en": "yajñaśiṣṭāśinaḥ | santaḥ | mucyante | sarvakilbiṣaiḥ | bhuñjate | te | tu | agham | pāpāḥ | ye | pacanti | ātmakāraṇāt"
+  },
+  "anvayam": {
+    "te": "యజ్ఞశిష్టాశినః సన్తః సర్వకిల్బిషైః ముచ్యన్తే; యే ఆత్మకారణాత్ పచన్తి, తే పాపాః తు అఘం భుఞ్జతే.",
+    "en": "Yajñaśiṣṭāśinaḥ santaḥ (the good who eat what remains from a sacrifice/offering) sarvakilbiṣaiḥ mucyante (are freed from all sins); ye ātmakāraṇāt pacanti (those who cook only for their own sake), te pāpāḥ tv aghaṃ bhuñjate (those sinners verily eat sin)."
+  },
+  "meaning": {
+    "te": "యజ్ఞశేషాన్ని భుజించే సజ్జనులు సమస్త పాపాల నుండి విముక్తులవుతారు. కేవలం తమ కోసమే వండుకునే పాపులు పాపాన్నే భుజిస్తారు.",
+    "en": "The good who eat what remains after an offering are freed from all sins. Those who cook only for their own sake — those sinners eat sin itself."
+  },
+  "tatparyam": {
+    "te": "ఆహారాన్ని కూడా అర్పణభావంతో స్వీకరించమని బోధించే గీత శ్లోకం. మొదట ఇతరులకూ, దేవతలకూ, ప్రకృతికీ అర్పించి, మిగిలినదాన్ని తినడమే 'యజ్ఞశిష్టాశనం' — ఇది కృతజ్ఞతాభావంతో కూడిన భోజనవిధానం. కేవలం తన కడుపు నింపుకోవడానికే వండుకుని తినేవాడు ఆ చర్యలో స్వార్థాన్నే పోషిస్తున్నాడని గీత తీక్షణంగా చెబుతుంది. ఆహారం, దాని మూలం, దానిని పండించినవారి శ్రమ పట్ల కృతజ్ఞత లేని భోజనం కేవలం స్వార్థపూరిత చర్య అవుతుందని ఈ శ్లోకం హెచ్చరిస్తుంది — తినడమనే నిత్యకర్మలో కూడా దాతృత్వభావం ఇమిడి ఉండాలని బోధిస్తూ.",
+    "en": "A Gita verse teaching that even eating should be received in a spirit of offering. First offering to others, to the divine, to nature, and only then partaking of what remains — this is 'yajñaśiṣṭāśana', eating with a spirit of gratitude. Krishna states sharply that one who cooks and eats purely to fill their own stomach is nourishing nothing but selfishness in that very act. A meal eaten without gratitude for the food, its origin, and the labour of those who grew it becomes, this verse warns, a purely self-serving act — teaching that even the daily act of eating should carry within it a spirit of giving."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

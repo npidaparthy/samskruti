@@ -1,0 +1,40 @@
+{
+  "id": "niti-054",
+  "tags": [
+    "niti",
+    "grihastha"
+  ],
+  "shlokam": {
+    "te": "త్యజ దుర్జనసంసర్గం భజ సాధుసమాగమమ్ ।\nకురు పుణ్యమహోరాత్రం స్మర నిత్యమనిత్యతామ్ ॥",
+    "sa": "त्यज दुर्जनसंसर्गं भज साधुसमागमम् ।\nकुरु पुण्यमहोरात्रं स्मर नित्यमनित्यताम् ॥",
+    "iast": "tyaja durjanasaṃsargaṃ bhaja sādhusamāgamam ।\nkuru puṇyamahorātraṃ smara nityamanityatām ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "10.4",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "త్యజ | దుర్జనసంసర్గమ్ | భజ | సాధుసమాగమమ్ | కురు | పుణ్యమ్ | అహోరాత్రమ్ | స్మర | నిత్యమ్ | అనిత్యతామ్",
+    "en": "tyaja | durjanasaṃsargam | bhaja | sādhusamāgamam | kuru | puṇyam | ahorātram | smara | nityam | anityatām"
+  },
+  "anvayam": {
+    "te": "దుర్జనసంసర్గం త్యజ; సాధుసమాగమం భజ; అహోరాత్రం పుణ్యం కురు; అనిత్యతాం నిత్యం స్మర.",
+    "en": "Durjanasaṃsargaṃ tyaja (abandon the company of the wicked); sādhusamāgamaṃ bhaja (seek the company of the good); ahorātraṃ puṇyaṃ kuru (perform meritorious acts day and night); anityatāṃ nityaṃ smara (constantly remember impermanence)."
+  },
+  "meaning": {
+    "te": "దుర్జనుల సాంగత్యాన్ని విడువు; సజ్జనుల సాంగత్యాన్ని ఆశ్రయించు; రేయింబవళ్ళూ పుణ్యకార్యాలు చేయి; అశాశ్వతత్వాన్ని ఎప్పుడూ స్మరించుకో.",
+    "en": "Abandon the company of the wicked; seek the company of the good. Perform meritorious deeds day and night. Always remember the impermanence of all things."
+  },
+  "tatparyam": {
+    "te": "నాలుగు క్లుప్తమైన ఆదేశాలలో నిత్యజీవన ప్రవర్తనావళిని అందించే చాణక్యుని శ్లోకం. మొదటి రెండు — సాంగత్యానికి సంబంధించినవి; తర్వాతి రెండు — వ్యక్తిగత సాధనకు సంబంధించినవి. 'అహోరాత్రం' అన్న పదం విశేషమైనది — పుణ్యకార్యం అప్పుడప్పుడు చేసేది కాదు, నిరంతరం సాగించవలసిన అలవాటు అని సూచిస్తుంది. చివరిది — అనిత్యతా స్మరణ — జీవితంలోని ప్రతి క్షణాన్నీ విలువైనదిగా చూసేలా చేసే ఆధ్యాత్మిక క్రమశిక్షణ. చిన్న శ్లోకంలో సాంఘికప్రవర్తన, వ్యక్తిగతసాధన, ఆధ్యాత్మికదృష్టి — మూడూ ఇమిడి ఉన్నాయి.",
+    "en": "A compact code of daily conduct in four brief instructions. The first two concern company; the next two concern personal practice. 'Ahorātram' — day and night — is notable, suggesting that virtuous action is not occasional but a habit to be sustained continuously. The last — remembrance of impermanence — is the spiritual discipline that makes every moment of life feel precious. Social conduct, personal discipline, and spiritual outlook, all folded into one small verse."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

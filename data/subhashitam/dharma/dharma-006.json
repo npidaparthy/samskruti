@@ -1,0 +1,42 @@
+{
+  "id": "dharma-006",
+  "tags": [
+    "dharma",
+    "manas",
+    "trikarana",
+    "shuddhi"
+  ],
+  "shlokam": {
+    "te": "మనసా చిన్తితం కార్యం వాచా నైవ ప్రకాశయేత్ ।\nమన్త్రేణ రక్షయేద్గూఢం కార్యే చాపి నియోజయేత్ ॥",
+    "sa": "मनसा चिन्तितं कार्यं वाचा नैव प्रकाशयेत् ।\nमन्त्रेण रक्षयेद्गूढं कार्ये चापि नियोजयेत् ॥",
+    "iast": "manasā cintitaṃ kāryaṃ vācā naiva prakāśayet ।\nmantreṇa rakṣayedgūḍhaṃ kārye cāpi niyojayet ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup)",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Cāṇakya Nīti",
+    "chapter": "Chapter 9",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "మనసా | చిన్తితమ్ | కార్యమ్ | వాచా | న ఏవ | ప్రకాశయేత్ | మన్త్రేణ | రక్షయేత్ | గూఢమ్ | కార్యే | చ | అపి | నియోజయేత్",
+    "en": "manasā | cintitam | kāryam | vācā | na eva | prakāśayet | mantreṇa | rakṣayet | gūḍham | kārye | ca | api | niyojayet"
+  },
+  "anvayam": {
+    "te": "మనసా చిన్తితం కార్యం వాచా న ఏవ ప్రకాశయేత్; గూఢమ్ మన్త్రేణ రక్షయేత్; కార్యే చ అపి నియోజయేత్.",
+    "en": "The work planned in the mind (manasā cintitam kāryam) should never (na eva) be revealed in words (vācā prakāśayet); keep it secret (gūḍham) and guarded with counsel (mantrena rakṣayet); and engage it only in action (kārye niyojayet)."
+  },
+  "meaning": {
+    "te": "మనసులో ఆలోచించిన కార్యాన్ని నోటితో బహిర్గతం చేయకూడదు; దానిని రహస్యంగా, సంకల్పంతో కాపాడుకుంటూ కేవలం కార్యంలో వినియోగించాలి.",
+    "en": "What is planned in the mind should not be revealed in words; keep it secret and protected, and employ it only in action."
+  },
+  "tatparyam": {
+    "te": "పని అయ్యే వరకు చెప్పకూడదు — ఇది చాణక్యుని ఆచరణాత్మక జ్ఞానం. పరులకు తెలిసిపోతే పరిస్థితులు మారవచ్చు, అవకాశం పోవచ్చు. ఆలోచన → రహస్యంగా కాపాడడం → కార్యంలో వినియోగించడం — ఇదే విజయానికి మార్గం. ఆధునికంగా చెప్పాలంటే: 'Speak less, do more.'",
+    "en": "Do not reveal your plans before they are executed. Premature disclosure invites interference, competition, and failure. Cāṇakya's advice: plan privately, guard your intentions, then act decisively. The modern equivalent: 'Speak less, do more.' Success belongs to those who act before they announce."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

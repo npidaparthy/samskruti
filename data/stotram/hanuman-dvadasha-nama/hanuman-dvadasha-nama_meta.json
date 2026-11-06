@@ -1,0 +1,25 @@
+{
+  "slug": "hanuman-dvadasha-nama",
+  "title_te": "హనుమాన్ ద్వాదశనామస్తోత్రమ్",
+  "title_sa": "हनुमान् द्वादशनामस्तोत्रम्",
+  "title_en": "Hanumān Dvādaśa Nāma Stotram",
+  "description_en": "Twelve sacred names of Lord Hanumān, each encapsulating a facet of his divine glory — his strength, devotion, celibacy, wisdom, and fearlessness. Reciting these twelve names is said to bestow protection, courage, and freedom from fear. A compact yet powerful daily prayer for devotees of Hanumān.",
+  "description_te": "హనుమంతుని పన్నెండు దివ్య నామాలు — ఆయన బలం, భక్తి, బ్రహ్మచర్యం, జ్ఞానం మరియు నిర్భయత్వాన్ని కీర్తిస్తాయి. ఈ నామాలు పారాయణ చేస్తే రక్షణ, ధైర్యం మరియు భయవిముక్తి కలుగుతాయని విశ్వాసం.",
+  "description_sa": "हनुमतः द्वादशनामानि — बलभक्तिब्रह्मचर्यज्ञानाभयत्वादीन् स्तुवन्ति। पारायणेन रक्षा धैर्यं भयमुक्तिश्च लभ्यते इति विश्वासः।",
+  "theme": "saffron",
+  "tags": [
+    "hanuman",
+    "rama",
+    "dvadasha-nama"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "హనుమాన్ ద్వాదశనామస్తోత్రమ్",
+      "title_sa": "हनुमान् द्वादशनामस्तोत्रम्",
+      "title_en": "Hanumān Dvādaśa Nāma Stotram",
+      "file": "hanuman-dvadasha-nama.txt"
+    }
+  ]
+}

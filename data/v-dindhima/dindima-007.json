@@ -1,0 +1,35 @@
+{
+  "id": "dindima-007",
+  "tags": [
+    "dindima",
+    "jnana-karma",
+    "moksha"
+  ],
+  "shlokam": {
+    "te": "జ్ఞానకర్మపదార్థౌ ద్వౌ వస్తుకర్త్రాత్మతన్త్రకౌ ।\nజ్ఞానాన్మోక్షో న కర్మభ్య ఇతి వేదాన్తడిణ్డిమః ॥ ౭ ॥",
+    "sa": "ज्ञानकर्मपदार्थौ द्वौ वस्तुकर्त्रात्मतन्त्रकौ ।\nज्ञानान्मोक्षो न कर्मभ्य इति वेदान्तडिण्डिमः ॥ ७ ॥",
+    "iast": "jñānakarmapadārthau dvau vastukartrātmatantrakau ।\njñānānmokṣo na karmabhya iti vedāntaḍiṇḍimaḥ ॥ 7 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 7"
+  },
+  "padavibhagam": {
+    "te": "జ్ఞానకర్మపదార్థౌ | ద్వౌ | వస్తుకర్త్రాత్మతన్త్రకౌ | జ్ఞానాత్ | మోక్షః | న | కర్మభ్యః | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "jñānakarmapadārthau | dvau | vastukartrātmatantrakau | jñānāt | mokṣaḥ | na | karmabhyaḥ | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "జ్ఞానకర్మపదార్థౌ ద్వౌ, వస్తుకర్త్రాత్మతన్త్రకౌ; జ్ఞానాత్ మోక్షః, న కర్మభ్యః — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Jñānakarmapadārthau dvau (knowledge and action are two categories), vastukartrātmatantrakau (dependent respectively on the object/reality and on the doer's own will); jñānāt mokṣaḥ (liberation comes from knowledge), na karmabhyaḥ (not from actions) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "జ్ఞానం, కర్మ అని రెండు పదార్థాలు — వస్తువుపైనా కర్తపైనా ఆధారపడేవి. మోక్షం జ్ఞానం వల్లనే గానీ కర్మల వల్ల కాదు — ఇది వేదాంతడిండిమం.",
+    "en": "Knowledge and action are two categories — one dependent on the object/reality, the other on the doer's will. Liberation comes from knowledge alone, not from actions. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "జ్ఞానానికీ కర్మకూ మధ్య మౌలికమైన స్వభావభేదాన్ని చూపే శ్లోకం ఇది. కర్మ కర్త ఇష్టానుసారం మారుతుంది — చేయవచ్చు, మానవచ్చు, వేరేలా చేయవచ్చు; కానీ జ్ఞానం వస్తుస్వరూపాన్ని బట్టే నిర్ణయమవుతుంది — వస్తువు ఎలా ఉందో అలాగే తెలుసుకోవాలి, మన ఇష్టానుసారం మార్చలేము. ఈ వ్యత్యాసమే మోక్షానికి జ్ఞానం మాత్రమే ఎందుకు సాధనమో వివరిస్తుంది — కర్మ ద్వారా వాస్తవాన్ని మార్చలేము, జ్ఞానం ద్వారానే వాస్తవాన్ని యథాతథంగా చూడగలం. బంధం అనేది తప్పుడు అవగాహన వల్ల వచ్చింది గనుక, దానిని తొలగించేది సరైన అవగాహనే గానీ చర్య కాదు.",
+    "en": "This verse points to a fundamental difference in nature between knowledge and action. Action varies according to the doer's will — one may do it, refrain, or do it differently; but knowledge is determined by the nature of the object itself — one must know a thing as it actually is, not as one wishes it to be. This very distinction explains why knowledge alone is the means to liberation — action cannot change reality, only knowledge can see reality as it truly is. Since bondage arose from a mistaken understanding, only correct understanding, not action, can remove it."
+  }
+}

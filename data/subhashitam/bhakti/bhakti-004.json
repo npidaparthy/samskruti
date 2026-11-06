@@ -1,0 +1,41 @@
+{
+  "id": "bhakti-004",
+  "tags": [
+    "bhakti",
+    "samarpana",
+    "kayena",
+    "vacha"
+  ],
+  "shlokam": {
+    "te": "కాయేన వాచా మనసేన్ద్రియైర్వా బుద్ధ్యాత్మనా వా ప్రకృతేః స్వభావాత్ ।\nకరోమి యద్యత్ సకలం పరస్మై నారాయణాయేతి సమర్పయామి ॥",
+    "sa": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात् ।\nकरोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि ॥",
+    "iast": "kāyena vācā manasendriyairvā buddhyātmanā vā prakṛteḥ svabhāvāt ।\nkaromi yadyat sakalaṃ parasmai nārāyaṇāyeti samarpayāmi ॥"
+  },
+  "chandaH": "ఇన్ద్రవజ్ర (Indravajrā) — 11 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "నారాయణ సమర్పణ — స్తుతి సంప్రదాయం",
+    "name_en": "Nārāyaṇa Samarpaṇa — devotional tradition",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
+  },
+  "padavibhagam": {
+    "te": "కాయేన | వాచా | మనసా | ఇన్ద్రియైః | వా | బుద్ధ్యా | ఆత్మనా | వా | ప్రకృతేః | స్వభావాత్ | కరోమి | యత్ యత్ | సకలం | పరస్మై | నారాయణాయ | ఇతి | సమర్పయామి",
+    "en": "kāyena | vācā | manasā | indriyaiḥ | vā | buddhyā | ātmanā | vā | prakṛteḥ | svabhāvāt | karomi | yat yat | sakalaṃ | parasmai | nārāyaṇāya | iti | samarpayāmi"
+  },
+  "anvayam": {
+    "te": "కాయేన, వాచా, మనసా, ఇన్ద్రియైః వా, బుద్ధ్యా, ఆత్మనా వా, ప్రకృతేః స్వభావాత్ (నా శరీరం, వాక్కు, మనసు, ఇంద్రియాలు, బుద్ధి, ఆత్మ, ప్రకృతి స్వభావం ద్వారా) యత్ యత్ సకలం కరోమి (ఏదేదైనా చేస్తానో) పరస్మై నారాయణాయ (పరమాత్మ నారాయణునకు) సమర్పయామి ఇతి (సమర్పిస్తున్నాను).",
+    "en": "kāyena vācā manasā indriyaiḥ vā buddhyā ātmanā vā (through body, speech, mind, senses, intellect, soul) prakṛteḥ svabhāvāt (or by the nature of my own being) yat yat sakalaṃ karomi (whatever I do in its entirety) parasmai nārāyaṇāya iti samarpayāmi (I offer all of it to Nārāyaṇa, the Supreme)."
+  },
+  "meaning": {
+    "te": "శరీరంతో, మాటతో, మనసుతో, ఇంద్రియాలతో, బుద్ధితో, ఆత్మతో, లేదా ప్రకృతి స్వభావం వల్ల — ఏదైనా చేస్తానో, అదంతా పరమాత్మ నారాయణునకు సమర్పిస్తున్నాను.",
+    "en": "Whatever I do through body, speech, mind, senses, intellect, or soul — or by the inherent nature of my being — all of it in its entirety I offer to Nārāyaṇa, the Supreme."
+  },
+  "tatparyam": {
+    "te": "ఈ శ్లోకం కర్మ సమర్పణ యొక్క పరాకాష్ఠ. మనిషి తన ప్రతి కార్యాన్ని — శరీరకంగా, వాచికంగా, మానసికంగా — భగవంతునకు అర్పిస్తే కర్మ బంధం కలగదు. ఇది ప్రతి ఉదయం లేదా సాయంత్రం పఠించే శ్లోకం. ప్రతి పని భగవత్కార్యంగా భావించే దృష్టి ఇందులో ఉంది.",
+    "en": "This verse represents the pinnacle of karma-samarpana — the offering of all action to the divine. When every act of body, speech, and mind is consecrated to God, the binding force of karma is dissolved. This is traditionally recited morning or evening as a daily act of total surrender. The verse covers every channel of human activity — the six-fold list (body, speech, mind, senses, intellect, soul) leaves nothing outside the scope of this offering."
+  },
+  "chanda_key": "indravajra",
+  "chanda_sa": "इन्द्रवज्रा / उपेन्द्रवज्रा",
+  "chanda_te": "ఇన్ద్రవజ్రా / ఉపేన్ద్రవజ్రా"
+}

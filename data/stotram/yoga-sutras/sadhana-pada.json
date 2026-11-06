@@ -1,0 +1,882 @@
+[
+  {
+    "n": 1,
+    "sa": "तपः स्वाध्यायेश्वरप्रणिधानानि क्रियायोगः",
+    "te": {
+      "s": "తపస్సు, స్వాధ్యాయం, ఈశ్వరప్రణిధానం కలిసి క్రియాయోగం అవుతుంది.",
+      "d": "ఆచరణాత్మక అధ్యాయం క్రియాయోగంతో మొదలవుతుంది - తపస్సు (క్రమశిక్షణ), స్వాధ్యాయం (స్వీయ అధ్యయనం), ఈశ్వరప్రణిధానం (దైవానికి శరణాగతి). ఈ మూడింటిని కలిపి సాధన చేయడం మనస్సును శుద్ధి చేయడానికి సులభమైన పునాది."
+    },
+    "en": {
+      "s": "Discipline, self-study, and devotion to God together form kriyā yoga.",
+      "d": "Patanjali opens the practical chapter with kriyā yoga, the \"yoga of action\" — tapas (disciplined effort), svādhyāya (self-study/scriptural study), and īśvara-praṇidhāna (surrender to the divine). Practiced together, these three form an accessible foundation for purifying the mind before deeper meditation."
+    },
+    "sad": {
+      "s": "तपःस्वाध्यायेश्वरप्रणिधानानि मिलित्वा क्रियायोगः भवति।",
+      "d": "व्यावहारिकोऽध्यायः क्रियायोगेन आरभ्यते - तपः, स्वाध्यायः, ईश्वरप्रणिधानं च त्रयं समवेतं साधनस्य सुलभः आधारः चित्तशुद्ध्यर्थम्।"
+    }
+  },
+  {
+    "n": 2,
+    "sa": "समाधिभावनार्थः क्लेशतनूकरणार्थश्च",
+    "te": {
+      "s": "క్రియాయోగం యొక్క ఉద్దేశం సమాధిని పెంపొందించడం, క్లేశాలను బలహీనపరచడం.",
+      "d": "క్రియాయోగాన్ని రెండు లక్ష్యాల కోసం సాధన చేస్తారు - సమాధికి అనుకూల పరిస్థితులను పెంపొందించడం, మరియు సాధనకు అడ్డుపడే క్లేశాలను క్రమంగా బలహీనపరచడం."
+    },
+    "en": {
+      "s": "Its purpose is to cultivate samādhi and weaken the afflictions.",
+      "d": "Kriyā yoga is practiced for two reasons: to nurture the conditions for samādhi, and to gradually thin out the kleśas (afflictions) that obstruct it."
+    },
+    "sad": {
+      "s": "क्रियायोगस्य उद्देश्यं समाधिभावनं क्लेशतनूकरणं च।",
+      "d": "क्रियायोगः द्वयोः कारणयोः साध्यते - समाधिसाधनानुकूलपरिस्थितिवर्धनार्थम्, साधनप्रतिबन्धकक्लेशानां क्रमेण तनूकरणार्थं च।"
+    }
+  },
+  {
+    "n": 3,
+    "sa": "अविद्यास्मितारागद्वेषाभिनिवेशाः क्लेशाः",
+    "te": {
+      "s": "అవిద్య, అస్మిత, రాగం, ద్వేషం, అభినివేశం - ఇవి ఐదు క్లేశాలు.",
+      "d": "అన్ని దుఃఖాలకు మూలమైన ఐదు క్లేశాలను పతంజలి పేర్కొంటాడు - అవిద్య (నిజస్వరూపం తెలియకపోవడం), అస్మిత (అహంకారం), రాగం (ఆసక్తి), ద్వేషం (విరోధం), అభినివేశం (మరణభీతి, జీవించాలనే సహజ కోరిక)."
+    },
+    "en": {
+      "s": "Ignorance, egoism, attachment, aversion, and fear of death are the five afflictions.",
+      "d": "Patanjali names the five kleśas that root all suffering: avidyā (ignorance of true nature), asmitā (ego-identification), rāga (attachment), dveṣa (aversion), and abhiniveśa (the instinctive clinging to life/fear of death)."
+    },
+    "sad": {
+      "s": "अविद्यास्मितारागद्वेषाभिनिवेशाः पञ्च क्लेशाः सन्ति।",
+      "d": "सर्वदुःखमूलभूताः पञ्च क्लेशाः पतञ्जलिना निर्दिष्टाः - अविद्या (स्वरूपाज्ञानम्), अस्मिता (अहंकारः), रागः (आसक्तिः), द्वेषः (विरोधः), अभिनिवेशः (मृत्युभीतिः जीवनेच्छा च)।"
+    }
+  },
+  {
+    "n": 4,
+    "sa": "अविद्या क्षेत्रमुत्तरेषां प्रसुप्ततनुविच्छिन्नोदाराणाम्",
+    "te": {
+      "s": "అవిద్యయే మిగతా క్లేశాలకు మూలక్షేత్రం - అవి నిద్రాణంగా, బలహీనంగా, అడ్డుకోబడి, లేదా పూర్తి చురుకుగా ఉండవచ్చు.",
+      "d": "అవిద్య అనేది మిగతా నాలుగు క్లేశాలకు మొలకెత్తే నేల వంటిది. ఇవి నాలుగు స్థితుల్లో ఉండవచ్చు - నిద్రాణం (గుప్తంగా), క్షీణం (సాధన వల్ల బలహీనపడినది), విచ్ఛిన్నం (వ్యతిరేక భావనతో అడ్డుకోబడినది), ఉదారం (పూర్తిగా చురుకుగా పనిచేస్తున్నది)."
+    },
+    "en": {
+      "s": "Ignorance is the field for the others, whether dormant, weak, interrupted, or fully active.",
+      "d": "Avidyā is the soil from which the other four kleśas grow, appearing in four states: dormant (latent, not yet active), weak (thinned by practice), interrupted (suppressed by an opposing state), or fully active (overt and operating)."
+    },
+    "sad": {
+      "s": "अविद्या एव इतरक्लेशानां मूलक्षेत्रम्, ते प्रसुप्तादिचतुर्विधावस्थासु भवन्ति।",
+      "d": "अविद्या इतरेषां चतुर्णां क्लेशानां उद्भवभूमिः। ते चत्वारि अवस्थाः धारयन्ति - प्रसुप्तः (गुप्तः), तनुः (क्षीणः), विच्छिन्नः (विरोधिभावनया स्थगितः), उदारः (पूर्णतया सक्रियः)।"
+    }
+  },
+  {
+    "n": 5,
+    "sa": "अनित्याशुचिदुःखानात्मसु नित्यशुचिसुखात्मख्यातिरविद्या",
+    "te": {
+      "s": "అవిద్య అంటే అనిత్యం, అశుచి, దుఃఖం, అనాత్మలను నిత్యం, శుచి, సుఖం, ఆత్మగా భ్రమించడం.",
+      "d": "అవిద్యకు ఖచ్చితమైన నిర్వచనం ఇక్కడ ఉంది - తాత్కాలికమైన, అశుద్ధమైన, దుఃఖకరమైన, ఆత్మ కానటువంటి వాటిని శాశ్వతమైన, శుద్ధమైన, ఆనందకరమైన, నిజమైన ఆత్మగా భ్రమపడటమే అవిద్య."
+    },
+    "en": {
+      "s": "Ignorance is seeing the impermanent, impure, painful, and non-self as permanent, pure, pleasant, and self.",
+      "d": "Avidyā is defined precisely: it is the fundamental misperception that mistakes what is temporary, impure, suffering-bound, and not-self for what is eternal, pure, blissful, and the true self."
+    },
+    "sad": {
+      "s": "अनित्यादिषु नित्यादिख्यातिः अविद्या इति निर्दिष्टम्।",
+      "d": "अविद्यायाः सुनिश्चितं लक्षणम् इह उक्तम् - अनित्यं अशुचि दुःखं अनात्मकं च यत्, तत् नित्यं शुचि सुखं आत्मकं च इति मिथ्या ज्ञानं अविद्या भवति।"
+    }
+  },
+  {
+    "n": 6,
+    "sa": "दृग्दर्शनशक्त्योरेकात्मतेवास्मिता",
+    "te": {
+      "s": "అస్మిత అంటే చూసే శక్తిని, చూపే శక్తిని ఒకటిగా భ్రమించడం.",
+      "d": "అస్మిత అనేది, చూసే సాధనమైన మనస్సు (దర్శనశక్తి) ను, నిజమైన సాక్షి (దృక్‌శక్తి, శుద్ధ చైతన్యం) తో ఏకం చేసి భ్రమించడం వల్ల కలుగుతుంది - రెండూ ఒకటే అనుకోవడం."
+    },
+    "en": {
+      "s": "Egoism is mistaking the power of seeing for the power of the seer.",
+      "d": "Asmitā arises when the instrument of seeing (the mind/intellect, darśana-śakti) is confused with the seer itself (dṛk-śakti, pure consciousness) — as though they were one and the same identity."
+    },
+    "sad": {
+      "s": "दृक्शक्तिदर्शनशक्त्योः एकत्वभ्रान्तिः अस्मिता।",
+      "d": "यदा दर्शनसाधनं (मनोबुद्ध्यादि) द्रष्टृशक्त्या (शुद्धचैतन्येन) सह एकीभूतमिव भ्रम्यते, तदा अस्मिता जायते।"
+    }
+  },
+  {
+    "n": 7,
+    "sa": "सुखानुशयी रागः",
+    "te": {
+      "s": "సుఖాన్ని అనుసరించి కలిగేది రాగం.",
+      "d": "సుఖకరమైన అనుభవం గుర్తుండిపోయి, దాన్ని పునరావృతం చేయాలనే ఆసక్తి మనస్సులో పెరగడమే రాగం."
+    },
+    "en": {
+      "s": "Attachment follows from pleasure.",
+      "d": "Rāga is the clinging tendency that builds up around remembered pleasure — once an experience has felt pleasurable, the mind develops a pull toward repeating it."
+    },
+    "sad": {
+      "s": "सुखस्मृतिजन्या आसक्तिः रागः।",
+      "d": "यत् अनुभवं सुखकरम् इति स्मृतं, तस्य पुनरावृत्त्यर्थं चित्ते उद्भूता आसक्तिः रागः इति कथ्यते।"
+    }
+  },
+  {
+    "n": 8,
+    "sa": "दुःखानुशयी द्वेषः",
+    "te": {
+      "s": "దుఃఖాన్ని అనుసరించి కలిగేది ద్వేషం.",
+      "d": "దుఃఖకరమైన అనుభవం గుర్తుండిపోయి, దాన్ని తప్పించుకోవాలనే వ్యతిరేకత మనస్సులో పెరగడమే ద్వేషం."
+    },
+    "en": {
+      "s": "Aversion follows from pain.",
+      "d": "Dveṣa is the resistance that forms around remembered pain — once something has caused suffering, the mind develops a push away from it."
+    },
+    "sad": {
+      "s": "दुःखस्मृतिजन्या विरुद्धभावना द्वेषः।",
+      "d": "यत् अनुभवं दुःखकरम् इति स्मृतं, तस्मात् परिवर्जनार्थं चित्ते उद्भूता विरोधभावना द्वेषः इति कथ्यते।"
+    }
+  },
+  {
+    "n": 9,
+    "sa": "स्वरसवाही विदुषोऽपि तथारूढोऽभिनिवेशः",
+    "te": {
+      "s": "జీవించాలనే సహజ ప్రవృత్తి (అభినివేశం) జ్ఞానులలో కూడా లోతుగా ఉంటుంది.",
+      "d": "అభినివేశం (మరణభీతి, జీవించాలనే కోరిక) తనదైన వేగంతో సహజంగా ప్రవహిస్తుంది. ఇది అజ్ఞానులలోనే కాదు, జ్ఞానులు, పండితులలో కూడా లోతుగా వేళ్ళూనుకుని ఉంటుంది."
+    },
+    "en": {
+      "s": "Even the wise carry the deeply-rooted instinct of clinging to life.",
+      "d": "Abhiniveśa, the fear of death and instinctive clinging to continued existence, flows by its own momentum (svarasa) and is so deeply rooted that it persists even in the learned and wise, not just the ignorant."
+    },
+    "sad": {
+      "s": "अभिनिवेशः स्वरसप्रवृत्तः विदुषोऽपि दृढमूलः भवति।",
+      "d": "अभिनिवेशः (मृत्युभीतिः जीवनासक्तिः च) स्वकीयवेगेन स्वभावतः प्रवहति। एषः केवलम् अज्ञानिनः न, अपि तु विद्वत्सु पण्डितेषु च दृढमूलतया तिष्ठति।"
+    }
+  },
+  {
+    "n": 10,
+    "sa": "ते प्रतिप्रसवहेयाः सूक्ष्माः",
+    "te": {
+      "s": "సూక్ష్మరూపంలో ఉన్న క్లేశాలు వాటి మూలానికి తిరిగి వెళ్ళడం ద్వారా తొలగిపోతాయి.",
+      "d": "క్లేశాలు సూక్ష్మ బీజరూపంలో (ఇంకా చురుకుగా మారనప్పుడు) ఉన్నప్పుడు, వాటిని ప్రతిప్రసవం ద్వారా - అంటే వాటి మూలకారణానికి తిరిగి వెళ్ళి, ఆ సూక్ష్మ స్థాయిలోనే కరిగించడం ద్వారా తొలగించవచ్చు."
+    },
+    "en": {
+      "s": "In their subtle form, these are removed by resolving them back to their source.",
+      "d": "When the kleśas exist only as subtle seeds (not yet active), they are removed through pratiprasava — tracing them back to their root cause and dissolving them at that subtle level, often through deep meditative reabsorption."
+    },
+    "sad": {
+      "s": "सूक्ष्मरूपाः क्लेशाः प्रतिप्रसवेन (मूलकारणं प्रति गमनेन) हेयाः भवन्ति।",
+      "d": "यदा क्लेशाः सूक्ष्मबीजरूपेण (अद्यापि असक्रियतया) तिष्ठन्ति, तदा ते प्रतिप्रसवेन - स्वमूलकारणं प्रति गत्वा तत्रैव सूक्ष्मस्तरे विलयनेन - निवारणीयाः भवन्ति।"
+    }
+  },
+  {
+    "n": 11,
+    "sa": "ध्यानहेयास्तद्वृत्तयः",
+    "te": {
+      "s": "క్లేశాలు చురుకుగా మారి వృత్తుల రూపంలో ఉన్నప్పుడు ధ్యానం ద్వారా తొలగిపోతాయి.",
+      "d": "క్లేశాలు చురుకైన మానసిక చర్యలుగా (వృత్తులుగా) - స్పష్టమైన ఆలోచనలు, ప్రతిచర్యలు, ప్రేరణలుగా - బయటపడినప్పుడు, వాటిని ధ్యానం ద్వారా, నిరంతర సాధన ద్వారా ఎదుర్కోవాలి."
+    },
+    "en": {
+      "s": "In their active form as mental fluctuations, they are removed through meditation.",
+      "d": "Once the kleśas have surfaced as active mental fluctuations (vṛttis) — overt thoughts, reactions, and impulses — they are dealt with through sustained meditative practice, dhyāna, rather than the subtler method used for dormant seeds."
+    },
+    "sad": {
+      "s": "वृत्तिरूपेण सक्रियाः क्लेशाः ध्यानेन हेयाः भवन्ति।",
+      "d": "यदा क्लेशाः सक्रियचित्तवृत्तिरूपेण - स्पष्टविचारप्रतिक्रियाप्रेरणारूपेण - प्रकटाः भवन्ति, तदा ते निरन्तरध्यानाभ्यासेन एव निवारणीयाः, न तु सूक्ष्मस्तरोपायेन।"
+    }
+  },
+  {
+    "n": 12,
+    "sa": "क्लेशमूलः कर्माशयो दृष्टादृष्टजन्मवेदनीयः",
+    "te": {
+      "s": "క్లేశమూలమైన కర్మాశయం, ఈ జన్మలో లేదా రాబోయే జన్మలలో అనుభవించబడుతుంది.",
+      "d": "కర్మాశయం (నిల్వ ఉన్న కర్మల సముదాయం) క్లేశాల మూలంగా ఏర్పడుతుంది, దాని ఫలితాలు ఈ ప్రత్యక్షమైన (దృష్ట) జన్మలో లేదా రాబోయే అదృష్ట జన్మలలో అనుభవించబడతాయి."
+    },
+    "en": {
+      "s": "The store of karma, rooted in the afflictions, is experienced in this birth or future births.",
+      "d": "Karmāśaya, the accumulated reservoir of past actions, has the kleśas as its root cause, and its fruits ripen either in this visible (dṛṣṭa) life or in unseen (adṛṣṭa) future births."
+    },
+    "sad": {
+      "s": "क्लेशमूलः कर्माशयः अस्मिन् अन्यजन्मनि वा वेद्यते।",
+      "d": "कर्माशयः (संचितकर्मसमूहः) क्लेशान् मूलं कृत्वा निर्मितः भवति। तस्य फलं अस्मिन् दृष्टे जन्मनि अथवा अदृष्टे भाविजन्मनि परिपक्वं भवति।"
+    }
+  },
+  {
+    "n": 13,
+    "sa": "सति मूले तद्विपाको जात्यायुर्भोगाः",
+    "te": {
+      "s": "మూలం ఉన్నంత కాలం, దాని ఫలితం జన్మ, ఆయుష్షు, అనుభవాలను నిర్ణయిస్తుంది.",
+      "d": "క్లేశమూలమైన కర్మాశయం ఉన్నంత కాలం, దాని పరిపక్వత (విపాకం) మూడు విషయాలను నిర్ణయిస్తుంది - జాతి (జన్మ స్వభావం), ఆయుష్షు (జీవితకాలం), భోగాలు (అనుభవించే సుఖదుఃఖాలు)."
+    },
+    "en": {
+      "s": "As long as the root exists, its fruition shapes one's birth, lifespan, and experiences.",
+      "d": "While the root (the kleśa-based karmāśaya) remains, its ripening (vipāka) determines three things: jāti (the kind/species/circumstance of birth), āyus (the duration of life), and bhoga (the experiences, pleasant and painful, one undergoes)."
+    },
+    "sad": {
+      "s": "मूले सत्येव विपाकः जातिं आयुः भोगान् च निर्धारयति।",
+      "d": "यावत् क्लेशमूलः कर्माशयः तिष्ठति, तावत् तस्य विपाकः त्रयं निर्धारयति - जातिः (जन्मस्वभावः), आयुः (जीवनकालः), भोगाः (सुखदुःखानुभवाः) इति।"
+    }
+  },
+  {
+    "n": 14,
+    "sa": "ते ह्लादपरितापफलाः पुण्यापुण्यहेतुत्वात्",
+    "te": {
+      "s": "ఇవి పుణ్య, అపుణ్య కారణాల వల్ల ఆనందం లేదా బాధను ఫలితంగా ఇస్తాయి.",
+      "d": "జాతి, ఆయుష్షు, భోగాలు - వీటి ఫలితాలు ఆనందకరం (హ్లాదం) లేదా బాధాకరం (పరితాపం) అవుతాయి, అది వాటి మూలకారణం పుణ్యమా (సత్కర్మ) లేదా అపుణ్యమా (దుష్కర్మ) అనే దానిపై ఆధారపడి ఉంటుంది."
+    },
+    "en": {
+      "s": "These bring pleasure or pain as fruit, depending on virtuous or non-virtuous causes.",
+      "d": "Jāti, āyus, and bhoga produce results that are either pleasurable (hlāda) or painful (paritāpa), depending on whether their underlying cause was puṇya (virtuous action) or apuṇya (non-virtuous action)."
+    },
+    "sad": {
+      "s": "एते पुण्यापुण्यहेतुत्वात् हर्षदुःखफलदाः भवन्ति।",
+      "d": "जातिः आयुः भोगाः च, तत्तत्कारणस्य पुण्यत्वम् अपुण्यत्वं वा अनुसृत्य, हर्षदायकं (ह्लादम्) दुःखदायकं (परितापं) वा फलं प्रयच्छन्ति।"
+    }
+  },
+  {
+    "n": 15,
+    "sa": "परिणामतापसंस्कारदुःखैर्गुणवृत्तिविरोधाच्च दुःखमेव सर्वं विवेकिनः",
+    "te": {
+      "s": "వివేకవంతులకు అన్నీ దుఃఖంగానే కనిపిస్తాయి - పరిణామం, తాపం, సంస్కారం, గుణవృత్తి విరోధం వల్ల.",
+      "d": "వివేకం కలిగిన వ్యక్తికి, సాధారణ సుఖం కూడా దుఃఖంగా గోచరిస్తుంది - నాలుగు కారణాల వల్ల: పరిణామదుఃఖం (మార్పు వల్ల కలిగే బాధ), తాపదుఃఖం (మరింత కోరుకునే ఆందోళన), సంస్కారదుఃఖం (సుఖం వదిలే సంస్కారాల బంధనం), గుణవృత్తుల నిరంతర సంఘర్షణ."
+    },
+    "en": {
+      "s": "To the discerning, all is suffering — through change, anxiety, conditioning, and the conflict of nature's qualities.",
+      "d": "For one with refined discernment, even ordinary pleasure is recognized as suffering, because of four factors: pariṇāma-duḥkha (the pain of inevitable change), tāpa-duḥkha (the underlying anxiety from craving more), saṁskāra-duḥkha (the binding impressions pleasure leaves), and the constant conflict among the guṇas' fluctuating activity."
+    },
+    "sad": {
+      "s": "विवेकिनः सर्वं दुःखमेव - परिणामतापसंस्कारैः गुणवृत्तिविरोधेन च।",
+      "d": "सूक्ष्मविवेकयुक्तस्य जनस्य सामान्यं सुखमपि दुःखं प्रतिभाति - चतुर्भिः कारणैः: परिणामदुःखेन (अवश्यंभावि-परिवर्तनजन्यपीडया), तापदुःखेन (अधिकाकाङ्क्षाजन्यचिन्तया), संस्काराहितदुःखेन (सुखेन निहितैः बन्धकसंस्कारैः), गुणवृत्तीनां निरन्तरसङ्घर्षेण च।"
+    }
+  },
+  {
+    "n": 16,
+    "sa": "हेयं दुःखमनागतम्",
+    "te": {
+      "s": "రాబోయే దుఃఖాన్ని నివారించాలి.",
+      "d": "గతంలో జరిగిన దుఃఖాన్ని మార్చలేము, కానీ ఇంకా రాని భవిష్యత్ దుఃఖాన్ని - దాని కారణాలను ఇప్పుడే ఎదుర్కోవడం ద్వారా - నివారించడమే యోగసాధన లక్ష్యం."
+    },
+    "en": {
+      "s": "Future suffering is to be avoided.",
+      "d": "While past suffering cannot be undone, future suffering — duḥkha that has not yet arrived — is what yoga practice aims to prevent, by addressing its causes now."
+    },
+    "sad": {
+      "s": "अनागतं दुःखं हेयं (निवार्यं) भवति।",
+      "d": "भूतं दुःखं परिवर्तितुं न शक्यते, परं अनागतं दुःखं - तस्य कारणानि सम्प्रति निवार्य - योगसाधनस्य मुख्यं प्रयोजनम्।"
+    }
+  },
+  {
+    "n": 17,
+    "sa": "द्रष्टृदृश्ययोः संयोगो हेयहेतुः",
+    "te": {
+      "s": "తొలగించవలసిన కారణం ద్రష్ట, దృశ్యాల కలయిక (సంయోగం).",
+      "d": "నివారించవలసిన దుఃఖానికి మూలకారణం సంయోగం - ద్రష్ట (పురుషుడు) దృశ్యం (ప్రకృతి/మనస్సు) తో ఏకమైనట్లు భ్రమించడం. ఈ తప్పుడు ఏకీభావం వల్లనే అన్ని దుఃఖాలు పుడతాయి."
+    },
+    "en": {
+      "s": "The cause to be removed is the union of the seer and the seen.",
+      "d": "The root cause of avoidable suffering is saṁyoga — the apparent union/conflation of the seer (puruṣa) with the seen (prakṛti/mind), which creates false identification and all its downstream suffering."
+    },
+    "sad": {
+      "s": "द्रष्टृदृश्ययोः संयोगः एव हेयदुःखस्य हेतुः।",
+      "d": "निवार्यदुःखस्य मूलकारणं संयोगः - द्रष्टा (पुरुषः) दृश्येन (प्रकृत्या/चित्तेन) सह एकीभूतः इव भ्रमणम्। एतया मिथ्यैकीभावेन एव सर्वाणि दुःखानि उद्भवन्ति।"
+    }
+  },
+  {
+    "n": 18,
+    "sa": "प्रकाशक्रियास्थितिशीलं भूतेन्द्रियात्मकं भोगापवर्गार्थं दृश्यम्",
+    "te": {
+      "s": "దృశ్యం (ప్రకృతి) భూతేంద్రియాత్మకం, ప్రకాశ-క్రియా-స్థితి స్వభావం కలది, భోగం-అపవర్గం కోసం ఉంటుంది.",
+      "d": "దృశ్యం (కనిపించే ప్రకృతి - మనస్సు, భూతాలు, ఇంద్రియాలు) మూడు గుణాల స్వభావం కలది - ప్రకాశం (సత్వం), క్రియ (రజస్సు), స్థితి (తమస్సు). ఇది రెండు లక్ష్యాల కోసం ఉంటుంది - భోగం (అనుభవం ఇవ్వడం), అపవర్గం (చివరికి విముక్తికి దోహదపడటం)."
+    },
+    "en": {
+      "s": "The seen is made of elements and senses, characterized by light, activity, and inertia, existing for experience and liberation.",
+      "d": "Dṣśya, the \"seen\" (the entire field of prakṛti including mind, elements, and senses), has the nature of the three guṇas — illumination (sattva), activity (rajas), and inertia (tamas) — and exists for two purposes: providing experience (bhoga) and ultimately enabling liberation (apavarga)."
+    },
+    "sad": {
+      "s": "दृश्यं भूतेन्द्रियात्मकं त्रिगुणस्वभावं भोगापवर्गार्थं च।",
+      "d": "दृश्यं (प्रकृतिक्षेत्रं - चित्तभूतेन्द्रियात्मकम्) त्रिगुणस्वभावं वहति - प्रकाशः (सत्त्वम्), क्रिया (रजः), स्थितिः (तमः)। एतद् द्वयोः प्रयोजनयोः वर्तते - भोगः (अनुभवप्रदानम्), अपवर्गः (अन्ततो मोक्षसाधनम्) इति।"
+    }
+  },
+  {
+    "n": 19,
+    "sa": "विशेषाविशेषलिङ्गमात्रालिङ्गानि गुणपर्वाणि",
+    "te": {
+      "s": "గుణాల పర్వాలు (దశలు) - విశేషం, అవిశేషం, లింగమాత్రం, అలింగం అని నాలుగు.",
+      "d": "ప్రకృతి యొక్క వ్యక్తీకరణను పతంజలి నాలుగు సూక్ష్మ దశలుగా చూపుతాడు - విశేషం (స్థూల భూతాలు/ఇంద్రియాలు), అవిశేషం (సూక్ష్మ తత్త్వాలు), లింగమాత్రం (మహత్/బుద్ధి తత్త్వం), అలింగం (అవ్యక్త మూలప్రకృతి)."
+    },
+    "en": {
+      "s": "The stages of the guṇas are: the particularized, the unparticularized, the mere-mark, and the markless.",
+      "d": "Patanjali maps prakṣti's unfolding through four stages of subtlety: viśeṣa (the particularized — gross elements/senses), aviśeṣa (the unparticularized — subtle elements), liṅgamātra (mere mark — the principle of mahat/buddhi), and aliṅga (the markless — unmanifest root prakṣti)."
+    },
+    "sad": {
+      "s": "गुणपर्वाणि चत्वारि - विशेषः, अविशेषः, लिङ्गमात्रम्, अलिङ्गं च।",
+      "d": "प्रकृत्याभिव्यक्तिः पतञ्जलिना चतुर्भिः सूक्ष्मक्रमैः निरूपिता - विशेषः (स्थूलभूतेन्द्रियाणि), अविशेषः (सूक्ष्मतत्त्वानि), लिङ्गमात्रम् (महत्तत्त्वं बुद्धिः), अलिङ्गम् (अव्यक्तं मूलप्रकृतितत्त्वम्) इति।"
+    }
+  },
+  {
+    "n": 20,
+    "sa": "द्रष्टा दृशिमात्रः शुद्धोऽपि प्रत्ययानुपश्यः",
+    "te": {
+      "s": "ద్రష్ట కేవలం దృశి (స్వచ్ఛ చైతన్యం) మాత్రమే అయినా, మనోవృత్తుల ద్వారా చూసినట్లుగా అనిపిస్తుంది.",
+      "d": "పురుషుడు దృశిమాత్రుడు - కేవలం స్వచ్ఛమైన చూసే చైతన్యం, ఏ మాలిన్యం లేనిది. అయినా, ఆచరణలో అతడు మనస్సు యొక్క భావనల (ప్రత్యయాల) ద్వారా చూస్తున్నట్లుగా అనుభవమవుతుంది, నిజానికి తన శుద్ధస్వరూపం మారకుండానే."
+    },
+    "en": {
+      "s": "The seer, though pure awareness alone, perceives through the medium of thought.",
+      "d": "The puruṣa is dṣśi-mātra — pure seeing itself, untainted — yet in practical experience it appears to perceive objects through pratyaya (the mind's cognitions), seeming to \"watch through\" the lens of thought even while remaining essentially pure."
+    },
+    "sad": {
+      "s": "द्रष्टा शुद्धदृशिमात्रः अपि प्रत्ययद्वारा पश्यतीव।",
+      "d": "पुरुषः दृशिमात्रः - केवलं शुद्धं दर्शनचैतन्यम्, निर्मलम्। तथापि व्यवहारे सः चित्तप्रत्ययानां (भावनानां) माध्यमेन पश्यन् इव अनुभूयते, स्वस्वरूपे तु अपरिवर्तितः एव तिष्ठति।"
+    }
+  },
+  {
+    "n": 21,
+    "sa": "तदर्थ एव दृश्यस्यात्मा",
+    "te": {
+      "s": "దృశ్యం యొక్క ఉనికి ద్రష్ట కోసమే.",
+      "d": "దృశ్యానికి (కనిపించే ప్రపంచం, మనస్సుతో సహా) తనకంటూ ప్రత్యేక ఉద్దేశం లేదు - దాని మొత్తం ఉనికి (ఆత్మ) ద్రష్టకు అనుభవం, వివేకం కలిగించడం కోసమే."
+    },
+    "en": {
+      "s": "The very existence of the seen is for the sake of that seer.",
+      "d": "Dṣśya (the seen world, including mind) has no purpose of its own — its entire existence (ātmā) is for the sake of the seer, existing solely to provide experience and discrimination to puruṣa."
+    },
+    "sad": {
+      "s": "दृश्यस्य अस्तित्वं द्रष्ट्रर्थमेव।",
+      "d": "दृश्यस्य (चित्तसहितस्य दर्शनीयजगतः) स्वकीयं प्रयोजनं नास्ति - तस्य सम्पूर्णं अस्तित्वम् (आत्मा) द्रष्ट्रे अनुभवविवेकप्रदानार्थम् एव वर्तते।"
+    }
+  },
+  {
+    "n": 22,
+    "sa": "कृतार्थं प्रति नष्टमप्यनष्टं तदन्यसाधारणत्वात्",
+    "te": {
+      "s": "ఒక వ్యక్తికి కృతార్థమైనా, ఇతరులకు సాధారణం కావడం వల్ల ప్రకృతి అంతరించదు.",
+      "d": "ఒక ముక్తపురుషుని కోసం ప్రకృతి తన ప్రయోజనం పూర్తి చేసుకున్నా, అది అంతరించిపోదు - ఎందుకంటే ఇంకా బంధంలో ఉన్న ఇతర జీవులకు ఇది ఇంకా అనుభవం కలిగిస్తూనే ఉంటుంది, ఇది అందరికీ సాధారణమైన క్షేత్రం కాబట్టి."
+    },
+    "en": {
+      "s": "Though it has ceased to function for one whose purpose is fulfilled, it persists for others, being shared.",
+      "d": "For a liberated seer whose purpose is fulfilled, prakṣti's display effectively ceases to matter to them — yet it isn't destroyed, because it remains active for the experience of other, still-bound beings, since it is a shared field."
+    },
+    "sad": {
+      "s": "कृतार्थस्य पुरुषस्य कृते नष्टा अपि प्रकृतिः अन्येषां साधारणत्वात् न नष्टा भवति।",
+      "d": "मुक्तपुरुषस्य कृतार्थत्वेन प्रकृतिप्रपञ्चः तस्य कृते निरर्थकः इव भवति, परन्तु सः न नश्यति - यतः अद्यापि बद्धानां अन्यजीवानां अनुभवार्थं सः सक्रियः तिष्ठति, सर्वसाधारणक्षेत्रत्वात्।"
+    }
+  },
+  {
+    "n": 23,
+    "sa": "स्वस्वामिशक्त्योः स्वरूपोपलब्धिहेतुः संयोगः",
+    "te": {
+      "s": "సంయోగం వల్లనే స్వ (ప్రకృతి), స్వామి (పురుషుడు) తమ నిజస్వరూపాన్ని తెలుసుకుంటారు.",
+      "d": "ప్రకృతి (యజమాని సొత్తు) మరియు పురుషుడు (యజమాని) యొక్క కలయిక (సంయోగం) ఒక ప్రయోజనాన్ని నెరవేరుస్తుంది - ఈ కలయిక వల్లనే ప్రతి ఒక్కటి తన నిజస్వరూపాన్ని గుర్తించగలుగుతుంది."
+    },
+    "en": {
+      "s": "Union is the cause of recognizing the natures of the owned and the owner.",
+      "d": "Saṁyoga, the apparent conjunction of prakṣti (the owned, sva) and puruṣa (the owner, svāmin), serves a purpose: it is precisely through this conjunction that each comes to recognize its own true nature (svarūpa)."
+    },
+    "sad": {
+      "s": "स्वस्वामिनोः (प्रकृतिपुरुषयोः) संयोगः उभयोः स्वरूपज्ञानस्य हेतुः।",
+      "d": "प्रकृतेः (स्वस्य) पुरुषस्य (स्वामिनः) च प्रत्यक्षसंयोगः प्रयोजनं साधयति - अनेन संयोगेन एव प्रत्येकं स्वकीयं यथार्थस्वरूपं ज्ञातुं शक्नोति।"
+    }
+  },
+  {
+    "n": 24,
+    "sa": "तस्य हेतुरविद्या",
+    "te": {
+      "s": "ఆ సంయోగానికి కారణం అవిద్యే.",
+      "d": "ఈ సంయోగం (ద్రష్ట, దృశ్యాల కలయిక) ఎందుకు జరుగుతుంది, కొనసాగుతుంది అనే లోతైన కారణం అవిద్యే - ద్రష్ట యొక్క నిజమైన, వేరైన స్వరూపాన్ని కప్పి ఉంచే మూలాజ్ఞానం."
+    },
+    "en": {
+      "s": "Ignorance is the cause of that union.",
+      "d": "The deeper cause behind why this union (saṁyoga) occurs and persists is avidyā — the fundamental ignorance that obscures the seer's true, separate nature."
+    },
+    "sad": {
+      "s": "तस्य (संयोगस्य) हेतुः अविद्या एव।",
+      "d": "एतस्य संयोगस्य उद्भवस्य स्थैर्यस्य च गूढं कारणं अविद्या - द्रष्ट्रः यथार्थं पृथक्स्वरूपं आवृणुयत् मूलाज्ञानम्।"
+    }
+  },
+  {
+    "n": 25,
+    "sa": "तदभावात्संयोगाभावो हानं तद्दृशेः कैवल्यम्",
+    "te": {
+      "s": "అవిద్య లేకుండా సంయోగం ఆగిపోతుంది - ఇదే ద్రష్ట యొక్క కైవల్యం.",
+      "d": "అవిద్య తొలగినప్పుడు, సంయోగం (ద్రష్ట-దృశ్యాల కలయిక) కూడా సహజంగా ఆగిపోతుంది - ఈ నిరోధమే హానం అని పిలువబడుతుంది, ఇదే ద్రష్ట యొక్క కైవల్యం (స్వతంత్ర, ఏకాంత విముక్తి)."
+    },
+    "en": {
+      "s": "With its absence, union ceases — this is liberation, the independence of the seer.",
+      "d": "When avidyā is removed, saṁyoga (the union of seer and seen) naturally dissolves too — this cessation is hāna (\"the removal\"), and it constitutes kaivalya, the seer's independent, isolated freedom in its own nature."
+    },
+    "sad": {
+      "s": "तदभावे संयोगाभावः, एतद्धानं द्रष्ट्रः कैवल्यम्।",
+      "d": "यदा अविद्या निवृत्ता भवति, तदा संयोगः (द्रष्टृदृश्ययोः ऐक्यम्) अपि स्वभावतः निवर्तते। एतत् निरोधं हानम् इति कथ्यते, एतदेव द्रष्ट्रः कैवल्यं (स्वतन्त्रं एकान्तिकं मोक्षम्) भवति।"
+    }
+  },
+  {
+    "n": 26,
+    "sa": "विवेकख्यातिरविप्लवा हानोपायः",
+    "te": {
+      "s": "నిరంతర వివేకఖ్యాతియే ఆ నిరోధానికి సాధనం.",
+      "d": "అవిద్యను తొలగించే చివరి సాధనం వివేకఖ్యాతి - పురుషుడు, ప్రకృతుల మధ్య తేడాను స్థిరంగా, ఎడతెగకుండా గుర్తించే వివేకజ్ఞానం."
+    },
+    "en": {
+      "s": "Unwavering discriminative knowledge is the means to that removal.",
+      "d": "The method (upāya) for achieving this final removal of ignorance is viveka-khyāti — steady, unbroken discriminative discernment between puruṣa and prakṣti, sustained without lapse."
+    },
+    "sad": {
+      "s": "अविप्लवा विवेकख्यातिः एव हानस्य उपायः।",
+      "d": "अन्तिमस्य अविद्यानिरोधस्य उपायः विवेकख्यातिः - पुरुषप्रकृतिभेदस्य स्थिरा अविच्छिन्ना विवेकदृष्टिः।"
+    }
+  },
+  {
+    "n": 27,
+    "sa": "तस्य सप्तधा प्रान्तभूमिः प्रज्ञा",
+    "te": {
+      "s": "ఆ ప్రజ్ఞ ఏడు అంతిమ దశల్లో వెల్లడవుతుంది.",
+      "d": "వివేకఖ్యాతి స్థిరపడిన తర్వాత, అది ఏడు విభిన్నమైన అంతిమ దశల్లో (సప్తధా ప్రాంతభూమి ప్రజ్ఞ) వ్యక్తమవుతుంది, ప్రతి దశ పాత బంధనాల నుండి మరింత లోతైన, పూర్తి విముక్తిని సూచిస్తుంది."
+    },
+    "en": {
+      "s": "That insight unfolds in seven progressive final stages.",
+      "d": "Viveka-khyāti, once stabilized, manifests through seven distinct stages of culminating insight (sapta-dhā prānta-bhūmi-prajñā), each marking deeper and more complete liberation from old patterns."
+    },
+    "sad": {
+      "s": "सा प्रज्ञा सप्तधा प्रान्तभूमिरूपेण प्रकटीभवति।",
+      "d": "स्थिरीभूता विवेकख्यातिः सप्तविधैः चरमावस्थाक्रमैः अभिव्यक्ता भवति, प्रत्येकं पूर्वसंस्कारेभ्यः अधिकतरां सम्पूर्णतां मोक्षं च सूचयति।"
+    }
+  },
+  {
+    "n": 28,
+    "sa": "योगाङ्गानुष्ठानादशुद्धिक्षये ज्ञानदीप्तिराविवेकख्यातेः",
+    "te": {
+      "s": "యోగాంగాల ఆచరణ వల్ల అశుద్ధి తగ్గి, వివేకఖ్యాతి వరకు జ్ఞానదీప్తి పెరుగుతుంది.",
+      "d": "యోగం యొక్క అంగాలను (తరువాత చెప్పబోయేవి) నిరంతరం ఆచరించడం వల్ల అశుద్ధులు క్రమంగా నశిస్తాయి, దాంతో జ్ఞానదీప్తి స్థిరంగా పెరిగి, చివరికి సంపూర్ణ వివేకఖ్యాతి వరకు వ్యాపిస్తుంది."
+    },
+    "en": {
+      "s": "Through practicing yoga's limbs, impurity decreases, until the light of knowledge culminates in discernment.",
+      "d": "By sustained practice of yoga's limbs (described next), impurities are progressively destroyed, and the resulting light of knowledge (jñāna-dīpti) grows steadily until it reaches a-vivekakhyāti — that is, continues right up to (and culminates in) full discriminative discernment."
+    },
+    "sad": {
+      "s": "योगाङ्गानुष्ठानेन अशुद्धिः क्षीयते, विवेकख्यातिं यावत् ज्ञानदीप्तिः वर्धते।",
+      "d": "योगस्य अङ्गानां (अनन्तरोक्तानां) निरन्तराभ्यासेन अशुद्धयः क्रमेण नश्यन्ति, ततः ज्ञानदीप्तिः स्थिरतया वर्धमाना अन्ततः सम्पूर्णां विवेकख्यातिं यावत् व्याप्नोति।"
+    }
+  },
+  {
+    "n": 29,
+    "sa": "यमनियमासनप्राणायामप्रत्याहारधारणाध्यानसमाधयोऽष्टावङ्गानि",
+    "te": {
+      "s": "యమం, నియమం, ఆసనం, ప్రాణాయామం, ప్రత్యాహారం, ధారణ, ధ్యానం, సమాధి - ఇవి ఎనిమిది అంగాలు.",
+      "d": "యోగం యొక్క ప్రసిద్ధ అష్టాంగాలను పతంజలి ఇక్కడ పేర్కొంటాడు - యమం (నైతిక నియమాలు), నియమం (వ్యక్తిగత ఆచారాలు), ఆసనం (భంగిమ), ప్రాణాయామం (శ్వాస నియంత్రణ), ప్రత్యాహారం (ఇంద్రియ నిగ్రహం), ధారణ (ఏకాగ్రత), ధ్యానం, సమాధి."
+    },
+    "en": {
+      "s": "Restraint, observance, posture, breath control, withdrawal, concentration, meditation, and absorption are the eight limbs.",
+      "d": "Patanjali now lists the famous aṣṭāṅga (eight limbs) of yoga: yama (ethical restraints), niyama (personal observances), āsana (posture), prāṇāyāma (breath regulation), pratyāhāra (sense withdrawal), dhāraṇā (concentration), dhyāna (meditation), and samādhi (absorption)."
+    },
+    "sad": {
+      "s": "यमनियमासनप्राणायामप्रत्याहारधारणाध्यानसमाधयः अष्टौ अङ्गानि सन्ति।",
+      "d": "योगस्य प्रसिद्धाः अष्टावङ्गाः इह उक्ताः - यमः (नैतिकनियमाः), नियमः (वैयक्तिकाचाराः), आसनम् (स्थितिः), प्राणायामः (श्वासनियन्त्रणम्), प्रत्याहारः (इन्द्रियसंयमः), धारणा (एकाग्रता), ध्यानम्, समाधिः च।"
+    }
+  },
+  {
+    "n": 30,
+    "sa": "अहिंसासत्यास्तेयब्रह्मचर्यापरिग्रहा यमाः",
+    "te": {
+      "s": "అహింస, సత్యం, అస్తేయం, బ్రహ్మచర్యం, అపరిగ్రహం - ఇవి ఐదు యమాలు.",
+      "d": "యోగంలో మొదటి అంగమైన యమంలో ఐదు నైతిక నియమాలు ఉంటాయి - అహింస (హింస చేయకపోవడం), సత్యం (నిజాయితీ), అస్తేయం (దొంగతనం చేయకపోవడం), బ్రహ్మచర్యం (శక్తిని సరిగ్గా ఉపయోగించడం), అపరిగ్రహం (అత్యాశ లేకపోవడం)."
+    },
+    "en": {
+      "s": "Non-violence, truthfulness, non-stealing, celibacy/chastity, and non-greed are the restraints.",
+      "d": "The five yamas — ethical restraints forming the first limb — are: ahiṁsā (non-harming), satya (truthfulness), asteya (non-stealing), brahmacarya (chastity/right use of vital energy), and aparigraha (non-greed/non-possessiveness)."
+    },
+    "sad": {
+      "s": "अहिंसासत्यास्तेयब्रह्मचर्यापरिग्रहाः पञ्च यमाः सन्ति।",
+      "d": "योगस्य प्रथमाङ्गे यमे पञ्च नैतिकनियमाः वर्तन्ते - अहिंसा, सत्यम्, अस्तेयम्, ब्रह्मचर्यम् (शक्तेः सम्यगुपयोगः), अपरिग्रहः (अलोभः) इति।"
+    }
+  },
+  {
+    "n": 31,
+    "sa": "जातिदेशकालसमयानवच्छिन्नाः सार्वभौमा महाव्रतम्",
+    "te": {
+      "s": "జన్మ, దేశం, కాలం, పరిస్థితులకు అతీతంగా పాటిస్తే ఇవి మహావ్రతం అవుతాయి.",
+      "d": "యమాలు తమ అత్యున్నత స్థాయికి (మహావ్రతం) చేరుకుంటాయి - అవి జన్మ, దేశం, కాలం, ప్రత్యేక పరిస్థితుల వంటి సాకులకు అతీతంగా, విశ్వవ్యాప్తంగా, ఎల్లప్పుడూ పాటించబడినప్పుడు."
+    },
+    "en": {
+      "s": "Unconditioned by birth, place, time, or circumstance, they become the great universal vow.",
+      "d": "The yamas reach their highest fulfillment (mahāvrata, the \"great vow\") when practiced universally — not limited or excused by one's birth-status, location, time, or special circumstance."
+    },
+    "sad": {
+      "s": "जातिदेशकालसमयैः अनवच्छिन्नाः सार्वभौमाः यमाः महाव्रतं भवन्ति।",
+      "d": "यमाः परमोत्कर्षं (महाव्रतं) प्राप्नुवन्ति, यदा ते जन्मना देशेन कालेन विशेषपरिस्थित्या वा अपरिच्छिन्नाः सर्वत्र सर्वदा च पाल्यन्ते।"
+    }
+  },
+  {
+    "n": 32,
+    "sa": "शौचसन्तोषतपःस्वाध्यायेश्वरप्रणिधानानि नियमाः",
+    "te": {
+      "s": "శౌచం, సంతోషం, తపస్సు, స్వాధ్యాయం, ఈశ్వరప్రణిధానం - ఇవి ఐదు నియమాలు.",
+      "d": "రెండవ అంగమైన నియమంలో ఐదు వ్యక్తిగత ఆచారాలు ఉంటాయి - శౌచం (శుద్ధత, లోపల-బయట), సంతోషం (తృప్తి), తపస్సు (క్రమశిక్షణ), స్వాధ్యాయం (స్వీయ అధ్యయనం), ఈశ్వరప్రణిధానం (దైవభక్తి)."
+    },
+    "en": {
+      "s": "Cleanliness, contentment, discipline, self-study, and devotion to God are the observances.",
+      "d": "The five niyamas (personal observances), the second limb, are: śauca (cleanliness, inner and outer), santoṣa (contentment), tapas (disciplined effort), svādhyāya (self-study), and īśvara-praṇidhāna (devotion to the divine)."
+    },
+    "sad": {
+      "s": "शौचसन्तोषतपःस्वाध्यायेश्वरप्रणिधानानि पञ्च नियमाः सन्ति।",
+      "d": "द्वितीयाङ्गे नियमे पञ्च वैयक्तिकाचाराः वर्तन्ते - शौचम् (अन्तर्बाह्यशुद्धिः), सन्तोषः (तृप्तिः), तपः (अनुशासनम्), स्वाध्यायः, ईश्वरप्रणिधानम् (भक्तिः) इति।"
+    }
+  },
+  {
+    "n": 33,
+    "sa": "वितर्कबाधने प्रतिपक्षभावनम्",
+    "te": {
+      "s": "దుష్ట ఆలోచనలు ఇబ్బంది పెడితే, వాటికి వ్యతిరేక భావనను పెంచుకోవాలి.",
+      "d": "యమ-నియమాలకు విరుద్ధమైన ఆలోచనలు (వితర్కాలు) మనస్సును కలవరపరిచినప్పుడు, దానికి విరుగుడు ప్రతిపక్షభావన - ఉద్దేశపూర్వకంగా దానికి వ్యతిరేకమైన, మంచి భావనను పెంపొందించుకోవడం."
+    },
+    "en": {
+      "s": "When disturbed by negative thoughts, cultivate their opposite.",
+      "d": "When unwholesome thoughts (vitarka, contrary to the yamas/niyamas) disturb the mind, the remedy is pratipakṣa-bhāvana — deliberately cultivating the opposite, wholesome thought."
+    },
+    "sad": {
+      "s": "वितर्कैः बाधिते सति प्रतिपक्षभावनं कार्यम्।",
+      "d": "यमनियमविरुद्धाः अशुभविचाराः (वितर्काः) चित्तं बाधन्ते चेत्, तदा प्रतिपक्षभावनम् एव औषधम् - सम्यक् प्रयत्नेन विरुद्धं शुभं भावं चित्ते स्थापनीयम्।"
+    }
+  },
+  {
+    "n": 34,
+    "sa": "वितर्का हिंसादयः कृतकारितानुमोदिता लोभक्रोधमोहपूर्वका मृदुमध्याधिमात्रा दुःखाज्ञानानन्तफला इति प्रतिपक्षभावनम्",
+    "te": {
+      "s": "హింసాది దుష్ట ఆలోచనలు ఎవరు చేసినా, ఎంత తీవ్రతలో అయినా అనంత దుఃఖానికి, అజ్ఞానానికి దారితీస్తాయని భావించడమే ప్రతిపక్షభావన.",
+      "d": "ఈ సూత్రం ఆ సాధనను విపులీకరిస్తుంది - హింస వంటి హానికరమైన ఆలోచనలు, తాను చేసినా, ఇతరులను చేయించినా, లేదా కేవలం సమ్మతించినా; లోభం, క్రోధం, మోహం వల్ల కలిగినా; మృదువుగా, మధ్యమంగా, తీవ్రంగా ఉన్నా - అన్నీ అంతులేని దుఃఖానికి, అజ్ఞానానికి దారితీస్తాయని స్పష్టంగా గ్రహించడమే ప్రతిపక్షభావన."
+    },
+    "en": {
+      "s": "Reflecting that harmful thoughts — done, caused, or approved, from greed, anger, or delusion, in mild, medium, or intense degree — yield endless pain and ignorance, is itself the cultivation of the opposite.",
+      "d": "This sutra elaborates the practice: contemplate that harmful impulses like violence — whether you do them yourself, cause others to do them, or merely approve of them; whether driven by greed, anger, or delusion; and whether mild, moderate, or intense — all lead to endless suffering and ignorance. Holding this clearly in mind is itself the pratipakṣa-bhāvana."
+    },
+    "sad": {
+      "s": "हिंसादिवितर्काः सर्वथा दुःखाज्ञानानन्तफलाः इति चिन्तनं प्रतिपक्षभावनम्।",
+      "d": "इदं सूत्रं तत् साधनं विस्तारयति - हिंसादयः अशुभविचाराः, स्वयं कृताः, अन्येन कारिताः, अनुमोदिताः वा; लोभक्रोधमोहजन्याः; मृदुमध्यतीव्राः वा - सर्वे अनन्तं दुःखम् अज्ञानं च जनयन्ति इति स्पष्टं चिन्तनम् एव प्रतिपक्षभावनम्।"
+    }
+  },
+  {
+    "n": 35,
+    "sa": "अहिंसाप्रतिष्ठायां तत्सन्निधौ वैरत्यागः",
+    "te": {
+      "s": "అహింస స్థిరపడితే, ఆ వ్యక్తి సమీపంలో శత్రుత్వం తొలగిపోతుంది.",
+      "d": "సాధనా సిద్ధికి సంకేతం ఇది - ఎవరిలో అహింస లోతుగా, స్థిరంగా నెలకొంటుందో, వారి సమీపంలో సహజంగా శత్రుత్వం కలిగిన జీవులు కూడా తమ విరోధాన్ని వదిలేస్తాయి."
+    },
+    "en": {
+      "s": "When non-violence is firmly established, hostility ceases in one's presence.",
+      "d": "As a sign of mastery: when ahiṁsā becomes deeply, unshakably established in a person, even naturally hostile beings give up their enmity in that person's presence."
+    },
+    "sad": {
+      "s": "अहिंसायां सुस्थिरतायां सत्यां तत्समीपे वैरभावः निवर्तते।",
+      "d": "साधनासिद्धेः चिह्नम् एतत् - यस्मिन् अहिंसा गाढतया स्थिरा भवति, तस्य समीपे स्वभावतः विरोधयुक्ताः जीवाः अपि स्वकीयं वैरं त्यजन्ति।"
+    }
+  },
+  {
+    "n": 36,
+    "sa": "सत्यप्रतिष्ठायां क्रियाफलाश्रयत्वम्",
+    "te": {
+      "s": "సత్యం స్థిరపడితే, చర్యలు, వాటి ఫలితాలు ఆ సత్యవచనంపై ఆధారపడతాయి.",
+      "d": "సత్యం లోతుగా నెలకొన్నప్పుడు, ఆ వ్యక్తి మాటలు వాస్తవంతో ఎంతగా అనుసంధానమవుతాయంటే, చర్యలు, వాటి ఫలితాలు ఆ మాటలను అనుసరించడం మొదలుపెడతాయి - వారు చెప్పింది నిజమవుతుంది."
+    },
+    "en": {
+      "s": "When truthfulness is established, actions and their results become dependable.",
+      "d": "When satya is firmly rooted, one's words become so aligned with reality that actions and their fruits start to rest upon (and follow) one's speech — what such a person says tends to come true."
+    },
+    "sad": {
+      "s": "सत्ये सुस्थिरे क्रियाफलं तद्वचनं आश्रित्य भवति।",
+      "d": "यस्य सत्यं गाढतया स्थिरीभूतं, तस्य वचनं यथार्थेन तथा सम्बद्धं भवति यत् क्रियाः तत्फलानि च तद्वचनम् अनुसरन्ति - सः यत् वदति, तत् सत्यं भवति।"
+    }
+  },
+  {
+    "n": 37,
+    "sa": "अस्तेयप्रतिष्ठायां सर्वरत्नोपस्थानम्",
+    "te": {
+      "s": "అస్తేయం స్థిరపడితే, అన్ని సంపదలు తనకు తానే వచ్చి చేరతాయి.",
+      "d": "అస్తేయం (దొంగతనం చేయని స్వభావం) పూర్తిగా స్థిరపడినప్పుడు, ఆశ్చర్యకరమైన ఫలితం కలుగుతుంది - ఎలాంటి కోరిక, ప్రయత్నం లేకుండానే అన్ని రకాల సంపదలు సాధకుని వద్దకు తానంతటతానే వస్తాయి."
+    },
+    "en": {
+      "s": "When non-stealing is established, all treasures present themselves.",
+      "d": "When asteya is fully established, a remarkable result follows: all kinds of wealth and treasures spontaneously come within the practitioner's reach, without any grasping effort."
+    },
+    "sad": {
+      "s": "अस्तेये सुस्थिरे सर्वरत्नानि स्वयमेव उपस्थिता भवन्ति।",
+      "d": "अस्तेयस्य पूर्णस्थैर्ये आश्चर्यजनकं फलं भवति - विना केनापि लोभप्रयत्नेन सर्वविधाः सम्पत्तयः साधकं प्रति स्वयमेव उपस्थिताः भवन्ति।"
+    }
+  },
+  {
+    "n": 38,
+    "sa": "ब्रह्मचर्यप्रतिष्ठायां वीर्यलाभः",
+    "te": {
+      "s": "బ్రహ్మచర్యం స్థిరపడితే, వీర్యలాభం (శక్తి సముపార్జన) కలుగుతుంది.",
+      "d": "బ్రహ్మచర్యం (శక్తిని క్రమశిక్షణతో, స్పృహతో ఉపయోగించడం) స్థిరంగా నెలకొన్నప్పుడు, దాని సహజ ఫలితంగా శక్తివంతమైన వీర్యలాభం - బలం, అంతరిక సామర్థ్యం పెరుగుతాయి."
+    },
+    "en": {
+      "s": "When chastity is established, vitality is gained.",
+      "d": "When brahmacarya (the disciplined, conscious use of vital/sexual energy) becomes firmly established, the natural result is vīrya-lābha — a powerful gain of vital energy, strength, and inner potency."
+    },
+    "sad": {
+      "s": "ब्रह्मचर्ये सुस्थिरे वीर्यलाभः सिद्ध्यति।",
+      "d": "ब्रह्मचर्यस्य (शक्तेः अनुशासितसचेतनोपयोगस्य) सुस्थिरत्वे, स्वाभाविकं फलं वीर्यलाभः - बलं अन्तःसामर्थ्यं च वर्धते।"
+    }
+  },
+  {
+    "n": 39,
+    "sa": "अपरिग्रहस्थैर्ये जन्मकथन्तासम्बोधः",
+    "te": {
+      "s": "అపరిగ్రహం స్థిరపడితే, జన్మ ఎందుకు, ఎలా జరుగుతుందో అనే జ్ఞానం కలుగుతుంది.",
+      "d": "అపరిగ్రహం (వస్తువులపై ఆశ లేకపోవడం) లోతుగా స్థిరపడినప్పుడు, సాధకునికి జన్మ యొక్క స్వభావం, కారణం గురించి స్పష్టమైన అవగాహన కలుగుతుంది."
+    },
+    "en": {
+      "s": "When non-possessiveness is steady, knowledge of the how and why of birth arises.",
+      "d": "When aparigraha (non-grasping, non-possessiveness) becomes deeply stable, the practitioner gains janma-kathantā-sambodha — clear insight into the mechanics and purpose of birth and existence itself."
+    },
+    "sad": {
+      "s": "अपरिग्रहे सुस्थैर्ये जन्मस्वरूपकारणयोः सम्बोधः जायते।",
+      "d": "अपरिग्रहस्य (वस्तुविषयाशाशून्यत्वस्य) गाढस्थैर्ये, साधकः जन्मनः स्वरूपं कारणं च स्पष्टतया अवगच्छति।"
+    }
+  },
+  {
+    "n": 40,
+    "sa": "शौचात्स्वाङ्गजुगुप्सा परैरसंसर्गः",
+    "te": {
+      "s": "శౌచం వల్ల తన శరీరం పట్ల వైరాగ్యం, ఇతరుల శరీరాలతో అనవసర సంబంధం తొలగడం కలుగుతుంది.",
+      "d": "శౌచం (శుద్ధత) లోతవుతున్న కొద్దీ ఒక మానసిక ఫలితం కలుగుతుంది - తన శరీరం పట్ల ఆరోగ్యకరమైన నిర్లిప్తత (దాని ఉపరితల ఆకర్షణను అతిక్రమించడం), ఇతరుల శరీరాలతో అనవసరమైన అనుబంధం తగ్గడం."
+    },
+    "en": {
+      "s": "From cleanliness comes detachment from one's own body and non-contact with others.",
+      "d": "A psychological result of deepening śauca (purity): one develops jugupsā, a healthy detachment toward one's own physical body (seeing past its surface), along with reduced compulsive contact-seeking with others' bodies."
+    },
+    "sad": {
+      "s": "शौचात् स्वशरीरे जुगुप्सा परशरीरैः असंसर्गश्च भवति।",
+      "d": "शौचस्य गाढत्वेन एकः मानसिकः परिणामः भवति - स्वकीयशरीरे स्वस्थवैराग्यम् (तस्य बाह्याकर्षणातिक्रमणम्), परशरीरैः अनावश्यकसंसर्गस्य च ह्रासः।"
+    }
+  },
+  {
+    "n": 41,
+    "sa": "सत्त्वशुद्धिसौमनस्यैकाग्र्येन्द्रियजयात्मदर्शनयोग्यत्वानि च",
+    "te": {
+      "s": "అంతఃశుద్ధి వల్ల చిత్తశుద్ధి, ఆనందం, ఏకాగ్రత, ఇంద్రియ జయం, ఆత్మదర్శన యోగ్యత కలుగుతాయి.",
+      "d": "శౌచం యొక్క ఫలాలను కొనసాగిస్తూ, ముఖ్యంగా అంతఃశుద్ధి వల్ల - సత్వశుద్ధి (మనోద్రవ్య స్వచ్ఛత), సౌమనస్యం (ఆహ్లాదకరమైన మనస్సు), ఏకాగ్ర్యం (ఒకే బిందువుపై ఏకాగ్రత), ఇంద్రియజయం (ఇంద్రియాలపై నియంత్రణ), ఆత్మదర్శనయోగ్యత్వం (ఆత్మసాక్షాత్కారానికి సిద్ధత) అన్నీ కలిసి వృద్ధి చెందుతాయి."
+    },
+    "en": {
+      "s": "And purity of mind, gladness, one-pointedness, sense-mastery, and fitness for self-realization follow.",
+      "d": "Continuing the fruits of śauca, especially inner purity: clarity of sattva (mind-substance), saumanasya (cheerfulness), ekāgrya (one-pointed focus), indriya-jaya (mastery over senses), and ātma-darśana-yogyatva (fitness/readiness for Self-realization) all develop together."
+    },
+    "sad": {
+      "s": "सत्त्वशुद्धिसौमनस्यैकाग्र्येन्द्रियजयात्मदर्शनयोग्यत्वानि च क्रमेण सिद्ध्यन्ति।",
+      "d": "शौचस्य फलानि, विशेषतः अन्तःशुद्धिः, अनुवर्तमानानि - सत्त्वशुद्धिः (मनोद्रव्यस्वच्छता), सौमनस्यम् (आह्लादः), एकाग्र्यम्, इन्द्रियजयः, आत्मदर्शनयोग्यत्वं च सर्वाणि एकत्र वर्धन्ते।"
+    }
+  },
+  {
+    "n": 42,
+    "sa": "सन्तोषादनुत्तमसुखलाभः",
+    "te": {
+      "s": "సంతోషం వల్ల అత్యున్నతమైన సుఖలాభం కలుగుతుంది.",
+      "d": "సంతోషం (ఉన్నదానితో నిజమైన తృప్తి) వల్ల అనుత్తమమైన సుఖం కలుగుతుంది - బాహ్య సాధనల వల్ల కలిగే ఏ సుఖానికీ సరితూగని అత్యున్నత ఆనందం."
+    },
+    "en": {
+      "s": "From contentment comes unsurpassed happiness.",
+      "d": "Santoṣa, true contentment with what is, yields anuttama-sukha — a supreme happiness unmatched by anything that comes from external acquisition."
+    },
+    "sad": {
+      "s": "संतोषात् अनुत्तमं सुखं लभ्यते।",
+      "d": "संतोषः (यथास्थितेः सत्या तृप्तिः) अनुत्तमं सुखं प्रयच्छति - बाह्यसाधनजन्यात् कस्यापि सुखात् अधिकं, अतुलनीयं परमं सुखम्।"
+    }
+  },
+  {
+    "n": 43,
+    "sa": "कायेन्द्रियसिद्धिरशुद्धिक्षयात्तपसः",
+    "te": {
+      "s": "తపస్సు వల్ల అశుద్ధి నశించి, శరీరం, ఇంద్రియాల సిద్ధి కలుగుతుంది.",
+      "d": "తపస్సు (క్రమశిక్షణతో కూడిన కఠోర సాధన) ద్వారా పేరుకుపోయిన అశుద్ధులు క్రమంగా దహించుకుపోతాయి, ఫలితంగా శరీరం, ఇంద్రియాలు పరిపూర్ణతను (సిద్ధిని) పొందుతాయి."
+    },
+    "en": {
+      "s": "From austerity, through the destruction of impurity, comes perfection of body and senses.",
+      "d": "Through tapas (disciplined austerity), accumulated impurities are progressively burned away, resulting in kāyendriya-siddhi — refined perfection of both the body and the sense organs."
+    },
+    "sad": {
+      "s": "तपसः अशुद्धिक्षयाद् कायेन्द्रियसिद्धिः भवति।",
+      "d": "तपसा (अनुशासितकठोरसाधनेन) सञ्चिताः अशुद्धयः क्रमेण दग्धाः भवन्ति, फलतः कायः इन्द्रियाणि च परिपूर्णतां (सिद्धिं) लभन्ते।"
+    }
+  },
+  {
+    "n": 44,
+    "sa": "स्वाध्यायादिष्टदेवतासम्प्रयोगः",
+    "te": {
+      "s": "స్వాధ్యాయం వల్ల తనకు ఇష్టమైన దేవతతో సంప్రయోగం (అనుసంధానం) కలుగుతుంది.",
+      "d": "స్వాధ్యాయం (పవిత్ర గ్రంథాలు, మంత్రాల నిరంతర అధ్యయనం, జపం) ద్వారా, సాధకుడు తనకు ఇష్టమైన దైవరూపంతో (ఇష్టదేవతతో) లోతైన అనుసంధానాన్ని (సంప్రయోగం) అనుభవిస్తాడు."
+    },
+    "en": {
+      "s": "From self-study comes union with one's chosen deity.",
+      "d": "Through svādhyāya — sustained study and recitation of sacred texts/mantras — one develops samprayoga, a felt connection or communion with iṣṭa-devatā, one's chosen form of the divine."
+    },
+    "sad": {
+      "s": "स्वाध्यायात् इष्टदेवतया सम्प्रयोगः सिद्ध्यति।",
+      "d": "स्वाध्यायेन (पवित्रग्रन्थमन्त्राणां निरन्तराध्ययनजपेन), साधकः स्वाभिमतेन देवतारूपेण (इष्टदेवतया) सह गाढं सम्बन्धं (सम्प्रयोगं) अनुभवति।"
+    }
+  },
+  {
+    "n": 45,
+    "sa": "समाधिसिद्धिरीश्वरप्रणिधानात्",
+    "te": {
+      "s": "ఈశ్వరప్రణిధానం వల్ల సమాధి సిద్ధి కలుగుతుంది.",
+      "d": "ఈశ్వరప్రణిధానం (పూర్తి హృదయపూర్వక శరణాగతి) ద్వారా సమాధి సిద్ధి కలుగుతుంది - సమాధిపాదంలో పతంజలి చెప్పిన ప్రత్యామ్నాయ మార్గాన్నే ఇది ప్రతిధ్వనిస్తుంది."
+    },
+    "en": {
+      "s": "From devotion to God comes perfection of samādhi.",
+      "d": "Through īśvara-praṇidhāna — wholehearted surrender to the divine — the perfection of samādhi (meditative absorption) is attained, echoing the alternative path Patanjali described earlier in Samadhi Pada."
+    },
+    "sad": {
+      "s": "ईश्वरप्रणिधानात् समाधिसिद्धिः जायते।",
+      "d": "ईश्वरप्रणिधानेन (सम्पूर्णहृदयशरणागत्या), समाधेः सिद्धिः प्राप्यते - समाधिपादे पतञ्जलिप्रोक्तं विकल्पमार्गम् एव एतत् प्रतिध्वनयति।"
+    }
+  },
+  {
+    "n": 46,
+    "sa": "स्थिरसुखमासनम्",
+    "te": {
+      "s": "స్థిరంగా, సుఖంగా ఉండేదే ఆసనం.",
+      "d": "ఆసనానికి పతంజలి ఇచ్చిన సంక్షిప్త నిర్వచనం ఇది - ఏ శరీర భంగిమ అయినా స్థిరంగా (కదలకుండా), సుఖంగా (సౌకర్యంగా) ఉంటే అదే ఆసనం. ఇక్కడ నిర్దిష్ట ఆకారం కంటే లక్షణమే ముఖ్యం."
+    },
+    "en": {
+      "s": "Posture is that which is steady and comfortable.",
+      "d": "Patanjali's concise definition of āsana: it is whatever bodily position is sthira (firm, stable) and sukha (comfortable, at ease) — emphasizing function over any specific shape."
+    },
+    "sad": {
+      "s": "स्थिरं सुखं च यत्, तदेव आसनम्।",
+      "d": "आसनस्य पतञ्जलिकृतं संक्षिप्तं लक्षणम् - यत् कायस्थितिः स्थिरा (अचला) सुखा (सुकरा) च भवति, सा एव आसनम्। इह विशिष्टाकारात् लक्षणमेव प्राधान्येन निरूपितम्।"
+    }
+  },
+  {
+    "n": 47,
+    "sa": "प्रयत्नशैथिल्यानन्तसमापत्तिभ्याम्",
+    "te": {
+      "s": "ప్రయత్నశైథిల్యం, అనంతంలో లీనమవ్వడం ద్వారా ఆసనం సిద్ధిస్తుంది.",
+      "d": "ఆసనం పరిపూర్ణతను పొందడానికి రెండు పూరక మార్గాలున్నాయి - ప్రయత్నశైథిల్యం (అనవసర ప్రయత్నాన్ని, ఒత్తిడిని వదిలేయడం), అనంత సమాపత్తి (శ్వాస లేదా ఆకాశం వంటి అనంతమైన దానిపై మనస్సును నిలపడం) - వీటి కలయిక వల్ల ఆసనం శ్రమ లేకుండా స్థిరపడుతుంది."
+    },
+    "en": {
+      "s": "It is mastered through relaxation of effort and merging with the infinite.",
+      "d": "Āsana becomes perfected through two complementary approaches: prayatna-śaithilya (releasing unnecessary effort/tension) combined with ananta-samāpatti (resting attention on something infinite, like the breath or sky), allowing posture to stabilize without strain."
+    },
+    "sad": {
+      "s": "प्रयत्नशैथिल्येन अनन्तसमापत्त्या च आसनसिद्धिः भवति।",
+      "d": "आसनस्य पूर्णतायां द्वौ सहायकमार्गौ स्तः - प्रयत्नशैथिल्यम् (अनावश्यकप्रयत्नतनावत्यागः), अनन्तसमापत्तिः (श्वासाकाशादिअनन्तविषये चित्तस्थापनम्) - एतयोः सङ्गमेन आसनं विना श्रमेण स्थिरीभवति।"
+    }
+  },
+  {
+    "n": 48,
+    "sa": "ततो द्वन्द्वानभिघातः",
+    "te": {
+      "s": "దీని వలన ద్వంద్వాల (శీతోష్ణాదుల) ప్రభావం తగ్గుతుంది.",
+      "d": "ఆసనం సిద్ధించిన తర్వాత ఒక ఆచరణాత్మక ఫలితం కలుగుతుంది - శీతం-ఉష్ణం, సుఖం-దుఃఖం, మాన్యం-అవమానం వంటి ద్వంద్వాల వల్ల కలవరపడకుండా ఉండే స్థితి."
+    },
+    "en": {
+      "s": "From that, one is unaffected by the dualities.",
+      "d": "Once āsana is mastered, a practical fruit follows: dvandvānabhighāta — freedom from being disturbed by the dualities of experience, such as heat/cold, pleasure/pain, honor/insult."
+    },
+    "sad": {
+      "s": "तस्मात् द्वन्द्वैः (शीतोष्णादिभिः) अनभिघातः भवति।",
+      "d": "आसनसिद्ध्यनन्तरं एकं व्यावहारिकं फलं जायते - शीतोष्णसुखदुःखमानापमानादिद्वन्द्वैः अविचलितत्वम्।"
+    }
+  },
+  {
+    "n": 49,
+    "sa": "तस्मिन्सति श्वासप्रश्वासयोर्गतिविच्छेदः प्राणायामः",
+    "te": {
+      "s": "ఆసనం స్థిరపడిన తర్వాత, శ్వాస-ప్రశ్వాసాల గమనాన్ని నియంత్రించడమే ప్రాణాయామం.",
+      "d": "ఆసనం స్థిరపడిన తర్వాత తదుపరి అంగం నిర్వచించబడుతుంది - ప్రాణాయామం అంటే శ్వాస (లోపలికి), ప్రశ్వాస (బయటకు) యొక్క సహజ గమనాన్ని ఉద్దేశపూర్వకంగా నియంత్రించడం."
+    },
+    "en": {
+      "s": "Once that is established, pranayama is the regulation of the movement of inhalation and exhalation.",
+      "d": "With āsana mastered, the next limb is defined: prāṇāyāma is the deliberate regulation (vicchedaḥ, literally \"cutting off the natural flow\") of the movement (gati) of inhalation (śvāsa) and exhalation (praśvāsa)."
+    },
+    "sad": {
+      "s": "आसनसिद्ध्यनन्तरं श्वासप्रश्वासयोः गतिनियन्त्रणं प्राणायामः।",
+      "d": "आसनसिद्ध्यनन्तरं अग्रिमाङ्गं निरूपितम् - प्राणायामः नाम श्वासप्रश्वासयोः (अन्तर्बाह्यश्वासयोः) स्वाभाविकगत्याः सोद्देश्यं नियन्त्रणम्।"
+    }
+  },
+  {
+    "n": 50,
+    "sa": "बाह्याभ्यन्तरस्तम्भवृत्तिर्देशकालसङ्ख्याभिः परिदृष्टो दीर्घसूक्ष्मः",
+    "te": {
+      "s": "ఇది బాహ్య, అభ్యంతర, స్తంభ రూపాల్లో ఉంటుంది, దేశ-కాల-సంఖ్యలతో కొలవబడి దీర్ఘ-సూక్ష్మంగా మారుతుంది.",
+      "d": "ప్రాణాయామం మూడు రూపాల్లో కనిపిస్తుంది - బాహ్యం (బయటకు వదిలి నిలిపి ఉంచడం), అభ్యంతరం (లోపలికి తీసుకుని నిలిపి ఉంచడం), స్తంభం (పూర్తి నిలుపుదల) - వీటిని దేశం (పరిధి), కాలం (వ్యవధి), సంఖ్య (లెక్క) ద్వారా కొలుస్తూ, క్రమంగా దీర్ఘంగా, సూక్ష్మంగా మారుస్తారు."
+    },
+    "en": {
+      "s": "Its forms are external, internal, and suspended, measured by space, time, and count, becoming long and subtle.",
+      "d": "Prāṇāyāma manifests in three modes: bāhya (external/exhalation-retention), ābhyantara (internal/inhalation-retention), and stambha (total suspension) — each regulated and measured by deśa (place/extent), kāla (duration), and saṅkhyā (count of repetitions), gradually becoming dīrgha (longer) and sūkṣma (subtler)."
+    },
+    "sad": {
+      "s": "बाह्याभ्यन्तरस्तम्भरूपः प्राणायामः देशकालसंख्याभिः परिमितः क्रमेण दीर्घसूक्ष्मो भवति।",
+      "d": "प्राणायामः त्रिविधः - बाह्यः (बाह्यरेचनधारणम्), आभ्यन्तरः (आन्तरपूरणधारणम्), स्तम्भः (पूर्णनिरोधः) - देशकालसंख्याभिः परिमाप्यमानः, क्रमेण दीर्घः सूक्ष्मः च भवति।"
+    }
+  },
+  {
+    "n": 51,
+    "sa": "बाह्याभ्यन्तरविषयाक्षेपी चतुर्थः",
+    "te": {
+      "s": "నాలుగవ రకం బాహ్య, అభ్యంతర విషయాలను అతిక్రమిస్తుంది.",
+      "d": "కొలవబడిన మూడు రకాలను దాటి, నాలుగవ రకమైన ప్రాణాయామం ఉంటుంది - ఇది బాహ్య, అభ్యంతర శ్వాస అనే భేదాన్నే అతిక్రమించి, లోతైన సమాధి స్థితుల్లో సహజంగా ఉద్భవిస్తుంది."
+    },
+    "en": {
+      "s": "The fourth transcends both external and internal objects.",
+      "d": "Beyond the three measured types lies a fourth (caturtha) form of prāṇāyāma — one that transcends (ākṣepī) the very distinction between external and internal breath, arising spontaneously in deep states of absorption."
+    },
+    "sad": {
+      "s": "चतुर्थः प्राणायामः बाह्याभ्यन्तरविषयभेदम् अतिक्रमति।",
+      "d": "परिमितेभ्यः त्रिभ्यः प्रकारेभ्यः परं चतुर्थः प्राणायामः वर्तते - एषः बाह्याभ्यन्तरश्वासभेदम् एव अतिक्रामति, गाढसमाधिस्थितिषु स्वभावतः उद्भवन्।"
+    }
+  },
+  {
+    "n": 52,
+    "sa": "ततः क्षीयते प्रकाशावरणम्",
+    "te": {
+      "s": "దీని వలన ప్రకాశాన్ని కప్పి ఉన్న తొడుగు తొలగిపోతుంది.",
+      "d": "ప్రాణాయామం సిద్ధించిన ఫలితంగా, మనస్సు యొక్క అంతఃప్రకాశాన్ని, స్పష్టతను కప్పి ఉంచే తొడుగు (ఆవరణం) క్రమంగా తొలగిపోతుంది."
+    },
+    "en": {
+      "s": "From that, the veil over inner light is destroyed.",
+      "d": "As a result of mastering prāṇāyāma, prakāśa-āvaraṇa — the covering/veil that obscures the mind's inner light and clarity — is progressively worn away."
+    },
+    "sad": {
+      "s": "ततः चित्तप्रकाशस्य आवरणं क्षीयते।",
+      "d": "प्राणायामसिद्ध्या, चित्तस्य अन्तःप्रकाशं स्पष्टतां च आवृणुयत् आवरणं क्रमेण क्षीयते।"
+    }
+  },
+  {
+    "n": 53,
+    "sa": "धारणासु च योग्यता मनसः",
+    "te": {
+      "s": "మరియు మనస్సు ధారణకు యోగ్యత పొందుతుంది.",
+      "d": "ప్రాణాయామం వల్ల కలిగే మరో ప్రయోజనం - మనస్సు ధారణకు (నిరంతర, ఏకాగ్రమైన దృష్టికి) యోగ్యతను పొందుతుంది, ఇది తరువాతి అంగం."
+    },
+    "en": {
+      "s": "And the mind becomes fit for concentration.",
+      "d": "As a further benefit of pranayama, the mind gains yogyatā (fitness, readiness) for dhāraṇā — sustained, one-pointed concentration — the limb that follows."
+    },
+    "sad": {
+      "s": "मनसः धारणायां योग्यता च जायते।",
+      "d": "प्राणायामस्य अन्यः लाभः - चित्तं धारणायां (निरन्तरैकाग्रदृष्ट्यां) योग्यतां प्राप्नोति, सा च अग्रिमं अङ्गम्।"
+    }
+  },
+  {
+    "n": 54,
+    "sa": "स्वविषयासम्प्रयोगे चित्तस्वरूपानुकार इवेन्द्रियाणां प्रत्याहारः",
+    "te": {
+      "s": "ఇంద్రియాలు తమ విషయాల నుండి విడిపోయి, మనస్సు స్వరూపాన్ని అనుసరించడమే ప్రత్యాహారం.",
+      "d": "ఐదవ అంగమైన ప్రత్యాహారం - ఇంద్రియాలు తమ తమ విషయాల (శబ్దం, రూపం వంటివి) నుండి ఉద్దేశపూర్వకంగా వేరుపడినప్పుడు సంభవిస్తుంది, దాంతో అవి స్వతంత్రంగా పనిచేయడం మానేసి, మనస్సు ఏ స్థితిలో ఉందో దాన్నే అనుసరిస్తున్నట్లు అనిపిస్తుంది."
+    },
+    "en": {
+      "s": "Sense-withdrawal is when the senses, disengaged from their objects, mirror the mind's own nature.",
+      "d": "Pratyāhāra, the fifth limb, occurs when the senses are deliberately disconnected from their objects (svaviṣaya-asamprayoga), so that they cease independent activity and seem to merely mirror (anukāra) whatever state the mind itself is in."
+    },
+    "sad": {
+      "s": "इन्द्रियाणां स्वविषयवियोगे चित्तानुकरणं प्रत्याहारः।",
+      "d": "पञ्चमं अङ्गं प्रत्याहारः - यदा इन्द्रियाणि स्वकीयविषयैः (शब्दरूपादिभिः) सह सम्बन्धं सोद्देश्यं त्यजन्ति, तदा तानि स्वतन्त्रवृत्तिं त्यक्त्वा चित्तस्य यत् स्वरूपं तदेव अनुकुर्वाणानि इव भवन्ति।"
+    }
+  },
+  {
+    "n": 55,
+    "sa": "ततः परमा वश्यतेन्द्रियाणाम्",
+    "te": {
+      "s": "దీని వలన ఇంద్రియాలపై అత్యున్నతమైన వశీకారం (నియంత్రణ) కలుగుతుంది.",
+      "d": "పరిపూర్ణ ప్రత్యాహారం యొక్క ఫలితంగా, ఇంద్రియాలపై అత్యున్నతమైన వశీకారం (పూర్తి నియంత్రణ) సిద్ధిస్తుంది - దీనితో సాధనామార్గంలోని \"బాహ్య\" అంగాలు పూర్తవుతాయి, తరువాతి అధ్యాయంలో మరింత అంతర్ముఖమైన సమాధి-ఆధారిత అంగాలు ప్రారంభమవుతాయి."
+    },
+    "en": {
+      "s": "From that comes the highest mastery of the senses.",
+      "d": "As the fruit of perfected pratyāhāra, paramā vaśyatā — supreme mastery and control over the senses — is attained, completing the \"external\" limbs of yoga before the more inward absorption-based limbs begin in the next chapter."
+    },
+    "sad": {
+      "s": "ततः इन्द्रियाणां परमा वश्यता सिद्ध्यति।",
+      "d": "पूर्णप्रत्याहारस्य फलरूपेण, इन्द्रियाणां परमा वश्यता (पूर्णनियन्त्रणम्) सिद्ध्यति - एतेन योगसाधनस्य \"बाह्यानि\" अङ्गानि पूर्णानि भवन्ति, अग्रिमाध्याये अन्तरङ्गसमाधिनिष्ठानि अङ्गानि आरभ्यन्ते।"
+    }
+  }
+]
