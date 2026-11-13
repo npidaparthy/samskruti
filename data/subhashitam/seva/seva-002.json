@@ -1,0 +1,42 @@
+{
+  "id": "seva-002",
+  "tags": [
+    "seva",
+    "ahimsa",
+    "atithi",
+    "grihasta"
+  ],
+  "shlokam": {
+    "te": "అతిథిదేవో భవ ।\nమాతృదేవో భవ ।\nపితృదేవో భవ ।\nఆచార్యదేవో భవ ॥",
+    "sa": "अतिथिदेवो भव ।\nमातृदेवो भव ।\nपितृदेवो भव ।\nआचार्यदेवो भव ॥",
+    "iast": "atithidevo bhava ।\nmātṛdevo bhava ।\npitṛdevo bhava ।\nācāryadevo bhava ॥"
+  },
+  "chandaH": "సూత్రపాదమ్ — అనుశాసన రూపమ్ (imperative aphorisms)",
+  "granthaH": {
+    "name_te": "తైత్తిరీయ ఉపనిషత్ — శిక్షావల్లి",
+    "name_en": "Taittirīya Upaniṣad — Śikṣāvallī",
+    "chapter": "1.11.2 (convocation address — ācārya to students)",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
+  },
+  "padavibhagam": {
+    "te": "అతిథి | దేవః | భవ | మాతృ | దేవః | భవ | పితృ | దేవః | భవ | ఆచార్య | దేవః | భవ",
+    "en": "atithi | devaḥ | bhava | mātṛ | devaḥ | bhava | pitṛ | devaḥ | bhava | ācārya | devaḥ | bhava"
+  },
+  "anvayam": {
+    "te": "మాతృ దేవః భవ; పితృ దేవః భవ; ఆచార్య దేవః భవ; అతిథి దేవః భవ.",
+    "en": "Let your mother be your god (mātṛdevo bhava); let your father be your god (pitṛdevo bhava); let your teacher be your god (ācāryadevo bhava); let the guest be your god (atithidevo bhava)."
+  },
+  "meaning": {
+    "te": "తల్లిని దేవుడిగా భావించు; తండ్రిని దేవుడిగా భావించు; గురువును దేవుడిగా భావించు; అతిథిని దేవుడిగా భావించు.",
+    "en": "Let your mother be your god; let your father be your god; let your teacher be your god; let the guest be your god."
+  },
+  "tatparyam": {
+    "te": "ఇవి గురుకులం నుండి వెళ్ళే శిష్యుడికి ఆచార్యుడు ఇచ్చే విద్యాసమాప్తి ఉపదేశం. దైవాన్ని ఆలయంలో వెతకాల్సిన అవసరం లేదు — మీ తల్లిలో, తండ్రిలో, గురువులో, మీ ఇంటికి వచ్చే అతిథిలో దైవాన్ని చూడండి. 'అతిథి' అంటే తేదీ తెలియకుండా వచ్చేవాడు — ఇతన్ని కూడా దేవుడిగా సేవించమని ఆజ్ఞ. ఇది భారతీయ అతిథ్య సంస్కృతి యొక్క పరాకాష్ఠ.",
+    "en": "These are the parting instructions of a guru to a departing student. The divine need not be sought in distant temples — find God in your mother, your father, your teacher, and the unexpected guest at your door. 'Atithi' literally means 'one without a fixed date' — the stranger who arrives unannounced. Even this person deserves divine hospitality. This is the theological root of Indian hospitality culture: the guest is God, not merely an obligation."
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dindima-077",
+  "tags": [
+    "dindima",
+    "sukham-alpam",
+    "brahmanishtha-ananta"
+  ],
+  "shlokam": {
+    "te": "సుఖమల్పం బహుక్లేశం విషయగ్రాహిణాం నృణామ్ ।\nఅనన్తం బ్రహ్మనిష్ఠానామితి వేదాన్తడిణ్డిమః ॥ ౭౭ ॥",
+    "sa": "सुखमल्पं बहुक्लेशं विषयग्राहिणां नृणाम् ।\nअनन्तं ब्रह्मनिष्ठानामिति वेदान्तडिण्डिमः ॥ ७७ ॥",
+    "iast": "sukhamalpaṃ bahukleśaṃ viṣayagrāhiṇāṃ nṛṇām ।\nanantaṃ brahmaniṣṭhānāmiti vedāntaḍiṇḍimaḥ ॥ 77 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 77"
+  },
+  "padavibhagam": {
+    "te": "సుఖమ్ | అల్పమ్ | బహుక్లేశమ్ | విషయగ్రాహిణామ్ | నృణామ్ | అనన్తమ్ | బ్రహ్మనిష్ఠానామ్ | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "sukham | alpam | bahukleśam | viṣayagrāhiṇām | nṛṇām | anantam | brahmaniṣṭhānām | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "విషయగ్రాహిణాం నృణాం సుఖం అల్పమ్, బహుక్లేశమ్; బ్రహ్మనిష్ఠానామ్ (సుఖం) అనన్తమ్ — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Viṣayagrāhiṇāṃ nṛṇāṃ (of people who grasp after sense-objects) sukham alpam bahukleśam (the pleasure is small, the trouble abundant); brahmaniṣṭhānām (sukham) anantam (of those established in Brahman, the joy is boundless) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "విషయాలను వెంటాడే మనుషులకు సుఖం కొద్దిపాటిదే, క్లేశం అధికం. బ్రహ్మనిష్ఠులకు మాత్రం ఆనందం అనంతం — ఇది వేదాంతడిండిమం.",
+    "en": "For people who chase after sense-objects, pleasure is small and trouble abundant. For those established in Brahman, joy is boundless. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "ఇద్దరు జీవనవిధానాలను స్పష్టమైన లాభనష్టవిశ్లేషణతో పోల్చే ఆచరణాత్మక శ్లోకం ఇది — విషయసుఖాన్వేషకుడు, బ్రహ్మనిష్ఠుడు. మొదటివాడి పెట్టుబడి (శ్రమ, కోరిక, ఆందోళన) ఎక్కువ, ప్రతిఫలం (తాత్కాలిక సుఖం) తక్కువ, పైగా ఆ సుఖం అశాశ్వతం. రెండోవాడి పెట్టుబడి (అనాసక్తి, ధ్యానం) పరిమితమే అయినా, ప్రతిఫలం (అనంతమైన ఆనందం) అపరిమితం, శాశ్వతం. ఈ లెక్క ద్వారా, తెలివైన ఎంపిక ఏమిటో పాఠకుడే స్వయంగా నిర్ణయించుకోగలిగేలా చేయడం ఈ శ్లోకపు వ్యూహం — ఏదో ఒకటి బలవంతంగా చెప్పడం కాకుండా, తర్కబద్ధమైన పోలికతో ఒప్పించడం.",
+    "en": "A practical verse comparing two ways of life through a clear cost-benefit analysis — the pursuer of sensory pleasure, and the one established in Brahman. The former's investment (effort, desire, anxiety) is high, the return (temporary pleasure) small, and that pleasure is impermanent besides. The latter's investment (detachment, meditation) is limited, yet the return (boundless joy) is unlimited and permanent. This verse's strategy is to let the reader arrive at the wiser choice for themselves through this arithmetic — persuading through a logical comparison rather than simply asserting a claim."
+  }
+}

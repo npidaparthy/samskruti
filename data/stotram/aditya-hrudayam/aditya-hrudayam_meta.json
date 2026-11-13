@@ -1,0 +1,32 @@
+{
+    "slug": "aditya-hrudayam",
+    "tags": [
+        "Aditya",
+        "Ramayana",
+        "Agastya",
+        "Victory",
+        "Protection",
+        "Epic",
+        "Victory",
+        "Surya"
+    ],
+    "synonyms": [
+        "Aditya Hṛdayam",
+        "ramayana"
+    ],
+    "youtube_url": "",
+    "images": [
+        "assets/images/aditya-hrudayam-01.svg",
+        "assets/images/aditya-hrudayam-02.svg",
+        "assets/images/aditya-hrudayam-03.svg"
+    ],
+    "sections": [
+        {
+            "id": "aditya-hrudayam",
+            "title_te": "ఆదిత్యహృదయమ్",
+            "title_sa": "आदित्यहृदयम्",
+            "title_en": "ādityahṛdayam",
+            "file": "aditya-hrudayam.txt"
+        }
+    ]
+}

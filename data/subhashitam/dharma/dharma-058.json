@@ -1,0 +1,40 @@
+{
+  "id": "dharma-058",
+  "tags": [
+    "dharma",
+    "vibhajana"
+  ],
+  "shlokam": {
+    "te": "చాతుర్వర్ణ్యం మయా సృష్టం గుణకర్మవిభాగశః ।\nతస్య కర్తారమపి మాం విద్ధ్యకర్తారమవ్యయమ్ ॥",
+    "sa": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥",
+    "iast": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ ।\ntasya kartāramapi māṃ viddhyakartāramavyayam ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (జ్ఞానకర్మసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Jñāna Karma Sannyāsa Yoga)",
+    "chapter": "4.13",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "చాతుర్వర్ణ్యమ్ | మయా | సృష్టమ్ | గుణకర్మవిభాగశః | తస్య | కర్తారమ్ | అపి | మామ్ | విద్ధి | అకర్తారమ్ | అవ్యయమ్",
+    "en": "cāturvarṇyam | mayā | sṛṣṭam | guṇakarmavibhāgaśaḥ | tasya | kartāram | api | mām | viddhi | akartāram | avyayam"
+  },
+  "anvayam": {
+    "te": "గుణకర్మవిభాగశః చాతుర్వర్ణ్యం మయా సృష్టమ్; తస్య కర్తారమ్ అపి మామ్ అకర్తారమ్ అవ్యయం విద్ధి.",
+    "en": "Guṇakarmavibhāgaśaḥ (according to the division of quality and action) cāturvarṇyam (the four-fold order) mayā sṛṣṭam (was created by me); tasya kartāram api (though I am its creator) mām akartāram avyayaṃ viddhi (know me as the non-doer, the changeless one)."
+  },
+  "meaning": {
+    "te": "గుణకర్మలననుసరించి చాతుర్వర్ణ్యాన్ని నేను సృష్టించాను. దాని కర్తనైనప్పటికీ నన్ను అకర్తగా, అవ్యయునిగా తెలుసుకో.",
+    "en": "According to the division of quality and action, I created the four-fold order. Though I am its creator, know me as the non-doer, the unchanging one."
+  },
+  "tatparyam": {
+    "te": "వర్ణవ్యవస్థను జన్మాధారంగా కాక గుణకర్మాధారంగా నిర్వచించే కీలకమైన శ్లోకం — 'గుణకర్మవిభాగశః' అన్న పదబంధమే దీనికి ప్రాణం. వర్ణం అంటే జన్మతః సంక్రమించే ముద్ర కాదు, వ్యక్తి స్వభావగుణాలనూ, చేసే పనినీ బట్టి ఏర్పడే వర్గీకరణ అని ఇక్కడ స్పష్టం. రెండో భాగం మరింత లోతైనది — సృష్టికర్తగా ఉంటూనే తాను 'అకర్త' అని కృష్ణుడు చెప్పడం, కర్తృత్వాభిమానం లేకుండా చేసే కర్మ బంధించదన్న సూత్రానికి స్వయంగా ఉదాహరణగా నిలుస్తుంది.",
+    "en": "A pivotal verse defining the varna system by quality and action rather than by birth — the phrase 'guṇakarmavibhāgaśaḥ' is the very life of this verse. It clarifies here that varna is not a mark stamped at birth, but a classification arising from a person's inherent qualities and the work they do. The second half runs deeper still — Krishna declaring himself the 'non-doer' even while being the creator stands as his own living example of the principle that action performed without the pride of doership does not bind."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

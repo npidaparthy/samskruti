@@ -1,0 +1,35 @@
+{
+  "id": "dindima-071",
+  "tags": [
+    "dindima",
+    "abheda-darshana",
+    "moksha-samsara"
+  ],
+  "shlokam": {
+    "te": "అభేదదర్శనం మోక్షః సంసారో భేదదర్శనమ్ ।\nసర్వవేదాన్తసిద్ధాన్త ఇతి వేదాన్తడిణ్డిమః ॥ ౭౧ ॥",
+    "sa": "अभेददर्शनं मोक्षः संसारो भेददर्शनम् ।\nसर्ववेदान्तसिद्धान्त इति वेदान्तडिण्डिमः ॥ ७१ ॥",
+    "iast": "abhedadarśanaṃ mokṣaḥ saṃsāro bhedadarśanam ।\nsarvavedāntasiddhānta iti vedāntaḍiṇḍimaḥ ॥ 71 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 71"
+  },
+  "padavibhagam": {
+    "te": "అభేదదర్శనమ్ | మోక్షః | సంసారః | భేదదర్శనమ్ | సర్వవేదాన్తసిద్ధాన్తః | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "abhedadarśanam | mokṣaḥ | saṃsāraḥ | bhedadarśanam | sarvavedāntasiddhāntaḥ | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "అభేదదర్శనం మోక్షః; భేదదర్శనం సంసారః; (ఏషః) సర్వవేదాన్తసిద్ధాన్తః — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Abhedadarśanaṃ mokṣaḥ (the vision of non-difference is liberation); bhedadarśanaṃ saṃsāraḥ (the vision of difference is worldly bondage); (eṣaḥ) sarvavedāntasiddhāntaḥ (this is the settled conclusion of the entire Vedanta) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "అభేదదృష్టే మోక్షం; భేదదృష్టే సంసారం. ఇదే సమస్త వేదాంతపు సిద్ధాంతం — ఇది వేదాంతడిండిమం.",
+    "en": "The vision of non-difference is liberation; the vision of difference is worldly bondage. This is the settled conclusion of the entire Vedanta. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "గ్రంథం మొత్తాన్ని ఒక్క వాక్యంలో సంగ్రహించే మైలురాయి శ్లోకం ఇది — 'సర్వవేదాన్తసిద్ధాన్తః' అని స్వయంగా ప్రకటించుకోవడం విశేషం. 1వ శ్లోకం నుండి 70వ శ్లోకం వరకూ చర్చించిన ప్రతి అంశమూ — ఆత్మానాత్మవివేకం, జ్ఞానప్రాధాన్యత, పంచకోశవిచారం, నామరూపమిథ్యాత్వం — అన్నీ చివరకు ఒకే బిందువుకు చేరతాయని ఈ శ్లోకం చాటుతుంది: బంధమోక్షాలు రెండూ బాహ్యస్థితులు కావు, కేవలం దృష్టిభేదాలు మాత్రమే. భేదాన్ని చూసేదే సంసారం, అభేదాన్ని చూసేదే మోక్షం — ఒకే ప్రపంచాన్ని ఎలా చూస్తున్నామన్నదే బంధమోక్షాలను నిర్ణయిస్తుంది.",
+    "en": "A milestone verse that condenses the entire work into a single sentence — notable for explicitly declaring itself 'sarvavedāntasiddhāntaḥ', the settled conclusion of all Vedanta. Every topic discussed from verse 1 to verse 70 — the discrimination of self and non-self, the primacy of knowledge, the analysis of the five sheaths, the unreality of name and form — this verse declares, ultimately converges on one single point: bondage and liberation are not external states, only differences of vision. Seeing difference is worldly bondage; seeing non-difference is liberation — how we view the very same world is what decides bondage or freedom."
+  }
+}

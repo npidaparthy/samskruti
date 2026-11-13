@@ -1,0 +1,25 @@
+{
+  "slug": "dasha-shloki",
+  "title_te": "దశశ్లోకీ",
+  "title_sa": "दशश्लोकी",
+  "title_en": "DaśaŚlokī",
+  "description_en": "Ten verses by Ādi Śaṅkarācārya expressing the essence of Advaita Vedānta in ten compact stanzas. Also known as Daśaślokī or Nijasvabhāvabodha, it progressively establishes the identity of the individual self (jīva) with the supreme Brahman. Each verse closes with \"na ca duḥkha-lepaḥ\" — \"I am untouched by sorrow.\" A concise distillation of non-dual philosophy.",
+  "description_te": "ఆదిశఙ్కరాచార్యులు రచించిన పది శ్లోకాలలో అద్వైత వేదాంత సారాంశం. జీవుడు మరియు పరబ్రహ్మ ఏకమేనని ధాపించే ఈ శ్లోకాలు \"నా చ దుఃఖ లేపః — నాకు దుఃఖం అంటదు\" అని ముగుస్తాయి. అద్వైత తత్వ సంగ్రహం.",
+  "description_sa": "आदिशङ्करविरचिता दशश्लोक्यात्मकं अद्वैतवेदान्तसारम्। जीवपरब्रह्मणोः एकत्वं प्रतिपादयन्तः श्लोकाः \"न च दुःखलेपः\" इति समाप्यन्ते। अद्वैतदर्शनस्य लघु संग्रहः।",
+  "theme": "saffron",
+  "tags": [
+    "shankaracharya",
+    "vedanta",
+    "advaita"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "దశశ్లోకీ",
+      "title_sa": "दशश्लोकी",
+      "title_en": "DaśaŚlokī",
+      "file": "dasha-shloki.txt"
+    }
+  ]
+}

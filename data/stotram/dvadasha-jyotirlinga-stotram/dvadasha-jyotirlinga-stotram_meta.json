@@ -1,0 +1,25 @@
+{
+  "slug": "dvadasha-jyotirlinga-stotram",
+  "title_te": "ద్వాదశజ్యోతిర్లిఙ్గస్తోత్రమ్",
+  "title_sa": "द्वादशज्योतिर्लिङ्गस्तोत्रम्",
+  "title_en": "Dvādaśajyotirliṅgastotram",
+  "description_en": "A stotram naming and glorifying the twelve Jyotirliṅgas — the self-manifested, luminous shrines of Śiva scattered across the Indian subcontinent, from Somnāth in Gujarat to Rāmeśvara in Tamil Nadu. Reciting this stotram is equivalent, by tradition, to visiting all twelve shrines. Essential for Śiva devotees.",
+  "description_te": "గుజరాత్ లో సోమనాథ్ నుండి తమిళనాడులో రామేశ్వరం వరకు భారతదేశమంతటా వెలసిన పన్నెండు జ్యోతిర్లింగాలను నామోల్లేఖనంతో కీర్తించే స్తోత్రం. ఈ స్తోత్రం పారాయణం పన్నెండు క్షేత్రాల దర్శనానికి సమానమని విశ్వాసం.",
+  "description_sa": "सौराष्ट्रे सोमनाथात् रामेश्वरपर्यन्तं भारते विद्यमानानां द्वादशज्योतिर्लिङ्गानां नामोल्लेखपूर्वकं स्तोत्रम्। पारायणं द्वादशक्षेत्रदर्शनतुल्यमिति विश्वासः।",
+  "theme": "blue",
+  "tags": [
+    "shiva",
+    "jyotirlinga",
+    "tirtha"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "ద్వాదశజ్యోతిర్లిఙ్గస్తోత్రమ్",
+      "title_sa": "द्वादशज्योतिर्लिङ्गस्तोत्रम्",
+      "title_en": "Dvādaśajyotirliṅgastotram",
+      "file": "dvadasha-jyotirlinga-stotram.txt"
+    }
+  ]
+}

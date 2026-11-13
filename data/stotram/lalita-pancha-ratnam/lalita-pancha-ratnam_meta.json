@@ -1,0 +1,26 @@
+{
+  "slug": "lalita-pancha-ratnam",
+  "title_te": "లలితాపఞ్చరత్నమ్",
+  "title_sa": "ललितापञ्चरत्नम्",
+  "title_en": "Lalitā Pañcaratnam",
+  "description_en": "Five jewel-like verses on Goddess Lalitā by Ādi Śaṅkarācārya. Lalitā (\"the playful one\") is the supreme form of Śakti, worshipped as the ruler of the universe and mother of all creation. Each verse glorifies her beauty, her compassion for devotees, and her identity with the ultimate reality. A compact and luminous companion to the longer Lalitā Sahasranāma.",
+  "description_te": "ఆది శంకరాచార్యులు రచించిన లలితాదేవి స్తుతిలో ఐదు రత్నాల వంటి శ్లోకాలు. విశ్వాన్ని పాలించే శక్తి స్వరూపిణి అయిన లలితాదేవి యొక్క సౌందర్యాన్ని, కరుణను మరియు పరతత్త్వంతో ఏకత్వాన్ని ప్రతి శ్లోకం కీర్తిస్తుంది.",
+  "description_sa": "आदिशङ्करविरचितानि ललितादेव्याः पञ्चरत्नात्मकानि स्तोत्राणि। विश्वपालिकां शक्तिस्वरूपिणीं ललितादेवीं सौन्दर्यकरुणापरतत्त्वैक्यैः स्तुवन्ति। ललितासहस्रनाम्नः लघु सहोदरम्।",
+  "theme": "rose",
+  "tags": [
+    "devi",
+    "lalita",
+    "shankaracharya",
+    "shakta"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "లలితాపఞ్చరత్నమ్",
+      "title_sa": "ललितापञ्चरत्नम्",
+      "title_en": "Lalitā Pañcaratnam",
+      "file": "lalita-pancha-ratnam.txt"
+    }
+  ]
+}

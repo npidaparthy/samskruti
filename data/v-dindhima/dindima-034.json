@@ -1,0 +1,35 @@
+{
+  "id": "dindima-034",
+  "tags": [
+    "dindima",
+    "karya-karana",
+    "sarvatmana-brahman"
+  ],
+  "shlokam": {
+    "te": "సర్వాత్మనా స్థితం బ్రహ్మ సర్వం బ్రహ్మాత్మనా స్థితమ్ ।\nన కార్యం కారణాద్భిన్నమితి వేదాన్తడిణ్డిమః ॥ ౩౪ ॥",
+    "sa": "सर्वात्मना स्थितं ब्रह्म सर्वं ब्रह्मात्मना स्थितम् ।\nन कार्यं कारणाद्भिन्नमिति वेदान्तडिण्डिमः ॥ ३४ ॥",
+    "iast": "sarvātmanā sthitaṃ brahma sarvaṃ brahmātmanā sthitam ।\nna kāryaṃ kāraṇādbhinnamiti vedāntaḍiṇḍimaḥ ॥ 34 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 34"
+  },
+  "padavibhagam": {
+    "te": "సర్వాత్మనా | స్థితమ్ | బ్రహ్మ | సర్వమ్ | బ్రహ్మాత్మనా | స్థితమ్ | న | కార్యమ్ | కారణాత్ | భిన్నమ్ | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "sarvātmanā | sthitam | brahma | sarvam | brahmātmanā | sthitam | na | kāryam | kāraṇāt | bhinnam | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "బ్రహ్మ సర్వాత్మనా స్థితమ్; సర్వం బ్రహ్మాత్మనా స్థితమ్; కార్యం కారణాత్ భిన్నం న — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Brahma sarvātmanā sthitam (Brahman exists as the essence of everything); sarvaṃ brahmātmanā sthitam (everything exists having Brahman as its essence); kāryaṃ kāraṇāt bhinnaṃ na (the effect is not different from the cause) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "బ్రహ్మం సర్వస్వరూపంగా నిలిచి ఉంది; సర్వమూ బ్రహ్మస్వరూపంగానే నిలిచి ఉంది. కార్యం కారణం కన్నా భిన్నం కాదు — ఇది వేదాంతడిండిమం.",
+    "en": "Brahman exists as the essence of everything; everything exists having Brahman as its essence. The effect is never different from its cause. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "అద్వైతవేదాంతపు ప్రసిద్ధ 'కారణకార్యవాదాన్ని' (సత్కార్యవాదం) సంగ్రహంగా ప్రకటించే శ్లోకం ఇది — కార్యం (ప్రపంచం) కారణం (బ్రహ్మం) కన్నా భిన్నమైనది కాదని. బంగారు నగలను ఉదాహరణగా తీసుకుంటే — గాజులు, గొలుసులు వేర్వేరు రూపాలుగా కనిపించినా, అవన్నీ బంగారమే తప్ప బంగారానికి భిన్నమైనవి కావు. అలాగే ప్రపంచం రూపవైవిధ్యంతో కనిపించినా, దాని మౌలికద్రవ్యం బ్రహ్మమే. ఈ సూత్రం సృష్టిని బ్రహ్మం నుండి వేరుపడిన, స్వతంత్రమైన వాస్తవంగా చూడకుండా, బ్రహ్మం తనను తానే వివిధ నామరూపాలలో ప్రదర్శించుకుంటున్న క్రీడగా చూడమని బోధిస్తుంది.",
+    "en": "This verse concisely states Advaita Vedanta's famous 'satkaryavada' — the doctrine that the effect (the world) is never different from its cause (Brahman). Taking gold ornaments as an example — bangles and chains appear as different shapes, yet all are nothing but gold, never different from gold itself. Likewise, the world appears with a diversity of forms, but its underlying substance is Brahman alone. This principle teaches us to see creation not as an independent reality separate from Brahman, but as Brahman's own play of displaying itself through varied names and forms."
+  }
+}

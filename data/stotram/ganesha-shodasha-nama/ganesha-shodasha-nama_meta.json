@@ -1,0 +1,24 @@
+{
+  "slug": "ganesha-shodasha-nama",
+  "title_te": "గణేశ షోడశ నామ స్తోత్రమ్",
+  "title_sa": "गणेश षोडश नाम स्तोत्रम्",
+  "title_en": "Gaṇeśa Ṣoḍaśa Nāma Stotram",
+  "description_en": "Sixteen sacred names of Lord Gaṇeśa, each revealing a distinct aspect of his divine nature — remover of obstacles, lord of wisdom, son of Śiva-Pārvatī, and bestower of auspiciousness. Recited at the start of any undertaking, these sixteen names are considered a complete and protective invocation of Gaṇeśa.",
+  "description_te": "గణేశుని పదహారు దివ్య నామాలు — విఘ్ననాశకుడు, జ్ఞానేశ్వరుడు, శివపార్వతీ తనయుడు మొదలైన వివిధ స్వరూపాలను కీర్తిస్తాయి. ఏ శుభకార్యమైనా ప్రారంభించేందుకు ముందు ఈ నామాలు పారాయణ చేస్తారు.",
+  "description_sa": "गणेशस्य षोडशनामानि — विघ्ननाशनज्ञानेश्वरशिवपार्वतीनन्दनादिरूपाणि स्तुवन्ति। शुभकार्यारम्भे सम्पूर्णावाहनरूपेण पठ्यते।",
+  "theme": "orange",
+  "tags": [
+    "ganesha",
+    "shodasha-nama"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "గణేశ షోడశ నామ స్తోత్రమ్",
+      "title_sa": "गणेश षोडश नाम स्तोत्रम्",
+      "title_en": "Gaṇeśa Ṣoḍaśa Nāma Stotram",
+      "file": "ganesha-shodasha-nama.txt"
+    }
+  ]
+}

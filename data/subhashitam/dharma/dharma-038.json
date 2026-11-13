@@ -1,0 +1,40 @@
+{
+  "id": "dharma-038",
+  "tags": [
+    "dharma",
+    "ahimsa"
+  ],
+  "shlokam": {
+    "te": "అద్రోహః సర్వభూతేషు కర్మణా మనసా గిరా ।\nఅనుగ్రహశ్చ దానం చ శీలమేతత్ప్రశస్యతే ॥",
+    "sa": "अद्रोहः सर्वभूतेषु कर्मणा मनसा गिरा ।\nअनुग्रहश्च दानं च शीलमेतत्प्रशस्यते ॥",
+    "iast": "adrohaḥ sarvabhūteṣu karmaṇā manasā girā ।\nanugrahaśca dānaṃ ca śīlametatpraśasyate ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మహాభారతం",
+    "name_en": "Mahābhārata",
+    "chapter": "",
+    "grantha_sa": "महाभारतम्",
+    "grantha": "Mahābhārata",
+    "grantha_te": "మహాభారతమ్"
+  },
+  "padavibhagam": {
+    "te": "అద్రోహః | సర్వభూతేషు | కర్మణా | మనసా | గిరా | అనుగ్రహః | చ | దానమ్ | చ | శీలమ్ | ఏతత్ | ప్రశస్యతే",
+    "en": "adrohaḥ | sarvabhūteṣu | karmaṇā | manasā | girā | anugrahaḥ | ca | dānam | ca | śīlam | etat | praśasyate"
+  },
+  "anvayam": {
+    "te": "సర్వభూతేషు కర్మణా మనసా గిరా అద్రోహః, అనుగ్రహః చ, దానం చ — ఏతత్ శీలం ప్రశస్యతే.",
+    "en": "Non-injury to all beings in deed, thought, and word; graciousness; and giving — this good conduct is praised."
+  },
+  "meaning": {
+    "te": "సమస్త ప్రాణులపట్ల పని, మనసు, మాట — ఈ మూడింటిలోనూ ద్రోహం చేయకుండుట; అనుగ్రహం; దానం — ఇదే ప్రశంసనీయమైన శీలం.",
+    "en": "Non-malice toward all beings in act, mind, and speech; kindness; and generosity — this is the conduct that is praised."
+  },
+  "tatparyam": {
+    "te": "మహాభారతం శీలాన్ని మూడు అంశాలతో నిర్వచిస్తుంది — త్రికరణ (కర్మ, మనస్, వాక్) శుద్ధితో సర్వభూతాహింస, అనుగ్రహం, దానం. ద్రోహరాహిత్యం కేవలం చేతలలోనే కాక మనసులోనూ మాటలోనూ ఉండాలన్నది గమనార్హం. 'అహింసా పరమో ధర్మః' అనే సూత్రానికి ఇది ఆచరణరూపం.",
+    "en": "The Mahābhārata defines good character through three elements — non-injury to all beings purified in deed, mind, and speech, graciousness, and giving. Notably, freedom from malice must extend not only to actions but to thought and word. It is the practical form of the principle 'non-violence is the highest dharma'."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}
