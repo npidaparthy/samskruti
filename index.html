@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="te" data-theme="theme-vishnu" data-lipi="te" data-uilang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Sanskrit Stotrams — Devotional texts in Telugu, Devanagari and IAST" />
+  <title>స్తోత్రం | Stotram</title>
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#1A237E" />
+  <!-- Favicons — randomly selected from available options on each load -->
+  <link rel="icon" id="faviconLink" href="assets/icons/options/om-plain_indigo-gold.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.svg" />
+  <script>
+    // Auto-discover favicons from CI-generated index — new random icon on every load
+    fetch('assets/icons/options/index.json')
+      .then(r => r.json())
+      .then(function(icons) {
+        var pick = icons[Math.floor(Math.random() * icons.length)];
+        document.getElementById('faviconLink').href = 'assets/icons/options/' + pick + '.svg';
+      })
+      .catch(function() {});
+  </script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit:ital@0;1&family=Noto+Sans+Telugu:wght@400;600;700&family=IM+Fell+English:ital@0;1&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════
+     TOP NAVIGATION
+═══════════════════════════════════════════════════════ -->
+<header class="site-header">
+  <div class="header-inner">
+
+    <!-- Logo / Brand -->
+    <a href="#" class="brand" data-nav="home">
+      <span class="brand-sa">ॐ</span>
+      <span class="brand-name">
+        <span class="brand-te">స్తోత్రం</span>
+        <span class="brand-en">Stotram</span>
+      </span>
+    </a>
+
+    <!-- Primary Nav Tabs -->
+    <nav class="main-nav" role="navigation" aria-label="Main navigation">
+      <button class="nav-tab active" data-nav="home">
+        <span class="nav-te">హోమ్</span>
+        <span class="nav-en en-label">Home</span>
+      </button>
+      <button class="nav-tab" data-nav="stotrams">
+        <span class="nav-te">స్తోత్రాలు</span>
+        <span class="nav-en en-label">Stotrams</span>
+      </button>
+      <a class="nav-tab" href="/daily/" style="text-decoration:none;">
+        <span class="nav-te">నేటి శ్లోకం</span>
+        <span class="nav-en en-label">Daily</span>
+      </a>
+      <button class="nav-tab nav-sub hidden" data-nav="subhashitam">
+        <span class="nav-te">సుభాషితం</span>
+        <span class="nav-en en-label">Subhāṣitam</span>
+      </button>
+      <button class="nav-tab" data-nav="about">
+        <span class="nav-te">గురించి</span>
+        <span class="nav-en en-label">About</span>
+      </button>
+      <button class="nav-tab" data-nav="contact">
+        <span class="nav-te">సంప్రదించండి</span>
+        <span class="nav-en en-label">Contact</span>
+      </button>
+    </nav>
+
+    <!-- Header Controls -->
+    <div class="header-controls">
+
+      <!-- Lipi (Script) Toggle -->
+      <div class="ctrl-group">
+        <span class="ctrl-label">Script</span>
+        <div class="lipi-toggle" role="group" aria-label="Script selector">
+          <button class="lipi-btn" data-lipi="sa">देव</button>
+          <button class="lipi-btn active" data-lipi="te">తె</button>
+          <button class="lipi-btn" data-lipi="iast">IAST</button>
+        </div>
+      </div>
+
+      <!-- UI Lang Toggle -->
+      <div class="ctrl-group">
+        <span class="ctrl-label">Lang</span>
+        <button class="uilang-btn" id="uilangToggle">
+          <span class="lang-label-en">EN</span>
+          <span class="lang-label-te">తె</span>
+        </button>
+      </div>
+
+      <!-- Settings -->
+      <button class="icon-btn" id="settingsBtn" data-i18n-title="tip_settings" aria-label="Open settings">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+      </button>
+
+
+      <!-- Hamburger (mobile) -->
+      <button class="icon-btn hamburger" id="menuToggle" aria-label="Toggle menu">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Floating scroll-to-top button (shown after scrolling down) -->
+  <button class="fab-top hidden" id="fabTop" aria-label="Scroll to top">↑</button>
+
+  <!-- First-time help banner (hidden by default; shown via JS if not seen before) -->
+  <div class="help-banner hidden" id="helpBanner" role="status" aria-live="polite">
+    <div class="help-banner-content">
+      <span class="help-banner-icon">💡</span>
+      <span class="help-banner-text">
+        <strong>Script</strong> (देव · తె · IAST) changes how shloka text is written.
+        &nbsp;·&nbsp;
+        <strong>Lang</strong> (EN · తె) switches menus and labels.
+      </span>
+      <button class="help-banner-close" id="helpBannerClose" aria-label="Dismiss">✕</button>
+    </div>
+  </div>
+
+  <!-- Mobile Nav Drawer -->
+  <nav class="mobile-nav hidden" id="mobileNav">
+    <button class="nav-tab" data-nav="home"><span class="nav-te">హోమ్</span><span class="nav-en">Home</span></button>
+    <button class="nav-tab" data-nav="stotrams"><span class="nav-te">స్తోత్రాలు</span><span class="nav-en">Stotrams</span></button>
+    <a class="nav-tab" href="/daily/" style="text-decoration:none;"><span class="nav-te">నేటి శ్లోకం</span><span class="nav-en">Daily</span></a>
+    <button class="nav-tab nav-sub hidden" data-nav="subhashitam"><span class="nav-te">సుభాషితం</span><span class="nav-en">Subhāṣitam</span></button>
+    <button class="nav-tab" data-nav="about"><span class="nav-te">గురించి</span><span class="nav-en">About</span></button>
+    <button class="nav-tab" data-nav="contact"><span class="nav-te">సంప్రదించండి</span><span class="nav-en">Contact</span></button>
+  </nav>
+</header>
+
+<!-- ═══════════════════════════════════════════════════════
+     SETTINGS PANEL (slide-in)
+═══════════════════════════════════════════════════════ -->
+<aside class="settings-panel hidden" id="settingsPanel" role="dialog" aria-label="Settings">
+  <div class="settings-header">
+    <h2 data-i18n-bilingual="settings_title">అమరికలు / Settings</h2>
+    <button class="icon-btn" id="settingsClose">✕</button>
+  </div>
+
+  <div class="settings-body">
+    <!-- Font Size -->
+    <div class="setting-group">
+      <label data-i18n-bilingual="setting_fontsize">అక్షర పరిమాణం / Font Size</label>
+      <div class="font-controls">
+        <button class="font-btn" id="fontDecrease" aria-label="Decrease font">A−</button>
+        <span class="font-preview" id="fontSizeDisplay">100%</span>
+        <button class="font-btn" id="fontIncrease" aria-label="Increase font">A+</button>
+      </div>
+    </div>
+
+    <!-- Text Colour -->
+    <div class="setting-group">
+      <label data-i18n-bilingual="setting_textcolor">అక్షర రంగు / Text Colour</label>
+      <div class="color-row">
+        <input type="color" id="textColorPicker" value="#1a1a2e" />
+        <button class="reset-btn" id="textColorReset" data-i18n-bilingual="reset">రీసెట్ / Reset</button>
+      </div>
+    </div>
+
+    <!-- Theme -->
+    <div class="setting-group">
+      <label data-i18n-bilingual="setting_theme">రంగు అమరిక / Theme</label>
+      <div class="theme-grid" id="themeGrid">
+        <button class="theme-swatch" data-theme="theme-saffron" title="Saffron Dawn" style="background:linear-gradient(135deg,#FF6F00,#FDD835)"></button>
+        <button class="theme-swatch" data-theme="theme-vishnu" title="Vishnu Blue" style="background:linear-gradient(135deg,#1A237E,#FFD700)"></button>
+        <button class="theme-swatch" data-theme="theme-lalita" title="Lalita Rose" style="background:linear-gradient(135deg,#880E4F,#F8BBD0)"></button>
+        <button class="theme-swatch" data-theme="theme-surya" title="Surya Amber" style="background:linear-gradient(135deg,#E65100,#FFCC02)"></button>
+        <button class="theme-swatch" data-theme="theme-shiva" title="Shiva Ash" style="background:linear-gradient(135deg,#37474F,#B0BEC5)"></button>
+        <button class="theme-swatch" data-theme="theme-forest" title="Vana Green" style="background:linear-gradient(135deg,#1B5E20,#A5D6A7)"></button>
+        <button class="theme-swatch" data-theme="theme-pearl" title="Pearl White" style="background:linear-gradient(135deg,#FAFAFA,#C9A84C);border:1px solid #ddd"></button>
+        <button class="theme-swatch" data-theme="theme-night" title="Night Indigo" style="background:linear-gradient(135deg,#0D0221,#7C4DFF)"></button>
+      </div>
+      <label class="checkbox-row">
+        <input type="checkbox" id="themeGlobal" />
+        <span data-i18n-bilingual="theme_global">అన్నింటికీ వర్తించు / Apply to all stotrams</span>
+      </label>
+      <button class="reset-btn" id="themeReset" data-i18n-bilingual="theme_reset">స్తోత్రం డిఫాల్ట్‌కు రీసెట్ / Reset to stotram default</button>
+    </div>
+
+  </div>
+</aside>
+<div class="settings-overlay hidden" id="settingsOverlay"></div>
+
+<!-- ═══════════════════════════════════════════════════════
+     GLOBAL SEARCH BAR
+═══════════════════════════════════════════════════════ -->
+<div class="search-bar-wrap" id="searchBarWrap">
+  <div class="search-inner">
+    <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input
+      type="search"
+      id="globalSearch"
+      class="search-input"
+      data-i18n-placeholder="search_placeholder" placeholder="Search shlokas…"
+      autocomplete="off"
+      aria-label="Search shlokas"
+    />
+    <button class="search-clear hidden" id="searchClear" aria-label="Clear search">✕</button>
+  </div>
+  <div class="search-results hidden" id="searchResults" role="listbox" aria-label="Search results"></div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     MAIN CONTENT AREA
+═══════════════════════════════════════════════════════ -->
+<main class="main-content" id="mainContent">
+
+  <!-- ── HOME PAGE ── -->
+  <section class="page active" id="page-home">
+    <div class="hero">
+      <div class="hero-text">
+        <p class="hero-subtitle" data-i18n-bilingual="hero_sub">సంస్కృత స్తోత్ర గ్రంథాలయం / Sanskrit Devotional Library</p>
+        <h1 class="hero-title">ॐ నమో నారాయణాయ</h1>
+        <p class="hero-desc" data-i18n-bilingual="hero_desc">
+          శ్లోకాలు చదవండి, వినండి, అర్థం తెలుసుకోండి.<br/>
+          Read, listen and understand the sacred shlokas.
+        </p>
+        <button class="cta-btn" data-nav="stotrams" data-i18n-bilingual="hero_cta">
+          స్తోత్రాలు చూడండి / Browse Stotrams
+        </button>
+      </div>
+      <div class="hero-image" id="heroImage">
+        <div class="hero-om">ॐ</div>
+      </div>
+    </div>
+
+    <!-- Browse by Deity -->
+    <div class="home-section">
+      <h2 class="home-section-title">
+        <span class="i18n-te">దేవతల వారీగా చదవండి</span>
+        <span class="i18n-en">Browse by Deity</span>
+      </h2>
+      <div class="deity-row" id="deityRow"></div>
+    </div>
+
+    <!-- Stats -->
+    <div class="home-stats" id="homeStats"></div>
+
+    <!-- Also Explore -->
+    <div class="home-section">
+      <h2 class="home-section-title">
+        <span class="i18n-te">మరింత అన్వేషించండి</span>
+        <span class="i18n-en">Also Explore</span>
+      </h2>
+      <div class="explore-cards" id="exploreCards"></div>
+    </div>
+
+  </section>
+
+  <!-- ── STOTRAMS LIST ── -->
+  <section class="page hidden" id="page-stotrams">
+    <div class="page-header">
+      <h2 data-i18n-bilingual="all_stotrams">అన్ని స్తోత్రాలు / All Stotrams</h2>
+      <!-- Tag filter -->
+      <div class="tag-chips" id="tagChips">
+        <button class="tag-chip active" data-tag="all" data-i18n-bilingual="tag_all">అన్నీ / All</button>
+      </div>
+    </div>
+    <div class="stotram-grid" id="stotramsGrid"></div>
+  </section>
+
+  <!-- ── STOTRAM READER ── -->
+  <section class="page hidden" id="page-reader">
+    <!-- Reader Header -->
+    <div class="reader-header">
+      <div class="reader-header-left">
+        <button class="back-btn" id="readerBack">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+          <span data-i18n-bilingual="back">వెనక్కి / Back</span>
+        </button>
+
+        <button class="pm-toggle-btn" id="pmToggle" title="Parayanam mode">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
+        </button>
+      </div>
+      <div class="reader-title-wrap">
+        <h2 class="reader-title" id="readerTitle">—</h2>
+        <p class="reader-subtitle" id="readerSubtitle"></p>
+      </div>
+      <!-- Section Tabs (for multi-section stotrams) -->
+      <div class="section-tabs" id="sectionTabs"></div>
+    </div>
+
+    <!-- Parayanam mode exit bar (hidden by default) -->
+    <div class="pm-exit-bar hidden" id="pmExitBar">
+      <span class="pm-stotram-label" id="pmStotramLabel"></span>
+      <button class="pm-exit-btn" id="pmExit">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"/></svg>
+        Exit focus
+      </button>
+    </div>
+
+    <!-- Stotram Image -->
+    <div class="stotram-image-wrap hidden" id="stotramImageWrap">
+      <img id="stotramImage" alt="Stotram image" />
+      <button class="img-toggle" id="imgToggle">
+        <span data-i18n-bilingual="hide_img">చిత్రం దాచు / Hide Image</span>
+      </button>
+    </div>
+
+    <!-- Audio Controller -->
+    <div class="audio-panel" id="audioPanel">
+      <div class="audio-controls">
+        <button class="audio-btn" id="audioPrev" disabled title="Previous shloka">⏮</button>
+        <button class="audio-btn primary" id="audioPlay" disabled title="Play">▶</button>
+        <button class="audio-btn" id="audioNext" disabled title="Next shloka">⏭</button>
+        <div class="audio-repeat">
+          <label data-i18n-bilingual="repeat">పునరావృత్తి / Repeat</label>
+          <input type="number" id="repeatCount" value="1" min="1" max="108" />
+          <span data-i18n-bilingual="times">సార్లు / times</span>
+        </div>
+        <div class="audio-speed">
+          <label data-i18n-bilingual="speed">వేగం / Speed</label>
+          <select id="speedSelect">
+            <option value="0.5">0.5×</option>
+            <option value="0.75">0.75×</option>
+            <option value="1" selected>1×</option>
+            <option value="1.25">1.25×</option>
+            <option value="1.5">1.5×</option>
+            <option value="2">2×</option>
+          </select>
+        </div>
+        <span class="audio-status" id="audioStatus" data-i18n-bilingual="no_audio">ఆడియో లేదు / No audio</span>
+      </div>
+      <!-- YouTube embed (hidden, used for audio) -->
+      <div id="ytPlayerWrap" class="hidden">
+        <div id="ytPlayer"></div>
+      </div>
+    </div>
+
+    <!-- Grammar Language Selector -->
+    <div class="grammar-lang-bar hidden" id="grammarLangBar">
+      <span data-i18n-bilingual="commentary">వ్యాఖ్యానం / Commentary:</span>
+      <div class="lang-pills">
+        <button class="lang-pill active" data-lang="te">తెలుగు</button>
+        <button class="lang-pill" data-lang="en">English</button>
+        <button class="lang-pill" data-lang="hi">हिन्दी</button>
+        <button class="lang-pill" data-lang="sa">संस्कृत</button>
+      </div>
+    </div>
+
+    <!-- Shlokas Container -->
+    <div class="shlokas-container" id="shlokasContainer">
+      <!-- Populated by parser.js + renderer -->
+    </div>
+  </section>
+
+  <!-- ── ABOUT ── -->
+  <section class="page hidden" id="page-about">
+    <div class="prose-page">
+
+      <!-- Mission -->
+      <div class="about-mission">
+        <div class="about-om">ॐ</div>
+        <p class="about-mission-text">
+          <span class="i18n-te">సంస్కృత స్తోత్రాలు మన వారసత్వం. అవి చదవడం, వినడం, అర్థం చేసుకోవడం — అందరికీ సులభంగా ఉండాలని ఈ సైట్ తయారు చేశాం.</span>
+          <span class="i18n-en">Sanskrit stotrams are our heritage. This site exists to make reading, listening, and understanding them accessible to everyone — in the script you are most comfortable with.</span>
+        </p>
+      </div>
+
+      <!-- What's here -->
+      <div class="about-section">
+        <h3 class="about-section-title">
+          <span class="i18n-te">ఏముంది?</span>
+          <span class="i18n-en">What's here</span>
+        </h3>
+        <div class="about-features">
+          <div class="about-feature">
+            <div class="about-feature-icon-wrap">తె</div>
+            <div>
+              <strong><span class="i18n-te">స్తోత్రాలు</span><span class="i18n-en">Stotrams</span></strong>
+              <p><span class="i18n-te">విష్ణుసహస్రనామం నుండి శివతాండవం వరకు — 50కి పైగా స్తోత్రాలు, శ్లోకాల అర్థాలతో సహా.</span><span class="i18n-en">From Vishnu Sahasranamam to Shiva Tandava — 50+ stotrams with shloka meanings.</span></p>
+            </div>
+          </div>
+          <div class="about-feature">
+            <div class="about-feature-icon-wrap">सु</div>
+            <div>
+              <strong><span class="i18n-te">సుభాషితాలు</span><span class="i18n-en">Subhāṣitam</span></strong>
+              <p><span class="i18n-te">నీతి, జ్ఞానం, జీవన సత్యాలు చెప్పే సంస్కృత సూక్తులు — తెలుగు అర్థం మరియు తాత్పర్యంతో.</span><span class="i18n-en">Sanskrit wisdom verses on life, ethics, and truth — with Telugu meaning and commentary.</span></p>
+            </div>
+          </div>
+          <div class="about-feature">
+            <div class="about-feature-icon-wrap">तె</div>
+            <div>
+              <strong><span class="i18n-te">మూడు లిపులు</span><span class="i18n-en">Three Scripts</span></strong>
+              <p><span class="i18n-te">తెలుగు, దేవనాగరి, IAST — ఒకే స్తోత్రాన్ని మీకు నచ్చిన లిపిలో చదవండి.</span><span class="i18n-en">Telugu, Devanagari, IAST — read any stotram in the script you know best.</span></p>
+            </div>
+          </div>
+          <div class="about-feature">
+            <div class="about-feature-icon-wrap">♪</div>
+            <div>
+              <strong><span class="i18n-te">ఆడియో</span><span class="i18n-en">Audio</span></strong>
+              <p><span class="i18n-te">పఠనం వింటూ శ్లోకాలు చదవండి — ఉచ్చారణ నేర్చుకోవడానికి.</span><span class="i18n-en">Listen to recitations while reading — to learn correct pronunciation.</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- How to use -->
+      <div class="about-section">
+        <h3 class="about-section-title">
+          <span class="i18n-te">ఎలా వాడాలి?</span>
+          <span class="i18n-en">How to use</span>
+        </h3>
+        <ol class="about-tips">
+          <li><span class="i18n-te"><strong>లిపి మార్చండి</strong> — పై బార్‌లో తె · దేవ · IAST బటన్లు నొక్కండి.</span><span class="i18n-en"><strong>Switch script</strong> — tap తె · దేవ · IAST in the top bar.</span></li>
+          <li><span class="i18n-te"><strong>భాష మార్చండి</strong> — EN · తె బటన్ నొక్కితే మెనూలు, అర్థాలు భాష మారతాయి.</span><span class="i18n-en"><strong>Switch language</strong> — tap EN · తె to switch menus and meanings.</span></li>
+          <li><span class="i18n-te"><strong>శోధించండి</strong> — దేవత పేరు లేదా శ్లోక పదాలు టైప్ చేయండి.</span><span class="i18n-en"><strong>Search</strong> — type a deity name or shloka words in the search bar.</span></li>
+          <li><span class="i18n-te"><strong>షేర్ చేయండి</strong> — స్తోత్రంలో షేర్ బటన్ నొక్కి పాం-లీఫ్ కార్డ్ పంపండి.</span><span class="i18n-en"><strong>Share</strong> — tap the share button in any stotram to send a palm-leaf card.</span></li>
+        </ol>
+      </div>
+
+      <!-- Sources -->
+      <div class="about-section">
+        <h3 class="about-section-title">
+          <span class="i18n-te">మూలాలు</span>
+          <span class="i18n-en">Sources</span>
+        </h3>
+        <p class="about-para">
+          <span class="i18n-te">స్తోత్రాలు ప్రాచీన గ్రంథాల నుండి సేకరించబడ్డాయి — మహాభారతం, పురాణాలు, మరియు ఆది శంకరాచార్య, పుష్పదంత వంటి కవుల రచనల నుండి. పాఠాలు ప్రామాణిక ముద్రిత సంస్కరణలపై ఆధారపడి ఉన్నాయి.</span>
+          <span class="i18n-en">Stotrams are drawn from classical texts — the Mahabharata, Puranas, and compositions of poets like Adi Shankaracharya and Pushpadanta. Texts are based on standard printed editions; minor variations may exist across traditions.</span>
+        </p>
+      </div>
+
+      <!-- Made by -->
+      <div class="about-section">
+        <h3 class="about-section-title">
+          <span class="i18n-te">ఎవరు తయారు చేశారు?</span>
+          <span class="i18n-en">Made by</span>
+        </h3>
+        <p class="about-para">
+          <span class="i18n-te">ఇది ఒక వ్యక్తిగత ప్రాజెక్ట్ — సంస్కృత స్తోత్రాలను తెలుగు పాఠకులకు మరింత దగ్గర చేయాలనే కోరికతో తయారైంది. సూచనలు, దోషాల దిద్దుబాటు స్వాగతం — Contact ద్వారా పంపండి.</span>
+          <span class="i18n-en">This is a personal project — born from a wish to bring Sanskrit stotrams closer to Telugu readers. Suggestions and corrections are welcome — send them via Contact.</span>
+        </p>
+      </div>
+
+      <!-- Acknowledgements -->
+      <div class="about-section about-ack">
+        <h3 class="about-section-title">
+          <span class="i18n-te">కృతజ్ఞతలు</span>
+          <span class="i18n-en">Acknowledgements</span>
+        </h3>
+        <p class="about-para">
+          <span class="i18n-te">ఈ సైట్ నిర్మాణంలో సహాయపడిన సాధనాలు:</span>
+          <span class="i18n-en">Tools that made this site possible:</span>
+        </p>
+        <div class="ack-list">
+          <a class="ack-item" href="https://github.com/sanskrit-coders/sanscript.js" target="_blank" rel="noopener">Sanscript.js — <span class="i18n-te">లిప్యంతరీకరణ</span><span class="i18n-en">transliteration</span> ↗</a>
+          <a class="ack-item" href="https://fusejs.io" target="_blank" rel="noopener">Fuse.js — <span class="i18n-te">శోధన</span><span class="i18n-en">fuzzy search</span> ↗</a>
+          <a class="ack-item" href="https://fonts.google.com" target="_blank" rel="noopener">Google Fonts — Tiro Devanagari · Noto Sans Telugu ↗</a>
+          <a class="ack-item" href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages — <span class="i18n-te">హోస్టింగ్</span><span class="i18n-en">hosting</span> ↗</a>
+        </div>
+      </div>
+
+      <!-- Version -->
+      <div class="site-version-row">
+        <span class="i18n-te">సైట్ వెర్షన్</span>
+        <span class="i18n-en">Site version</span>
+        <span class="version-pill" id="siteVersionPill">—</span>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ── CONTACT ── -->
+  <section class="page hidden" id="page-contact">
+    <div class="prose-page">
+      <h2>
+        <span class="i18n-te">సంప్రదించండి</span>
+        <span class="i18n-en">Contact Us</span>
+      </h2>
+      <p>
+        <span class="i18n-te">మీ అభిప్రాయాలు, సూచనలు పంపండి</span>
+        <span class="i18n-en">Send your feedback and suggestions</span>
+      </p>
+      <div id="contact-status" class="contact-status" hidden></div>
+      <form class="contact-form" id="contact-form">
+        <div class="form-group">
+          <label for="cf-name">
+            <span class="i18n-te">పేరు</span><span class="i18n-en">Name</span>
+          </label>
+          <input type="text" id="cf-name" name="name" required />
+        </div>
+        <div class="form-group">
+          <label for="cf-email">
+            <span class="i18n-te">ఇమెయిల్</span><span class="i18n-en">Email</span>
+          </label>
+          <input type="email" id="cf-email" name="email" required />
+        </div>
+        <div class="form-group">
+          <label for="cf-subject">
+            <span class="i18n-te">విషయం</span><span class="i18n-en">Subject</span>
+          </label>
+          <select id="cf-subject" name="subject">
+            <option value="feedback">Feedback</option>
+            <option value="correction">Error Correction</option>
+            <option value="suggestion">Suggestion</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="cf-message">
+            <span class="i18n-te">సందేశం</span><span class="i18n-en">Message</span>
+          </label>
+          <textarea id="cf-message" name="message" rows="5" required></textarea>
+        </div>
+        <button type="submit" class="cta-btn">
+          <span class="i18n-te">పంపండి</span><span class="i18n-en">Send</span>
+        </button>
+      </form>
+    </div>
+  </section>
+
+  <!-- ── CREDITS ── -->
+  <section class="page hidden" id="page-credits">
+    <div class="prose-page">
+      <h2>
+        <span class="i18n-te">కృతజ్ఞతలు</span>
+        <span class="i18n-en">Credits</span>
+      </h2>
+      <div class="credits-grid">
+        <div class="credit-card">
+          <h3>Sanscript.js</h3>
+          <p><span class="i18n-te">ఇండిక్ లిపి లిప్యంతరీకరణ లైబ్రరీ</span><span class="i18n-en">Indic script transliteration library by sanskrit-coders</span></p>
+          <a href="https://github.com/sanskrit-coders/sanscript.js" target="_blank" rel="noopener">GitHub ↗</a>
+        </div>
+        <div class="credit-card">
+          <h3>Fuse.js</h3>
+          <p><span class="i18n-te">తేలికపాటి శోధన లైబ్రరీ</span><span class="i18n-en">Lightweight fuzzy-search library</span></p>
+          <a href="https://fusejs.io" target="_blank" rel="noopener">fusejs.io ↗</a>
+        </div>
+        <div class="credit-card">
+          <h3>Google Fonts</h3>
+          <p>Tiro Devanagari Sanskrit, Noto Sans Telugu</p>
+          <a href="https://fonts.google.com" target="_blank" rel="noopener">fonts.google.com ↗</a>
+        </div>
+        <div class="credit-card">
+          <h3>YouTube IFrame API</h3>
+          <p><span class="i18n-te">స్తోత్ర పఠన ఆడియో ప్లేయర్</span><span class="i18n-en">Recitation audio playback</span></p>
+          <a href="https://developers.google.com/youtube/iframe_api_reference" target="_blank" rel="noopener">developers.google.com ↗</a>
+        </div>
+        <div class="credit-card">
+          <h3>GitHub Pages</h3>
+          <p><span class="i18n-te">ఉచిత స్టాటిక్ సైట్ హోస్టింగ్</span><span class="i18n-en">Free static site hosting with CI/CD</span></p>
+          <a href="https://pages.github.com" target="_blank" rel="noopener">pages.github.com ↗</a>
+        </div>
+        <div class="credit-card">
+          <h3>peaceiris/actions-gh-pages</h3>
+          <p><span class="i18n-te">GitHub Pages డిప్లాయ్మెంట్ యాక్షన్</span><span class="i18n-en">GitHub Action for gh-pages deployment</span></p>
+          <a href="https://github.com/peaceiris/actions-gh-pages" target="_blank" rel="noopener">GitHub ↗</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── SUBHASHITAM (beta-gated) ── -->
+  <section class="page hidden" id="page-subhashitam">
+    <div id="subhashitamList"></div>
+    <div id="subhashitamDetail" class="hidden"></div>
+  </section>
+
+</main>
+
+<!-- Beta access toast -->
+<div id="betaToast" class="beta-toast hidden" role="status" aria-live="polite"></div>
+
+<!-- ═══════════════════════════════════════════════════════
+     FOOTER
+═══════════════════════════════════════════════════════ -->
+<footer class="site-footer">
+  <p>
+    <span class="i18n-te">సంస్కృత స్తోత్రాలు — భక్తితో నిర్మించబడింది</span>
+    <span class="i18n-en">Sanskrit Stotrams — Built with devotion</span>
+  </p>
+  <p class="footer-install hidden" id="installPrompt">
+    <button class="install-btn" id="installBtn" data-i18n-bilingual="install_app">యాప్ ఇన్‌స్టాల్ చేయండి / Install App</button>
+  </p>
+</footer>
+
+<!-- ═══════════════════════════════════════════════════════
+     SCRIPTS
+═══════════════════════════════════════════════════════ -->
+<!-- Fuse.js -->
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<!-- YouTube IFrame API (async) -->
+<script>
+  (function() {
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  })();
+</script>
+
+<!-- App Modules (order matters) -->
+<script src="assets/js/constants.js"></script>
+<script src="assets/js/modules/i18n.js"></script>
+<script src="assets/js/modules/settings.js"></script>
+<script src="assets/js/modules/parser.js"></script>
+<script src="assets/js/modules/audio.js"></script>
+<script src="assets/js/modules/search.js"></script>
+<script src="assets/js/modules/contact.js"></script>
+<script src="assets/js/modules/share-card.js"></script>
+<script src="assets/js/modules/ui.js"></script>
+<script src="assets/js/app.js"></script>
+
+<!-- Service Worker Registration -->
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('service-worker.js')
+        .then(reg => console.log('SW registered:', reg.scope))
+        .catch(err => console.warn('SW registration failed:', err));
+    });
+  }
+</script>
+
+</body>
+</html>

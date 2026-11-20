@@ -1,0 +1,41 @@
+{
+  "id": "seva-006",
+  "tags": [
+    "seva",
+    "matru",
+    "pitru",
+    "guru"
+  ],
+  "shlokam": {
+    "te": "మాతృదేవో భవ పితృదేవో భవ ఆచార్యదేవో భవ అతిథిదేవో భవ ।",
+    "sa": "मातृदेवो भव पितृदेवो भव आचार्यदेवो भव अतिथिदेवो भव ।",
+    "iast": "mātṛdevo bhava pitṛdevo bhava ācāryadevo bhava atithidevo bhava ।"
+  },
+  "chandaH": "గద్య (Gadya) — prose form from Upaniṣadic teaching",
+  "granthaH": {
+    "name_te": "తైత్తిరీయోపనిషత్తు — శిక్షావల్లి 1.11.2",
+    "name_en": "Taittirīya Upaniṣad — Śikṣāvallī 1.11.2",
+    "grantha": "Upaniṣad",
+    "grantha_te": "ఉపనిషదః",
+    "grantha_sa": "उपनिषदः"
+  },
+  "padavibhagam": {
+    "te": "మాతృదేవః | భవ | పితృదేవః | భవ | ఆచార్యదేవః | భవ | అతిథిదేవః | భవ",
+    "en": "mātṛ-devaḥ | bhava | pitṛ-devaḥ | bhava | ācārya-devaḥ | bhava | atithi-devaḥ | bhava"
+  },
+  "anvayam": {
+    "te": "మాతృదేవః భవ (తల్లిని దేవతగా భావించేవాడవు కమ్ము); పితృదేవః భవ (తండ్రిని దేవతగా భావించేవాడవు కమ్ము); ఆచార్యదేవః భవ (గురువును దేవతగా భావించేవాడవు కమ్ము); అతిథిదేవః భవ (అతిథిని దేవతగా భావించేవాడవు కమ్ము).",
+    "en": "mātṛdevo bhava (be one for whom the mother is divine); pitṛdevo bhava (be one for whom the father is divine); ācāryadevo bhava (be one for whom the teacher is divine); atithidevo bhava (be one for whom the guest is divine)."
+  },
+  "meaning": {
+    "te": "తల్లిని దేవతగా చూడు; తండ్రిని దేవతగా చూడు; గురువును దేవతగా చూడు; అతిథిని దేవతగా చూడు.",
+    "en": "Let your mother be your god; let your father be your god; let your teacher be your god; let the guest be your god."
+  },
+  "tatparyam": {
+    "te": "తైత్తిరీయోపనిషత్తులో గురువు శిష్యుడికి విద్యారంభంలో ఇచ్చిన ఉపదేశం ఇది. ఈ నాలుగు వాక్యాలు ఒక్కొక్కటి మన జీవన విలువలను ప్రతిబింబిస్తాయి — కుటుంబ (మాత, పిత), విద్య (ఆచార్య), సమాజ (అతిథి) సేవ. ప్రతి వ్యక్తిలో దైవత్వాన్ని చూడగలిగే దృష్టి ఇందులో ఉంది.",
+    "en": "This is the graduation counsel given by the teacher to the student in the Taittirīya Upaniṣad. Each of the four instructions represents a sphere of life — family (mother, father), knowledge (teacher), and society (guest). The common thread is seeing the divine in every person you serve. This is not merely ritual respect but a complete philosophy of service: treat every person in your care as a manifestation of the sacred."
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+}

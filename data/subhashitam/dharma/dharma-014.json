@@ -1,0 +1,40 @@
+{
+  "id": "dharma-014",
+  "tags": [
+    "dharma",
+    "satya"
+  ],
+  "shlokam": {
+    "te": "సత్యం బ్రూయాత్ప్రియం బ్రూయాన్న బ్రూయాత్సత్యమప్రియమ్ ।\nప్రియం చ నానృతం బ్రూయాదేష ధర్మః సనాతనః ॥",
+    "sa": "सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् ।\nप्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥",
+    "iast": "satyaṃ brūyātpriyaṃ brūyānna brūyātsatyamapriyam ।\npriyaṃ ca nānṛtaṃ brūyādeṣa dharmaḥ sanātanaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "మనుస్మృతి",
+    "name_en": "Manusmṛti",
+    "chapter": "4.138",
+    "grantha_sa": "धर्मशास्त्रम्",
+    "grantha": "Dharmaśāstra",
+    "grantha_te": "ధర్మశాస్త్రమ్"
+  },
+  "padavibhagam": {
+    "te": "సత్యమ్ | బ్రూయాత్ | ప్రియమ్ | బ్రూయాత్ | న | బ్రూయాత్ | సత్యమ్ | అప్రియమ్ | ప్రియమ్ | చ | న | అనృతమ్ | బ్రూయాత్ | ఏషః | ధర్మః | సనాతనః",
+    "en": "satyam | brūyāt | priyam | brūyāt | na | brūyāt | satyam | apriyam | priyam | ca | na | anṛtam | brūyāt | eṣaḥ | dharmaḥ | sanātanaḥ"
+  },
+  "anvayam": {
+    "te": "సత్యం బ్రూయాత్, ప్రియం బ్రూయాత్, అప్రియం సత్యం న బ్రూయాత్, ప్రియం చ అనృతం న బ్రూయాత్ — ఏషః సనాతనః ధర్మః.",
+    "en": "One should speak truth, speak what is pleasant; not speak an unpleasant truth, nor a pleasant falsehood — this is the eternal dharma."
+  },
+  "meaning": {
+    "te": "సత్యం చెప్పాలి, ప్రియంగా చెప్పాలి; అప్రియమైన సత్యం చెప్పకూడదు, ప్రియమైనా అబద్ధం చెప్పకూడదు — ఇది సనాతన ధర్మం.",
+    "en": "Speak the truth, speak it kindly; do not speak a truth that wounds, nor a falsehood that pleases — this is the eternal dharma."
+  },
+  "tatparyam": {
+    "te": "మనుస్మృతి సత్యాన్ని ప్రియంతో సమన్వయిస్తుంది — సత్యం ధర్మమే కానీ, అది ఇతరులను గాయపరిచేలా కఠినంగా పలకరాదు; అలాగని ప్రియం కోసం అబద్ధమాడరాదు. సత్యమూ మృదుత్వమూ కలిస్తేనే సంపూర్ణ ధర్మం. వాక్సంయమాన్ని ఈ శ్లోకం సూత్రప్రాయంగా చెబుతుంది.",
+    "en": "Manu harmonises truth with kindness — truth is dharma, yet must not be spoken so harshly as to wound; nor should one lie to please. Only when truth and gentleness meet is dharma complete. The verse is a maxim on restraint of speech."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

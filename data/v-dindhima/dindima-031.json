@@ -1,0 +1,35 @@
+{
+  "id": "dindima-031",
+  "tags": [
+    "dindima",
+    "avidya-maya",
+    "ishvara-jiva"
+  ],
+  "shlokam": {
+    "te": "అవిద్యోపాధికో జీవో మాయోపాధిక ఈశ్వరః ।\nమాయావిద్యాగుణాతీతం బ్రహ్మ వేదాన్తడిణ్డిమః ॥ ౩౧ ॥",
+    "sa": "अविद्योपाधिको जीवो मायोपाधिक ईश्वरः ।\nमायाविद्यागुणातीतं ब्रह्म वेदान्तडिण्डिमः ॥ ३१ ॥",
+    "iast": "avidyopādhiko jīvo māyopādhika īśvaraḥ ।\nmāyāvidyāguṇātītaṃ brahma vedāntaḍiṇḍimaḥ ॥ 31 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 31"
+  },
+  "padavibhagam": {
+    "te": "అవిద్యోపాధికః | జీవః | మాయోపాధికః | ఈశ్వరః | మాయావిద్యాగుణాతీతమ్ | బ్రహ్మ | వేదాన్తడిణ్డిమః",
+    "en": "avidyopādhikaḥ | jīvaḥ | māyopādhikaḥ | īśvaraḥ | māyāvidyāguṇātītam | brahma | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "జీవః అవిద్యోపాధికః; ఈశ్వరః మాయోపాధికః; బ్రహ్మ మాయావిద్యాగుణాతీతమ్ — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Jīvaḥ avidyopādhikaḥ (the jīva is conditioned by the limiting adjunct of avidyā/nescience); īśvaraḥ māyopādhikaḥ (Īśvara is conditioned by the adjunct of māyā/the cosmic power); brahma māyāvidyāguṇātītam (Brahman transcends māyā, avidyā, and the guṇas) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "జీవుడు అవిద్యా ఉపాధి కలవాడు; ఈశ్వరుడు మాయా ఉపాధి కలవాడు. బ్రహ్మం మాయ, అవిద్య, గుణాలకు అతీతమైనది — ఇది వేదాంతడిండిమం.",
+    "en": "The jīva is conditioned by the limiting adjunct of nescience; Īśvara is conditioned by the adjunct of the cosmic power. Brahman transcends māyā, avidyā, and the guṇas altogether. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "జీవుడు, ఈశ్వరుడు, బ్రహ్మం అనే మూడు స్థాయిలను ఒకే శ్లోకంలో నిర్వచించే కీలకమైన సూత్రం ఇది. ఒకే స్వచ్ఛమైన చైతన్యం రెండు రకాల ఉపాధుల (పరిమితి కల్పించే అంశాల) గుండా వ్యక్తమవుతుంది — పరిమితమైన, వ్యక్తిగత అజ్ఞానం (అవిద్య) గుండా జీవుడిగా; విశ్వవ్యాప్తమైన సృజనశక్తి (మాయ) గుండా ఈశ్వరుడిగా. ఈ రెండు ఉపాధులకూ మూలమైన, వాటిని దాటిన స్వచ్ఛమైన చైతన్యమే బ్రహ్మం. ఇది గ్రంథం ఆరంభంలో (6వ శ్లోకం) చూపిన సమష్టి-వ్యష్టి భావననే మరింత సూక్ష్మంగా విస్తరిస్తుంది.",
+    "en": "A pivotal formula defining three levels — jiva, Ishvara, and Brahman — within a single verse. The same pure consciousness expresses itself through two kinds of limiting adjuncts — through limited, individual ignorance (avidya) as the jiva; through the universal creative power (maya) as Ishvara. Brahman is that pure consciousness underlying and transcending both adjuncts. This further refines and extends the samashti-vyashti (collective-individual) idea shown earlier at verse 6."
+  }
+}

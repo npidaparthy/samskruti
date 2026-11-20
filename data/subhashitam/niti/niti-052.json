@@ -1,0 +1,41 @@
+{
+  "id": "niti-052",
+  "tags": [
+    "niti",
+    "buddhi",
+    "prayatna"
+  ],
+  "shlokam": {
+    "te": "తైలాద్రక్షేత్ జలాద్రక్షేత్ రక్షేచ్ఛిథిలబన్ధనాత్ ।\nమూర్ఖహస్తే న దాతవ్యం ఏవం వదతి పుస్తకమ్ ॥",
+    "sa": "तैलाद्रक्षेत् जलाद्रक्षेत् रक्षेच्छिथिलबन्धनात् ।\nमूर्खहस्ते न दातव्यं एवं वदति पुस्तकम् ॥",
+    "iast": "tailādrakṣet jalādrakṣet rakṣecchithilabandhanāt ।\nmūrkhahaste na dātavyaṃ evaṃ vadati pustakam ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "సుభాషిత సంప్రదాయము",
+    "name_en": "Subhashita tradition",
+    "chapter": "traditional scribal colophon verse",
+    "grantha": "Subhāṣita saṅgraha",
+    "grantha_te": "సుభాషితసఙ్గ్రహః",
+    "grantha_sa": "सुभाषितसङ्ग्रहः"
+  },
+  "padavibhagam": {
+    "te": "తైలాత్ | రక్షేత్ | జలాత్ | రక్షేత్ | రక్షేత్ | శిథిలబన్ధనాత్ | మూర్ఖహస్తే | న | దాతవ్యమ్ | ఏవమ్ | వదతి | పుస్తకమ్",
+    "en": "tailāt | rakṣet | jalāt | rakṣet | rakṣet | śithilabandhanāt | mūrkhahaste | na | dātavyam | evam | vadati | pustakam"
+  },
+  "anvayam": {
+    "te": "తైలాత్ రక్షేత్; జలాత్ రక్షేత్; శిథిలబన్ధనాత్ రక్షేత్; మూర్ఖహస్తే న దాతవ్యమ్ — ఏవం పుస్తకం వదతి.",
+    "en": "Tailāt rakṣet (protect me from oil), jalāt rakṣet (protect me from water), śithilabandhanāt rakṣet (protect me from loose binding), mūrkhahaste na dātavyam (do not place me in the hands of a fool) — evaṃ pustakaṃ vadati (thus speaks the book)."
+  },
+  "meaning": {
+    "te": "నూనె నుండి కాపాడు, నీటి నుండి కాపాడు, వదులైన బైండింగ్ నుండి కాపాడు, మూర్ఖుని చేతిలో పెట్టకు — ఇలా పుస్తకమే పలుకుతోంది.",
+    "en": "Protect me from oil, protect me from water, protect me from loose binding, and do not place me in the hands of a fool — thus speaks the book itself."
+  },
+  "tatparyam": {
+    "te": "తాళపత్ర గ్రంథాల చివర లేఖకులు రాసే సంప్రదాయ శ్లోకాలలో ఇది ఒకటి — పుస్తకమే స్వయంగా మాట్లాడుతున్నట్లు రాయబడిన చమత్కారభరిత రచన. మొదటి మూడు హెచ్చరికలూ భౌతికమైనవి — గ్రంథసంరక్షణకు సంబంధించినవి, తాళపత్రాలు పాడైపోకుండా ఉండేందుకు తీసుకోవలసిన జాగ్రత్తలు. నాలుగవది మాత్రం మౌలికమైనది — మూర్ఖుని చేతికి వెళ్ళడమే గ్రంథానికి అసలైన ప్రమాదం, ఎందుకంటే భౌతికంగా చెక్కుచెదరకుండా ఉన్నా అర్థం కాని జ్ఞానం వృథా. జ్ఞానాన్ని భద్రపరచడం అంటే కేవలం కాగితాన్నో తాళపత్రాన్నో కాపాడటం కాదు, దానిని అర్థం చేసుకోగలిగినవారి చేతికే అందించడం అని ఈ చమత్కారశ్లోకం గుర్తుచేస్తుంది.",
+    "en": "One of the traditional colophon verses scribes wrote at the end of palm-leaf manuscripts — a witty composition in which the book itself is made to speak. The first three warnings are physical, about preserving the manuscript from damage. The fourth is fundamental — falling into a fool's hands is the true danger for a book, because knowledge that goes uncomprehended is wasted even if the physical leaf survives intact. This playful verse reminds us that preserving knowledge means more than safeguarding paper or palm-leaf — it means placing it in hands that can understand it."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

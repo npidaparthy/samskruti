@@ -1,0 +1,41 @@
+{
+  "id": "vairagya-030",
+  "tags": [
+    "vairagya",
+    "kama",
+    "krodha"
+  ],
+  "shlokam": {
+    "te": "కామం క్రోధం లోభం మోహం\nత్యక్త్వాత్మానం భావయ కోఽహమ్ ।\nఆత్మజ్ఞానవిహీనా మూఢాః\nతే పచ్యన్తే నరకనిగూఢాః ॥",
+    "sa": "कामं क्रोधं लोभं मोहं\nत्यक्त्वात्मानं भावय कोऽहम् ।\nआत्मज्ञानविहीना मूढाः\nते पच्यन्ते नरकनिगूढाः ॥",
+    "iast": "kāmaṃ krodhaṃ lobhaṃ mohaṃ\ntyaktvātmānaṃ bhāvaya ko'ham ।\nātmajñānavihīnā mūḍhāḥ\nte pacyante narakanigūḍhāḥ ॥"
+  },
+  "chandaH": "మాత్రాసమక వృత్తము (mātrā metre of Bhaja Govindam) — 4 quarters",
+  "granthaH": {
+    "name_te": "భజగోవిన్దం (ఆదిశంకరాచార్యులు)",
+    "name_en": "Bhaja Govindam (Adi Shankaracharya)",
+    "chapter": "verse 29 (Charpata Panjarika)",
+    "grantha": "Bhaja Govindam",
+    "grantha_te": "భజగోవిన్దమ్",
+    "grantha_sa": "भजगोविन्दम्"
+  },
+  "padavibhagam": {
+    "te": "కామమ్ | క్రోధమ్ | లోభమ్ | మోహమ్ | త్యక్త్వా | ఆత్మానమ్ | భావయ | కః | అహమ్ | ఆత్మజ్ఞానవిహీనాః | మూఢాః | తే | పచ్యన్తే | నరకనిగూఢాః",
+    "en": "kāmam | krodham | lobham | moham | tyaktvā | ātmānam | bhāvaya | kaḥ | aham | ātmajñānavihīnāḥ | mūḍhāḥ | te | pacyante | narakanigūḍhāḥ"
+  },
+  "anvayam": {
+    "te": "కామం, క్రోధం, లోభం, మోహం త్యక్త్వా, 'కః అహమ్' (ఇతి) ఆత్మానం భావయ; ఆత్మజ్ఞానవిహీనాః మూఢాః తే నరకనిగూఢాః పచ్యన్తే.",
+    "en": "Kāmaṃ krodhaṃ lobhaṃ mohaṃ tyaktvā (renouncing desire, anger, greed, and delusion), ātmānaṃ bhāvaya ko'ham (contemplate the self, asking 'who am I'); ātmajñānavihīnāḥ mūḍhāḥ (fools devoid of self-knowledge) te narakanigūḍhāḥ pacyante (are consumed, sunk deep in hell)."
+  },
+  "meaning": {
+    "te": "కామక్రోధలోభమోహాలను విడిచిపెట్టి, 'నేను ఎవరిని' అని ఆత్మవిచారణ చేయి. ఆత్మజ్ఞానం లేని మూఢులు నరకంలో మగ్గుతారు.",
+    "en": "Give up desire, anger, greed, and delusion, and inquire, 'Who am I?' Fools devoid of self-knowledge are consumed, sunk deep in torment."
+  },
+  "tatparyam": {
+    "te": "నాలుగు అంతఃశత్రువులను ఒక్క పంక్తిలో ఏకరువు పెట్టి, వాటికి విరుగుడుగా ఆత్మవిచారణను సూచించే శ్లోకం. 'కోఽహమ్' అన్న ప్రశ్న అద్వైతవేదాంతపు మూలసూత్రం — దేహమూ, మనసూ, ఇంద్రియాలూ కాక నిజమైన 'నేను' ఎవరు అని నిత్యమూ వెతకమనేది. ఈ విచారణను వదిలేసి కోరికలకూ కోపానికీ లోభానికీ లొంగినవాడు తనను తానే నరకంలో ముంచుకుంటాడు — నరకం మరణానంతర స్థలం మాత్రమే కాదు, ఆత్మజ్ఞానం లేని బతుకే ఒక నరకమన్న సూక్ష్మ సందేశం ఇక్కడ దాగి ఉంది.",
+    "en": "The verse names the four inner enemies in a single breath and prescribes self-inquiry as their antidote. 'Ko'ham' — who am I — is Advaita Vedanta's founding question: to search, ceaselessly, for the true 'I' beyond body, mind, and senses. Abandon that inquiry and surrender to desire, anger, and greed, and one sinks into hell by one's own doing — the subtle point being that hell is not only a place after death, but a life lived without self-knowledge."
+  },
+  "chanda_key": "matrasamaka",
+  "chanda_sa": "मात्रासमकम्",
+  "chanda_te": "మాత్రాసమకమ్"
+}

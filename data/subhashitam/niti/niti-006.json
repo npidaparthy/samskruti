@@ -1,0 +1,41 @@
+{
+  "id": "niti-006",
+  "tags": [
+    "niti",
+    "durlabha",
+    "rarity"
+  ],
+  "shlokam": {
+    "te": "శైలే శైలే న మాణిక్యం మౌక్తికం న గజే గజే ।\nసాధవో న హి సర్వత్ర చన్దనం న వనే వనే ॥",
+    "sa": "शैले शैले न माणिक्यं मौक्तिकं न गजे गजे ।\nसाधवो न हि सर्वत्र चन्दनं न वने वने ॥",
+    "iast": "śaile śaile na māṇikyaṃ mauktikaṃ na gaje gaje ।\nsādhavo na hi sarvatra candanaṃ na vane vane ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup)",
+  "granthaH": {
+    "name_te": "చాణక్య నీతిదర్పణమ్",
+    "name_en": "Cāṇakya Nītidarpana",
+    "chapter": "Chapter 4",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "శైలే శైలే | న | మాణిక్యమ్ | మౌక్తికమ్ | న | గజే గజే | సాధవః | న హి | సర్వత్ర | చన్దనమ్ | న | వనే వనే",
+    "en": "śaile śaile | na | māṇikyam | mauktikam | na | gaje gaje | sādhavaḥ | na hi | sarvatra | candanam | na | vane vane"
+  },
+  "anvayam": {
+    "te": "శైలే శైలే మాణిక్యం న (భవతి); గజే గజే మౌక్తికం న (భవతి); సాధవః సర్వత్ర న హి (భవన్తి); వనే వనే చన్దనం న (భవతి).",
+    "en": "In every mountain (śaile śaile) there is no ruby (na māṇikyam); in every elephant (gaje gaje) there is no pearl (na mauktikam); virtuous people (sādhavaḥ) are not found everywhere (na hi sarvatra); in every forest (vane vane) there is no sandalwood (na candanam)."
+  },
+  "meaning": {
+    "te": "ప్రతి పర్వతంలోనూ మాణిక్యాలు ఉండవు; ప్రతి ఏనుగులోనూ ముత్యాలు ఉండవు; సత్పురుషులు సర్వత్రా దొరకరు; ప్రతి అడవిలోనూ చందనం ఉండదు.",
+    "en": "Not every mountain yields rubies; not every elephant bears pearls; not everywhere are virtuous people found; not every forest has sandalwood."
+  },
+  "tatparyam": {
+    "te": "శ్రేష్ఠమైనవి అన్ని చోట్లా లభించవు — అదే వాటి విలువ. మాణిక్యము, ముత్యము, చందనము అరుదుగా దొరుకుతాయి. అదే విధంగా సత్పురుషులు (సాధువులు) కూడా అరుదే. అందువల్ల మంచివారిని గుర్తించినప్పుడు వారిని గౌరవించాలని, వారి సాంగత్యాన్ని అమూల్యంగా భావించాలని ఈ శ్లోకం బోధిస్తుంది.",
+    "en": "The rarest things are the most precious. Rubies, pearls and sandalwood are valuable precisely because they are not found everywhere. Likewise, a truly virtuous person is rare — and when found, to be cherished and revered. This verse cautions against taking good people for granted."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

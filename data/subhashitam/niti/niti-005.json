@@ -1,0 +1,41 @@
+{
+  "id": "niti-005",
+  "tags": [
+    "niti",
+    "mitra",
+    "pariksha"
+  ],
+  "shlokam": {
+    "te": "ఆపత్కాలే తు సమ్ప్రాప్తే యన్మిత్రం మిత్రముచ్యతే ।\nభోజనే వ్యసనే చైవ తద్ధి సత్యం పరీక్ష్యతే ॥",
+    "sa": "आपत्काले तु सम्प्राप्ते यन्मित्रं मित्रमुच्यते ।\nभोजने व्यसने चैव तद्धि सत्यं परीक्ष्यते ॥",
+    "iast": "āpatkāle tu samprāpte yanmitraṃ mitramucyate ।\nbhojane vyasane caiva taddhi satyaṃ parīkṣyate ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup)",
+  "granthaH": {
+    "name_te": "చాణక్య నీతిదర్పణమ్",
+    "name_en": "Cāṇakya Nītidarpana",
+    "chapter": "Chapter 5",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "ఆపత్కాలే | తు | సంప్రాప్తే | యత్ | మిత్రమ్ | మిత్రమ్ | ఉచ్యతే | భోజనే | వ్యసనే | చ | ఏవ | తత్ | హి | సత్యమ్ | పరీక్ష్యతే",
+    "en": "āpatkāle | tu | saṃprāpte | yat | mitram | mitram | ucyate | bhojane | vyasane | ca | eva | tat | hi | satyam | parīkṣyate"
+  },
+  "anvayam": {
+    "te": "ఆపత్కాలే తు సంప్రాప్తే (సతి) యత్ మిత్రం (తిష్ఠతి), తత్ మిత్రం ఉచ్యతే; (తత్) భోజనే (సుఖకాలే) వ్యసనే (కష్టకాలే) చ ఏవ సత్యం పరీక్ష్యతే.",
+    "en": "That (yat) which stands as a friend (mitram) when adversity arrives (āpatkāle saṃprāpte) is truly called a friend (mitram ucyate); it is truly tested (satyam parīkṣyate) both in times of festivity (bhojane) and in times of trouble (vyasane)."
+  },
+  "meaning": {
+    "te": "ఆపద సమయంలో నిలబడిన మిత్రుడే నిజమైన మిత్రుడు. సుఖంలోనూ దుఃఖంలోనూ — రెండింటిలోనూ — ఆ మిత్రత్వం యొక్క నిజమైన పరీక్ష జరుగుతుంది.",
+    "en": "A true friend is one who stands by you in times of adversity. Friendship is truly tested in both good times and bad — in celebration and in sorrow alike."
+  },
+  "tatparyam": {
+    "te": "మంచి రోజులలో చుట్టూ చేరే వారు మిత్రులు కాదు. నిజమైన స్నేహం ఆపదలో తెలుస్తుంది. కానీ సుఖంలో ఉన్నప్పుడు ఈర్ష్య పడకుండా శ్రేయస్సు కోరుకోవడం కూడా మిత్రత్వమే. ఈ రెండు పరీక్షలూ దాటినవాడే నిజమైన మిత్రుడు.",
+    "en": "Those who gather around in prosperity are not necessarily true friends. Real friendship reveals itself in adversity — but equally, a true friend rejoices in your good fortune without envy. Only one who passes both tests — in sorrow and in joy — deserves to be called a true friend."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

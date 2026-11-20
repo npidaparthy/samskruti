@@ -1,0 +1,41 @@
+{
+  "id": "niti-027",
+  "tags": [
+    "niti",
+    "kala",
+    "ayushu"
+  ],
+  "shlokam": {
+    "te": "ఆయుషః క్షణ ఏకోఽపి న లభ్యః స్వర్ణకోటిభిః ।\nస చేన్నిరర్థకం నీతః కా ను హానిస్తతోఽధికా ॥",
+    "sa": "आयुषः क्षण एकोऽपि न लभ्यः स्वर्णकोटिभिः ।\nस चेन्निरर्थकं नीतः का नु हानिस्ततोऽधिका ॥",
+    "iast": "āyuṣaḥ kṣaṇa eko'pi na labhyaḥ svarṇakoṭibhiḥ ।\nsa cennirarthakaṃ nītaḥ kā nu hānistato'dhikā ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "చాణక్యనీతి",
+    "name_en": "Chanakya Niti",
+    "chapter": "attributed maxim",
+    "grantha": "Cāṇakya Nīti",
+    "grantha_te": "చాణక్యనీతిః",
+    "grantha_sa": "चाणक्यनीतिः"
+  },
+  "padavibhagam": {
+    "te": "ఆయుషః | క్షణః | ఏకః | అపి | న | లభ్యః | స్వర్ణకోటిభిః | సః | చేత్ | నిరర్థకమ్ | నీతః | కా | ను | హానిః | తతః | అధికా",
+    "en": "āyuṣaḥ | kṣaṇaḥ | ekaḥ | api | na | labhyaḥ | svarṇakoṭibhiḥ | saḥ | cet | nirarthakam | nītaḥ | kā | nu | hāniḥ | tataḥ | adhikā"
+  },
+  "anvayam": {
+    "te": "ఆయుషః ఏకః క్షణః అపి స్వర్ణకోటిభిః న లభ్యః; సః చేత్ నిరర్థకం నీతః, తతః అధికా హానిః కా ను?",
+    "en": "Āyuṣaḥ (of life) ekaḥ kṣaṇaḥ api (even a single moment) na labhyaḥ (cannot be bought back) svarṇakoṭibhiḥ (with crores of gold); saḥ cet (if that moment) nirarthakam nītaḥ (is spent uselessly), kā nu hāniḥ (what loss) tataḥ adhikā (could be greater than that)?"
+  },
+  "meaning": {
+    "te": "ఆయుష్షులోని ఒక్క క్షణం కూడా కోట్ల బంగారం ఇచ్చినా తిరిగి పొందలేము. అలాంటి క్షణాన్ని వ్యర్థంగా గడిపితే, అంతకన్నా పెద్ద నష్టం ఏముంటుంది?",
+    "en": "Not even one moment of life can be bought back with crores of gold. If such a moment is spent in vain, what loss could be greater?"
+  },
+  "tatparyam": {
+    "te": "ధనం పోతే తిరిగి సంపాదించవచ్చు; ఆరోగ్యం చెడితే కొంతవరకు బాగుచేసుకోవచ్చు; కానీ గడిచిన క్షణం ఏ మూల్యానికీ తిరిగి రాదు. కాలమే అత్యంత విలువైన సంపద అని గుర్తించినవాడు దానిని విద్యకు, ధర్మానికి, సత్కార్యాలకు వినియోగిస్తాడు. కాలహరణమే అన్నిటికన్నా పెద్ద దారిద్ర్యం అన్నది చాణక్యుని హెచ్చరిక.",
+    "en": "Lost wealth can be earned again; broken health can often be mended; but a moment gone returns at no price. One who recognises time as the supreme wealth spends it on learning, dharma, and good deeds. Squandered time, Chanakya warns, is the deepest poverty of all."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}
