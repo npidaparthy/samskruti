@@ -1,0 +1,40 @@
+{
+  "id": "karma-027",
+  "tags": [
+    "karma",
+    "sarva-bhuta-hite"
+  ],
+  "shlokam": {
+    "te": "సర్వభూతస్థమాత్మానం సర్వభూతాని చాత్మని ।\nఈక్షతే యోగయుక్తాత్మా సర్వత్ర సమదర్శనః ॥",
+    "sa": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ॥",
+    "iast": "sarvabhūtasthamātmānaṃ sarvabhūtāni cātmani ।\nīkṣate yogayuktātmā sarvatra samadarśanaḥ ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (ధ్యానయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Dhyāna Yoga)",
+    "chapter": "6.29",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "సర్వభూతస్థమ్ | ఆత్మానమ్ | సర్వభూతాని | చ | ఆత్మని | ఈక్షతే | యోగయుక్తాత్మా | సర్వత్ర | సమదర్శనః",
+    "en": "sarvabhūtastham | ātmānam | sarvabhūtāni | ca | ātmani | īkṣate | yogayuktātmā | sarvatra | samadarśanaḥ"
+  },
+  "anvayam": {
+    "te": "యోగయుక్తాత్మా, సర్వత్ర సమదర్శనః (సన్), సర్వభూతస్థం ఆత్మానం, సర్వభూతాని చ ఆత్మని ఈక్షతే.",
+    "en": "Yogayuktātmā (one whose self is united through yoga), sarvatra samadarśanaḥ (seeing equally everywhere), sarvabhūtastham ātmānam (sees the Self dwelling in all beings), sarvabhūtāni ca ātmani (and all beings in the Self)."
+  },
+  "meaning": {
+    "te": "యోగంతో ఏకమైన మనసు కలవాడు, అంతటా సమభావంతో చూసేవాడు, తన ఆత్మను సర్వప్రాణులలోనూ, సర్వప్రాణులనూ తన ఆత్మలోనూ దర్శిస్తాడు.",
+    "en": "One whose self is united through yoga, seeing with equal vision everywhere, beholds his own Self dwelling in all beings, and all beings dwelling in his own Self."
+  },
+  "tatparyam": {
+    "te": "ఆత్మసాక్షాత్కారానికి గీత ఇచ్చిన అత్యున్నత నిర్వచనాలలో ఒకటి — ద్వైతభావం పూర్తిగా కరిగిపోయే దృష్టి. సాధారణ దృష్టిలో 'నేను వేరు, ఇతరులు వేరు'; యోగసిద్ధి పొందినవాని దృష్టిలో ఆ విభజనే లేదు — తన ఆత్మ అందరిలో వ్యాపించి ఉంది, అందరూ తనలో ఇమిడి ఉన్నారు. ఈ దర్శనం కలిగినవాడు ఎవరినీ దోచుకోలేడు, ఎవరికీ హాని చేయలేడు — ఎందుకంటే మరొకరికి చేసే హాని తనకే చేసుకున్నట్లు అనుభూతమవుతుంది. అహింసకూ, సమసమాజానికీ తాత్వికమైన పునాదిని అందించే శ్లోకమిది.",
+    "en": "One of the Gita's highest statements of self-realisation — a vision in which duality dissolves entirely. In ordinary sight, 'I' am separate from 'others'; in the vision of one accomplished in yoga, that division no longer exists — one's own Self pervades all, and all are contained within one's own Self. One who holds such a vision cannot exploit or harm anyone, for harm done to another is felt as harm done to oneself. This verse offers a philosophical foundation for both non-violence and an equal society."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

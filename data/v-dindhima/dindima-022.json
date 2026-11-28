@@ -1,0 +1,35 @@
+{
+  "id": "dindima-022",
+  "tags": [
+    "dindima",
+    "vrtha-shrama",
+    "brahma-vijnana"
+  ],
+  "shlokam": {
+    "te": "వృథా శ్రమోఽయం విదుషాం వృథాయం కర్మిణాం శ్రమః ।\nయది న బ్రహ్మవిజ్ఞానమితి వేదాన్తడిణ్డిమః ॥ ౨౨ ॥",
+    "sa": "वृथा श्रमोऽयं विदुषां वृथायं कर्मिणां श्रमः ।\nयदि न ब्रह्मविज्ञानमिति वेदान्तडिण्डिमः ॥ २२ ॥",
+    "iast": "vṛthā śramo'yaṃ viduṣāṃ vṛthāyaṃ karmiṇāṃ śramaḥ ।\nyadi na brahmavijñānamiti vedāntaḍiṇḍimaḥ ॥ 22 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 22"
+  },
+  "padavibhagam": {
+    "te": "వృథా | శ్రమః | అయమ్ | విదుషామ్ | వృథా | అయమ్ | కర్మిణామ్ | శ్రమః | యది | న | బ్రహ్మవిజ్ఞానమ్ | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "vṛthā | śramaḥ | ayam | viduṣām | vṛthā | ayam | karmiṇām | śramaḥ | yadi | na | brahmavijñānam | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "యది బ్రహ్మవిజ్ఞానం న (భవతి), అయం విదుషాం శ్రమః వృథా, అయం కర్మిణాం శ్రమః వృథా — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Yadi brahmavijñānaṃ na (bhavati) (if knowledge of Brahman does not result), ayaṃ viduṣāṃ śramaḥ vṛthā (this effort of scholars is futile), ayaṃ karmiṇāṃ śramaḥ vṛthā (this effort of ritual-performers is futile) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "బ్రహ్మజ్ఞానం లభించకపోతే, పండితుల శ్రమా వృథా, కర్మ చేసేవారి శ్రమా వృథా — ఇది వేదాంతడిండిమం.",
+    "en": "If knowledge of Brahman does not result, then the effort of scholars is futile, and the effort of ritual-performers is futile too. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "పాండిత్యాన్నీ కర్మనిష్ఠనూ — రెండు గౌరవప్రదమైన సాధనలను — ఒకే ప్రమాణంతో పరీక్షించే నిర్భయమైన శ్లోకం ఇది. వేదాలు కంఠస్థం చేసిన పండితుడైనా, నిత్యం యజ్ఞయాగాదులు చేసే కర్మిష్ఠుడైనా — వారి కృషి ఫలవంతమవుతుందా లేదా అనేది ఒకే గీటురాయితో కొలవబడుతుంది: బ్రహ్మజ్ఞానం లభించిందా? పాండిత్యమే లక్ష్యం అనుకుంటే, లేదా ఆచారనిష్ఠే అంతిమం అనుకుంటే — అది గమ్యాన్ని సాధనతో పొరబడటమే. సాధనలన్నీ ఒకే గమ్యానికి ఉపకరణాలు మాత్రమే; గమ్యం చేరకుండా సాధనలో నిమగ్నమవడం వృథాశ్రమేనని ఈ శ్లోకం నిర్భయంగా చాటుతుంది.",
+    "en": "A fearless verse that tests two respected disciplines — scholarship and ritual devotion — by the very same criterion. Whether one is a scholar who has memorised the Vedas or a devotee performing sacrifices daily, whether their effort truly bears fruit is measured by a single standard: has knowledge of Brahman resulted? To take scholarship itself as the goal, or ritual observance as the final aim, is to mistake the means for the end. All practices are merely instruments toward the one destination; this verse fearlessly declares that engaging in the means without reaching the destination is effort wasted."
+  }
+}

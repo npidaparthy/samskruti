@@ -1,0 +1,25 @@
+{
+  "slug": "shiva-panchakshari-stotram",
+  "title_te": "శివ పంచాక్షరీ స్తోత్రమ్",
+  "title_sa": "शिव पञ्चाक्षरी स्तोत्रम्",
+  "title_en": "Śiva Pañcākṣarī Stotram",
+  "description_en": "Five verses by Ādi Śaṅkarācārya, each beginning with one of the five syllables of the Namaḥ Śivāya mantra (Na-Ma-Śi-Vā-Ya). Each verse meditates on Śiva through that syllable's associated symbolism. Together they form a complete contemplation of the Pañcākṣara mantra — the most sacred mantra of Śaivism. Ends with a phalaśruti stating the benefits of its recitation.",
+  "description_te": "ఆది శంకరాచార్యులు రచించిన శివ పంచాక్షర స్తోత్రం. \"నమఃశివాయ\" అనే పంచాక్షర మంత్రంలోని ప్రతి అక్షరంతో ఒక్కో శ్లోకం ప్రారంభమవుతుంది. శైవ సంప్రదాయంలో అత్యంత పవిత్రమైన ఈ మంత్రాన్ని ధ్యానించే సంపూర్ణ స్తోత్రం.",
+  "description_sa": "आदिशङ्करविरचितं पञ्चाक्षरस्तोत्रम्। \"नमःशिवाय\" इति मन्त्रस्य प्रत्येकाक्षरेण प्रारभ्यमाणैः पञ्चश्लोकैः शिवं ध्यायति। शैवसम्प्रदाये परमपवित्रस्य मन्त्रस्य सम्पूर्णध्यानरूपम्।",
+  "theme": "blue",
+  "tags": [
+    "shiva",
+    "shankaracharya",
+    "mantra"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "శివ పంచాక్షరీ స్తోత్రమ్",
+      "title_sa": "शिव पञ्चाक्षरी स्तोत्रम्",
+      "title_en": "Śiva Pañcākṣarī Stotram",
+      "file": "shiva-panchakshari-stotram.txt"
+    }
+  ]
+}

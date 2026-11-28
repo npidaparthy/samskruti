@@ -1,0 +1,41 @@
+{
+  "id": "bhakti-023",
+  "tags": [
+    "bhakti",
+    "narada",
+    "prema"
+  ],
+  "shlokam": {
+    "te": "సా త్వస్మిన్ పరమప్రేమరూపా ॥\nఅమృతస్వరూపా చ ॥\nయల్లబ్ధ్వా పుమాన్ సిద్ధో భవతి\nఅమృతో భవతి తృప్తో భవతి ॥",
+    "sa": "सा त्वस्मिन् परमप्रेमरूपा ॥\nअमृतस्वरूपा च ॥\nयल्लब्ध्वा पुमान् सिद्धो भवति\nअमृतो भवति तृप्तो भवति ॥",
+    "iast": "sā tvasmin paramapremarūpā ॥\namṛtasvarūpā ca ॥\nyallabdhvā pumān siddho bhavati\namṛto bhavati tṛpto bhavati ॥"
+  },
+  "chandaH": "సూత్రగద్యము (sūtra prose)",
+  "granthaH": {
+    "name_te": "నారద భక్తిసూత్రములు",
+    "name_en": "Narada Bhakti Sutras",
+    "chapter": "sutras 2–4",
+    "grantha": "Anyat / Bhakti",
+    "grantha_te": "అన్యత్",
+    "grantha_sa": "अन्यत्"
+  },
+  "padavibhagam": {
+    "te": "సా | తు | అస్మిన్ | పరమప్రేమరూపా | అమృతస్వరూపా | చ | యత్ | లబ్ధ్వా | పుమాన్ | సిద్ధః | భవతి | అమృతః | భవతి | తృప్తః | భవతి",
+    "en": "sā | tu | asmin | paramapremarūpā | amṛtasvarūpā | ca | yat | labdhvā | pumān | siddhaḥ | bhavati | amṛtaḥ | bhavati | tṛptaḥ | bhavati"
+  },
+  "anvayam": {
+    "te": "సా (భక్తిః) తు అస్మిన్ (పరమేశ్వరే) పరమప్రేమరూపా, అమృతస్వరూపా చ; యత్ లబ్ధ్వా పుమాన్ సిద్ధః భవతి, అమృతః భవతి, తృప్తః భవతి.",
+    "en": "Sā (that bhakti) tu asmin (directed toward Him) paramapremarūpā (is of the nature of supreme love), amṛtasvarūpā ca (and of the nature of immortal nectar); yat labdhvā (gaining which) pumān siddhaḥ bhavati (a person becomes fulfilled), amṛtaḥ bhavati (becomes immortal), tṛptaḥ bhavati (becomes fully content)."
+  },
+  "meaning": {
+    "te": "భక్తి అంటే భగవంతునిపై పరమప్రేమ స్వరూపమే; అది అమృతస్వరూపం కూడా. దానిని పొందిన మానవుడు సిద్ధుడవుతాడు, అమృతుడవుతాడు, తృప్తుడవుతాడు.",
+    "en": "Bhakti is of the nature of supreme love for Him; it is of the nature of nectar itself. Gaining it, a person becomes fulfilled, becomes immortal, becomes fully content."
+  },
+  "tatparyam": {
+    "te": "భక్తిశాస్త్రానికి నారదులు ఇచ్చిన మౌలిక నిర్వచనం — భక్తి అంటే భయమో, బేరమో, ఆచారమో కాదు; పరమప్రేమ. నిర్వచనం తర్వాతి మాట ఇంకా లోతైనది — 'తృప్తో భవతి'. ప్రతి కోరిక తీరిన వెంటనే కొత్త కోరిక పుట్టే మానవ జీవితంలో సంపూర్ణ తృప్తి అనేది భక్తిలోనే సాధ్యమంటున్నారు; ఎందుకంటే ప్రేమే గమ్యమైనప్పుడు ఇక పొందవలసినది ఏమీ మిగలదు. సాధనగా మొదలై స్వయంగా ఫలమయ్యే ఏకైక మార్గం భక్తి.",
+    "en": "Narada's founding definition of the science of devotion — bhakti is not fear, not bargain, not ritual; it is supreme love. The word after the definition runs deeper still: 'tṛpto bhavati', he becomes fully content. In a human life where every satisfied desire births the next one, complete contentment is possible only here — for when love itself is the destination, nothing remains to be obtained. Bhakti is the one path that begins as the means and turns out to be the fruit."
+  },
+  "chanda_key": "non-vrtta",
+  "chanda_sa": "गद्य / वैदिकम् / सूक्तिः",
+  "chanda_te": "గద్య / వైదికమ్ / సూక్తిః"
+}

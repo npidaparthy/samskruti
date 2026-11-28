@@ -1,0 +1,994 @@
+{
+  "stotrams": [
+    {
+      "slug": "vishnu-sahasranamam",
+      "title_te": "విష్ణుసహస్రనామమ్",
+      "title_sa": "विष्णुसहस्रनामम्",
+      "title_en": "viṣṇusahasranāmam",
+      "description_en": "The thousand names of Lord Vishnu from the Mahabharata (Anushasana Parva). One of the most sacred stotrams in Vaishnavism.",
+      "description_te": "మహాభారతంలోని అనుశాసన పర్వం నుండి విష్ణువు యొక్క వేయి నామాలు.",
+      "theme": "theme-vishnu",
+      "tags": [
+        "vishnu",
+        "sahasranamam",
+        "vaishnavism",
+        "mahabharata"
+      ],
+      "synonyms": [
+        "విష్ణుసహస్రమ్",
+        "thousand names of vishnu",
+        "VSN"
+      ],
+      "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/vishnu-sahasranamam-01.svg",
+        "assets/images/vishnu-sahasranamam-02.svg",
+        "assets/images/vishnu-sahasranamam-03.svg"
+      ],
+      "sections": [
+        {
+          "id": "purva-peetika",
+          "title_te": "పూర్వపీఠికా",
+          "title_sa": "पूर्वपीठिका",
+          "title_en": "pūrvapīṭhikā",
+          "file": "vishnu-sahasranamam_purva-peetika.txt"
+        },
+        {
+          "id": "stotram",
+          "title_te": "స్తోత్రమ్",
+          "title_sa": "स्तोत्रम्",
+          "title_en": "Stotram",
+          "file": "vishnu-sahasranamam_stotram.txt"
+        },
+        {
+          "id": "uttara-peetika",
+          "title_te": "ఉత్తరపీఠికా",
+          "title_sa": "उत्तरपीठिका",
+          "title_en": "uttarapīṭhikā",
+          "file": "vishnu-sahasranamam_uttara-peetika.txt"
+        }
+      ]
+    },
+    {
+      "slug": "lalita-sahasranamam",
+      "title_te": "లలితాసహస్రనామమ్",
+      "title_sa": "ललितासहस्रनामम्",
+      "title_en": "lalitāsahasranāmam",
+      "description_en": "The thousand names of Goddess Lalita Tripurasundari from the Brahmanda Purana.",
+      "description_te": "బ్రహ్మాండ పురాణంలోని లలితా త్రిపురసుందరి యొక్క వేయి నామాలు.",
+      "theme": "theme-lalita",
+      "tags": [
+        "lalita",
+        "sahasranamam",
+        "shakti",
+        "devi",
+        "brahmanda-purana"
+      ],
+      "synonyms": [
+        "లలితాసహస్రమ్",
+        "thousand names of lalita",
+        "LSN"
+      ],
+      "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/lalita-sahasranamam-01.svg",
+        "assets/images/lalita-sahasranamam-02.svg",
+        "assets/images/lalita-sahasranamam-03.svg"
+      ],
+      "sections": [
+        {
+          "id": "purva-peetika",
+          "title_te": "పూర్వపీఠికా",
+          "title_sa": "पूर्वपीठिका",
+          "title_en": "pūrvapīṭhikā",
+          "file": "lalita-sahasranamam_purva-peetika.txt"
+        },
+        {
+          "id": "stotram",
+          "title_te": "స్తోత్రమ్",
+          "title_sa": "स्तोत्रम्",
+          "title_en": "stotram",
+          "file": "lalita-sahasranamam_stotram.txt"
+        },
+        {
+          "id": "uttara-peetika",
+          "title_te": "ఉత్తరపీఠికా",
+          "title_sa": "उत्तरपीठिका",
+          "title_en": "uttarapīṭhikā",
+          "file": "lalita-sahasranamam_uttara-peetika.txt"
+        }
+      ]
+    },
+    {
+      "slug": "soundaryalahari",
+      "title_te": "సౌందర్యలహరీ",
+      "title_sa": "सौन्दर्यलहरी",
+      "title_en": "saundaryalaharī",
+      "description_en": "A celebrated poem by Adi Shankaracharya describing the beauty and grace of Goddess Parvati.",
+      "description_te": "ఆది శంకరాచార్యులచే రచించబడిన దేవి పార్వతి సౌందర్యాన్ని వర్ణించే కావ్యం.",
+      "theme": "theme-lalita",
+      "tags": [
+        "parvati",
+        "shakti",
+        "shankaracharya",
+        "kavya"
+      ],
+      "synonyms": [
+        "saundaryalaharī",
+        "సౌందర్యలహరీ"
+      ],
+      "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/soundaryalahari-01.svg",
+        "assets/images/soundaryalahari-02.svg"
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "స్తోత్రమ్",
+          "title_sa": "स्तोत्रम्",
+          "title_en": "stotram",
+          "file": "soundaryalahari_main.txt"
+        }
+      ]
+    },
+    {
+      "slug": "surya-siddhanta",
+      "title_te": "సూర్యసిద్ధాన్తమ్",
+      "title_sa": "सूर्यसिद्धान्तम्",
+      "title_en": "sūryasiddhāntam",
+      "description_en": "An ancient Sanskrit treatise on astronomy, comprising 14 chapters with approximately 550 shlokas.",
+      "description_te": "14 అధ్యాయాలు మరియు సుమారు 550 శ్లోకాలతో కూడిన పురాతన సంస్కృత జ్యోతిష్య గ్రంథం.",
+      "theme": "theme-surya",
+      "tags": [
+        "astronomy",
+        "jyotisha",
+        "science",
+        "siddhanta"
+      ],
+      "synonyms": [
+        "sūryasiddhāntam",
+        "సూర్యసిద్ధాన్తమ్"
+      ],
+      "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/surya-siddhanta-01.svg",
+        "assets/images/surya-siddhanta-02.svg"
+      ],
+      "chapters": [
+        {
+          "id": "chapter-01",
+          "title_te": "అధ్యాయం ౧",
+          "title_sa": "अध्यायः १",
+          "title_en": "Chapter 1 — Mean Motion of Planets",
+          "file": "chapter-1/surya-siddhanta_chapter-1.txt",
+          "shlokas": 70
+        },
+        {
+          "id": "chapter-02",
+          "title_te": "అధ్యాయం ౨",
+          "title_sa": "अध्यायः २",
+          "title_en": "Chapter 2 — True Motion of Planets",
+          "file": "chapter-2/surya-siddhanta_chapter-2.txt",
+          "shlokas": 57
+        },
+        {
+          "id": "chapter-03",
+          "title_te": "అధ్యాయం ౩",
+          "title_sa": "अध्यायः ३",
+          "title_en": "Chapter 3 — Direction, Place & Time",
+          "file": "chapter-3/surya-siddhanta_chapter-3.txt",
+          "shlokas": 66
+        },
+        {
+          "id": "chapter-04",
+          "title_te": "అధ్యాయం ౪",
+          "title_sa": "अध्यायः ४",
+          "title_en": "Chapter 4 — Lunar Eclipse",
+          "file": "chapter-4/surya-siddhanta_chapter-4.txt",
+          "shlokas": 25
+        },
+        {
+          "id": "chapter-05",
+          "title_te": "అధ్యాయం ౫",
+          "title_sa": "अध्यायः ५",
+          "title_en": "Chapter 5 — Solar Eclipse",
+          "file": "chapter-5/surya-siddhanta_chapter-5.txt",
+          "shlokas": 18
+        },
+        {
+          "id": "chapter-06",
+          "title_te": "అధ్యాయం ౬",
+          "title_sa": "अध्यायः ६",
+          "title_en": "Chapter 6 — Projection of Eclipses",
+          "file": "chapter-6/surya-siddhanta_chapter-6.txt",
+          "shlokas": 24
+        },
+        {
+          "id": "chapter-07",
+          "title_te": "అధ్యాయం ౭",
+          "title_sa": "अध्यायः ७",
+          "title_en": "Chapter 7 — Planetary Conjunctions",
+          "file": "chapter-7/surya-siddhanta_chapter-7.txt",
+          "shlokas": 20
+        },
+        {
+          "id": "chapter-08",
+          "title_te": "అధ్యాయం ౮",
+          "title_sa": "अध्यायः ८",
+          "title_en": "Chapter 8 — Stars",
+          "file": "chapter-8/surya-siddhanta_chapter-8.txt",
+          "shlokas": 23
+        },
+        {
+          "id": "chapter-09",
+          "title_te": "అధ్యాయం ౯",
+          "title_sa": "अध्यायः ९",
+          "title_en": "Chapter 9 — Risings & Settings",
+          "file": "chapter-9/surya-siddhanta_chapter-9.txt",
+          "shlokas": 19
+        },
+        {
+          "id": "chapter-10",
+          "title_te": "అధ్యాయం ౧౦",
+          "title_sa": "अध्यायः १०",
+          "title_en": "Chapter 10 — Moon's Crescent",
+          "file": "chapter-10/surya-siddhanta_chapter-10.txt",
+          "shlokas": 14
+        },
+        {
+          "id": "chapter-11",
+          "title_te": "అధ్యాయం ౧౧",
+          "title_sa": "अध्यायः ११",
+          "title_en": "Chapter 11 — Gnomonic Shadow",
+          "file": "chapter-11/surya-siddhanta_chapter-11.txt",
+          "shlokas": 20
+        },
+        {
+          "id": "chapter-12",
+          "title_te": "అధ్యాయం ౧౨",
+          "title_sa": "अध्यायः १२",
+          "title_en": "Chapter 12 — Cosmography",
+          "file": "chapter-12/surya-siddhanta_chapter-12.txt",
+          "shlokas": 86
+        },
+        {
+          "id": "chapter-13",
+          "title_te": "అధ్యాయం ౧౩",
+          "title_sa": "अध्यायः १३",
+          "title_en": "Chapter 13 — Armillary Sphere",
+          "file": "chapter-13/surya-siddhanta_chapter-13.txt",
+          "shlokas": 58
+        },
+        {
+          "id": "chapter-14",
+          "title_te": "అధ్యాయం ౧౪",
+          "title_sa": "अध्यायः १४",
+          "title_en": "Chapter 14 — Astronomical Instruments",
+          "file": "chapter-14/surya-siddhanta_chapter-14.txt",
+          "shlokas": 21
+        }
+      ]
+    },
+    {
+      "slug": "nava-graha-stotram",
+      "title_te": "నవగ్రహస్తోత్రమ్",
+      "title_sa": "नवग्रहस्तोत्रम्",
+      "title_en": "Nava Graha Stotram",
+      "description_en": "Devotional hymn to the nine planetary deities (Navagrahas) of Hindu astrology.",
+      "description_te": "హిందూ జ్యోతిష్యంలోని నవగ్రహ దేవతలకు అంకితం చేయబడిన భక్తి స్తోత్రం.",
+      "theme": "theme-surya",
+      "tags": [
+        "navagraha",
+        "sun",
+        "moon",
+        "mangala",
+        "jyotisha"
+      ],
+      "synonyms": [
+        "నవగ్రహ స్తోత్రం",
+        "nine planets stotram"
+      ],
+      "youtube_url": "",
+      "featured": true,
+      "images": [
+        "assets/images/nava-graha-stotram-01.svg"
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "నవగ్రహస్తోత్రమ్",
+          "title_en": "navagrahastotram",
+          "title_sa": "नवग्रहस्तोत्रम्",
+          "file": "nava-graha_stotram.txt"
+        }
+      ]
+    },
+    {
+      "slug": "krishna-ashtakam",
+      "title_te": "కృష్ణాష్టకమ్",
+      "title_sa": "कृष्णाष्टकम्",
+      "title_en": "krishnāṣṭakam",
+      "description_en": "Eight devotional verses in praise of Lord Krishna, describing his divine beauty and grace.",
+      "description_te": "శ్రీకృష్ణుని దివ్య సౌందర్యాన్ని మరియు కరుణను వర్ణించే ఎనిమిది భక్తి శ్లోకాలు.",
+      "theme": "theme-vishnu",
+      "tags": [
+        "krishna",
+        "ashtakam",
+        "vaishnavism"
+      ],
+      "synonyms": [
+        "కృష్ణాష్టకం",
+        "krishna ashtaka"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=Z5rE7aV5eP0",
+      "featured": true,
+      "images": [
+        "assets/images/krishna-ashtakam-01.svg"
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "కృష్ణాష్టకమ్",
+          "title_sa": "कृष्णाष्टकम्",
+          "title_en": "krishnāṣṭakam",
+          "file": "krishna-ashtakam_stotram.txt"
+        }
+      ],
+      "image_folder": "krishna-ashtakam"
+    },
+    {
+      "slug": "sarasvati-dvadasha",
+      "title_te": "సరస్వతీద్వాదశనామస్తోత్రమ్",
+      "title_sa": "सरस्वतीद्वादशनाम्स्तोत्रम्",
+      "title_en": "śrīsarasvatīdvādaśanāmastotram",
+      "description_en": "śrīsarasvatīdvādaśanāmastotram",
+      "description_te": "సరస్వతీద్వాదశనామస్తోత్రమ్",
+      "description_sa": "सरस्वतीद्वादशनाम्स्तोत्रम्",
+      "theme": "theme-vishnu",
+      "tags": [
+        "saraswati",
+        "dvadasha"
+      ],
+      "featured": true,
+      "synonyms": [],
+      "youtube_url": "https://www.youtube.com/shorts/i3esVRzrWf8",
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "సరస్వతీద్వాదశనామస్తోత్రమ్",
+          "title_sa": "सरस्वतीद्वादशनाम्स्तोत्रम्",
+          "title_en": "śrīsarasvatīdvādaśanāmastotram",
+          "file": "sarasvati-dvadasha_stotram.txt"
+        }
+      ]
+    },
+    {
+      "slug": "nataraja",
+      "title_te": "నటరాజస్తోత్రమ్",
+      "title_sa": "नटराजस्तोत्रम्",
+      "title_en": "natarājasthotram",
+      "description_en": "natarājasthotram",
+      "description_te": "నటరాజస్తోత్రమ్",
+      "description_sa": "नटराजस्तोत्रम्",
+      "theme": "theme-forest",
+      "tags": [
+        "nataraja",
+        "shiva"
+      ],
+      "synonyms": [
+        "నటరాజస్తోత్రం",
+        "nataraja"
+      ],
+      "featured": true,
+      "youtube_url": "https://www.youtube.com/watch?v=YqVflThOo0Q",
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "నటరాజస్తోత్రమ్",
+          "title_sa": "नटराजस्तोत्रम्",
+          "title_en": "natarājasthotram",
+          "file": "nataraja_stotram.txt"
+        }
+      ]
+    },
+    {
+      "slug": "nava-ratnamala",
+      "title_te": "నవరత్నమాలాస్తోత్రమ్",
+      "title_sa": "नवरत्नमालास्तोत्रम्",
+      "title_en": "navaratnamalastotram",
+      "description_en": "navaratnamalastotram",
+      "description_te": "నవరత్నమాలాస్తోత్రమ్",
+      "description_sa": "नवरत्नमालास्तोत्रम्",
+      "theme": "theme-saffron",
+      "tags": [
+        "anjaneya",
+        "hanuman",
+        "ramayana"
+      ],
+      "synonyms": [
+        "నవరత్నమాల",
+        "navaratnamala"
+      ],
+      "featured": true,
+      "youtube_url": "https://www.youtube.com/watch?v=MTvrEycJfoE",
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "నవరత్నమాలాస్తోత్రమ్",
+          "title_sa": "नवरत्नमालास्तोत्रम्",
+          "title_en": "navaratnamalastotram",
+          "file": "nava-ratnamala_stotram.txt"
+        }
+      ]
+    },
+    {
+      "slug": "kalabhairava-ashtakam",
+      "title_te": "కాలభైరవాష్టకమ్",
+      "title_sa": "कालभैरवाष्टकम्",
+      "title_en": "kalabhairavaāṣṭakam",
+      "description_en": "kalabhairavaāṣṭakam",
+      "description_te": "కాలభైరవాష్టకమ్",
+      "theme": "theme-shiva",
+      "tags": [
+        "shiva",
+        "āṣṭakam",
+        "shaivism"
+      ],
+      "synonyms": [
+        "కాలభైరవాష్టకమ్",
+        "kalabhairava ashtakam"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=-dAagMQszHo",
+      "featured": true,
+      "images": [
+        "assets/images/kalabhairava-ashtakam-01.svg"
+      ],
+      "sections": [
+        {
+          "id": "main",
+          "title_te": "కాలభైరవాష్టకమ్",
+          "title_sa": "कालभैरवाष्टकम्",
+          "title_en": "kālabhairavāṣṭakam",
+          "file": "kalabhairava-ashtakam_stotram.txt"
+        }
+      ]
+    },
+    {
+      "slug": "toTaka-ashtakam",
+      "title_te": "తోటకాష్టకమ్",
+      "title_sa": "तोटकाष्टकम्",
+      "title_en": "toṭakāṣṭakam",
+      "description_en": "The Totakastakam is a Vedic hymn composed by Adi Shankaracharya, consisting of eight verses in the Totaka meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
+      "description_te": "తోటకాష్టకమ్, ఆదిశంకరాచార్యులు రచించిన వేద స్తోత్రం, ఇది ఎనిమిది శ్లోకాలతో కూడి, భగవంతుని దివ్య గుణాలను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
+      "featured": true,
+      "theme": "theme-pearl"
+    },
+    {
+      "slug": "surya-ashtakam",
+      "title_te": "శ్రీసూర్యాష్టకమ్",
+      "title_sa": "श्रीसूर्याष्टकम्",
+      "title_en": "śrīsūryāṣṭakam",
+      "description_en": "The suryastakam is a Vedic hymn composed by Shiva, consisting of eight verses in the Totaka meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
+      "description_te": "శ్రీసూర్యాష్టకమ్, శివప్రోక్తం వేద స్తోత్రం, ఇది ఎనిమిది శ్లోకాలతో కూడి, సూర్యభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
+      "featured": true,
+      "theme": "theme-surya",
+      "images": [
+        "assets/images/surya-ashtakam-01.svg"
+      ]
+    },
+    {
+      "slug": "narayaneeyam",
+      "title_te": "శ్రీమన్నారాయణీయమ్",
+      "title_sa": "श्रीमन्नारायणीयम्",
+      "title_en": "śrīmannārāyaṇīyam",
+      "description_en": "The Narayaneeyam is a Vedic hymn composed by Narayana Bhattathiri, consisting of ten verses in the Totaka meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
+      "description_te": "శ్రీమన్నారాయణీయమ్, నారాయణ భట్టాతిరి రచించిన వేద స్తోత్రం, ఇది పది శ్లోకాలతో కూడి, నారాయణభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
+      "featured": true,
+      "theme": "theme-pearl",
+      "images": [
+        "assets/images/narayaneeyam-01.svg"
+      ]
+    },
+    {
+      "slug": "yoga-sutras-samadhi-pada",
+      "title_te": "పతంజలి యోగసూత్రాలు — సమాధిపాదః",
+      "title_sa": "पतञ्जलि योगसूत्राणि — समाधिपादः",
+      "title_en": "Patanjali Yoga Sutras — Samādhipādaḥ",
+      "tags": [
+        "yoga",
+        "philosophy",
+        "patanjali"
+      ],
+      "featured": true,
+      "theme": "theme-forest",
+      "type": "html",
+      "href": "data/stotram/yoga-sutras/samadhi-pada.html"
+    },
+    {
+      "slug": "yoga-sutras-sadhana-pada",
+      "title_te": "పతంజలి యోగసూత్రాలు — సాధనపాదః",
+      "title_sa": "पतञ्जलि योगसूत्राणि — साधनपादः",
+      "title_en": "Patanjali Yoga Sutras — Sādhanapādaḥ",
+      "tags": [
+        "yoga",
+        "philosophy",
+        "patanjali"
+      ],
+      "featured": true,
+      "theme": "theme-forest",
+      "type": "html",
+      "href": "data/stotram/yoga-sutras/sadhana-pada.html"
+    },
+    {
+      "slug": "yoga-sutras-vibhuti-pada",
+      "title_te": "పతంజలి యోగసూత్రాలు — విభూతిపాదః",
+      "title_sa": "पतञ्जलि योगसूत्राणि — विभूतिपादः",
+      "title_en": "Patanjali Yoga Sutras — Vibhūtipādaḥ",
+      "tags": [
+        "yoga",
+        "philosophy",
+        "patanjali"
+      ],
+      "featured": true,
+      "theme": "theme-forest",
+      "type": "html",
+      "href": "data/stotram/yoga-sutras/vibhuti-pada.html"
+    },
+    {
+      "slug": "yoga-sutras-kaivalya-pada",
+      "title_te": "పతంజలి యోగసూత్రాలు — కైవల్యపాదః",
+      "title_sa": "पतञ्जलि योगसूत्राणि — कैवल्यपादः",
+      "title_en": "Patanjali Yoga Sutras — Kaivalyapādaḥ",
+      "tags": [
+        "yoga",
+        "philosophy",
+        "patanjali"
+      ],
+      "featured": true,
+      "theme": "theme-forest",
+      "type": "html",
+      "href": "data/stotram/yoga-sutras/kaivalya-pada.html"
+    },
+    {
+      "slug": "manidweepa-varnana",
+      "title_te": "శ్రీమణిద్వీపవర్ణనమ్",
+      "title_sa": "श्रीमणिद्वीपवर्णनम्",
+      "title_en": "śrīmaṇidvīpavarṇanam",
+      "description_en": "A vision of Maṇidvīpa — the jewelled island realm of Goddess Lalitā Mahātripurasundarī, drawn from the Devī Bhāgavata Purāṇa (12th Skandha). Describes the gem-built palace Cintāmaṇi Gṛha, the divine Śaktis, and the cosmic Śrī Cakra in its celestial form. Traditionally recited after Lalitā Sahasranāma.",
+      "description_te": "దేవీ భాగవత పురాణం (12వ స్కంధం) నుండి తీసుకోబడిన మణిద్వీప వర్ణనమ్ — లలితా మహాత్రిపురసుందరీ దేవి నివసించే రత్నమయ ద్వీపం యొక్క వర్ణన. చింతామణి గృహం, దివ్య శక్తులు మరియు శ్రీ చక్రం యొక్క విశ్వరూపాన్ని వివరిస్తుంది. లలితా సహస్రనామం తర్వాత పారాయణ చేయడం సాంప్రదాయం.",
+      "featured": true,
+      "theme": "theme-saffron"
+    },
+    {
+      "slug": "durga-saptashloki",
+      "title_te": "శ్రీదుర్గాసప్తశ్లోకీ",
+      "title_sa": "श्रीदुर्गासप्तश्लोकी",
+      "title_en": "śrīdurgāsaptashlōkī",
+      "description_en": "Seven verses condensing the spiritual essence of the Devī Māhātmyam (Durgā Saptaśatī). Covers Durgā's cosmic form, her victories over Madhu-Kaiṭabha, Mahiṣāsura, and Śumbha-Niśumbha, and closes with a benediction for protection and liberation. Recited as a daily prayer or as an opening invocation before the full Saptaśatī.",
+      "description_te": "దేవీ మాహాత్మ్యం (దుర్గా సప్తశతి) యొక్క సారాన్ని ఏడు శ్లోకాలలో సంగ్రహించిన స్తోత్రం. దుర్గాదేవి విశ్వరూపం, మధు-కైటభ, మహిషాసుర, శుంభ-నిశుంభ వధలు మరియు రక్షణ-మోక్ష ఆశీర్వాదాలు ఇందులో ఇమిడి ఉన్నాయి. నిత్యపారాయణకు లేదా సప్తశతి పారాయణకు ముందు పఠిస్తారు.",
+      "featured": true,
+      "tags": [
+        "durga",
+        "saptashloki",
+        "markandeya"
+      ],
+      "theme": "theme-forest"
+    },
+    {
+      "slug": "aditya-hrudayam",
+      "title_te": "ఆదిత్యహృదయమ్",
+      "title_sa": "आदित्यहृदयम्",
+      "title_en": "ādityahṛdayam",
+      "description_en": "A sacred hymn sung by sage Agastya to Lord Rama during the final battle with Ravana. It consists of 31 verses praising the Sun God as the source of life, energy, and victory. Regular recitation is believed to grant courage, remove fear, and ensure success over enemies.",
+      "description_te": "రామాయణంలో (యుద్ధకాండ, సర్గ 106) రావణుడితో జరిగిన తుది యుద్ధంలో అగస్త్య మహాముని శ్రీరామునికి వినిపించిన పవిత్ర స్తోత్రం. ఇందులో 31 శ్లోకాలు సూర్య భగవానుడిని జీవానికి, శక్తికి, విజయానికి మూలంగా స్తుతిస్తాయి. నిత్య పారాయణ వలన ధైర్యం, నిర్భీతి, శత్రువులపై విజయం కలుగుతాయని నమ్మకం.",
+      "featured": true,
+      "theme": "theme-surya"
+    },
+    {
+      "slug": "sankshepa-ramayanam",
+      "title_te": "సంక్షేపరామాయణమ్",
+      "title_sa": "संक्षेपरामायणम्",
+      "title_en": "saṅkṣēparāmaṇam",
+      "description_te": "సంక్షిప్త రామాయణం, వాల్మీకి రామాయణంలోని బాలకాండ నుండి సేకరించిన సంక్షిప్త రూపం. ఈ స్తోత్రం సంకల్పంలా పనిచేస్తుంది, పారాయణ చేయడం వలన వాల్మీకి రామాయణం పూర్తి పాఠాన్ని పఠించినంత పుణ్యం లభిస్తుందని నమ్మకం. ఇందులో మొత్తం 100 శ్లోకాలు ఉన్నాయి.",
+      "description_en": "A concise version of Valmiki Ramayana, extracted from the Bala kaanda. This hymn serves as a sankalpa, promising the merit of reciting the complete Ramayana. Comprising 100 verses.",
+      "featured": true,
+      "theme": "theme-pearl"
+    },
+    {
+      "slug": "shiva-mahimna",
+      "title_te": "శివమహిమ్నఃస్తోత్రమ్",
+      "title_sa": "शिवमाहत्म्यम्",
+      "title_en": "śivamahimnaḥstotram",
+      "description_en": "The shiva mahimna is a Vedic hymn composed by Pushpa Danta, consisting of 42 verses in the Sardulvikridita meter. It is a devotional work dedicated to the deity, praising his divine attributes and seeking his blessings.",
+      "description_te": "పుష్పదన్తుడు రచించిన శివమహిమ్న స్తోత్రం, ఇది 42 శ్లోకాలతో కూడిన వేద స్తోత్రం, ఇది శివభగవానుని గుణములను స్తుతించి, ఆయన ఆశీర్వాదం పొందేందుకు భక్తులకు మార్గనిర్దేశం చేస్తుంది.",
+      "featured": true,
+      "theme": "theme-shiva"
+    },
+    {
+      "slug": "mahishasura-mardhini",
+      "title_te": "మహిషాసురమర్దినీస్తోత్రమ్",
+      "title_sa": "महिषासुरमर्दिनीस्तोत्रम्",
+      "title_en": "Mahiṣāsuramardinīstotram",
+      "description_en": "",
+      "description_te": "",
+      "featured": true,
+      "theme": "theme-forest"
+    },
+    {
+      "slug": "annapurna-ashtakam",
+      "title_te": "అన్నపూర్ణాష్టకమ్",
+      "title_sa": "अन्नपूर्णाष्टकम्",
+      "title_en": "Annapūrṇāṣṭakam",
+      "description_en": "",
+      "description_te": "",
+      "featured": true,
+      "theme": "theme-pearl"
+    },
+    {
+      "slug": "shiva-manasa-puja",
+      "title_te": "శివమానసపూజా",
+      "title_sa": "शिवमानसपूजा",
+      "title_en": "Śiva Mānasa Pūjā",
+      "tags": [
+        "shiva",
+        "shankaracharya",
+        "puja"
+      ],
+      "featured": true,
+      "theme": "blue"
+    },
+    {
+      "slug": "surya-shatakam",
+      "title_te": "సూర్యశతకమ్",
+      "title_sa": "सूर्यशतकम्",
+      "title_en": "Sūrya Śatakam",
+      "tags": [
+        "surya",
+        "kavya"
+      ],
+      "featured": true,
+      "theme": "gold"
+    },
+    {
+      "slug": "meenakshi-pancha-ratnam",
+      "title_te": "మీనాక్షీపఞ్చరత్నమ్",
+      "title_sa": "मीनाक्षीपञ्चरत्नम्",
+      "title_en": "Mīnākṣī Pañcaratnam",
+      "tags": [
+        "devi",
+        "meenakshi",
+        "5",
+        "shankaracharya",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "rose"
+    },
+    {
+      "slug": "guru-ashtakam",
+      "title_te": "గుర్వష్టకమ్",
+      "title_sa": "गुर्वष्टकम्",
+      "title_en": "Guru Aṣṭakam",
+      "tags": [
+        "guru",
+        "shankaracharya",
+        "ashtakam",
+        "8",
+        "vedanta"
+      ],
+      "featured": true,
+      "theme": "saffron"
+    },
+    {
+      "slug": "ganesha-pancha-ratnam",
+      "title_te": "గణేశపఞ్చరత్నమ్",
+      "title_sa": "गणेशपञ्चरत्नम्",
+      "title_en": "Gaṇeśa Pañcaratnam",
+      "tags": [
+        "ganesha",
+        "5",
+        "shankaracharya"
+      ],
+      "featured": true,
+      "theme": "orange"
+    },
+    {
+      "slug": "ganesha-bhujanga-stotram",
+      "title_te": "గణేశభుజఙ్గస్తోత్రమ్",
+      "title_sa": "गणेशभुजङ्गस्तोत्रम्",
+      "title_en": "Gaṇeśa Bhujaṅga Stotram",
+      "tags": [
+        "ganesha",
+        "shankaracharya"
+      ],
+      "featured": true,
+      "theme": "orange"
+    },
+    {
+      "slug": "maha-lakshmi-ashtakam",
+      "title_te": "మహాలక్ష్మ్యష్టకమ్",
+      "title_sa": "महालक्ष्म्यष्टकम्",
+      "title_en": "Mahālakṣmy Aṣṭakam",
+      "tags": [
+        "lakshmi",
+        "devi",
+        "8",
+        "ashtakam",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "gold"
+    },
+    {
+      "slug": "ashta-lakshmi-stotram",
+      "title_te": "అష్టలక్ష్మీస్తోత్రమ్",
+      "title_sa": "अष्टलक्ष्मीस्तोत्रम्",
+      "title_en": "Aṣṭalakṣmī Stotram",
+      "tags": [
+        "lakshmi",
+        "devi",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "gold"
+    },
+    {
+      "slug": "matru-panchakam",
+      "title_te": "మాతృపఞ్చకమ్",
+      "title_sa": "मातृपञ्चकम्",
+      "title_en": "Mātṛ Pañcakam",
+      "tags": [
+        "shankaracharya",
+        "5",
+        "vedanta"
+      ],
+      "featured": true,
+      "theme": "green"
+    },
+    {
+      "slug": "vishnu-panchayudha-stotram",
+      "title_te": "విష్ణుపఞ్చాయుధస్తోత్రమ్",
+      "title_sa": "विष्णुपञ्चायुधस्तोत्रम्",
+      "title_en": "Viṣṇu Pañcāyudha Stotram",
+      "tags": [
+        "vishnu",
+        "vaishnavism"
+      ],
+      "featured": true,
+      "theme": "indigo"
+    },
+    {
+      "slug": "nirvana-shatkam",
+      "title_te": "నిర్వాణషట్కమ్",
+      "title_sa": "निर्वाणषट्कम्",
+      "title_en": "Nirvāṇa Ṣaṭkam",
+      "tags": [
+        "shankaracharya",
+        "vedanta",
+        "6",
+        "advaita"
+      ],
+      "featured": true,
+      "theme": "blue"
+    },
+    {
+      "slug": "sri-rama-raksha-stotram",
+      "title_te": "శ్రీరామరక్షాస్తోత్రమ్",
+      "title_sa": "श्रीरामरक्षास्तोत्रम्",
+      "title_en": "Śrī Rāma Rakṣā Stotram",
+      "tags": [
+        "rama",
+        "vaishnava",
+        "protection"
+      ],
+      "featured": true,
+      "theme": "green"
+    },
+    {
+      "slug": "subrahmanya-bhujanga-stotram",
+      "title_te": "సుబ్రహ్మణ్యభుజఙ్గస్తోత్రమ్",
+      "title_sa": "सुब्रह्मण्यभुजङ्गस्तोत्रम्",
+      "title_en": "Subrahmaṇya Bhujaṅga Stotram",
+      "tags": [
+        "subrahmanya",
+        "murugan",
+        "shankaracharya"
+      ],
+      "featured": true,
+      "theme": "orange"
+    },
+    {
+      "slug": "ashva-dhati-stotram",
+      "title_te": "అశ్వధాటీస్తోత్రమ్",
+      "title_sa": "अश्वधाटीस्तोत्रम्",
+      "title_en": "Aśvadhāṭī Stotram",
+      "tags": [
+        "vishnu",
+        "venkateswara",
+        "kavya"
+      ],
+      "featured": true,
+      "theme": "indigo"
+    },
+    {
+      "slug": "shivananda-lahari",
+      "title_te": "శివానన్దలహరీ",
+      "title_sa": "शिवानन्दलहरी",
+      "title_en": "Śivānanda Laharī",
+      "tags": [
+        "shiva",
+        "lahari",
+        "shankaracharya"
+      ],
+      "featured": true,
+      "theme": "blue"
+    },
+    {
+      "slug": "bhartruhari-subhashitani",
+      "title_te": "భర్తృహరి సుభాషితాని",
+      "title_sa": "भर्तृहरि सुभाषितानि",
+      "title_en": "Bhartṛhari Subhāṣitāni",
+      "tags": [
+        "subhashitam",
+        "niti",
+        "philosophy",
+        "poetry"
+      ],
+      "featured": true,
+      "theme": "green"
+    },
+    {
+      "slug": "lalita-pancha-ratnam",
+      "title_te": "లలితాపఞ్చరత్నమ్",
+      "title_sa": "ललितापञ्चरत्नम्",
+      "title_en": "Lalitā Pañcaratnam",
+      "tags": [
+        "devi",
+        "lalita",
+        "5",
+        "shankaracharya",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "rose"
+    },
+    {
+      "slug": "devi-aparadha-kshama-stotram",
+      "title_te": "శ్రీదేవ్యపరాధక్షమాపణస్తోత్రమ్",
+      "title_sa": "देवी अपराधक्षमापणस्तोत्रम्",
+      "title_en": "Devī Aparādha Kṣamāpaṇa Stotram",
+      "tags": [
+        "devi",
+        "shankaracharya",
+        "shakta"
+      ],
+      "featured": true,
+      "theme": "rose"
+    },
+    {
+      "slug": "ganga-dhyanam",
+      "title_te": "గఙ్గాధ్యానమ్",
+      "title_sa": "गङ्गाध्यानम्",
+      "title_en": "Gaṅgā Dhyānam",
+      "tags": [
+        "ganga",
+        "tirtha",
+        "devi"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "hanuman-dvadasha-nama",
+      "title_te": "హనుమాన్ ద్వాదశనామస్తోత్రమ్",
+      "title_sa": "हनुमान् द्वादशनामस्तोत्रम्",
+      "title_en": "Hanumān Dvādaśa Nāma Stotram",
+      "tags": [
+        "hanuman",
+        "12",
+        "dvadasha-nama"
+      ],
+      "theme": "saffron"
+    },
+    {
+      "slug": "ganesha-shodasha-nama",
+      "title_te": "గణేశషోడశనామస్తోత్రమ్",
+      "title_sa": "गणेशषोडशनामस्तोत्रम्",
+      "title_en": "Gaṇeśa Ṣoḍaśa Nāma Stotram",
+      "tags": [
+        "ganesha",
+        "16",
+        "shodasha-nama"
+      ],
+      "theme": "orange"
+    },
+    {
+      "slug": "dvadasha-jyotirlinga-stotram",
+      "title_te": "ద్వాదశజ్యోతిర్లిఙ్గస్తోత్రమ్",
+      "title_sa": "द्वादशज्योतिर्लिङ्गस्तोत्रम्",
+      "title_en": "Dvādaśa Jyotirliṅga Stotram",
+      "tags": [
+        "shiva",
+        "12",
+        "jyotirlinga",
+        "tirtha"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "shiva-tandava-stotram",
+      "title_te": "శివతాణ్డవస్తోత్రమ్",
+      "title_sa": "शिवताण्डवस्तोत्रम्",
+      "title_en": "Śiva Tāṇḍava Stotram",
+      "tags": [
+        "shiva",
+        "ravana",
+        "kavya"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "linga-ashtakam",
+      "title_te": "లిఙ్గాష్టకమ్",
+      "title_sa": "लिङ्गाष्टकम्",
+      "title_en": "Liṅgāṣṭakam",
+      "tags": [
+        "shiva",
+        "8",
+        "linga"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "bilva-ashtakam",
+      "title_te": "బిల్వాష్టకమ్",
+      "title_sa": "बिल्वाष्टकम्",
+      "title_en": "Bilvāṣṭakam",
+      "tags": [
+        "shiva",
+        "8",
+        "bilva"
+      ],
+      "theme": "green"
+    },
+    {
+      "slug": "shiva-panchakshari-stotram",
+      "title_te": "శివపఞ్చాక్షరీస్తోత్రమ్",
+      "title_sa": "शिवपञ्चाक्षरीस्तोत्रम्",
+      "title_en": "Śiva Pañcākṣarī Stotram",
+      "tags": [
+        "shiva",
+        "shankaracharya",
+        "mantra"
+      ],
+      "theme": "blue"
+    },
+    {
+      "slug": "sankata-nashana-ganesha-stotram",
+      "title_te": "సఙ్కటనాశనగణేశస్తోత్రమ్",
+      "title_sa": "सङ्कटनाशनगणेशस्तोत्रम्",
+      "title_en": "Saṅkaṭa Nāśana Gaṇeśa Stotram",
+      "tags": [
+        "ganesha",
+        "narada"
+      ],
+      "theme": "orange"
+    },
+    {
+      "slug": "dasha-shloki",
+      "title_te": "దశశ్లోకీ",
+      "title_sa": "दशश्लोकी",
+      "title_en": "Daśa Ślokī",
+      "tags": [
+        "shankaracharya",
+        "vedanta",
+        "advaita"
+      ],
+      "theme": "saffron"
+    }
+  ]
+}

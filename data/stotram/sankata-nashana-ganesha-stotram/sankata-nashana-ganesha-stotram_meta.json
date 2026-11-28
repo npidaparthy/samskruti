@@ -1,0 +1,24 @@
+{
+  "slug": "sankata-nashana-ganesha-stotram",
+  "title_te": "సఙ్కటనాశనగణేశస్తోత్రమ్",
+  "title_sa": "सङ्कटनाशनगणेशस्तोत्रम्",
+  "title_en": "Saṅkaṭanāśanagaṇeśastotram",
+  "description_en": "A stotram attributed to the sage Nārada, listing twelve names of Gaṇeśa that destroy all troubles and hardships (saṅkaṭa). Reciting this on Tuesdays and the fourth lunar day (Chaturthi) is said to remove obstacles, illness, and misfortune. Popular across Maharashtra and South India for crisis prayers.",
+  "description_te": "నారద మహర్షికి ఆపాదించిన సఙ్కటనాశన గణేశ స్తోత్రం. గణేశుని పన్నెండు నామాలను కీర్తించి కష్టాలు, అడ్డంకులు మరియు వ్యాధులు తొలగిపోతాయని వివరిస్తుంది. మంగళవారాలు మరియు చతుర్థి రోజులలో పఠిస్తారు.",
+  "description_sa": "नारदमुनिकृतं गणेशस्य द्वादशनामसंकटनाशनस्तोत्रम्। मङ्गलवारे चतुर्थ्यां च पारायणेन विघ्नरोगदुर्भाग्यनाशो भवतीति विश्वासः।",
+  "theme": "orange",
+  "tags": [
+    "ganesha",
+    "narada"
+  ],
+  "featured": false,
+  "sections": [
+    {
+      "id": "main",
+      "title_te": "సఙ్కటనాశనగణేశస్తోత్రమ్",
+      "title_sa": "सङ्कटनाशनगणेशस्तोत्रम्",
+      "title_en": "Saṅkaṭanāśanagaṇeśastotram",
+      "file": "sankata-nashana-ganesha-stotram.txt"
+    }
+  ]
+}

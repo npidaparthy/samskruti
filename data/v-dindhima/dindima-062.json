@@ -1,0 +1,35 @@
+{
+  "id": "dindima-062",
+  "tags": [
+    "dindima",
+    "jiva-brahma-abheda-satta",
+    "mana"
+  ],
+  "shlokam": {
+    "te": "న జీవబ్రహ్మణోర్భేదః సత్తారూపేణ విద్యతే ।\nసత్తాభేదే న మానం స్యాదితి వేదాన్తడిణ్డిమః ॥ ౬౨ ॥",
+    "sa": "न जीवब्रह्मणोर्भेदः सत्तारूपेण विद्यते ।\nसत्ताभेदे न मानं स्यादिति वेदान्तडिण्डिमः ॥ ६२ ॥",
+    "iast": "na jīvabrahmaṇorbhedaḥ sattārūpeṇa vidyate ।\nsattābhede na mānaṃ syāditi vedāntaḍiṇḍimaḥ ॥ 62 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 62"
+  },
+  "padavibhagam": {
+    "te": "న | జీవబ్రహ్మణోః | భేదః | సత్తారూపేణ | విద్యతే | సత్తాభేదే | న | మానమ్ | స్యాత్ | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "na | jīvabrahmaṇoḥ | bhedaḥ | sattārūpeṇa | vidyate | sattābhede | na | mānam | syāt | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "జీవబ్రహ్మణోః సత్తారూపేణ భేదః న విద్యతే; సత్తాభేదే మానం న స్యాత్ — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Jīvabrahmaṇoḥ sattārūpeṇa bhedaḥ na vidyate (no difference exists between the individual and Brahman with respect to existence); sattābhede mānaṃ na syāt (no proof exists for a difference in existence) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "జీవుడికీ బ్రహ్మానికీ ఉనికి రూపంలో భేదం లేదు. ఆ భేదానికి ఏ ప్రమాణమూ లేదు — ఇది వేదాంతడిండిమం.",
+    "en": "There is no difference between the individual and Brahman with respect to existence. No proof can be given for such a difference. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "57వ శ్లోకంలో దేహకోశాల సత్తనూ, భూతాల సత్తనూ ఏకం చేసిన అదే తర్కాన్ని, ఇక్కడ నేరుగా జీవబ్రహ్మైక్యానికి అన్వయిస్తుంది. ఇది గ్రంథం మొత్తానికి పునాదిగా నిలిచిన సూత్రాన్ని (జీవుడు బ్రహ్మమే) కొత్త కోణం నుండి పునరుద్ఘాటిస్తుంది — ఈసారి ప్రమాణశాస్త్ర దృక్కోణం నుండి. ఏదైనా భేదాన్ని నిరూపించాలంటే దానికి ఆధారమైన ప్రమాణం (ప్రత్యక్షం, అనుమానం, శబ్దం) ఉండాలి; జీవబ్రహ్మల ఉనికిలో అలాంటి భేదాన్ని చూపే ప్రమాణం ఏదీ లేదు కనుక, ఆ భేదం కేవలం భ్రమ మాత్రమేనని ఈ శ్లోకం నిర్ధారిస్తుంది. 62-66 శ్లోకాలు ఇదే తర్కాన్ని వేర్వేరు లక్షణాలకు వర్తింపజేస్తాయి.",
+    "en": "Applying the same logic used in verse 57 to unify the existence of the body's sheaths and the elements, this verse now directly applies it to the unity of jiva and Brahman. It reaffirms the work's foundational axiom — the individual is Brahman — from a fresh angle, this time from the standpoint of epistemology. To establish any difference, one needs supporting proof (perception, inference, testimony); since no such proof exists for a difference in the existence of jiva and Brahman, this verse concludes that the perceived difference is mere illusion. Verses 62–66 apply this same logic to different qualities in turn."
+  }
+}

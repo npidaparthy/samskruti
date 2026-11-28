@@ -1,0 +1,40 @@
+{
+  "id": "seva-035",
+  "tags": [
+    "seva",
+    "brahmana-karma"
+  ],
+  "shlokam": {
+    "te": "శమో దమస్తపః శౌచం క్షాన్తిరార్జవమేవ చ ।\nజ్ఞానం విజ్ఞానమాస్తిక్యం బ్రహ్మకర్మ స్వభావజమ్ ॥",
+    "sa": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च ।\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ॥",
+    "iast": "śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca ।\njñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (మోక్షసంన్యాసయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Mokṣa Sannyāsa Yoga)",
+    "chapter": "18.42",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "శమః | దమః | తపః | శౌచమ్ | క్షాన్తిః | ఆర్జవమ్ | ఏవ | చ | జ్ఞానమ్ | విజ్ఞానమ్ | ఆస్తిక్యమ్ | బ్రహ్మకర్మ | స్వభావజమ్",
+    "en": "śamaḥ | damaḥ | tapaḥ | śaucam | kṣāntiḥ | ārjavam | eva | ca | jñānam | vijñānam | āstikyam | brahmakarma | svabhāvajam"
+  },
+  "anvayam": {
+    "te": "శమః, దమః, తపః, శౌచమ్, క్షాన్తిః, ఆర్జవమ్ ఏవ చ, జ్ఞానమ్, విజ్ఞానమ్, ఆస్తిక్యమ్ — (ఇతి) బ్రహ్మకర్మ స్వభావజమ్.",
+    "en": "Śamaḥ (calmness of mind), damaḥ (self-control), tapaḥ (austerity), śaucam (purity), kṣāntiḥ (forbearance), ārjavam eva ca (and uprightness), jñānam (knowledge), vijñānam (discernment), āstikyam (faith) — this brahmakarma (the duty befitting a brahmana) is born of one's own nature."
+  },
+  "meaning": {
+    "te": "మనశ్శాంతి, ఇంద్రియనిగ్రహం, తపస్సు, శుచిత్వం, క్షమ, సరళత్వం, జ్ఞానం, విజ్ఞానం, ఆస్తిక్యం — ఇవి స్వభావసిద్ధమైన బ్రాహ్మణధర్మం.",
+    "en": "Calmness, self-control, austerity, purity, forbearance, uprightness, knowledge, discernment, and faith — this, born of one's own nature, is the duty of one inclined toward learning and reflection."
+  },
+  "tatparyam": {
+    "te": "గుణకర్మవిభాగాన్ని వివరించే గీత చివరి అధ్యాయంలో బ్రాహ్మణస్వభావ లక్షణాలను ఏకరువు పెట్టే శ్లోకం ఇది. ఇక్కడ 'బ్రాహ్మణుడు' అంటే జన్మతః వచ్చే హోదా కాదు — తొమ్మిది గుణాలతో నిర్వచించబడిన స్వభావం. ఈ గుణాలన్నీ అంతర్గత క్రమశిక్షణకు సంబంధించినవే — శమదమాలు మనోనిగ్రహం, తపశ్శౌచాలు ఆత్మశుద్ధి, క్షాంత్యార్జవాలు స్వభావమాధుర్యం, జ్ఞానవిజ్ఞానాస్తిక్యాలు బుద్ధిపరిపక్వత. జాతిని కాక గుణాన్ని ప్రమాణంగా తీసుకునే ఈ నిర్వచనం, వర్ణధర్మాన్ని కేవలం జన్మాధారితంగా కాక స్వభావాధారితంగా అర్థం చేసుకోవాలని సూచిస్తుంది.",
+    "en": "In the Gita's final chapter describing the division of duties by nature and quality, this verse lists the traits of the brahmana temperament. Here 'brahmana' does not mean a status conferred by birth — it is a nature defined by nine qualities. All these qualities concern inner discipline — sama and dama are mastery of mind, tapas and shaucha are inner purification, kshanti and arjava are gentleness of nature, jnana, vijnana, and astikya are maturity of intellect. This definition, taking quality rather than birth as its measure, suggests that varna-dharma is to be understood as rooted in nature, not merely in lineage."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}

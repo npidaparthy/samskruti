@@ -1,0 +1,35 @@
+{
+  "id": "dindima-030",
+  "tags": [
+    "dindima",
+    "drg-drshya",
+    "maya"
+  ],
+  "shlokam": {
+    "te": "దృగ్దృశ్యౌ ద్వౌ పదార్థౌ తౌ పరస్పరవిలక్షణౌ ।\nదృగ్బ్రహ్మ దృశ్యం మాయా స్యాదితి వేదాన్తడిణ్డిమః ॥ ౩౦ ॥",
+    "sa": "दृग्दृश्यौ द्वौ पदार्थौ तौ परस्परविलक्षणौ ।\nदृग्ब्रह्म दृश्यं माया स्यादिति वेदान्तडिण्डिमः ॥ ३० ॥",
+    "iast": "dṛgdṛśyau dvau padārthau tau parasparavilakṣaṇau ।\ndṛgbrahma dṛśyaṃ māyā syāditi vedāntaḍiṇḍimaḥ ॥ 30 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 30"
+  },
+  "padavibhagam": {
+    "te": "దృగ్దృశ్యౌ | ద్వౌ | పదార్థౌ | తౌ | పరస్పరవిలక్షణౌ | దృక్ | బ్రహ్మ | దృశ్యమ్ | మాయా | స్యాత్ | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "dṛgdṛśyau | dvau | padārthau | tau | parasparavilakṣaṇau | dṛk | brahma | dṛśyam | māyā | syāt | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "దృగ్దృశ్యౌ ద్వౌ పదార్థౌ, తౌ పరస్పరవిలక్షణౌ; దృక్ బ్రహ్మ, దృశ్యం మాయా స్యాత్ — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Dṛgdṛśyau dvau padārthau (the seer and the seen are two categories), tau parasparavilakṣaṇau (mutually distinct in nature); dṛk brahma (the seer is Brahman), dṛśyaṃ māyā syāt (the seen is māyā) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "ద్రష్ట, దృశ్యం అని రెండు పదార్థాలు — పరస్పర భిన్నమైనవి. ద్రష్ట బ్రహ్మం, దృశ్యం మాయ — ఇది వేదాంతడిండిమం.",
+    "en": "The seer and the seen are two categories, mutually distinct in nature. The seer is Brahman; the seen is māyā. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "ఇక్కడి నుండి గ్రంథం మాయాతత్త్వాన్ని విశదీకరించే విభాగంలోకి ప్రవేశిస్తుంది. ద్రష్టదృశ్యవిచారం అద్వైతవేదాంతంలో అత్యంత ప్రాచీనమైన, శక్తిమంతమైన విశ్లేషణాపద్ధతుల్లో ఒకటి — దేనినైనా చూసేవాడు ఆ దృశ్యం నుండి భిన్నుడని, చూసేవాడు ఎప్పుడూ చూడబడేదాని కన్నా ఎక్కువ అని. ఈ తర్కాన్ని పొడిగిస్తూ, కళ్ళను చూసే మనసు, మనసును చూసే బుద్ధి, బుద్ధిని చూసే సాక్షి చైతన్యం వరకూ వెళ్తే, చివరకు మిగిలేది ఎప్పటికీ 'చూడబడని ద్రష్ట' — అదే బ్రహ్మం. మిగిలినదంతా, ఎంత సూక్ష్మమైనదైనా, దృశ్యమే — మాయ యొక్క పరిధిలోనిదే.",
+    "en": "From here the work enters a section elaborating the nature of māyā. The seer-seen analysis is one of the oldest and most powerful analytical methods in Advaita Vedanta — anyone who sees something is distinct from what is seen, and the seer is always greater than what is seen. Extending this logic — the mind that sees the eyes, the intellect that sees the mind, the witness-consciousness that sees the intellect — what finally remains is the 'seer that is never seen' — and that is Brahman. Everything else, however subtle, remains within the realm of the seen — within the scope of māyā."
+  }
+}

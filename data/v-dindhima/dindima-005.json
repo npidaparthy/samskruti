@@ -1,0 +1,35 @@
+{
+  "id": "dindima-005",
+  "tags": [
+    "dindima",
+    "sukha-duhkha",
+    "brahman-jagat"
+  ],
+  "shlokam": {
+    "te": "సుఖదుఃఖపదార్థౌ ద్వౌ ప్రియవిప్రియకారకౌ ।\nసుఖం బ్రహ్మ జగద్దుఃఖమితి వేదాన్తడిణ్డిమః ॥ ౫ ॥",
+    "sa": "सुखदुःखपदार्थौ द्वौ प्रियविप्रियकारकौ ।\nसुखं ब्रह्म जगद्दुःखमिति वेदान्तडिण्डिमः ॥ ५ ॥",
+    "iast": "sukhaduḥkhapadārthau dvau priyavipriyakārakau ।\nsukhaṃ brahma jagadduḥkhamiti vedāntaḍiṇḍimaḥ ॥ 5 ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "వేదాన్తడిణ్డిమః",
+    "name_en": "Vedanta Dindimah",
+    "chapter": "verse 5"
+  },
+  "padavibhagam": {
+    "te": "సుఖదుఃఖపదార్థౌ | ద్వౌ | ప్రియవిప్రియకారకౌ | సుఖమ్ | బ్రహ్మ | జగత్ | దుఃఖమ్ | ఇతి | వేదాన్తడిణ్డిమః",
+    "en": "sukhaduḥkhapadārthau | dvau | priyavipriyakārakau | sukham | brahma | jagat | duḥkham | iti | vedāntaḍiṇḍimaḥ"
+  },
+  "anvayam": {
+    "te": "సుఖదుఃఖపదార్థౌ ద్వౌ, ప్రియవిప్రియకారకౌ; సుఖం బ్రహ్మ, జగత్ దుఃఖమ్ — ఇతి వేదాన్తడిణ్డిమః.",
+    "en": "Sukhaduḥkhapadārthau dvau (joy and sorrow are two categories), priyavipriyakārakau (causing what is pleasant and unpleasant respectively); sukhaṃ brahma (joy is Brahman), jagat duḥkham (the universe is sorrow) — iti vedāntaḍiṇḍimaḥ (thus proclaims the drumbeat of Vedanta)."
+  },
+  "meaning": {
+    "te": "సుఖం, దుఃఖం అని రెండు పదార్థాలు — ప్రియమైనది, అప్రియమైనది కలిగించేవి. సుఖం బ్రహ్మమే; జగత్తు దుఃఖమే — ఇది వేదాంతడిండిమం.",
+    "en": "Joy and sorrow are two categories — one bringing what is pleasant, the other what is unpleasant. Joy is Brahman itself; the universe is sorrow. This is the drumbeat of Vedanta."
+  },
+  "tatparyam": {
+    "te": "ఈ శ్లోకం మొదటిచూపుకు కఠినంగా అనిపించవచ్చు — జగత్తును 'దుఃఖం'గా చెప్పడం. కానీ ఇక్కడి భావం జగత్తులోని ప్రతి క్షణమూ బాధాకరమని కాదు; జగత్తు అనుభవం ఎప్పుడూ మార్పుకు లోబడి ఉంటుంది కనుక, ఎంత సుఖంగా అనిపించినా అది శాశ్వతం కాదు, అందుకే అంతిమంగా అసంతృప్తికే దారితీస్తుంది. దీనికి వ్యతిరేకంగా బ్రహ్మానుభవం మార్పులేనిది, కనుక అది నిత్యమైన సుఖం. లౌకికసుఖాలను పూర్తిగా తిరస్కరించమని కాదు, వాటి అశాశ్వతత్వాన్ని గుర్తించి శాశ్వతమైనదానివైపు దృష్టి మళ్ళించమని ఈ శ్లోకం సూచిస్తుంది.",
+    "en": "This verse can sound harsh at first glance — calling the universe 'sorrow'. But the meaning here is not that every moment of worldly life is painful; rather, worldly experience is always subject to change, so however pleasant it may feel, it is never permanent, and this impermanence ultimately leads to dissatisfaction. Against this, the experience of Brahman is changeless, and so it is everlasting joy. This is not a total rejection of worldly pleasure — it is a call to recognise its transience and turn one's gaze toward what endures."
+  }
+}

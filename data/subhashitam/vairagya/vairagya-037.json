@@ -1,0 +1,40 @@
+{
+  "id": "vairagya-037",
+  "tags": [
+    "vairagya",
+    "trigunatita"
+  ],
+  "shlokam": {
+    "te": "నాన్యం గుణేభ్యః కర్తారం యదా ద్రష్టానుపశ్యతి ।\nగుణేభ్యశ్చ పరం వేత్తి మద్భావం సోఽధిగచ్ఛతి ॥",
+    "sa": "नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति ।\nगुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति ॥",
+    "iast": "nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati ।\nguṇebhyaśca paraṃ vetti madbhāvaṃ so'dhigacchati ॥"
+  },
+  "chandaH": "అనుష్టుప్ (Anuṣṭup) — 8 syllables per quarter, 4 quarters",
+  "granthaH": {
+    "name_te": "శ్రీమద్భగవద్గీత (గుణత్రయవిభాగయోగము)",
+    "name_en": "Srimad Bhagavad Gita (Guṇatraya Vibhāga Yoga)",
+    "chapter": "14.19",
+    "grantha": "Bhagavad Gītā",
+    "grantha_te": "శ్రీమద్భగవద్గీతా",
+    "grantha_sa": "श्रीमद्भगवद्गीता"
+  },
+  "padavibhagam": {
+    "te": "న | అన్యమ్ | గుణేభ్యః | కర్తారమ్ | యదా | ద్రష్టా | అనుపశ్యతి | గుణేభ్యః | చ | పరమ్ | వేత్తి | మద్భావమ్ | సః | అధిగచ్ఛతి",
+    "en": "na | anyam | guṇebhyaḥ | kartāram | yadā | draṣṭā | anupaśyati | guṇebhyaḥ | ca | param | vetti | madbhāvam | saḥ | adhigacchati"
+  },
+  "anvayam": {
+    "te": "యదా ద్రష్టా గుణేభ్యః అన్యం కర్తారం న అనుపశ్యతి, గుణేభ్యః చ పరం (ఆత్మానం) వేత్తి, సః మద్భావం అధిగచ్ఛతి.",
+    "en": "Yadā draṣṭā (when the seer/witness) guṇebhyaḥ anyaṃ kartāraṃ na anupaśyati (perceives no doer other than the gunas), guṇebhyaḥ ca paraṃ vetti (and knows the Self as beyond the gunas), saḥ madbhāvam adhigacchati (he attains my state of being)."
+  },
+  "meaning": {
+    "te": "గుణాలకు అతీతంగా వేరే కర్తను చూడకుండా, గుణాలకు మించిన తత్త్వాన్ని (ఆత్మను) తెలుసుకున్న ద్రష్ట నా భావాన్ని (సాన్నిధ్యాన్ని) పొందుతాడు.",
+    "en": "When the witness sees no doer other than the play of the gunas, and knows the Self as beyond the gunas, he attains my very state of being."
+  },
+  "tatparyam": {
+    "te": "గుణాతీతస్థితికి చేరే మార్గాన్ని స్పష్టం చేసే శ్లోకం — ఇది రెండు అవగాహనలపై ఆధారపడి ఉంది. మొదటిది, ప్రతి కర్మనూ మూడు గుణాల ఆటగా చూడటం — 'నేను చేస్తున్నాను' అనే భ్రమను వదలడం. రెండోది, ఆత్మ ఆ గుణాల ఆటకు అతీతమైనదని తెలుసుకోవడం. ఈ రెండు దృష్టులూ ఏకమైనప్పుడు మనిషి భగవత్స్వరూపాన్నే పొందుతాడని కృష్ణుడు ప్రకటించడం — వ్యక్తిగత ఆత్మసాక్షాత్కారానికీ, భగవత్సాన్నిహిత్యానికీ మధ్య అంతరం లేదని చాటే గంభీరమైన వేదాంతసూత్రం.",
+    "en": "A verse that clarifies the path to transcending the gunas — resting on two realisations. First, seeing every action as the play of the three gunas, dropping the illusion 'I am doing this.' Second, knowing the Self as beyond that play of the gunas altogether. When these two insights become one, Krishna declares, a person attains the very state of being of the divine — a profound Vedantic principle showing there is no distance between personal self-realisation and divine closeness."
+  },
+  "chanda_key": "anushtubh",
+  "chanda_sa": "अनुष्टुप्",
+  "chanda_te": "అనుష్టుప్"
+}
